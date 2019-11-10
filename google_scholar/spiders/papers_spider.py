@@ -75,8 +75,9 @@ class GSSpider(scrapy.Spider):
 
             papers.append(paper)
 
+        data_folder = os.path.join(os.path.dirname(__file__), '..\\..\\data\\')
         # Create a filename
-        file_user_papers = 'papers-of-user-%s.csv' % user
+        file_user_papers = '%spapers-of-user-%s.csv' % (data_folder, user)
         # Write list of papers to csv file
         keys = papers[0].keys()
         with open(file_user_papers, 'w', encoding='utf-8', newline='') as output_file:
