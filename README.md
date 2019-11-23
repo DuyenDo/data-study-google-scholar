@@ -21,6 +21,8 @@
 - Spiders: `google_scholar/spiders`
 > -	Get list of papers given user URLs
 		```google_scholar/spiders/papers_spider.py```
+> - Get list of papers which cited the given paper
+		```google_scholar/spiders/citations_spider.py```
 
 - Run: ```$python3 google_scholar/runner.py```
 
