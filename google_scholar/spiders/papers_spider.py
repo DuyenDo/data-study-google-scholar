@@ -68,7 +68,7 @@ class GSSpider(scrapy.Spider):
                 'Title': title,
                 'Authors': authors,
                 'Conference': conference,
-                'Cited_urls': cited_url,
+                'Cited_url': cited_url,
                 'Cited_count': cited_count,
                 'Year': year
             }
