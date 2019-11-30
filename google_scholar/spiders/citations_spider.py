@@ -10,7 +10,9 @@ class GSSpider(scrapy.Spider):
     def start_requests(self):
         # Citations of a paper
         urls = [
-            'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=12738890041914893444'
+            # 'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=12738890041914893444',
+            # 'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=1875949425317415066,10756395575275702022',
+            'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=17504880868992847356'
         ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -43,7 +45,7 @@ class GSSpider(scrapy.Spider):
                 self.driver.find_element_by_xpath("//div[@id='gs_n']//td[@align='left']/a").click()
 
                 # Wait 3 seconds for loading page before next click
-                self.driver.implicitly_wait(10)
+                self.driver.implicitly_wait(60)
 
                 # Create a variable for response from webdriver
                 next_page_response = TextResponse(url=self.driver.current_url, body=self.driver.page_source, encoding='utf-8')
