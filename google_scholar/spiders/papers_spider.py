@@ -63,6 +63,11 @@ class GSSpider(scrapy.Spider):
             cited_count = row.xpath(".//td[@class='gsc_a_c']/a/text()").get()
             year = row.xpath(".//td[@class='gsc_a_y']/span/text()").get()
 
+            # To avoid column errors when reading files, replace ',' in strings to ';'. The columns will be seperated by ','
+            title = title.strip(' \t\n\r').replace(',', ';') if title is not None else ''
+            authors = authors.strip(' \t\n\r').replace(',', ';') if authors is not None else ''
+            conference = conference.strip(' \t\n\r').replace(',', ';') if conference is not None else ''
+
             # Create a dictionary for each paper
             paper = {
                 'Title': title,
