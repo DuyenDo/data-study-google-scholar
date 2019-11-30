@@ -73,13 +73,15 @@ class GSSpider(scrapy.Spider):
         rows = page_response.xpath("//div[@id='gs_res_ccl_mid']//div[@class='gs_ri']")
 
         # In each citation, get title of the paper, id of authors, name of authors
+        # To avoid column errors when reading files, replace ',' in strings to ';'. The columns will be seperated by ','
         for row in rows:
             title_list = row.xpath(".//h3[@class='gs_rt']//text()").getall()
-            title_str = "%s" % ' '.join(title_list)
+            title_str = ",".join(title_list).strip(' \t\n\r').replace(',', ';')
             author_ids_list = row.xpath(".//div[@class='gs_a']/a/@href").getall()
-            author_ids_str = ",".join([author_id.split("user=")[1].split("&")[0] for author_id in author_ids_list])
+            author_ids_str = ",".join([author_id.split("user=")[1].split("&")[0] for author_id in author_ids_list])\
+                                .strip(' \t\n\r').replace(',', ';')
             author_name_list = row.xpath(".//div[@class='gs_a']/a/text()").getall()
-            author_name_str = ",".join(author_name_list)
+            author_name_str = ",".join(author_name_list).strip(' \t\n\r').replace(',', ';')
             cited_url = row.xpath(".//div[@class='gs_fl']/a[contains(text(),'Cited by')]/@href").get()
 
             # Create a dictionary for each paper
