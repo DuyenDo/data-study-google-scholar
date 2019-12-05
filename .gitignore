@@ -123,3 +123,6 @@ dmypy.json
 
 # Ignore files in data
 data/
+
+# Ignore executables in libs
+libs/
