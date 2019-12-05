@@ -121,8 +121,10 @@ dmypy.json
 # End of https://www.gitignore.io/api/python,visualstudiocode
 .vscode
 
-# Ignore files in data
+# Ignore files in data, but keep the folder
 data/
+!data/.keep
 
-# Ignore executables in libs
+# Ignore executables in libs, but keep the folder
 libs/
+!libs/.keep
