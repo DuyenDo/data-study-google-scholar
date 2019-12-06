@@ -8,7 +8,7 @@ try:
         [
             'scrapy',
             'crawl',
-            'citations'
+            'papers_summary'
         ]
     )
 except SystemExit:
