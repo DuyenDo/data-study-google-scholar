@@ -13,14 +13,14 @@ class GSSpider(scrapy.Spider):
 
     def start_requests(self):
         # Scholar-URL of the concern user
-        url = 'https://scholar.google.com/citations?user=WVLr6NYAAAAJ&hl=en'
+        url = "https://scholar.google.com/citations?user=" + self.id + "&hl=en"
 
         # Do the scraping
         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
         # Create a webdriver (Ubuntu, Chrome 78)
-        # Point the driver to the URL
+        # Use the driver to open the URL
         chromedriver_path = os.path.join(os.path.dirname(__file__),
                                          '../../libs/chromedriver')
         self.driver = webdriver.Chrome(chromedriver_path)
@@ -48,9 +48,7 @@ class GSSpider(scrapy.Spider):
                 break
 
         # CREATE the papers_summary list
-        # Start with the user_id, get from URL
-        user_id = response.url.split("user=")[1].split("&")[0]
-        papers_summary = [user_id]
+        papers_summary = []
 
         # Get all rows in the papers-table of the webpage
         # Each row represent a paper
@@ -60,21 +58,22 @@ class GSSpider(scrapy.Spider):
 
         # For each paper, get:
         # + title,
-        # + paper_id for full-info
+        # + platform published
         # + citations count
         for row in rows:
             title = row.xpath(".//td[@class='gsc_a_t']/a/text()").get()
 
-            raw_url = row.xpath(".//td[@class='gsc_a_t']/a/@data-href").get()
-            paper_id = raw_url.split("citation_for_view=")[1]
+            platform = row.xpath(".//td[@class='gsc_a_t']/div[2]/text()").get()
+            if platform is None:
+                platform = ""
 
-            citations_count = row.xpath(".//td[@class='gsc_a_c']/a/text()")\
-                                 .get()
+            citations = row.xpath(".//td[@class='gsc_a_c']/a/text()").get()
+            citations_count = 0 if citations is None else int(citations)
 
             # Create a dictionary for each paper
             paper = {
                 'Title': title,
-                'PaperID': paper_id,
+                'Platform': platform,
                 'Citations': citations_count
             }
 
@@ -83,7 +82,7 @@ class GSSpider(scrapy.Spider):
 
         # SAVE the papers_summary list to a pickle file
         data_folder = os.path.join(os.path.dirname(__file__), '../../data/')
-        filename = "{}{}.pkl".format(data_folder, user_id)
 
+        filename = "{}{}.pkl".format(data_folder, self.id)
         with open(filename, "wb") as file:
             pickle.dump(papers_summary, file)
