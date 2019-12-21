@@ -3,6 +3,11 @@ from scrapy.http import TextResponse
 from selenium import webdriver
 import os
 import csv
+import logging
+
+logging.basicConfig(filename=os.path.join(os.path.dirname(__file__), '..\\..\\logs\\citations.log'),\
+                    level=logging.ERROR)
+logger = logging.getLogger(__name__)
 
 class GSSpider(scrapy.Spider):
     name = "citations"
@@ -27,6 +32,9 @@ class GSSpider(scrapy.Spider):
         # Get citationsId from citation URL
         citation_id = response.url.split("cites=")[1].replace(",", "_")
 
+        # Tracking the current url
+        current_url = response.url
+
         # Create a list of papers which cited the orginal paper
         cited_by_list = []
 
@@ -44,7 +52,7 @@ class GSSpider(scrapy.Spider):
                 # Find button 'Next' when it is not hidden
                 self.driver.find_element_by_xpath("//div[@id='gs_n']//td[@align='left']/a").click()
 
-                # Wait 3 seconds for loading page before next click
+                # Wait 60 seconds for loading page before next click
                 self.driver.implicitly_wait(60)
 
                 # Create a variable for response from webdriver
@@ -52,8 +60,11 @@ class GSSpider(scrapy.Spider):
 
                 self.parse_one_page(next_page_response, cited_by_list)
 
+                current_url = self.driver.current_url
+
             except Exception as e: 
-                print(e)
+                logger.error(e)
+                logger.error(current_url)
 
                 # Close webdriver
                 self.driver.close()

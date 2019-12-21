@@ -17,20 +17,15 @@ class GSSpider(scrapy.Spider):
         dataframe['AuthorID'] = 'https://scholar.google.com/citations?hl=en&user=' + dataframe['AuthorID'].astype(str)
         urls = dataframe['AuthorID'].to_list()[169:500]
 
-        # # URLs of users
-        # urls = [
-        #     # "https://scholar.google.com/citations?hl=en&user=WJPjaDgAAAAJ",
-        #     # "https://scholar.google.com/citations?hl=en&user=YMfR1SIAAAAJ",
-        # ]
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
 
-        # Path to chromedriver.exe
         chromedriver_path = os.path.join(os.path.dirname(__file__), '..\\..\\libs\\chromedriver.exe')
-        # Create a webdriver
-        self.driver = webdriver.Chrome(chromedriver_path)
+        op = webdriver.ChromeOptions()
+        op.add_argument('headless')
+        self.driver = webdriver.Chrome(executable_path=chromedriver_path, options=op)
         self.driver.implicitly_wait(60)
         
         # Get userId from user's URL
