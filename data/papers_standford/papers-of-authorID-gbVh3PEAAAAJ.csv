@@ -1,0 +1,217 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Light field rendering,"M Levoy, P Hanrahan",Proceedings of the 23rd annual conference on Computer graphics and …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14296166925554874381,8527696001885362777",4607,1996
+Efficient variants of the ICP algorithm.,"S Rusinkiewicz, M Levoy","3dim 1, 145-152",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5754548866126239212,3969,2001
+Display of surfaces from volume data,M Levoy,"IEEE Computer graphics and Applications 8 (3), 29-37","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2606634298607369072,387373401565499999",3843,1988
+A volumetric method for building complex models from range images,"B Curless, M Levoy",CUMINCAD,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6165564474810414243,3012,1996
+The digital Michelangelo project: 3D scanning of large statues,"M Levoy, K Pulli, B Curless, S Rusinkiewicz, D Koller, L Pereira, ...",Proceedings of the 27th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17485620218467802418,2360,2000
+Light field photography with a hand-held plenoptic camera,"R Ng, M Levoy, M Brédif, G Duval, M Horowitz, P Hanrahan","Computer Science Technical Report CSTR 2 (11), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13481310972478505769,2125,2005
+Fast texture synthesis using tree-structured vector quantization,"LY Wei, M Levoy",Proceedings of the 27th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2236532667845925361,1859,2000
+Zippered polygon meshes from range images,"G Turk, M Levoy",Proceedings of the 21st annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12043748386728903146,1766,1994
+Fast volume rendering using a shear-warp factorization of the viewing transformation,"P Lacroute, M Levoy",Proceedings of the 21st annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8405819029759602948,1721,1994
+Efficient ray tracing of volume data,M Levoy,"ACM Transactions on Graphics (TOG) 9 (3), 245-261",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2057338724951252311,1565,1990
+QSplat: A multiresolution point rendering system for large meshes,"S Rusinkiewicz, M Levoy",Proceedings of the 27th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13289130085181319111,1516,2000
+High performance imaging using large camera arrays,"B Wilburn, N Joshi, V Vaish, EV Talvala, E Antunez, A Barth, A Adams, ...","ACM Transactions on Graphics (TOG) 24 (3), 765-776",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12360404969222519181,1092,2005
+A practical model for subsurface light transport,"HW Jensen, SR Marschner, M Levoy, P Hanrahan",Proceedings of the 28th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15774324685083672540,1055,2001
+Feeling and seeing: issues in force display,"M Minsky, O Ming, O Steele, FP Brooks Jr, M Behensky","ACM SIGGRAPH Computer Graphics 24 (2), 235-241","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3127392080890656948,9682204264073555776",1019,1990
+Real-time 3D model acquisition,"S Rusinkiewicz, O Hall-Holt, M Levoy","ACM Transactions on Graphics (TOG) 21 (3), 438-446",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2392543404618631270,851,2002
+Light field microscopy,"M Levoy, R Ng, A Adams, M Footer, M Horowitz","ACM Transactions on Graphics (TOG) 25 (3), 924-934",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16859187392504034249,751,2006
+Fitting smooth surfaces to dense polygon meshes,"V Krishnamurthy, M Levoy","SIGGRAPH 96, 313-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9879471493279782071,653,1996
+The use of points as a display primitive,"M Levoy, T Whitted","University of North Carolina, Department of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1046904514993861487,603,1985
+Filling holes in complex surfaces using volumetric diffusion,"J Davis, SR Marschner, M Garr, M Levoy",Proceedings. First International Symposium on 3D Data Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4230961367823431233,594,2002
+Light fields and computational imaging,M Levoy,"Computer, 46-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5443555937863439939,444,2006
+Texture synthesis over arbitrary manifold surfaces,"LY Wei, M Levoy",Proceedings of the 28th annual conference on Computer graphics and …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12220053589915027912,1442868504631679230",400,2001
+Method and system for light field rendering,"M Levoy, P Hanrahan","US Patent 6,097,394",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12994299801459871753,374,2000
+Geometrically stable sampling for the ICP algorithm,"N Gelfand, L Ikemoto, S Rusinkiewicz, M Levoy","Fourth International Conference on 3-D Digital Imaging and Modeling, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11583711473900125145,372,2003
+A hybrid ray tracer for rendering polygon and volume data,M Levoy,"IEEE Computer graphics and Applications 10 (2), 33-40","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17172389670200924141,6286994600249618542,5672348018969416274",353,1990
+Dual photography,"P Sen, B Chen, G Garg, SR Marschner, M Horowitz, M Levoy, H Lensch","ACM Transactions on Graphics (TOG) 24 (3), 745-755",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6661882956192052552,317,2005
+Microscopy arrangements and approaches,"MS Levoy, YR Ng, MA Horowitz","US Patent 7,723,662",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6201892704033792633,316,2010
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MS Levoy, MA Horowitz","US Patent 7,936,392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7791970341720424401,301,2011
+Better optical triangulation through spacetime analysis,"B Curless, M Levoy","Proceedings of IEEE International Conference on Computer Vision, 987-994",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6128660489542119556,296,1995
+Feature-based volume metamorphosis,"A Lerios, CD Garfinkle, M Levoy","SIGGRAPH 95, 449-456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6587940363028581569,286,1995
+Using plane+ parallax for calibrating dense camera arrays,"V Vaish, B Wilburn, N Joshi, M Levoy",Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10772755268975763931,276,2004
+Wave optics theory and 3-D deconvolution for the light field microscope,"M Broxton, L Grosenick, S Yang, N Cohen, A Andalman, K Deisseroth, ...","Optics express 21 (21), 25418-25439",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1832457509022917318,272,2013
+Volume rendering by adaptive refinement,M Levoy,"The Visual Computer 6 (1), 2-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5785173170542296253,272,1990
+Frequency domain volume rendering,"T Totsuka, M Levoy",Proceedings of the 20th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5061020992904678832,268,1993
+Gaussian kd-trees for fast high-dimensional filtering,"A Adams, N Gelfand, J Dolson, M Levoy","ACM Transactions on Graphics (ToG) 28 (3), 21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10134715303317625787,257,2009
+Recording and controlling the 4D light field in a microscope using microlens arrays,"M Levoy, Z Zhang, I McDowall","Journal of microscopy 235 (2), 144-162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15484905770508993427,241,2009
+Apparatus and method for capturing a scene using staggered triggering of dense camera arrays,"B Wilburn, N Joshi, MC Levoy, M Horowitz","US Patent 8,027,531",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450383535732174308,226,2011
+Synthetic aperture confocal imaging,"M Levoy, B Chen, V Vaish, M Horowitz, I McDowall, M Bolas","ACM Transactions on Graphics (ToG) 23 (3), 825-834",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1164076443376058015,219,2004
+Parallel visualization algorithms: Performance and architectural implications,"JP Singh, A Gupta, M Levoy","Computer 27 (7), 45-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16872785190179942375,218,1994
+"Reconstructing occluded surfaces using synthetic apertures: Stereo, focus and robust measures","V Vaish, M Levoy, R Szeliski, CL Zitnick, SB Kang",2006 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452793724810998684,215,2006
+Volume rendering on scalable shared-memory MIMD architectures,"J Nieh, M Levoy","VVS, 17-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15162971038148010564,210,1992
+High-speed videography using a dense camera array,"B Wilburn, N Joshi, V Vaish, M Levoy, M Horowitz",Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320648497896806939,208,2004
+Decoupling algorithms from schedules for easy optimization of image processing pipelines,"J Ragan-Kelley, A Adams, S Paris, M Levoy, S Amarasinghe, F Durand",Association for Computing Machinery (ACM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1645719340227483281,193,2012
+"Streaming QSplat: A viewer for networked visualization of large, dense models","S Rusinkiewicz, M Levoy","Proceedings of the 2001 symposium on Interactive 3D graphics, 63-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1157985147027928027,190,2001
+Synthetic texturing using digital filters,"EA Feibush, M Levoy, RL Cook","ACM SIGGRAPH Computer Graphics 14 (3), 294-301",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9366528779085423767,183,1980
+The Frankencamera: an experimental platform for computational photography,"A Adams, EV Talvala, SH Park, DE Jacobs, B Ajdin, N Gelfand, J Dolson, ...","ACM Transactions on Graphics (TOG) 29 (4), 29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3724070991008242678,181,2010
+Protected interactive 3D graphics via remote rendering,"D Koller, M Turitzin, M Levoy, M Tarini, G Croccia, P Cignoni, R Scopigno","ACM Transactions on Graphics (TOG) 23 (3), 695-703",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2475693957519002176,177,2004
+Digital video stabilization and rolling shutter correction using gyroscopes,"A Karpenko, D Jacobs, J Baek, M Levoy","CSTR 1, 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16957356493376696261,176,2011
+Polygon-assisted JPEG and MPEG compression of synthetic images,M Levoy,Proceedings of the 22nd annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12927733440722160870,163,1995
+Variable imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 8,248,515","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14702264241771754423,17166523209622057742,4770463851554316797",162,2012
+Interactive visualization of 3D medical data,"H Fuchs, M Levoy, SM Pizer",NORTH CAROLINA UNIV AT CHAPEL HILL,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5580867258986144381,156,1989
+Synthetic aperture focusing using a shear-warp factorization of the viewing transform,"V Vaish, G Garg, EV Talvala, E Antunez, B Wilburn, M Horowitz, M Levoy",2005 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13692717815146762339,150,2005
+3D painting on scanned surfaces,"M Agrawala, AC Beers, M Levoy","Proceedings of the 1995 symposium on Interactive 3D graphics, 145-ff.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16740350517241069415,138,1995
+Volume rendering using the fourier projection-slice theorem,M Levoy,"Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=299203616846155932,130,1992
+Texture synthesis by fixed neighborhood searching,LY Wei,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14776846848884415810,127,2002
+An assessment of laser range measurement of marble surfaces,"G Godin, JA Beraldin, M Rioux, M Levoy, L Cournoyer",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1545045345168871181,125,2001
+Spreadsheets for images,M Levoy,Proceedings of the 21st annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11738148442117620124,118,1994
+Unstructured light fields,"A Davis, M Levoy, F Durand","Computer Graphics Forum 31 (2pt1), 305-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3139555516783332708,116,2012
+Flexible multimodal camera using a light field architecture,"R Horstmeyer, G Euliss, R Athale, M Levoy","2009 IEEE International Conference on Computational Photography (ICCP), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7258558782408370146,114,2009
+Interactive design of multi-perspective images for visualizing urban landscapes,"A Roman, G Garg, M Levoy","Proceedings of the conference on Visualization'04, 537-544",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2140088648611508491,112,2004
+Correction of optical aberrations,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 8,243,157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4610583177419313727,107,2012
+Enhancing the performance of the light field microscope using wavefront coding,"N Cohen, S Yang, A Andalman, M Broxton, L Grosenick, K Deisseroth, ...","Optics express 22 (20), 24817-24839",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13479880059058385929,105,2014
+Burst photography for high dynamic range and low-light imaging on mobile cameras,"SW Hasinoff, D Sharlet, R Geiss, A Adams, JT Barron, F Kainz, J Chen, ...","ACM Transactions on Graphics (TOG) 35 (6), 192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772719545521007130,97,2016
+Wigner distributions and how they relate to the light field,"Z Zhang, M Levoy","2009 IEEE International Conference on Computational Photography (ICCP), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8043450164359971348,97,2009
+Systems and methods for push-button slow motion,"C Zhou, J Chen, MS Levoy","US Patent 9,143,693",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16580015297500022500,94,2015
+Order-independent texture synthesis,"LY Wei, M Levoy",arXiv preprint arXiv:1406.7338,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16152438468432343566,94,2014
+Symmetric Photography: Exploiting Data-sparseness in Reflectance Fields.,"G Garg, EV Talvala, M Levoy, HPA Lensch","Rendering Techniques, 251-262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17425903739614951910,93,2006
+Design for a real-time high-quality volume-rendering work station,M Levoy,"North Carolina Univ., Chapel Hill, NC (USA). Dept. of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13491165185506306544,82,1989
+Veiling glare in high dynamic range imaging,"EV Talvala, A Adams, M Horowitz, M Levoy","ACM Transactions on Graphics (TOG) 26 (3), 37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15165785033365197482,81,2007
+"Fragments of the city: Stanford's Digital"" Forma Urbis Romae"" Project","D Koller, J Trimble, T Najbjerg, N Gelfand, M Levoy",na,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16711304203826809910,79,2006
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years.,PJ Denning,"Communications of the ACM 60 (12), 20-23","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15305032795146851643,2702107568237882989,5276797237149907140,2847929831675552737,15603178498204055681,17246411173499750480,634225800911395833,13916404685410959892,10869433795188372592,14659152391394716272,17646590815216159063,9455214086829986417,746979734647686050,8166173205794975785",77,2017
+Computer-aided reconstruction and new matches in the forma urbis romae,"D Koller, M Levoy","Bullettino Della Commissione Archeologica Comunale di Roma 2, 103-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=128023612003145214,75,2006
+Volume rendering in radiation treatment planning,"M Levoy, H Fuchs, SM Pizer, J Rosenman, EL Chaney, GW Sherouse, ...",[1990] Proceedings of the First Conference on Visualization in Biomedical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17820971978920035087,75,1990
+Using a second camera to adjust settings of first camera,"RB Geiss, M Levoy, R Lewkow","US Patent 9,615,012",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9731537607890969213,69,2017
+Automatic color calibration for large camera arrays,"N Joshi, B Wilburn, V Vaish, ML Levoy, MA Horowitz","[Department of Computer Science and Engineering], University of California …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7334858303445792441,68,2005
+Systems and methods for glare removal using polarized filtering in document scanning,"RA Proudfoot, M Levoy","US Patent 7,561,312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1738626185968611775,60,2009
+A hierarchical method for aligning warped meshes,"L Ikemoto, N Gelfand, M Levoy","Fourth International Conference on 3-D Digital Imaging and Modeling, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13662560350280895111,60,2003
+Texture synthesis from multiple sources.,"LY Wei, M Levoy","SIGGRAPH 3, 1-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9588098342579773488,58,2003
+How not to be seen—object removal from videos of crowded scenes,"M Granados, J Tompkin, K Kim, O Grau, J Kautz, C Theobalt","Computer Graphics Forum 31 (2pt1), 219-228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7837275788782427140,55,2012
+Unwrapping and visualizing cuneiform tablets,"SE Anderson, M Levoy","IEEE Computer Graphics and Applications 22 (6), 82-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11427137038152706734,55,2002
+The Stanford 3D scanning repository,"M Levoy, J Gerth, B Curless, K Pull",URL http://www-graphics. stanford. edu/data/3dscanrep 5,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18401942564815154042,53,2005
+"Method, apparatus, and computer program product for presenting burst images","M Levoy, N Gelfand, WC Chen, KA Pulli","US Patent 8,497,920",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13111442907604092303,51,2013
+A color animation system: based on the multiplane technique,M Levoy,"ACM SIGGRAPH Computer Graphics 11 (2), 65-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14841643197395805257,51,1977
+Gyro-based multi-image deconvolution for removing handshake blur,"S Hee Park, M Levoy",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11301977209303160841,50,2014
+CMOS image sensors with multi-bucket pixels for computational photography,"G Wan, X Li, G Agranov, M Levoy, M Horowitz","IEEE Journal of Solid-State Circuits 47 (4), 1031-1042",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8393908956355504855,47,2012
+Spatially adaptive photographic flash unit,"R Adelsberger, M Gross, M Levoy, R Ziegler","US Patent 8,218,963",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2131728229981140605,45,2012
+Focal stack compositing for depth of field control,"DE Jacobs, J Baek, M Levoy","Stanford Computer Graphics Laboratory Technical Report 1 (1), 2012",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6528524043537618760,40,2012
+"Automatic laser calibration, mapping, and localization for autonomous vehicles",JS Levinson,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13892636444349582535,38,2011
+Protecting 3d graphics content,"D Koller, M Levoy","Communications of the ACM 48 (6), 74-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14931064356706603105,35,2005
+Combining confocal imaging and descattering,"C Fuchs, M Heinz, M Levoy, HP Seidel, HPA Lensch","Computer Graphics Forum 27 (4), 1245-1253",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=823717149520676080,34,2008
+Imaging arrangements and methods therefor,"R Ng, P Hanrahan, MS Levoy, MA Horowitz","US Patent 8,698,944",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8699493848444143910,33,2014
+Experimental platforms for computational photography,M Levoy,"IEEE Computer Graphics and Applications 30 (5), 81-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8525571312865239361,31,2010
+Acquiring and using three-dimensional information in a document scanning system,"CR Uhlik, JK O'sullivan, M Levoy","US Patent 7,586,655",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3268721607848872361,29,2009
+Direct visualization of surfaces from computed tomography data,M Levoy,"Medical Imaging II 914, 828-841",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14572670581184327198,28,1988
+Three‐dimensional high‐resolution volume rendering (HRVR) of computed tomography data: Applications to otolaryngology—head and neck surgery,"RE Davis, HC Pillsbury, M Levoy, JG Rosenman, H Fuchs, SM Pizer, ...","The Laryngoscope 101 (6), 573-582",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4410601322602346068,27,1991
+Interactive deformation of light fields,"B Chen, E Ofek, HY Shum, M Levoy","Proceedings of the 2005 symposium on Interactive 3D graphics and games, 139-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10908860864836595200,25,2005
+Spatially adaptive photographic flash,"R Adelsberger, R Ziegler, M Levoy, M Gross","ETH, Department of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=551680561539872730,24,2008
+Robust image alignment using block sums,"R Geiss, M Levoy","US Patent 8,200,020",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5567774876277801017,23,2012
+Digitizing the forma urbis romae,M Levoy,Proceedings of the ACM SIGGRAPH and Eurographics Campfire Workshop on on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16769127779785145977,23,2000
+Synthetic depth-of-field with a single-camera mobile phone,"N Wadhwa, R Garg, DE Jacobs, BE Feldman, N Kanazawa, R Carroll, ...","ACM Transactions on Graphics (TOG) 37 (4), 64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8086025684379879048,21,2018
+Correction of Optical Aberrations,"YR Ng, PM Hanrahan, MA Horowtiz, MS Levoy","US Patent App. 13/717,156",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9648426849727812014,21,2013
+Light field photography and videography,M Levoy,"Proc. SIGGRAPH 640, 480",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6417438839788023394,21,2005
+Halide: decoupling algorithms from schedules for high-performance image processing,"J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...","Communications of the ACM 61 (1), 106-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9680773676737134135,20,2017
+Determining an image capture payload burst structure based on a metering image capture sweep,"MS Levoy, R Geiss, SW Hasinoff","US Patent 8,866,927",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3338634660767157629,20,2014
+Application of Zernike polynomials towards accelerated adaptive focusing of transcranial high intensity focused ultrasound,"EA Kaye, Y Hertzberg, M Marx, B Werner, G Navon, M Levoy, KB Pauly","Medical physics 39 (10), 6254-6263",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11420571956142229148,19,2012
+Methods for improving the efficiency and versatility of volume rendering.,M Levoy,"Progress in clinical and biological research 363, 473-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8158462483388321928,19,1991
+Variable imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 8,648,958",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17409073784842815925,17,2014
+Rendering of surfaces from volume data,M Levoy,NORTH CAROLINA UNIV AT CHAPEL HILL DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5237106601154626739,17,1988
+Determining an image capture payload burst structure based on a metering image capture sweep,"MS Levoy, R Geiss, SW Hasinoff","US Patent 8,964,060",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4395172380075227988,16,2015
+Robust image alignment using block sums,"R Geiss, M Levoy","US Patent 8,411,962",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4911088380260194203,16,2013
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Levoy, MA Horowitz","US Patent 8,395,696",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7472586010962485134,16,2013
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Levoy, MA Horowitz","US Patent 8,358,367",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9021002812244727321,16,2013
+Systems and methods for glare removal using polarized filtering in document scanning,"RA Proudfoot, M Levoy","US Patent 8,174,739",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5321191164657197034,16,2012
+Simulating the visual experience of very bright and very dark scenes,"D E Jacobs, O Gallo, E A Cooper, K Pulli, M Levoy","ACM Transactions on Graphics (TOG) 34 (3), 25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13111593771914471189,15,2015
+WYSIWYG computational photography via viewfinder editing,"J Baek, D Pająk, K Kim, K Pulli, M Levoy","ACM Transactions on Graphics (TOG) 32 (6), 198",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5094407159538878757,14,2013
+Correction of optical abberations,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 8,358,354",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12610858968108976610,14,2013
+High-dimensional gaussian filtering for computational photography,AB Adams,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5684631171350856015,14,2011
+Neuronal dynamics regulating brain and behavioral state transitions,"AS Andalman, VM Burns, M Lovett-Barron, M Broxton, B Poole, SJ Yang, ...","Cell 177 (4), 970-985. e20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12847254389261462584,13,2019
+General linear cameras with finite aperture,"A Adams, M Levoy","Proceedings of the 18th Eurographics conference on Rendering Techniques, 121-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8461637206551426278,13,2007
+Light field photography with a hand-held plenoptic camera. CSTR 2005-02,"R Ng, M Levoy, M BR EDIF, G Duval, M Horowitz, P Hanrahan","Stanford University 1, 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11252120011992433289,13,2005
+Hand-triggered head-mounted photography,"JT Barron, MS Levoy, SW Hasinoff","US Patent 9,076,033",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6391157930079572268,11,2015
+Ray tracing of volume data,M Levoy,"SIGGRAPH 90, 120-147",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13338753355603167130,11,1990
+3D display with minimal predefinition,"SM Pizer, H Fuchs, M Levoy, JG Rosenman, RE Davis, JB Renner","Proc. of the International Symposium on Computer Assisted Radiology, 25-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16110454309829990096,11,1989
+Optics apparatus with detection of light rays received at different angles for output indicative of aliased views,"MJ Broxton, MS Levoy, N Cohen, L Grosenick, S Yang, KA Deisseroth","US Patent 9,658,443",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10721863521722218744,10,2017
+Image Based Rendering,"A Moden, L Johansson","US Patent App. 11/570,243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12445060754367981277,10,2008
+The Digital Michelangelo project: creating a 3D archive of his sculpture using laser scanning,M Levoy,"Proceedings of Electronic Imaging and the Visual Arts (EVA) 99, 22-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5741342905096987089,10,1999
+Image-based rendering: Really new or deja vu,"M Cohen, M Levoy, J Malik, L McMillan, E Chen","ACM SIGGRAPH 97, 468-470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12869708867757740360,10,1997
+Applications of multibucket sensors to computational photography,"G Wan, M Horowitz, M Levoy",Stanford Computer Graphics Laboratory Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8293724391526084430,9,2012
+High speed video using a dense array of cameras,"B Wilburn, N Joshi, V Vaish, M Levoy, M Horowitz","Proc. IEEE CVPR, 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=743936304430375534,9,2004
+Error in volume rendering paper was in exposition only,M Levoy,"IEEE Computer Graphics and Applications 20 (4), 6-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7786532510723472545,9,2000
+Rendering of surfaces from volumetric data,M Levoy,"Report TR87-016, Chapel Hill, University of North Carolina",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14713071031294014001,9,1987
+Interactive viewer for image stacks,"MS Levoy, S Thirthala, SW Hasinoff","US Patent 9,195,880",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6404171286022806259,8,2015
+Why is 3d scanning hard?,M Levoy,"null, null",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4527931960491341723,8,2002
+Expanding the horizons of image-based modeling and rendering,M Levoy,SIGGRAPH 97 Panel: Image-Based Rendering: Really New or Deja Vu,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16290696657697819605,8,1997
+Proc. SIGGRAPH,"M Levoy, P Hanrahan",ACM SIGGRAPH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13155245812470637952,7,1996
+Viewing algorithms,M Levoy,"Volume Visualization, IEEE Computer Society Press Tutorial, Los Alamitos, CA …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16449753254784198750,7,1991
+A distortion camera for ray tracing,"P Acquisto, E Groller",WIT Transactions on Information and Communication Technologies 5,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2248782143333338589,7,1970
+Identification of cellular-activity dynamics across large tissue volumes in the mammalian brain,"LM Grosenick, M Broxton, CK Kim, C Liston, B Poole, S Yang, ...","bioRxiv, 132688",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1243586065383211992,6,2017
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Levoy, MA Horowitz","US Patent 8,866,957",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8577874993327892434,6,2014
+Limitations of coherent computer generated holograms,"Z Zhang, G Barbastathis, M Levoy","Digital Holography and Three-Dimensional Imaging, DTuB5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14205417530481315199,6,2011
+The Frankencamera: building a programmable camera for computational photography,EVA Talvala,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=733746115687592613,6,2011
+Guest Editor's Introduction: Computational Photography-The Next Big Step,O Bimber,"Computer 39 (8), 28-29","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3259014195663953038,9323154199172490756",6,2006
+Digitizing the shape and appearance of three-dimensional objects,M Levoy,Frontiers of Engineering: Reports on Leading Edge Engineering from the 1996 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16178674183989186762,6,1997
+Proc. ACM SIGGRAPH,"M Levoy, P Hanrahan",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9106324868865791335,6,1996
+"Method, apparatus, and computer program product for presenting burst images","M Levoy, N Gelfand, WC Chen, KA Pulli","US Patent 9,013,592",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10838616035472636348,5,2015
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 8,547,475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10249784692707817798,5,2013
+ACM SIGGRAPH 2007 Papers,M Levoy,ACM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14813448156555107249,5,2007
+Creating digital archives of 3D artworks,"M Levoy, H Garcia-Molina","National Science Foundation’s Digital Libraries Initiative, white paper …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17611347272865516028,5,2000
+Light-field microscopy with phase masking,"N Cohen, MS Levoy, MJ Broxton, L Grosenick, S Yang, A Andalman, ...","US Patent App. 14/828,259","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3356926811915065923,2314822900610051935",4,2016
+Stanford Digital Forma Urbis Romae Project,"M Levoy, J Trimble",Stanford Digital Forma Urbis Romae Project,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9786613382093767015,4,2002
+Rendering mixtures of geometric and volumetric data,M Levoy,NORTH CAROLINA UNIV AT CHAPEL HILL DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5446831180289853792,4,1988
+Handheld Multi-Frame Super-Resolution,"B Wronski, I Garcia-Dorado, M Ernst, D Kelly, M Krainin, CK Liang, ...",arXiv preprint arXiv:1905.03277,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2539344565955692855,3,2019
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years.,"J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...","Communications of the ACM 61 (1), 106-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10792654162253078892,3,2018
+Imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Levoy, MA Horowitz","US Patent 8,953,064",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15390684662819834195,3,2015
+The frankencamera: An experimental platform for computational photography,"A Adams, DE Jacobs, J Dolson, M Tico, K Pulli, EV Talvala, B Ajdin, ...","Communications of the ACM 55 (11), 90-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3675065925765803482,3,2012
+A dual in-pixel memory CMOS image sensor for computation photography,"G Wan, X Li, G Agranov, M Levoy, M Horowitz","2011 Symposium on VLSI Circuits-Digest of Technical Papers, 94-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5209809257770860041,3,2011
+"Light field photography, microscopy, and illumination",M Levoy,"International Optical Design Conference, ITuB3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6874720557478456512,3,2010
+Searching for better flu surveillance? A brief communication arising from Ginsberg et al,"DR Olson, A Baer, MA Coletta","Nature 457, 1012-4","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7588354592924341919,5834235074017450237",3,2009
+The early history of point-based graphics,M Levoy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450223553425645909,3,2007
+Light field microscopy,"M Horowitz, R Ng, A Adams",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9848099181281381077,3,2006
+History of computer graphics,M Levoy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9512531358714999410,3,2004
+Photorealistic volume rendering in scientific visualization,M Levoy,"SIGGRAPH Course Notes 27, 2-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3672389593881598111,3,1991
+Introduction to Volume Visualization,M Levoy,SIGGRAPH'91 Course Notes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8566061006146120152,3,1991
+Tutorial on Volume Visualization Algorithms,M Levoy,"Visualization'90, San Francisco",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6791517229646658689,3,1990
+"Volume rendering for display of multiple organs, treatment objects, and image intensities","SM Pizer, M Levoy, H Fuchs, JG Rosenman","Science and Engineering of Medical Imaging 1137, 92-97",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5931667273746011120,3,1989
+Calibration of defective image sensor elements,"MS Levoy, R Lewkow","US Patent 9,854,188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14629023375831372252,2,2017
+Analysis and synthesis of three-dimensional illumination using partial coherence,Z Zhang,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=994741774574348839,2,2011
+"Experimental Platforms for Computational Photography (October, pg 81, 2010)",M Levoy,"IEEE Computer Graphics and Applications 30 (6), 15-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5146845933785105203,2,2010
+Computational Photography and the Stanford Frankencamera. Technical Talk,M Levoy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4574123619218988251,2,2010
+"The use of points as a display primitive, Technical report",M Levoy,University of North Carolina at Chapel Hill Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18022946583496687792,2,1985
+Handheld mobile photography in very low light,"O Liba, K Murthy, YT Tsai, T Brooks, T Xue, N Karnad, Q He, JT Barron, ...","ACM Transactions on Graphics (TOG) 38 (6), 164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17768193993343974750,1,2019
+Camera obstruction detection,"P Milanfar, MS Levoy, SW Hasinoff, C Zhou","US Patent 9,253,375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1669614069032273259,1,2016
+Handling moving objects and over-exposed regions in non-blind multi-image deconvolution,"SH Park, M Levoy",Stanford Computer Graphics Laboratory Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579171264476459323,1,2014
+Light Field Photography and Microscopy,M Levoy,"Signal Recovery and Synthesis, JWA3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14735845062268355362,1,2009
+technical Perspective computational Photography on Large collections of images,M Levoy,"Communications of the ACM 51 (10), 86-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13323208512459167735,1,2008
+Synthetic Aperture Focusing Using Dense Camera Arrays,"V Vaish, G Garg, EV Talvala, E Antunez, B Wilburn, M Horowitz, M Levoy","3D Imaging for Safety and Security, 159-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1672770112590768774,1,2007
+Computational imaging in the sciences,M Levoy,"ACM SIGGRAPH 2006 Courses, 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12689661338162612889,1,2006
+Optical image stabilization (IS),M Levoy,course notes CS A 448,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3290580616509685558,1,0
+Spatiotemporal Sampling and Interpolation for Dense Camera Arrays,"B Wilburn, N Joshi, K Chou, M Levoy, M Horowitz",Stanford Technical Report CSTR 2004-01. http://graphics. stanford. edu …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7946630081749654656,1,0
+Training a machine-learning based object detector for use in photography,"R Yang, M Levoy",,,0,2019
+Graphic Interface for Real-Time Vision Enhancement,"C Zhou, R Lewkow, MS Levoy, J Chen","US Patent App. 15/799,404",,0,2018
+Graphic interface for real-time vision enhancement,"C Zhou, R Lewkow, MS Levoy, J Chen","US Patent 9,835,862",,0,2017
+Variable imaging arrangements and methods therefor,"YR Ng, PM Hanrahan, MA Horowitz, MS Levoy","US Patent 9,807,287",,0,2017
+Imaging arrangements and methods therefor,"YR Ng, P Hanrahan, MS Levoy, MA Horowitz","US Patent 9,479,685",,0,2016
+Determining an image capture payload burst structure based on a metering image capture sweep,"MS Levoy, R Geiss, SW Hasinoff","US Patent 9,118,841",,0,2015
+3D Modeling with Data-driven Suggestions,S Chaudhuri,Stanford University,,0,2011
+Research on 3D shape measurement by stereo method.,"T Li, K Kawasue, M Ikeda, B Kateb, V Yamamoto, C Yu, W Grundfest, ...","Information Technology Journal 12 (24), 9-14",,0,2010
+What will be on the final exam?,M Levoy,,,0,2009
+Synthetic Aperture Photography and Microscopy by Recording and Processing the 4D Light Field,M Levoy,"Journal of Vision 7 (15), 20-20",,0,2007
+"Proceedings of ACM SIGGRAPH 2007, San Diego-Preface",M Levoy,"ACM TRANSACTIONS ON GRAPHICS 26 (3), XV-XVI",,0,2007
+"The random camera, the coded aperture camera, and other cameras",WT Freeman,"Proceedings of the 18th Eurographics conference on Rendering Techniques, 9-9",,0,2007
+2-THE EARLY HISTORY OF POINT-BASED GRAPHICS,"L Marc, M Levoy, R Szymon, W Tim, P Hanspeter, A Nina, W Jianhua, ...","Point-Based Graphics, 8-16",,0,2007
+Computational cameras,M Levoy,ACM Transactions on Graphics,,0,2007
+Graphics research and courses at Stanford,"R Fedkiw, P Hanrahan, M Levoy, L Guibas, S Thrun, T Winograd, ...",,,0,2005
+High-performance imaging using dense camera arrays and projectors.,M Levoy,"VMV, 97",,0,2004
+Spatiotemporal Sampling and Interpolation for Dense Video Camera Arrays,"BS Wilburn, NS Joshi, K Chou, M Levoy, M Horowitz",,,0,2004
+Invited Papers-The Digital Michelangelo Project,M Levoy,"Computer Graphics Forum 18 (3), XV",,0,1999
+PASSIVE VERSUS ACTIVE SENSING,M Levoy,Frontiers of Engineering: Reports on Leading Edge Engineering from the 1996 …,,0,1997
+CO-sponsored by ACM SIGGRAPH and IEEE Computer Society Technical Committee on Computer Graphics,"R Crawfis, C Hansen, N Max, N England, P Hanrahan, A Kaufman, ...",,,0,1996
+CALL FOR PARTICIPATION,"A Kaufman, W Krueger, R Yagel, H Rushmeier, P Hanrahan, M Levoy, ...",,,0,1994
+COMPUTER SYSTEMS LABORATORY,M Levoy,,,0,1994
+Interactive Visualization of 3D Medical Data. Revision,"H Fuchs, M Levoy, SM Pizer",NORTH CAROLINA UNIV AT CHAPEL HILL DEPT OF COMPUTER SCIENCE,,0,1989
+UNC is an Equal Opportunity/Affirmative Action Institution. Abstract Efficient Ray Tracing of Volume Data,"M Levay, M Levoy",,,0,1988
+TR87-016,M Levoy,,,0,1987
+Image Based Rendering,"MF Cohen, E Chen, M Levoy, J Malik",,,0,0
+Li-Yi Wei,"LY Wei, IGPU Gems II, M Levoy",,,0,0
+Jongmin Baek (Ph. D.),"J Baek, AB Adams, J Dolson, E Talvala, SH Park, DE Jacobs, B Ajdin, ...",,,0,0
+UNC-(S TR85-() 22,"M Levoy, T Whitted",,,0,0
+Synthetic aperture photography and illumination using arrays of cameras and projectors,M Levoy,,,0,0
+"Ahrens, Christine, see Ahrens, James.","J Ahrens, H Akiba, O Alexander, M Ambrož, K Anjyo, P Babenko, F Bacim, ...",,,0,0
+The Changing Nature of Engineering,M Levoy,,,0,0
+Keynote Events,"J Cremer, R Cross, L De Floriani, J Dill, J Dozier, D Ebert, H Edelsbrunner, ...",,,0,0
+Interactive Relighting in Macro Photography,"S Meador, AYL Chan, A Adams, M Levoy",,,0,0
+Single-shot Multidomain Camera,"R Horstmeyer, M Levoy",,,0,0
+"Mike Bailey, San Diego Supercomputer Center/University of California, San Diego H. Harlyn Baker, SRI International Stephen A. Benton, Media lab, MIT R. Daniel Bergeron …","FD Cox, NJ Dozier, RA Earnshaw, J Encarnacao, S Feiner, H Fuchs, ...",,,0,0
+Multiview Occlusion Analysis for Tracking Densely Populated Objects Based,"V Vaish, B Wilburn, N Joshi, M Levoy, Z Zhang, C Tan, L Fan, X Lu, ...",,,0,0
+Light Fields and Wave Optics,"Z Zhang, M Levoy",,,0,0

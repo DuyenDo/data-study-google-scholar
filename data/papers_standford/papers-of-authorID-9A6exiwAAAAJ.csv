@@ -1,0 +1,20 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Distributed optimization and statistical learning via the alternating direction method of multipliers,"S Boyd, N Parikh, E Chu, B Peleato, J Eckstein","Foundations and Trends in Machine Learning 3 (1), 1-122","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14025718318335536061,7153249934867378453,12618706276270180171",10981,2011
+Proximal Algorithms,"N Parikh, S Boyd",Foundations and Trends in Optimization 1 (3),"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12905933188194436347,92982616054147303",2468,2014
+Conic optimization via operator splitting and homogeneous self-dual embedding,"B O’Donoghue, E Chu, N Parikh, S Boyd","Journal of Optimization Theory and Applications 169 (3), 1042-1068",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2721135200923090030,213,2016
+Block Splitting for Distributed Optimization,"N Parikh, S Boyd",Mathematical Programming Computation,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16876879058917397048,6623586590772269408",94,2013
+"SCS: Splitting conic solver, version 1.2. 6","B O’Donoghue, E Chu, N Parikh, S Boyd",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11753804766539418298,52,2016
+Operator splitting for conic optimization via homogeneous self-dual embedding,"B O’Donoghue, E Chu, N Parikh, S Boyd","arXiv preprint arXiv:1312.3039 1 (2.1), 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15867673962563130890,44,2013
+Code Generation for Embedded Second-Order Cone Programming,"E Chu, N Parikh, A Domahidi, S Boyd",European Control Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10183159526847739877,41,0
+A primal-dual operator splitting method for conic optimization,"E Chu, B O’Donoghue, N Parikh, S Boyd",Stanford Internal Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11915435586345552279,12,2013
+Matlab scripts for alternating direction method of multipliers,"S Boyd, N Parikh, E Chu, B Peleato, J Eckstein","Technical Report, Technical Report",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17729782996503167023,8,2012
+Block Splitting for Large-Scale Distributed Learning,"N Parikh, S Boyd",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9164410617307295490,8,2011
+Foundations and Trends® in Machine Learning,"S Boyd, N Parikh, E Chu, B Peleato, J Eckstein",Foundations and Trends® in Communications and Information Theory 2 (1-2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=884496929130337242,5,2011
+Block splitting for distributed optimization,"N Parikh, S Boyd",MATH. PROG. COMP.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17436576284246263937,3,2012
+"Presented by: Anis Elgabli, Amir Daneshmand","S Boyd, N Parikh, ECB Peleato, J Eckstein",,,0,2016
+Errata for ‘Proximal Algorithms’,"N Parikh, S Boyd",,,0,2014
+LATEX Style Guide for EE 364B,"S Boyd, EK Ryu, N Parikh",,,0,2014
+Distributed Convex Optimization with Proximal Methods,N Parikh,Stanford University,,0,2014
+Graphical Models for Primarily Unsupervised Sequence Labeling,"N Parikh, M Dredze",,,0,2007
+Convex Optimization: from Real-Time Embedded to Large-Scale Distributed,"S Boyd, N Parikh, E Chu, Y Wang, J Mattingley",,,0,0
+Using the Foundations and Trends LaTeX Macros,"N Parikh, S Boyd",,,0,0

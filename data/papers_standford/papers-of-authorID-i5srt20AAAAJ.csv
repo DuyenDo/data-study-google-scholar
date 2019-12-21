@@ -1,0 +1,140 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Adaptive subgradient methods for online learning and stochastic optimization,"J Duchi, E Hazan, Y Singer","Journal of Machine Learning Research 12 (Jul), 2121-2159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11157917441144048002,5493,2011
+Efficient projections onto the l 1-ball for learning in high dimensions,"J Duchi, S Shalev-Shwartz, Y Singer, T Chandra","Proceedings of the 25th international conference on Machine learning, 272-279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17043272172448211509,1079,2008
+Dual averaging for distributed optimization: Convergence analysis and network scaling,"JC Duchi, A Agarwal, MJ Wainwright","IEEE Transactions on Automatic control 57 (3), 592-606",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4492441737436055892,759,2011
+Efficient online and batch learning using forward backward splitting,"J Duchi, Y Singer","Journal of Machine Learning Research 10 (Dec), 2899-2934",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3332867610010411226,561,2009
+Distributed delayed stochastic optimization,"A Agarwal, JC Duchi","Advances in Neural Information Processing Systems, 873-881",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8950182686724532637,402,2011
+Local privacy and statistical minimax rates,"JC Duchi, MI Jordan, MJ Wainwright","2013 IEEE 54th Annual Symposium on Foundations of Computer Science, 429-438","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5732511440204476573,13586908373811409592",393,2013
+MLbase: A Distributed Machine-learning System.,"T Kraska, A Talwalkar, JC Duchi, R Griffith, MJ Franklin, MI Jordan","Cidr 1, 2.1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8610540356359039598,294,2013
+Composite Objective Mirror Descent.,"JC Duchi, S Shalev-Shwartz, Y Singer, A Tewari","COLT, 14-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5377370921497415936,270,2010
+Communication-efficient algorithms for statistical optimization,"Y Zhang, MJ Wainwright, JC Duchi","Advances in Neural Information Processing Systems, 1502-1510",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14631064449287799524,258,2012
+Certifying some distributional robustness with principled adversarial training,"A Sinha, H Namkoong, J Duchi",arXiv preprint arXiv:1710.10571,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5504610656672947417,11564934510978207651",211,2017
+Divide and conquer kernel ridge regression,"Y Zhang, J Duchi, M Wainwright","Conference on Learning Theory, 592-617",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16598951520883520359,159,2013
+Accelerated methods for nonconvex optimization,"Y Carmon, JC Duchi, O Hinder, A Sidford","SIAM Journal on Optimization 28 (2), 1751-1772",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4835855900252165495,148,2018
+Optimal rates for zero-order convex optimization: The power of two function evaluations,"JC Duchi, MI Jordan, MJ Wainwright, A Wibisono","IEEE Transactions on Information Theory 61 (5), 2788-2806","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16097298943649639841,17139529139618707379",146,2015
+Projected subgradient methods for learning sparse gaussians,"J Duchi, S Gould, D Koller",arXiv preprint arXiv:1206.3249,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17151989168732501930,138,2012
+Information-theoretic lower bounds for distributed statistical estimation with communication constraints,"Y Zhang, J Duchi, MI Jordan, MJ Wainwright","Advances in Neural Information Processing Systems, 2328-2336",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8889605289301369229,135,2013
+Creating human-like synthetic characters with multiple skill levels: A case study using the soar quakebot,"JE Laird, JC Duchi","AAAI 2000 Fall Symposium Series: Simulating Human Agents 1001, 48109-2110.3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3566161848216475501,135,2000
+Privacy aware learning,"JC Duchi, MI Jordan, MJ Wainwright","Journal of the ACM (JACM) 61 (6), 38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9407990721521472397,116,2014
+Divide and conquer kernel ridge regression: A distributed algorithm with minimax optimal rates,"Y Zhang, J Duchi, M Wainwright","The Journal of Machine Learning Research 16 (1), 3299-3340",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14908657733147124315,106,2015
+Randomized smoothing for stochastic optimization,"JC Duchi, PL Bartlett, MJ Wainwright","SIAM Journal on Optimization 22 (2), 674-701",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9704191794698605817,106,2012
+Boosting with structural sparsity,"J Duchi, Y Singer",Proceedings of the 26th Annual International Conference on Machine Learning …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17063018384187860899,103,2009
+Efficient learning using forward-backward splitting,"Y Singer, JC Duchi","Advances in Neural Information Processing Systems, 495-503",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441847550518151765,98,2009
+Derivations for linear algebra and optimization,J Duchi,"Berkeley, California 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7010452471191602100,98,2007
+Using combinatorial optimization within max-product belief propagation,"D Tarlow, G Elidan, D Koller, JC Duchi","Advances in neural information processing systems, 369-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4163708065230671903,87,2007
+On the Consistency of Ranking Algorithms.,"JC Duchi, LW Mackey, MI Jordan","ICML, 327-334",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10609644548189665019,81,2010
+"Estimation, optimization, and parallelism when data is sparse","J Duchi, MI Jordan, B McMahan","Advances in Neural Information Processing Systems, 2832-2840",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7878607920190134605,79,2013
+Gradient Descent Finds the Cubic-Regularized Nonconvex Newton Step,"Y Carmon, J Duchi","SIAM Journal on Optimization 29 (3), 2146-2178","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1314875801595005960,11658988404325605561",76,2019
+Minimax optimal procedures for locally private estimation,"JC Duchi, MI Jordan, MJ Wainwright","Journal of the American Statistical Association 113 (521), 182-201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760204799379651814,71,2018
+Local privacy and minimax bounds: Sharp rates for probability estimation,"J Duchi, MJ Wainwright, MI Jordan","Advances in Neural Information Processing Systems, 1529-1537",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11185191273201052321,70,2013
+Variance-based Regularization with Convex Objectives.,"JC Duchi, H Namkoong","Journal of Machine Learning Research 20 (68), 1-55","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16167315901648166807,10011945190551766526,18398012294308713831",62,2019
+Solving (most) of a set of quadratic equalities: Composite optimization for robust phase retrieval,"JC Duchi, F Ruan","Information and Inference: A Journal of the IMA 8 (3), 471-529",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2285957874301988198,57,2018
+Distributed dual averaging in networks,"A Agarwal, MJ Wainwright, JC Duchi","Advances in Neural Information Processing Systems, 550-558",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7685303596565994233,55,2010
+Convex until proven guilty: Dimension-free acceleration of gradient descent on non-convex functions,"Y Carmon, JC Duchi, O Hinder, A Sidford",Proceedings of the 34th International Conference on Machine Learning-Volume …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3885678190237232349,54,2017
+Lower bounds for finding stationary points i,"Y Carmon, JC Duchi, O Hinder, A Sidford","Mathematical Programming, 1-50",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10630109379157467863,53,2017
+The generalization ability of online algorithms for dependent data,"A Agarwal, JC Duchi","IEEE Transactions on Information Theory 59 (1), 573-587",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1659758252423709876,53,2012
+Statistics of robust optimization: A generalized empirical likelihood approach,"J Duchi, P Glynn, H Namkoong",arXiv preprint arXiv:1610.03425,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5376289367341200806,49,2016
+Stochastic gradient methods for distributionally robust optimization with f-divergences,"H Namkoong, JC Duchi","Advances in Neural Information Processing Systems, 2208-2216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8205814408702168147,48,2016
+Ergodic mirror descent,"JC Duchi, A Agarwal, M Johansson, MI Jordan","SIAM Journal on Optimization 22 (4), 1549-1578",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7120311137224057518,48,2012
+Privacy aware learning,"MJ Wainwright, MI Jordan, JC Duchi","Advances in Neural Information Processing Systems, 1430-1438",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14697477110744236717,48,2012
+Stochastic methods for composite and weakly convex optimization problems,"J Duchi, F Ruan","SIAM Journal on Optimization 28 (4), 3229--3259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=232844666274565162,47,2018
+Learning kernels with random features,"A Sinha, JC Duchi","Advances in Neural Information Processing Systems, 1298-1306",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3239120243846912079,45,2016
+Asynchronous stochastic convex optimization,"JC Duchi, S Chaturapruek, C Ré",arXiv preprint arXiv:1508.00882,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5508911375538950657,45,2015
+Constrained approximate maximum entropy learning of markov random fields,"V Ganapathi, D Vickrey, J Duchi, D Koller",arXiv preprint arXiv:1206.3257,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18438225151858009977,40,2012
+Distance-based and continuum Fano inequalities with applications to statistical estimation,"JC Duchi, MJ Wainwright",arXiv preprint arXiv:1311.2669,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16457087756386774124,34,2013
+Optimality guarantees for distributed statistical estimation,"JC Duchi, MI Jordan, MJ Wainwright, Y Zhang",arXiv preprint arXiv:1405.0782,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4045825629030499693,33,2014
+Introductory lectures on stochastic optimization,JC Duchi,"The Mathematics of Data 25, 99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6900504157454960095,28,2018
+Generalizing to unseen domains via adversarial data augmentation,"R Volpi, H Namkoong, O Sener, JC Duchi, V Murino, S Savarese","Advances in Neural Information Processing Systems, 5334-5344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3314749587084034699,28,2018
+Oracle inequalities for computationally budgeted model selection,"A Agarwal, JC Duchi, PL Bartlett, C Levrard","Proceedings of the 24th Annual Conference on Learning Theory, 69-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11916267474288150218,28,2011
+Minimax rates for memory-bounded sparse linear regression,"J Steinhardt, J Duchi","Conference on Learning Theory, 1564-1587",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5616742131519159856,27,2015
+Asynchronous stochastic convex optimization: the noise is in the noise and SGD don't care,"S Chaturapruek, JC Duchi, C Ré","Advances in Neural Information Processing Systems, 1531-1539",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=625609650637145670,27,2015
+Privacy and statistical risk: Formalisms and minimax bounds,"RF Barber, JC Duchi",arXiv preprint arXiv:1412.4451,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6124308435961576805,25,2014
+Lower bounds for finding stationary points ii: First-order methods,"Y Carmon, JC Duchi, O Hinder, A Sidford",arXiv preprint arXiv:1711.00841,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12643153258414919279,24,2017
+The asymptotics of ranking algorithms,"JC Duchi, L Mackey, MI Jordan","The Annals of Statistics 41 (5), 2292-2323",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13965605512252514133,22,2013
+Protection against reconstruction and its applications in private federated learning,"A Bhowmick, J Duchi, J Freudiger, G Kapoor, R Rogers",arXiv preprint arXiv:1812.00984,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12507295286309430510,19,2018
+The right complexity measure in locally private estimation: It is not the fisher information,"JC Duchi, F Ruan",arXiv preprint arXiv:1806.05756,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3591609717632338185,16,2018
+Scalable end-to-end autonomous vehicle testing via rare-event simulation,"M O'Kelly, A Sinha, H Namkoong, R Tedrake, JC Duchi","Advances in Neural Information Processing Systems, 9827-9838",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5564001038044175212,16,2018
+Asymptotic optimality in stochastic optimization,"J Duchi, F Ruan",arXiv preprint arXiv:1612.05612,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11168704045242027719,16,2016
+Oracle inequalities for computationally adaptive model selection,"A Agarwal, PL Bartlett, JC Duchi",arXiv preprint arXiv:1208.0129,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8163308201925422014,16,2012
+"Stochastic (approximate) proximal point methods: Convergence, optimality, and adaptivity","H Asi, JC Duchi","SIAM Journal on Optimization 29 (3), 2257-2290",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15041580067400656871,15,2019
+Lower bounds for locally private estimation via communication complexity,"J Duchi, R Rogers",arXiv preprint arXiv:1902.00582,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8403119585271560706,15,2019
+Mlbase: A distributed machine learning wrapper,"A Talwalkar, T Kraska, R Griffith, J Duchi, J Gonzalez, D Britz, X Pan, ...",NIPS Big Learning Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1378394163239737047,15,2012
+Analysis of krylov subspace solutions of regularized non-convex quadratic problems,"Y Carmon, JC Duchi","Advances in Neural Information Processing Systems, 10705-10715",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13560608438503219037,14,2018
+Simultaneous dimension reduction and adjustment for confounding variation,"Z Lin, C Yang, Y Zhu, J Duchi, Y Fu, Y Wang, B Jiang, M Zamanighomi, ...","Proceedings of the National Academy of Sciences 113 (51), 14662-14667",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2788001121736575194,14,2016
+Lecture notes for statistics 311/electrical engineering 377,J Duchi,URL: https://stanford. edu/class/stats311/Lectures/full_notes. pdf. Last …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7346291595242489834,14,2016
+Finite sample convergence rates of zero-order stochastic optimization methods,"A Wibisono, MJ Wainwright, MI Jordan, JC Duchi","Advances in Neural Information Processing Systems, 1439-1447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17200423017139696850,14,2012
+Unlabeled data improves adversarial robustness,"Y Carmon, A Raghunathan, L Schmidt, P Liang, JC Duchi",arXiv preprint arXiv:1905.13736,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5182550296368877701,13,2019
+Adaptive sampling probabilities for non-smooth optimization,"H Namkoong, A Sinha, S Yadlowsky, JC Duchi",Proceedings of the 34th International Conference on Machine Learning-Volume …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14973702434157131380,11,2017
+"Multiclass classification, information, divergence and surrogate risk","J Duchi, K Khosravi, F Ruan","The Annals of Statistics 46 (6B), 3246-3275",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2316721080115139621,9,2018
+Minimax bounds on stochastic batched convex optimization,"J Duchi, F Ruan, C Yun","Conference On Learning Theory, 3065-3162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2493809142236868706,9,2018
+Local minimax complexity of stochastic convex optimization,"Y Zhu, S Chatterjee, J Duchi, J Lafferty",Proceedings of the 30th International Conference on Neural Information …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14461902922295663307,9,2016
+Information-theoretic lower bounds for distributed statistical estimation with communication constraints,"JC Duchi, MI Jordan, MJ Wainwright, Y Zhang",arXiv preprint arXiv:1405.0782,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2587138213317795477,9,2014
+Ergodic subgradient descent,"J Duchi, A Agarwal, M Johansson, M Jordan",Allerton Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13340623715000224773,9,2011
+Adversarial Training Can Hurt Generalization,"A Raghunathan, SM Xie, F Yang, JC Duchi, P Liang",arXiv preprint arXiv:1906.06032,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9047927033711299246,7,2019
+The importance of better models in stochastic optimization,"H Asi, JC Duchi",arXiv preprint arXiv:1903.08619,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465004594696847226,7,2019
+Learning models with uniform performance via distributionally robust optimization,"J Duchi, H Namkoong",arXiv preprint arXiv:1810.08750,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15601057581451270238,7,2018
+Vision-based classification of skin cancer using deep learning,"S Kalouche, A Ng, J Duchi","2015, conducted on Stanfords Machine Learning course (CS 229) taught",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2405685418804848756,7,2016
+Local minimax complexity of stochastic convex optimization,"JC Duchi, J Lafferty, Y Zhu","Advances in Neural Information Processing Systems, 3423-3431",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8816080847500939392,7,2016
+Randomized smoothing for (parallel) stochastic optimization,"JC Duchi, PL Bartlett, MJ Wainwright","2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 5442-5444",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14862699637247579542,6,2012
+Derivative free optimization via repeated classification,"TB Hashimoto, S Yadlowsky, JC Duchi",arXiv preprint arXiv:1804.03761,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7218049448778608657,5,2018
+Sequential convex programming,"J Duchi, S Boyd, J Mattingley","Dept. Elect. Eng., Stanford Univ., Stanford, CA, USA, Tech. Rep. EE364b",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14299521446974747392,5,2007
+Dual averaging for distributed optimization,"JC Duchi, A Agarwal, MJ Wainwright","2012 50th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13916858310084072092,5,0
+Bounds on the conditional and average treatment effect in the presence of unobserved confounders,"S Yadlowsky, H Namkoong, S Basu, J Duchi, L Tian",arXiv preprint arXiv:1808.09521,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1826500975585198374,4,2018
+Mean estimation from adaptive one-bit measurements,"A Kipnis, JC Duchi","2017 55th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7534729191163046998,3,2017
+Estimation from indirect supervision with linear moments,"A Raghunathan, R Frostig, J Duchi, P Liang","International conference on machine learning, 2568-2577",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8888940382404161903,3,2016
+Privacy: A few definitional aspects and consequences for minimax mean-squared error,"RF Barber, J Duchi","53rd IEEE Conference on Decision and Control, 1365-1369",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13542499296862419300,3,2014
+Commentary on “Towards a noncommutative arithmetic-geometric mean inequality” by B. Recht and C,JC Duchi,"Ré. J. Mach. Learn. Res 23, 11.25-11.27",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14042742449571622520,3,2012
+Elastic net projections,J Duchi,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7574923829459343524,3,2009
+A Rank-1 Sketch for Matrix Multiplicative Weights,"Y Carmon, JC Duchi, A Sidford, K Tian",arXiv preprint arXiv:1903.02675,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7083188586919070889,2,2019
+Mean Estimation from One-Bit Measurements,"A Kipnis, JC Duchi",arXiv preprint arXiv:1901.03403,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12544858513362166065,2,2019
+The Mathematics of Data,"MW Mahoney, JC Duchi, AC Gilbert",American Mathematical Soc.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=937603662968009127,2,2018
+Unsupervised transformation learning via convex relaxations,"TB Hashimoto, PS Liang, JC Duchi","Advances in Neural Information Processing Systems, 6875-6883",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9545045200435532045,2,2017
+Dual averaging for distributed optimization,"JC Duchi, A Agarwal, MJ Wainwright","2012 50th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10466310439797637859,2,2012
+Dual averaging for distributed optimization: Convergence analysis and network scaling,"A Agarwal, J Duchi, M Wainwright",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10586665030900467398,2,2010
+Lower Bounds for Non-Convex Stochastic Optimization,"Y Arjevani, Y Carmon, JC Duchi, DJ Foster, N Srebro, B Woodworth",arXiv preprint arXiv:1912.02365,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12496805411719422591,1,2019
+A Scalable Risk-based Framework for Rigorous Autonomous Vehicle Evaluation,"M O'Kelly, A Sinha, H Namkoong, J Duchi, R Tedrake",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4828900193831747041,1,2019
+Distributionally robust losses against mixture covariate shifts,"JC Duchi, T Hashimoto, H Namkoong",preprint,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10677525944039465633,1,2019
+A constrained risk inequality for general losses,"JC Duchi, F Ruan",arXiv preprint arXiv:1804.08116,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14120826147251947161,1,2018
+"A few notes on contiguity, asymptotics, and local asymptotic normality",J Duchi,"Technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11054097716502697099,1,2018
+"Information Measures, Experiments, Multi-category Hypothesis Tests, and Surrogate Losses","JC Duchi, K Khosravi, F Ruan",arXiv preprint arXiv 1603,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12490821867536820571,1,2016
+CS229 Supplemental Lecture notes,J Duchi,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4566969268581950473,1,2016
+Optimization with uncertain data,J Duchi,Notes 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17535356320899526722,1,2015
+Multiple Optimality Guarantees in Statistical Learning,JC Duchi,UC Berkeley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10971566353420503871,1,2014
+Stochastic optimization with non-iid noise,"A Agarwal, JC Duchi",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12483385276263688851,1,2011
+The Multi-Armed Bandit Problem,J Duchi,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4118496730297577355,1,0
+Probability Bounds,J Duchi,URL: http://www. cs. berkeley. edu/jduchi/projects/probability bounds. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=169933636654100065,1,0
+Element Level Differential Privacy: The Right Granularity of Privacy,"H Asi, J Duchi, O Javidbakht",arXiv preprint arXiv:1912.04042,,0,2019
+"Necessary and Sufficient Conditions for Adaptive, Mirror, and Standard Gradient Methods","D Levy, JC Duchi",arXiv preprint arXiv:1909.10455,,0,2019
+Necessary and Sufficient Geometries for Adaptive Gradient Algorithms,"D Levy, J Duchi",,,0,2019
+Comments on Michael Jordan’s Essay “The AI Revolution Hasn’t Happened Yet,"E Candès, J Duchi, C Sabatti",Harvard Data Science Review,,0,2019
+Modeling simple structures and geometry for better stochastic optimization algorithms,"H Asi, JC Duchi",The 22nd International Conference on Artificial Intelligence and Statistics …,,0,2019
+"Proximal algorithms for constrained composite optimization, with applications to solving low-rank SDPs","Y Bai, J Duchi, S Mei",arXiv preprint arXiv:1903.00184,,0,2019
+Necessary and Sufficient Geometries for Gradient Methods,"D Levy, JC Duchi","Advances in Neural Information Processing Systems, 11491-11501",,0,2019
+AC-PCA adjusts for confounding variation and recovers the anatomical structure of neocortex,"Z Lin, C Yang, Y Zhu, JC Duchi, Y Fu, Y Wang, B Jiang, M Zamanighomi, ...","bioRxiv, 040485",,0,2016
+Dynamic management of network risk from epidemic phenomena,"A Sinha, J Duchi, N Bambos","2015 54th IEEE Conference on Decision and Control (CDC), 1583-1588",,0,2015
+"Convexity, Detection, and Generalized f-divergences","K Khosravi, F Ruan, J Duchi",,,0,2015
+Exercises for EE364b,"S Boyd, J Duchi",,,0,2015
+Randomized Smoothing Techniques in Optimization,J Duchi,,,0,2014
+Minimaxity with respect to convex cones Draft please do not distribute,"J Duchi, S Negahban",,,0,2013
+"Local Privacy, Statistical Minimax Rates, and Learning","JC Duchi, MI Jordan, MJ Wainwright","University of California, Berkeley",,0,2013
+Proximal and First-Order Methods for Convex Optimization,"JC Duchi, Y Singer","Interpretation 2, 2",,0,2013
+A Research Proposal for Total Variation Regularizers,J Duchi,,,0,2010
+AI Goes To Jr. Medical School,"E Candes, J Duchi, C Sabatti",,,0,0
+Anomaly Detection for Asynchronous and Incomplete Data,"J Duchi, L Mackey, F Wauthier",,,0,0
+Exercises for Theory of Statistics (Stats300b),J Duchi,,,0,0
+"Lower Bounds for Finding Stationary Points of Non-Convex, Smooth High-Dimensional Functions","Y Carmon, JC Duchi, O Hinder, A Sidford",,,0,0
+Reproducing Kernel Hilbert Spaces,J Duchi,,,0,0
+CS229 Supplemental Lecture notes Hoeffding’s inequality,J Duchi,,,0,0
+Fast rates of convergence for learning problems,J Duchi,,,0,0
+Statistical Estimation of Large Deviation Rates for iid Sub-exponential Random Walks,"H Namkoong, JC Duchi, PW Glynn",,,0,0
+"Uniform concentration inequalities, martingales, Rademacher complexity and symmetrization",J Duchi,,,0,0
+VC Dimension and classification,J Duchi,,,0,0
+Online Learning and Online Convex Optimization,J Duchi,,,0,0
+Concentration inequalities and tail bounds,J Duchi,,,0,0
+Proofs for empirical likelihood with general f-divergences,"H Namkoong, JC Duchi, PW Glynn",,,0,0
+Lecture 2: Subgradient Methods,JC Duchi,"interpretation 2, 3",,0,0
+Convex Analysis Background,JC Duchi,,,0,0
+"Please sign, scan, and send (as a pdf fifile) to production@ jmlr. org, along with your fifinal submission.","Y Zhang, J Duchi, M Wainwright",,,0,0
+Learning using Forward Looking Subgradients,"J Duchi, Y Singer",,,0,0
+"Convexity, Detection, and, Generalized f-divergences","J Duchi, K Khosravi, F Ruan",,,0,0
+Discrete Abstractions of Nonlinear Systems Based on Error Propagation Analysis................. Y. Tazaki and J. Imura 550 Adaptive Controller for Uncertain Nonlinear Multi …,"H Sun, N Hovakimyan, T Basar, F Paganini, A Tang, A Ferragut, ...",,,0,0

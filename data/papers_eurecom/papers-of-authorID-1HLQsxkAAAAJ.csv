@@ -1,0 +1,11 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+HFSP: size-based scheduling for Hadoop,"M Pastorelli, A Barbuzzi, D Carra, M Dell'Amico, P Michiardi","2013 IEEE International Conference on Big Data, 51-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=648261038198173316,49,2013
+Revisiting size-based scheduling with estimated job sizes,"M Dell'Amico, D Carra, M Pastorelli, P Michiardi","2014 IEEE 22nd International Symposium on Modelling, Analysis & Simulation …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4757586937817471430,31,2014
+HFSP: bringing size-based scheduling to Hadoop,"M Pastorelli, D Carra, M Dell'Amico, P Michiardi","IEEE Transactions on Cloud Computing 5 (1), 43-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13218006745760912480,26,2015
+Os-assisted task preemption for hadoop,"M Pastorelli, M Dellámico, P Michiardi",2014 IEEE 34th International Conference on Distributed Computing Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15759515861287785286,18,2014
+Practical size-based scheduling for MapReduce workloads,"M Pastorelli, A Barbuzzi, D Carra, M Dell'Amico, P Michiardi",arXiv preprint arXiv:1302.2749,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13549531488524312799,16,2013
+Size-based disciplines for job scheduling in data-intensive scalable computing systems,M Pastorelli,,,0,2014
+Disciplines basées sur la taille pour la planification des jobs dans data-intensif scalable computing systems,M Pastorelli,"Paris, ENST",,0,2014
+Doctorat ParisTech THÈSE,M PASTORELLI,TELECOM ParisTech,,0,2014
+HFSP: The Hadoop Fair Sojourn Protocol,"M Pastorelli, A Barbuzzi, D Carra, P Michiardi",arXiv preprint arXiv:1302.2749,,0,2013
+Hadoop MapReduce in Practice,"A Barbuzzi, M Pastorelli",,,0,0
