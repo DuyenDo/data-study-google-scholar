@@ -1,6 +1,5 @@
 import scrapy
 from scrapy.http import TextResponse
-from scrapy.utils.log import configure_logging
 
 from selenium import webdriver
 
@@ -26,7 +25,7 @@ class GSSpider(scrapy.Spider):
         authors_df = pd.read_csv(authors_path)
         
         urls = ('https://scholar.google.com/citations?hl=en&user=' + authors_df['AuthorID'].astype(str))\
-                .to_list()[0:1]
+                .to_list()
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
@@ -93,12 +92,13 @@ class GSSpider(scrapy.Spider):
                 papers.append(paper)
             
             # Output
-            organization = self.input_file.split('.')[0].replace("authors_", "")
-            papers_csv = get_path([self.ROOT_DIR,\
-                                "data", "papers", organization, "papers-of-authorID-{}.csv".format(user_id)])
-            write_csv(papers, papers_csv)
-            papers_pkl = get_path([self.ROOT_DIR, \
-                                "data", "papers", organization, "papers-of-authorID-{}.pkl".format(user_id)])
-            write_pickle(papers, papers_pkl)
-            monitor_file = get_path([self.ROOT_DIR, "data", "monitors", 'crawled_' + self.input_file])
+            organization = self.input_file.split('.')[0]
+            csv_path = get_path([self.ROOT_DIR, "data", "papers", organization, \
+                                "papers-of-authorID-{}.csv".format(user_id)])
+            write_csv(papers, csv_path)
+            pkl_path = get_path([self.ROOT_DIR, "data", "papers", organization, \
+                                "papers-of-authorID-{}.pkl".format(user_id)])
+            write_pickle(papers, pkl_path)
+
+            monitor_file = get_path([self.ROOT_DIR, "data", "monitors", 'crawled_{}'.format(self.input_file)])
             monitor_crawler(monitor_file, user_id)
