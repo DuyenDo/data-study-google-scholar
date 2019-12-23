@@ -15,7 +15,7 @@ import pandas as pd
 from utils.tools import get_path, write_csv, write_pickle, monitor_crawler
 
 class GSSpider(scrapy.Spider):
-    name = "papers_2"
+    name = "papers"
 
     def __init__(self, input_file = ''):
         self.ROOT_DIR = os.path.dirname(sys.modules['__main__'].__file__)
