@@ -8,9 +8,20 @@ try:
         [
             'scrapy',
             'crawl',
-            'papers_2',
-            '-a', 'input_file=authors_eurecom_fr.csv'
+            'papers',
+            '-a', 'input_file=authors_orgID_8539678734835078480.csv'
         ]
     )
 except SystemExit:
     pass
+
+# try:
+#     execute(
+#         [
+#             'scrapy',
+#             'crawl',
+#             'authors'
+#         ]
+#     )
+# except SystemExit:
+#     pass
