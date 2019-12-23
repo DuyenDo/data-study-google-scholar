@@ -17,6 +17,7 @@
 >	```$pip install -U selenium```
 >
 >   Download webdriver (chromedriver.exe/geckodriver.exe/...) and put it in ```google_scholar/libs```
+>	For linux server: ```$sudo apt-get install -y chromium-browser```
 
 - Spiders: `google_scholar/spiders`
 > -	Get list of papers given user URLs
