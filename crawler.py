@@ -8,7 +8,8 @@ try:
         [
             'scrapy',
             'crawl',
-            'papers'
+            'papers_2',
+            '-a', 'input_file=authors_eurecom_fr.csv'
         ]
     )
 except SystemExit:
