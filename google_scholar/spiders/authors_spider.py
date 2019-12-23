@@ -6,6 +6,7 @@ from selenium import webdriver
 import os
 import sys
 import time
+import platform
 
 import pandas as pd
 
@@ -28,7 +29,10 @@ class GSSpider(scrapy.Spider):
 
     def parse(self, response):
         # Configure webdriver
-        chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver.exe"])
+        if platform.system() == 'Windows':
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver.exe"])
+        else:
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver"])
         op = webdriver.ChromeOptions()
         op.add_argument('headless')
         self.driver = webdriver.Chrome(executable_path=chromedriver_path, options=op)
