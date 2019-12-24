@@ -24,7 +24,7 @@ class GSSpider(scrapy.Spider):
         organizations_df = pd.read_csv(organizations_path)
         urls = organizations_df['URL'].to_list()
 
-        for url in urls:
+        for url in urls[len(urls)-1:]:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
