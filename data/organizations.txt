@@ -1,3 +1,4 @@
 Organization,URL
 eurecom,https://scholar.google.com/citations?view_op=view_org&hl=en&org=7868974552293588111
 stanford,https://scholar.google.com/citations?view_op=view_org&hl=en&org=8539678734835078480
+mit,https://scholar.google.com/citations?view_op=view_org&hl=en&org=16345133980181568013
