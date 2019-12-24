@@ -26,17 +26,28 @@ os.chdir(os.path.dirname(os.path.realpath(__file__)))
 # except SystemExit:
 #     pass
 
+# try:
+#     execute(
+#         [
+#             'scrapy',
+#             'crawl',
+#             'citations',
+#             '-a', 'input_dir=authors_orgID_7868974552293588111',
+#             '-a', 'input_file=papers-of-authorID-_b6dDHMAAAAJ.csv'
+#             # if arg 'input_file' is specified: read 'data/papers/<input_dir>/<input_file>.csv'
+#             # else: read 'data/papers/input_dir/*.csv'
+            
+#         ]
+#     )
+# except SystemExit:
+#     pass
+
 try:
     execute(
         [
             'scrapy',
             'crawl',
-            'citations',
-            '-a', 'input_dir=authors_orgID_7868974552293588111',
-            '-a', 'input_file=papers-of-authorID-_b6dDHMAAAAJ.csv'
-            # if arg 'input_file' is specified: read 'data/papers/<input_dir>/<input_file>.csv'
-            # else: read 'data/papers/input_dir/*.csv'
-            
+            'data_comparison_gs'
         ]
     )
 except SystemExit:
