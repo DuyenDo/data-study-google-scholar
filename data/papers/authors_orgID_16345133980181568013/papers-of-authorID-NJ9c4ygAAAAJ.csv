@@ -1,0 +1,456 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Fast bilateral filtering for the display of high-dynamic-range images,"F Durand, J Dorsey","ACM transactions on graphics (TOG) 21 (3), 257-266",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11192691375268551259,2250,2002
+Learning to predict where humans look,"T Judd, K Ehinger, F Durand, A Torralba","2009 IEEE 12th international conference on computer vision, 2106-2113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14693950703351376406,1743,2009
+Image and depth from a conventional camera with a coded aperture,"A Levin, R Fergus, F Durand, WT Freeman","ACM transactions on graphics (TOG) 26 (3), 70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13374634171406165475,1500,2007
+Understanding and evaluating blind deconvolution algorithms,"A Levin, Y Weiss, F Durand, WT Freeman","2009 IEEE Conference on Computer Vision and Pattern Recognition, 1964-1971",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6896612531617433323,968,2009
+Eulerian video magnification for revealing subtle changes in the world,"HY Wu, M Rubinstein, E Shih, J Guttag, F Durand, W Freeman",Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5599580696222085866,937,2012
+Flash photography enhancement via intrinsic relighting,"E Eisemann, F Durand","ACM transactions on graphics (TOG) 23 (3), 673-678",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14278715139386806675,718,2004
+"Non-iterative, feature-preserving mesh smoothing","TR Jones, F Durand, M Desbrun","ACM Transactions on Graphics (TOG) 22 (3), 943-949",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=447029038951924633,633,2003
+Image-based modeling and photo editing,"BM Oh, M Chen, J Dorsey, F Durand",Proceedings of the 28th annual conference on Computer graphics and …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5880084957811659190,17572334368430692299",597,2001
+A fast approximation of the bilateral filter using a signal processing approach,"S Paris, F Durand","European conference on computer vision, 568-580",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=579461221986691387,595,2006
+"Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines","J Ragan-Kelley, C Barnes, A Adams, S Paris, F Durand, S Amarasinghe","Acm Sigplan Notices 48 (6), 519-530",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13170145555722133781,594,2013
+A fast approximation of the bilateral filter using a signal processing approach,"S Paris, F Durand","International journal of computer vision 81 (1), 24-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8019836239800710628,573,2009
+A survey of visibility for walkthrough applications,"D Cohen-Or, YL Chrysanthou, CT Silva, F Durand","IEEE Transactions on Visualization and Computer Graphics 9 (3), 412-431",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17464836009614422553,550,2003
+Bilateral filtering: Theory and applications,"S Paris, P Kornprobst, J Tumblin, F Durand","Foundations and Trends® in Computer Graphics and Vision 4 (1), 1-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12324405305038654068,544,2009
+Real-time edge-aware image processing with the bilateral grid,"J Chen, S Paris, F Durand","ACM Transactions on Graphics (TOG) 26 (3), 103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14786360578071774197,535,2007
+Efficient marginal likelihood optimization in blind deconvolution,"A Levin, Y Weiss, F Durand, WT Freeman","CVPR 2011, 2657-2664",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14640875971012298131,485,2011
+Experimental analysis of brdf models.,"A Ngan, F Durand, W Matusik","Rendering Techniques 2005 (16th), 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16898706437436756845,479,2005
+A benchmark of computational models of saliency to predict human fixations,"T Judd, F Durand, A Torralba",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4412243386290232687,412,2012
+Phase-based video motion processing,"N Wadhwa, M Rubinstein, F Durand, WT Freeman","ACM Transactions on Graphics (TOG) 32 (4), 80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12166708329761144069,405,2013
+Detecting pulse from head motions in video,"G Balakrishnan, F Durand, J Guttag",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11312438894747118387,402,2013
+Two-scale tone management for photographic look,"S Bae, S Paris, F Durand","ACM Transactions on Graphics (TOG) 25 (3), 637-645",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7700503463414492291,399,2006
+Understanding blind deconvolution algorithms,"A Levin, Y Weiss, F Durand, WT Freeman","IEEE transactions on pattern analysis and machine intelligence 33 (12), 2354 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14615864784664261908,317,2011
+Motion magnification,"C Liu, A Torralba, WT Freeman, F Durand, EH Adelson","ACM transactions on graphics (TOG) 24 (3), 519-526",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1049915870896356014,310,2005
+Apparent ridges for line drawing,"T Judd, F Durand, E Adelson","ACM Transactions on Graphics (TOG) 26 (3), 19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12015113527058573461,297,2007
+Edge-preserving multiscale image decomposition based on local extrema,"K Subr, C Soler, F Durand","ACM Transactions on Graphics (TOG) 28 (5), 147",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2054774393882863969,287,2009
+A frequency analysis of light transport,"F Durand, N Holzschuch, C Soler, E Chan, FX Sillion","ACM Transactions on Graphics (TOG) 24 (3), 1115-1126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10777795998880922847,269,2005
+Defocus magnification,"S Bae, F Durand","Computer Graphics Forum 26 (3), 571-579",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2250244893806883492,262,2007
+What do different evaluation metrics tell us about saliency models?,"Z Bylinskii, T Judd, A Oliva, A Torralba, F Durand","IEEE transactions on pattern analysis and machine intelligence 41 (3), 740-757",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9868191028129995803,250,2018
+A gentle introduction to bilateral filtering and its applications,"S Paris, P Kornprobst, J Tumblin, F Durand","ACM SIGGRAPH 2007 courses, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14325566239389609537,244,2007
+Billboard clouds for extreme model simplification,"X Décoret, F Durand, FX Sillion, J Dorsey","ACM Transactions on Graphics (TOG) 22 (3), 689-696",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9555109487629457298,239,2003
+Conservative visibility preprocessing using extended projections,"F Durand, G Drettakis, J Thollot, C Puech",Proceedings of the 27th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=816106123610103377,222,2000
+User-assisted intrinsic images,"A Bousseau, S Paris, F Durand","ACM Transactions on Graphics (TOG) 28 (5), 130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3235545541222729640,211,2009
+A topological approach to hierarchical segmentation using mean shift,"S Paris, F Durand","2007 IEEE Conference on Computer Vision and Pattern Recognition, 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3417837854898930266,211,2007
+Mit saliency benchmark,"Z Bylinskii, T Judd, A Borji, L Itti, F Durand, A Oliva, A Torralba",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10851326648974978309,208,2015
+Learning photographic global tonal adjustment with a database of input/output image pairs,"V Bychkovsky, S Paris, E Chan, F Durand","CVPR 2011, 97-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18341552055869248564,207,2011
+Defocus video matting,"M McGuire, W Matusik, H Pfister, JF Hughes, F Durand","ACM Transactions on Graphics (ToG) 24 (3), 567-576",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10632702871859251701,207,2005
+The visibility skeleton: A powerful and efficient multi-purpose global visibility tool,"F Durand, G Drettakis, C Puech","Siggraph 97, 89-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10785133409641485399,197,1997
+The visual microphone: passive recovery of sound from video,"A Davis, M Rubinstein, N Wadhwa, GJ Mysore, F Durand, WT Freeman",Association for Computing Machinery (ACM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15577708647215288638,195,2014
+Decoupling algorithms from schedules for easy optimization of image processing pipelines,"J Ragan-Kelley, A Adams, S Paris, M Levoy, S Amarasinghe, F Durand",Association for Computing Machinery (ACM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1645719340227483281,194,2012
+Motion-invariant photography,"A Levin, P Sand, TS Cho, F Durand, WT Freeman","ACM Transactions on Graphics (TOG) 27 (3), 71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16385002308223303503,193,2008
+Modal identification of simple structures with high-speed video using motion magnification,"JG Chen, N Wadhwa, YJ Cha, F Durand, WT Freeman, O Buyukozturk","Journal of Sound and Vibration 345, 58-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15749181832784556955,191,2015
+Light mixture estimation for spatially varying white balance,"E Hsu, T Mertens, S Paris, S Avidan, F Durand","ACM transactions on graphics (TOG) 27 (3), 70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10433372214977288404,170,2008
+Capturing the human figure through a wall,"F Adib, CY Hsu, H Mao, D Katabi, F Durand","ACM Transactions on Graphics (TOG) 34 (6), 219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4959033703348220140,165,2015
+Riesz pyramids for fast phase-based video magnification,"N Wadhwa, M Rubinstein, F Durand, WT Freeman","2014 IEEE International Conference on Computational Photography (ICCP), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=138855337013932251,165,2014
+Noise-optimal capture for high dynamic range photography,"SW Hasinoff, F Durand, WT Freeman",2010 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9366451809973327625,162,2010
+Antialiasing for Automultiscopic 3D Displays.,"M Zwicker, W Matusik, F Durand, H Pfister, C Forlines","Rendering Techniques 2006, 17th",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10789665413556908079,161,2006
+An invitation to discuss computer depiction,F Durand,Proceedings of the 2nd international symposium on Non-photorealistic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12796119184368644522,161,2002
+Deep joint demosaicking and denoising,"M Gharbi, G Chaurasia, S Paris, F Durand","ACM Transactions on Graphics (TOG) 35 (6), 191",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=629583401266516852,146,2016
+3D Visibility: analytical study and applications,F Durand,Proceedings of PhD Dissertation published 1999,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11859268230732865966,141,1999
+Interactive tone mapping,"F Durand, J Dorsey","Rendering Techniques 2000, 219-230",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7805939566280364540,137,2000
+Data-driven hallucination of different times of day from a single outdoor photo,"Y Shih, S Paris, F Durand, WT Freeman","ACM Transactions on Graphics (TOG) 32 (6), 200",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5880962667622681242,135,2013
+4D frequency analysis of computational cameras for depth of field extension,"A Levin, SW Hasinoff, P Green, F Durand, WT Freeman","ACM Transactions on Graphics (TOG) 28 (3), 97",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3215849866970838474,134,2009
+Linear view synthesis using a dimensionality gap light field prior,"A Levin, F Durand",2010 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8007509757474096319,131,2010
+Procedural modeling of structurally-sound masonry buildings,"E Whiting, J Ochsendorf, F Durand",Association for Computing Machinery (ACM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10762927086852024461,130,2009
+Implicit visibility and antiradiance for interactive global illumination,"C Dachsbacher, M Stamminger, G Drettakis, F Durand","ACM Transactions on Graphics (TOG) 26 (3), 61",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9871337459103858650,130,2007
+Texture design using a simplicial complex of morphable textures,"W Matusik, M Zwicker, F Durand","ACM Transactions on Graphics (TOG) 24 (3), 787-794",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5808497286173403186,129,2005
+Rendering Fake Soft Shadows with Smoothies.,"E Chan, F Durand","Rendering Techniques, 208-218",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17934425708612729817,126,2003
+"Patch complexity, finite pixel correlations and optimal denoising","A Levin, B Nadler, F Durand, WT Freeman","European Conference on Computer Vision, 73-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16250341821916737582,120,2012
+A physically-based night sky model,"HW Jensen, F Durand, J Dorsey, MM Stark, P Shirley, S Premože",Proceedings of the 28th annual conference on Computer graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18293367392916642840,120,2001
+Style transfer for headshot portraits,"YC Shih, S Paris, C Barnes, WT Freeman, F Durand","ACM Transactions on Graphics (TOG) 33 (4), 148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7078635406694819140,119,2014
+Frequency analysis and sheared reconstruction for rendering motion blur,"K Egan, YT Tseng, N Holzschuch, F Durand, R Ramamoorthi","ACM Transactions on Graphics (TOG) 28 (3), 93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477700220594412405,119,2009
+Unstructured light fields,"A Davis, M Levoy, F Durand","Computer Graphics Forum 31 (2pt1), 305-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3139555516783332708,113,2012
+Fast local laplacian filters: Theory and applications,"M Aubry, S Paris, SW Hasinoff, J Kautz, F Durand","ACM Transactions on Graphics (TOG) 33 (5), 167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4039533438126016382,111,2014
+Hair photobooth: geometric and photometric acquisition of real hairstyles,"S Paris, W Chang, OI Kozhushnyan, W Jarosz, W Matusik, M Zwicker, ...","ACM Transactions on Graphics (TOG) 27 (3), 30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18134112460348877991,111,2008
+Deep bilateral learning for real-time image enhancement,"M Gharbi, J Chen, JT Barron, SW Hasinoff, F Durand","ACM Transactions on Graphics (TOG) 36 (4), 118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16373356176357810725,110,2017
+Linear-based Eulerian motion modulation,"HY Wu, M Rubinstein, EI Shih, JV Guttag, F Durand, WT Freeman","US Patent 9,811,901",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=25565343442470493,107,2017
+Fourier depth of field,"C Soler, K Subr, F Durand, N Holzschuch, F Sillion","ACM Transactions on Graphics (TOG) 28 (2), 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3328721078185605807,103,2009
+Understanding camera trade-offs through a Bayesian analysis of light field projections,"A Levin, WT Freeman, F Durand","European Conference on Computer Vision, 88-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11688694006909061515,102,2008
+Multi-aperture photography,"P Green, W Sun, W Matusik, F Durand","ACM Transactions on Graphics (TOG) 26 (3), 68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1679853695470650218,102,2007
+3D modeling with silhouettes,"A Rivers, F Durand, T Igarashi","ACM Transactions on Graphics (TOG) 29 (4), 109",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11345702294384448449,101,2010
+Competitor analysis and its defenses in the e-marketplace,"YP Sheng, PP Mykytyn Jr, CR Litecky","Communications of the ACM 48 (8), 107-112","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8971574809362480130,15305032795146851643,16859500758518586971,2702107568237882989,2847929831675552737,17246411173499750480,10869433795188372592,14659152391394716272,17646590815216159063,10115756227424935060,8166173205794975785,15499094646636077345",101,2005
+Reflection removal using ghosting cues,"YC Shih, D Krishnan, F Durand, WT Freeman",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10201334849895123920,99,2015
+The 3D visibility complex: a new approach to the problems of accurate visibility,"F Durand, G Drettakis, C Puech","Rendering Techniques’ 96, 245-256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8391502061215924532,98,1996
+Coherent intrinsic images from photo collections,"PY Laffont, A Bousseau, S Paris, F Durand, G Drettakis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10469538639938570885,97,2012
+Where should saliency models look next?,"Z Bylinskii, A Recasens, A Borji, A Oliva, A Torralba, F Durand","European Conference on Computer Vision, 809-824",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246391995034234789,96,2016
+A meshless hierarchical representation for light transport,"J Lehtinen, M Zwicker, E Turquin, J Kontkanen, F Durand, FX Sillion, ...","ACM Transactions on Graphics (TOG) 27 (3), 37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5261853564188005631,96,2008
+Visual vibrometry: Estimating material properties from small motion in video,"A Davis, KL Bouman, JG Chen, M Rubinstein, F Durand, WT Freeman",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10371778507178235426,95,2015
+Temporal light field reconstruction for rendering distribution effects,"J Lehtinen, T Aila, J Chen, S Laine, F Durand","ACM Transactions on Graphics (TOG) 30 (4), 55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3780299738776860249,95,2011
+Decoupling strokes and high-level attributes for interactive traditional drawing,"F Durand, V Ostromoukhov, M Miller, F Duranleau, J Dorsey","Rendering Techniques 2001, 71-82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16670513040365668790,95,2001
+Light field reconstruction using sparsity in the continuous fourier domain,"L Shi, H Hassanieh, A Davis, D Katabi, F Durand","ACM Transactions on Graphics (TOG) 34 (1), 12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12823538492086863107,92,2014
+Fixations on low-resolution images,"T Judd, F Durand, A Torralba","Journal of Vision 11 (4), 14-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6710963233056141464,91,2011
+Computational rephotography,"S Bae, A Agarwala, F Durand","ACM Transactions on Graphics (ToG) 29 (3), 24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3200687299068315712,90,2010
+The 3D visibility complex,"F Durand, G Drettakis, C Puech","ACM Transactions on Graphics (TOG) 21 (2), 176-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12510608370598221191,90,2002
+2.5 D cartoon models,"A Rivers, T Igarashi, F Durand","ACM Transactions on Graphics (TOG) 29 (4), 59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5618536546908827341,88,2010
+An Efficient Hybrid Shadow Rendering Algorithm.,"E Chan, F Durand","Rendering Techniques 2004, 15th",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13926936582975015948,86,2004
+Decoupled sampling for graphics pipelines,"J Ragan-Kelley, J Lehtinen, J Chen, M Doggett, F Durand","ACM Transactions on Graphics (TOG) 30 (3), 17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875049201700184099,85,2011
+Method of performing fast bilateral filtering and using the same for the display of high-dynamic-range images,"F Durand, J Dorsey","US Patent 7,146,059",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12097812855971278497,84,2006
+Deconvolution using natural image priors,"A Levin, R Fergus, F Durand, WT Freeman","Massachusetts Institute of Technology, Computer Science and Artificial …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15744472634480869916,81,2007
+Synthesizing images of humans in unseen poses,"G Balakrishnan, A Zhao, AV Dalca, F Durand, J Guttag",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1396601084350324615,74,2018
+Complex-valued phase-based eulerian motion modulation,"N Wadhwa, M Rubinstein, F Durand, WT Freeman, HY Wu, EI Shih, ...","US Patent 9,324,005",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2147374973941403509,74,2016
+Fast and accurate hierarchical radiosity using global visibility,"F Durand, G Drettakis, C Puech","ACM Transactions on Graphics (TOG) 18 (2), 128-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7381941254755764408,73,1999
+Eulerian motion modulation,"M Rubinstein, N Wadhwa, F Durand, WT Freeman, HY Wu, EI Shih, ...","US Patent 9,805,475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15042874224367827953,72,2017
+Frequency analysis and sheared filtering for shadow light fields of complex occluders,"K Egan, F Hecht, F Durand, R Ramamoorthi","ACM Transactions on Graphics (TOG) 30 (2), 9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13138792899392849996,72,2011
+A multidisciplinary survey of visibility,F Durand,"ACM Siggraph course notes Visibility, Problems, Techniques, and Applications",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3261767704463773581,70,2000
+Motion denoising with application to time-lapse photography,"M Rubinstein, C Liu, P Sand, F Durand, WT Freeman","CVPR 2011, 313-320",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5677080705468102418,69,2011
+Programmable style for NPR line drawing,"S Grabli, E Turquin, F Durand, FX Sillion",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11996905456564016164,69,2004
+System and method for image matting,"M McGuire, W Matusik, H Pfister, JF Hughes, F Durand","US Patent 7,599,555",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2984012201792132005,67,2009
+Time-constrained photography,"SW Hasinoff, KN Kutulakos, F Durand, WT Freeman","2009 IEEE 12th International Conference on Computer Vision, 333-340",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4851300059534826182,67,2009
+Linear Bellman combination for control of character animation,"M Da Silva, F Durand, J Popović","Acm transactions on graphics (tog) 28 (3), 82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17743585121916044048,67,2009
+Image-driven Navigation of Analytical BRDF Models.,"A Ngan, F Durand, W Matusik","Rendering Techniques, 399-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10474982660996306713,67,2006
+View-dependent precomputed light transport using nonlinear gaussian function approximations,"P Green, J Kautz, W Matusik, F Durand","Proceedings of the 2006 symposium on Interactive 3D graphics and games, 7-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7767424053788344555,67,2006
+Video magnification in presence of large motions,"M Elgharib, M Hefeeda, F Durand, WT Freeman",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4863136795361380255,64,2015
+A precomputed polynomial representation for interactive BRDF editing with global illumination,"A Ben-Artzi, K Egan, F Durand, R Ramamoorthi","ACM Transactions on Graphics (TOG) 27 (2), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16172604461404832783,64,2008
+Motion blur removal with orthogonal parabolic exposures,"TS Cho, A Levin, F Durand, WT Freeman","2010 IEEE International Conference on Computational Photography (ICCP), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15919342223985787135,63,2010
+Spherical harmonic Gradients for Mid-Range Illumination.,"T Annen, J Kautz, F Durand, HP Seidel","Rendering Techniques, 331-336",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8866209621493119173,63,2004
+Programmable rendering of line drawing from 3D scenes,"S Grabli, E Turquin, F Durand, FX Sillion","ACM Transactions on Graphics (TOG) 29 (2), 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1243391546219802853,62,2010
+Annotation propagation in large image databases via dense image correspondence,"M Rubinstein, C Liu, WT Freeman","European Conference on Computer Vision, 85-99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1358984132947173443,61,2012
+Normal improvement for point rendering,"TR Jones, F Durand, M Zwicker","IEEE Computer Graphics and Applications 24 (4), 53-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1492040538769095207,60,2004
+5D covariance tracing for efficient defocus and motion blur,"L Belcour, C Soler, K Subr, N Holzschuch, F Durand","ACM Transactions on Graphics (TOG) 32 (3), 31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=719495711568606248,59,2013
+Reconstructing the indirect light field for global illumination,"J Lehtinen, T Aila, S Laine, F Durand","ACM Transactions on Graphics (TOG) 31 (4), 51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9873771407209770728,59,2012
+Interactive editing and modeling of bidirectional texture functions,"J Kautz, S Boulos, F Durand","ACM Transactions on Graphics (TOG) 26 (3), 53",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4815411495345749775,57,2007
+Gradient-domain metropolis light transport,"J Lehtinen, T Karras, S Laine, M Aittala, F Durand, T Aila","ACM Transactions on Graphics (TOG) 32 (4), 95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1714039791675697637,56,2013
+Structural optimization of 3D masonry buildings,"E Whiting, H Shin, R Wang, J Ochsendorf, F Durand","ACM Transactions on Graphics (TOG) 31 (6), 159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12093139687794325930,55,2012
+Joint view expansion and filtering for automultiscopic 3D displays,"P Didyk, P Sitthi-Amorn, W Freeman, F Durand, W Matusik","ACM Transactions on Graphics (TOG) 32 (6), 221","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13074654666292081959,15176757815863491624",54,2013
+Density measure for line-drawing simplification,"S Grabli, F Durand, FX Sillion","12th Pacific Conference on Computer Graphics and Applications, 2004. PG 2004 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8986460374132211012,54,2004
+De-emphasis of distracting image regions using texture power maps,"SL Su, F Durand, M Agrawala",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17101723172321446897,53,2005
+Turning corners into cameras: Principles and methods,"KL Bouman, V Ye, AB Yedidia, F Durand, GW Wornell, A Torralba, ...","Proceedings of the IEEE International Conference on Computer Vision, 2270-2278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=721883719922745234,52,2017
+Sculpting by numbers,"A Rivers, A Adams, F Durand","ACM Transactions on Graphics (TOG) 31 (6), 157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16869515553461251390,52,2012
+Position-correcting tools for 2D digital fabrication,"A Rivers, IE Moyer, F Durand","ACM Transactions on Graphics (TOG) 31 (4), 88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10841044546954535249,52,2012
+The lightspeed automatic interactive lighting preview system,"J Ragan-Kelley, C Kilpatrick, BW Smith, D Epps, P Green, C Hery, ...","ACM Transactions on Graphics (TOG) 26 (3), 25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11235515076687084235,52,2007
+An interactive artificial ant approach to non-photorealistic rendering,"Y Semet, UM O’Reilly, F Durand","Genetic and Evolutionary Computation Conference, 188-200",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=202700516110618588,51,2004
+Dynamic canvas for immersive non-photorealistic walkthroughs,"M Cunzi, J Thollot, S Paris, G Debunne, JD Gascuel, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14178946329577604602,49,2003
+Differentiable monte carlo ray tracing through edge sampling,"TM Li, M Aittala, F Durand, J Lehtinen","ACM Transactions on Graphics (TOG) 37 (6), 222",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12907197017842649361,48,2019
+Eulerian video magnification and analysis,"N Wadhwa, HY Wu, A Davis, M Rubinstein, E Shih, GJ Mysore, JG Chen, ...","Communications of the ACM 60 (1), 87-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5473024128828419623,45,2016
+Efficient reflectance and visibility approximations for environment map rendering,"P Green, J Kautz, F Durand","Computer Graphics Forum 26 (3), 495-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17966739249573049557,45,2007
+User-guided white balance for mixed lighting conditions.,"I Boyadzhiev, K Bala, S Paris, F Durand","ACM Trans. Graph. 31 (6), 200:1-200:10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6867363907092113193,44,2012
+Gradient-domain path tracing,"M Kettunen, M Manzi, M Aittala, J Lehtinen, F Durand, M Zwicker","ACM Transactions on Graphics (TOG) 34 (4), 123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17239191246387638260,43,2015
+Fabricating BRDFs at high spatial resolution using wave optics,"A Levin, D Glasner, Y Xiong, F Durand, W Freeman, W Matusik, T Zickler","ACM Transactions on Graphics (TOG) 32 (4), 144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7243797837319358889,43,2013
+Laser speckle photography for surface tampering detection,"YC Shih, A Davis, SW Hasinoff, F Durand, WT Freeman","2012 IEEE Conference on Computer Vision and Pattern Recognition, 33-40","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12759312214411592244,11010501377592688924,8618695286328875884",43,2012
+Real-time volumetric shadows using 1D min-max mipmaps,"J Chen, I Baran, F Durand, W Jarosz","Symposium on Interactive 3D Graphics and Games, PAGE@ 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2521492564820014628,43,2011
+Method and system for acquiring and displaying 3D light fields,"W Matusik, H Pfister, M Zwicker, F Durand","US Patent 7,609,906",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6252314278691642544,43,2009
+Anisotropic noise,"A Goldberg, M Zwicker, F Durand","ACM Transactions on Graphics (TOG) 27 (3), 54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3467540774743361922,43,2008
+Radiosity for dynamic scenes in flatland with the visibility complex,"R Orti, S Riviere, F Durand, C Puech","Computer Graphics Forum 15 (3), 237-248",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14782274739791762713,43,1996
+Defining pictorial style: Lessons from linguistics and computer graphics,J Willats,Axiomathes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15541328238336342720,41,2005
+Structural modal identification through high speed camera video: Motion magnification,"JG Chen, N Wadhwa, YJ Cha, F Durand, WT Freeman, O Buyukozturk","Topics in Modal Analysis I, Volume 7, 191-197",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1160184012346163360,40,2014
+Texture Transfer Using Geometry Correlation.,"T Mertens, J Kautz, J Chen, P Bekaert, F Durand",Rendering Techniques 273,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7663579121827411199,40,2006
+Micron-scale light transport decomposition using interferometry,"I Gkioulekas, A Levin, F Durand, T Zickler","ACM Transactions on Graphics (ToG) 34 (4), 37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3315539266502005471,39,2015
+A hierarchical volumetric shadow algorithm for single scattering,"I Baran, J Chen, J Ragan-Kelley, F Durand, J Lehtinen","ACM Transactions on Graphics (TOG) 29 (6), 178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8892485336973651172,39,2010
+Method and apparatus for motion invariant imaging,"A Levin, P Sand, TS Cho, F Durand, WT Freeman","US Patent 8,451,338",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15535668125664507989,38,2013
+Axis-aligned filtering for interactive physically-based diffuse indirect lighting,"SU Mehta, B Wang, R Ramamoorthi, F Durand","ACM Transactions on Graphics (TOG) 32 (4), 96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15157709442545379992,37,2013
+Video camera–based vibration measurement for civil infrastructure applications,"JG Chen, A Davis, N Wadhwa, F Durand, WT Freeman, O Büyüköztürk","Journal of Infrastructure Systems 23 (3), B4016013",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=820378414371502427,36,2016
+Practical filtering for efficient ray-traced directional occlusion,"K Egan, F Durand, R Ramamoorthi","ACM Transactions on Graphics (TOG) 30 (6), 180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15001636675289278242,36,2011
+Experimental validation of analytical BRDF models,"A Ngan, F Durand, W Matusik","ACM SIGGRAPH 2004 Sketches, 90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16376779943653554877,36,2004
+"Resampling, antialiasing, and compression in multiview 3-D displays","M Zwicker, A Vetro, S Yea, W Matusik, H Pfister, F Durand","IEEE Signal Processing Magazine 24 (6), 88-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14859423181687848931,35,2007
+A visibility algorithm for converting 3D meshes into editable 2D vector graphics,"E Eisemann, S Paris, F Durand","ACM Transactions on Graphics (TOG) 28 (3), 83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8226397027710738400,33,2009
+Single-image svbrdf capture with a rendering-aware deep network,"V Deschaintre, M Aittala, F Durand, G Drettakis, A Bousseau","ACM Transactions on Graphics (TOG) 37 (4), 128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2175335711470496178,32,2018
+Image-space modal bases for plausible manipulation of objects in video,"A Davis, JG Chen, F Durand","ACM Transactions on Graphics (TOG) 34 (6), 239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17542287880576461230,32,2015
+Refraction wiggles for measuring fluid depth and velocity from video,"T Xue, M Rubinstein, N Wadhwa, A Levin, F Durand, WT Freeman","European Conference on Computer Vision, 767-782",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6617734532611247824,32,2014
+A Gaussian approximation of feature space for fast image similarity,"M Gharbi, T Malisiewicz, S Paris, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4882455629828068663,32,2012
+"Visibility, problems, techniques and applications","D Cohen-Or, Y Chrysanthou, F Durand, N Greene, V Koltun, C Silva",ACM SIGGRAPH Course 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16371490806215892699,32,2000
+Learning visual importance for graphic designs and data visualizations,"Z Bylinskii, NW Kim, P O'Donovan, S Alsheikh, S Madan, H Pfister, ...",Proceedings of the 30th Annual ACM Symposium on User Interface Software and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5784178175523404409,31,2017
+Statistical Acquisition of Texture Appearance.,"A Ngan, F Durand","Rendering Techniques, 31-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16755707904982358306,31,2006
+The video mesh: A data structure for image-based three-dimensional video editing,"J Chen, S Paris, J Wang, W Matusik, M Cohen, F Durand","2011 IEEE International Conference on Computational Photography (ICCP), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12945625722928654108,30,2011
+A reconfigurable architecture for load-balanced rendering,"J Chen, MI Gordon, W Thies, M Zwicker, K Pulli, F Durand",Proceedings of the ACM SIGGRAPH/EUROGRAPHICS conference on Graphics hardware …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9706497251278455819,30,2005
+Deviation magnification: revealing departures from ideal geometries,"N Wadhwa, T Dekel, D Wei, F Durand, WT Freeman","ACM Transactions on Graphics (TOG) 34 (6), 226","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7615519266309051756,566186264520613639,6382941951827776166",28,2015
+Visual transcripts: lecture notes from blackboard-style lecture videos,"HV Shin, F Berthouzoz, W Li, F Durand","ACM Transactions on Graphics (TOG) 34 (6), 240",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4556333062874450818,28,2015
+Revealing invisible changes in the world,"M Rubinstein, N Wadhwa, F Durand, WT Freeman, HY Wu","Science 339 (6119), 519-519",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10351197258674760074,28,2013
+Differentiable programming for image processing and deep learning in Halide,"TM Li, M Gharbi, A Adams, F Durand, J Ragan-Kelley","ACM Transactions on Graphics (TOG) 37 (4), 139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17401287333734996593,26,2018
+Burst image deblurring using permutation invariant convolutional neural networks,"M Aittala, F Durand","Proceedings of the European Conference on Computer Vision (ECCV), 731-747",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11135569165757938545,26,2018
+A frequency analysis of Monte-Carlo and other numerical integration schemes,F Durand,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13545941797955336686,26,2011
+Semi-convolutional operators for instance segmentation,"D Novotny, S Albanie, D Larlus, A Vedaldi","Proceedings of the European Conference on Computer Vision (ECCV), 86-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13260101119786803825,25,2018
+Visibilité tridimensionnelle: étude analytique et apllications,F Durand,Université Joseph-Fourier-Grenoble I,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1004375873429510598,25,1999
+Anisotropic Gaussian mutations for metropolis light transport through Hessian-Hamiltonian dynamics,"TM Li, J Lehtinen, R Ramamoorthi, W Jakob, F Durand","ACM Transactions on Graphics (TOG) 34 (6), 209",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=461032872256085,23,2015
+Single photo estimation of hair appearance,"N Bonneel, S Paris, M Van de Panne, F Durand, G Drettakis","Computer Graphics Forum 28 (4), 1171-1180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6119164496418293367,23,2009
+Structure-preserving clone brush,"BM Oh, F Durand","US Patent 7,327,374",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6797795201536707099,23,2008
+"Inelastic 12C (12C, 12C) 12C scattering via the Glauber optical potential at E/A= 30 MeV and 85 MeV","J Chauvin, D Lebrun, F Durand, M Buenerd","Journal of Physics G: Nuclear Physics 11 (2), 261",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925230420836637512,23,1985
+Billboard clouds,"X Décoret, F Durand, FX Sillion, J Dorsey",INRIA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15417544422347260608,22,2002
+Riesz pyramids for fast phase-based video magnification,"N Wadhwa, M Rubinstein, F Durand, WT Freeman","US Patent 9,338,331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1885824883072281403,21,2016
+Factored axis-aligned filtering for rendering multiple distribution effects,"SU Mehta, JX Yao, R Ramamoorthi, F Durand","ACM Transactions on Graphics (TOG) 33 (4), 57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=858417325418370889,21,2014
+Using the visibility complex for radiosity computation,"R Orti, F Durand, S Riviere, C Puech","Workshop on Applied Computational Geometry, 177-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17436637532362208542,21,1996
+Halide: decoupling algorithms from schedules for high-performance image processing,"J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...","Communications of the ACM 61 (1), 106-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9680773676737134135,20,2017
+Fast 4D sheared filtering for interactive rendering of distribution effects,"LQ Yan, SU Mehta, R Ramamoorthi, F Durand","ACM Transactions on Graphics (TOG) 35 (1), 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5268798125180265109,20,2015
+Developments with motion magnification for structural modal identification through camera video,"JG Chen, N Wadhwa, F Durand, WT Freeman, O Buyukozturk","Dynamics of Civil Structures, Volume 2, 49-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16086176795123921924,20,2015
+Quaternionic representation of the riesz pyramid for video magnification,"N Wadhwa, M Rubinstein, F Durand, WT Freeman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7837528505432250931,20,2014
+Probabilistic connections for bidirectional path tracing,"S Popov, R Ramamoorthi, F Durand, G Drettakis","Computer Graphics Forum 34 (4), 75-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13654015508587971394,19,2015
+Gradient-Domain Bidirectional Path Tracing.,"M Manzi, M Kettunen, M Aittala, J Lehtinen, F Durand, M Zwicker","EGSR (EI&I), 65-74",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8552555902130385613,18,2015
+Computational rim illumination with aerial robots,"M Srikanth, K Bala, F Durand","Proceedings of the Workshop on Computational Aesthetics, 57-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=315330144320980199,18,2014
+Image adjustment,"S Paris, FP Durand, VL Bychkovsky, E Chan","US Patent 8,666,148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13015231511064576383,18,2014
+Perceptual and artistic principles for effective computer depiction,"F Durand, M Agrawala, B Gooch, V Interrante, V Ostromoukhov, D Zorin",SIGGRAPH 2002 Course# 13 Notes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13748030436910360711,18,2002
+The 3d visibility complex: a unified data-structure for global visibility of scenes of polygons and smooth objects,"F Durand, G Drettakis, C Puech",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15349130009256796196,18,1997
+On the importance of label quality for semantic segmentation,"A Zlateski, R Jaroensri, P Sharma, F Durand",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13551365377623581808,17,2018
+Inferring light fields from shadows,"M Baradad, V Ye, AB Yedidia, F Durand, WT Freeman, GW Wornell, ...",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=537944593784033046,17,2018
+Downsampling scattering parameters for rendering anisotropic media,"S Zhao, L Wu, F Durand, R Ramamoorthi","ACM Transactions on Graphics (TOG) 35 (6), 166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16287155273596504571,17,2016
+Design of structurally-sound masonry buildings using 3d static analysis,EJW Whiting,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6450756400041470241,17,2012
+Fast and robust pyramid-based image processing,"M Aubry, S Paris, SW Hasinoff, J Kautz, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3327232867478474420,17,2011
+BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention,"NW Kim, Z Bylinskii, MA Borkin, KZ Gajos, A Oliva, F Durand, H Pfister","ACM Transactions on Computer-Human Interaction (TOCHI) 24 (5), 36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1528192285034840856,16,2017
+Understanding infographics through textual and visual tag prediction,"Z Bylinskii, S Alsheikh, S Madan, A Recasens, K Zhong, H Pfister, ...",arXiv preprint arXiv:1709.09215,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7290444816551607711,15,2017
+Method and Apparatus for Recovering Audio Signals from Images,"M Rubinstein, MA Davis, F Durand, WT Freeman, N Wadhwa","US Patent App. 14/337,091","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2320559845374673892,10506699440034256274",15,2015
+Improving visual quality of view transitions in automultiscopic displays,"SP Du, P Didyk, F Durand, SM Hu, W Matusik","ACM Transactions on Graphics (TOG) 33 (6), 192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7522252696416264869,15,2014
+"Shapecollage: Occlusion-aware, example-based shape interpretation","F Cole, P Isola, WT Freeman, F Durand, EH Adelson","European Conference on Computer Vision, 665-678",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12942683090411222846,15,2012
+Understanding and predicting where people look in images,T Judd,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10427188147325167063,15,2011
+Gloss perception in painterly and cartoon rendering,"A Bousseau, JP O'shea, F Durand, R Ramamoorthi, M Agrawala","ACM Transactions on Graphics (TOG) 32 (2), 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15781016383045576710,14,2013
+Acquisition and modeling of material appearance,WKA Ngan,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236238010973692228,14,2006
+Transform recipes for efficient cloud photo enhancement,"M Gharbi, YC Shih, G Chaurasia, J Ragan-Kelley, S Paris, F Durand","ACM Transactions on Graphics (TOG) 34 (6), 228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18230734617808232979,13,2015
+Search-and-replace editing for personal photo collections,"SW Hasinoff, M Jóźwiak, F Durand, WT Freeman","2010 IEEE International Conference on Computational Photography (ICCP), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7990155502054335305,13,2010
+Interactive visual histories for vector graphics,"SL Su, S Paris, F Aliaga, C Scull, S Johnson, F Durand","MIT. Retrieved July 11, 2011",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12195383721263910185,13,2009
+An inverted saliency model for display enhancement,"SL Su, F Durand, M Agrawala","Proceedings of 2004 MIT Student Oxygen Workshop, Ashland, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6467368244086211500,13,2004
+Feature preserving smoothing of 3D surface scans,TR Jones,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11709692410053415909,13,2003
+Learning-based video motion magnification,"TH Oh, R Jaroensri, C Kim, M Elgharib, F Durand, WT Freeman, ...","Proceedings of the European Conference on Computer Vision (ECCV), 633-648",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15862056570638285244,12,2018
+Reconciling elastic and equilibrium methods for static analysis,"HV Shin, CF Porst, E Vouga, J Ochsendorf, F Durand","ACM Transactions on Graphics (TOG) 35 (2), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10007812238608231109,12,2016
+Pipeline architecture for maximum a posteriori (MAP) decoders,"EL Hepler, MF Starsinic","US Patent 6,961,921","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7969362810866726902,8915525136320266425",12,2005
+Fast prefiltered lines,"E Chan, F Durand","GPU Gems 2, 345-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13159080608079452777,12,2005
+Methods and apparatus for refractive flow measurement with three dimensions and uncertainty,"WT Freeman, F Durand, T Xue, M Rubinstein, N Wadhwa","US Patent 9,842,404",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9981760467423073401,11,2017
+3DTV at home: eulerian-lagrangian stereo-to-multiview conversion,"P Kellnhofer, P Didyk, SP Wang, P Sitthi-Amorn, W Freeman, F Durand, ...","ACM Transactions on Graphics (TOG) 36 (4), 146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875840489069007173,11,2017
+Temporal gradient-domain path tracing,"M Manzi, M Kettunen, F Durand, M Zwicker, J Lehtinen","ACM Transactions on Graphics (TOG) 35 (6), 246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=952753713732452846,11,2016
+A World--of--Movement.,"F Durand, WT Freeman, M Rubinstein","Scientific American 312 (1), 46-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18088872422290000629,11,2015
+Computer method and apparatus for rotating 2D cartoons using 2.5 D cartoon models,"A Rivers, F Durand","US Patent 8,791,942",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12067228128279184534,11,2014
+Guest Editors' Introduction: Smart Depiction for Visual Communication,"M Agrawala, F Durand","IEEE Computer Graphics and Applications 25 (3), 20-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8632383833464483760,11,2005
+Robust higher-order filtering of points,"F Duguet, F Durand, G Drettakis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3841147741193982492,11,2004
+Limitations of the medium and pictorial techniques,F Durand,"Perceptual and Artistic Principles for Effective Computer Depiction, Course …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12673621749816484278,11,2002
+Data augmentation using learned transformations for one-shot medical image segmentation,"A Zhao, G Balakrishnan, F Durand, JV Guttag, AV Dalca",Proceedings of the IEEE conference on computer vision and pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15710438805315912771,10,2019
+Motion microscopy for visualizing and quantifying small motions,"N Wadhwa, JG Chen, JB Sellon, D Wei, M Rubinstein, R Ghaffari, ...","Proceedings of the National Academy of Sciences 114 (44), 11639-11644",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17117975847742277084,10,2017
+Video camera-based vibration measurement for Condition Assessment of Civil Infrastructure,"JG Chen, A Davis, N Wadhwa, F Durand, WT Freeman, O Buyukozturk",NDT-CE International Symposium Non-Destructive Testing in Civil Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8625136042426725215,10,2015
+Radiosity in flatland made visibly simple: using the visibility complex for lighting simulation of dynamic scenes in flatland,"F Durand, R Orti, S Rivière, C Puech",Symposium on Computational Geometry 11,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17260172117559801319,10,1996
+Dynamic authoring of audio with linked scripts,"HV Shin, W Li, F Durand",Proceedings of the 29th Annual Symposium on User Interface Software and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2388899207073468468,9,2016
+Methods and apparatus for modeling deformations of an object,"MA Davis, F Durand, JG Chen","US Patent App. 15/068,357",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2196893641136128582,9,2016
+Compiling high performance recursive filters,"G Chaurasia, J Ragan-Kelley, S Paris, G Drettakis, F Durand","Proceedings of the 7th Conference on High-Performance Graphics, 85-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=327618491137423637,9,2015
+Guest editors' introduction: Computational photography,"F Durand, R Szeliski","IEEE computer graphics and applications 27 (2), 21-22","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11805338557724379145,17738537880466977808",9,2007
+Aether: An embedded domain specific sampling language for Monte Carlo rendering,"L Anderson, TM Li, J Lehtinen, F Durand","ACM Transactions on Graphics (TOG) 36 (4), 99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6642913295997748848,8,2017
+Rendering images with volumetric shadows using rectified height maps for independence in processing camera rays,"J Chen, I Baran, F Durand, W Jarosz","US Patent 9,280,848",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9450748429456965366,8,2016
+Decoupled sampling for real-time graphics pipelines,"J Ragan-Kelley, M Doggett, J Lehtinen, J Chen, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13924796329867328216,8,2010
+QuickSelect: History-based selection expansion,"SL Su, S Paris, F Durand","Proceedings of Graphics Interface 2009, 215-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10526587328823085491,8,2009
+Visibility,TA Funkhouser,Spring,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12031824249035339857,8,2006
+GPU Gems 2,E Chan,Apr,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3499513718876993308,8,2005
+Sash for land grid arrays,MK Hoffmeyer,"US Patent 6,711,026","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4720097903504153378,16279458139784344928",8,2004
+3 D visibility made visibly simple: an introduction to the visibility skeleton,"F Durand, G Drettakis, C Puech",Annual Symposium on Computational Geometry: Proceedings of the thirteenth …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778309357949669357,8,1997
+The visibility complex made visibly simple,"F Durand, C Puech",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14731228774315480810,8,1995
+Data augmentation using learned transforms for one-shot medical image segmentation,"A Zhao, G Balakrishnan, F Durand, JV Guttag, AV Dalca",arXiv preprint arXiv:1902.09383,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17055846557103615644,7,2019
+"Optimizing N-dimensional, winograd-based convolution for manycore CPUs","Z Jia, A Zlateski, F Durand, K Li","ACM SIGPLAN Notices 53 (1), 109-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6239606937923365307,7,2018
+Statistical analysis and transfer of pictorial styles,"S Bae, F Durand",Proceedings of the 2004 MIT Student Oxygen Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10238327827165314937,7,2004
+Cargo area divider and method of making same,"M Ehrenberger, H Seel","US Patent 6,598,651","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6640640702041110570,6515186568514559722",7,2003
+The art and science of depiction,F Durand,Unpublished manuscript,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2358897464166649400,7,2000
+The Visibility Complex Made Visibly Simple: An Introduction to 2D Structures of Visibility.,"F Durand, C Puech","Symposium on Computational Geometry, V2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17451907583255719035,7,1995
+Inverse diffusion curves using shape optimization,"S Zhao, F Durand, C Zheng","IEEE transactions on visualization and computer graphics 24 (7), 2153-2166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12608627267057739199,6,2017
+Image adjustment,"SP Paris, FP Durand, VL Bychkovsky, E Chan","US Patent 9,020,243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16472517859670850305,6,2015
+Fixations on low resolution images,"T Judd, F Durand, A Torralba","Journal of Vision 10 (7), 142-142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17133111560488469410,6,2010
+Methods and apparatus for refractive flow measurement,"WT Freeman, F Durand, T Xue, M Rubinstein, N Wadhwa","US Patent 9,710,917",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10829458999058626907,5,2017
+Computational bounce flash for indoor portraits,"L Murmann, A Davis, J Kautz, F Durand","ACM Transactions on Graphics (TOG) 35 (6), 190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15827639853660151505,5,2016
+Video Diff: Highlighting differences between similar actions in videos,"G Balakrishnan, F Durand, J Guttag","ACM Transactions on Graphics (TOG) 34 (6), 194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10899458281892310798,5,2015
+Long Distance Video Camera Measurements of Structures,"JG Chen, N Wadhwa, A Davis, F Durand, WT Freeman, O Büyüköztürk",10th International Work-shop on Structural Health Monitoring (IWSHM 2015 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1963601646996433917,5,2015
+Image adjustment,"SP Paris, FP Durand, VL Bychkovsky, E Chan","US Patent 9,070,044",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14010521112991693360,5,2015
+Predicting range of acceptable photographic tonal adjustments,"R Jaroensri, S Paris, A Hertzmann, V Bychkovsky, F Durand","2015 IEEE International Conference on Computational Photography (ICCP), 1-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13094456235988400938,5,2015
+Image-based querying of urban knowledge databases,"P Cho, S Bae, F Durand","Signal Processing, Sensor Fusion, and Target Recognition XVIII 7336, 733614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2664511713985923202,5,2009
+Learning to optimize halide with tree search and random programs,"A Adams, K Ma, L Anderson, R Baghdadi, TM Li, M Gharbi, B Steiner, ...","ACM Transactions on Graphics (TOG) 38 (4), 121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3410875529938389506,4,2019
+Methods And Devices For Measuring Object Motion Using Camera Images,"O Buyukozturk, WT Freeman, F Durand, MA Davis, N Wadhwa, JG Chen","US Patent App. 15/445,499",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17123188062814430209,4,2019
+Bubbleview: an alternative to eye-tracking for crowdsourcing image importance,"NW Kim, Z Bylinskii, MA Borkin, KZ Gajos, A Oliva, F Durand, H Pfister",arXiv preprint arXiv:1702.05150,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7585238403332086454,4,2017
+The aperture problem for refractive motion,"T Xue, H Mobahi, F Durand, WT Freeman",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=296824091208533594,4,2015
+On the manipulability of voting systems: application to multi-operator networks,"F Durand, F Mathieu, L Noirie",Proceedings of the 9th International Conference on Network and Service …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11889322734446170238,4,2013
+A short introduction to computer graphics,F Durand,"MIT Laboratory for Computer Science 1, 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17596586217294460769,4,2010
+Time-Constrained Photography Supplementary material,"SW Hasinoff, KN Kutulakos, F Durand, WT Freeman",12th IEEE International Conference on Computer Vision (ICCV 2009),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12948567939458231023,4,2009
+Structure-preserving clone brush,"BM Oh, F Durand","US Patent 7,593,022",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9904743798723128689,4,2009
+Level of detail continuum for huge geometric data,"F Duguet, CH Esteban, G Drettakis, F Schmitt",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13679868760036892382,4,2006
+Statistical analysis and transfer of coarse-grain pictorial style,S Bae,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8341909144388320440,4,2005
+Efficient shadow algorithms on graphics hardware,E Chan,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16933725931801118764,4,2004
+ShadowCam: Real-Time Detection of Moving Obstacles Behind A Corner For Autonomous Vehicles,"F Naser, I Gilitschenski, G Rosman, A Amini, F Durand, A Torralba, ...",2018 21st International Conference on Intelligent Transportation Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17375923707251753951,3,2018
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years.,"J Ragan-Kelley, A Adams, D Sharlet, C Barnes, S Paris, M Levoy, ...","Communications of the ACM 61 (1), 106-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10792654162253078892,3,2018
+Computational rim illumination of dynamic subjects using aerial robots,"M Srikanth, K Bala, F Durand","Computers & Graphics 52, 142-154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13652266286792862085,3,2015
+Pulse detection from head motions in video,"G Balakrishnan, JV Guttag, F Durand","US Patent App. 14/315,174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6355890871819004818,3,2015
+System and method for providing two-scale tone management of an image,"S Bae, F Durand, S Paris","US Patent 8,081,838",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1368701765286335851,3,2011
+System and method for providing gradient preservation for image processing,"S Bae, F Durand, S Paris","US Patent 7,945,107",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8965186745247483589,3,2011
+Multi-channel coded-aperture photography,J Baek,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13616590682327228073,3,2008
+Spherical harmonic gradients,"T Annen, J Kautz, F Durand, HP Seidel","ACM SIGGRAPH 2004 Sketches, 110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16472736287991411364,3,2004
+Visibility driven hierarchical radiosity,"F Durand, G Drettakis, C Puech",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10994936810078340558,3,1998
+Sample-based Monte Carlo denoising using a kernel-splatting network,"M Gharbi, TM Li, M Aittala, J Lehtinen, F Durand","ACM Transactions on Graphics (TOG) 38 (4), 125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3443945767267715541,2,2019
+Flexible SVBRDF Capture with a Multi-Image Deep Network,"V Deschaintre, M Aittala, F Durand, G Drettakis, A Bousseau",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11122728802249221306,2,2019
+"FFT Convolutions are Faster than Winograd on Modern CPUs, Here is Why","A Zlateski, Z Jia, K Li, F Durand",arXiv preprint arXiv:1809.07851,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16457342788975021651,2,2018
+Synthetically Trained Icon Proposals for Parsing and Summarizing Infographics,"S Madan, Z Bylinskii, M Tancik, A Recasens, K Zhong, S Alsheikh, ...",arXiv preprint arXiv:1807.10441,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15256275042495352966,2,2018
+Thin structures in image based rendering,"T Thonat, A Djelouah, F Durand, G Drettakis","Computer Graphics Forum 37 (4), 107-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9273823834186616124,2,2018
+Pseudocode for Riesz Pyramids for Fast Phase-Based Video Magnification,"N Wadhwa, M Rubinstein, F Durand, WT Freeman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701668069142316599,2,2017
+Smaller than the eye can see: Vibration analysis with video cameras,"O Buyukozturk, JG Chen, N Wadhwa, A Davis, F Durand, WT Freeman",19th World Conference on Non-Destructive Testing 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6976892428921319527,2,2016
+Estimating a small signal in the presence of large noise,"A Zhao, F Durand, J Guttag",Proceedings of the IEEE International Conference on Computer Vision …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9781425340539188935,2,2015
+Where do people draw lines?: technical perspective,F Durand,"Communications of the ACM 55 (1), 106-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17123073184205443991,2,2012
+Interpreting line drawings of smooth shapes,"F Cole, F Durand, W Freeman, E Adelson","Journal of Vision 11 (11), 47-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16706316660342136291,2,2011
+Sudden deafness following a sternutatory attack.,"P Bonfils, O Laccourreye, FX Durand, D Malinvaud, JL Bensimon","European annals of otorhinolaryngology, head and neck diseases 128 (2), 103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1558653959092950633,2,2011
+A User Study Comparing 3D Modeling with Silhouettes and Google SketchUp,"A Rivers, F Durand, T Igarashi",MIT Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12658004117016313924,2,2010
+The Video Mesh: A Data Structure for Image-based Video Editing,"F Durand, M Cohen, J Chen, S Paris, J Wang, W Matusik",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2900665248739824421,2,2009
+Foundations and Trends® in Computer Graphics and Vision,"S Paris, P Kornprobst, J Tumblin, F Durand","Foundations and Trends® in Computer Graphics and Vision 4 (1), 1-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2029518123783638523,2,2009
+Interactive Visual Histories for Vector Graphics,"C Scull, S Johnson, F Aliaga, S Paris, SL Su, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15663669273119402547,2,2009
+4D frequency analysis of computational cameras for depth of field extension,"W Freeman, A Levin, SW Hasinoff, WT Freeman, P Green, F Durand",MIT-CSAIL-TR-2009-019,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14715901891586099603,2,2009
+Enhanced visual authoring using operation history,SL Su,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=808742815348126996,2,2009
+"Signal Processing for Multi-View 3D Displays: Resampling, Antialiasing and Compression","M Zwicker, A Vetro, S Yea, W Matusik, H Pfister, F Durand","IEEE Signal Processing Magazine 24 (6), 88-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12013304204965056451,2,2007
+Perceptual picture emphasis using texture power maps,SL Su,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8752750687919324826,2,2005
+General linear cameras: theory and applications,J Yu,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=598235394888993278,2,2005
+What Plant is This?,M Freeman,Carson-Dellosa Publishing,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2476356607836496937,1366368440132502566",2,2004
+A procedural approach to Style for NPR line drawing from 3D models,"S Grabli, F Durand, E Turquin, FX Sillion",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3266317171590138334,2,2003
+Radiosity in flatland made visibly simple,"F Durand, R Orti, S Rivière, C Puech",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14358412747434715075,2,1996
+Taichi: a language for high-performance computation on spatially sparse data structures,"Y Hu, TM Li, L Anderson, J Ragan-Kelley, F Durand","ACM Transactions on Graphics (TOG) 38 (6), 201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18107342299581170822,1,2019
+Opensketch: A richly-annotated dataset of product design sketches,"Y Gryaditskaya, M Sypesteyn, JW Hoftijzer, S Pont, F Durand, A Bousseau","ACM Transactions on Graphics (TOG) 38 (6), 232",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910359623353469776,1,2019
+DiffTaichi: Differentiable Programming for Physical Simulation,"Y Hu, L Anderson, TM Li, Q Sun, N Carr, J Ragan-Kelley, F Durand",arXiv preprint arXiv:1910.00935,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16308007401739546779,1,2019
+The anatomy of efficient FFT and winograd convolutions on modern CPUs,"A Zlateski, Z Jia, K Li, F Durand","Proceedings of the ACM International Conference on Supercomputing, 414-424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862866781447146777,1,2019
+Generating Training Data for Denoising Real RGB Images via Camera Pipeline Simulation,"R Jaroensri, C Biscarrat, M Aittala, F Durand",arXiv preprint arXiv:1904.08825,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10637720941334195603,1,2019
+A Dataset of Multi-Illumination Images in the Wild,"L Murmann, M Gharbi, M Aittala, F Durand","Proceedings of the IEEE International Conference on Computer Vision, 4080-4089",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12418890308887619242,1,2019
+Reducing view transitions artifacts in automultiscopic displays,"PK Didyk, SP Du, F Durand, W Matusik","US Patent 9,967,538",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13468287241690081774,1,2018
+Effects of title wording on memory of trends in line graphs,"A Newman, Z Bylinskii, S Haroz, S Madan, F Durand, A Oliva","Journal of Vision 18 (10), 837",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2816144077507568432,1,2018
+Towards Optimal Winograd Convolution on Manycores,"Z Jia, A Zlateski, F Durand, K Li",SysML,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11085692098039684671,1,2018
+A Deeper Look at FFT and Winograd Convolutions,"A Zlateski, Z Jia, K Li, F Durand",SysML,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3762130993614646577,1,2018
+A Video-Based Method for Automatically Rating Ataxia,"R Jaroensri, A Zhao, G Balakrishnan, D Lo, JD Schmahmann, F Durand, ...","Machine Learning for Healthcare Conference, 204-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13483890240525730524,1,2017
+High-performance image processing,F Durand,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12454355012667928466,1,2017
+Structural Health Monitoring from the Window Seat of a Passenger Airplane,"ABE DAVIS, JG CHEN, O BUYUKOZTURK, F DURAND, DL JAMES",DEStech Publications,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16843142249006782810,1,2017
+High spatial resolution BRDFs with metallic powders using wave optics analysis,"A Levin, D Glasner, Y Xiong, F Durand, W Freeman, W Matusik, T Zickler",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13189672289544863473,1,2013
+Computational photography,R Szeliski,"Computer Vision, 409-466",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5305555473896286651,1,2011
+A User Study Comparing 3D Modeling with Silhouettes and Google SketchUp,"T Igarashi, F Durand, A Rivers",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=240229067493931830,1,2010
+Computation is the New Optics: Coded Imaging in Computational Photography,F Durand,"Computer Graphics Forum 28 (2), xvii",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5425381503718538871,1,2009
+Bilateral Filtering: Theory and Applications: Series: Foundations and Trends® in Computer Graphics and Vision,"S Paris, P Kornprobst, J Tumblin, F Durand, B Curless, L Van Gool, ...",Unknown Publisher,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10060436592620590271,1,2009
+Analysis and transfer of photographic viewpoint and appearance,S Bae,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5100269007577012083,1,2009
+Understanding camera trade-offs through a Bayesian analysis of light field projections-A revision,"A Levin, W Freeman, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8801156742002080952,1,2008
+"Papers Sessions--Thursday, 14 August 2008-3: 45pm-6: 00pm-Deblurring & Dehazing-Session Chair/Discussant: Hendrik Lensch, MPI Informatik-Motion-Invariant Photography","A Levin, P Sand, TS Cho, F Durand, WT Freeman","ACM Transactions on Graphics-TOG 27 (3), 71-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5991386225835788213,1,2008
+Segment-based image matting using inpainting to resolve ambiguities,HPNC Moh,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534642312642243357,1,2008
+Apparent Ridges for Line Drawing,"TJFDE Adelson, T Judd, F Durand","proceedings of ACM Transactions on Graphics, SIGGRAPH",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16576983218256230808,1,2007
+Panoramas,"B Freeman, F Durand",groups. csail. mit. edu/graphics/classes/CompPhoto06/html/lecturenotes …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9634276504160978177,1,2006
+Load-balanced rendering on a general-purpose tiled architecture,JJK Chen,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6696111779684859020,1,2005
+Non-linear kernel-based precomputed light transport,"P Green, J Kautz, W Matusik, F Durand, HW Jensen","ACM SIGGRAPH 2004 Sketches, 111",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216413461119590107,1,2004
+Création facile d'un kit d'images radiologiques avec microsoft visual basic,"E ITTI, F DURAND, H BERCEZ, L CEUGNART, JP PRUVO","Journal de radiologie 77 (11), 1149-1154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16378441504791036160,1,1996
+BubbleView: a validation of a mouse-contingent interface for crowdsourcing image importance and tracking visual attention,"NW Kim, Z Bylinskii, MA Borkin, KZ Gajos, A Oliva, F Durand, H Pfister",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10366631648172048888,1,0
+Gradient image processing,"B Freeman, F Durand",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3367243104746316715,1,0
+HDR imaging and the Bilateral Filter,"B Freeman, F Durand",MIT-EECS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15394067952262128573,1,0
+Image warping and morphing,"F Durand, B Freeman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14594071019152367526,1,0
+DiCE: dichoptic contrast enhancement for VR and stereo displays,"F Zhong, GA Koulieris, G Drettakis, MS Banks, M Chambe, F Durand, ...","ACM Transactions on Graphics (TOG) 38 (6), 211",,0,2019
+ZoomMaps: Using Zoom to Capture Areas of Interest on Images,"Z Bylinskii, A Newman, M Tancik, S Madan, F Durand, A Oliva","Journal of Vision 19 (10), 149-149",,0,2019
+DiCE: dichoptic contrast enhancement for binocular displays,"F Zhong, GA Koulieris, G Drettakis, MS Banks, M Chambe, F Durand, ...","ACM SIGGRAPH 2019 Posters, 36",,0,2019
+Method for dynamic video magnification,"MAAM Elgharib, MM HEFEEDA, WT Freeman, F Durand","US Patent App. 10/217,187",,0,2019
+"Modal Imaging of Portsmouth, New Hampshire Bridge for Video-Based Structural Health Monitoring","ABE DAVIS, JG CHEN, TM ADAMS, HAO SUN, ES BELL, F DURAND, ...",Structural Health Monitoring 2019,,0,2019
+Computational Mirrors: Blind Inverse Light Transport by Deep Matrix Factorization,"M Aittala, P Sharma, L Murmann, A Yedidia, G Wornell, B Freeman, ...","Advances in Neural Information Processing Systems, 14311-14321",,0,2019
+DiCE: Dichoptic Contrast Enhancement for VR and Stereo Displays (Supplemental Material),F DURAND,,,0,2019
+DiCE: Dichoptic Contrast Enhancement for VR and Stereo Displays,F DURAND,,,0,2019
+Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions,"G Balakrishnan, AV Dalca, A Zhao, JV Guttag, F Durand, WT Freeman","Proceedings of the IEEE International Conference on Computer Vision, 171-180",,0,2019
+Learning to Optimize Halide with Tree Search and Random Programs,"L ANDERSON, R BAGHDADI, T LI, F DURAND",,,0,2019
+3dtv At Home: Eulerian-Lagrangian Stereo-To-Multi-View Conversion,"W Matusik, PK Didyk, WT Freeman, P Kellnhofer, P Sitthi-Amorn, ...","US Patent App. 16/000,662",,0,2018
+3D reconstruction based on homography mapping,"J Chen, B Jia, K Zhang, M Ajmal, MH Ashraf, M Shakir, Y Abbas, FA Shah, ...",Multi-View Geometry Based Visual Perception and Control of Robotic Systems …,,0,2018
+"ICML (2000) Pathak, D., Krahenbuhl, P., Donahue, J., Darrell, T., Efros, AA: Context encoders: feature learning by inpainting. In: CVPR (2016) Ren, J., Shen, X., Lin, Z., Mech …","Y Shih, S Paris, C Barnes, WT Freeman, F Durand, D Silver","Computer Vision–ECCV 2018: 15th European Conference, Munich, Germany …",,0,2018
+Reducing View Transitions Artifacts In Automultiscopic Displays,"PK Didyk, SP Du, F Durand, W Matusik","US Patent App. 15/950,706",,0,2018
+Method for dynamic video magnification,"MAAM Elgharib, MM Hefeeda, WT Freeman, F Durand","US Patent App. 15/579,924",,0,2018
+Exploiting Repetitions for Image‐Based Rendering of Facades,"S Rodriguez, A Bousseau, F Durand, G Drettakis","Computer Graphics Forum 37 (4), 119-131",,0,2018
+Devices for refractive field visualization,"WT Freeman, F Durand, T Xue, M Rubinstein, N Wadhwa","US Patent App. 15/819,791",,0,2018
+Making the Invisible Visible,"WT Freeman, F Durand",Annual Review of Vision Science 3 (1),,0,2017
+Towards cognitive saliency: narrowing the gap to human performance,"A Recasens, Z Bylinskii, A Borji, F Durand, A Torralba, A Oliva","Journal of Vision 17 (10), 542-542",,0,2017
+Motion Sensing Wi-Fi Sensor Networks for Continuous 3D Modeling and Prediction of Facility Responses to Disturbances,"WT Freeman, O Buyukozturk, JW Fisher III, F Durand, H Mobahi, ...","US Patent App. 15/012,463",,0,2017
+Smaller Than the Eye Can See: Selected Applications of Video-Based Measurement,"O Buyukozturk, JG Chen, N Wadhwa, A Davis, F Durand, WT Freeman",NDT. org,,0,2017
+BubbleView: An Interface for Crowdsourcing Image Importance Maps and Tracking Visual Attention,"Z BYLINSKII, A OLIVA, F DURAND",,,0,2017
+SUPPLEMENTAL MATERIAL: Learning Visual Importance for Graphic Designs and Data Visualizations,"Z Bylinskii, NW Kim, P O’Donovan, S Alsheikh, S Madan, H Pfister, ...",,,0,2017
+A Video-Based Method for Objectively Rating Ataxia,"R Jaroensri, A Zhao, G Balakrishnan, D Lo, J Schmahmann, J Guttag, ...",arXiv preprint arXiv:1612.04007,,0,2016
+Computational Imaging for Inverse Scattering,"I Gkioulekas, K Bala, F Durand, A Levin, S Zhao, T Zickler","Electronic Imaging 2016 (9), 1-1",,0,2016
+Laser Speckle Photography for Surface Tampering Detection,"Y Shih, MA Davis, SW Hasinoff, F Durand, WT Freeman","US Patent App. 14/815,092",,0,2016
+Technical Perspective: The Path to Light Transport,F Durand,"Communications of the ACM 58 (11), 102-102",,0,2015
+An Unusual Subcutaneous Mass After Cardiac Surgery: Do Not Forget Ventricular Pseudoaneurysms,"A Mugnier, I Hysi, C Renaut, F Durand, L Gautier, O Fabre","The Annals of thoracic surgery 100 (2), e37",,0,2015
+Axis-aligned Filtering for Interactive Physically-based Rendering,SU Mehta,"University of California, Berkeley",,0,2015
+Reflection removal using ghosting cues,"D Krishnan, YC Shih, F Durand, WT Freeman",Institute of Electrical and Electronics Engineers (IEEE),,0,2015
+W świecie ruchu,"F Durand, WT Freeman, M Rubinstein",Świat Nauki,,0,2015
+Un microscopio para el movimiento,"F Durand, WT Freeman, M Rubinstein","Investigación y ciencia, 36-41",,0,2015
+Movement,"F Durand, WT Freeman, M Rubinstein",Scientific American,,0,2015
+"NON-PHOTOREALISTIC RENDERING WITH INTERACTIVE, AGENT-BASED COMPUTATION","Y Semet, F Durand, UM O'Reilly","LEONARDO 47 (1), 14-14",,0,2014
+Gallery Artists,"T Barrass, A Eldridge, G Greenfield, C Jacob, P Machado, N Monmarché, ...","Leonardo 47 (1), 8-16",,0,2014
+Structure-Preserving Clone Brush,"BM Oh, F Durand","US Patent App. 13/743,064",,0,2013
+Structure-preserving clone brush,"BM Oh, F Durand","US Patent 8,379,049",,0,2013
+5D Covariance Tracing for Efficient Defocus and Motion Blur,F Durand,,,0,2012
+Estimating material by estimating shape,"E Adelson, F Cole, P Isola, W Freeman, F Durand","Journal of Vision 12 (9), 946-946",,0,2012
+A unified approach to estimating shape from images,"P Isola, F Cole, B Freeman, F Durand, E Adelson","Journal of Vision 12 (9), 276-276",,0,2012
+Structure-preserving clone brush,"BM Oh, F Durand","US Patent 8,174,538",,0,2012
+Technical Perspective Where Do People Draw Lines?,F Durand,Communications of the ACM 55 (1),,0,2012
+Preface and Table of Contents,"F Durand, D Gutierrez",The Eurographics Association and Blackwell Publishing Ltd.,,0,2012
+"Eurographics Symposium on Rendering 2012: Paris, France, June 27th-29th, 2012","Eurographics Symposium on Rendering, ...",Blackwell,,0,2012
+Travel and Entertainment,"F Durand, J Wertheimer, T DeRose",MIT150 Symposia Series,,0,2011
+Current Research II,"MF Kaashoek, L Kaelbling, F Durand, R Barzilay, S Madden",MIT150 Symposia Series,,0,2011
+Fast and Robust Pyramid-based Image Processing,"S Paris, SW Hasinoff, J Kautz, M Aubry, F Durand",hgpu. org,,0,2011
+"International seminar on Post nuclear accident from May 5 and 6, 2011-The CODIRPA progresses; Seminaire international post-accidentel nucleaire du 5 et 6 mai 2011-Les avancees …","C Birraux, AC Lacoste, JL Lachaume, I Mehl-Auget, JL Godet, ...",,,0,2011
+"International seminar on Post nuclear accident from May 5 and 6, 2011-The CODIRPA progresses","C Birraux, AC Lacoste, JL Lachaume, I Mehl-Auget, JL Godet, ...",,,0,2011
+Une surdité brutale après une crise sternutatoire,"P Bonfils, O Laccourreye, FX Durand, D Malinvaud, JL Bensimon",Annales françaises d'Oto-rhino-laryngologie et de Pathologie Cervico-faciale …,,0,2011
+Efﬁcient Marginal Likelihood Optimization in Blind Deconvolution,"A Levin, Y Weiss, F Durand, W Freeman",,,0,2011
+Efficient data structures for piecewise-smooth video processing,JJK Chen,Massachusetts Institute of Technology,,0,2011
+Export Metadata,"F Durand, A Barrillon, H Boue, A Dassonville, AM Vanelle, I Mehl-Auget, ...",,,0,2010
+"Report of the'food, agriculture, life in rural territories' work group of the Steering committee for the management of the post-accidental phase of a nuclear accident or of a …","F Durand, A Barrillon, H Boue, A Dassonville, AM Vanelle, I Mehl-Auget, ...",,,0,2010
+Computational Re-Photography,"A Agarwala, S Bae, F Durand",,,0,2010
+Image-based querying of urban photos and videos,"P Cho, S Bae, F Durand","2009 IEEE Applied Imagery Pattern Recognition Workshop (AIPR 2009), 1-8",,0,2009
+"2009 IEEE International Conference on Computational Photography, ICCP","R Athale, MF Durand",,,0,2009
+Multiplexed photography: single-exposure capture of multiple camera settings,PE Green,Massachusetts Institute of Technology,,0,2009
+2007 Reviewers List,"J Abello, D Acevedo, A Agarwala, M Agrawala, J Ahrens, DG Akleman, ...","IEEE Transactions on Visualization and Computer Graphics 14 (1), 242",,0,2008
+"Papers Sessions--Tuesday, 12 August 2008-3: 45pm-5: 30pm-Hair and Realistic Rendering-Session Chair/Discussant: Bruce Walter, Cornell University-Hair Photobooth: Geometric and …","S Paris, W Chang, OI Kozhushnyan, W Jarosz, W Matusik, M Zwicker, ...","ACM Transactions on Graphics-TOG 27 (3), 30-30",,0,2008
+Steering committee for the management of the post-accidental phase of a nuclear accident or of a radiological situation (CODIRPA). Work group nr 2'Living in contaminated rural …,"I Mehl-Auget, J Fite, P Fave, A Merle-Szemereta, F Matouk, C Grastilleur, ...",,,0,2007
+Export Metadata,"JC Autret, F Janin, B Gouget, G Dixsaut, J Bories, Z Wilczynski, ...",,,0,2007
+Steering committee for the management of the post-accidental phase of a nuclear accident or of a radiological situation (CODIRPA). Work group nr 3'Assessment of radiological …,"JC Autret, F Janin, B Gouget, G Dixsaut, J Bories, Z Wilczynski, ...",,,0,2007
+Steering committee for the management of the post-accidental phase of a nuclear accident or of a radiological situation (CODIRPA). Work group nr 6'Management of wastes …,"D Bergot, O Chabanis, F Seigle, F Besnus, JM Peres, N Reales, ...",,,0,2007
+Theme Articles,"F Durand, R Szeliski, A Mohan, P Choudhury, J Tumblin, M McGuire, ...",,,0,2007
+Where do you draw the lines?,"E Adelson, T Judd, F Durand","Perception ECVP abstract 36, 0-0",,0,2007
+NR19 Etat de mal epileptique et anomalies induites en IRM,"B Kocsis, A Varga, O Sénéchal, F Mounier-Vehier, F Durand, D Berteloot","Journal de Radiologie 87 (10), 1490",,0,2006
+Etude IRM du rehaussement tardif myocardique et de la recuperation fonctionnelle apres pontage chirurgical coronarien,"F Durand, T De Donatis, S Willoteaux, O Fabre, L El Hajj, L Guesnier, ...","Journal de Radiologie 87 (10), 1292",,0,2006
+CV5 Comment optimiser l’acquisition d’un scanner des arteres coronaires,"P Fouvez, K Yasunaga, S Willoteaux, F Durand, C Lions, V Gaxotte, ...","Journal de Radiologie 87 (10), 1447",,0,2006
+CV6 Etude IRM du rehaussement tardif myocardique et de la recuperation fonctionnelle apres pontage chirurgical coronarien,"F Durand, T de Donatis, S Willoteaux, O Fabre, L El Hajj, L Guesnier, ...","Journal de Radiologie 87 (10), 1447",,0,2006
+"Color II, and CFA interpolation","B Freeman, F Durand",,,0,2006
+6.098 Digital and Computational Photography 6.882 Advanced Computational Photography,"B Freeman, F Durand, C Liu",,,0,2006
+A critical comparison of human face rendering techniques,AA Arizpe,Massachusetts Institute of Technology,,0,2006
+Smart depiction for visual communication-Guest editors' introduction,"M Agrawala, F Durand","IEEE COMPUTER GRAPHICS AND APPLICATIONS 25 (3), 20-21",,0,2005
+Bibliography for “Practical Global Illumination with Irradiance Caching” a class presented at SIGGRAPH 2008,"F Durand, N Holzschuch, C Soler, E Chan","ACM Trans. Graph 24 (3), 1115-1126",,0,2005
+"Annen, T., Kautz, J., Durand, F., AND Seidel, H.-P. 2004. Spherical harmonic gradients for mid-range illumination. In Rendering Techniques 2004, Eurographics Symposium on Ren …","F Durand, N Holzschuch, C Soler, E Chan","ACM Trans. Graph 24 (3), 1115-1126",,0,2005
+Pictorial techniques and intrinsic images,F Durand,"Proceedings of the 3D Data Processing, Visualization, and Transmission, 2nd …",,0,2004
+Estimating source spectra and spectral albedos from rgb data for rerendering,JJ Koenderink,Proceedings of the Fifteenth Eurographics conference on Rendering Techniques …,,0,2004
+27 NRA,"F Duguet, F Durand, G Drettakis",,,0,2004
+Controllable computer graphics for compelling depiction and animation,F Durand,,,0,2004
+Graphics is fun,F Durand,ACM Transactions on Graphics 23 (3),,0,2004
+Session details: Design and depiction,F Durand,ACM SIGGRAPH 2003 Papers,,0,2003
+"6.837 Computer Graphics, Fall 2003","F Durand, B Cutler",,,0,2003
+Dynamic Canvas for Non-Photorealistic Walkthroughs,"JD Gascuel, F Durand","Proceedings, 121",,0,2003
+The Visibility Skeleton,"F Durand, G Drettakis, C Puech",,,0,1998
+La prise en charge des surdités de l'adulte,"P BONFILS, D AIDAN, P ANE, FX DURAND, M ERMINY",Impact médecin (Puteaux. 1989),,0,1997
+The Visibility Skeleton: A Powerful and Multi-Purpose Global Visibility Tool,"F Durand, G Drettakis, C Puech","ACMSIGGRAPH 97, 12 p",,0,1997
+Simple method to create a data bank of radiological images with Microsoft Visual Basic.,"E Itti, F Durand, H Bercez, L Ceugnart, JP Pruvo","Journal de Radiologie 77 (11), 1149-1154",,0,1996
+Easy creation of a kit of radiologic images with Microsoft Visual Basic,"E Itti, F Durand, H Bercez, L Ceugnart, JP Pruvo","Journal de radiologie 77 (11), 1149-1154",,0,1996
+Knee cysts gatherings in NMR imaging; Les collections kystiques du genou en IRM,"N Boutry, A Cotten, F Gougeon, F Dewatre, F Durand, P Chastanet",,,0,1995
+Picture,"B Freeman, F Durand, G Canon, L Contrast",,,0,1995
+Knee cysts gatherings in NMR imaging,"N Boutry, A Cotten, F Gougeon, F Dewatre, F Durand, P Chastanet","Journal de Radiologie (Paris) 76 (10), 863-864",,0,1995
+"Etudes des variations spatio-temporelles de concentration en phytoplancton dans le golfe de Gascogne, à partir d'images satellites CZCS (Coastal Zone Color Scanner)",F DURAND,"Le littoral, ses contraintes et ses conflits d'utilisation. Colloque, 79-82",,0,1992
+Taichi: A Language for High-Performance Computation on Spatially Sparse Data Structures (Supplemental Document),"Y HU, L ANDERSON, F DURAND",,,0,0
+Life after the PhD,F Durand,,,0,0
+Generating Training Data for Denoising Real RGB Images via Camera Pipeline Simulation,"RJCBM Aittala, F Durand",,,0,0
+Supplemental appendix to: Burst Image Deblurring Using Permutation Invariant Convolutional Neural Networks,"M Aittala, F Durand",,,0,0
+5D Covari,"L BELCOUR, C SOLER, K SUBR, N HOLZSCHUCH, F DURAND",,,0,0
+SurfCut: Surfaces of Minimal Paths from Topological Structures,"M Algarni, G Sundaramoorthi, Z Bylinskii, T Judd, A Oliva, A Torralba, ...",,,0,0
+SCANNER DES ARTERES CORONAIRES Optimisation des techniques d’acquisition,"P Fouvez, K Yasunaga, S Willoteaux, F Durand, C Lions, V Gaxotte, ...",,,0,0
+Micron-scale Light Transport Decomposition Using Interferometry: Supplementary Material,"I Gkioulekas, A Levin, F Durand, T Zickler",,,0,0
+Host institution,"G Wetzstein, L Waller, C Karl, M O’Toole, HC Lin, K Bouman, MITF Heide, ...",,,0,0
+Fast Bilateral Filtering for the Display of High-Dynamic-Range Images g y g g,"F Durand, J Dorsey",,,0,0
+Image Editing With Texture Power Maps,"SL Su, F Durand, M Agrawala",,,0,0
+Computational Illumination,F Durand,,,0,0
+Supplemental Materials for Reflection Removal using Ghosting Cues,"YC Shih, D Krishnan, F Durand, WT Freeman",,,0,0
+Real-‐Time Volumetric Shadows using 1D Min-‐Max Mipmaps,"F Durand, W Jarosz, I Baran",,,0,0
+Writing is important,F Durand,,,0,0
+Computational Vision and Picture,F Durand,,,0,0
+SUPPLEMENTAL MATERIAL: Where should saliency models look next?,"Z Bylinskii, A Recasens, A Borji, A Oliva, A Torralba, F Durand",,,0,0
+5D COVARIANCE TRACING,"L Belcour, C Soler, K Subr, N Holzschuch, F Durand",,,0,0
+"Limitations of the Medium, compensation or accentuation",F Durand,,,0,0
+Vision & Graphics,F Durand,,,0,0
+Data-driven Hallucination of Different Times of Day from a Single Outdoor Photo Supplemental Document,"Y Shih, S Paris, F Durand, WT Freeman",,,0,0
+Supplemental Material for Gradient-Domain Path Tracing,"M Kettunen, M Manzi, M Aittala, J Lehtinen, F Durand, M Zwicker",,,0,0
+Electrical Engineering and Computer Science (6)-Research and Teaching Output of the MIT Community,"P Ho, S Dey, D Šćepanović, A Patel",,,0,0
+Clipping and other geometric algorithms,"F Durand, B Cutler",,,0,0
+How to Take/Make Better Pictures,"B Freeman, F Durand",,,0,0
+Dynamic Range and Contrast,"B Freeman, F Durand",,,0,0
+Matting & Compositing,"B Freeman, F Durand",,,0,0
+HDR imaging and the Bilateral Filter,F Durand,,,0,0
+Experimental Validation of Analytical BRDF Models (sketches 0225),"A Ngan, F Durand, W Matusik",,,0,0
+Send me an email,F Durand,,,0,0
+Coherent Intrinsic Images from Photo Collections Supplemental document,"PY Laffont, A Bousseau, S Paris, F Durand, G Drettakis",,,0,0
+Color,F Durand,,,0,0
+2007 Annual Index IEEE Computer Graphics and Applications Vol. 27,"DG Aliaga, S Avidan, I Barakonyi, C Basdogan, M Beck, U Bernardet, ...",,,0,0
+A Reconfigurable Architecture for Load-Balanced Rendering,"JCMIG William, TMZK Pulli, F Durand",,,0,0
+Pheng-Ann Heng Masaki Hilaga Jessica Hodgins Shimin Hu Zhiyong Huang,"J Ahn, K Anjyo, G Baciu, N Badler, H Bao, P Bekaert, J Bloomenthal, ...",,,0,0
+Ray Tracing,"F Durand, S Teller",,,0,0
+Interactive Artificial Ant Colonies for Non-Photorealistic Rendering,"Y SEMET, UM O’REILLY, F DURAND",,,0,0
+Statistical analysis of simple notions of pictorial style,"S Bae, F Durand",,,0,0
+Computer Depiction,"F Durand, J Willats",,,0,0
+Special Thanks to CG&A’s Reviewers,"G Abram, M Agrawala, T Akgun, N Alameh, MLD Aliaga, C Alvarado, ...",,,0,0
+Flexible Rendering,"J Dorsey, C Puech, F Durand, GD CR, G Schaufler, JT MCF, X Décoret, ...",,,0,0
+A Generative Data-Driven Texture Model,"W Matusik, M Zwicker, F Durand",,,0,0
+Special Thanks to CG&A’s Reviewers,"BD Adelstein, M Agrawala, T Akenine-Muller, E Angel, A Angelidis, ...",,,0,0
+"Statistical analysis of simple notions of pictorial style DRAFT, DO NOT DISTRIBUTE","S Bae, F Durand",,,0,0
+Nonlinear Precomputed Radiance Transfer,"P Green, J Kautz, W Matusik, F Durand, HW Jensen",,,0,0
+2003 Index IEEE Transactions on Visualization and Computer Graphics Vol. 9,"A Lu, M Alexa, G Ashraf, G Baciu, B Guo, DP Baluch, J Behr, ...",,,0,0

@@ -1,0 +1,324 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Approximate nearest neighbors: towards removing the curse of dimensionality,"P Indyk, R Motwani",Proceedings of the thirtieth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11910302411086424859,4264,1998
+Similarity search in high dimensions via hashing,"A Gionis, P Indyk, R Motwani","Vldb 99 (6), 518-529",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8819805256031800277,3487,1999
+Locality-sensitive hashing scheme based on p-stable distributions,"M Datar, N Immorlica, P Indyk, VS Mirrokni","Proceedings of the twentieth annual symposium on Computational geometry, 253-262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16412213514418086476,2684,2004
+Near-optimal hashing algorithms for approximate nearest neighbor in high dimensions,"A Andoni, P Indyk","Foundations of Computer Science, 2006. FOCS'06. 47th Annual IEEE Symposium …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6209078851615863185,2356,2006
+Enhanced hypertext categorization using hyperlinks,"S Chakrabarti, B Dom, P Indyk","ACM SIGMOD Record 27 (2), 307-318",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14920008490817186001,1117,1998
+Maintaining stream statistics over sliding windows,"M Datar, A Gionis, P Indyk, R Motwani","SIAM journal on computing 31 (6), 1794-1813",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5400144593948447660,1011,2002
+"Stable distributions, pseudorandom generators, embeddings and data stream computation",P Indyk,"Proceedings 41st Annual Symposium on Foundations of Computer Science, 189-197","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14111957385203980959,8518359865485241555",692,2000
+Theory,"G Shakhnarovich, T Darrell, P Indyk",MIT press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16248514395500093524,4179815256600360525",679,2006
+Finding interesting associations without support pruning,"E Cohen, M Datar, S Fujiwara, A Gionis, P Indyk, R Motwani, JD Ullman, ...","IEEE Transactions on Knowledge and Data Engineering 13 (1), 64-78",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12144555411234130334,559,2001
+Approximate clustering via core-sets,"M Bādoiu, S Har-Peled, P Indyk",Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248494157538126939,416,2002
+Combining geometry and combinatorics: A unified approach to sparse signal recovery,"R Berinde, AC Gilbert, P Indyk, H Karloff, MJ Strauss","2008 46th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1008260311813598873,408,2008
+Near-optimal sparse Fourier representations via sampling,"AC Gilbert, S Guha, P Indyk, S Muthukrishnan, M Strauss",Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8598352284008888344,341,2002
+"Fast, small-space algorithms for approximate histogram maintenance","AC Gilbert, S Guha, P Indyk, Y Kotidis, S Muthukrishnan, S Muthukrishnan, ...",Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16806329170344542607,337,2002
+Sparse recovery using sparse matrices,"A Gilbert, P Indyk","Proceedings of the IEEE 98 (6), 937-947",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7068329336376221787,319,2010
+Simple and practical algorithm for sparse Fourier transform,"H Hassanieh, P Indyk, D Katabi, E Price",Proceedings of the twenty-third annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16314442420317787553,314,2012
+Mining the stock market: Which measure is best,"M Gavrilov, D Anguelov, P Indyk, R Motwani","Proc. of the 6th ACM SIGKDD, 487-496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8658144368208596110,307,2000
+Algorithmic applications of low-distortion geometric embeddings,P Indyk,"Proceedings 42nd IEEE Symposium on Foundations of Computer Science, 10-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16307323786414155851,299,2001
+Fast estimation of diameter and shortest paths (without matrix multiplication),"D Aingworth, C Chekuri, P Indyk, R Motwani","SIAM Journal on Computing 28 (4), 1167-1181",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6613971300314744628,274,1999
+Dynamic multidimensional histograms,"N Thaper, S Guha, P Indyk, N Koudas",Proceedings of the 2002 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16827401156972787321,273,2002
+Evaluating strategies for similarity search on the web,"TH Haveliwala, A Gionis, D Klein, P Indyk","Proceedings of the 11th international conference on World Wide Web, 432-442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6334364511932846143,270,2002
+Nearly optimal sparse Fourier transform,"H Hassanieh, P Indyk, D Katabi, E Price",arXiv preprint arXiv:1201.2501,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16862636625099919798,267,2012
+Enhanced hypertext categorization using hyperlinks,"S Chakrabarti, BE Dom, P Indyk","US Patent 6,389,436",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=410994221935886743,267,2002
+Approximate nearest neighbor: Towards removing the curse of dimensionality,"S Har-Peled, P Indyk, R Motwani","Theory of computing 8 (1), 321-350",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2112179254710694670,254,2012
+Identifying representative trends in massive time series data sets using sketches,"P Indyk, N Koudas, S Muthukrishnan","VLDB, 363-372",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12422115441162521960,253,2000
+Optimal approximations of the frequency moments of data streams,"P Indyk, D Woodruff",Proceedings of the thirty-seventh annual ACM symposium on Theory of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2038051576612099846,237,2005
+Scalable techniques for clustering the web,"T Haveliwala, A Gionis, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17223070743789908226,232,2000
+Comparing data streams using hamming norms (how to zero in),"G Cormode, M Datar, P Indyk, S Muthukrishnan","IEEE Transactions on Knowledge and Data Engineering 15 (3), 529-540",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6137495976318629600,217,2003
+Practical and optimal LSH for angular distance,"A Andoni, P Indyk, T Laarhoven, I Razenshteyn, L Schmidt","Advances in Neural Information Processing Systems, 1225-1233",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11203696302950509806,215,2015
+Nearest neighbors in high-dimensional spaces,P Indyk,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4698561657006177455,214,2004
+Locality-preserving hashing in multidimensional spaces,"P Indyk, R Motwani, P Raghavan, S Vempala","STOC 97, 618-625",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14023152685965249464,213,1997
+Sublinear time algorithms for metric space problems,P Indyk,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9924922867650823363,210,1999
+8: Low-distortion embeddings of finite metric spaces,"P Indyk, J Matoušek, A Sidiropoulos","Handbook of discrete and computational geometry, 211-231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13756236323177152525,208,2017
+A small approximately min-wise independent family of hash functions,P Indyk,"Journal of Algorithms 38 (1), 84-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14591797106612745062,208,2001
+Edit distance cannot be computed in strongly subquadratic time (unless SETH is false),"A Backurs, P Indyk",Proceedings of the forty-seventh annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2869608286210473077,207,2015
+Sparse recovery using sparse random matrices,"R Berinde, P Indyk",preprint,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9206250367161377311,17301815139928508457",193,2008
+Efficient and reliable low-power backscatter networks,"J Wang, H Hassanieh, D Katabi, P Indyk","Proceedings of the ACM SIGCOMM 2012 conference on Applications, technologies …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5601799497459976349,175,2012
+Fast image retrieval via embeddings,"P Indyk, N Thaper",3rd international workshop on statistical and computational theories of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16836767192757532893,173,2003
+Lower bounds for sparse recovery,"KD Ba, P Indyk, E Price, DP Woodruff",Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5801040120707648304,170,2010
+Near-optimal linear-time codes for unique decoding and new list-decodable codes over smaller alphabets,"V Guruswami, P Indyk",Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12967643001352582018,12686056403677772107",166,2002
+Stochastic load balancing and related problems,"A Goel, P Indyk",40th Annual Symposium on Foundations of Computer Science (Cat. No. 99CB37039 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1461268698158377061,166,1999
+Tree pattern matching and subset matching in deterministic O (n log 3 n)-time,"R Cole, R Hariharan, P Indyk","SODA 99, 245-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5826974333251874660,152,1999
+Explicit constructions for compressed sensing of sparse signals,P Indyk,Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14643624842588699398,146,2008
+Beyond locality-sensitive hashing,"A Andoni, P Indyk, HL Nguyen, I Razenshteyn",Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438076357575351499,145,2014
+Near-optimal sparse recovery in the l1 norm,"P Indyk, M Ruzic","2008 49th Annual IEEE Symposium on Foundations of Computer Science, 199-207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3934476800045595947,135,2008
+A sublinear time approximation scheme for clustering in metric spaces,P Indyk,40th Annual Symposium on Foundations of Computer Science (Cat. No. 99CB37039 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1405255561210055833,131,1999
+High-dimensional computational geometry,P Indyk,stanford university,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17481009088429056699,129,2000
+Tight lower bounds for the distinct elements problem,"P Indyk, D Woodruff","44th Annual IEEE Symposium on Foundations of Computer Science, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17183745488181658496,125,2003
+Nearest-neighbor-preserving embeddings.,"P Indyk, A Naor","ACM Trans. Algorithms 3 (3), 31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11571300839623655988,121,2007
+Finding pirated video sequences on the internet,"P Indyk, G Iyengar, N Shivakumar","Technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7746416940660740527,120,1999
+"Explicit constructions of selectors and related combinatorial structures, with applications",P Indyk,Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7531174696351230550,119,2002
+Practical near-optimal sparse recovery in the l1 norm,"R Berinde, P Indyk, M Ruzic","2008 46th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4299742658494645922,116,2008
+Faster gps via the sparse fourier transform,"H Hassanieh, F Adib, D Katabi, P Indyk",Proceedings of the 18th annual international conference on Mobile computing …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=988015071302435748,13575028692337471019",115,2012
+Sampling in dynamic data streams and applications,"G Frahling, P Indyk, C Sohler","International Journal of Computational Geometry & Applications 18 (01n02), 3-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17798839365755697796,115,2008
+Efficiently decodable non-adaptive group testing,"P Indyk, HQ Ngo, A Rudra",Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1028368673280802771,111,2010
+Recent developments in the sparse Fourier transform: A compressed Fourier transform for big data,"AC Gilbert, P Indyk, M Iwen, L Schmidt","IEEE Signal Processing Magazine 31 (5), 91-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7112845839982463162,109,2014
+Algorithms for dynamic geometric problems over data streams,P Indyk,Proceedings of the thirty-sixth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13257735670700596872,109,2004
+Streaming similarity search over one billion tweets using parallel locality-sensitive hashing,"N Sundaram, A Turmukhametova, N Satish, T Mostak, P Indyk, S Madden, ...","Proceedings of the VLDB Endowment 6 (14), 1930-1941",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15974355885304733752,105,2013
+Nearest-neighbor methods in learning and vision,"G Shakhnarovish, T Darrell, P Indyk","MIT Press., 262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2394350545395380226,102,2005
+Recovery of clustered sparse signals from compressive measurements,"V Cevher, P Indyk, C Hegde, RG Baraniuk",RICE UNIV HOUSTON TX DEPT OF ELECTRICAL AND COMPUTER ENGINEERING,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17766748938708686086,101,2009
+Expander-based constructions of efficiently decodable codes,"V Guruswami, P Indyk","Proceedings 42nd IEEE Symposium on Foundations of Computer Science, 658-667",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8361245601980330870,100,2001
+On approximate nearest neighbors under l∞ norm,P Indyk,"Journal of Computer and System Sciences 63 (4), 627-638","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7250646379223795382,16827873948294167991",96,2001
+Polylogarithmic private approximations and efficient matching,"P Indyk, D Woodruff","Theory of Cryptography Conference, 245-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=704773593792418553,95,2006
+Faster algorithms for string matching problems: Matching the convolution bound,P Indyk,Proceedings 39th Annual Symposium on Foundations of Computer Science (Cat …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1788562680507157363,93,1998
+Space-optimal heavy hitters with strong error bounds,"R Berinde, P Indyk, G Cormode, MJ Strauss","ACM Transactions on Database Systems (TODS) 35 (4), 26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11324626512100506837,89,2010
+Dimensionality reduction techniques for proximity problems,P Indyk,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=519922425261422733,89,2000
+On the optimality of the dimensionality reduction method,"A Andoni, P Indyk, M Patrascu",2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1540875495603219174,87,2006
+Approximate nearest neighbor algorithms for Fréchet distance via product metrics,P Indyk,"Symposium on Computational Geometry, 102-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16690595420419571361,85,2002
+Reductions among high dimensional proximity problems,"A Goel, P Indyk, KR Varadarajan","SODA 1, 769-778",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=936513752692790356,83,2001
+Approximation-tolerant model-based compressive sensing,"C Hegde, P Indyk, L Schmidt",Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10228180188996284347,7376206220747455423",82,2014
+Sequential sparse matching pursuit,"R Berinde, P Indyk","2009 47th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8180972158538100954,82,2009
+Sample-optimal average-case sparse fourier transform in two dimensions,"B Ghazi, H Hassanieh, P Indyk, D Katabi, E Price, L Shi","2013 51st Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7968190476209043677,81,2013
+On page migration and other relaxed task systems,"Y Bartal, M Charikar, P Indyk","Theoretical Computer Science 268 (1), 43-66","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18268016018021911885,6459506550331398150",74,2001
+Geometric Matching Under Noise: Combinatorial Bounds and Algorithms.,"P Indyk, R Motwani, S Venkatasubramanian","SODA, 457-465",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17515451490510852864,72,1999
+Histogramming data streams with fast per-item processing,"S Guha, P Indyk, S Muthukrishnan, MJ Strauss","International Colloquium on Automata, Languages, and Programming, 681-692",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7780126841172886555,71,2002
+On the power of adaptivity in sparse recovery,"P Indyk, E Price, DP Woodruff","2011 IEEE 52nd Annual Symposium on Foundations of Computer Science, 285-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10935571973789088349,69,2011
+Rapid sampling for visualizations with ordering guarantees,"A Kim, E Blais, A Parameswaran, P Indyk, S Madden, R Rubinfeld","Proceedings of the VLDB Endowment 8 (5), 521-532",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8740372086923682585,67,2015
+"Uncertainty principles, extractors, and explicit embeddings of l2 into l1",P Indyk,"STOC 7, 615-620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18350584766991393640,67,2007
+Low-distortion embeddings of general metrics into the line,"M Bǎdoiu, J Chuzhoy, P Indyk, A Sidiropoulos",Proceedings of the thirty-seventh annual ACM symposium on Theory of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18379730176719411104,67,2005
+Approximate congruence in nearly linear time,"P Indyk, S Venkatasubramanian","Computational Geometry 24 (2), 115-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10813009366181660283,67,2003
+A nearly-linear time framework for graph-structured sparsity,"C Hegde, P Indyk, L Schmidt","International Conference on Machine Learning, 928-937",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11302772927507469406,66,2015
+Composable core-sets for diversity and coverage maximization,"P Indyk, S Mahabadi, M Mahdian, VS Mirrokni",Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4422667993517322565,65,2014
+Optimal simulation of automata by neural nets,P Indyk,"Annual Symposium on Theoretical Aspects of Computer Science, 337-348",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5024646835569599743,63,1995
+Earth mover distance over high-dimensional spaces,"A Andoni, P Indyk, R Krauthgamer",Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1790305407423933265,60,2008
+Real-time recommendation of diverse related articles,"S Abbar, S Amer-Yahia, P Indyk, S Mahabadi","Proceedings of the 22nd international conference on World Wide Web, 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10830547895500149697,59,2013
+Sparse signal recovery and acquisition with graphical models,"V Cevher, P Indyk, L Carin, RG Baraniuk","IEEE Signal Processing Magazine 27 (6), 92-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15063499488436571610,58,2010
+Better algorithms for high-dimensional proximity problems via asymmetric embeddings,P Indyk,Proceedings of the fourteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15713878102924902709,57,2003
+Derandomized dimensionality reduction with applications,"L Engebretsen, P Indyk, R O'Donnell, R O'Donnell",Proceedings of the thirteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5933066009095139354,56,2002
+E2LSH 0.1 User manual,A Andoni,http://www. mit. edu/andoni/LSH/,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2538861156923280459,55,2005
+Lower bounds for embedding edit distance into normed spaces,"A Andoni, M Deza, A Gupta, P Indyk, S Raskhodnikova",figshare,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9781189559980727478,13020615489660425541",54,2012
+Efficient algorithms for substring near neighbor problem,"A Andoni, P Indyk",Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10324691513227573742,54,2006
+"Efficient sketches for earth-mover distance, with applications","A Andoni, K Do Ba, P Indyk, D Woodruff","2009 50th Annual IEEE Symposium on Foundations of Computer Science, 324-330",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11850698696847125395,53,2009
+Deterministic superimposed coding with applications to pattern matching,P Indyk,"Proceedings 38th Annual Symposium on Foundations of Computer Science, 127-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7910860955274890377,53,1997
+On translational motion planning in 3-space,"B Aronov, M Sharir","Proceedings of the tenth annual symposium on Computational geometry, 21-30","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1983408435433882515,659318402301130588",53,1994
+Fast mining of massive tabular data via approximate distance computations,"G Cormode, P Indyk, N Koudas, S Muthukrishnan","Proceedings 18th International Conference on Data Engineering, 605-614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6330248133898180156,52,2002
+"Efficient regular data structures and algorithms for dilation, location, and proximity problems","A Amir, A Efrat, P Indyk, H Samet","Algorithmica 30 (2), 164-187","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15829209344559547523,10206694905719046529",52,2001
+Approximation algorithms for embedding general metrics into trees,"M Bǎdoiu, P Indyk, A Sidiropoulos",Proceedings of the eighteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5897121153144679086,50,2007
+Low-dimensional embedding with extra information,"M Badoiu, ED Demaine, MT Hajiaghayi, P Indyk","Discrete & Computational Geometry 36 (4), 609-632",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13297427436123543202,49,2006
+"New algorithms for subset query, partial match, orthogonal range searching, and related problems","M Charikar, P Indyk, R Panigrahy","International Colloquium on Automata, Languages, and Programming, 451-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16595305351369324443,49,2002
+Nearest-neighbor methods in learning and vision,"G Shakhnarovich, T Darrell, P Indyk","IEEE Trans. Neural Networks 19 (2), 377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9513300985115689539,48,2008
+A near linear time constant factor approximation for Euclidean bichromatic matching (cost).,P Indyk,"SODA 7, 39-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2507657596954523459,47,2007
+Linear time encodable and list decodable codes,"V Guruswami, P Indyk",Proceedings of the thirty-fifth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15515501379062391767,46,2003
+Which regular expression patterns are hard to match?,"A Backurs, P Indyk",2016 IEEE 57th Annual Symposium on Foundations of Computer Science (FOCS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13723153399480179941,45,2016
+Locality-sensitive hashing using stable distributions,A Andoni,"Nearest-Neighbor Methods in Learning and Vision, 61-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7167749282689418459,45,2005
+Approximating and testing k-histogram distributions in sub-linear time,"P Indyk, R Levi, R Rubinfeld",Proceedings of the 31st ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13018311235652554460,44,2012
+(Nearly) sample-optimal sparse Fourier transform,"P Indyk, M Kapralov, E Price",Proceedings of the twenty-fifth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15802959940524973698,43,2014
+Declaring independence via the sketching of sketches,"P Indyk, A McGregor",Proceedings of the nineteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3463996315254797381,43,2008
+Fast color image retrieval via embeddings,P Indyk,"Workshop on Statistical and Computational Theories of Vision (at ICCV), 2003",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15863051581103601820,42,2003
+Approximate nearest neighbor algorithms for Hausdorff metrics via embeddings,"M Farach-Colton, P Indyk",40th Annual Symposium on Foundations of Computer Science (Cat. No. 99CB37039 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14638256342612440665,42,1999
+Overcoming the l 1 non-embeddability barrier: algorithms for product metrics,"A Andoni, P Indyk, R Krauthgamer",Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14646824603266546938,38,2009
+43 NEAREST NEIGHBORS IN HIGH-DIMENSIONAL SPACES,"A Andoni, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1078226023734301777,37,2017
+Facility location in sublinear time,"M Bădoiu, A Czumaj, P Indyk, C Sohler","International Colloquium on Automata, Languages, and Programming, 866-877",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10856055372274545285,37,2005
+Sample-optimal Fourier sampling in any constant dimension,"P Indyk, M Kapralov","2014 IEEE 55th Annual Symposium on Foundations of Computer Science, 514-523",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12831753771199319520,36,2014
+Realization of the transient-based boundary protection for HVDC transmission lines based on high frequency energy criteria,"S Zhang, BH Zhang, M You, ZQ Bo","2010 International Conference on Power System Technology, 1-7","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225010004541803271,8107167838958811730,10211802021553843861",35,2010
+Motif discovery in physiological datasets: a methodology for inferring predictive elements,"Z Syed, C Stultz, M Kellis, P Indyk, J Guttag","ACM Transactions on Knowledge Discovery from Data (TKDD) 4 (1), 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15133879870675839978,35,2010
+"K-median clustering, model-based compressive sensing, and sparse recovery for earth mover distance","P Indyk, E Price",Proceedings of the forty-third annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=383726996023368971,34,2011
+Nearest-neighbor Methods in Learning and Vision: Theory and Practice,"T Darrell, P Indyk, G Shakhnarovich",MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12394150892192242939,34,2005
+Closest pair problems in very high dimensions,"P Indyk, M Lewenstein, O Lipsky, E Porat","International Colloquium on Automata, Languages, and Programming, 782-792",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12689920187113002966,34,2004
+Combinatorial and experimental methods for approximate point pattern matching,"M Gavrilov, P Indyk, R Motwani, S Venkatasubramanian","Algorithmica 38 (1), 59-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8783478635524374382,34,2004
+A fast approximation algorithm for tree-sparse recovery,"C Hegde, P Indyk, L Schmidt","2014 IEEE International Symposium on Information Theory, 1842-1846",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6843146948841611555,32,2014
+"Sketching, streaming and sublinear-space algorithms",P Indyk,"Graduate course notes, available at",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9075647666899324138,32,2007
+PRAM computations resilient to memory faults,"BS Chlebus, A Gambin, P Indyk","European Symposium on Algorithms, 401-412",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6163002768984419144,31,1994
+Linear-time list decoding in error-free settings,"V Guruswami, P Indyk","International Colloquium on Automata, Languages, and Programming, 695-707",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8843490902471925944,30,2004
+Fast millimeter wave beam alignment,"H Hassanieh, O Abari, M Rodriguez, M Abdelghany, D Katabi, P Indyk",Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14844783531166348819,7561897906605109882",29,2018
+Approximate nearest neighbor search in high dimensions,"A Andoni, P Indyk, I Razenshteyn",Proceedings of the International Congress of Mathematicians,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14019837585022062796,29,2018
+On streaming and communication complexity of the set cover problem,"ED Demaine, P Indyk, S Mahabadi, A Vakilian","International Symposium on Distributed Computing, 484-498",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15468465778152268342,29,2014
+Approximate line nearest neighbor in high dimensions,"A Andoni, P Indyk, R Krauthgamer, HL Nguyen",Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=310047589631735616,29,2009
+Embeddings and non-approximability of geometric problems.,"V Guruswami, P Indyk","SODA 3, 537-538",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16026187981569378274,29,2003
+Algorithmic applications of low-distortion embeddings,P Indyk,"Proc. 42nd IEEE Symposium on Foundations of Computer Science, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6630475965206159494,29,2001
+Efficient and private distance approximation in the communication and streaming models,DP Woodruff,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6529303514979355283,28,2007
+Shared-memory simulations on a faulty-memory DMM,"BS Chlebus, A Gambin, P Indyk","International Colloquium on Automata, Languages, and Programming, 586-597",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9490774661066805028,27,1996
+Geometric pattern matching: A performance study,"M Gavrilov, P Indyk, R Motwani, S Venkatasubramanian",Annual Symposium on Computational Geometry: Proceedings of the fifteenth …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1760374916307348487,26,1999
+Towards tight bounds for the streaming set cover problem,"S Har-Peled, P Indyk, S Mahabadi, A Vakilian",Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18323251928170436528,16941017861357231857",24,2016
+"The constrained earth mover distance model, with applications to compressive sensing","L Schmidt, C Hegde, P Indyk",10th Intl. Conf. on Sampling Theory and Appl.(SAMPTA),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17146695696914043027,24,2013
+Probabilistic embeddings of bounded genus graphs into planar graphs,"P Indyk, A Sidiropoulos",Proceedings of the twenty-third annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3138155207974335069,24,2007
+Approximate nearest neighbor under edit distance via product metrics,P Indyk,Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6506261187357030233,24,2004
+Embedding ultrametrics into low-dimensional spaces,"M Bǎdoiu, J Chuzhoy, P Indyk, A Sidiropou",Proceedings of the twenty-second annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16078656319292811415,23,2006
+Pattern matching for sets of segments,"A Efrat, P Indyk, S Venkatasubramanian",Proceedings of the twelfth annual ACM-SIAM symposium on Discrete algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8079007068477014828,23,2001
+Nearly linear-time model-based compressive sensing,"C Hegde, P Indyk, L Schmidt","International Colloquium on Automata, Languages, and Programming, 588-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4920708923437952234,22,2014
+On model-based RIP-1 matrices,"P Indyk, I Razenshteyn","International Colloquium on Automata, Languages, and Programming, 564-575",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4475944913764119757,22,2013
+Diverse near neighbor problem,"S Abbar, S Amer-Yahia, P Indyk, S Mahabadi, KR Varadarajan",Proceedings of the twenty-ninth annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9710652585527006334,22,2013
+Sketching information divergences,"S Guha, P Indyk, A McGregor","Machine Learning 72 (1-2), 5-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6460209690082806301,22,2008
+Efficient Computations of ℓ,"A Amir, Y Aumann, P Indyk, A Levy, E Porat","International Symposium on String Processing and Information Retrieval, 39-49","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11258290315782030345,760292142950655658",22,2007
+Sketching information divergences,"S Guha, P Indyk, A McGregor","International Conference on Computational Learning Theory, 424-438",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11297971086824529650,22,2007
+Tree pattern matching and subset matching in deterministic O (n log super (3) n)-time,"R Cole, R Hariharan, P Indyk","The 1999 10 th Annual ACM-SIAM Symposium on Discrete Algorithms, 245-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12610541219666842491,21,1999
+Better approximations for tree sparsity in nearly-linear time,"A Backurs, P Indyk, L Schmidt",Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14119290268413667253,18,2017
+Fast algorithms for structured sparsity,"C Hegde, P Indyk, L Schmidt",Bulletin of EATCS 3 (117),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15965799347124305157,17,2015
+Compressive sensing with local geometric features,"R Gupta, P Indyk, E Price, Y Rachlin","International Journal of Computational Geometry & Applications 22 (04), 365-390",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15869171898792327334,17,2012
+The Complexity of Linear Dependence Problems in Vector Spaces.,"A Bhattacharyya, P Indyk, DP Woodruff, N Xie","ICS, 496-508",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15110020335112481550,17,2011
+Learning approximate sequential patterns for classification,"Z Syed, P Indyk, J Guttag","Journal of Machine Learning Research 10 (Aug), 1913-1936",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14147346919453388704,17,2009
+On word-level parallelism in fault-tolerant computing,P Indyk,"Annual Symposium on Theoretical Aspects of Computer Science, 193-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12590622014063042167,17,1996
+Efficiently decodable low-rate codes meeting Gilbert-Varshamov bound,"V Guruswami, P Indyk",PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6074362304826386670,16,2003
+Probabilistic analysis for combinatorial functions of moving points,"L Zhang, H Devarajan, J Basch, P Indyk",Annual Symposium on Computational Geometry: Proceedings of the thirteenth …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11261730113013705358,16,1997
+Almost-Euclidean Subspaces of ,"P Indyk, S Szarek","Approximation, Randomization, and Combinatorial Optimization. Algorithms and …","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17858909358810102664,14798238395506615395",14,2010
+When crossings count-approximating the minimum spanning tree,"S Har-Peled, P Indyk",arXiv preprint cs/0303001,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16196154660221079339,14,2003
+Nearly optimal deterministic algorithm for sparse Walsh-Hadamard transform,"M Cheraghchi, P Indyk","ACM Transactions on Algorithms (TALG) 13 (3), 34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9107829251102196522,13,2017
+On the Fine-Grained Complexity of Empirical Risk Minimization: Kernel Methods and Neural Networks,"A Backurs, P Indyk, L Schmidt",Advances in Neural Information Processing Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=393317033043917826,13,2017
+Sparse Recovery Using Sparse Random Matrices.,P Indyk,"LATIN, 157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8356854293427992927,13,2010
+Scalable Fair Clustering,"A Backurs, P Indyk, K Onak, B Schieber, A Vakilian, T Wagner",International Conference on Machine Learning,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16665021693225941817,12,2019
+Fast recovery from a union of subspaces,"C Hegde, P Indyk, L Schmidt","Advances in Neural Information Processing Systems, 4394-4402",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3573951337447261655,12,2016
+"A fast, adaptive variant of the Goemans-Williamson scheme for the prize-collecting Steiner tree problem","C Hegde, P Indyk, L Schmidt","Workshop of the 11th DIMACS Implementation Challenge. Providence, Rhode …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14595266608549956790,12,2014
+Sparse recovery for earth mover distance,"R Gupta, P Indyk, E Price","2010 48th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12475454282222186816,12,2010
+Automatic fault localization using the generalized Earth Mover's distance,"L Schmidt, C Hegde, P Indyk, J Kane, L Lu, D Hohl","2014 IEEE International Conference on Acoustics, Speech and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9299408765028887076,10,2014
+Nearly optimal linear embeddings into very low dimensions,"E Grant, C Hegde, P Indyk","2013 IEEE Global Conference on Signal and Information Processing, 973-976",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17746420200867611012,10,2013
+Euclidean spanners in high dimensions,"S Har-Peled, P Indyk, A Sidiropoulos",Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17122696786445424110,10,2013
+Method and apparatus for using histograms to produce data summaries,"AC Gilbert, S Guha, P Indyk, I Kotidis, S Muthukrishnan, MJ Strauss","US Patent 7,965,643",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7482644216857404102,10,2011
+Streaming algorithms for geometric problems,P Indyk,International Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15158463836227326968,9,2004
+Stream-based geometric algorithms,P Indyk,Proc. of the ACM/DIMACS Workshop on Management and Processing of Data Streams,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2848803288685526768,9,2003
+Similarity search on the Web: Evaluation and scalability considerations,"T Haveliwala, A Gionis, D Klein, P Indyk",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2688827002177707814,9,2001
+Fractional set cover in the streaming model,"P Indyk, S Mahabadi, R Rubinfeld, J Ullman, A Vakilian, A Yodpinyanee",20th International Workshop on Approximation Algorithms for Combinatorial …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2098880709280799903,8,2017
+Near-optimal (euclidean) metric compression,"P Indyk, T Wagner",Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11707880020046436678,8,2017
+"Nearly-optimal bounds for sparse recovery in generic norms, with applications to ","A Backurs, P Indyk, I Razenshteyn, DP Woodruffs",Proceedings of the twenty-seventh annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2730289754496226687,8,2016
+Compressive sensing with local geometric features,"B Gardiner, R Gupta, P Indyk, E Price, Y Rachlin, C Yu","US Patent 9,213,916","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9499881499252481801,16465671813815809758",8,2015
+Block heavy hitters,"A Andoni, KD Ba, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8144793865894073608,8,2008
+Method and apparatus for using histograms to produce data summaries,"AC Gilbert, S Guha, P Indyk, I Kotidis, S Muthukrishnan, MJ Strauss","US Patent 7,177,282","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9488231609108475213,5833630329684273890",8,2007
+Learning-Based Frequency Estimation Algorithms,"CY Hsu, P Indyk, D Katabi, A Vakilian",International Conference on Learning Representations (ICLR),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8454116097434845567,7,2019
+IL-13 receptor specific chimeric proteins & uses thereof,"R Puri, W Debinski, I Pastan, N Obiri","US Patent App. 10/318,608","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6205710674866081905,1437296207277848394",7,2003
+Sketching via hashing: from heavy hitters to compressed sensing to sparse Fourier transform,P Indyk,Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGAI symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12387713374795273130,6,2013
+Shift finding in sub-linear time,"A Andoni, H Hassanieh, P Indyk, D Katabi",Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16195193293854772305,6,2013
+On learning disjunctions of zero-one threshold functions with queries,"T Hegedüs, P Indyk","International Workshop on Algorithmic Learning Theory, 446-460",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11907648419932007107,6,1997
+External inverse pattern matching,"L Gasieniec, P Indyk, P Krysta","Annual Symposium on Combinatorial Pattern Matching, 90-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9512513599701048368,6,1997
+Enhanced hypertext classification using hyperlinks,"S Chakrabarti, BE Dom, P Indyk","Proc. 1998 ACM-SIGMOD Int. Conf. Management of Data (SIGMOD’98), 307-318",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13583538508905435083,6,0
+Practical Data-Dependent Metric Compression with Provable Guarantees,"P Indyk, I Razenshteyn, T Wagner",Advances in Neural Information Processing Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645011235606130033,5,2017
+Seismic feature extraction using Steiner tree methods,"L Schmidt, C Hegde, P Indyk, L Lu, X Chi, D Hohl","2015 IEEE International Conference on Acoustics, Speech and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7638604023286127904,5,2015
+Method and system for identifying representative trends using sketches,"P Indyk, N Koudas, S Muthukrishnan","US Patent 6,931,400",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13809196111380814894,5,2005
+A constant-factor approximation algorithm for embedding unweighted graphs into trees,"M Badoiu, P Indyk, A Sidiropoulos",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16326277360591508648,5,2004
+Fast approximate pattern matching with few indels via embeddings,"M Badoiu, P Indyk",Symposium on Discrete Algorithms: Proceedings of the fifteenth annual ACM …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8939721062967114520,5,2004
+Interpolation of symmetric functions and a new type of combinatorial design,P Indyk,Proceedings of the thirty-first annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7500132743933582465,5,1999
+Approximate Nearest Neighbors in Limited Space,"P Indyk, T Wagner",Conference on Learning Theory (COLT),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1679495049120630132,4,2018
+Set cover in sub-linear time,"P Indyk, S Mahabadi, R Rubinfeld, A Vakilian, A Yodpinyanee",Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974386770575437639,4,2018
+"System, method and computer-readable medium for providing pattern matching","P Indyk, N Koudas, S Muthukrishnan","US Patent 7,895,194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9396127721803239183,4,2011
+"System, method and computer-readable medium for providing pattern matching","P Indyk, N Koudas, S Muthukrishnan","US Patent 7,627,602",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2213224708993536337,4,2009
+Near optimal hashing algorithms for approximate near (est) neighbor problem,P Indyk,"MMDS 2006. Workshop on Algorithms for Modern Massive Data Sets, Stanford, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=331039135484717525,4,2006
+List-decoding in linear time,P Indyk,"Technical Report TR02-024, Electronic Colloquium on Computational Complexity",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9784611468394754252,4,2002
+Better embeddings for planar earth-mover distance over sparse sets,"A Bačkurs, P Indyk","Proceedings of the thirtieth annual symposium on Computational geometry, 280",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451562274259347889,3,2014
+Proceedings of the Twenty-Third Annual ACM-SIAM Symposium on Discrete Algorithms,Y Rabani,Society for Industrial and Applied Mathematics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5575354301649982402,3,2012
+A compressive sensing algorithm for attitude determination,RV Gupta,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4977005313684957785,3,2011
+External sampling,"A Andoni, P Indyk, K Onak, R Rubinfeld","International Colloquium on Automata, Languages, and Programming, 83-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1558203511407785934,3,2009
+Overcoming the ℓ1 non-embeddability barrier: Algorithms for product metrics,"A Andoni, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17425936488370417340,3,2008
+Embedded stringology,P Indyk,Talk at 15-th Annual Combinatorial Pattern Matching Symposium,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7024617415694180324,3,2004
+Probabilistic analysis for discrete attributes of moving points,"J Basch, H Devarajan, P Indyk, L Zhang","International Journal of Computational Geometry & Applications 13 (01), 5-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12941575640157731951,3,2003
+Linear-time codes to correct a maximum possible fraction of errors,"V Guruswami, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11588381329186610898,3,2001
+Efficient parallel computing with memory faults,"L Gąsieniec, P Indyk","International Symposium on Fundamentals of Computation Theory, 188-197",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=286609283561299559,3,1997
+Sample-Optimal Low-Rank Approximation of Distance Matrices,"P Indyk, A Vakilian, T Wagner, D Woodruff",COLT,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7459925076663212040,2,2019
+Composable Core-sets for Determinant Maximization Problems via Spectral Spanners,"P Indyk, S Mahabadi, SO Gharan, A Rezaei",arXiv preprint arXiv:1807.11648,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1754135153576627035,2,2018
+Simultaneous Nearest Neighbor Search,"P Indyk, R Kleinberg, S Mahabadi, Y Yuan",arXiv preprint arXiv:1604.02188 and SoCG'16,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12440011804824125571,2,2016
+Stable distributions in streaming computations,"G Cormode, P Indyk","Data Stream Management, 283-300",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6814784717385975547,2,2016
+Sample-Optimal Fourier Sampling in Any Constant Dimension--Part I,"P Indyk, M Kapralov",arXiv preprint arXiv:1403.5804,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2553844956386154902,2,2014
+Focal plane array folding for efficient information extraction and tracking,"L Hamilton, D Parker, C Yu, P Indyk","2012 IEEE Applied Imagery Pattern Recognition Workshop (AIPR), 1-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4022342536408811001,2,2012
+Sparse fast fourier transform code documentation (sfft 1.0 and 2.0),"H Hassanieh, P Indyk, D Katabi, E Price",STOC,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10373866566005690523,2,2012
+Sparse recovery with partial support knowledge,"K Do Ba, P Indyk","Approximation, Randomization, and Combinatorial Optimization. Algorithms and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17300249592425313983,2,2011
+Online embeddings,"P Indyk, A Magen, A Sidiropoulos, A Zouzias","Approximation, Randomization, and Combinatorial Optimization. Algorithms and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519239051220075293,2,2010
+Sparse signal acquisition and recovery with graphical models,"V Cevher, P Indyk, L Carin, R Baraniuk","IEEE Signal Processing Magazine 26 (ARTICLE), 92-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17962804834277542288,2,2010
+On-line embeddings,"P Indyk, A Magen, A Sidiropoulos, A Zouzias",Proc. of APPROX,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9336571823755285482,2,2010
+"System, method and computer-readable medium for providing pattern matching","P Indyk, N Koudas, S Muthukrishnan","US Patent 7,415,464",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15626400546405096836,2,2008
+Maintaining stream statistics over sliding windows,P Indyk,Proc. of SODA2002,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16597765979906362699,2,2002
+Geometric pattern matching,"P Indyk, R Motwani, S Venkatasubramanian",Proc. SODA'99,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10529309300677011159,2,0
+Learning Sublinear-Time Indexing for Nearest Neighbor Search,"Y Dong, P Indyk, I Razenshteyn, T Wagner",International Conference on Learning Representations (ICLR),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13261655344428758487,1,2020
+Scalable nearest neighbor search for optimal transport,"Y Dong, P Indyk, I Razenshteyn, T Wagner",arXiv preprint arXiv:1910.04126,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13295958379094156654,1,2019
+Efficient Density Evaluation for Smooth Kernels,"A Backurs, M Charikar, P Indyk, P Siminelakis",2018 IEEE 59th Annual Symposium on Foundations of Computer Science (FOCS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11105865603504969803,1,2018
+Beyond P vs. NP: Quadratic-Time Hardness for Big Data Problems,P Indyk,Proceedings of the 29th ACM Symposium on Parallelism in Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15949488700109343904,1,2017
+Approximate Sparse Linear Regression,"S Har-Peled, P Indyk, S Mahabadi",arXiv preprint arXiv:1609.08739,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6558201843067969165,1,2016
+Greedy Strategies for Data-adaptive Shot Selection,"M Araya-Polo, C Hegde, P Indyk, L Schmidt",77th EAGE Conference and Exhibition 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11983648375021321785,1,2015
+Erratum for: Approximating and Testing k-Histogram Distributions in Sub-linear Time.,"P Indyk, R Levi, R Rubinfeld","PODS, 343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9719242193800422391,1,2015
+Shot encoding with random projections,"L Schmidt, P Indyk, C Chen, AS -Cyr, D Hohl","SEG Technical Program Expanded Abstracts 2013, 3979-3983",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16784079345087459681,1,2013
+Faster algorithms for sparse Fourier transform,P Indyk,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2777281423242915304,1,2013
+A simple construction of almost-Euclidean subspaces of ,"P Indyk, S Szarek",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16260240055528961443,1,2010
+Low-complexity localized walsh decoding for CDMA systems,"AM Chan, J Feldman, R Madyastha, P Indyk, D Karger","MILCOM 2006-2006 IEEE Military Communications conference, 1-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8435929575941404510,1,2006
+Locality-sensitive hashing using stable distributions,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17435008316987943330,1,2006
+New LSH-based algorithm for approximate nearest neighbor,"A Andoni, P Indyk",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6167975336834521138,1,2005
+Sublinear algorithms for massive data sets,"P Indyk, S Muthukrishnan",MIT Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11640831091699532007,1,2003
+September 2000,P Indyk,stanford university,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17196569233765529209,1,2000
+Approximate algorithms for high-dimensional geometric problems,"P Indyk, M Badoiu",Invited talk at DIMACS Workshop on Computational Geometry. Available at,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7907717725356504178,1,0
+(Learned) Frequency Estimation Algorithms under Zipfian Distribution,"A Aamand, P Indyk, A Vakilian",arXiv preprint arXiv:1908.05198,,0,2019
+Tight Trade-offs for the Maximum k-Coverage Problem in the General Streaming Model,"P Indyk, A Vakilian",Proceedings of the 38th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of …,,0,2019
+Hash based beam alignment,"D Katabi, O Salehi-Abari, HZ Al-Hassanieh, M Rodgriguez, P Indyk","US Patent App. 15/458,201",,0,2019
+Approximation Algorithms for Low-Distortion Embeddings into Low-Dimensional Spaces,"A Sidiropoulos, M Badoiu, K Dhamdhere, A Gupta, P Indyk, Y Rabinovich, ...","SIAM Journal on Discrete Mathematics 33 (1), 454-473",,0,2019
+Estimating Entropy of Distributions in Constant Space,"J Acharya, S Bhadane, P Indyk, Z Sun","Advances in Neural Information Processing Systems, 5163-5174",,0,2019
+Learning-Based Low-Rank Approximations,"P Indyk, A Vakilian, Y Yuan","Advances in Neural Information Processing Systems, 7400-7410",,0,2019
+Learning Space Partitions for Nearest Neighbor Search,"Y Dong, P Indyk, I Razenshteyn, T Wagner",arXiv preprint arXiv:1901.08544,,0,2019
+Space and Time Efficient Kernel Density Estimation in High Dimensions,"A Backurs, P Indyk, T Wagner","Advances in Neural Information Processing Systems, 15773-15782",,0,2019
+Composable Core-sets for Determinant Maximization: A Simple Near-Optimal Algorithm,"P Indyk, S Mahabadi, SO Gharan, A Rezaei","International Conference on Machine Learning, 4254-4263",,0,2019
+"45th International Colloquium on Automata, Languages, and Programming (ICALP 2018)","C Kaklamanis, D Marx, D Sannella, T Hadjistasi, AA Schwarzmann, ...",,,0,2017
+"Front Matter, Table of Contents, Preface, Organization, List of Authors","P Indyk, F Kuhn, A Muscholl","44th International Colloquium on Automata, Languages, and Programming (ICALP …",,0,2017
+"LIPIcs, Volume 80, ICALP'17, Complete Volume","P Indyk, F Kuhn, A Muscholl","44th International Colloquium on Automata, Languages, and Programming (ICALP …",,0,2017
+ICALP 2017-Call for Papers,"P Indyk, A Muscholl, F Kuhn",Bulletin of EATCS 3 (120),,0,2016
+Fast transform based offset determination,"HZ Al-Hassanieh, F Adib, D Katabi, P Indyk","US Patent 9,268,025",,0,2016
+Compressive sensing with local geometric features,"B Gardiner, R Gupta, P Indyk, E Price, Y Rachlin, C Yu","US Patent 8,983,198",,0,2015
+Sparse Fourier Transform in Any Constant Dimension with Nearly-Optimal Sample Complexity in Sublinear Time,"P Indyk, M Kapralov",,,0,2014
+Compressive sensing using locality-preserving matrices,"E Grant, P Indyk",Proceedings of the twenty-ninth annual symposium on Computational geometry …,,0,2013
+Frontiers in Massive Data Analysis,,,,0,2013
+APPLICATIONS OF SPARSE REPRESENTATION & COMPRESSIVE SENSING,"DL Donoho, J Tanner, EJ Candès, Y Plan, A Gilbert, P Indyk, JA Tropp, ...",Proceedings of the IEEE 98 (6),,0,2010
+Special Section On Foundations of Computer Science,"JR Lee, C Umans","SIAM Journal on Computing 39 (6), 2397-2397",,0,2010
+Sparse Recovery Using Sparse Random Matrices (Invited Talk),P Indyk,"LECTURE NOTES IN COMPUTER SCIENCE 1 (6034), 157-157",,0,2010
+Lower bounds for sparse recovery,"P Indyk, K Do Ba, EC Price, DP Woodruff",Society for Industrial and Applied Mathematics,,0,2010
+Sublinear algorithms in the external memory model,"A Andoni, P Indyk, K Onak, R Rubinfeld","Property testing, 240-243",,0,2010
+Decoding of Walsh codes,"AM Chan, J Feldman, R Madyastha, P Indyk, D Karger","US Patent 7,580,451",,0,2009
+Dimension Reduction in Kernel Spaces from Locality-Sensitive Hashing,"A Andoni, P Indyk",,,0,2009
+Practical Near-Optimal Sparse Recovery in the L1 Norm,"M Ruzic, R Berinde, P Indyk","Annual Allerton Conference on Communication, Control, and Computing",,0,2009
+Overcoming the l^ sub 1^ Non-Embeddability Barrier: Algorithms for Product Metrics,"A Andoni, P Indyk, R Krauthgamer",Society for Industrial and Applied Mathematics and Association for Computing …,,0,2009
+Sublinear Algorithms for Earth Mover's Distance,K Do Ba,Massachusetts Institute of Technology,,0,2009
+Near-Optimal Sparse Recovery in the,"M Ruzic, P Indyk",2008 IEEE 49th Annual IEEE Symposium on Foundations of Computer Science (FOCS),,0,2008
+Object Recognition using Locality Sensitive Hashing of Shape Contexts,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Applications: Learning,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+New Algorithms for Efficient High-Dimensional Nonparametric Classification,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Adaptive Mean Shift Based Clustering in High Dimensions,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Learning Embeddings for Fast Approximate Nearest Neighbor Retrieval,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Contour Matching Using Approximate Earth Mover’s Distance,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Approximate Nearest Neighbor Regression in Very High Dimensions,"G Shakhnarovich, T Darrell, P Indyk",MIT Press,,0,2006
+Parameter-Sensitive Hashing for Fast Pose Estimation,"G Shakhnarovich, T Darrell, P Indyk",Mit Press,,0,2006
+A Near-Linear Constant Factor Approximation for Euclidean Matching (Cost),P Indyk,,,0,2005
+Alexandr Andoni,P Indyk,,,0,2005
+Proceeding of the Annual ACM-SIAM Symposium on Discrete Algorithms: Preface,"Y Azar, A Buchsbaum, B Chazelle, R Cole, L Fleischer, M Golin, ...",Sixteenth Annual ACM-SIAM Symposium on Discrete Algorithms,,0,2005
+"6.895/6.095 J Computational Biology: Genomes, Networks, Evolution, Fall 2005","M Kellis, P Indyk",,,0,2005
+Introduction to Algorithms,P Indyk,,,0,2004
+"6.046 J Introduction to Algorithms (SMA 5503), Fall 2004","CE Leiserson, P Indyk",,,0,2004
+Comparing Data Streams Using Hamming Norms,"M Datar, P Indyk",Proceedings 2002 VLDB Conference: 28th International Conference on Very …,,0,2002
+Approximate Clustering via Core-Sets,P Indyk,Proceedings of the 34th Annual ACM Symposium on the Theory of Computing …,,0,2002
+UCI machine learning repository.,"M Elahi, L Xinjie, MW Nisar, H Wang, M Datar, A Gionis, P Indyk, ...","Information Technology Journal 8 (2), 1794-1813",,0,2002
+Near-Optimal Sparse Fourier Representations via Sampling,"ACGS Guha, P Indyk, S Muthukrishnan, M Strauss",,,0,2002
+"Barequet, Gill, 91 Biedl, Therese C., 110 Bose, Prosenjit, 110","D Bryant, B Chandra, E Cohen, LJ Cowen, ED Demaine, CA Duncan, ...","Journal of Algorithms 38, 467",,0,2001
+"doi: 10.1006 Âjcss. 2001.1838, available online at http: ÂÂwww. idealibrary. com on","M Adler, A Ambainis, DM Barrington, P Beame, N Bedon, A Berthiaume, ...","Journal of Computer and System Sciences 63, 690",,0,2001
+"San Jose, CA 95120","A Amir, A Efrat, P Indyk",,,0,2000
+Pattern Matching for Sets of Segments Ѓ,"A Efrat, P Indyk, S Venkatasubramanian",,,0,2000
+Approximate Nearest Neighbors: Towards Removing the,"P IndyK, RJ MOTWani",,,0,1999
+4pproxunate Neighbors: Towards Removing theCurse of Dimensionality,P Indyk,ACMSTOC,,0,1998
+xiina. te nearest neighbors: Towards removing t he cui-sc of linicnsiu-ality,P Indyk,Proc. 30th Symposium on Theory of Computing 1998,,0,1998
+"USA. 3 Institute of Computer Science, University of Wroclaw, Przesmyckiego 20, PL-51151, Wroclaw, Poland.","L Gasieniec, P Indyk, P Krysta","Combinatorial Pattern Matching: 8th Annual Symposium, CPM 97, Aarhus …",,0,1997
+of Proceedings: Proceedings of the 8th Symposium on Combinatorial Pattern Matching (CPM-97),"L Gasieniec, P Indyk, P Krysta",Springer,,0,1997
+of Proceedings: Proceedings of the 11th Symposium on Fundamentals of Computation Theory (FCT-97),"L Gasieniec, P Indyk",Springer,,0,1997
+"Therese C. Biedl, Prosenjit Bose, Erik D. Demaine, and Anna Lubiw. Effi","D Bryant, M Steel, LJ Cowen, CA Duncan, MT Goodrich, S Kobourov, ...","Journal of Algorithms 37, 578",,0,1980
+Space and Time Efficient Kernel Density Estimation in High Dimensions: Supplementary Material,"A Backurs, P Indyk, T Wagner",,,0,0
+Fast Fourier Transform I,P Indyk,,,0,0
+Geometric Optimization,P Indyk,,,0,0
+Simultaneous Nearest Neighbor Search,"Y Yuan, R Kleinberg, P Indyk, S Mahabadi",,,0,0
+Approximate Nearest Neighbor Search in High Dimensions,P Indyk,,,0,0
+MAINTAINING STREAM STATISTICS OVER SLIDING WINDOWS,"AG Von Mayur Datar, P Indyk, R Motwani, V von Matthias",,,0,0
+Recent Developments in the Sparse Fourier Transform,P Indyk,,,0,0
+Recitation 9: Hashing and Online Algorithms 1 Hashing,"PS Goldwasser, P Indyk",,,0,0
+Participant List,"J Bell, T Nesbit, K Sacco, K Crowley, K Ellenbogen, SE McCann, ...",,,0,0
+Program Committee Chair,B Chazelle,,,0,0
+Approximation Algorithms for Embedding General Metrics Into Trees,"MBP Indyk, A Sidiropoulos",,,0,0
+ECE 551: Digital Signal Processing II Projects,"AC Gilbert, P Indyk, M Iwen, L Schmidt",,,0,0
+Fast Algorithms for Structured Sparsity,P Indyk,,,0,0
+6.006-Introduction to Algorithms,P Indyk,,,0,0
+External Memory Algorithms for Geometric Problems,"P Indyk, J Vitter",,,0,0
+Michael Elkin Ben-Gurion University of the Negev,HH Su,,,0,0
+Alexander Rabinovich Prabhakar Raghavan Ran Raz Nick Reingold Phil Rogaway,"Y Aumann, B Awerbuch, Y Azar, E Bach, A Bar-Noy, IM Barrington, ...",,,0,0
+Corporate Sponsors,"M Abadi, B Aiello, N Alon, R Alur, A Ambainis, A Andersson, D Angluin, ...",,,0,0
+"Boaz Barak, Best Paper Award & Machtey Award","A Gupta, D Aharonov, ML Bonet, B Chazelle, E Cohen, L Fortnow, A Gál, ...",,,0,0
+гб в игж а в мд ж б ви а Х и г з гж дджгм б и Шг ви Ш ии жв Х и в Ѓ,"M Gavrilov, P Indyk, R Motwani, S Venkatasubramanian",,,0,0
+IEEE SIGNAL PROCESSING SOCIETY,"S AFFES, A ALMEIDA, T AL-NAFFOURI, A ASIF, P BANELLI, ...","Ann Arbor 1001, 48109-2122",,0,0
+Connecting Experiments and Genes in DNA Microarray Data: A Graph Approach,"A Degrange, P Indyk, B Tidor",,,0,0
+Approximate Algorithms for High-Dimensional Geometric Problems,"A Andoni, N Immorlica, P Indyk, V Mirrokni, N Thaper",,,0,0
+Embeddings into Low-Dimensional Spaces,"M Badoi, J Chuzhoy, E Demaine, MT Hajiaghayi, P Indyk, J Samuel, ...",,,0,0
+Tutorial: Sparse Recovery Using Sparse Matrices,P Indyk,,,0,0
+Expander-based Constructions of Efficient Error-correcting Codes,"P Indyk, V Guruswami",,,0,0
+List Decoding,"P Indyk, M Sudan",,,0,0
+Sparse Recovery for Earth Mover Distance,"E Price, P Indyk, R Gupta",,,0,0
+Algorithms for Data Streams/Sublinear-space Computation,"P Indyk, D Woodruff",,,0,0
+Research in Algorithms for Geometric Pattern Matching MIT2001-06,P Indyk,,,0,0
+Finding minimum DNF formula on the Boltzmann Machine,"A Gambin, P Indyk",,,0,0
+Research in Algorithms for Geometric Pattern Matching,"P Indyk, N Thaper",,,0,0
+A Tutorial on Sparse Signal Acquisition and Recovery with Graphical Models,"V Cevher, P Indyk, L Carin, RG Baraniuk",,,0,0

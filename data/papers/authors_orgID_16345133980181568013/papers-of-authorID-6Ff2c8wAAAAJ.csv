@@ -1,0 +1,853 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Handbook of discrete and computational geometry,"CD Toth, J O'Rourke, JE Goodman",Chapman and Hall/CRC,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7389921783150863989,1544,2017
+"Geometric folding algorithms: linkages, origami, polyhedra","ED Demaine, J O'Rourke",Cambridge university press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5142593391063212581,691,2007
+Anchor-free distributed localization in sensor networks.,"NB Priyantha, H Balakrishnan, ED Demaine, SJ Teller","SenSys 3, 340-341",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=757845740129007291,658,2003
+A method for building self-folding machines,"S Felton, M Tolley, E Demaine, D Rus, R Wood","Science 345 (6197), 644-646",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7466616978091455970,554,2014
+Frequency estimation of internet packet streams with limited space,"ED Demaine, A López-Ortiz, JI Munro","European Symposium on Algorithms, 348-360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14899357299019026486,525,2002
+Programmable matter by folding,"E Hawkes, B An, NM Benbernou, H Tanaka, S Kim, ED Demaine, D Rus, ...","Proceedings of the National Academy of Sciences 107 (28), 12441-12445",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8297695555284891317,507,2010
+Mobile-assisted localization in wireless sensor networks,"NB Priyantha, H Balakrishnan, ED Demaine, S Teller",Proceedings IEEE 24th Annual Joint Conference of the IEEE Computer and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7387139605899356490,350,2005
+Subexponential parameterized algorithms on bounded-genus graphs and H-minor-free graphs,"ED Demaine, FV Fomin, M Hajiaghayi, DM Thilikos","Journal of the ACM (JACM) 52 (6), 866-893",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10300298918073727884,287,2005
+Representing trees of higher degree,"D Benoit, ED Demaine, JI Munro, R Raman, V Raman, SS Rao","Algorithmica 43 (4), 275-292",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2732399075220016846,259,2005
+Correlation clustering in general weighted graphs,"ED Demaine, D Emanuel, A Fiat, N Immorlica","Theoretical Computer Science 361 (2-3), 172-187",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9039050891940154103,244,2006
+PSPACE-completeness of sliding-block puzzles and other problems through the nondeterministic constraint logic model of computation,"RA Hearn, ED Demaine","Theoretical Computer Science 343 (1-2), 72-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3097615126345835638,244,2005
+Deploying sensor networks with guaranteed capacity and fault tolerance,"JL Bredin, ED Demaine, MT Hajiaghayi, D Rus",Proceedings of the 6th ACM international symposium on Mobile ad hoc …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10758892658510369808,238,2005
+Cache-oblivious B-trees,"MA Bender, ED Demaine, M Farach-Colton","Proceedings 41st Annual Symposium on Foundations of Computer Science, 399-409",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15280135531010002319,225,2000
+"Adaptive set intersections, unions, and differences","ED Demaine, A López-Ortiz, JI Munro",In Proceedings of the 11th Annual ACM-SIAM Symposium on Discrete Algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4350763056288651064,218,2000
+Playing games with algorithms: Algorithmic combinatorial game theory,ED Demaine,"International Symposium on Mathematical Foundations of Computer Science, 18-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6708663606682153345,217,2001
+Output-sensitive algorithms for computing nearest-neighbour decision boundaries,"D Bremner, E Demaine, J Erickson, J Iacono, S Langerman, P Morin, ...","Discrete & Computational Geometry 33 (4), 593-604","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1362731062824570743,12634135433027862133,4205609072574042998",210,2005
+"Jigsaw puzzles, edge matching, and polyomino packing: Connections and complexity","ED Demaine, ML Demaine","Graphs and Combinatorics 23 (1), 195-208",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=573540729813214202,209,2007
+Self-folding with shape memory composites,"SM Felton, MT Tolley, BH Shin, CD Onal, ED Demaine, D Rus, RJ Wood","Soft Matter 9 (32), 7688-7694",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17837957215853281541,206,2013
+Straightening polygonal arcs and convexifying polygonal cycles,"R Connelly, ED Demaine, G Rote","Proceedings 41st Annual Symposium on Foundations of Computer Science, 432-442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4959901375631029769,203,2000
+The bidimensionality theory and its algorithmic applications,"ED Demaine, MT Hajiaghayi","The Computer Journal 51 (3), 292-302",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3928060795248866899,193,2008
+"Algorithmic graph minor theory: Decomposition, approximation, and coloring","ED Demaine, MT Hajiaghayi, K Kawarabayashi","46th Annual IEEE Symposium on Foundations of Computer Science (FOCS'05), 637-646",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11335144318165505729,193,2005
+Two simplified algorithms for maintaining order in a list,"MA Bender, R Cole, ED Demaine, M Farach-Colton, J Zito","European Symposium on Algorithms, 152-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5225046542682967685,182,2002
+"Games, puzzles, and computation","RA Hearn, ED Demaine",AK Peters/CRC Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8237286762001912677,180,2009
+Bidimensionality: new connections between FPT algorithms and PTASs,"ED Demaine, MT Hajiaghayi",Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1217984690554175148,175,2005
+Identifying frequent items in sliding windows over on-line packet streams,"L Golab, D DeHaan, ED Demaine, A Lopez-Ortiz, JI Munro","Proceedings of the 3rd ACM SIGCOMM conference on Internet measurement, 173-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8096290328353409138,173,2003
+Epichord: Parallelizing the chord lookup algorithm with reactive routing state management,"B Leong, B Liskov, ED Demaine","Computer Communications 29 (9), 1243-1259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4689912493005245312,163,2006
+An optimal decomposition algorithm for tree edit distance,"ED Demaine, S Mozes, B Rossman, O Weimann","ACM Transactions on Algorithms (TALG) 6 (1), 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15234519183817907668,160,2009
+"Tetris is hard, even to approximate","ED Demaine, S Hohenberger, D Liben-Nowell","International Computing and Combinatorics Conference, 351-363",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8654508064196826008,157,2003
+On the complexity of reconfiguration problems,"T Ito, ED Demaine, NJA Harvey, CH Papadimitriou, M Sideri, R Uehara, ...","Theoretical Computer Science 412 (12-14), 1054-1065",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10625417429715920707,153,2011
+Cache-oblivious algorithms and data structures,ED Demaine,"Lecture Notes from the EEF Summer School on Massive Data Sets 8 (4), 1-249",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4752609537100109836,150,2002
+Logarithmic lower bounds in the cell-probe model,"M Patrascu, ED Demaine","SIAM Journal on Computing 35 (4), 932-963",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16230895725467609589,148,2006
+Cache-oblivious priority queue and graph algorithm applications,"L Arge, L Arge, MA Bender, ED Demaine, B Holland-Minkley, JI Munro",Proceedings of the thiry-fourth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17210307008391712675,148,2002
+Cache-oblivious B-trees,"MA Bender, ED Demaine, M Farach-Colton","SIAM Journal on Computing 35 (2), 341-358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15927770221088127304,147,2005
+Combination can be hard: Approximability of the unique coverage problem,"ED Demaine, U Feige, MT Hajiaghayi, MR Salavatipour","SIAM Journal on Computing 38 (4), 1464-1483",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12663329317525432478,145,2008
+Correlation clustering with partial information,"ED Demaine, N Immorlica","Approximation, Randomization, and Combinatorial Optimization.. Algorithms …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2821294214147473353,145,2003
+An optimal decomposition algorithm for tree edit distance,"ED Demaine, S Mozes, B Rossman, O Weimann","International Colloquium on Automata, Languages, and Programming, 146-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6878134458324122075,124,2007
+Folding flat silhouettes and wrapping polyhedral packages: New results in computational origami,"ED Demaine, ML Demaine, JSB Mitchell","Computational Geometry 16 (1), 3-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1536617873402234584,121,2000
+Staged self-assembly: nanomanufacture of arbitrary shapes with O (1) glues,"ED Demaine, ML Demaine, SP Fekete, M Ishaque, E Rafalin, ...","Natural Computing 7 (3), 347-370",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=675246978654674917,119,2008
+"Fixed-parameter algorithms for (k, r)-center in planar graphs and map graphs","ED Demaine, FV Fomin, M Hajiaghayi, DM Thilikos","ACM Transactions on Algorithms (TALG) 1 (1), 33-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7349605056830958157,116,2005
+Optimal covering tours with turn costs,"EM Arkin, MA Bender, ED Demaine, SP Fekete, JSB Mitchell, S Sethia","SIAM Journal on Computing 35 (3), 531-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10948002912185851238,114,2005
+Deploying sensor networks with guaranteed fault tolerance,"JL Bredin, ED Demaine, MT Hajiaghayi, D Rus","IEEE/ACM Transactions on Networking (TON) 18 (1), 216-228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6784363647964788089,103,2010
+Linearity of grid minors in treewidth with applications through bidimensionality,"ED Demaine, MT Hajiaghayi","Combinatorica 28 (1), 19-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6174174522079070007,101,2008
+Bidimensional parameters and local treewidth,"ED Demaine, FV Fomin, MT Hajiaghayi, DM Thilikos","SIAM Journal on Discrete Mathematics 18 (3), 501-511",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=176121874797441046,99,2004
+Experiments on adaptive set intersections for text retrieval systems,"ED Demaine, A López-Ortiz, JI Munro","Workshop on Algorithm Engineering and Experimentation, 91-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12222191406476001295,97,2001
+The price of anarchy in network creation games,"ED Demaine, MT Hajiaghayi, H Mahini, M Zadimoghaddam",Proceedings of the twenty-sixth annual ACM symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17873317850720611680,96,2007
+Minimizing movement,"ED Demaine, MT Hajiaghayi, H Mahini, AS Sayedi-Roshkhar, ...","ACM Transactions on Algorithms (TALG) 5 (3), 30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10174700218592981776,94,2009
+K-ary clustering with optimal leaf ordering for gene expression data,"Z Bar-Joseph, ED Demaine, DK Gifford, N Srebro, AM Hamel, ...","Bioinformatics 19 (9), 1070-1078",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=294080888886322366,93,2003
+Dynamic optimality—almost,"ED Demaine, D Harmon, J Iacono, M P a ˇ traşcu","SIAM Journal on Computing 37 (1), 240-251",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8541174742721107881,92,2007
+Efficient algorithms for Petersen's matching theorem,"TC Biedl, P Bose, ED Demaine, A Lubiw","Journal of Algorithms 38 (1), 110-134","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6683208818310157798,3617828555234476927",86,2001
+Basic network creation games,"N Alon, ED Demaine, MT Hajiaghayi, T Leighton","SIAM Journal on Discrete Mathematics 27 (2), 656-668",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3704013438999658804,85,2013
+Equivalence of local treewidth and linear local treewidth and its algorithmic applications,"ED Demaine, MT Hajiaghayi",Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12738551170029653935,81,2004
+Approximation algorithms via contraction decomposition,"ED Demaine, MT Hajiaghayi, B Mohar","Combinatorica 30 (5), 533-552",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=558350356227826917,80,2010
+Online searching with turn cost,"ED Demaine, SP Fekete, S Gal","Theoretical Computer Science 361 (2-3), 342-355",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14472197246012184388,80,2006
+On cartesian trees and range minimum queries,"ED Demaine, GM Landau, O Weimann","International Colloquium on Automata, Languages, and Programming, 341-353","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13735591886254015850,12524251424629959405",77,2009
+Open problems from CCCG 2002,"ED Demaine, J O'Rourke",arXiv preprint cs/0212050,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16569477410789566827,7174717849631636636",77,2002
+A threads-only MPI implementation for the development of parallel programs,ED Demaine,Proceedings of the 11th international symposium on high performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6178770891212593616,77,1997
+Recent results in computational origami,"ED Demaine, ML Demaine","Origami3: Third International Meeting of Origami Science, Mathematics and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14155491502349722555,76,2002
+Two hands are better than one (up to constant factors),"S Cannon, ED Demaine, ML Demaine, S Eisenstat, MJ Patitz, ...",arXiv preprint arXiv:1201.1650,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1885871521810772011,74,2012
+"Necklaces, Convolutions, and ","D Bremner, TM Chan, ED Demaine, J Erickson, F Hurtado, J Iacono, ...","European Symposium on Algorithms, 160-171","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1209056920072831198,5722018843777337003",74,2006
+Resizable arrays in optimal time and space,"A Brodnik, S Carlsson, ED Demaine, JII Munro, R Sedgewick","Workshop on Algorithms and Data Structures, 37-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=456851327363011118,74,1999
+Unfolding some classes of orthogonal polyhedra,"TBEDM Demainez, A Lubiwzx, MOJOR Steve, RS Whitesidesyxyy",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5712978940173705164,74,1998
+The open problems project,ED Demaine,,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17200280600871162033,16894051810301321271",73,2010
+Tight bounds on maximal and maximum matchings,"T Biedl, ED Demaine, CA Duncan, R Fleischer, SG Kobourov","Discrete Mathematics 285 (1-3), 7-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5506797940707235316,72,2004
+Folding and cutting paper,"ED Demaine, ML Demaine, A Lubiw","Japanese Conference on Discrete and Computational Geometry, 104-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15490210773239929440,71,1998
+Programmable assembly with universally foldable strings (moteins),"KC Cheung, ED Demaine, JR Bachrach, S Griffith","IEEE Transactions on Robotics 27 (4), 718-729",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14230405670428611921,70,2011
+Subquadratic algorithms for 3SUM,"I Baran, ED Demaine, M Pǎtraşcu","Algorithmica 50 (4), 584-596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8030491001638059775,70,2008
+"Tetris is hard, even to approximate","R Breukelaar, ED Demaine, S Hohenberger, HJ Hoogeboom, WA Kosters, ...","International Journal of Computational Geometry & Applications 14 (01n02), 41-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8682231044945869984,70,2004
+When can you fold a map?,"EM Arkin, MA Bender, ED Demaine, ML Demaine, JSB Mitchell, S Sethia, ...","Computational Geometry 29 (1), 23-46",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17893227963098048914,68,2004
+Approximation algorithms for classes of graphs excluding single-crossing graphs as minors,"ED Demaine, MT Hajiaghayi, N Nishimura, P Ragde, DM Thilikos","Journal of Computer and System Sciences 69 (2), 166-195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2251755621704056069,67,2004
+Ununfoldable polyhedra with convex faces,"M Bern, ED Demaine, D Eppstein, E Kuo, A Mantler, J Snoeyink","Computational Geometry 24 (2), 51-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14494792070261266470,67,2003
+Submodular secretary problem and extensions,"MH Bateni, M Hajiaghayi, M Zadimoghaddam","ACM Transactions on Algorithms (TALG) 9 (4), 32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2176112733927139009,66,2013
+A note on reconfiguring tree linkages: Trees can lock,"T Biedl, E Demaine, M Demaine, S Lazard, A Lubiw, J O'Rourke, ...","Discrete Applied Mathematics 117 (1-3), 293-297","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11349227763220468243,9565149503048981792",66,2002
+Online routing in convex subdivisions,"P Bose, A Brodnik, S Carlsson, ED Demaine, R Fleischer, A López-Ortiz, ...","International Symposium on Algorithms and Computation, 47-59","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13065508082856913485,16784756810586941784",66,2000
+PushPush and Push-1 are NP-hard in 2D,"ED Demaine, ML Demaine, J O'Rourke",arXiv preprint cs/0007021,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16260057506300147097,65,2000
+"Graphs excluding a fixed minor have grids as large as treewidth, with combinatorial and algorithmic applications through bidimensionality","ED Demaine, MT Hajiaghayi",Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10797006791545423858,64,2005
+An algorithmic approach to social networks,D Liben-Nowell,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3572342095651642575,62,2005
+A linear lower bound on index size for text retrieval,"ED Demaine, A López-Ortiz","Journal of Algorithms 48 (1), 2-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15888093749517009870,62,2003
+Classic Nintendo games are (computationally) hard,"G Aloupis, ED Demaine, A Guo, G Viglietta","Theoretical Computer Science 586, 135-160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7629431542048919535,61,2015
+Minimizing the diameter of a network using shortcut edges,"ED Demaine, M Zadimoghaddam","Scandinavian Workshop on Algorithm Theory, 420-431",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10358533840989120529,61,2010
+The distance geometry of music,"ED Demaine, F Gomez-Martin, H Meijer, D Rappaport, P Taslakian, ...","Computational geometry 42 (5), 429-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6459978391768033185,61,2009
+(Non) existence of pleated folds: how paper folds between creases,"ED Demaine, ML Demaine, V Hart, GN Price, T Tachi","Graphs and Combinatorics 27 (3), 377-397","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1205648510082665403,7685640392419287343",59,2011
+A survey of folding and unfolding in computational geometry,"ED Demaine, J O’Rourke","Combinatorial and computational geometry 52, 167-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2382294226626526037,59,2005
+Folding flat crease patterns with thick materials,"JS Ku, ED Demaine","Journal of Mechanisms and Robotics 8 (3), 031003",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7769507266708803773,58,2016
+Scanning and traversing: Maintaining data for traversals in a memory hierarchy,"MA Bender, R Cole, ED Demaine","European Symposium on Algorithms, 139-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15210785559699837535,58,2002
+Geometric graph theory,J Pach,Cambridge University Press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7492134665241666120,16601525585846674542",57,1999
+Node-weighted Steiner tree and group Steiner tree in planar graphs,"ED Demaine, MT Hajiaghayi, PN Klein","International Colloquium on Automata, Languages, and Programming, 328-340",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5809649766663186807,56,2009
+Communication-aware processor allocation for supercomputers: Finding point sets of small average distance,"MA Bender, DP Bunde, ED Demaine, SP Fekete, VJ Leung, H Meijer, ...","Algorithmica 50 (2), 279-298",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6513473881447211736,56,2008
+Generalizations of Kempe's universality theorem,TG Abbott,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18301277261890277280,56,2008
+Shape replication through self-assembly and RNase enzymes,"Z Abel, N Benbernou, M Damian, ED Demaine, ML Demaine, R Flatland, ...",Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17038650372879198281,55,2010
+Tight bounds for the partial-sums problem,"M Păatraşcu, ED Demaine",Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4188173756426795823,55,2004
+Online routing in convex subdivisions,"P Bose, A Brodnik, S Carlsson, ED Demaine, R Fleischer, A López-Ortiz, ...","International Journal of Computational Geometry & Applications 12 (04), 283-295",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16517287489500947549,54,2002
+Polynomial-time approximation schemes for subset-connectivity problems in bounded-genus graphs,"G Borradaile, ED Demaine, S Tazari","Algorithmica 68 (2), 287-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17795749709802708063,53,2014
+"Diameter and treewidth in minor-closed graph families, revisited","ED Demaine, MT Hajiaghayi","Algorithmica 40 (3), 211-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12319073978045176504,53,2004
+Exponential speedup of fixed-parameter algorithms for classes of graphs excluding single-crossing graphs as minors,"ED Demaine, MT Hajiaghayi, DM Thilikos","Algorithmica 41 (4), 245-267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7789874114425276101,52,2005
+Representing trees of higher degree,"D Benoit, ED Demaine, JI Munro, V Raman","Workshop on Algorithms and Data Structures, 169-180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12611094316855212238,52,1999
+Origamizer: A practical algorithm for folding any polyhedron,"ED Demaine, T Tachi",33rd International Symposium on Computational Geometry (SoCG 2017),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9161549466736317586,51,2017
+The two-handed tile assembly model is not intrinsically universal,"ED Demaine, MJ Patitz, TA Rogers, RT Schweller, SM Summers, ...","Algorithmica 74 (2), 812-850",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9954493662608832808,51,2016
+Rigid origami vertices: conditions and forcing sets,"Z Abel, J Cantarella, ED Demaine, D Eppstein, TC Hull, JS Ku, RJ Lang, ...",arXiv preprint arXiv:1507.01644,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3339005041935040424,51,2015
+Contraction decomposition in H-minor-free graphs and algorithmic applications,"ED Demaine, MT Hajiaghayi, K Kawarabayashi",Proceedings of the forty-third annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8816889351408127310,50,2011
+The geometry of binary search trees,"ED Demaine, D Harmon, J Iacono, D Kane, M Patraşcu",Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10784307271942829627,50,2009
+An energy-driven approach to linkage unfolding,"JH Cantarella, ED Demaine, HN Iben, JF O'Brien","Proceedings of the twentieth annual symposium on Computational geometry, 134-143",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10352371770089847381,50,2004
+Locked and unlocked polygonal chains in 3D,"T Biedl, E Demaine, M Demaine, S Lazard, A Lubiw, J O'Rourke, ...",arXiv preprint cs/9910009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10397062329881421149,50,1999
+Swapping labeled tokens on graphs,"K Yamanaka, ED Demaine, T Ito, J Kawahara, M Kiyomi, Y Okamoto, ...","Theoretical Computer Science 586, 81-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10285263227302491923,49,2015
+A Pseudopolynomial Time ,"A Deshpande, T Kim, ED Demaine, SE Sarma","Workshop on Algorithms and Data Structures, 163-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4802013574947678997,49,2007
+Low-dimensional embedding with extra information,"M Badoiu, ED Demaine, MT Hajiaghayi, P Indyk","Discrete & Computational Geometry 36 (4), 609-632",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13297427436123543202,49,2006
+The bidimensional theory of bounded-genus graphs,"ED Demaine, MT Hajiaghayi, DM Thilikos","SIAM Journal on Discrete Mathematics 20 (2), 357-371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=646778352621734211,49,2006
+Locked and unlocked polygonal chains in three dimensions,"T Biedl, E Demaine, M Demaine, S Lazard, A Lubiw, J O'Rourke, ...","Discrete & Computational Geometry 26 (3), 269-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3875805052464398339,49,2001
+An end-to-end approach to making self-folded 3D surface shapes by uniform heating,"B An, S Miyashita, MT Tolley, DM Aukes, L Meeker, ED Demaine, ...","2014 IEEE International Conference on Robotics and Automation (ICRA), 1466-1473",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10181650876436505807,48,2014
+Reconstructing David Huffman’s legacy in curved-crease folding,"ED Demaine, ML Demaine, D Koschitz","Origami 5, 39-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17167970942528053007,47,2011
+Retroactive data structures,"ED Demaine, J Iacono, S Langerman","ACM Transactions on Algorithms (TALG) 3 (2), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6363047899696013436,47,2007
+A unified access bound on comparison-based dynamic dictionaries,"M Bădoiu, R Cole, ED Demaine, J Iacono","Theoretical Computer Science 382 (2), 86-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6013825555574337473,46,2007
+The complexity of Clickomania,"TC Biedl, ED Demaine, ML Demaine, R Fleischer, L Jacobsen, JI Munro","More games of no chance 42, 389-404",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12156346231220862528,46,2002
+Reconfiguration of list edge-colorings in a graph,"T Ito, M KamińSki, ED Demaine","Discrete Applied Mathematics 160 (15), 2199-2207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15716463409122334886,44,2012
+The Stackelberg minimum spanning tree game,"J Cardinal, ED Demaine, S Fiorini, G Joret, S Langerman, I Newman, ...","Algorithmica 59 (2), 129-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15030323265797684927,44,2011
+Lower bounds for dynamic connectivity,"M Pǎtraşcu, ED Demaine",Proceedings of the thirty-sixth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15421172745841687054,44,2004
+Optimal arrangement of leaves in the tree representing hierarchical clustering of gene expression data,"T Biedl, B Brejová, ED Demaine, AM Hamel, T Vinar","University of Waterloo, Canada",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2500905352861903296,43,2001
+"Fast algorithms for hard graph problems: Bidimensionality, minors, and local treewidth","ED Demaine, MT Hajiaghayi","International Symposium on Graph Drawing, 517-533",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4761434979950950015,42,2004
+Planar embeddings of graphs with specified edge lengths,"S Cabello, ED Demaine, G Rote","International Symposium on Graph Drawing, 283-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9839240927585436636,42,2003
+Efficient tree layout in a multilevel memory hierarchy,"MA Bender, ED Demaine, M Farach-Colton","European Symposium on Algorithms, 165-173",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12223171534516551970,42,2002
+The price of anarchy in network creation games,"ED Demaine, M Hajiaghayi, H Mahini, M Zadimoghaddam","ACM Transactions on Algorithms (TALG) 8 (2), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6371396627551389644,41,2012
+"Curved crease folding: a review on art, design and mathematics","ED Demaine, ML Demaine, D Koschitz, T Tachi","Proceedings of the IABSE-IASS Symposium: Taller, Longer, Lighter (IABSE …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16744462513890869379,41,2011
+Circle packing for origami design is hard,"ED Demaine, SP Fekete, RJ Lang",arXiv preprint arXiv:1008.1224,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3663637520709763483,41,2010
+Planning to fold multiple objects from a single self-folding sheet,"B An, N Benbernou, ED Demaine, D Rus","Robotica 29 (1), 87-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1939855817901916459,40,2011
+Folding and one straight cut suffice,"ED Demaine, ML Demaine, A Lubiw",Proceedings of the tenth annual ACM-SIAM symposium on Discrete algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11857616678273301130,40,1999
+"Folding and unfolding linkages, paper, and polyhedra",ED Demaine,"Japanese Conference on Discrete and Computational Geometry, 113-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1715770100715563814,39,2000
+9: Geometry and topology of polygonal linkages,"R Connelly, ED Demaine","Handbook of discrete and computational geometry, 233-256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4337891520289327484,38,2017
+The price of anarchy in cooperative network creation games,"ED Demaine, MT Hajiaghayi, H Mahini, M Zadimoghaddam","ACM SIGecom Exchanges 8 (2), 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14704587216106063720,37,2009
+An optimal cache-oblivious priority queue and its application to graph algorithms,"L Arge, MA Bender, ED Demaine, B Holland-Minkley, J Ian Munro","SIAM Journal on Computing 36 (6), 1672-1695",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=680335805602667878,37,2007
+Subexponential parameterized algorithms on graphs of bounded-genus and H-minor-free graphs,"ED Demaine, FV Fomin, MT Hajiaghayi, DM Thilikos",Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=985816356586355692,7315106560518258913",37,2004
+Exponential Speedup of Fixed-Parameter Algorithms on ,"ED Demaine, MT Hajiaghayi, DM Thilikos","International Symposium on Algorithms and Computation, 262-273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14458068435446533656,36,2002
+Infinitesimally locked self-touching linkages with applications to locked trees,"R Connelly, ED Demaine, G Rote","Contemporary Mathematics 304, 287-312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17471813049425986328,36,2002
+A disk-packing algorithm for an origami magic trick,"M Bern, E Demaine, D Eppstein, B Hayes","Proceedings of the 3rd International Meeting of Origami Science, Math, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5803381125133042021,36,2002
+How to influence people with partial incentives,"ED Demaine, MT Hajiaghayi, H Mahini, DL Malec, S Raghavan, A Sawant, ...","Proceedings of the 23rd international conference on World wide web, 937-948",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7872900573984139362,35,2014
+Cache-oblivious dynamic dictionaries with update/query tradeoffs,"GS Brodal, ED Demaine, JT Fineman, J Iacono, S Langerman, JI Munro",Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6974725641664389572,35,2010
+Scheduling to minimize gaps and power consumption,"ED Demaine, M Ghodsi, MT Hajiaghayi, AS Sayedi-Roshkhar, ...",Proceedings of the nineteenth annual ACM symposium on Parallel algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13978972097376332643,35,2007
+Voronoi game on graphs and its complexity,"S Teramoto, ED Demaine, R Uehara","2006 IEEE Symposium on Computational Intelligence and Games, 265-271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12857068940335688694,35,2006
+The nondeterministic constraint logic model of computation: Reductions and applications,"RA Hearn, ED Demaine","International Colloquium on Automata, Languages, and Programming, 401-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1408374994032747062,35,2002
+Hinged dissection of polyominoes and polyforms,"ED Demaine, ML Demaine, D Eppstein, GN Frederickson, E Friedman","Computational Geometry 31 (3), 237-262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10291259543627842166,34,2005
+What is the optimal shape of a city?,"CM Bender, MA Bender, ED Demaine, SP Fekete","Journal of Physics A: Mathematical and General 37 (1), 147",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6606511229818888467,34,2003
+"Fixed-parameter algorithms for the (k, r)-center in planar graphs and map graphs","ED Demaine, FV Fomin, MT Hajiaghayi, DM Thilikos","International Colloquium on Automata, Languages, and Programming, 829-844",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10286706331930599389,34,2003
+Hinged dissections exist,"TG Abbott, Z Abel, D Charlton, ED Demaine, ML Demaine, SD Kominers","Discrete & Computational Geometry 47 (1), 150-186",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11044873226425700991,33,2012
+Self-assembly of arbitrary shapes using rnase enzymes: Meeting the kolmogorov bound with small scale factor,"ED Demaine, MJ Patitz, RT Schweller, SM Summers",arXiv preprint arXiv:1004.4383,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11200438981431284939,33,2010
+Subquadratic algorithms for 3SUM,"I Baran, ED Demaine, M Pǎtraşcu","Workshop on Algorithms and Data Structures, 409-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3966745224777123616,33,2005
+Filling holes in triangular meshes by curve unfolding,"A Brunton, S Wuhrer, C Shu, P Bose, ED Demaine","2009 IEEE International Conference on Shape Modeling and Applications, 66-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1445221354865686670,32,2009
+Refolding planar polygons,"HN Iben, JF O’Brien, ED Demaine","Discrete & Computational Geometry 41 (3), 444-460",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10970303297276018153,32,2009
+"Ordinal embeddings of minimum relaxation: general properties, trees, and ultrametrics","N Alon, M Bădoiu, ED Demaine, M Farach-Colton, MT Hajiaghayi, ...","ACM Transactions on Algorithms (TALG) 4 (4), 46",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=542240900806660690,32,2008
+Moving-baseline localization,"J Park, ED Demaine, S Teller",2008 International Conference on Information Processing in Sensor Networks …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10484852461050374002,32,2008
+Geodesic ham-sandwich cuts,"P Bose, ED Demaine, F Hurtado, J Iacono, S Langerman, P Morin","Discrete & Computational Geometry 37 (3), 325-339",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=143516576982460132,32,2007
+Communication-aware processor allocation for supercomputers,"MA Bender, DP Bunde, ED Demaine, SP Fekete, VJ Leung, H Meijer, ...","Workshop on Algorithms and Data Structures, 169-181",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3878992494190431468,32,2005
+One tile to rule them all: Simulating any tile assembly system with a single universal tile,"ED Demaine, ML Demaine, SP Fekete, MJ Patitz, RT Schweller, ...","International Colloquium on Automata, Languages, and Programming, 368-379",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4958377421624505703,31,2014
+A distributed boundary detection algorithm for multi-robot systems,"J McLurkin, ED Demaine",2009 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14748471965680443866,31,2009
+Algorithmic graph minor theory: Improved grid minor bounds and Wagner’s contraction,"ED Demaine, MT Hajiaghayi, K Kawarabayashi","Algorithmica 54 (2), 142-180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9744129351681463888,31,2009
+Data structures for halfplane proximity queries and incremental voronoi diagrams,"B Aronov, P Bose, ED Demaine, J Gudmundsson, J Iacono, S Langerman, ...","Latin American Symposium on Theoretical Informatics, 80-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5411848050996973751,31,2006
+Continuous foldability of polygonal paper.,"ED Demaine, SL Devadoss, JSB Mitchell, J O'Rourke","CCCG, 64-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17462916488570586465,31,2004
+Linear-time algorithm for sliding tokens on trees,"ED Demaine, ML Demaine, E Fox-Epstein, DA Hoang, T Ito, H Ono, ...","Theoretical Computer Science 600, 132-142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14953159460916633024,30,2015
+Algorithms for solving Rubik’s cubes,"ED Demaine, ML Demaine, S Eisenstat, A Lubiw, A Winslow","European Symposium on Algorithms, 689-700",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15304273420862902996,30,2011
+"Games, puzzles, and computation.","RA Hearn, ED Demaine, GJ Sussman","Massachusetts Institute of Technology, Cambridge, MA, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18363100070154757289,30,2006
+De dictionariis dynamicis pauco spatio utentibus,"ED Demaine, FM auf der Heide, R Pagh, M Pǎtraşcu","Latin American Symposium on Theoretical Informatics, 349-361",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367363385440504325,30,2006
+Pushing blocks is hard,"ED Demaine, ML Demaine, M Hoffmann, J O'Rourke","Computational Geometry 26 (1), 21-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=317895881540711390,30,2003
+Efficient tree layout in a multilevel memory hierarchy,"S Alstrup, MA Bender, ED Demaine, M Farach-Colton, T Rauhe, M Thorup",arXiv preprint cs/0211010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3144363210578927087,30,2002
+Folding and unfolding,E Demaine,University of Waterloo,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15469605147165397935,30,2001
+On streaming and communication complexity of the set cover problem,"ED Demaine, P Indyk, S Mahabadi, A Vakilian","International Symposium on Distributed Computing, 484-498",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15468465778152268342,29,2014
+Classic Nintendo games are (NP-) hard,"G Aloupis, ED Demaine, A Guo, G Viglietta","arXiv preprint arXiv:1203.1895, 1-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7383225782467514159,29,2012
+Reconfiguration of list edge-colorings in a graph,"T Ito, M Kamiński, ED Demaine","Workshop on Algorithms and Data Structures, 375-386",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9247206452544543453,29,2009
+Constraint logic: A uniform framework for modeling computation as games,"ED Demaine, RA Hearn","2008 23rd Annual IEEE Conference on Computational Complexity, 149-162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7085987819128762111,29,2008
+Curved crease origami,"D Koschitz, ED Demaine, ML Demaine",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12914428317898258285,29,2008
+Coin-moving puzzles,"ED Demaine, ML Demaine, H Verrill",More Games of No Chance 42,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12127432441602509568,29,2002
+Push-2-f is pspace-complete.,"ED Demaine, RA Hearn, M Hoffmann","CCCG, 31-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11799982788393517186,29,2002
+Reconfiguring convex polygons,"O Aichholzer, ED Demaine, J Erickson, F Hurtado, M Overmars, M Soss, ...","Computational Geometry 20 (1-2), 85-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7785224552376539368,29,2001
+Computing extreme origami bases,"ED Demaine, ML Demaine","Technical Report CS-97-22, Department of Computer Science, University of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=218264746724294944,29,1997
+Scaled dimension and nonuniform complexity,"JM Hitchcock, JH Lutz, E Mayordomo","Journal of Computer and System Sciences 69 (2), 97-122",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12327086855399965573,28,2004
+1.5-Approximation for treewidth of graphs excluding a graph with one crossing as a minor,"ED Demaine, M Hajiaghayi, DM Thilikos",International Workshop on Approximation Algorithms for Combinatorial …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8518180757435237009,28,2002
+Linear reconfiguration of cube-style modular robots,"G Aloupis, S Collette, M Damian, ED Demaine, R Flatland, S Langerman, ...","Computational Geometry 42 (6-7), 652-663",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2276496249734500649,27,2009
+Hinged dissection of polypolyhedra,"ED Demaine, ML Demaine, JF Lindy, DL Souvaine","Workshop on Algorithms and Data Structures, 205-217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5381566887023200926,27,2005
+Long proteins with unique optimal foldings in the HP model,"O Aichholzer, D Bremner, ED Demaine, H Meijer, V Sacristán, M Soss","Computational geometry 25 (1-2), 139-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4841877597852520378,27,2003
+Convexifying monotone polygons,"TC Biedl, ED Demaine, S Lazard, SM Robbins, MA Soss","International Symposium on Algorithms and Computation, 415-424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3983253567723430357,27,1999
+"Reconfiguring massive particle swarms with limited, global control","A Becker, ED Demaine, SP Fekete, G Habibi, J McLurkin",International Symposium on Algorithms and Experiments for Sensor Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1699820188909893141,26,2013
+Non-crossing matchings of points with geometric objects,"G Aloupis, J Cardinal, S Collette, ED Demaine, ML Demaine, M Dulieu, ...","Computational geometry 46 (1), 78-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13786161019388089536,26,2013
+Folding any orthogonal maze,"ED Demaine, ML Demaine, J Ku",Origami5: Proceedings of the 5th International Conference on Origami in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11905600446402038532,26,2011
+Fast allocation and deallocation with an improved buddy system,"GS Brodal, ED Demaine, JI Munro","Acta Informatica 41 (4-5), 273-291",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5006655579086173182,26,2005
+Solitaire clobber,"ED Demaine, ML Demaine, R Fleischer","Theoretical Computer Science 313 (3), 325-338",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1046677226484843465,26,2004
+Vertex-unfoldings of simplicial manifolds,"ED Demaine, D Eppstein, J Erickson, GW Hart, J O'Rourke",Proceedings of the eighteenth annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13734038860238123260,26,2002
+Enumerating foldings and unfoldings between polygons and polytopes,"ED Demaine, ML Demaine, A Lubiw, J O'Rourke","Graphs and Combinatorics 18 (1), 93-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2841795644642875952,26,2002
+Polygons cuttable by a circular saw,"ED Demaine, ML Demaine, CS Kaplan","Computational Geometry 20 (1-2), 69-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14043450109470143388,26,2001
+Finding frequent items in sliding windows with multinomially-distributed item frequencies,"L Golab, D DeHaan, A Lopez-Ortiz, ED Demaine",Proceedings. 16th International Conference on Scientific and Statistical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=734973462904875755,25,2004
+Proximate point searching,"ED Demaine, J Iacono, S Langerman","Computational geometry 28 (1), 29-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1465418155074530818,25,2004
+Folding paper shopping bags,"DJ Balkcom, ED Demaine, ML Demaine, JA Ochsendorf, Z You",Origami4: Proceedings of the 4th International Meeting of Origami Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3257633119439520593,24,2009
+Morpion solitaire,"ED Demaine, ML Demaine, A Langerman, S Langerman","Theory of Computing Systems 39 (3), 439-453",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5755152706236214421,24,2006
+Interpolation search for non-independent data,"ED Demaine, T Jones, M Pătraşcu",Proceedings of the fifteenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13541104150020617183,24,2004
+Pushing blocks is NP-complete for noncrossing solution paths,"ED DemaineЃ, M Hoffmannн",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17920633819918811637,24,2001
+Polyhedral sculptures with hyperbolic paraboloids,"ED Demaine, ML Demaine, A Lubiw",Proceedings of the 2nd annual conference of BRIDGES: mathematical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2012490556086844955,24,1999
+"UNO is hard, even for a single player","ED Demaine, ML Demaine, R Uehara, T Uno, Y Uno","International Conference on Fun with Algorithms, 133-144","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10342927284455536538,5321154907487821929",23,2010
+Wrapping spheres with flat paper,"ED Demaine, ML Demaine, J Iacono, S Langerman","Computational geometry 42 (8), 748-757",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17680551962229573990,23,2009
+A universal crease pattern for folding orthogonal shapes,"N Benbernou, ED Demaine, ML Demaine, A Ovadya",arXiv preprint arXiv:0909.5388,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18345408693913027928,23,2009
+Lower bound techniques for data structures,M Pǎtraşcu,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9799226012125230724,23,2008
+Locked and unlocked chains of planar shapes,"R Connelly, ED Demaine, ML Demaine, SP Fekete, S Langerman, ...","Discrete & computational geometry 44 (2), 439-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17375048948459528216,22,2010
+Reconfiguration of Cube-Style Modular Robots Using ,"G Aloupis, S Collette, ED Demaine, S Langerman, V Sacristán, S Wuhrer","International Symposium on Algorithms and Computation, 342-353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14036427578529521036,22,2008
+Approximability of partitioning graphs with supply and demand,"T Ito, ED Demaine, X Zhou, T Nishizeki","Journal of Discrete Algorithms 6 (4), 627-650",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17280348358181529859,22,2008
+Ununfoldable polyhedra with convex faces,"M Bern, ED Demaine, D Eppstein, E Kuo, A Mantler, J Snoeyink",arXiv preprint cs/9908003,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16873025775831112617,22,1999
+Remarks on separating words,"ED Demaine, S Eisenstat, J Shallit, DA Wilson","International Workshop on Descriptional Complexity of Formal Systems, 147-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10341168968927790125,21,2011
+Coverage with k-transmitters in the presence of obstacles,"B Ballinger, N Benbernou, P Bose, M Damian, ED Demaine, V Dujmović, ...","International Conference on Combinatorial Optimization and Applications, 1-15","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16688591768263909015,13812784228591709974",21,2010
+Minimizing movement: Fixed-parameter tractability,"ED Demaine, MT Hajiaghayi, D Marx","European Symposium on Algorithms, 718-729",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8221521375484115587,21,2009
+Flipturning polygons,"O Aichholzer, C Cortés, ED Demaine, V Dujmovic, J Erickson, H Meijer, ...","Discrete and Computational Geometry 28 (2), 231-253",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3273572207631521954,21,2002
+A pseudopolynomial algorithm for Alexandrov’s Theorem,"D Kane, GN Price, ED Demaine","Workshop on Algorithms and Data Structures, 435-446",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16854709409610823616,20,2009
+Separating point sets in polygonal environments,"ED Demaine, J Erickson, F Hurtado, J Iacono, S Langerman, H Meijer, ...","International Journal of Computational Geometry & Applications 15 (04), 403-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7399155974173821935,20,2005
+PushPush-k is PSPACE-complete,"ED Demaine, M Hoffmann, M Holzer","Proceedings of the 3rd International Conference on FUN with Algorithms, 159-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4216919449259278556,20,2004
+Robot localization without depth perception,"ED Demaine, A López-Ortiz, JI Munro","Scandinavian Workshop on Algorithm Theory, 249-259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15266849368720824025,20,2002
+Generalized communicators in the message passing interface,"ED Demaine, I Foster, C Kesselman, M Snir","IEEE Transactions on Parallel and Distributed Systems 12 (6), 610-616",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7517859646080127309,20,2001
+C to Java: converting pointers into references,ED Demaine,"Concurrency: Practice and Experience 10 (11‐13), 851-861",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17578181294708705810,20,1998
+Characterization of curved creases and rulings: Design and analysis of lens tessellations,"ED Demaine, ML Demaine, DA Huffman, D Koschitz, T Tachi","Origami 6, 209-230",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9966613705697914377,19,2015
+Computational complexity and an integer programming model of Shakashaka,"ED Demaine, Y Okamoto, R Uehara, Y Uno","IEICE Transactions on Fundamentals of Electronics, Communications and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6133524128674734276,19,2014
+Reconstructing David Huffman's Origami Tessellations,"E Davis, ED Demaine, ML Demaine, J Ramseyer","Journal of Mechanical Design 135 (11), 111010",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18198488065743505361,19,2013
+Covering points by disjoint boxes with outliers,"HK Ahn, SW Bae, ED Demaine, ML Demaine, SS Kim, M Korman, ...","Computational geometry 44 (3), 178-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10983400009708514634,19,2011
+"Decomposition, approximation, and coloring of odd-minor-free graphs","ED Demaine, MT Hajiaghayi, K Kawarabayashi",Proceedings of the twenty-first annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5167215551718924583,19,2010
+Zipper unfoldings of polyhedral complexes,"ED Demaine, ML Demaine, A Lubiw, A Shallit, JL Shallit",University of Manitoba,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12279188528971043276,19,2010
+Fun-sort—or the chaos of unordered binary search,"T Biedl, T Chan, ED Demaine, R Fleischer, M Golin, JA King, JI Munro","Discrete Applied Mathematics 144 (3), 231-236",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12268211107195180531,19,2004
+Palindrome recognition using a multidimensional tape,"T Biedl, JF Buss, ED Demaine, ML Demaine, M Hajiaghayi, T Vinař","Theoretical Computer Science 302 (1-3), 475-480",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13704144827178144136,19,2003
+Energy-efficient algorithms,"ED Demaine, J Lynch, GJ Mirano, N Tyagi",Proceedings of the 2016 ACM Conference on Innovations in Theoretical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4264782778112062304,18,2016
+Particle computation: Designing worlds to control robot swarms with only global signals,"A Becker, ED Demaine, SP Fekete, J McLurkin","2014 IEEE International Conference on Robotics and Automation (ICRA), 6751-6756",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17781752326204609078,18,2014
+The Stackelberg minimum spanning tree game on planar and bounded-treewidth graphs,"J Cardinal, ED Demaine, S Fiorini, G Joret, I Newman, O Weimann","Journal of combinatorial optimization 25 (1), 19-46",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17660706736246262545,18,2013
+Ordinal embedding: Approximation algorithms and dimensionality reduction,"M Bădoiu, ED Demaine, MT Hajiaghayi, A Sidiropoulos, ...","Approximation, Randomization and Combinatorial Optimization. Algorithms and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4253405040241681376,18,2008
+Introduction to algorithms,P Leiserson,MIT,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8131551812469555356,4451471790821808953",18,2005
+Phutball endgames are hard,"ED Demaine, ML Demaine, D Eppstein",arXiv preprint cs/0008025,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10506138042253804667,18,2000
+On k-convex polygons,"O Aichholzer, F Aurenhammer, ED Demaine, F Hurtado, P Ramos, ...","Computational geometry 45 (3), 73-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13799310135422109119,17,2012
+On the complexity of reconfiguration problems,"T Ito, ED Demaine, NJA Harvey, CH Papadimitriou, M Sideri, R Uehara, ...","International Symposium on Algorithms and Computation, 28-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15163695871534780305,17,2008
+Convexifying Polygons Without Losing Visibilities.,"O Aichholzer, G Aloupis, ED Demaine, ML Demaine, V Dujmovic, ...",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3776529267571240408,16,2011
+Relaxed Gabriel Graphs.,"P Bose, J Cardinal, S Collette, ED Demaine, B Palop, P Taslakian, N Zeh","CCCG, 169-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=939937978596715833,16,2009
+Edge-unfolding nested polyhedral bands,"G Aloupis, ED Demaine, S Langerman, P Morin, J O'Rourke, I Streinu, ...","Computational Geometry 39 (1), 30-42","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17418301100300861983,17706927151764603658",16,2008
+Lower bounds for asymmetric communication channels and distributed source coding,"M Adler, ED Demaine, NJA Harvey, M Pǎtraşcu",Proceedings of the seventeenth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10741101220273121870,16,2006
+New bounds on optimal binary search trees,DDK Harmon,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1513356925349973039,16,2006
+Interlocked open linkages with few joints,"ED Demaine, S Langerman, J O'Rourke, J Snoeyink",Proceedings of the eighteenth annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7319449216300324355,16,2002
+Metamorphosis of the cube,"E Demaine, M Demaine, A Lubiw, J O'Rourke, I Pashchenko",Annual Symposium on Computational Geometry: Proceedings of the fifteenth …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8390390103182828638,16,1999
+Zig-zag numberlink is NP-complete,"A Adcock, ED Demaine, ML Demaine, MP O'Brien, F Reidl, FS Villaamil, ...","Journal of Information Processing 23 (3), 239-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6021805133344695175,15,2015
+Structural sparsity of complex networks: Random graph models and linear algorithms,"ED Demaine, F Reidl, P Rossmanith, FS Villaamil, S Sikdar, BD Sullivan","CoRR, abs/1406.2587",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5712234767071133582,15,2014
+Node-weighted Steiner tree and group Steiner tree in planar graphs,"ED Demaine, MT Hajiaghayi, PN Klein","ACM Transactions on Algorithms (TALG) 10 (3), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2232404015738583985,15,2014
+One-dimensional staged self-assembly,"ED Demaine, S Eisenstat, M Ishaque, A Winslow","International Workshop on DNA-Based Computers, 100-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3293167515346899859,15,2011
+Reconfigurable asynchronous logic automata:(RALA),"N Gershenfeld, D Dalrymple, K Chen, A Knaian, F Green, ED Demaine, ...","ACM Sigplan Notices 45 (1), 1-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7899307973152333835,15,2010
+Approximation algorithms via structural results for apex-minor-free graphs,"ED Demaine, MT Hajiaghayi, K Kawarabayashi","International Colloquium on Automata, Languages, and Programming, 316-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11221237937880389539,15,2009
+Sand drawings and Gaussian graphs,"ED Demaine, ML Demaine, P Taslakian, GT Toussaint","Journal of Mathematics and the Arts 1 (2), 125-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5184413875219496796,15,2007
+"Puzzles, art, and magic with algorithms","ED Demaine, ML Demaine","Theory of Computing Systems 39 (3), 473-481",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5804340168601221589,15,2006
+Optimal adaptive algorithms for finding the nearest and farthest point on a parametric black-box curve,"I Baran, ED Demaine","International Journal of Computational Geometry & Applications 15 (04), 327-350",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13316519545495507246,15,2005
+Coping by innovating: The formal origins and consequences of informal institutions in China,K Tsai,"Annual Meeting of the American Political Science Association, August, 27-31","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5273788254069784255,15851624985855434026",15,2003
+K-ary clustering with optimal leaf ordering for gene expression data,"Z Bar-Joseph, ED Demaine, DK Gifford, AM Hamel, TS Jaakkola, ...","International Workshop on Algorithms in Bioinformatics, 506-520",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236626305076428602,15,2002
+Three colors suffice: Conflict-free coloring of planar graphs,"Z Abel, V Alvarez, ED Demaine, SP Fekete, A Gour, A Hesterberg, ...",Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12544336150064791355,14,2017
+Polynomial-time algorithm for sliding tokens on trees,"ED Demaine, ML Demaine, E Fox-Epstein, DA Hoang, T Ito, H Ono, ...","International Symposium on Algorithms and Computation, 389-400",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4881399881633366767,14,2014
+Approximability of the subset sum reconfiguration problem,"T Ito, ED Demaine","Journal of Combinatorial Optimization 28 (3), 639-654",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17063094530023860737,14,2014
+PCB origami: A material-based design approach to computer-aided foldable electronic devices,"Y Sterman, ED Demaine, N Oxman","Journal of Mechanical Design 135 (11), 114502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8123398354576911465,14,2013
+"One tile to rule them all: simulating any Turing machine, tile assembly system, or tiling system with a single puzzle piece","ED Demaine, ML Demaine, SP Fekete, MJ Patitz, RT Schweller, ...",arXiv preprint arXiv:1212.4756,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=514161158471164368,14,2012
+(1)-Approximations for Maximum Movement Problems,"P Berman, ED Demaine, M Zadimoghaddam","Approximation, Randomization, and Combinatorial Optimization. Algorithms and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13377777486659929640,14,2011
+Approximability of the subset sum reconfiguration problem,"T Ito, ED Demaine",International Conference on Theory and Applications of Models of Computation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10505659672473969465,14,2011
+Integer point sets minimizing average pairwise L1 distance: What is the optimal shape of a town?,"ED Demaine, SP Fekete, G Rote, N Schweer, D Schymura, M Zelke","Computational Geometry 44 (2), 82-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3365431752776968656,14,2011
+Confluently persistent tries for efficient version control,"ED Demaine, S Langerman, E Price","Scandinavian Workshop on Algorithm Theory, 160-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14853158104539597449,14,2008
+The bidimensional theory of bounded-genus graphs,"ED Demaine, M Hajiaghayi, DM Thilikos","International Symposium on Mathematical Foundations of Computer Science, 191-203",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2264971243888931296,14,2004
+Flat-state connectivity of linkages under dihedral motions,"G Aloupis, ED Demaine, V Dujmović, J Erickson, S Langerman, H Meijer, ...","International Symposium on Algorithms and Computation, 369-380",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3037965339397930704,14,2002
+"Examples, counterexamples, and enumeration results for foldings and unfoldings between polygons and polytopes","ED Demaine, ML Demaine, A Lubiw, J O'Rourke",arXiv preprint cs/0007019,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11259410685203024953,14,2000
+Higher-order concurrency in Java,ED Demaine,"WoTUG20, 34-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9772023728859338017,14,1997
+Embedding stacked polytopes on a polynomial-size grid,"ED Demaine, A Schulz","Discrete & Computational Geometry 57 (4), 782-809",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13555171411362454038,13,2017
+Joining unfoldings of 3-D surfaces,"C Sung, ED Demaine, ML Demaine, D Rus",ASME 2013 International Design Engineering Technical Conferences and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588089980681238227,13,2013
+Common developments of several different orthogonal boxes,"Z Abel, E Demaine, M Demaine, H Matsui, G Rote, R Uehara",The 23rd Canadian Conference on Computational Geometry (CCCG'11),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7805527570858102685,13,2011
+Efficient constant-velocity reconfiguration of crystalline robots,"G Aloupis, S Collette, M Damian, ED Demaine, R Flatland, S Langerman, ...","Robotica 29 (1), 59-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2438703244559737284,13,2011
+Bidimensionality,"ED Demaine, MT Hajiaghayi",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9706233921178138555,13,2008
+"07281 Open Problems--Structure Theory and FPT Algorithmcs for Graphs, Digraphs and Hypergraphs","E Demaine, GZ Gutin, D Marx, U Stege",Dagstuhl Seminar Proceedings,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7204689939985941667,13,2007
+Computing with strategic agents,N Immorlica,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9746272775110185818,13,2005
+Worst-case optimal tree layout in a memory hierarchy,"ED Demaine, J Iacono, S Langerman",Manuscript. arXiv: DS/0410048,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6958487328071121380,13,2004
+Interlocked open and closed linkages with few joints,"ED Demaine, S Langerman, J O'Rourke, J Snoeyink","Computational Geometry 26 (1), 37-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8489848632921740381,13,2003
+Blowing up polygonal linkages,"R Connelly, ED Demaine, G Rote","Discrete & Computational Geometry 30 (2), 205-239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16881822027307701050,13,2003
+Balanced k-colorings,"TC Biedl, E Čenek, TM Chan, ED Demaine, ML Demaine, R Fleischer, ...","Discrete Mathematics 254 (1-3), 19-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11443719496581251591,13,2002
+Hiding disks in folded polygons.,"TC Biedl, ED Demaine, ML Demaine, A Lubiw, GT Toussaint",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11429861276629056415,13,1998
+Correction: Basic network creation games,"N Alon, ED Demaine, MT Hajiaghayi, P Kanellopoulos, T Leighton","SIAM Journal on Discrete Mathematics 28 (3), 1638-1640",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=337667495701731750,12,2014
+Continuously flattening polyhedra using straight skeletons,"Z Abel, ED Demaine, ML Demaine, J Itoh, A Lubiw, C Nara, J O'Rourke","Proceedings of the thirtieth annual symposium on Computational geometry, 396",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4248718866319248422,12,2014
+Combining binary search trees,"ED Demaine, J Iacono, S Langerman, Ö Özkan","International Colloquium on Automata, Languages, and Programming, 388-399",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5196055450295227435,12,2013
+Algorithms for designing pop-up cards,"ZR Abel, ED Demaine, ML Demaine, SC Eisenstat, A Lubiw, A Schulz, ...",Schloss Dagstuhl Publishing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8459174957971293070,12,2013
+Continuous blooming of convex polyhedra,"ED Demaine, ML Demaine, V Hart, J Iacono, S Langerman, J O’Rourke","Graphs and combinatorics 27 (3), 363-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6332623704231241564,12,2011
+Universal hinge patterns to fold orthogonal shapes,"NM Benbernou, ED Demaine, ML Demaine, A Ovadya",Origami5: Proceedings of the 5th International Conference on Origami in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18261585132129579747,12,2010
+Facet ordering and crease assignment in uniaxial bases,"RJ Lang, ED Demaine",Origami4: Proceedings of the 4th International Conference on Origami in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16050568088765546565,12,2009
+All polygons flip finitely... right?,"ED Demaine, B Gassend, J O'Rourke, GT Toussaint","Contemporary Mathematics 453, 231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10286017292103374546,12,2008
+Quickly deciding minor-closed parameters in general graphs,"ED Demaine, MT Hajiaghayi","European Journal of Combinatorics 28 (1), 311-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15037026389270837125,12,2007
+Games on triangulations,"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...","Theoretical computer science 343 (1-2), 42-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13601704301903053434,12,2005
+Optimizing a 2d function satisfying unimodality properties,"ED Demaine, S Langerman","European Symposium on Algorithms, 887-898",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6013836745602091397,12,2005
+Protocols for non-deterministic communication over synchronous channels,ED Demaine,Proceedings of the First Merged International Parallel Processing Symposium …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3781403897893132090,12,1998
+Minimizing movement: Fixed-parameter tractability,"ED Demaine, MT Hajiaghayi, D Marx","ACM Transactions on Algorithms (TALG) 11 (2), 14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11929406110043109891,11,2014
+Efficient reconfiguration of lattice-based modular robots,"G Aloupis, N Benbernou, M Damian, ED Demaine, R Flatland, J Iacono, ...","Computational geometry 46 (8), 917-928",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6832002987917276428,11,2013
+One-dimensional staged self-assembly,"ED Demaine, S Eisenstat, M Ishaque, A Winslow","Natural Computing 12 (2), 247-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17224420225139198117,11,2013
+Scheduling to minimize gaps and power consumption,"ED Demaine, M Ghodsi, MT Hajiaghayi, AS Sayedi-Roshkhar, ...","Journal of Scheduling 16 (2), 151-160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15862060329079845964,11,2013
+Geometric algorithms for reconfigurable structures,NM Benbernou,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4403602409622709755,11,2011
+Common unfoldings of polyominoes and polycubes,"G Aloupis, PK Bose, S Collette, ED Demaine, ML Demaine, K Douïeb, ...","International Conference on Computational Geometry, Graphs and Applications …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3923357323972618578,11,2010
+Plane embeddings of planar graph metrics,"MH Bateni, ED Demaine, MT Hajiaghayi, M Moharrami","Discrete & Computational Geometry 38 (3), 615-637",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14533218109315579203,11,2007
+An O (n^ 3)-Time Algorithm for Tree Edit Distance,"ED Demaine, S Mozes, B Rossman, O Weimann",arXiv preprint cs/0604037,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14032118462293817020,11,2006
+Geometric restrictions on producible polygonal protein chains,"S Langerman, J O’Rourke","Algorithmica 44 (2), 167-181","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10120962770756682835,1175252367509220153",11,2006
+PersiFS: a versioned file system with an efficient representation,"DRK Ports, AT Clements, ED Demaine","Proceedings of the twentieth ACM symposium on Operating systems principles, 1-2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7857405131391190604,11,2005
+The Cricket indoor location system,"H Balakrishnan, D Curtis, E Demaine, M Goraczko, A Miu, D Moore, ...","Architecture, 199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11802414494890079460,11,2005
+Finding hidden independent sets in interval graphs,"T Biedl, B Brejová, ED Demaine, AM Hamel, A López-Ortiz, T Vinař","Theoretical Computer Science 310 (1-3), 287-307",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15587750140325982864,11,2004
+Structural sparsity of complex networks: Bounded expansion in random models and real-world graphs,"ED Demaine, F Reidl, P Rossmanith, FS Villaamil, S Sikdar, BD Sullivan",Journal of Computer and System Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=919030100546425002,10,2019
+Super Mario Bros. is harder/easier than we thought,"ED Demaine, G Viglietta, A Williams",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12543935478563357260,10,2016
+Canadians should travel randomly,"ED Demaine, Y Huang, CS Liao, K Sadakane","International Colloquium on Automata, Languages, and Programming, 380-391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8528901976720487640,10,2014
+Picture-hanging puzzles,"ED Demaine, ML Demaine, YN Minsky, JSB Mitchell, RL Rivest, ...","Theory of Computing Systems 54 (4), 531-550",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17600442429381873218,10,2014
+Scheduling to minimize power consumption using submodular functions,"ED Demaine, M Zadimoghaddam",Proceedings of the twenty-second annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4320417380656168788,10,2010
+Minimal locked trees,"B Ballinger, D Charlton, ED Demaine, ML Demaine, J Iacono, CH Liu, ...","Workshop on Algorithms and Data Structures, 61-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4127573054089280896,10,2009
+Optimally adaptive integration of univariate Lipschitz functions,"I Baran, ED Demaine, DA Katz","Algorithmica 50 (2), 255-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14407532881426783668,10,2008
+Linear reconfiguration of cube-style modular robots,"G Aloupis, S Collette, M Damian, ED Demaine, R Flatland, S Langerman, ...","International Symposium on Algorithms and Computation, 208-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16302364559724220285,10,2007
+Disjoint Segments Have Convex Partitions with 2-Edge Connected Dual Graphs.,"N Benbernou, ED Demaine, ML Demaine, M Hoffmann, M Ishaque, ...","CCCG, 13-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5901868669249245048,10,2007
+Algorithmic graph minor theory: Improved grid minor bounds and Wagner’s contraction,"ED Demaine, MT Hajiaghayi, K Kawarabayashi","International Symposium on Algorithms and Computation, 3-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18322274625398367404,10,2006
+Kinematics and dynamics of nanostructured OrigamiTM,"P Stellman, W Arora, S Takahashi, ED Demaine, G Barbastathis","Proceedings of IMECE 2005, 2005 ASME International Mechanical Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=309155562866802823,10,2005
+Grid vertex-unfolding orthostacks,"ED Demaine, J Iacono, S Langerman","Japanese Conference on Discrete and Computational Geometry, 76-82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14317015051492538386,10,2004
+A simplified and dynamic unified structure,"M Bădoiu, ED Demaine","Latin American Symposium on Theoretical Informatics, 466-473",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1693218809832371800,10,2004
+When can you fold a map?,"EM Arkin, MA Bender, ED Demaine, ML Demaine, JSB Mitchell, S Sethia, ...","Workshop on Algorithms and Data Structures, 401-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6041960704174718179,10,2001
+Every Polygon Can Be Untangled.,"R Connelly, ED Demaine, G Rote","EuroCG, 62-65",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1982066466998088117,10,2000
+Open problems from CCCG’99,"ED Demaine, J O’Rourke","Proc. 12th Canad. Conf. Comput. Geom, 269-272",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9288034575834009728,10,2000
+PushPush is NP-hard in 2D,"ED Demaine, ML Demaine, J O'Rourke",arXiv preprint cs/0001019,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4793295819183278754,10,2000
+Coordinated motion planning: Reconfiguring a swarm of labeled robots with bounded stretch,"ED Demaine, SP Fekete, P Keldenich, H Meijer, C Scheffer","SIAM Journal on Computing 48 (6), 1727-1762",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=743514900681081414,9,2019
+Continuous flattening of orthogonal polyhedra,"ED Demaine, ML Demaine, J Itoh, C Nara","Japanese Conference on Discrete and Computational Geometry and Graphs, 85-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8632654394118375648,9,2015
+Edge-compositions of 3D surfaces,"C Sung, ED Demaine, ML Demaine, D Rus","Journal of Mechanical Design 135 (11), 111001","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3860722247946242044,8997304536677109209",9,2013
+Realistic reconfiguration of crystalline (and telecube) robots,"G Aloupis, S Collette, M Damian, ED Demaine, D El-Khechen, R Flatland, ...","Algorithmic Foundation of Robotics VIII, 433-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14182497470661167423,9,2009
+On Rolling Cube Puzzles.,"K Buchin, M Buchin, ED Demaine, ML Demaine, D El-Khechen, ...","CCCG, 141-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11835031795898033438,9,2007
+Mobile-assisted topology generation for auto-localization in sensor networks,"N Priyantha, H Balakrishnan, E Demaine, S Teller",Proceedings of InfoCom,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8633736938945379909,9,2005
+"Particle computation: complexity, algorithms, and logic","AT Becker, ED Demaine, SP Fekete, J Lonsford, R Morris-Wright","Natural Computing 18 (1), 181-201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2001634331526165069,8,2019
+Unfolding genus-2 orthogonal polyhedra with linear refinement,"M Damian, E Demaine, R Flatland, J O’Rourke","Graphs and Combinatorics 33 (5), 1357-1379",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13206700366612933554,8,2017
+New geometric algorithms for fully connected staged self-assembly,"ED Demaine, SP Fekete, C Scheffer, A Schmidt","Theoretical Computer Science 671, 4-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9532009609225688454,8,2017
+Sequentially swapping colored tokens on graphs,"K Yamanaka, ED Demaine, T Horiyama, A Kawamura, S Nakano, ...","International Workshop on Algorithms and Computation, 435-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8271917277582655556,8,2017
+Tilt: The video-designing worlds to control robot swarms with only global signals,"AT Becker, ED Demaine, SP Fekete, HM Shad, R Morris-Wright",31st International Symposium on Computational Geometry (SoCG 2015),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9022203663612603363,8,2015
+Unfolding orthogonal polyhedra with quadratic refinement: the delta-unfolding algorithm,"M Damian, ED Demaine, R Flatland","Graphs and Combinatorics 30 (1), 125-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17497550362483141917,8,2014
+Edge-guarding orthogonal polyhedra,"N Benbernou, ED Demaine, ML Demaine, A Kurdia, J O’Rourke, ...","Proceedings of the 23rd Canadian Conference on Computational Geometry, 461-466",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7859619214307312199,8,2011
+Lossless fault-tolerant data structures with additive overhead,"P Christiano, ED Demaine, S Kishore","Workshop on Algorithms and Data Structures, 243-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8068655479360871858,8,2011
+Sketching and streaming high-dimensional vectors,JJO Nelson,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1146660713808844420,8,2011
+Algorithmic folding complexity,"J Cardinal, ED Demaine, ML Demaine, S Imahori, S Langerman, ...","International Symposium on Algorithms and Computation, 452-461",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8609859358481266993,8,2009
+Approximation Schemes for Planar Graph Problems.,"ED Demaine, MT Hajiaghayi",Encyclopedia of Algorithms,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9467749306485188852,8,2008
+Tight bounds for dynamic convex hull queries (again),"ED Demaine, M Patrascu",Proceedings of the twenty-third annual symposium on Computational geometry …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4861642060553130282,8,2007
+Advanced Data Structures,"E Demaine, O Weimann","Lecture Notes from MIT, Lecture 15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9673964724600282436,8,2005
+Tribute to a Mathemagician,"B Cipra, ED Demaine, ML Demaine, T Rodgers",CRC Press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8589051523316530178,927743392913186274",8,2004
+"Universal Shape Replicators via Self-Assembly with Attractive and Repulsive Forces*, &","C Chalk, ED Demaine, ML Demaine, E Martinez, R Schweller, L Vega, ...",Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=531965784330683611,7,2017
+A PTAS for planar group steiner tree via spanner bootstrapping and prize collecting,"MH Bateni, ED Demaine, MT Hajiaghayi, D Marx",Proceedings of the forty-eighth annual ACM symposium on Theory of Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16491503903192648328,7,2016
+Who needs crossings? Hardness of plane graph rigidity,"Z Abel, ED Demaine, ML Demaine, S Eisenstat, J Lynch, TB Schardl",32nd International Symposium on Computational Geometry (SoCG 2016),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4928876904330676556,7,2016
+Box pleating is hard,"HA Akitaya, KC Cheung, ED Demaine, T Horiyama, TC Hull, JS Ku, ...","Japanese Conference on Discrete and Computational Geometry and Graphs, 167-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14261297660806914772,7,2015
+Particle computation: Device fan-out and binary memory,"HM Shad, R Morris-Wright, ED Demaine, SP Fekete, AT Becker","2015 IEEE International Conference on Robotics and Automation (ICRA), 5384-5389",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17322203264278158996,7,2015
+Folding a paper strip to minimize thickness,"ED Demaine, D Eppstein, A Hesterberg, H Ito, A Lubiw, R Uehara, Y Uno","International Workshop on Algorithms and Computation, 113-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5346858833081390249,7,2015
+Confluently persistent tries for efficient version control,"ED Demaine, S Langerman, E Price","Algorithmica 57 (3), 462-483",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15438805120760124873,7,2010
+A Generalized Carpenter's Rule Theorem for Self-Touching Linkages,"TG Abbott, ED Demaine, B Gassend",arXiv preprint arXiv:0901.1322,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10316672522013516614,7,2009
+Erratum for “Disjoint segments have convex partitions with 2-edge connected dual graphs”,"N Benbernou, ED Demaine, ML Demaine, M Hoffmann, M Ishaque, ...",Proc. CCCG 223,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16411616432437863277,7,2008
+Vertex Pops and Popturns.,"G Aloupis, B Ballinger, P Bose, M Damian, ED Demaine, ML Demaine, ...","CCCG, 137-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7578927623376375413,7,2007
+"Origami, linkages, and polyhedra: folding with algorithms",ED Demaine,"European Symposium on Algorithms, 1-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4600954103462978252,7,2006
+The Distance Geometry of Deep Rhythms and Scales.,"ED Demaine, F Gomez-Martin, H Meijer, D Rappaport, P Taslakian, ...","CCCG, 163-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1498563901735593417,7,2005
+Mobile-assisted localization in wireless sensor networks,B Nissanka,Proc. INFOCOM'05,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8646484771902370848,7,2005
+Computing signed permutations of polygons,"G Aloupis, P Bose, ED Demaine, S Langerman, H Meijer, MH Overmars, ...",Utrecht University: Information and Computing Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12046607237391880462,7,2002
+Tight bounds on maximal and maximum matchings,"T Biedl, ED Demaine, CA Duncan, R Fleischer, SG Kobourov","International Symposium on Algorithms and Computation, 308-319",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4332547689824953050,7,2001
+Fast allocation and deallocation with an improved buddy system,"ED Demaine, IJ Munro",International Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7104629658047503221,7,1999
+Converting C pointers to Java references,ED Demaine,Proceedings of the ACM-1998 Workshop on Java for High-performance Network …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11529364335022394649,7,1998
+Routing algorithms on static interconnection networks: A classification scheme,"E Demaine, S Srinivas","COMPUTER SYSTEMS SCIENCE AND ENGINEERING 12 (6), 359-367",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17333270688607130273,7,1997
+A novel routing algorithm for k-ary n-cube interconnection networks,"ED Demaine, S Srinivas","International Journal of High Speed Computing 8 (01), 81-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13170616066266497243,7,1996
+Know when to fold’em: self-assembly of shapes by folding in oritatami,"ED Demaine, J Hendricks, M Olsen, MJ Patitz, TA Rogers, N Schabanel, ...","International Conference on DNA Computing and Molecular Programming, 19-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16545253761388478855,6,2018
+"Fast, interactive origami simulation using GPU computation","A Ghassaei, ED Demaine, N Gershenfeld","7th International Meeting on Origami in Science, Mathematics and Education",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6892014409155005752,6,2018
+Even 1× n edge-matching and jigsaw puzzles are really hard,"J Bosboom, ED Demaine, ML Demaine, A Hesterberg, P Manurangsi, ...","Journal of Information Processing 25, 682-694",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13696295378552382153,6,2017
+The computational complexity of Portal and other 3D video games,"ED Demaine, J Lockhart, J Lynch",arXiv preprint arXiv:1611.10319,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=543979998622093805,6,2016
+Cache-adaptive analysis,"MA Bender, ED Demaine, R Ebrahimi, JT Fineman, R Johnson, A Lincoln, ...",Proceedings of the 28th ACM Symposium on Parallelism in Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3538253460500857622,6,2016
+Bidimensionality,"FV Fomin, ED Demaine, MT Hajiaghayi, D Thilikos","Encyclopedia of Algorithms, 203-207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6150419327876621644,6,2016
+Single-player and two-player buttons & scissors games,"K Burke, ED Demaine, H Gregg, RA Hearn, A Hesterberg, M Hoffmann, ...","Japanese Conference on Discrete and Computational Geometry and Graphs, 60-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16144013273129204086,6,2015
+Fun with fonts: Algorithmic typography,"ED Demaine, ML Demaine","Theoretical Computer Science 586, 111-119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7575846315006551312,6,2015
+"Playing dominoes is hard, except by yourself","ED Demaine, F Ma, E Waingarten","International Conference on Fun with Algorithms, 137-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=230002015078845808,6,2014
+Designing curved-crease tessellations of lenses: qualitative properties of rulings,"ED Demaine, ML Demaine, DA Huffman, D Koschitz, T Tachi","6th International Meeting on Origami in Science, Mathematics and Education …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10892956279046877985,6,2014
+Variations on instant insanity,"ED Demaine, ML Demaine, S Eisenstat, TD Morgan, R Uehara","Space-Efficient Data Structures, Streams, and Algorithms, 33-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2850010649781628723,6,2013
+Algorithmic folding complexity,"J Cardinal, ED Demaine, ML Demaine, S Imahori, T Ito, M Kiyomi, ...","Graphs and combinatorics 27 (3), 341",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450795877086836967,6,2011
+Recreational computing,ED Demaine,"American Scientist 98 (6), 452-457",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14367368542668286352,6,2010
+Filling holes in triangular meshes using digital images by curve unfolding,"A Brunton, S Wuhrer, SHU CHANG, P Bose, E Demaine","International Journal of Shape Modeling 16 (01n02), 151-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8918649384100265147,6,2010
+Accelerating dynamic programming,O Weimann,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16865019159762517766,6,2009
+Efficient reconfiguration of lattice-based modular robots,"G Aloupis, N Benbernou, M Damian, ED Demaine, R Flatland, J Iacono, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6068584403443482733,6,2009
+Complexity of union-split-find problems,KJ Lai,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14201779300719908545,6,2008
+Curves in the Sand: Algorithmic Drawing.,"M Damian, ED Demaine, ML Demaine, V Dujmovic, D El-Khechen, ...",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13434877723175804764,6,2006
+Polylogarithmic approximation algorithm for non-uniform multicommodity buy-at-bulk,"MT Hajiaghayi, G Kortsarz, MR Salavatipour",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7455415980005317198,6,2005
+The complexity of the Dyson Telescopes puzzle,"ED Demaine, ML Demaine, R Fleischer, RA Hearn, T Von Oertzen","Games of No Chance 3, Proc. BIRS Workshop on Combinatorial Games, 271-285",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10441894733707430626,6,2005
+Dynamic Ham-Sandwich Cuts of Convex Polygons in the Plane.,"TG Abbott, ED Demaine, ML Demaine, DM Kane, S Langerman, J Nelson, ...","CCCG, 61-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15330319026782116234,6,2005
+Fold-and-cut magic,"ED Demaine, ML Demaine","Tribute to a Mathemagician, 65-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2267609597362152679,6,2004
+On universally easy classes for NP-complete problems,"ED Demaine, A López-Ortiz, JI Munro","Theoretical computer science 304 (1-3), 471-476",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14515155044196200027,6,2003
+Anchor-Free distributed localization in sensor networks,"NP Hari, H Balakrishnan, E Demaine, S Teller",Proceedings of the 1st International Conference on Embedded Networked Sensor …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18004267916802283000,6,2003
+Hinged Dissection of Polygons is Hard.,"RA Hearn, ED Demaine, GN Frederickson","CCCG, 98-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11581556133000946974,6,2003
+On flat-state connectivity of chains with fixed acute angles.,"G Aloupis, ED Demaine, H Meijer, J O'Rourke, I Streinu, GT Toussaint","CCCG, 27-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3135204862009478278,6,2002
+Optimal arrangement of leaves in the tree representing hierarchical clustering of gene expression data,"Z Bar-Joseph, T Biedl, B Brejová, ED Demaine, DK Gifford, AM Hamel, ...",Bioinformatics Research Group Homepage of University of Waterloo (http …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5862777488818927443,6,2001
+Reaching folded states of a rectangular piece of paper.,"ED Demaine, JSB Mitchell","CCCG, 73-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9184273724312225613,6,2001
+Open problems on polytope reconstruction,"ED Demaine, J Erickson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1991086407176545729,6,1999
+Inapproximability of the standard pebble game and hard to pebble graphs,"ED Demaine, QC Liu","Workshop on Algorithms and Data Structures, 313-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616207912120188800,5,2017
+Tree-Residue Vertex-Breaking: a new tool for proving hardness,"ED Demaine, M Rudoy",arXiv preprint arXiv:1706.07900,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10019026700945258284,5,2017
+Solving the Rubik's Cube Optimally is NP-complete,"ED Demaine, S Eisenstat, M Rudoy",arXiv preprint arXiv:1706.06708,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9716332954338685313,5,2017
+Simple folding is really hard,"HA Akitaya, ED Demaine, JS Ku","Journal of Information Processing 25, 580-589",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10079244985771195666,5,2017
+Rigid folding analysis of offset crease thick folding,"JS Ku, ED Demaine","Proceedings of IASS Annual Symposia 2016 (13), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9929118366139096183,5,2016
+Degenerative coordinates in 22.5◦ grid system,"T Tachi, ED Demaine","Origami 5, 503-512",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12750982394665280668,5,2016
+"Recognizing a DOG is hard, but not when it is thin and unit","W Evans, M van Garderen, M Löffler, V Polishchuk",8th International Conference on Fun with Algorithms (FUN 2016),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054356464618115695,5,2016
+New geometric algorithms for fully connected staged self-assembly,"ED Demaine, SP Fekete, C Scheffer, A Schmidt","International Workshop on DNA-Based Computers, 104-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2790631052676501539,5,2015
+Worst-case optimal tree layout in external memory,"ED Demaine, J Iacono, S Langerman","Algorithmica 72 (2), 369-378",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17405823677181681929,5,2015
+Matching regions in the plane using non-crossing segments,"G Aloupis, EM Arkin, D Bremner, ED Demaine, SP Fekete, B Kouhestani, ...","on Computational Geometry, 29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10048381833965746348,5,2015
+Flat foldings of plane graphs with prescribed angles and edge lengths,"Z Abel, ED Demaine, ML Demaine, D Eppstein, A Lubiw, R Uehara","International Symposium on Graph Drawing, 272-283",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7955347053858299224,5,2014
+Refold rigidity of convex polyhedra,"ED Demaine, ML Demaine, J Itoh, A Lubiw, C Nara, J OʼRourke","Computational Geometry 46 (8), 979-989",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1939486535284780837,5,2013
+Constructing points through folding and intersection,"S Butler, E Demaine, R Graham, T Tachi","International Journal of Computational Geometry & Applications 23 (01), 49-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1751525199472235359,5,2013
+Learning Disjunctions: Near-Optimal Trade-off between Mistakes and “I Don't Knows”,"ED Demaine, M Zadimoghaddam",Proceedings of the twenty-fourth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6359443295098411656,5,2013
+NP-completeness of generalized Kaboozle,"T Asano, ED Demaine, ML Demaine, R Uehara","Journal of Information Processing 20 (3), 713-718",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8761269295690546067,5,2012
+Edge-Unfolding Orthogonal Polyhedra is Strongly NP-Complete.,"Z Abel, ED Demaine",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382700862649103158,5,2011
+Constant price of anarchy in network creation games via public service advertising,"ED Demaine, M Zadimoghaddam","International Workshop on Algorithms and Models for the Web-Graph, 122-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8413222130947051746,5,2010
+Matching points with things,"G Aloupis, J Cardinal, S Collette, ED Demaine, ML Demaine, M Dulieu, ...","Latin American Symposium on Theoretical Informatics, 456-467",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13702321419746237950,5,2010
+Origami maze puzzle font,ED Demaine,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9387099849003160114,5,2010
+Origami transformers: folding orthogonal structures from universal hinge patterns,A Ovadya,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11823551401200756500,5,2010
+Generalized D-forms have no spurious creases,"ED Demaine, GN Price","Discrete & Computational Geometry 43 (1), 179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14487470856438863209,5,2010
+ITR: Scalable Location-Aware Monitoring (SLAM) Systems,"H Balakrishnan, E Demaine, M Stonebraker, S Teller","Laboratory for Computer Science & Department of EECS, MIT, Cambridge, MA …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11056563191250146572,5,2009
+computation,"ED Demaine, Y Okamoto, R Uehara, Y Uno",AK Peters Ltd,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465350954958805540,5,2009
+A polynomial-time approximation scheme for steiner tree in planar graphs,"G Borradaile, PN Klein, C Mathieu, J Lee, A Sidiropoulos, E Demaine, ...",ACM Transactions on Algorithms 5,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5053499490375160050,5,2009
+Computational Balloon Twisting: The Theory of Balloon Polyhedra.,"ED Demaine, ML Demaine, V Hart",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17324692820999571464,5,2008
+Approximability of partitioning graphs with supply and demand,"T Ito, ED Demaine, X Zhou, T Nishizeki","International Symposium on Algorithms and Computation, 121-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16417722061536456457,5,2006
+Approximation and online algorithms,"K Jansen, R Solis-Oba",Elsevier,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11401829025474892293,5,2006
+Optimal dynamic video-on-demand using adaptive broadcasting,"T Biedl, ED Demaine, A Golynski, JD Horton, A López-Ortiz, G Poirier, ...","European Symposium on Algorithms, 90-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16184048172783923741,5,2003
+Hinged dissection of the alphabet,"ED Demaine, ML Demaine","Journal of Recreational Mathematics 31 (3), 204-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1364686366897000197,5,2002
+Vertex-unfoldings of simplicial polyhedra,"ED Demaine, D Eppstein, J Erickson, GW Hart, J O'Rourke",arXiv preprint cs/0107023,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7626394024907394196,5,2001
+Rigid Foldability is NP-Hard,"H Akitaya, ED Demaine, T Horiyama, TC Hull, JS Ku, T Tachi",arXiv preprint arXiv:1812.01160,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4976144503168687748,4,2018
+The fewest clues problem,"ED Demaine, F Ma, A Schvartzman, E Waingarten, S Aaronson","Theoretical Computer Science 748, 28-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=316071823504192323,4,2018
+A simple proof that the (n2− 1)-puzzle is hard,"ED Demaine, M Rudoy","Theoretical Computer Science 732, 80-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1336521576309310454,4,2018
+Computational complexity of motion planning of a robot through simple gadgets,"ED Demaine, I Grosof, J Lynch, M Rudoy",arXiv preprint arXiv:1806.03539,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9287840717613422958,4,2018
+Push-pull block puzzles are hard,"ED Demaine, I Grosof, J Lynch","International Conference on Algorithms and Complexity, 177-195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2746152397816565485,4,2017
+Zero-Area Reciprocal Diagram of Origami,"ED Demaine, ML Demaine, DA Huffman, TC Hull, D Koschitz, T Tachi","Proceedings of IASS Annual Symposia 2016 (13), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14231326895569890246,4,2016
+Toward an energy efficient language and compiler for (partially) reversible algorithms,"N Tyagi, J Lynch, ED Demaine","International Conference on Reversible Computation, 121-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8580460446049764725,4,2016
+Algorithms for planar graphs and beyond,"E Demaine, S Mozes, C Sommer, S Tazari",MIT,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4256861416134127523,4,2015
+"A review on curved creases in art, design and mathematics","E Demaine, M Demaine, D Koschitz, T Tachi","Symmetry: Culture Sci 26 (2), 145-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=743824112518672438,4,2015
+"Bidimensional structures: Algorithms, combinatorics and logic (dagstuhl seminar 13121)","ED Demaine, F Fomin, M Hajiaghayi, DM Thilikos","Schloss Dagstuhl-Leibniz-Zentrum für Informatik, Dagstuhl Publishing …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16146718282611195036,4,2013
+Finding a hamiltonian path in a cube with specified turns is hard,"Z Abel, ED Demaine, ML Demaine, S Eisenstat, J Lynch, TB Schardl","Information and Media Technologies 8 (3), 685-694",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9343661587797265536,4,2013
+Universal hinge patterns for folding orthogonal shapes,"NM Benbernou, ED Demaine, ML Demaine, A Ovadya","Origami5 (CRC Press, Taylor & Francis Group, Boca Raton, FL), 405-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10598513879008346491,4,2011
+Algorithmic graph minors and bidimensionality,ED Demaine,Proceedings of the 36th international conference on Graph-theoretic concepts …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11240159094487421476,4,2010
+Grid vertex-unfolding orthostacks,"ED Demaine, J Iacono, S Langerman","International Journal of Computational Geometry & Applications 20 (03), 245-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9106865704284600044,4,2010
+Self-assembly of arbitrary shapes with RNA and DNA tiles,"ED Demaine, RT Schweller, SM Summers, MJ Patitz",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10292971968184223104,4,2010
+Conveyer-belt alphabet,"ED Demaine, ML Demaine",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12690778382086035230,4,2010
+The complexity of UNO,"ED Demaine, ML Demaine, NJA Harvey, R Uehara, T Uno, Y Uno",arXiv preprint arXiv:1003.2851,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12168477019759439935,4,2010
+Kinetic minimum spanning circle,"E Demain, S Einsenstat, L Guibas, A Schulz",Proceedings of the Fall Workshop on Computational Geometry,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4746413294073291593,4,2010
+Folding a better checkerboard,"ED Demaine, ML Demaine, G Konjevod, RJ Lang","International Symposium on Algorithms and Computation, 1074-1083",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12417689616663247700,4,2009
+Dynamic ham-sandwich cuts in the plane,"TG Abbott, MA Burr, TM Chan, ED Demaine, ML Demaine, J Hugg, ...","Computational geometry 42 (5), 419-428",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11963391898702446344,4,2009
+Additive approximation algorithms for list-coloring minor-closed class of graphs,"K Kawarabayashi, ED Demaine, MT Hajiaghayi",Proceedings of the twentieth annual ACM-SIAM symposium on Discrete …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17036727393102086149,4,2009
+Mathematics is art,"ED Demaine, ML Demaine","Proceedings of 12th Annual Conference of BRIDGES: Mathematics, Music, Art …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18056090270243233159,4,2009
+A lifetime of puzzles,"ED Demaine, ML Demaine, T Rodgers",AK Peters/CRC Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436752322680290026,4,2008
+Deflating the pentagon,"ED Demaine, ML Demaine, T Fevens, A Mesa, M Soss, DL Souvaine, ...","Kyoto International Conference on Computational Geometry and Graph Theory, 56-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2962757883259886286,4,2007
+Wrapping the Mozartkugel,"ED Demaine, ML Demaine, J Iacono, S Langerman","24th European Workshop on Computational Geometry (EuroCG 2007), Graz …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10330631917441215548,4,2007
+Polygons Flip Finitely: Flaws and a Fix.,"ED Demaine, B Gassend, J O'Rourke, GT Toussaint",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15807675761131857897,4,2006
+"Bidimensionality, map graphs, and grid minors","ED Demaine, MT Hajiaghayi",arXiv preprint cs/0502070,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743744925993130425,4,2005
+Fixed Parameter Algorithms for Minor-Closed Graphs (of Locally Bounded Treewidth),"ED Demaine, MT Hajiaghayi",SODA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9812499672499719520,4,2004
+Ununfoldable polyhedra with triangular faces,"M Bern, ED Demaine, D Eppstein, E Kuo, A Mantler, J Snoeyink","4th CGC Workshop on Computational Geometry (CGC’99), Baltimore, Maryland",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8750303704906864653,4,1999
+Folding flat silhouettes and wrapping polyhedral packages,"E Demaine, M Demaine, J Mitchell","Annual Symposium on Computational Geometry, Miami Beach, Florida",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6844474046827273248,4,1999
+Higher-order concurrency in PVM,ED Demaine,Cluster Computing Conf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7152914132841527588,4,1997
+Conic Crease Patterns with Reflecting Rule Lines,"ED Demaine, ML Demaine, DA Huffman, D Koschitz, T Tachi",arXiv preprint arXiv:1812.01167,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4461404417317193800,3,2018
+Folding polyominoes into (poly) cubes,"O Aichholzer, M Biro, ED Demaine, ML Demaine, D Eppstein, SP Fekete, ...","International Journal of Computational Geometry & Applications 28 (03), 197-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18339152171727743254,3,2018
+"Fine-Grained I/O Complexity via Reductions: New lower bounds, faster algorithms, and a time hierarchy","ED Demaine, A Lincoln, QC Liu, J Lynch, VV Williams",arXiv preprint arXiv:1711.07960,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=915561587740150972,3,2017
+"Clickomania is hard, even with two colors and columns","A Adler, ED Demaine, A Hesterberg, Q Liu, M Rudoy","The Mathematics of Various Entertaining Subjects: Research in Games, Graphs …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14171278417831226260,3,2017
+Scaling any surface down to any fraction,"ED Demaine, ML Demaine, FQ Kayhan","Origami 6: 6th Int. Meeting of Origami Science, Mathematics, and Education …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9408642845930568152,3,2015
+Rigid flattening of polyhedra with slits,"Z Abel, R Connelly, ED Demaine, ML Demaine, TC Hull, A Lubiw, T Tachi",Origami6: Proceedings of the 6th International Meeting on Origami in Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13165804597342847113,3,2015
+Mario kart is hard,"J Bosboom, ED Demaine, A Hesterberg, J Lynch, E Waingarten","Japanese Conference on Discrete and Computational Geometry and Graphs, 49-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=687420016413177887,3,2015
+Folding equilateral plane graphs,"Z Abel, ED Demaine, ML Demaine, S Eisenstat, J Lynch, TB Schardl, ...","International Journal of Computational Geometry & Applications 23 (02), 75-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6089858504800386536,3,2013
+Bounded-degree polyhedronization of point sets,"G Barequet, N Benbernou, D Charlton, ED Demaine, ML Demaine, ...","Computational Geometry 46 (2), 148-153",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15568005480127421946,3,2013
+Constant price of anarchy in network-creation games via public-service advertising,"ED Demaine, M Zadimoghaddam","Internet Mathematics 8 (1-2), 29-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4647206899191615470,3,2012
+Flattening fixed-angle chains is strongly NP-hard,"ED Demaine, S Eisenstat","Workshop on Algorithms and Data Structures, 314-325",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14598698736575979957,3,2011
+A generalization of the source unfolding of convex polyhedra,"ED Demaine, A Lubiw","Spanish Meeting on Computational Geometry, 185-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3537062710218500610,3,2011
+Meshes preserving minimum feature size,"G Aloupis, ED Demaine, ML Demaine, V Dujmović, J Iacono","Spanish Meeting on Computational Geometry, 258-273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15395358534180741433,3,2011
+Edge-guarding Orthogonal Polyhedra.,"G Viglietta, N Benbernou, ED Demaine, ML Demaine, A Kurdia, ...",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=701753264484037085,3,2011
+Making polygons by simple folds and one straight cut,"ED Demaine, ML Demaine, A Hawksley, H Ito, PR Loh, S Manber, ...","International Conference on Computational Geometry, Graphs and Applications …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10122110231270342975,3,2010
+"Kaboozle is NP-complete, even in a Strip","T Asano, ED Demaine, ML Demaine, R Uehara","International Conference on Fun with Algorithms, 28-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5950348018989765893,3,2010
+09511 Open Problems--Parameterized complexity and approximation algorithms,"ED Demaine, MT Hajiaghayi, D Marx",Dagstuhl Seminar Proceedings,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17338742260659816135,3,2010
+Any monotone Boolean function can be realized by interlocked polygons,"ED Demaine, ML Demaine, R Uehara",University of Manitoba,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5323106920332463309,3,2010
+Coin-flipping magic,"N Benbernou, ED Demaine, ML Demaine, B Rossman",Gathering for Gardner 8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2175428395626473783,3,2008
+Realizing partitions respecting full and partial order information,"ED Demaine, J Erickson, D Krizanc, H Meijer, P Morin, M Overmars, ...","Journal of Discrete Algorithms 6 (1), 51-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16260518818630781785,3,2008
+A Locked Orthogonal Tree,"D Charlton, ED Demaine, ML Demaine, G Price, YL Tu",arXiv preprint arXiv:0801.4405,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7808807378618887204,3,2008
+Retrolife,Y Elran,"Homage to a Pied Puzzler, 129-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7945918413303462826,3,2008
+Revising quorum systems for energy conservation in sensor networks,"D Tulone, ED Demaine","International Conference on Wireless Algorithms, Systems and Applications …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17897862468571361067,3,2007
+"07281 Abstracts Collection--Structure Theory and FPT Algorithmics for Graphs, Digraphs and Hypergraphs","E Demaine, GZ Gutin, D Marx, U Stege",Dagstuhl Seminar Proceedings,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11190679214754964493,3,2007
+Approximating buy-at-bulk k-steiner trees,"MT Hajiaghayi, G Kortsarz, MR Salavatipour",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13533304554677413592,3,2005
+Building blocks and excluded sums,"ED Demaine, ML Demaine, A Edelman, CE Leiserson, PO Persson","SIAM News 38 (1), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6184883717600743602,3,2005
+Sliding-coin puzzles,"ED Demaine, ML Demaine","Tribute to a Mathemagician, 63-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2997063233251004761,3,2004
+Towards identifying frequent items in sliding windows,"D DeHaan, ED Demaine, L Golab, A Lopez-Ortiz, JI Munro","Technical Report, March 2003. db. uwaterloo. ca/~ lgolab/frequent. pdf",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9775787543429611506,3,2003
+Playing with triangulations,"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...","Japanese Conference on Discrete and Computational Geometry, 22-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10772612096006388200,3,2002
+Tighter bounds on the genus of nonorthogonal polyhedra built from rectangles.,"TC Biedl, TM Chan, ED Demaine, ML Demaine, P Nijjar, R Uehara, ...","CCCG, 105-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17512812019392026098,3,2002
+Short interlocked linkages.,"ED Demaine, S Langerman, J O'Rourke","CCCG, 69-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14284210493997290265,3,2001
+Reconfiguring convex polygons,"O Aichholzer, ED Demaine, J Erickson, F Hurtado, MH Overmars, M Soss, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15499135366725395352,3,2000
+Hinged dissection of polyominoes and polyforms,"ED Demaine, ML Demaine, D Eppstein, GN Frederickson, E Friedman",arXiv preprint cs/9907018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13513210219312950581,3,1999
+First class communication in MPI,E Demaine,"Proceedings. Second MPI Developer's Conference, 189-194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18355045536464861465,3,1996
+Juggling and card shuffling meet mathematical fonts,"ED Demaine, ML Demaine",Connections in Discrete Mathematics: A Celebration of the Work of Ron Graham …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7567190384330796987,2,2018
+Structural Rounding: Approximation Algorithms for Graphs Near an Algorithmically Tractable Class,"ED Demaine, TD Goodrich, K Kloster, B Lavallee, QC Liu, BD Sullivan, ...",arXiv preprint arXiv:1806.02771,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3843541541592362340,2,2018
+Universal hinge patterns for folding strips efficiently into any grid polyhedron,"NM Benbernou, ED Demaine, ML Demaine, A Lubiw","Workshop on Algorithms and Data Structures, 109-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17252652206924349475,2,2017
+"Hamiltonicity is hard in thin or polygonal grid graphs, but easy in thin polygonal grid graphs","ED Demaine, M Rudoy",arXiv preprint arXiv:1706.10046,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9365532680940450282,2,2017
+"Total Tetris: Tetris with Monominoes, Dominoes, Trominoes, Pentominoes,...","ED Demaine, ML Demaine, S Eisenstat, A Hesterberg, A Lincoln, J Lynch, ...","Journal of Information Processing 25, 515-527",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7749417520985418690,2,2017
+"Unfolding and dissection of multiple cubes, tetrahedra, and doubly covered squares","Z Abel, B Ballinger, ED Demaine, ML Demaine, J Erickson, A Hesterberg, ...","Journal of Information Processing 25, 610-615",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11786736060272232491,2,2017
+Self-Folding Machines,"SM Felton, RJ Wood, MT Tolley, ED Demaine, D Rus","US Patent App. 14/819,855",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=544635799398904784,2,2016
+Unfolding and dissection of multiple cubes,"Z Abel, B Ballinger, ED Demaine, ML Demaine, J Erickson, A Hesterberg, ...","19th Japan Conference on Discrete and Computational Geometry, Graphs, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7143420637916027257,2,2016
+A Rupestrian algorithm,"GA Di Luna, P Flocchini, G Prencipe, N Santoro, G Viglietta",8th International Conference on Fun with Algorithms (FUN 2016),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17549084356297648041,2,2016
+Filling a hole in a crease pattern: Isometric mapping from prescribed boundary folding,"ED Demaine, JS Ku","Origami6: I. Mathematics, 177-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3644651448061524282,2,2015
+Polylogarithmic fully retroactive priority queues via hierarchical checkpointing,"ED Demaine, T Kaler, Q Liu, A Sidford, A Yedidia","Workshop on Algorithms and Data Structures, 263-275",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4343237149293288177,2,2015
+Cache-oblivious iterated predecessor queries via range coalescing,"ED Demaine, V Gopal, W Hasenplaugh","Workshop on Algorithms and Data Structures, 249-262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760240209132389842,2,2015
+Narrow Misere Dots-and-Boxes,"S Collette, ED Demaine, ML Demaine, S Langerman","Games of No Chance 4 63, 57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1994078481467557194,2,2015
+A system for generating paper sliceform artwork,"Y Lu, ED Demaine","Symmetry: Culture and Science 26 (2), 203-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6022703987449337099,2,2015
+A Dissimilarity Measure for Comparing Origami Crease Patterns.,"SM Oh, GT Toussaint, ED Demaine, ML Demaine","ICPRAM (1), 386-393",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11658274491942295980,2,2015
+k-Piece dissection is NP-hard,"J Bosboom, ED Demaine, ML Demaine, J Lynch, P Manurangsi, M Rudoy, ...",18th Japan Conf. on Discrete and Computational Geometry and Graphs 2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11945015461926506557,2,2015
+Bumpy pyramid folding,"ZR Abel, ED Demaine, ML Demaine, H Ito, J Snoeyink, R Uehara",The 26th Canadian Conference on Computational Geometry (CCCG 2014),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=235198536271252164,2,2014
+On Wrapping Spheres and Cubes with Rectangular Paper,"A Cole, ED Demaine, E Fox-Epstein","Japanese Conference on Discrete and Computational Geometry and Graphs, 31-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7960737068712992926,2,2013
+Zipper unfolding of domes and prismoids,"ED Demaine, ML Demaine, R Uehara",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14165879237495306010,2,2013
+Balloon polyhedra,"ED Demaine, ML Demaine, V Hart","Shaping Space: A Polyhedral Approach, 33-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13389783734764073283,2,2013
+A Topologically Convex Vertex-Ununfoldable Polyhedron.,"Z Abel, ED Demaine, ML Demaine",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17608860325475445841,2,2011
+Deictic properties of origami technical terms and translatability: cross-linguistic differences between English and Japanese,K Tateishi,"Origami 5, 13-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9297137636730217466,2,2011
+Conveyer belt puzzle font,"ED Demaine, ML Demaine, B Palop",Proceedings of the 9th Gathering for Gardner,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7614592895985422335,2,2010
+09511 Abstracts Collection--Parameterized complexity and approximation algorithms,"ED Demaine, MT Hajiaghayi, D Marx",Dagstuhl Seminar Proceedings,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2519984301827324505,2,2010
+of Book: Games of no chance 3,"E Demaine, M Demaine, R Fleischer, R Hearn, T Oertzen",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14967154581793031481,2,2009
+How paper folds between creases,"ED Demaine, ML Demaine, V Hart, GN Price, T Tachi",Manuscript,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16538673128010288351,2,2009
+Cauchy's arm lemma on a growing sphere,"Z Abel, D Charlton, S Collette, ED Demaine, ML Demaine, S Langerman, ...",arXiv preprint arXiv:0804.0986,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13824758337397322441,2,2008
+On the Complexity of Reconﬁguration Problems,"T Ito, ED Demaine, NJA Harvey, CH Papadimitriou, RU MarthaSideri, ...","Algorithms and Computation: 19th International Symposium, ISAAC 2008, Gold …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2927730324759214288,2,2008
+Design and Control of Nanostructured OrigamiTM,"P Stellman, W Arora, S Takahashi, ED Demaine, G Barbastathis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2687220605615112570,2,2005
+Go¨ delian Puzzles,R Smullyan,"Tribute to a Mathemagician, 91-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9279210839489019496,2,2004
+Tight bounds for the partial-sums problem,"ED Demaine, M Patraşcu",Proceedings of the 15th Annual ACM-SIAM Symposium on Discrete Algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7882327316871047067,2,2004
+Finding a divisible pair,"S Ciurea, ED Demaine, CE Patrascu, M Patrascu","ACM SIGSAM Bulletin 38 (3), 98-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5339127083148019899,2,2004
+Quickly deciding minor-closed parameters in general graphs,"ED Demaine, MT Hajiaghayi",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1948509215624826655,2,2004
+Fun-sort,"T Biedl, T Chan, ED Demaine, R Fleischer, M Golin, JI Munro",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14993664911473060152,2,2001
+Evaluating the Performance of Parallel Programs in a Pseudo-Parallel MPI Environment,E Demaine,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16109791875514354382,2,1996
+Effcient Simulation of Message-Passing in Distributed-Memory Architectures,E Demaine,University of Waterloo,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6108684467476062064,12046900195134142705",2,1996
+Class 4 scribe notes,"E Demaine, J Ku, YW Yu",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17674938099085004944,2,0
+2 Fusion Trees,E Demaine,"Lecture Notes on Advanced Data Structures, Lecture 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13288066255103535188,2,0
+Open problems from dagstuhl seminar 07281,"E Demaine, G Gutin, D Marx, U Stege",See: http://erikdemaine. org/papers/DagstuhlFPT2007Open/paper. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17001333572893367630,2,0
+Spiral Galaxies font,"W Anderson, ED Demaine, ML Demaine",The Mathematics of Various Entertaining Subjects: Volume 3: The Magic of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5934110977569931292,1,2019
+"Reconfiguration of satisfying assignments and subset sums: Easy to find, hard to connect","J Cardinal, ED Demaine, D Eppstein, RA Hearn, A Winslow",Theoretical Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12338267015946603394,1,2019
+Time Windowed Data Structures for Graphs.,"F Chanchary, A Maheshwari","J. Graph Algorithms Appl. 23 (2), 191-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8322188348067928230,1,2019
+An End-to-End Approach to Self-Folding Origami Structures,"B An, S Miyashita, A Ong, MT Tolley, ML Demaine, ED Demaine, ...","IEEE Transactions on Robotics 34 (6), 1409-1424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17069132104820480112,1,2018
+A General Theory of Motion Planning Complexity: Characterizing Which Gadgets Make Games Hard,"ED Demaine, DH Hendrickson, J Lynch",arXiv preprint arXiv:1812.03592,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13504194563973907047,1,2018
+Bumpy pyramid folding,"ZR Abel, ED Demaine, ML Demaine, H Ito, J Snoeyink, R Uehara","Computational Geometry 75, 22-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1274105050839528005,1,2018
+Conflict-Free Coloring of Graphs,"Z Abel, V Alvarez, ED Demaine, SP Fekete, A Gour, A Hesterberg, ...","SIAM Journal on Discrete Mathematics 32 (4), 2675-2702",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12188580298617165451,1,2018
+Nearly Optimal Separation Between Partially And Fully Retroactive Data Structures,"L Chen, ED Demaine, Y Gu, VV Williams, Y Xu, Y Yu",arXiv preprint arXiv:1804.06932,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4869688279214136233,1,2018
+Pachinko,"HA Akitaya, ED Demaine, ML Demaine, A Hesterberg, F Hurtado, JS Ku, ...","Computational Geometry 68, 226-242","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16428746241131662171,12487525186230899261",1,2018
+A New Model for Evaluating Range-Based Anomaly Detection Algorithms.,"N Tatbul, TJ Lee, S Zdonik, J Gottschlich",CoRR,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16927762703143402,1,2018
+Upward partitioned book embeddings,"HA Akitaya, ED Demaine, A Hesterberg, QC Liu","International Symposium on Graph Drawing and Network Visualization, 210-223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6403923637052628588,1,2017
+Folding and punching paper,"Y Asao, ED Demaine, ML Demaine, H Hosaka, A Kawamura, T Tachi, ...","Journal of Information Processing 25, 590-600",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1458001391333804075,1,2017
+Beautification of Islamic patterns via constraint satisfaction,"Y Lu, ED Demaine","The Proceedings of Bridges 2016: Mathematics, Music, Art, Architecture …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530487652405494352,1,2016
+"Dissection with the fewest pieces is hard, even to approximate","J Bosboom, ED Demaine, ML Demaine, J Lynch, P Manurangsi, M Rudoy, ...","Japanese Conference on Discrete and Computational Geometry and Graphs, 37-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9939324461296539916,1,2015
+Computational complexity of numberless Shakashaka,"A Adler, M Biro, E Demaine, M Rudoy, C Schmidt","Conference on Computational Geometry, 281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17187653788114262536,1,2015
+Folding Flat Crease Patterns With Thick Materials,"ED Demaine, JS Ku","IDETC 2015 (48039), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10660016102141101201,1,2015
+Cannibal animal games: a new variant of tic-tac-toe,"J Cardinal, S Collette, H Ito, M Korman, S Langerman, H Sakaidani, ...","Journal of Information Processing 23 (3), 265-271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8288215303591265978,1,2015
+Simple folding is strongly np-complete,"HA Akitaya, ED Demaine, JS Ku",Fall Workshop on Computational Geometry,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12081715182459946769,1,2014
+PCB origami: folding circuit boards into electronic products,Y Sterman,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11652109839417193840,1,2013
+Zipper unfoldability of domes and prismoids,"ED Demaine, ML Demaine, R Uehara",CCCG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15904804452657693242,1,2013
+Six Recipes for Making Polyhedra,"M Walter, J Pedersen, M Wenninger, D Schattschneider, AL Loeb, ...","Shaping Space, 13-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5240644987492705827,1,2013
+Ghost chimneys,"D Charlton, ED Demaine, ML Demaine, V Dujmović, P Morin, R Uehara","International Journal of Computational Geometry & Applications 22 (03), 207-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=937268019969319237,1,2012
+Any monotone function is realized by interlocked polygons,"ED Demaine, ML Demaine, R Uehara","Algorithms 5 (1), 148-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2062619736554409101,1,2012
+Virtual cane creation for glassblowers,"A Winslow, K Baldauf, J McCann, ED Demaine, ML Demaine, P Houk",Talk at SIGGRAPH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1896899335864152155,1,2012
+Computing signed permutations of polygons,"G Aloupis, P Bose, ED Demaine, S Langerman, H Meijer, M Overmars, ...","International Journal of Computational Geometry & Applications 21 (01), 87-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14774574365164050081,1,2011
+6.851 advanced data structures,"E Demaine, A Schulz","Angew. Chem. Int. Edit. Engl 6, 53-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5811605900953449021,1,2010
+Reconfiguration of 3D Crystalline robots using O (log n) parallel moves,"G Aloupis, S Collette, ED Demaine, S Langerman, V Sacristán, S Wuhrer",arXiv preprint arXiv:0908.2440,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7064987876819617922,1,2009
+"幾何的な折りアルゴリズム: リンケージ, 折り紙, 多面体",エリック， ジョセフ， オルーク， 上原隆平,近代科学社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8289190098454668065,1,2009
+Self-assembly-Staged Self-assembly: Nanomanufacture of Arbitrary Shapes with O (1) Glues,"ED Demaine, ML Demaine, SP Fekete, M Ishaque, E Rafalin, ...","Lecture Notes in Computer Science 4848, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8639695723483921286,1,2008
+"Bidimensionality: 2004; Demaine, Fomin, Hajiaghayi, Thilikos","ED Demaine, MT Hajiaghayi","Encyclopedia of Algorithms, 88-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=289291861461162124,1,2008
+Exact Elimination of Cycles in Graphs,"D Raible, H Fernau",Dagstuhl Seminar Proceedings,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13758676128606692329,1,2007
+ A Collaboration in Mathematical Folding Sculpture,"ED Demaine, ML Demaine, AL Palmer","Leonardo 39 (3), 233-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7553411401583246756,1,2006
+Folding and Unfolding in Computational Geometry,"ED Demaine, ML Demaine",draft available by permission at http://www. fucg. org,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11235294444116192474,1,2006
+Medusa: Scalable Distributed Stream Processing,"M Balazinska, H Balakrishnan, E Demaine, H Iwashima, A Miu, J Salz, ...",MIT Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10281001048574539837,1,2003
+Quartering a square optimally,"P Bose, ED Demaine, JJ Iacono, S Langerman","Proceedings of the Japan Conference on Discrete and Computational Geometry, 5-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15390514163035824625,1,2002
+Algorithmic combinatorial game theory,"ED Demaine, ML Demaine, RA Hearn, S Hohenberger, D Liben-Nowell",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17457107219729397562,1,2001
+Balanced ,"TC Biedl, E Cenek, TM Chan, ED Demaine, ML Demaine, R Fleischer, ...","International Symposium on Mathematical Foundations of Computer Science, 202-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3034808504310576496,1,2000
+Computational geometry column 37,"ED Demaine, J O'Rourke",arXiv preprint cs/9908007,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7862853145298819238,1,1999
+Planar drawings of origami polyhedra,"ED Demaine, ML Demaine","International Symposium on Graph Drawing, 438-440",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11455877196319806228,1,1998
+Adaptive protocols for negotiating nondeterministic choice over synchronous channels,ED Demaine,"Technical Report CS-97-35, Dept. of Computer Science, University of Waterloo",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2597192924297290184,1,1997
+E cient algorithms for Petersen's matching theorem,"TC Biedly, P Bosez, ED Demainey, A Lubiwy",Proceedings of the tenth annual ACM-SIAM symposium on Discrete algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9971396429862240278,1,0
+Folding polyominoes with holes into a cube,"O Aichholzer, HA Akitaya, KC Cheung, ED Demaine, ML Demaine, ...",arXiv preprint arXiv:1910.09917,,0,2019
+Existence and hardness of conveyor belts,"M Baird, SC Billey, ED Demaine, ML Demaine, D Eppstein, S Fekete, ...",arXiv preprint arXiv:1908.07668,,0,2019
+Losing at Checkers is Hard,"J Bosboom, S Congero, ED Demaine, ML Demaine, J Lynch",The Mathematics of Various Entertaining Subjects: Volume 3: The Magic of …,,0,2019
+Belga B-trees,"ED Demaine, J Iacono, G Koumoutsos, S Langerman","International Computer Science Symposium in Russia, 93-105",,0,2019
+Waiting is not easy but worth it: the online TSP on the line revisited,"PC Chen, ED Demaine, CS Liao, HT Wei",arXiv preprint arXiv:1907.00317,,0,2019
+Simulation of Programmable Matter Systems Using Active Tile-Based Self-Assembly,"JC Alumbaugh, JJ Daymude, ED Demaine, MJ Patitz, AW Richa",arXiv preprint arXiv:1906.01773,,0,2019
+Reconfiguring Undirected Paths,"ED Demaine, D Eppstein, A Hesterberg, K Jain, A Lubiw, R Uehara, ...",arXiv preprint arXiv:1905.00518,,0,2019
+Infinite All-Layers Simple Foldability,"HA Akitaya, C Avery, J Bergeron, ED Demaine, J Kopinsky, J Ku",arXiv preprint arXiv:1901.08564,,0,2019
+Impossible Folding Font,"ED Demaine, ML Demaine, T Taniguchi, R Uehara","Bridges 2019 Conference Proceedings, 51-58",,0,2019
+Inflatable origami-inspired structures,"D Melancon, C Hoberman, B Gorissen, C Garcia Mora, Y Yang, J Ku, ...",APS Meeting Abstracts,,0,2019
+Self-folding machines,"SM Felton, RJ Wood, MT TOLLEY, ED Demaine, D Rus","US Patent App. 10/151,304",,0,2018
+Tangled Tangles,"ED Demaine, ML Demaine, A Hesterberg, Q Liu, R Taylor, R Uehara","The Best Writing on Mathematics 2018 11, 83",,0,2018
+Data Structures for Halfplane Proximity Queries and Incremental Voronoi Diagrams,"B Aronov, P Bose, ED Demaine, J Gudmundsson, J Iacono, S Langerman, ...","Algorithmica 80 (11), 3316-3334",,0,2018
+Cookie Clicker,"ED Demaine, H Ito, S Langerman, J Lynch, M Rudoy, K Xiao",arXiv preprint arXiv:1808.07540,,0,2018
+Red-Blue Pebble Game: Complexity of Computing the Trade-Off between Cache Size and Memory Transfers,"ED Demaine, QC Liu",Proceedings of the 30th on Symposium on Parallelism in Algorithms and …,,0,2018
+Editorial fun,"ED Demaine, F Grandoni",Theoretical Computer Science,,0,2018
+On the mechanism of a circular cylindrical shell under axial compression,"RJ Lang, Z Abel, J Cantarella, ED Demaine, D Eppstein, TC Hull, JS Ku, ...","Twists, Tilings, and Tessellations: Mathematical Methods for Geometric …",,0,2018
+Toward Unfolding Doubly Covered ,"HA Akitaya, B Ballinger, M Damian, ED Demaine, ML Demaine, ...",Abstracts of the Japan Conference on Discrete and Computational Geometry and …,,0,2018
+Negative Instance for the Edge Patrolling Beacon Problem,"Z Abel, HA Akitaya, ED Demaine, ML Demaine, A Hesterberg, M Korman, ...",,,0,2018
+Who witnesses The Witness? Finding witnesses in The Witness is hard and sometimes impossible,"Z Abel, J Bosboom, M Coulombe, ED Demaine, L Hamilton, A Hesterberg, ...",arXiv preprint arXiv:1804.10193,,0,2018
+Computational Complexity of Generalized Push Fight,"J Bosboom, ED Demaine, M Rudoy",arXiv preprint arXiv:1803.03708,,0,2018
+Polyhedral Characterization of Reversible Hinged Dissections,"J Akiyama, ED Demaine, S Langerman","Graphs and Combinatorics, 1-9",,0,2018
+Path Puzzles: Discrete Tomography with a Path Constraint is Hard,"J Bosboom, ED Demaine, ML Demaine, A Hesterberg, R Kimball, ...",arXiv preprint arXiv:1803.01176,,0,2018
+Kit-of-Parts Conceptualism: Abstracting Architecture in the American Academy,"J Choma, J Albers, J Albers, R Arnheim, R Arnheim, J Barnett, ...","Études for Architects 5 (2), 011-035",,0,2018
+Arboral satisfaction: Recognition and LP approximation,"ED Demaine, V Ganesan, V Kontsevoi, Q Liu, Q Liu, F Ma, O Nachum, ...","Information Processing Letters 127, 1-5",,0,2017
+"Universal Hinge Patterns for Programmable Matter Nadia M. Benbernou, Erik D. Demaine","ML Demaine, A Lubiw","Active Matter, 103",,0,2017
+COMPUTATIONAL COMPLEXITY OF ARRANGING MUSIC,"ED Demaine, WS Moses","The Mathematics of Various Entertaining Subjects: Research in Games, Graphs …",,0,2017
+Snipperclips: Cutting Tools into Desired Polygons using Themselves.,"ED Demaine, M Korman, A van Renssen, M Roeloffzen","CCCG, 56-61",,0,2017
+"Common Development of Prisms, Anti-Prisms, Tetrahedra, and Wedges.","AS Biswas, ED Demaine","CCCG, 202-207",,0,2017
+Computing 3SAT on a Fold-and-Cut Machine.,"B An, ED Demaine, ML Demaine, JS Ku","CCCG, 208-213",,0,2017
+Minimal forcing sets for 1D origami,"M Damian, E Demaine, M Dulieu, R Flatland, H Hoffman, TC Hull, J Lynch, ...",arXiv preprint arXiv:1703.06373,,0,2017
+Conflict-Free Coloring of Planar Graphs,"Z Abel, V Alvarez, A Gour, A Hesterberg, ED Demaine, SP Fekete, ...",arXiv preprint arXiv:1701.05999,,0,2017
+Folded Structures Satisfying Multiple Conditions,"ED Demaine, JS Ku","Journal of Information Processing 25, 601-609",,0,2017
+Even ,"J Bosboom, ED Demaine, ML Demaine, A Hesterberg, P Manurangsi, ...",arXiv preprint arXiv:1701.00146,,0,2016
+Efficient Algorithmic Frameworks via Structural Graph Theory,"ED Demaine, MT Hajiaghayi",Massachusetts Institute of Technology Cambridge United States,,0,2016
+Computational Complexity of Arranging Music,"WS Moses, ED Demaine",arXiv preprint arXiv:1607.04220,,0,2016
+8th International Conference on Fun with Algorithms,"ED Demaine, F Grandoni",,,0,2016
+The fewest clues problem,"M Fermi, A Schvartzman, E Waingarten, ED Demaine, S Aaronson",Schloss Dagstuhl--Leibniz-Zentrum fuer Informatik,,0,2016
+"Playing with Art and Science: Origami, Glass, and Mathematics",ED Demaine,University of Washington,,0,2016
+A PTAS for Planar Group Steiner Tree via Bootstrapping Approximation,"D Marx, E Demaine, MH Bateni, MT Hajiaghayi",,,0,2016
+"LIPIcs, Volume 49, FUN'16, Complete Volume","ED Demaine, F Grandoni",8th International Conference on Fun with Algorithms (FUN 2016),,0,2016
+The Complexity of Hex and the Jordan Curve Theorem,"A Adler, C Daskalakis, ED Demaine","43rd International Colloquium on Automata, Languages, and Programming (ICALP …",,0,2016
+Network Creation Games,"ED Demaine, MT Hajiaghayi, H Mahini, M Zadimoghaddam","Encyclopedia of Algorithms, 1408-1412",,0,2016
+Weaving a Uniformly Thick Sheet from Rectangles,"E Davis, ED Demaine, ML Demaine, J Ramseyer","Origami ${}^ 6$ 95, 265",,0,2015
+"Symmetric Assembly Puzzles are Hard, Beyond a Few Pieces","ED Demaine, M Korman, JS Ku, JSB Mitchell, Y Otachi, A van Renssen, ...","Japanese Conference on Discrete and Computational Geometry and Graphs, 180-192",,0,2015
+Bust-a-move/puzzle bobble is NP-complete,"ED Demaine, S Langerman","Japanese Conference on Discrete and Computational Geometry and Graphs, 94-104",,0,2015
+Zig-Zag Numberlink is NP-Complete,"A Aaron, ED Demaine, ML Demaine, MP O'Brien, R Felix, ...",情報処理学会論文誌 56 (5),,0,2015
+A Pattern Tracing System for Generating Paper Sliceform Artwork,"Y Lu, ED Demaine","Proceedings of Bridges 2015: Mathematics, Music, Art, Architecture, Culture …",,0,2015
+You Should Be Scared of German Ghost,"ED Demaine, F Ma, M Susskind, E Waingarten","Journal of Information Processing 23 (3), 293-298",,0,2015
+Computational Complexity of Piano-Hinged Dissections,"Z Abel, ED Demaine, ML Demaine, T Horiyama, R Uehara","IEICE transactions on fundamentals of electronics, communications and …",,0,2014
+Fast Dynamic Pointer Following via Link-Cut Trees,"E Demaine, N Pinsker, J Schneider",arXiv preprint arXiv:1405.3739,,0,2014
+Covering folded shapes,"O Aichholzer, G Aloupis, ED Demaine, ML Demaine, SP Fekete, ...",arXiv preprint arXiv:1405.2378,,0,2014
+Reprint of: Refold rigidity of convex polyhedra,"ED Demaine, ML Demaine, J Itoh, A Lubiw, C Nara, J OʼRourke","Computational Geometry 47 (3), 507-517",,0,2014
+"Frontmatter, Table of Contents, Preface, Conference Organization","EW Mayr, N Portier",31st International Symposium on Theoretical Aspects of Computer Science …,,0,2014
+Approximation Schemes for Planar Graph Problems,"M Hajiaghayi, E Demaine","Encyclopedia of Algorithms, 1-5",,0,2014
+"BASIC NETWORK CREATION GAMES (vol 27, pg 656, 2013)","N Alon, ED Demaine, M Hajiaghayi, P Kanellopoulos, T Leighton","SIAM JOURNAL ON DISCRETE MATHEMATICS 28 (3), 1638-1640",,0,2014
+グラフの独立点集合遷移問題に対するアルゴリズム,伊藤健洋， 小野廣隆， 上原隆平,"電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (371), 7-14",,0,2013
+Bumpy Pyramid Folding Problem,"ZR Abel, ED Demaine, ML Demaine, H Ito, J Snoeyink, R Uehara","研究報告アルゴリズム (AL) 2013 (19), 1-7",,0,2013
+Bumpy Pyramid Folding Problem (システム数理と応用),"ZR ABEL, ED DEMAINE, ML DEMAINE, H ITO, J SNOEYINK, R UEHARA",電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (279 …,,0,2013
+Bumpy Pyramid Folding Problem (回路とシステム),"ZR ABEL, ED DEMAINE, ML DEMAINE, H ITO, J SNOEYINK, R UEHARA",電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (278 …,,0,2013
+Unfolding Orthogrids with Constant Refinement,"M Damian, E Demaine, R Flatland",arXiv preprint arXiv:1310.4561,,0,2013
+A Few Lessons I’ve Learned,ED Demaine,Bulletin of EATCS 3 (111),,0,2013
+Blame trees,"ED Demaine, P Panchekha, DA Wilson, EZ Yang","Workshop on Algorithms and Data Structures, 280-290",,0,2013
+"Dagstuhl Reports, Vol. 3, Issue 3 ISSN 2192-5283","O Cheong, K Mehlhorn, M Teillaud, S Albers, OJ Boxma, K Pruhs, ...",,,0,2013
+Computational Complexity of Piano-Hinged Dissections (コンピュテーション),"Z ABEL, ED DEMAINE, ML DEMAINE, T HORIYAMA, R UEHARA","電子情報通信学会技術研究報告= IEICE technical report: 信学技報 113 (50), 33-38",,0,2013
+Erik Demaine,"E Demaine, N Zeh",,,0,2013
+Creativity+ Computer Science,E Demaine,Crossroads 19,,0,2013
+Origami Robots and Star Trek Replicators,ED Demaine,"International Symposium on Algorithms and Computation, 3-3",,0,2012
+Framework for Efficient Algorithms in Planar Networks and Beyond,"ED Demaine, MT Hajiaghayi",MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,2012
+"July 31, 2012","E Demaine, E Liu, T Morgan",,,0,2012
+NP-completeness of generalized Kaboozle (特集 パズルの数理: 計算理論),"A Tetsuo, ED Demaine, ML Demaine, U Ryuhei","情報処理学会論文誌 53 (6), 6p",,0,2012
+Extreme Folding,E Demaine,APS Meeting Abstracts,,0,2012
+Q & A The origami geometer,E Demaine,"Nature 483 (7389), 274-274",,0,2012
+Constructing strings at the nano scale via staged self-assembly,ED Demaine,Proceedings of the 18th international conference on String processing and …,,0,2011
+"Programmable Matter Creating Systems that Can Think, Talk, and Morph Autonomously. Phase 2","D Rus, E Demaine, R Fearing, A Javey, R Wood, V Kumar, M Yim",MASSACHUSETTS INST OF TECH CAMBRIDGE OFFICE OF SPONSORED RESEARCH,,0,2011
+Common developments of several different orthogonal boxes (コンピュテーション),"Z Abel, E Demaine, M Demaine","電子情報通信学会技術研究報告 111 (195), 75-81",,0,2011
+部分集合和遷移問題の多項式時間近似スキーム,伊藤健洋,"電子情報通信学会技術研究報告. COMP, コンピュテーション 111 (195), 7-14",,0,2011
+複数の直方体を折れる共通の展開図に関する研究,松井寛彰， 上原隆平,"電子情報通信学会技術研究報告. COMP, コンピュテーション 111 (195), 75-81",,0,2011
+"UNO is hard, even for a single player (計算機科学とアルゴリズムの数理的基礎とその応用--RIMS 研究集会報告集)",上原隆平， 宇野毅明， 宇野裕之,"数理解析研究所講究録, 48-55",,0,2011
+Approximating node-weighted Steiner network of terminals,"MT Hajiaghayi, ED Demaine, PN Klein","US Patent 7,933,224",,0,2011
+Geometric Partitioning.,W Steiger,CCCG,,0,2011
+"Games, Puzzles, and Computation",J O'Rourke,"SIAM Review 52 (4), 782-785",,0,2010
+Computing Science: Recreational Computing,ED Demaine,"American Scientist 98 (6), 452-456",,0,2010
+Barbados 2010: Geometric Puzzles Open Problems,ED Demaine,,,0,2010
+10091 Abstracts Collection--Data Structures,"L Arge, ED Demaine, R Seidel",Dagstuhl Seminar Proceedings,,0,2010
+"6.851 Advanced Data Structures, Spring 2010","E Demaine, A Schulz",,,0,2010
+Common unfoldings of polyominoes and polycubes,"N Benbernou, G Aloupis, P Bose, S Collette, ED Demaine, ML Demaine, ...",Proceedings of the China-Japan Joint Conference on Computational Geometry …,,0,2010
+Reconstructing David Huffman’s Legacy in Curved-Crease Origami,"ED Demaine, ML Demaine, D Koschitz",,,0,2010
+On the Complexity of Origami Design,ED Demaine,,,0,2010
+Matching points with things,"P Taslakian, C Seara Ojea, M Saumell Mendiola, S Langerman, ...","9th Latin American Theoretical Informatics Symposium, 456-467",,0,2010
+Geometric Folding Algorithms: Bridging Theory to Practice,ED Demaine,MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …,,0,2009
+Special Issue on the 23rd European Workshop on Computational Geometry (EuroCC'07),"O Aichholzer, F Aurenhammer","COMPUTATIONAL GEOMETRY-THEORY AND APPLICATIONS 42 (8), 723-723",,0,2009
+A Lifetime of Puzzles,J Hertel,"The Mathematics Teacher 103 (2), 157-157",,0,2009
+"Algorithms Meet Art, Puzzles, and Magic",ED Demaine,"Workshop on Algorithms and Data Structures, 193-193",,0,2009
+A-025 Finding Reconfigurations between List Edge-Colorings of a Graph,"T Ito, M Kaminski, ED Demaine","情報科学技術フォーラム講演論文集 8 (1), 307-308",,0,2009
+Minimum feature size preserving decompositions,"G Aloupis, ED Demaine, ML Demaine, V Dujmovic, J Iacono",arXiv preprint arXiv:0908.2493,,0,2009
+Locked Thick Chains,"J Vervier, S Langerman, ED Demaine, ML Demaine",Proceeding of the 25th European Workshop on Computational Geometry,,0,2009
+Reconfiguration of List Edge-Colorings in a Graph.” Algorithms and Data Structures. Ed. Frank Dehne et al. LNCS Vol. 5664,"T Ito, M Kamiski, ED Demaine","Berlin, Heidelberg: Springer Berlin Heidelberg",,0,2009
+"Algorithms Meet Art, Puzzles, and Magic (Invited Talk)",ED Demaine,"LECTURE NOTES IN COMPUTER SCIENCE 1 (5664), 193-193",,0,2009
+Games of No Chance 3: The complexity of Dyson Telescopes,"ED Demaine, ML Demaine, R Fleischer, RA Hearn, T Oertzen",,,0,2009
+Games of No Chance 3: Playing games with algorithms: Algorithmic combinatorial game theory,"ED Demaine, RA Hearn",,,0,2009
+Reconstructing points on a circle from labeled distances,"D Bremner, ED Demaine, P Taslakian, G Toussaint","25th European Workshop on Computational Geometry, 155",,0,2009
+Locked Thick Chains,"ED Demaine, ML Demaine, S Langerman, J Vervier","25th European Workshop on Computational Geometry, 65",,0,2009
+Part I Cast a Spell,"ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 8-13",,0,2008
+A Clarity of Perception,"ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 18-18",,0,2008
+Part II In Hindsight,"ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 60-60",,0,2008
+Patterns and Principles,"ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 15-17",,0,2008
+"Proof of Main Theorems, and Somewhat More","ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 55-59",,0,2008
+"Mathematics, Magic and Mystery","ED Demaine, ML Demaine, T Rodgers","A Lifetime of Puzzles, 14-14",,0,2008
+Algorithmic graph minors and bidimensionality,ED Demaine,Proceedings of the 3rd international conference on Parameterized and exact …,,0,2008
+Tribute to a Mathemagician,J McMillen,"Math Horizons 15 (3), 30-30",,0,2008
+Approximation Schemes for Planar Graph Problems: 1983; Baker 1994; Baker,"ED Demaine, MT Hajiaghayi","Encyclopedia of Algorithms, 59-62",,0,2008
+Special issue on the Canadian Conference on Computational Geometry (CCCG 2004),"P Bose, T Fevens","COMPUTATIONAL GEOMETRY-THEORY AND APPLICATIONS 39 (1), 1-1",,0,2008
+08081 Abstracts Collection--Data Structures,"L Arge, R Sedgewick, R Seidel",Dagstuhl Seminar Proceedings,,0,2008
+Generalized D-Forms Have No Spurious Creases,"GN Price, ED Demaine",arXiv preprint arXiv:0711.2605,,0,2007
+通过算法来玩游戏: 算法组合博弈论,ED Demaine,,,0,2007
+Staged Self-Assembly,"ED Demaine, ML Demaine, SP Fekete, M Ishaque, E Rafalin, ...",,,0,2007
+Minimizing Tree Metrics with Avuncular Heaps,"R Bryant, K Wang, ED Demaine",,,0,2007
+Computational Geometry through the Information Lens,E Demaine,"Collection of Abstracts, 81",,0,2007
+Session 4A-A Pseudopolynomial Time O (log n)-Approximation Algorithm for Art Gallery Problems,"A Deshpande, T Kim, ED Demaine, SE Sarma","Lecture Notes in Computer Science 4619, 163-174",,0,2007
+Reviews-TRIBUTE TO A MATHEMAGICIAN,"B Cipra, ED Demaine, ML Demaine, T Rodgers, C Pickover","Mathematical Intelligencer 29 (3), 71",,0,2007
+Geometric Folding Algorithms (9780521857574).,ED Demaine,Cambridge University Press,,0,2007
+Latin American Theoretical Informatics,M Cryan,Elsevier,,0,2007
+". by B. Cipra, E. D. Demaine, M. L. Demaine, T. Rodgers (editors). Pp. 262. $38. 2005. ISBN 1 56881 204 3 (A. K. Peters).",R Knott,"The Mathematical Gazette 90 (519), 545-547",,0,2006
+"Moving-Baseline, GPS-Denied Navigation: DARPA Whitepaper","S Teller, E Demaine",,,0,2006
+Optimally adaptive integration of univariate lipschitz functions,"I Baran, ED Demaine, DA Katz","Latin American Symposium on Theoretical Informatics, 142-153",,0,2006
+Master index volumes 341–350,"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...","Theoretical Computer Science 350, 375-384",,0,2006
+The Helium Stoekpile: A Collaboration 1I1 Mathematical Folding Sculpture,ED Demaine,,,0,2006
+The Helium Stock!/bz'le: A Collaboration in Mathematical Folding Sculpture,"ED Demaine, ML Demaine",,,0,2006
+Mobile Computing Interface,"J Popovic, E Demaine, M Demaine",,,0,2005
+IMECE2005-81824 Kinematics and Dynamics of Nanostructured Origami™,"P Stellman, W Arora, S Takahashi, ED Demaine, G Barbastathis","ASME-PUBLICATIONS-DE 118 (1), 541",,0,2005
+Cache-Oblivious and Cache-Aware Algorithms,"A Lars, MA Bender, E Demaine, C Leiserson, K Mehlhorn",Cache-Oblivious and Cache-Aware Algorithms (Dagstuhl Seminar 04301),,0,2005
+The issue number is given in front of the page numbers.,"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...","Theoretical Computer Science 343, 529-530",,0,2005
+Book review:'Tribute to a mathemagician (B. Cipra et al)',A Bultheel,"BMS-NCM News 52, 14-15",,0,2005
+A Simple Algorithm for I/O-efficiently Pruning Dense Spanners,"J Gudmundsson, J Vahrenhold",Dagstuhl Seminar Proceedings,,0,2005
+04301 Abstracts Collection--Cache-Oblivious and Cache-Aware Algorithms,"L Arge, MA Bender, E Demaine, C Leiserson, K Mehlhorn",Dagstuhl Seminar Proceedings,,0,2005
+"Puzzles, Art, and Magic with Algorithms","ED Demaine, ML Demaine","Lecture Notes in Computer Science 3341, 1-1",,0,2004
+A History of the Ten-Square,"B Cipra, ED Demaine, ML Demaine, T Rodgers","Tribute to a Mathemagician, 127-134",,0,2004
+Worst-Case Optimal Tree Layout in External Memory,"ED Demaine, J Iacono, S Langerman",arXiv preprint cs/0410048,,0,2004
+"Discrete Mathematics Volume 285, Numbers 1–3, 6 August 2004","VE Alekseev, DV Korobitsyn, VV Lozin, T Biedl, ED Demaine, CA Duncan, ...",Discrete Mathematics 285 (1-3),,0,2004
+Special Issue on Computational Complexity 2002,"AA Razborov, F Green, U Feige, D Micciancio, R O’Donnell, JM Hitchcock, ...",Elsevier,,0,2004
+Communication-aware processor allocation for supercomputers.,"E Demaine, H Meijer, VJ Leung, S Fekete, MA Bender, DP Bunde, ...",Sandia National Laboratories,,0,2004
+Graph Algorithms-The Bidimensional Theory of Bounded-Genus Graphs,"ED Demaine, MT Hajiaghayi, DM Thilikos","Lecture Notes in Computer Science 3153, 191-203",,0,2004
+"Anthony, M., E. Boros, PL Hammer and A. Kogan, Introduction to special volume of Discrete Applied Mathematics (1–2) 1–1 Anthony, M., On data classification by iterative linear …","T Biedl, T Chan, ED Demaine, R Fleischer, M Golin, JA King, JI Munro","Discrete Applied Mathematics 144, 381-382",,0,2004
+Session details: Special Issue With Selected Articles from the Fourth Workshop on Algorithms and Engineering,"E Demaine, R Ladner",Journal of Experimental Algorithmics (JEA) 8,,0,2003
+Finding hidden independent sets in interval graphs,"T Biedl, B Brejová, ED Demaine, AM Hamel, A López-Ortiz, T Vinař","International Computing and Combinatorics Conference, 182-191",,0,2003
+Geometric games on triangulations,"O Aichholzer, D Bremner, E Demaine, F Hurtado, E Kranakis, H Krasser, ...",Proc. 19th European Workshop on Computational Geometry CG'03,,0,2003
+Part 3-Combinatorial Games/Theory-Solitaire Clobber,"ED Demaine, ML Demaine, R Fleischer","Lecture Notes in Computer Science 2883, 188-200",,0,2003
+"Althaus, Ernst, 194","A Bar-Noy, G Calinescu, A Caprara, ED Demaine, D Duchier, ...","Journal of Algorithms 48, 453",,0,2003
+"Agarwal, PK and L. Arge, Editorial 49 Akiyama, J., T. Asano and M. Kano, Editorial 1 Akiyama, J., G. Nakamura, A. Nozaki, K. Ozawa and T. Sakai, The optimality of a certain …","M Bern, ED Demaine, D Eppstein, E Kuo, A Mantler, J Snoeyink","Computational Geometry 24, 225-226",,0,2003
+"Agarwal, PK, CM Procopiuc and KR Varadarajan, A (1+ ε)-approximation algorithm for 2-line-center (2) 119–128 Ahn, H.-K., O. Cheong and R. van Oostrum, Casting a polyhedron with …","ML Demaine, ED seeDemaine, M Hoffmann, CD Tóth, ...","Computational Geometry 26, 259-260",,0,2003
+"Chen, J., Optimizing stable in-place merging (1–3) 191–210 Choffrut, C., see A. Bertoni (1–3) 431–456 Chrobak, M., Errata to:‘‘Finite Automata and Unary Languages’’[Theoret …","AEF Clementi, A Monti, R Silvestri, ED Demaine, T Biedl, ML Demaine, ...","Theoretical Computer Science 302, 499-500",,0,2003
+On the Complexity of Halfspace Volume Queries.,"ED Demaine, J Erickson, S Langerman","CCCG, 159-160",,0,2003
+Open Problems from ALENEX 2003.,ED Demaine,ALENEX,,0,2003
+"IRVINE, CA 92697-3425 UNITED STATES","ED DEMAINE, D EPPSTEIN","More Games of No Chance 11 (4), 360",,0,2002
+Solitaire Clobber,"ED Demaine, ML Demaine, R Fleischer","International Conference on Computers and Games, 188-200",,0,2002
+Exponential Speedup of Fixed-Parameter Algorithms on i^ a^-Minor-Free or iiTs-Minor-Free Graphs,"ED Demaine, MT Hajiaghayi, DM Thilii","Algorithms and Computation: 13th International Symposium, ISAAC 2002 …",,0,2002
+Automated empirical optimization of software and the ATLAS project.,"PS Korde, PB Khanale, MA Bader, Z Duan, J Iacono, J Wu, ...","Research Journal of Information Technology 3 (1), pp: 29-38",,0,2002
+"Exponential speedup of fixed parameter algorithms on K_ {3, 3}-minor-free or K_ {5}-minor-free graphs","MT Hajiaghayi, ED Demaine, D Thilikos Touloupas",,,0,2002
+"Johann, P., A group testing problem for graphs with several defective edges (1–3) 99–108 Kobler, D., see S. Gravier (1–3) 65–79 Kubiak, W., see S. Gravier (1–3) 65–79 Kumar, PS …","T Biedl, E Demaine, M Demaine, S Lazard, A Lubiw, J O’Rourke, ...","Discrete Applied Mathematics 117, 299-300",,0,2002
+Cache-Oblivious Priority Queue and,"L Argeg, MA Bender, ED Demaine, B Holland-Minkley, JI Munro",,,0,2002
+NSW Public,C Kerr,"NSW Public Health Bulletin 12 (6), 149",,0,2001
+"Rudolf Fleischery Mordecai Goliny J. Ian Munro February 20, 2001","T Biedl, T Chan, ED Demaine",,,0,2001
+"Rudolf Fleischery Mordecai Goliny J. Ian Munro February 15, 2001","T Biedl, T Chan, ED Demaine",,,0,2001
+Session 11A-When Can You Fold a Map?,"EM Arkin, MA Bender, ED Demaine, ML Demaine, JSB Mitchell, S Sethia, ...","Lecture Notes in Computer Science 2125, 401-413",,0,2001
+"6.046 J/18.410 J Introduction to Algorithms, Fall 2001","ED Demaine, CE Leiserson, WS Lee",,,0,2001
+"Barequet, Gill, 91 Biedl, Therese C., 110 Bose, Prosenjit, 110","D Bryant, B Chandra, E Cohen, LJ Cowen, ED Demaine, CA Duncan, ...","Journal of Algorithms 38, 467",,0,2001
+Master index of Volumes 11–20,"O Aichholzer, ED Demaine, J Erickson, F Hurtado, M Overmars, M Soss, ...","Computational Geometry 20, 147-154",,0,2001
+The cccg 2001 logo,"ED Demaine, ML Demaine, A Lubiw",,,0,2001
+Balanced k-Colorings,"ML Demaine, R Fleischer, MW Wang",Mathematical Foundations of Computer Science 2000: 25th International …,,0,2000
+lŁĄ § © nŁng Polygons,"ED Demaine, V Dujmovid, J Eri6kson, H Meijer, S Ramaswami",,,0,2000
+l£¥ § © n£ ng Polygons,"ED Demaine, V Dujmovid, J Eri6kson, H Meijer, S Ramaswami",,,0,2000
+Contributed Papers-Balanced k-Colorings,"TC Biedl, E Cenek, TM Chan, ED Demaine, ML Demaine, R Fleischer, ...","Lecture Notes in Computer Science 1893, 202-211",,0,2000
+Session O1: Open Problems and Planning.,"ED Demaine, J O'Rourke",CCCG,,0,2000
+High Performance Computing Symposium 1996,E Demaine,,,0,1996
+Subject access in online catalogs: Design model,"ED Demaine, I Foster, C Kesselman, M Snir",1202 JOURNAL OF THE AMERICAN SOCIETY FOR INFORMATION SCIENCE—November 2000 …,,0,1986
+PSPACE-completeness of Pulling Blocks to Reach a Goal,"J Ani, S Asif, ED Demaine, Y Diomidov, D Hendrickson, J Lynch, ...",,,0,0
+"Edge Matching with Inequalities, Triangles, Unknown Shape, and Two Players","J Bosboom, C Chen, L Chung, S Compton, M Coulombe, ED Demaine, ...",,,0,0
+Tetris is NP-hard even with O (1) columns,"S Asif, ED Demaine, J Lynch, M Singhal",,,0,0
+Minimal Ununfoldable Polyhedron,"HA Akitaya, ED Demaine, D Eppstein, T Tachi, R Uehara",,,0,0
+Cache-Adaptive Analysis (Full Version),"MA Bender, ED Demaine, R Ebrahimi, JT Fineman, R Johnson, A Lincoln, ...",,,0,0
+"Buss, Jonathan F., 31 Byrka, Jaroslaw, 465 Cai, Leizhen, 163 Cai, Liming, 11","Y Cai, EM Arkin, S Arnborg, S Arora, P Austrin, V Bafna, BS Baker, ...",,,0,0
+Rectangular Unfoldings of Polycubes,"ML Demaine, R Hearn, J Ku, R Uehara",,,0,0
+Open Problems from Dagstuhl Seminar 09511,"ED Demaine, MT Hajiaghayi, D Marx",,,0,0
+Minimum Forcing Sets for 1D Origami✩,"M Damiana, E Demaineb, M Dulieuc, R Flatlandd, H Hoffmanne, TC Hullf, ...",,,0,0
+List of papers,"K Wu, D Lee, A Sim, J Choi, J Wang, E Papenhausen, B Wang, S Ha, ...",,,0,0
+Reconstructing David Huffman’s Origami Tessellations,"ED Demaine, ML Demaine, J Ramseyer",,,0,0
+26th International Symposium on Theoretical Aspects of Computer Science,"S Albers, JY Marion, E Baykan, M Henzinger, SF Keller, S de Castelberg, ...",,,0,0
+Folding Martin Gardner,"ED Demaine, ML Demaine",,,0,0
+"A Path/Surface Following Control Approach to Generate Virtual Fixtures.... B. Bischof, T. Glück, M. Böck, and A. Kugi 1577 Modeling and Implementation of the McKibben Actuator …","B An, S Miyashita, A Ong, MT Tolley, ML Demaine, ED Demaine, ...",,,0,0
+Bounded-‐Degree Polyhedronization of Point Sets,"D Charlton, E Demaine, M Demaine, M Ishaque, A Lubiw, A Schulz, ...",,,0,0
+Paperclip graphs,"S Butler, ED Demaine, ML Demaine, R Graham, A Hesterberg, J Ku, ...",,,0,0
+Efficient Origami Construction of Orthogonal Terrains using Cross Section Evolution,"AS Biswas, ED Demaine, JS Ku",,,0,0
+Folding Triangular and Hexagonal Mazes,"ED Demaine, JS Ku, M Yoder",,,0,0
+How Efficiently Can Nets of Polycubes Pack a Rectangle?,"ED Demaine, ML Demaine, R Uehara, Y Uno, A Winslow",,,0,0
+"2,664 Coin-Sliding Font Puzzles","ED Demaine, ML Demaine",,,0,0
+Folding Polygons into Polytopes,E DEMAINE,http://erikdemaine. org/aleksandrov/,,0,0
+HL Bodlaender and AMCA Koster 255,"L Cai, X Huang, C Liu, F Rosamond, Y Song, ED Demaine, M Hajiaghayi, ...",Computer journal 51 (3),,0,0
+1 Recap,E Demaine,,,0,0
+Quiz 2 Solutions,"PED Demaine, CEL Handout",,,0,0
+2 Integer Data Structures,E Demaine,,,0,0
+"Lecture L16—April 19, 2012",E Demaine,,,0,0
+2 Independent Rectangle Bounds,E Demaine,,,0,0
+Lecture 6 Scribe Notes,E Demaine,,,0,0
+Problem Set 8 Solutions,"PED Demaine, CEL Handout",,,0,0
+2 Binary Search Trees,E Demaine,,,0,0
+An End-to-End Approach to Self-Folding Origami Structures by Uniform Heat,"B An, S Miyashita, A Ong, DM Aukes, MT Tolley, ED Demaine, ...",,,0,0
+Problem Set 2,"PED Demaine, CEL Handout","exchange 672, 6IADC",,0,0
+Problem Set 10,"PE Demaine, LW Sun, CEL Handout",,,0,0
+Research Abstracts-2007,"K Agrawal, YXH NUS, WJH NTU, CE Leiserson, J Sukha, N Alon, ...",,,0,0
+Constant Price of Anarchy in Network Creation Games via Public Service Advertising,"S Assadi, ED Demaine, M Zadimoghaddam",,,0,0
+Secret Messages in Juggling and Card Shuffling,"ED Demaine, ML Demaine",,,0,0
+LOGARITHMIC LOWER BOUNDS IN THE CELL-PROBE MODEL,"MPA CUy, ED DEMAINE",arXiv preprint cs/0502041,,0,0
+The History of I/O Models,E Demaine,,,0,0
+OrigaMIT 2011 Convention Folding Puzzle,"E Demaine, M Demaine, M Fung",,,0,0
+hypar hypar,"E Demaine, M Demaine",,,0,0
+Linkage Folding: From Erdos to Proteins,ED Demaine,,,0,0
+MO ES hard,"E Demaine, M Demaine",,,0,0
+"MEND, May 2010 Folding Puzzle","E Demaine, M Demaine, JA Fleischhauer",,,0,0
+Banff CGT Workshop 2011 Folding Puzzle,"E Demaine, M Demaine, T Plambeck",,,0,0
+Efficient Foldings of Convex Polyhedra from Convex Paper,"ED Demaine, JS Ku",,,0,0
+Balanced k-Colorings,"TCBEC Timothy, M Chanc, ED Demaineb, MLDR Fleischera, MW Wangc",,,0,0
+Lecture 12 Scribe Notes,E Demaine,,,0,0
+New Geometric Algorithms for Staged Self-Assembly,"ED Demaine, SP Fekete, A Schmidt",,,0,0
+Electrical Engineering and Computer Science (6)-Research and Teaching Output of the MIT Community,"P Ho, S Dey, D Šćepanović, A Patel",,,0,0
+Locked and Unlocked Polygonal Chains in 3D,"TBE Demainez, M Demainez, S Lazardy, ISG Toussainty, S Whitesidesy",,,0,0
+"UNO is hard, even for a single player6, 66","ED Demaine, ML Demaine, NJA Harveyb, R Ueharac, T Unod, Y Unoe",,,0,0
+and Duks Koschitz,"ED Demaine, ML Demaine",,,0,0
+"Lecture 13–Thursday, March 18, 2010",E Demaine,,,0,0
+2 Cell Probe Complexity Model,E Demaine,,,0,0
+"Lecture—Feb 21, 2007",E Demaine,,,0,0
+2 Least Ancestor Queries (LAQ),E Demaine,,,0,0
+1 Administrivia,E Demaine,,,0,0
+Memory Hierarchies and Models of Them,E Demaine,,,0,0
+2.1 Compact suffix arrays and trees,E Demaine,,,0,0
+2 Model and definitions,E Demaine,,,0,0
+2 Dynamic Connectivity,E Demaine,,,0,0
+1 From Last Lecture...,E Demaine,,,0,0
+2 Survey of predecessor lower bound results,E Demaine,,,0,0
+2 Lazy Funnelsort,E Demaine,,,0,0
+2 Planar Point Location,E Demaine,,,0,0
+Lecture 17—April 24,E Demaine,,,0,0
+1 Overview-Geometry II,E Demaine,,,0,0
+"Fink, Jonathan 101 Flatland, Robin 433 Fogel, Efi 417 Frazzoli, Emilio 53","D Gifford, T Bailey, H Balakrishnan, B Bayazit, S Bhattacharya, A Brooks, ...","ABC, 679",,0,0
+Erratum to “Approximability of the Subset Sum Reconfiguration Problem⋆”,"T Ito, ED Demaine",,,0,0
+Invited Lectures,"B Chazelle, R Tamassia, E Tardos, PK Agarwal, L Arge, J Yang, K Yi, ...",Algorithms–ESA 2003,,0,0
+Universality Results for Pop-Ups,"Z Abel, ED Demaine, ML Demaine, S Eisenstat, A Lubiw, A Schulz, ...",,,0,0
+cOMMON uNFOLDINGS oF pOLYOMINOES aND pOLYCUBES,"G Aloupis123, N Benbernou, PK Bose, S Collette, ED Demaine45, ...",,,0,0
+Open Problems from CCCG 2011,"ED Demaine, J O’Rourke",,,0,0
+Folding and One Straight Cut Su ce,"ED Demainey, ML Demainey, A Lubiwy",,,0,0
+tersect except at common endpoints: 1 § 2&3'4 6 57 1 § 2& $8¥ 1 § 9&'5@ & $ where 1 § 9&) A9 is the line segment between the,"ED Demaine, J O’Rourke",,,0,0
+A Polynomial-Time Algorithm for 2× n Map Folding,"ED Demaine, E Liu, T Morgan",,,0,0
+2 Hash Function,E Demaine,,,0,0
+Crease Pattern: One-Cut Double Happiness,"E Demaine, M Demaine, L Ma, P Wang-Iverson",,,0,0
+SMA Computer Science Seminar EpiChord: Parallelizing the Chord Lookup Algorithm with Reactive Routing State Management,"B Leong, B Liskov, ED Demaine",,,0,0
+Expansive Motions for d-Dimensional Open Chains,"ED Demaine, S Eisenstat",,,0,0
+Infinitesimally Locked Linkages with Applications to Locked Trees,"R Connelly, ED Demaine, G Rote",,,0,0
+"Finding Frequent Items in Sliding Windows with Multinomially-Distributed Item Frequencies (University of Waterloo Technical Report CS-2004-06, January 2004)","L Golab, D DeHaan, A López-Ortiz, ED Demaine",,,0,0
+2 Euler Tour Trees,E Demaine,,,0,0
+Research Abstracts-2007,"E Demaine, O Weimann",,,0,0
+Cache-Oblivious Data Structures,ED Demaine,,,0,0
+Embeddings into Low-Dimensional Spaces,"M Badoi, J Chuzhoy, E Demaine, MT Hajiaghayi, P Indyk, J Samuel, ...",,,0,0
+FINDING A DIVISIBLE PAIR AND A GOOD WOODEN FENCE,"S Ciurea, ED Demaine, CE Patrascu, M Patrascu",,,0,0
+2 Persistence,E Demaine,,,0,0
+Finding Reconfigurations between List Edge-Colorings of a Graph,"T Ito, M Kaminski, ED Demaine",,,0,0
+Anchor-Free Distributed Localization for Cricket Beacons,"NB Priyantha, H Balakrishnan, ED Demaine, S Teller",,,0,0
+A NOVEL ROUTING ALGORITHM FOR K-ATLY iV-CUBE INTERCONNECTION NETWORKS,"ED DEMAINE, S SRINIVAS",,,0,0
+Optimal Leaf Ordering for Clustering Gene Expression and Image Compression,"Z Bar-Joseph, D Cohen-Or, ED Demaine, DK Gifford, A Hamel, ...",,,0,0
+Department of Informatics,"L Treewidth, ED Demaine, FV Fomin, MT Hajiaghayi, DM Thilikos",,,0,0
+Geometric Games on Triangulations Extended Abstract,"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...","Approximation algorithms for geometric shortest path problems...... 11, 89",,0,0
+"Lecture 5—Feb 18th, 2010","E Demaine, A Schulz",,,0,0
+Games on Triangulations [Dagstuhl version],"O Aichholzer, D Bremner, ED Demaine, F Hurtado, E Kranakis, H Krasser, ...",,,0,0
+Recognizing Simply Foldable Origami,"EM Arkin, MA Bender, ED Demaine, ML Demaine, JSB Mitchell, S Sethia, ...",,,0,0
+PersiFS,"DRK Ports, AT Clements, ED Demaine",,,0,0
+Research Abstracts-2006,"O Weimann, E Demaine",,,0,0
+Exponential Speedup of Fixed Parameter Algorithms on GHPH-minor-free or GW-minor-free Graphs,"ED Demaine, MT Hajiaghayi, DM Thilikos",,,0,0
+Therese Biedl,"T Chan, ED Demaine, R Fleischer, M Golin, J MUNRO",,,0,0
+LIST OF FIGURES TABLES &CHARTS,"E Demaine, NE Accuracy",,,0,0
+Folding any silhouette from a strip,"ED Demaine, ML Demaine, JSB Mitchell",Manuscript in preparation,,0,0
+Adaptive Set Intersections,"ED Demaine, A Lopez-Ortiz, JI Mtmro",,,0,0
+Flipturning Polygons,"ED Demaine, V Dujmovirc, J Erickson, H Meijer, S Ramaswami",,,0,0
+Lower Bounds for Dynamic Data Structures,"M Patrascu, ED Demaine",,,0,0
+Efficient Algorithms for Petersen's Matching Theorem,"TCBP Bose, ED Demaine, A Lubiw",,,0,0
+Guessing Trees in Quasipolynomial Time: Algorithms for Map Folding,"ED Demaine, E Liu, T Morgan",,,0,0
+"Department of Computer Science University of Waterloo Waterloo, Ontario N2L 3G1, Canada Email: feddemaine, mldemaine, alubiwg@ uwaterloo. ca","EDDML Demaine, A Lubiw",,,0,0
+"Tight Bounds on Maximal and Maximum Matchings Therese Biedl1, Erik D. Demaine1, Christian A. Duncan2, Rudolf Fleischer3, and Stephen G. Kobourov4 f Department of Computer …","T Biedl, ED Demaine, CA Duncan, R Fleischer, SG Kobourov",,,0,0
+What is the Optimal Shape of a Town?,"ED Demaine, SP Fekete, G Rote, N Schweer, D Schymura, M Zelke",,,0,0
+"Department of Computer Science University of Waterloo Waterloo, Ontario N2L 3G1, Canada eddemaine@ uwaterloo. ca",ED Demaine,,,0,0
+Fixed-Parameter and Approximation Algorithms for Graphs Excluding a Minor,"ED Demaine, MT Hajiaghayi",,,0,0
+Folding Shopping Bags,"ED Demaine, ML Demaine, JA Ochsendorf, Z You",,,0,0
+Department of Informatics,"ED Demaine, FV Fomin",,,0,0
+12th International Symposium on Graph Drawing,"E Demaine, P Seymour",,,0,0
+2 Predecessor lower bound results,E Demaine,,,0,0
+MIT» NTT Proposal Statement of Work Monitoring Network Routing Traffic with Low Space,ED Demaine,,,0,0
+"Dept. of Computer Science University of Waterloo Waterloo, Ontario, Canada N2L 3G1 eddemaine@ uwaterloo. ca",ED Demaine,,,0,0
+Lecture 22—April 29,E Demaine,,,0,0
+Data Structures,"ED Demaine, M Patrascu",,,0,0
+EpiChord: Large Routing State plus Parallel Queries equals Improved DHT Lookup Performance and Resilience,"B Leong, B Liskov, ED Demaine",,,0,0
+"Folding and Cutting Paper Erik D. Demaine, Martin L. Demaine, and Anna Lubiw Department of Computer Science, University of Waterloo, Waterloo, Ontario N2L 3G1, Canada …",ED Demaine,,,0,0
+DIMACS and The Center for Computational Intractability Joint Workshop on Approximation Algorithms: The Last Decade and the Next,"S Arora, A Saberi, V Vazirani, S Khot, D Steurer, S Khann, N Bansal, ...",,,0,0

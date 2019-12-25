@@ -1,0 +1,492 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Nonlinear programming,DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3628960008739470533,14948,1999
+Dynamic programming and optimal control,DP Bertsekas,Athena Scientific,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7745829403625287320,2015548599594939355",11405,1995
+Data networks,"DP Bertsekas, RG Gallager",Prentice-hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2337080912660418291,10859,1987
+Parallel and distributed computation,"DP Bertsekas, JN Tsitsiklis",Prentice Hall Inc.,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11356307615117600356,6042877405266264659",7665,1989
+Neuro-dynamic programming,"DP Bertsekas, JN Tsitsiklis","Decision and Control, 1995., Proceedings of the 34th IEEE Conference on","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1845086885510205694,14217961705371635673",6191,1996
+Constrained optimization and Lagrange multiplier methods,DP Bertsekas,Academic press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13607204264498315473,4741,2014
+Dynamic programming and stochastic control,DP Bertsekas,"Systems, Man and Cybernetics, IEEE Transactions on","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15183336011701151202,14691896158960261424,7145882688591962877",3819,1976
+Introduction to linear optimization,"D Bertsimas, JN Tsitsiklis","Athena Scientific 6, 479-530",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1723148537368479010,3131,1997
+Convex analysis and optimization (conservative),"D Bertsekas, A Nedic",Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17698316598960876640,2335,2003
+On the Douglas—Rachford splitting method and the proximal point algorithm for maximal monotone operators,"J Eckstein, DP Bertsekas","Mathematical Programming 55 (1-3), 293-318",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2127176985912075701,2274,1992
+Stochastic optimal control: the discrete-time case,"DP Bertsekas, S Shreve",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11660489421250499495,9881936497113131852",2076,2004
+Distributed asynchronous deterministic and stochastic gradient optimization algorithms,"J Tsitsiklis, D Bertsekas, M Athans","IEEE transactions on automatic control 31 (9), 803-812",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10691295403956696702,1666,1986
+Network optimization: continuous and discrete models,DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6106151589155410955,1045,1998
+Introduction to probability,"DP Bertsekas, JN Tsitsiklis",Athena Scientific,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7083586534258535704,9467177060635795095",896,2002
+Recursive state estimation for a set-membership description of uncertainty,"D Bertsekas, I Rhodes","IEEE Transactions on Automatic Control 16 (2), 117-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12940920865950399359,757,1971
+Projected Newton methods for optimization problems with simple constraints,DP Bertsekas,"SIAM Journal on control and Optimization 20 (2), 221-246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3106254157002921697,709,1982
+On the Goldstein-Levitin-Polyak gradient projection method,DP Bertsekas,"IEEE Transactions on automatic control 21 (2), 174-184",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8575325133215016780,638,1976
+Convex optimization theory,DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=487014779716242362,605,2009
+Incremental subgradient methods for nondifferentiable optimization,"A Nedic, DP Bertsekas","SIAM Journal on Optimization 12 (1), 109-138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5093859481899989737,593,2001
+The auction algorithm: A distributed relaxation method for the assignment problem,DP Bertsekas,"Annals of operations research 14 (1), 105-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14655873855211814347,557,1988
+Linear network optimization: algorithms and codes,DP Bertsekas,Mit Press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8092391891078420347,9821491809098562883",542,1991
+Distributed algorithms for generating loop-free routes in networks with frequently changing topology,"E Gafni, D Bertsekas","IEEE transactions on communications 29 (1), 11-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5874818688965521399,479,1981
+An analysis of stochastic shortest path problems,"DP Bertsekas, JN Tsitsiklis","Mathematics of Operations Research 16 (3), 580-595",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13344929547780338423,477,1991
+On the minimax reachability of target sets and target tubes,"DP Bertsekas, IB Rhodes","Automatica 7 (2), 233-247",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7977046988969272500,429,1971
+Auction algorithms for network flow problems: A tutorial introduction,DP Bertsekas,"Computational optimization and applications 1 (1), 7-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6914528419672824574,428,1992
+Projection methods for variational inequalities with application to the traffic assignment problem,"DP Bertsekas, EM Gafni","Nondifferential and variational techniques in optimization, 139-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16746250141088820602,407,1982
+Multiplier methods: a survey,DP Bertsekas,"Automatica 12 (2), 133-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9831715187501278201,393,1976
+Rollout algorithms for stochastic scheduling problems,"DP Bertsekas, DA Castanon","Journal of Heuristics 5 (1), 89-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15122693281586704608,360,1999
+Convex optimization algorithms,"DP Bertsekas, A Scientific",Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2137822523971003470,358,2015
+Gradient convergence in gradient methods with errors,"DP Bertsekas, JN Tsitsiklis","SIAM Journal on Optimization 10 (3), 627-642",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11706420765353188130,358,2000
+Athena Scientific optimization and computation series,D Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12173667781417223999,354,1999
+Distributed dynamic programming,D Bertsekas,"IEEE transactions on Automatic Control 27 (3), 610-616",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12352318972819203305,331,1982
+"Incremental gradient, subgradient, and proximal methods for convex optimization: A survey",DP Bertsekas,"Optimization for Machine Learning 2010 (1-38), 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15846465921665889194,325,2011
+Dynamic programming and optimal control,DP Bertsekas,"Journal of the Operational Research Society 47 (6), 833-833",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12916518248001639581,325,1996
+Reinforcement learning for dynamic channel allocation in cellular telephone systems,"SP Singh, DP Bertsekas","Advances in neural information processing systems, 974-980",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14647365597435612000,318,1997
+A new class of incremental gradient methods for least squares problems,DP Bertsekas,"SIAM Journal on Optimization 7 (4), 913-926",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1595630299593418260,303,1997
+Optimal short-term scheduling of large-scale power systems,"D Bertsekas, G Lauer, N Sandell, T Posbergh","IEEE Transactions on Automatic Control 28 (1), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17370854868449669771,285,1983
+The auction algorithm for assignment and other network flow problems: A tutorial,DP Bertsekas,"Interfaces 20 (4), 133-149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3116846870254938533,281,1990
+Routing and wavelength assignment in optical networks,"AE Ozdaglar, DP Bertsekas","IEEE/ACM Transactions On Networking (ton) 11 (2), 259-272",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14274349858792928997,280,2003
+A new algorithm for the assignment problem,DP Bertsekas,"Mathematical Programming 21 (1), 152-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17904549688623000280,273,1981
+Rollout algorithms for combinatorial optimization,"DP Bertsekas, JN Tsitsiklis, C Wu","Journal of Heuristics 3 (3), 245-262",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3075270765060517048,267,1997
+Two-metric projection methods for constrained optimization,"EM Gafni, DP Bertsekas","SIAM Journal on Control and Optimization 22 (6), 936-964",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13312455796052046653,260,1984
+Dynamic programming and suboptimal control: A survey from ADP to MPC,DP Bertsekas,"European Journal of Control 11 (4-5), 310-334",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432164551242128090,259,2005
+Approximate Dynamic Programming,DP BERTSEKAS,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11905328913171052385,254,2012
+Distributed asynchronous computation of fixed points,DP Bertsekas,"Mathematical Programming 27 (1), 107-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9152852676159013677,253,1983
+Convergence rate of incremental subgradient algorithms,"A Nedić, D Bertsekas","Stochastic optimization: algorithms and applications, 223-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10175093291591823008,250,2001
+Incremental proximal methods for large scale convex optimization,DP Bertsekas,"Mathematical programming 129 (2), 163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18375961726995671316,241,2011
+Infinite time reachability of state-space regions by using feedback control,D Bertsekas,"IEEE Transactions on Automatic Control 17 (5), 604-613",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7750159543048227597,228,1972
+Relaxation methods for minimum cost ordinary and generalized network flow problems,"DP Bertsekas, P Tseng","Operations Research 36 (1), 93-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13835329615840480419,224,1988
+Adaptive aggregation methods for infinite horizon dynamic programming,"DP Bertsekas, DA Castanon","Dept. of Electrical Engineering and Computer Science, Laboratory for …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12560179776082169437,211,1988
+Least squares policy evaluation algorithms with linear function approximation,"A Nedić, DP Bertsekas","Discrete Event Dynamic Systems 13 (1-2), 79-110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9194193342820739660,209,2003
+Solution of large-scale optimal unit commitment problems,"GS Lauer, NR Sandell, DP Bertsekas, TA Posbergh","IEEE Transactions on Power Apparatus and Systems, 79-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4060769143226298025,206,1982
+Dynamic programming,DP Bertsekas,Deterministic and Stochastic Models,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16633495741296291430,205,1995
+Parallel synchronous and asynchronous implementations of the auction algorithm,"DP Bertsekas, DA Castañon","Parallel Computing 17 (6-7), 707-732",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10362112835737710157,205,1991
+Necessary and sufficient conditions for a penalty method to be exact,DP Bertsekas,"Mathematical programming 9 (1), 87-99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4330286026333916388,204,1975
+On the convergence of the exponential multiplier method for convex programming,"P Tseng, DP Bertsekas","Mathematical Programming 60 (1-3), 1-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11874229454536382076,201,1993
+Second derivative algorithms for minimum delay distributed routing in networks,"D Bertsekas, E Gafni, R Gallager","IEEE Transactions on Communications 32 (8), 911-919",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11440765806588301288,188,1984
+A distributed algorithm for the assignment problem,DP Bertsekas,"Lab. for Information and Decision Systems Working Paper, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12792062391123701396,188,1979
+Optimal communication algorithms for hypercubes,"DP Bertsekas, C Özveren, GD Stamoulis, P Tseng, JN Tsitsiklis","Journal of Parallel and Distributed Computing 11 (4), 263-275",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15226623775105923938,181,1991
+Distributed asynchronous optimal routing in data networks,"J Tsitsiklis, D Bertsekas","IEEE Transactions on Automatic Control 31 (4), 325-332","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9652704453294853163,4994354837923966564",178,1986
+Incremental least squares methods and the extended Kalman filter,DP Bertsekas,"SIAM Journal on Optimization 6 (3), 807-822",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13341748655501654832,176,1996
+A neuro-dynamic programming approach to retailer inventory management,"B Van Roy, DP Bertsekas, Y Lee, JN Tsitsiklis","Proceedings of the 36th IEEE Conference on Decision and Control 4, 4052-4057",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17991927705674722238,174,1997
+The auction algorithm for the transportation problem,"DP Bertsekas, DA Castanon","Annals of Operations Research 20 (1), 67-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3318676575732284672,174,1989
+Some aspects of parallel and distributed iterative algorithms—a survey,"DP Bertsekas, JN Tsitsiklis","Automatica 27 (1), 3-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17161023579303646254,172,1991
+Convergence of discretization procedures in dynamic programming,D Bertsekas,"IEEE Transactions on Automatic Control 20 (3), 415-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3202890185832943486,172,1975
+Approximate policy iteration: A survey and some new methods,DP Bertsekas,"Journal of Control Theory and Applications 9 (3), 310-335",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6003941713726789385,170,2011
+A simple and fast label correcting algorithm for shortest paths,DP Bertsekas,"Networks 23 (8), 703-709",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15837039531310909741,166,1993
+Learning algorithms for Markov decision processes with average cost,"J Abounadi, D Bertsekas, VS Borkar","SIAM Journal on Control and Optimization 40 (3), 681-698",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2944436490595010190,156,2001
+Dynamic behavior of shortest path routing algorithms for communication networks,D Bertsekas,"IEEE Transactions on Automatic Control 27 (1), 60-74",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4097760186436095889,154,1982
+On penalty and multiplier methods for constrained minimization,DP Bertsekas,"SIAM Journal on Control and Optimization 14 (2), 216-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10796771952200667577,153,1976
+Linear network optimization,DP Bertsekas,"MIT Press, Cambridge, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8626206741589272395,146,1991
+An auction algorithm for shortest paths,DP Bertsekas,"SIAM Journal on Optimization 1 (4), 425-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=790256979124924697,144,1991
+Distributed asynchronous incremental subgradient methods,"A Nedich, DP Bertsekas, VS Borkar","Studies in Computational Mathematics 8 (C), 381-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13659013261089013708,139,2001
+A descent numerical method for optimization problems with nondifferentiable cost functionals,"DP Bertsekas, SK Mitter","SIAM Journal on Control 11 (4), 637-652",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16923722460405089214,139,1973
+Temporal differences-based policy iteration and applications in neuro-dynamic programming,"DP Bertsekas, S Ioffe","Lab. for Info. and Decision Systems Report LIDS-P-2349, MIT, Cambridge, MA 14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15045265210788379011,133,1996
+Optimization and Computation Series,DP Bertsekas,Dynamic programming and optimal control 1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1714690888692378976,128,2000
+RELAX-IV: A faster version of the RELAX code for solving minimum cost flow problems,"DP Bertsekas, P Tseng","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15776284460735259521,128,1994
+Relaxation methods for network flow problems with convex arc costs,"DP Bertsekas, PA Hosein, P Tseng","SIAM Journal on Control and Optimization 25 (5), 1219-1243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3658532221620165385,128,1987
+Projected Newton methods and optimization of multicommodity flows,"D Bertsekas, E Gafni","IEEE Transactions on Automatic Control 28 (12), 1090-1096",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11615946568678221412,128,1983
+A forward/reverse auction algorithm for asymmetric assignment problems,"DP Bertsekas, DA Castanon","Computational Optimization and Applications 1 (3), 277-297",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4000162565422485574,125,1992
+Combined primal-dual and penalty methods for constrained minimization,DP Bertsekas,"SIAM Journal on Control 13 (3), 521-544",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17310201094941901109,125,1975
+Nondifferentiable optimization via approximation,DP Bertsekas,"Nondifferentiable optimization, 1-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4777450159618365941,125,1975
+Dynamic Programming: Determinist. and Stochast. Models,DP Bertsekas,Prentice-Hall,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10252461869136122339,9824288600510083319,840488220447986102",116,1987
+Distributed asynchronous relaxation methods for convex network flow problems,"DP Bertsekas, D El Baz","SIAM Journal on Control and Optimization 25 (1), 74-85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5708271805859220281,116,1987
+Efficient dynamic programming implementations of Newton's method for unconstrained optimal control problems,"JC Dunn, DP Bertsekas","Journal of Optimization Theory and Applications 63 (1), 23-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8207657816087725704,112,1989
+Dual coordinate step methods for linear network flow problems,"DP Bertsekas, J Eckstein","Mathematical Programming 42 (1-3), 203-243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5954453580823313860,112,1988
+Dynamic control of session input rates in communication networks,"E Gafni, D Bertsekas","IEEE Transactions on Automatic Control 29 (11), 1009-1016",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7365563536850974907,112,1984
+Optimal scheduling of large hydrothermal power systems,"JJ Shaw, RF Gendron, DP Bertsekas","IEEE Transactions on Power Apparatus and Systems, 286-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5225845211299486515,108,1985
+Convexification procedures and decomposition methods for nonconvex optimization problems,DP Bertsekas,"Journal of Optimization Theory and Applications 29 (2), 169-197",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12680985849722346895,108,1979
+The relax codes for linear minimum cost network flow problems,"DP Bertsekas, P Tseng","Annals of Operations Research 13 (1), 125-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13396907640231933890,98,1988
+Stochastic optimization problems with nondifferentiable cost functionals,DP Bertsekas,"Journal of Optimization Theory and Applications 12 (2), 218-231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5666705865164702092,97,1973
+Sufficiently informative functions and the minimax feedback control of uncertain dynamic systems,"D Bertsekas, I Rhodes","IEEE Transactions on Automatic Control 18 (2), 117-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13609671314505240952,96,1973
+Combined primal–dual and penalty methods for convex programming,"BW Kort, DP Bertsekas","SIAM Journal on Control and Optimization 14 (2), 268-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13541869083376276090,95,1976
+Missile defense and interceptor allocation by neuro-dynamic programming,"DP Bertsekas, ML Homer, DA Logan, SD Patek, NR Sandell","IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5125642067501392605,93,2000
+"Partially asynchronous, parallel algorithms for network flow and other problems","P Tseng, DP Bertsekas, JN Tsitsiklis","SIAM Journal on Control and Optimization 28 (3), 678-710",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16595622247259437579,93,1990
+"Dynamic programming and optimal control 3rd edition, volume II",DP Bertsekas,"Belmont, MA: Athena Scientific",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14569641700856793012,92,2011
+Distributed asynchronous relaxation methods for linear network flow problems,"DP Bertsekas, J Eckstein","IFAC Proceedings Volumes 20 (5), 103-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3820624140937703610,92,1987
+Convergence results for some temporal difference methods based on least squares,"H Yu, DP Bertsekas","IEEE Transactions on Automatic Control 54 (7), 1515-1531",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2397299967573147799,90,2009
+Auction algorithms,DP Bertsekas,"Encyclopedia of optimization, 128-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2113793638940765874,87,2009
+Parallel asynchronous label-correcting methods for shortest paths,"DP Bertsekas, F Guerriero, R Musmanno","Journal of Optimization Theory and Applications 88 (2), 297-320",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10530857915914062295,86,1996
+Comments on “Coordination of groups of mobile autonomous agents using nearest neighbor rules”,"DP Bertsekas, JN Tsitsiklis","IEEE Transactions on Automatic Control 52 (5), 968-969",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2630691039081515501,85,2007
+Abstract dynamic programming,DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7589204660156803623,84,2018
+Improved temporal difference methods with linear function approximation,"DP Bertsekas, VS Borkar, A Nedic","Learning and Approximate Dynamic Programming, 231-255",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923556852729323936,84,2004
+A new penalty function method for constrained minimization,"BW Kort, DP Bertsekas",Proceedings of the 1972 IEEE Conference on Decision and Control and 11th …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1266553416499956623,84,1972
+Necessary and sufficient conditions for existence of an optimal portfolio,DP Bertsekas,"Journal of Economic Theory 8 (2), 235-247",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16678848699787920897,83,1974
+Reverse auction and the solution of inequality constrained assignment problems,"DP Bertsekas, DA Castanon, H Tsaknakis","SIAM Journal on Optimization 3 (2), 268-297",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2359682378025621399,81,1993
+Pseudonormality and a Lagrange multiplier theory for constrained optimization,"DP Bertsekas, AE Ozdaglar","Journal of Optimization Theory and Applications 114 (2), 287-343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15743132985880114376,77,2002
+Nonlinear optimization,DP Bertsekas,"Athena Scientific, Belmont",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17755719668054685831,77,1999
+A counterexample to temporal differences learning,DP Bertsekas,"Neural computation 7 (2), 270-279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18157875934045798397,76,1995
+Distributed power control algorithms for wireless networks,"C Wu, DP Bertsekas","IEEE Transactions on Vehicular Technology 50 (2), 504-514",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=278715248750811934,74,2001
+Approximation procedures based on the method of multipliers,DP Bertsekas,"Journal of Optimization Theory and Applications 23 (4), 487-510",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14764939658452702480,74,1977
+Convergence rate and termination of asynchronous iterative algorithms,"DP Bertsekas, JN Tsitsiklis","Proceedings of the 3rd International Conference on Supercomputing, 461-470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4321954473008597230,71,1989
+A unified framework for primal-dual methods in minimum cost network flow problems,DP Bertsekas,"Mathematical Programming 32 (2), 125-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6099117851620890525,69,1985
+Control of uncertain systems with a set-membership description of the uncertainty.,DP Bertsekas,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6647162953567571037,69,1971
+Stochastic approximation for nonexpansive maps: Application to Q-learning algorithms,"J Abounadi, DP Bertsekas, V Borkar","SIAM Journal on Control and Optimization 41 (1), 1-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17005916191512884257,68,2002
+Relaxation methods for problems with strictly convex separable costs and linear constraints,"P Tseng, DP Bertsekas","Mathematical Programming 38 (3), 303-321",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9069838053833021265,68,1987
+A distributed asynchronous relaxation algorithm for the assignment problem,DP Bertsekas,"1985 24th IEEE Conference on Decision and Control, 1703-1704",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5052507690678798538,65,1985
+Projected equation methods for approximate solution of large linear systems,"DP Bertsekas, H Yu","Journal of Computational and Applied Mathematics 227 (1), 27-50",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=500340207062064269,64,2009
+Nonlinear Programming. Athena Scientific Belmont,DP Bertsekas,"Massachusets, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10564053720006249306,63,1999
+Partial proximal minimization algorithms for convex pprogramming,"DP Bertsekas, P Tseng","SIAM Journal on Optimization 4 (3), 551-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11873073582452783812,61,1994
+Stochastic shortest path games,"SD Patek, DP Bertsekas","SIAM Journal on Control and Optimization 37 (3), 804-824",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5358938895574670222,59,1999
+Implementation of efficient algorithms for globally optimal trajectories,"LC Polymenakos, DP Bertsekas, JN Tsitsiklis","IEEE Transactions on Automatic Control 43 (2), 278-283",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7933024762476462254,58,1998
+A class of optimal routing algorithms for communication networks,DP Bertsekas,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9486342106213657346,57,1980
+The effect of deterministic noise in subgradient methods,"A Nedić, DP Bertsekas","Mathematical programming 125 (1), 75-99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13248731265233074435,56,2010
+Dynamic Programming and Control,DP Bertsekas,"Volume I. Belmont, MA: Athena Scientific",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15506907275350617610,55,2005
+Value and policy iterations in optimal control and adaptive dynamic programming,DP Bertsekas,"IEEE transactions on neural networks and learning systems 28 (3), 500-509",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10900959186386991624,53,2015
+Parallel and distributed computation. Old Tappan,"DP Bertsekas, JN Tsitsiklis",NJ (USA),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2336473857239818630,53,1989
+Optimal solution of integer multicommodity flow problems with application in optical networks,"AE Ozdaglar, DP Bertsekas","Frontiers in global optimization, 411-435",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11470988124713393408,52,2004
+Finite termination of asynchronous iterative algorithms,"SA Savarí, DP Bertsekas","Parallel Computing 22 (1), 39-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17790049420110340274,52,1996
+An alternating direction method for linear programming,"J Eckstein, DP Bertsekas","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4933853633305321217,52,1990
+Subgradient methods for convex minimization,A NediÄ,MaSSachuSettS InStitute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10669215150874544298,49,2002
+Dynamic programming and optimal control. Belmont,DP Bertsekas,MA: Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2690648628164948245,49,2000
+Parallel asynchronous Hungarian methods for the assignment problem,"DP Bertsekas, DA Castañon","ORSA Journal on Computing 5 (3), 261-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6661889381411717899,49,1993
+Communication algorithms for isotropic tasks in hypercubes and wraparound meshes,"EA Varvarigos, DP Bertsekas","Parallel Computing 18 (11), 1233-1257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10568222274718273818,49,1992
+A new value iteration method for the average cost dynamic programming problem,DP Bertsekas,"SIAM journal on control and optimization 36 (2), 742-759",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8041104350523106830,48,1998
+The auction algorithm for the minimum cost network flow problem,"DP Bertsekas, DA Castanon","Massachusetts Institute of Technology, Laboratory for Information and …","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11443806243637460992,4084332431482803502",48,1989
+Convergence of a gradient projection method,"EM Gafni, DP Bertsekas",Laboratory for Information and Decision Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11733038097572297077,47,1982
+Basis function adaptation methods for cost approximation in MDP,"H Yu, DP Bertsekas",2009 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7533226386498297599,45,2009
+Distributed relaxation methods for linear network flow problems,DP Bertsekas,"1986 25th IEEE Conference on Decision and Control, 2101-2106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10478275091852402296,45,1986
+Multiplier methods for convex programming,"BW Kort, DP Bertsekas",1973 IEEE Conference on Decision and Control including the 12th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4719466815501586147,45,1973
+Differential training of rollout policies,DP Bertsekas,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15726352274434093005,44,1997
+Polynomial auction algorithms for shortest paths,"DP Bertsekas, S Pallottino, MG Scutellà","Computational Optimization and Applications 4 (2), 99-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15128234807833753886,44,1995
+Universally measurable policies in dynamic programming,"SE Shreve, DP Bertsekas","Mathematics of Operations Research 4 (1), 15-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8629745414039214649,44,1979
+Temporal difference methods for general projected equations,DP Bertsekas,"IEEE Transactions on Automatic Control 56 (9), 2128-2139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8268079717698962180,43,2011
+Algorithms for nonlinear multicommodity network flow problems,DP Bertsekas,"International Symposium on Systems Optimization and Analysis, 210-224",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7924363676719757842,41,1979
+Rollout algorithms for discrete optimization: A survey,DP Bertsekas,"Handbook of combinatorial optimization, 2989-3013",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5378544080473753497,40,2013
+Discretized approximations for POMDP with average cost,"H Yu, DP Bertsekas",Proceedings of the 20th conference on Uncertainty in artificial intelligence …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4377744020157051872,40,2004
+Q-learning and enhanced policy iteration in discounted dynamic programming,"DP Bertsekas, H Yu","Mathematics of Operations Research 37 (1), 66-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11025123905877067506,39,2012
+Error bounds for approximations from projected linear equations,"H Yu, DP Bertsekas","Mathematics of Operations Research 35 (2), 306-329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7508191514937869771,39,2010
+Monotone mappings with application in dynamic programming,DP Bertsekas,"SIAM Journal on Control and Optimization 15 (3), 438-464",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778149689560273429,39,1977
+Incremental constraint projection-proximal methods for nonsmooth convex optimization,"M Wang, DP Bertsekas",SIAM J. Optim.(to appear),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2646457574909872241,38,2013
+A unifying polyhedral approximation framework for convex optimization,"DP Bertsekas, H Yu","SIAM Journal on Optimization 21 (1), 333-360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12680698757346448544,38,2011
+J.. N. Tsitsiklis,DP Bertsekas,Neuro-dynamic Programming,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15401573445491550437,38,1996
+Optimal routing and flow control methods for communication networks,DP Bertsekas,"Analysis and optimization of systems, 613-643",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18183550170347125514,38,1982
+An ϵ-relaxation method for separable convex cost network flow problems,"DP Bertsekas, LC Polymenakos, P Tseng","SIAM Journal on Optimization 7 (3), 853-870","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=511796200832960681,15680166670880584391",37,1997
+Parallel and distributed computation: numerical methods,JN Tsitsiklis,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7367212419507892372,37,1997
+Convergence rate of penalty and multiplier methods,DP Bertsekas,1973 IEEE Conference on Decision and Control including the 12th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9382465497487219304,37,1973
+Incremental constraint projection methods for variational inequalities,"M Wang, DP Bertsekas","Mathematical Programming 150 (2), 321-363",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15553564497409050594,35,2015
+An ε-relaxation method for separable convex cost generalized network flow problems,"P Tseng, DP Bertsekas","Mathematical Programming 88 (1), 85-104","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1253485206903063614,57772599702436743",35,2000
+Estimates of the duality gap for large-scale separable nonconvex optimization problems,"DP Bertsekas, NR Sandell","1982 21st IEEE Conference on Decision and Control, 782-785",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4036665359256892546,35,1982
+Alternative theoretical frameworks for finite horizon discrete-time stochastic optimal control,"SE Shreve, DP Bertsekas","SIAM Journal on control and optimization 16 (6), 953-978",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5508310421621756766,35,1978
+Stochastic first-order methods with random constraint projection,"M Wang, DP Bertsekas","SIAM Journal on Optimization 26 (1), 681-717",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15630408104919969595,34,2016
+Partial conjugate gradient methods for a class of optimal control problems,D Bertsekas,"IEEE Transactions on Automatic Control 19 (3), 209-217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15392111373181571556,34,1974
+Incremental aggregated proximal and augmented lagrangian algorithms,DP Bertsekas,arXiv preprint arXiv:1509.09257,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11201992729663504549,33,2015
+Arpanet routing algorithm improvements,"JM McQuillan, I Richer, EC Rosen, DP Bertsekas",BOLT BERANEK AND NEWMAN INC CAMBRIDGE MA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13479603358668219167,32,1978
+On the method of multipliers for convex programming,D Bertsekas,"IEEE Transactions on Automatic Control 20 (3), 385-388",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5085763363592325772,32,1975
+Nonlinear programming,DP Bertsekas,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5814642193801813541,31,1998
+Enlarging the region of convergence of Newton's method for constrained optimization,DP Bertsekas,"Journal of optimization theory and applications 36 (2), 221-252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=109449978346937598,31,1982
+Separable dynamic programming and approximate decomposition methods,DP Bertsekas,"IEEE Transactions on Automatic Control 52 (5), 911-916",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13446347316920416758,30,2007
+Rollout algorithms for constrained dynamic programming,D Bertsekas,Lab. for Information and Decision Systems Report 2646,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6799290922566633963,30,2005
+Parallel computing in network optimization,"D Bertsekas, D Castañon, J Eckstein, S Zenios","Handbooks in Operations Research and Management Science 7, 331-399",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15609567262397737397,30,1995
+Relaxation methods for problems with strictly convex costs and linear constraints,"P Tseng, DP Bertsekas","Mathematics of Operations Research 16 (3), 462-481",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=643097892178631906,29,1991
+Optimal scheduling of large-scale hydrothermal power systems,"NR Sandell, DP Bertsekas, JJ Shaw, SW Gully, RF Gendron",Proceedings of the 1982 IEEE International Large-Scale Systems Symposium …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3426773068341964653,29,1982
+Extended monotropic programming and duality,DP Bertsekas,"Journal of optimization theory and applications 139 (2), 209-225",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9761772815744705912,28,2008
+Q-learning algorithms for optimal stopping based on least squares,"H Yu, DP Bertsekas","2007 European Control Conference (ECC), 2368-2375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8430442785024941194,27,2007
+The relation between pseudonormality and quasiregularity in constrained optimization,"AE Ozdaglar, DP Bertsekas","Optimization Methods and Software 19 (5), 493-506",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15674623819763406572,27,2004
+Q-learning and policy iteration algorithms for stochastic shortest path problems,"H Yu, DP Bertsekas","Annals of Operations Research 208 (1), 95-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6531944782723198691,26,2013
+Relaxation methods for linear programs,"P Tseng, DP Bertsekas","Mathematics of Operations Research 12 (4), 569-596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12645997683646070379,26,1987
+Convergence theories of distributed iterative processes: A survey,"DP Bertsekas, JN Tsitsiklis, M Athans","Stochastic programming, 107-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13577942246849832321,25,1986
+Dynamic models of shortest path routing algorithms for communication networks with multiple destinations,DP Bertsekas,1979 18th IEEE Conference on Decision and Control including the Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6586725744894228335,25,1979
+Validation of algorithms for optimal routing of flow in networks,"D Bertsekas, E Gafni, KS Vastola",1978 IEEE Conference on Decision and Control including the 17th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481901455299767074,25,1979
+Parallel shortest path auction algorithms,"LC Polymenakos, DP Bertsekas","Parallel Computing 20 (9), 1221-1247",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3168430757417303773,24,1994
+Performance of hypercube routing schemes with or without buffering,"EA Varvarigos, DP Bertsekas","IEEE/ACM Transactions on Networking 2 (3), 299-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13012437710435142041,23,1994
+"Robert Gallager,""",D Bertsekas,"Data Networks.(2nd edition),"" Prentice Hall",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4933858091941686630,23,1992
+Asymptotic optimality of shortest path routing algorithms,"E Gafni, D Bertsekas","IEEE Transactions on Information Theory 33 (1), 83-90","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4439855146003569056,7903896435877605371",23,1987
+Set intersection theorems and existence of optimal solutions,"DP Bertsekas, P Tseng","Mathematical programming 110 (2), 287-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3656766219369270836,22,2007
+An auction algorithm for the max-flow problem,DP Bertsekas,"Journal of Optimization Theory and Applications 87 (1), 69-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3957942650072523467,22,1995
+Relaxation methods for monotropic programs,"P Tseng, DP Bertsekas","Mathematical Programming 46 (1-3), 127-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11250697875245738640,22,1990
+Relaxation methods for minimum cost network flow problems,"DP Bertsekas, P Tseng","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13685552642850855904,22,1983
+Lambda-policy iteration: A review and a new implementation,DP Bertsekas,Reinforcement learning and approximate dynamic programming for feedback …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17226955339086170531,21,2012
+Admission control for wireless networks,"CC Wu, DP Bertsekas","IEEE Trans. Veh. Technol 50, 504-514",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16177725355306985952,21,2001
+A new algorithm for solution of resistive networks involving diodes,D Bertsekas,"IEEE Transactions on Circuits and Systems 23 (10), 599-608",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13951176373108460630,21,1976
+On the minimax feedback control of uncertain dynamic systems,"DP Bertsekas, IB Rhodes","1971 IEEE conference on decision and control, 451-455",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=598233253544821906,21,1971
+On near optimality of the set of finite-state controllers for average cost POMDP,"H Yu, DP Bertsekas","Mathematics of Operations Research 33 (1), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16569939283394481392,20,2008
+A least squares Q-learning algorithm for optimal stopping problems,"H Yu, DP Bertsekas",Lab. for Information and Decision Systems Report 2731,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6188999818269184618,19,2006
+Problems and solutions in scientific computing with C++ and Java simulations,"WH Steeb, Y Hardy, A Hardy, R Stoop",World Scientific Publishing Company,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12368660837091915288,19,2004
+Adaptive multi-platform scheduling in a risky environment,"DP Bertsekas, DA Castanon, M Curry, D Logan","Advances in Enterprise Control Symp. Proc, 121-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1503376885951849398,19,1999
+Neuro-dynamic programming,"J Tsitsiklis, D Bertsekas",Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8964551595493553033,19,1996
+Reinforcement learning and optimal control,DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3890645498406665297,18,2019
+Feature-based aggregation and deep reinforcement learning: A survey and some new implementations,DP Bertsekas,"IEEE/CAA Journal of Automatica Sinica 6 (1), 1-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5403884190442730421,18,2018
+Optimal replacement policies under environment-driven degradation,"MY Ulukus, JP Kharoufeh, LM Maillart","Probability in the engineering and informational sciences 26 (3), 405-424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12484575874181913894,18,2012
+Distributed asynchronous policy iteration in dynamic programming,"DP Bertsekas, H Yu","2010 48th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13213618480195104414,18,2010
+Introduction to Probability Vol. 1,"DP Bertsekas, JN Tsitsiklis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4745592721249662635,18,2002
+Parallel primal-dual methods for the minimum cost flow problem,"DP Bertsekas, DA Castanon","Computational Optimization and Applications 2 (4), 317-336",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12719876196392170019,18,1993
+Steepest descent for optimization problems with nondifferentiable cost functionals,"DP Bertsekas, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE DEPT OF ELECTRICAL ENGINEERING,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5703595377537383360,18,1971
+Enhanced Fritz John conditions for convex programming,"DP Bertsekas, AE Ozdaglar, P Tseng","SIAM Journal on Optimization 16 (3), 766-797",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13043358880956840533,17,2006
+Enhanced optimality conditions and exact penalty functions,"DP Bertsekas, AE Koksal",Proceedings of Allerton Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8184889974926350741,17,2000
+Incremental subgradient methods for nondifferentiable optimization,"A Geary, DP Bertsekas",Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16816743149633925678,17,1999
+Multinode broadcast in hypercubes and rings with randomly distributed length of packets,"EA Varvarigos, DP Bertsekas","IEEE Transactions on Parallel and Distributed systems 4 (2), 144-154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14714917259980239863,17,1993
+Augmented Lagrangian and differentiable exact penalty methods,DP Bertsekas,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2312627513301054339,17,1981
+Variable metric methods for constrained optimization using differentiable exact penalty functions,DP Bertsekas,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7225567627505946274,17,1980
+Augmented lagrangian methods,"DP Bertsekas, A Scientific","Convex Optimization Algorithms; Belmont, Athena Scientific: Nashua, NH, USA …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17280846678752586632,16,2015
+Stabilization of stochastic iterative methods for singular and nearly singular linear systems,"M Wang, DP Bertsekas","Mathematics of Operations Research 39 (1), 1-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022670763026808313,16,2013
+Robust shortest path planning and semicontractive dynamic programming,DP Bertsekas,"Naval Research Logistics (NRL) 66 (1), 15-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2363537745924889967,15,2019
+Weighted Bellman equations and their applications in approximate dynamic programming,"H Yu, DP Bertsekas","Lab. for Information and Decision Systems Report LIDS-P-2876, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964474794157559249,15,2012
+"Convexity, duality, and lagrange multipliers","DP Bertsekas, A Nedic, AE Ozdaglar","Lecture Notes, MIT Press, Cambridge, Mass, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15824998067152877907,15,2001
+Dynamic broadcasting in parallel computing,"EA Varvarigos, DP Bertsekas","IEEE transactions on parallel and distributed systems 6 (2), 120-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9488458781128895996,15,1995
+Partial multinode broadcast and partial exchange algorithms for d-dimensional meshes,"EA Varvarigos, DP Bertsekas","Journal of Parallel and Distributed Computing 23 (2), 177-189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107068831879014796,15,1994
+"Parallel and Distributed Computation: Numerical Methods, Prentice Hall","DP Bertsekas, JN Tsitsiklis",New Jersey: Englewood Cliffs,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10821832744953484281,15,1989
+An auction/sequential shortest path algorithm for the minimum cost network flow problem,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1200037410906954913,14,1992
+Implementation of an optimal multicommodity network flow algorithm based on gradient projection and a path flow formulation,"DP Bertsekas, B Gendron, WK Tsai",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1584633184910804737,1958094707783362064",14,1984
+A mixed value and policy iteration method for stochastic control with universally measurable policies,"H Yu, DP Bertsekas","Mathematics of Operations Research 40 (4), 926-968",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13697905039406192942,13,2015
+On boundedness of Q-learning iterates for stochastic shortest path problems,"H Yu, DP Bertsekas","Mathematics of Operations Research 38 (2), 209-227",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14642136878979822525,13,2013
+Approximate simulation-based solution of large-scale least squares problems,"M Wang, N Polydorides, DP Bertsekas","Lab. for Information and Decision Systems Report LIDS-P-2819, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12553467841819112019,13,2009
+New error bounds for approximations from projected linear equations,"H Yu, DP Bertsekas","European Workshop on Reinforcement Learning, 253-267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8899135290082967728,13,2008
+John N. Tsitsiklis,DP Bertsekas,Introduction to Probability,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12898878886886419480,13,2002
+Min common/max crossing duality: A simple geometric framework for convex optimization and minimax theory,"DP Bertsekas, A Nedic, A Ozdaglar",Rep. LIDS-P-2536,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7782741774834054408,13,2002
+relaxt-III: A new and improved version of the relax code,"DP Bertsekas, P Tseng","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17026395430577266672,13,1990
+A survey of some aspects of parallel and distributed iterative algorithms,"DP Bertsekas, JN Tsitsiklis","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17016009664844382453,13,1989
+Notes on Nonlinear Programming and Discrete--time Optimal Control,DP Bertsekas,"Laboratory for Information and Decision Systems, Department of Electrical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5876344621385578062,13,1979
+P.(1999),D Bertsekas,"Nonlinear Programming,","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3839406011187382483,9427277607941565482",13,0
+Tsitsiklis (1996),D Bertsekas,Neuro-dynamic programming,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5861045977660914339,13,0
+Stochastic shortest path problems under weak conditions,"DP Bertsekas, H Yu","Lab. for Information and Decision Systems Report LIDS-P-2909, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8255638434479578644,12,2013
+Optimal and Neuro—Dynamic Programming Solutions for a Stochastic Inventory Transportation Problem,"L Bertazzi, DP Bertsekas, MG Speranza","Models, Methods and Decision Support for Management, 65-78",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=840667402481874861,12,2001
+Rollout algorithms: An overview,DP Bertsekas,Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7292523031397444526,12,1999
+Min common/max crossing duality: A geometric view of conjugacy in convex optimization,D Bertsekas,"Lab. for Information and Decision Systems, MIT, Tech. Rep. Report LIDS-P-2796",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16676105108314360597,11,2009
+ɛ-Relaxation and Auction Methods for Separable Convex Cost Network Flow Problems,"DP Bertsekas, LC Polymenakos, P Tseng","Network Optimization, 103-126","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15442586400406744043,16875510137900899921",11,1997
+Computation of production control policies by a dynamic programming technique,"J Kimemia, SB Gershwin, D Bertsekas","Analysis and Optimization of Systems, 241-259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5477741447239091720,11,1982
+Penalty and multiplier methods,DP Bertsekas,"Nonlinear optimization (Proc. Internat. Summer School, Univ. Bergamo …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9245728646667913774,11,1980
+Weighted sup-norm contractions in dynamic programming: A review and some new applications,DP Bertsekas,"Dept. Elect. Eng. Comput. Sci., Massachusetts Inst. Technol., Cambridge, MA …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15967146124714796237,10,2012
+Parallel and distributed computation: numerical methods. 1989,"DP Bertsekas, JN Tsitsiklis","Englewood Clifffs, New Jersey: Printice-Hall",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1890027538309086104,10,1997
+Existence of optimal stationary policies in deterministic optimal control,"DP Bertsekas, SE Shreve","Journal of Mathematical Analysis and Applications 69 (2), 607-620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8106854320250842015,10,1979
+Tsitsiklis. JN (1989),DP Bertsekas,Parallel and Distributed Computation-Numerical,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18201984213289330114,10,0
+Pathologies of temporal difference methods in approximate dynamic programming,DP Bertsekas,"49th IEEE Conference on Decision and Control (CDC), 3034-3039",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2936989792169603914,9,2010
+"Projected equations, variational inequalities, and temporal difference methods",DP Bertsekas,"Lab. for Information and Decision Systems Report LIDS-P-2808, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=864559789950371399,9,2009
+On shortest path problems with “non-Markovian” link contribution to path lengths,"A Sen, KS Candan, A Ferreira, B Beauquier, S Perennes","International Conference on Research in Networking, 859-870",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12035311517634756015,9,2000
+Multiaccess communication,D Bertsekas,Data networks,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17989602595952968270,9,1992
+Some issues in distributed asynchronous routing in virtual circuit data networks,"WK Tsai, JN Tsitsiklis, DP Bertsekas","1986 25th IEEE Conference on Decision and Control, 1335-1337",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9272112537121593709,9,1986
+Path assignment for virtual circuit routing,"EM Gafni, DP Bertsekas","ACM SIGCOMM Computer Communication Review 13 (2), 21-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7147599603510049875,9,1983
+On error bounds for successive approximation methods,D Bertsekas,"IEEE Transactions on Automatic Control 21 (3), 394-396",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13010671272051468296,9,1976
+On the solution of some minimax problems,DP Bertsekas,Proceedings of the 1972 IEEE Conference on Decision and Control and 11th …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9333070446926391221,9,1972
+Stochastic optimization problems with nondifferentiable cost functionals with an application in stochastic programming,DP Bertsekas,Proceedings of the 1972 IEEE Conference on Decision and Control and 11th …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7131938641883346562,9,1972
+"Introduction to probability, ser","D Bertsekas, J Tsitsiklis",Athena Scientific optimization and computation series. Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4157009398280994883,8,2008
+Solution of large systems of equations using approximate dynamic programming methods,"DP Bertsekas, H Yu","Lab. for Information and Decision Systems Report LIDS-P-2754, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7294332649814211181,8,2007
+Traffic behavior and queuing in a QoS environment,DP Bertsekas,OPNETWORK,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1789484266081234457,8,2005
+A note on error bounds for convex and nonconvex programs,DP Bertsekas,"Computational Optimization, 41-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942647227306318657,8,1999
+Parallel asynchronous primal-dual methods for the minimum cost flow problem,"DP Bertsekas, DA Castañon","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15840987068800970663,8,1990
+Second derivative algorithms for minimum delay distributed routing in networks,"DP Bertsekas, EM Gafni, RG Gallager",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15095688543726026403,8,1981
+On the convergence properties of second-order multiplier methods,DP Bertsekas,"Journal of Optimization Theory and Applications 25 (3), 443-449",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12119331585747157035,8,1978
+Linear convex stochastic control problems over an infinite horizon,D Bertsekas,"IEEE Transactions on Automatic Control 18 (3), 314-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13805967355405963109,8,1973
+Stable optimal control and semicontractive dynamic programming,DP Bertsekas,"SIAM Journal on Control and Optimization 56 (1), 231-252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16148646466604560807,7,2018
+"Convex optimization theory athena scientific, 2009",DP Bertsekas,"Cited on, 9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3330040987881460129,7,2014
+On the convergence of simulation-based iterative methods for solving singular linear systems,"M Wang, DP Bertsekas","Stochastic Systems 3 (1), 38-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14497050047202349787,7,2013
+A conflict sense routing protocol and its performance for hypercubes,"EA Varvarigos, DP Bertsekas","IEEE transactions on computers 45 (6), 693-703",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=401560294110600262,7,1996
+Thevenin decomposition and large-scale optimization,DP Bertsekas,"Journal of optimization theory and applications 89 (1), 1-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6661617864725742606,7,1996
+The auction algorithm for assignment and other network flow problems,DP Bertsekas,"New Trends in Systems Theory, 105-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11943142954149843025,7,1991
+Dynamic programming in Borel spaces,"SE Shreve, DP Bertsekas","Dynamic programming and its applications, 115-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3413654670550612373,7,1978
+Nondifferentiable Optimization,"P Wolfe, ML Balinski",North-Holland,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6362249230244606771,7,1975
+"R. G. Gallager, Data",DP Bertsekas,Networks,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11445118371352393770,7,0
+Regular policies in abstract dynamic programming,DP Bertsekas,"SIAM Journal on Optimization 27 (3), 1694-1727",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16088546167711422043,6,2017
+Routing and wavelength assignment in optical networks,"DP Bertsekas, AE Koksal","US Patent 7,716,271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=754325318918258019,6,2010
+Adaptive aggregation methods for discounted dynamic programming,"DP Bertsekas, DA Castanon","1986 25th IEEE Conference on Decision and Control, 1840-1845",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14721580293690723410,6,1986
+Enlarging the region of convergence of Newton's method for constrained optimization,DP Bertsekas,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110345818935818879,6,1980
+Multiplier methods: A survey,DP Bertsekas,"IFAC Proceedings Volumes 8 (1), 351-363",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=780320418677130312,6,1975
+"GALLAGER., R. 1992",DP Bertsekas,Data Networks 2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13863527541382822313,6,0
+On the Convergence of Iterative Simulation-Based Methods for Singular Linear Systems,"M Wang, DP Bertsekas","Lab. for Information and Decision Systems Report LIDS-P-2879, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5168500867451852338,5,2011
+Convex optimization algorithms,DP Bertsekas,"THIS CHAPTER AIMS TO SUPPLEMENT THE BOOK CONVEX OPTIMIZATION THEORY, ATHENA …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12167355136988203734,5,2009
+Introduction to Probability: International Edition,"DP Bertsekas, JN Tsitsiklis","Athena Scientific, Belmont, Massachusetts",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13907191883474118566,5,2002
+Generic rank-one corrections for value iteration in Markovian decision problems,DP Bertsekas,"Operations research letters 17 (3), 111-119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15187013126299277858,5,1995
+"1996, Neuro-Dynamic Programming., Athena Scientific, Belmont, MA","D Bertsekas, J Tsitsiklis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7242520552877138393,5,0
+P.(2000),D Bertsekas,Dynamic programming and optimal control,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17196418413129887535,5,0
+Affine Monotonic and Risk-Sensitive Models in Dynamic Programming,DP Bertsekas,IEEE Transactions on Automatic Control,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6057320573482570712,4,2019
+Proximal algorithms and temporal difference methods for solving fixed point problems,DP Bertsekas,"Computational Optimization and Applications 70 (3), 709-736",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17665962862041287593,4,2018
+"Dynamic Programming and Optimal Control 4th Edition, Volume II",DP Bertsekas,Athena Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18186063320992330089,4,2015
+Notes on central extensions,D Prasad,arXiv preprint arXiv:1502.02140,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9782105717588576820,4,2015
+Approximate solution of large-scale linear inverse problems with Monte Carlo simulation,"N Polydorides, M Wang, DP Bertsekas","Lab. for Information and Decision Systems Report, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2239253984557082812,4,2009
+概率导论,TJN BertsekasDP,"北京: 人民邮电出版社 219, 316",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1660836409858909870,4,2009
+Dynamic programming and suboptimal control: From ADP to MPC,D Bertsekas,"Proceedings of the 44th IEEE Conference on Decision and Control, 10-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14588602704978934411,4,2005
+Ten simple rules for mathematical writing,D Bertsekas,Massachusetts Inst. Technol.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15899961372392979813,4,2002
+Reservation-based session routing for broadband communication networks with strict QoS requirements,"CH Yeh, EA Varvarigos, DP Bertsekas, HT Mouftah","Proceedings 15th International Conference on Information Networking, 593-600",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13133952699209175943,4,2001
+Dynamic programming methods for adaptive multi-platform scheduling in a risky environment,"DP Bertsekas, DA Castanon, ML Curry, DA Logan, C Wu","Advances in Enterprise Control Proceedings, Symposium Sponsored by JFACC …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8040455653859982333,4,2000
+Play selection in American football: A case study in neuro-dynamic programming,"SD Patek, DP Bertsekas","Advances in computational and stochastic optimization, logic programming …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17870470741952422410,4,1998
+Transposition of banded matrices in hypercubes: A nearly isotropic task,"EA Varvarigos, DP Bertsekas","Parallel computing 21 (2), 243-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18042746855425255338,4,1995
+Parallel Shortest Paths Methods for Globally Optimal Trajectories,"DP Bertsekas, F Guerriero, R Musmanno","Advances in Parallel Computing 10, 303-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11925300147311370898,4,1995
+Relaxation methods for problems with strictly convex costs and linear inequality constraints,"P Tseng, DP Bertsekas","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3819142546621401205,4,1987
+Notes on Optimal Routing and Flow Control for Communication Networks.,DP Bertsekas,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11930327406895166289,4,1981
+Distributed computation of fixed points,DP Bertsekas,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8695185684228445567,4,1981
+Local convex conjugacy and Fenchel duality,DP Bertsekas,"Preprints of 7th Triennial World Congress of IFAC, Helsinki, Finland 2, 1079 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11147625273325913112,4,1978
+Newton's method for linear optimal control problems,DP Bertsekas,"IFAC Proceedings Volumes 9 (3), 353-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3551844033059092091,4,1976
+Monotone mappings in dynamic programming,DP Bertsekas,1975 IEEE Conference on Decision and Control including the 14th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9190055080378268110,4,1975
+Proper Policies in Infinite-State Stochastic Shortest Path Problems,DP Bertsekas,"IEEE Transactions on Automatic Control 63 (11), 3787-3792",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12212748580781122076,3,2018
+A Quasi Monte Carlo Method for Large-Scale Inverse Problems,"N Polydorides, M Wang, DP Bertsekas","Monte Carlo and Quasi-Monte Carlo Methods 2010, 623-637",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5981983043417507786,3,2012
+Neuro-dynamic programming: An overview and recent results,DP Bertsekas,"Operations research proceedings 2006, 71-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13313150477671035315,3,2007
+Learning and Approximate Dynamic Programming,DP Bertsekas,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13574310231539330875,3,2004
+New value iteration and q-learning methods for the average cost dynamic programming problem,DP Bertsekas,Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14242713116900121775,3,1998
+Efficient algorithms for continuous-space shortest path problems,"L Polymenakos, DP Bertsekas, JN Tsitsiklis","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15458116826981544388,3,1995
+Mathematical Equivalence of the Auction Algorithm for Assignment and the∊-Relaxation (Preflow-Push) Method for Min Cost Flow,DP Bertsekas,"Large Scale Optimization, 26-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=584008931252499717,3,1994
+データネットワーク,"DP Bertsekas, RG Gallager",オーム社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15947935710348200934,3,1990
+"Maximum a-posteriori estimation of random fields: Part I, elliptic Gaussian fields observed via a noisy nonlinear channel","A Dembo, O Zeitouni","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4171980155034641328,3,1988
+Parallel and distributed iterative algorithms: a selective survey,"DP Bertsekas, JN Tsitsiklis","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441087831282994930,3,1988
+Preconditioned conjugate gradient methods for optimal control problems with delays with application in hydroelectric power systems scheduling,"D Bertsekas, J Shaw, R Gendron","The 22nd IEEE Conference on Decision and Control, 1434-1442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12925180989273867440,3,1983
+Nondifferentiable optimization,DP Bertsekas,North-Holland,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15153343997572346520,3,1975
+Nondifferentiable Optimization via Approximation.,DP Bertsekas,ILLINOIS UNIV AT URBANA-CHAMPAIGN COORDINATED SCIENCE LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17724020050947650314,3,1974
+Pivoting and extensions: in honor of AW Tucker,ML Balinski,North-Holland,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2973166908733431628,3,1974
+Convergence of the feasible region in infinite horizon optimization problems,DP Bertsekas,"Joint Automatic Control Conference, 287-293",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15920159051360206787,3,1972
+Recursive state estimation for a...,"DP Bertsekas, IB Rhodes",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12147506121489579325,3,1971
+"Biased Aggregation, Rollout, and Enhanced Policy Improvement for Reinforcement Learning",D Bertsekas,arXiv preprint arXiv:1910.02426,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4253539413472992733,2,2019
+"Proximal algorithms and temporal differences for large linear systems: extrapolation, approximation, and simulation",DP Bertsekas,arXiv preprint arXiv:1610.05427,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6113556701771506450,2,2016
+Infinite-space shortest path problems and semicontractive dynamic programming,DP Bertsekas,"Massachusetts Institute of Technology, Cambridge, MA, USA, Technical Report …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15472893154644333868,2,2014
+An ε-Relaxation method for generalized separable convex cost network flow problems,"P Tseng, DP Bertsekas",International Conference on Integer Programming and Combinatorial …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7695904215032952504,2,1996
+Modified auction algorithms for shortest paths,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17028506786689567687,2,1992
+Stohastičeskoe optimal'noe upravlenie: slučaj diskretnogo vremeni,"DP Bertsekas, SE Shreve, AA Ûškevič, VI Lutkov, VA Havanskov",""" Nauka"" Glavnaâ Redakciâ Fiziko-Matematičeskoj Literatury",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13181862535017309303,2,1985
+A model for the optimal synthesis and analysis of maintenance facilities,"KR Pattipati, JJ Shaw, DP Bertsekas, JC Deckert, MP Kastner, LK Beean, ...","AUTOTESTCON'83, 449-456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9410721594473944231,2,1983
+Globally convergent Newton methods for constrained optimization using differentiable exact penalty functions,DP Bertsekas,1980 19th IEEE Conference on Decision and Control including the Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1479642117290240975,2,1980
+Mathematical issues in dynamic programming,"DP Bertsekas, SE Shreve",unpublished paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18270292086278181867,2,1978
+Equivalent stochastic and deterministic optimal control problems,"S Shreve, D Bertsekas",1976 IEEE Conference on Decision and Control including the 15th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5215344109792888358,2,1976
+A general method for approximation based on the method of multipliers,DP BERTSEKAS,Proc. of Thirteenth Annual Allerton Conf. on Circuit and System Theory,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4608616889131709348,2,1975
+Parallel and distributed computation: numerical methods (Partial solutions manual),"D Bertsekas, J Tsitsiklis",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8797275907529736761,1,2015
+Stabilization of stochastic iterative methods for singular and nearly singular linear systems,"M Wang, DP Bertsekas","Lab. for Information and Decision Systems Report LIDS-P-2878, MIT, Cambridge …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11808296016840706015,1,2011
+Williams-Baird counterexample for Q-factor asynchronous policy iteration,DP Bertsekas,online at http://web. mit. edu/dimitrib/www/Williams-Baird-Counterexample. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10024428403785237169,1,2010
+Lagrange multipliers with optimal sensitivity properties in constrained optimization,DP Bertsekas,"Large-Scale Nonlinear Optimization, 15-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5599311599845708549,1,2006
+"6.253 Convex Analysis and Optimization, Spring 2004",D Bertsekas,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18257341421268835497,1,2004
+Finite-state Average Cost Stochastic Games with Compact Constraint Sets and a Recurrence Condition,"SD Patek, DP Bertsekas",SIAM Journal on Control and Optimization,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11832246169959051604,1,1998
+Nonlinear Programming,HD Sherali,"Interfaces 27 (3), 111-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11868369362212224783,1,1997
+Gradient Convergence In Gradient Methods With Errors,"DP Bertsekas, JN Tsitsiklis",SIAM J. Optim,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=483200304191760236,1,1997
+Dynamic programming and optimal control,M Caramanis,"Interfaces 26 (2), 113-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9201553608885201627,1,1996
+A value iteration method for the average cost dynamic programming problem,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11264923923144328425,1,1995
+Intelligent optimal control,M Athans,"Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6597384862028655814,1,1995
+A hybrid incremental gradient method for least squares problems,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7948144544677643736,1,1994
+A conflict sense routing protocol and its performance for hypercubes,"EA Varvarigos, DP Bertsekas","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18379253437133219094,1,1992
+Seti peredači dannych,"D Bertsekas, R Gallager",Mir,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9453324357270039757,1,1989
+Relaxation method for linear programs with side constraints,"P Tseng, DP Bertsekas","Laboratory for Information and Decision Syustems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9588611936941785862,1,1987
+A Unified Framework for Primal Dual Methods,DP Bertsekas,"Math. Programming 32, 125-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17438087705881795233,1,1985
+"Conditional Probability, Total Probability Theorem and Bayes’ Rule",B Chen,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11508710675655687080,1,0
+Multiagent Rollout Algorithms and Reinforcement Learning,D Bertsekas,arXiv preprint arXiv:1910.00120,,0,2019
+The Bajulaz cycle: A two-chamber internal combustion engine with increased thermal efficiency,"E Crisostomi, R Shorten, S Stüdli, F Wirth, S Acha, TC Green, N Shah, ...",Electric and Plug-in Hybrid Vehicle Networks: Optimization and Control 2 (1 …,,0,2018
+Distributed reactive power sharing control for microgrids with event-triggered communication,"F Guo, C Wen, YD Song, M Yazdanian, A Mehrizi-Sani, PD Christofides, ...",Distributed Control and Optimization Technologies in Smart Grid Systems 5 (6 …,,0,2018
+Activity-based costing in public sector,"A Khan, PR Aguila Jr, JE Petersen, JE Petersen, DR Strachota, ...",Cost and Optimization in Government: An Introduction to Cost Accounting …,,0,2017
+Erratum:‘Preparation and dielectric properties of silver@ poly (vinyl pyrrolidone)/poly (vinylidene fluoride) composites’,MN Lett,"Micro & Nano Letters 11 (12), 904-904",,0,2016
+Leader-following consensus of second-order agents with multiple time-varying delays,"Z Li, D Zhisheng, A Abdessameud, A Tayebi, R Agaev, P Chebotarev, ...",Cooperative Control of Multi-Agent Systems: A Consensus Region Approach 54 …,,0,2015
+"Urbana, Illinois",DP Bertsekas,Dynamic Programming and Its Applications: Proceedings of the International …,,0,2014
+"Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization",DP Bertsekas,"Optimization for Machine Learning, Neural Information Processing Series, 85-119",,0,2014
+Algorithms for Learning and Decision Making,DP Bertsekas,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,2013
+Distributed Asynchronous Computation of Fixed Points and Applications in Dynamic Programming,DP Bertsekas,,,0,2013
+The Auction Algorithm for Assignment,DP Bertsekas,New Trends in Systems Theory: Proceedings of the Università di Genova-The …,,0,2013
+Understanding carrier ethernet throughput.,"MO Eyinagho, SO Falaki, M Jonsson, K Kunert, A Kallerdahl, V Mehta, ...","Research Journal of Information Technology 10 (1), 105-110",,0,2013
+Separable Convex Cost Network Flow,"DP Bertsekas, LC Polymenakos, P Tseng","Network Optimization 450, 103",,0,2012
+LECTURE SLIDES ON,DP BERTSEKAS,,,0,2012
+Monte Carlo Linear Algebra: A Review and Recent Results,DP Bertsekas,,,0,2012
+"Special Issue on Large Scale Optimization: Analysis, Algorithms and Applications Preface","DP Bertsekas, ZQ Luo","MATHEMATICAL PROGRAMMING 129 (2), 159-162",,0,2011
+Pathologies of Approximate Policy Iteration in Dynamic Programming,DP Bertsekas,,,0,2011
+New Exact and Approximate Policy Iteration Methods in Dynamic Programming,DP Bertsekas,,,0,2011
+"6.231 Dynamic Programming and Stochastic Control, Fall 2011",D Bertsekas,,,0,2011
+Optimistic Policy Iteration and Q-learning in Dynamic Programming,DP Bertsekas,,,0,2010
+Q-Learning and Enhanced Policy Iteration in Discounted Dynamic Programming (Revised),"DP Bertsekas, Y Huizhen",,,0,2010
+2009 Index IEEE Transactions on Automatic Control Vol. 54,"A Abate, A Abdessameud, M Abe, EH Abed, P Afshar, SK Agrawal, ...","IEEE Transactions on Automatic Control 54 (12), 2923",,0,2009
+A unified framework for temporal difference methods,DP Bertsekas,2009 IEEE Symposium on Adaptive Dynamic Programming and Reinforcement …,,0,2009
+Neuro-Dynamic Programming: NDP,DP Bertsekas,"Encyclopedia of Optimization, 2555-2560",,0,2009
+Polyhedral Approximations in Convex Optimization,DP Bertsekas,,,0,2009
+LECTURE SLIDES ON DYNAMIC PROGRAMMING,DP BERTSEKAS,,,0,2008
+Efficient Discriminative Training Method for Structured Predictions,"H Yu, DP Bertsekas, J Rousu",,,0,2008
+2007 Index IEEE Transactions on Automatic Control Vol. 52,"OM Aamo, CT Abdallah, K Abidi, JA Acosta, AG Aghdam, JC Aguero, ...","IEEE Transactions on Automatic Control 52 (12), 2397",,0,2007
+In this issue-Technically,"B Ding, B Huang","IEEE Transactions on Automatic Control 52 (7), 1356-1356",,0,2007
+Solution of large systems of equations using approximate dynamic programming methods,"H Yu, DP Bertsekas",[Massachusetts Institute of Technology],,0,2007
+Parallel and Distributed Computation: Nu-Merical Methods.,"Y Yu, R Annavajjala, PC Cosman, LB Milstein, CG Lopes, AH Sayed, ...","Information Technology Journal 12 (12), 292-305",,0,2007
+On the Approximate Solution of POMDP and the Near-Optimality of Finite-State Controllers,"HJ Yu, D Bertsekas",,,0,2006
+凸分析与优化,DP Bertsekas,清华大学出版社有限公司,,0,2006
+"6.041/6.431 Probabilistic Systems Analysis and Applied Probability, Spring 2005","D Bertsekas, J Tsitsiklis, M Médard",,,0,2005
+Athena Scientific Post Office Box 805 NH 03061-0805 USA,DP Bertsekas,,,0,2005
+Distributed path reservation algorithms for multiplexed all-optical interconnection networks.,"A Abid, FM Abbou, HT Ewe, T Battestilli, D Bertsekas, R Gallager, ...","Journal of Applied Sciences 7 (20), pp: 510-pp: 510",,0,2002
+"21L. 448/21W. 739J Darwin and Design, Fall 2002",J Paradis,,,0,2002
+"6.041/6.431 Probabilistic Systems Analysis and Applied Probability, Fall 2002","M Medard, JN Tsitsiklis, DP Bertsekas, A Faycal",,,0,2002
+""" Massachusetts Institute of Technology, Rm. 35-210","A Nedić, DP Bertsekas, VS Borkar",Inherently Parallel Algorithms in Feasibility and Optimization and their …,,0,2001
+"Dynamic Programming and Optimal Control, Part I",DP Bertsekas,"Book reviews 36 (637), 640",,0,2000
+Neuro-Dynamic Programming and Rollout Algorithms. An Overview,DP Bertsekas,"IEEE INTERNATIONAL SYMPOSIUM ON INFORMATION THEORY, 417-417",,0,2000
+Network Optimization: Continuous and Discrete Models,HD Sherali,"Interfaces 28 (6), 73-75",,0,1998
+AFOSR/NM,"DA Castanon, DA Logan, DP Bertsekas, SD Patek, N Glassman",,,0,1998
+Planning and Scheduling: Dynamic Assignment and Scheduling with Contingencies,"DA Castanon, DA Logan, DP Bertsekas, SD Patek",ALPHATECH INC BURLINGTON MA,,0,1998
+Channel allocation and admission control in cellular communications networks,DA Papaioannou,Massachusetts Institute of Technology,,0,1998
+"1 Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Room 35-210, Cambridge, MA 02139 2 IBM TJ Watson Research Center, Room 23 …","DP Bertsekas, LC Polymenakos, P Tseng","Network Optimization 450, 103",,0,1997
+A note on the robust computation of rollout policies,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",,0,1997
+DIFFERENTIAL TRAINING OF1 ROLLOUT POLICIES,DP Bertsekas,"Proc. ofthe 35thAllertonConferenceonCommunication, Control, andComputing …",,0,1997
+Play selection in football: a case study in neuro-dynamic programming,"SD Patek, DP Bertsekas","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1996
+Neuro-dynamic programming,"JN Bertsekas, Dimitri P, Tsitsiklis",AICHE SYMPOSIUM SERIES,,0,1996
+AN ε-RELAXATION METHOD FOR SEPARABLE CONVEX COST NETWORK FLOW PROBLEMS1,"DP Bertsekas, LC Polymenakos, P Tseng",SIAM J. on Optimization,,0,1995
+J. Rajasekera,"S Kabadi, V Kaibel, N Kato, D Kaufman, W Kern, LG Khachiyan, S Kim, ...","Mathematical Programming 69, 351-353",,0,1995
+Partial sorting algorithms for shortest path problems,DP Bertsekas,"Univ. of Michigan, Ann Arbor, MI (United States)",,0,1994
+Linear Network Optimization Algorithms and Codes,Y Zare,"Interfaces 24 (6), 123-124",,0,1994
+"The following is a list of individuals who served as referees for papers reviewed between March 1, 1993 and June 10, 1994. We apologize for possible name misspellings or omissions.","F Alizadeh, R Carter, E Einj, F AI-Khayyal, D Castanon, H Eiselt, ...","Mathematical Programming 64, 371-373",,0,1994
+"Solutions Manual, Data Networks","DP Bertsekas, RG Gallager",Prentice Hall,,0,1993
+Data Networks: Solutions Manual,"DP Bertsekas, RG Gallager",Prentice Hall,,0,1993
+Appreciation of referees' services,"AI Ali, P Armand, FD Aucamp, M Balinski, D Bertsekas, JR Birge, ...","Annals of Operations Research 47, 557-558",,0,1993
+Finding maximal benefit/maximal cardinality assignments,"DP Bertsekas, DA Castañon","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1992
+The Auction Algorithm for Assignment and Shortest Path Problems,DP Bertsekas,RICERCA OPERATIVA,,0,1992
+Shortest path algorithms: An evaluation using real road networks.,"R Shad, A Shad, D Molaei, MS Mesgari, P Adamson, E Tick, RK Ahuja, ...","Journal of Applied Sciences 9 (23), 271-298",,0,1991
+Multinode broadcast in hypercubes and rings with randomly distributed length of packets,"DP Bertsekas, EA Varvarigos","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1990
+Forward path search: a new dual coordinate ascent algorithm for shortest paths,DP Bertsekas,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1990
+RELAXATION CODES FOR LINEAR-NETWORK FLOW PROBLEMS,"DP BERTSEKAS, P TSENG","EUROPEAN JOURNAL OF OPERATIONAL RESEARCH 38 (1), 120-121",,0,1989
+OF ASYNCHRONOUS ITERATIVE ALGORITHMS,DP Bertsekas,,,0,1989
+PARTIAL MULTINODE BROADCAST FOR D-DIMENSIONAL MESHES',"EA Varvarigos, DP Bertsekas",Proceedings of the 1989 International Conference on Parallel Processing …,,0,1989
+Communication issues in parallel and distributed optimization algorithms,DP Bertsekas,"Proceedings of the 27th IEEE Conference on Decision and Control, 1448 vol. 2",,0,1988
+North-Holland,"M Akgul, EL Allgower, K Anstreicher, J Araoz, PV At, A Auslender, ...","Mathematical Programming 41, 115-117",,0,1988
+Sufficiently Informative Functions and the Minimax,"DP BERTSEKAS, I RHODES","Robust control, 292",,0,1987
+Mathematical Programming thanks the following individuals for graciously giving of their time and counsel to help in the reviewing of papers in 1986. K. Aaki JM Borwein BC …,"EL Allgower, DL Bricker, U Eckhardt, EJ Anderson, B Brosowski, ...","Mathematical Programming 37, 367-369",,0,1987
+Network Flows and Monotropic Optimization (RT Rockafellar),DP Bertsekas,"SIAM Review 27 (4), 585-589",,0,1985
+Fermat Days:“Mathematics for Optimization”,"JP Aubin, VF Demyanov, A Auslender, I Ekeland, E Balder, H Tuy, ...","Journal of Approximation Theory 43, 298",,0,1985
+MATHEMATICAL PROGRAMMING thanks the following individuals for graciously giving of their time and counsel to help in the reviewing of papers in 1984.,"J Abadie, HP Benson, BD Craven, P Abrahamson, A Ben-Tal, ...","Mathematical Programming 32, 118-121",,0,1985
+Distributed Asynchronous Deterministic and Stochastic Gradient Optimization Algorithms. Revision,"JN Tsitsiklis, DP Bertsekas, M Athans",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1984
+Convergence Analysis of Distributed Asynchronous Iterative Processes,DP Bertsekas,"IFAC Proceedings Volumes 17 (2), 1145-1146",,0,1984
+Convergence theories of distributed iterative processes: a survey,"JN Tsitsiklis, M Athans, DP Bertsekas","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1984
+MATHEMATICAL PROGRAMMING thanks the following individuals for graciously giving of their time and counsel to help in the reviewing of papers in 1981.,"J Abadie, JV Burke, J Elzinga, B Ahn, J Bus, M Engquist, E Allgower, ...","Mathematical Programming 29, 122-124",,0,1984
+A Model for Asynchronous Distributed Computation,DP Bertsekas,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1983
+Relaxation methods for minimum cost network flow problems,"P Tseng, DP Bertsekas","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1983
+MATHEMATICAL PROGRAMMING thanks the following individuals for graciously giving of their time and counsel to help in the reviewing of papers in 1982.,"J Abadie, RE Chapman, SC Fang, J Abbott, V Chvfital, M Farber, J Araoz, ...","Mathematical Programming 26, 117-119",,0,1983
+The editorial board of MATHEMATICAL PROGRAMMING thanks the following individuals for graciously giving of their time and counsel to help in the reviewing of papers in 1981.,"N Abdelmalek, V Chvfital, JL Farah, R Abrams, FH Clarke, J Ferland, ...","Mathematical Programming 23, 233-235",,0,1982
+A Model for Uncoordinated Distributed Computation of Fixed Points.,DP Bertsekas,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1981
+Distributed dynamic programming(for multiprocessor problem solving),DP BERTSEKAS,"Conference on Decision and Control, 20 th, and Symposium on Adaptive …",,0,1981
+Laboratory for Information and Decision Systems,DP BERTSEKAS,"Proceedings, 291",,0,1981
+Routing algorithms based on shortest paths,DP Bertsekas,1980 19th IEEE Conference on Decision and Control including the Symposium on …,,0,1980
+"MIT, USA",DP Bertsekas,"Proceedings 5, 71",,0,1980
+New algorithms for assignment and transportation problems,DP Bertsekas,"Massachusetts Institute of Technology, Laboratory for Information and …",,0,1979
+Dynamic Programming and Stochastic Control,RG Vickson,"Interfaces 8 (2), 109-111",,0,1978
+Stochastic optimal control: The discrete time case(Book),"DP BERTSEKAS, SE SHREVE","Research supported by the National Science Foundation. New York, Academic …",,0,1978
+Vector space approach to models and optimization,DP Bertsekas,"Proceedings of the IEEE 66 (1), 106-106",,0,1978
+Alternative theoretical frameworks for finite horizon discrete-time stochastic optimal control,"SE Shreve, DP Bertsekas",1977 IEEE Conference on Decision and Control including the 16th Symposium on …,,0,1977
+"Dynamic Programming and Stochastic Control. Mathematics in Science and Engineering, Vol. 125",SK Mitter,"American Scientist 65 (5), 642-642",,0,1977
+Decomposition algorithms for large-scale nonconvex optimization problems,DP Bertsekas,1976 IEEE Conference on Decision and Control including the 15th Symposium on …,,0,1976
+Numerical methods for constrained optimization,D Bertsekas,"IEEE Transactions on Automatic Control 21 (3), 435-436",,0,1976
+"Department of Electrical Engineering and Coordinated Science Laboratory University of I11inois, Urbana, Illinois 61801",DP BERTSEKAS,"Proceedings-Annual Allerton Conference on Circuit and System Theory, 192",,0,1975
+PAPER NO. WA2. 4,DP Bertsekas,"Proceedings of the 1974 IEEE Conference on Decision and Control, including …",,0,1974
+A DESCENT NUMERICAL METHOD FOR OPTIMIZATION PROBLEMS,"DP BERTSEKAS, SK MITTER",SIAM J. Cosro. Vol 11 (4),,0,1973
+On the minimax feedback control of uncertain dynamic systems(Sequential minimax feedback control of uncertain discrete time dynamic system),"DP BERTSEKAS, IB RHODES",,,0,1972
+Sufficiently informative functions and the minimax feedback control of uncertain dynamic systems(Development of sequential minimax problem and dynamic programming for solution …,"DP BERTSEKAS, IB RHODES",,,0,1971
+On the minimax reachability of target sets and target tubes(Closed-loop control of discrete time systems in presence of uncertainty),"DP BERTSEKAS, IB RHODES",,,0,1970
+Recursive state estimation for a set- membership description of uncertainty Interim report(Estimating state of linear dynamic system using noise corrupted observations with …,"DP BERTSEKAS, IB RHODES",,,0,1970
+Probability and Statistics for Engineers and Scientists.,"H Yousif, M Abdellahi, GA Barnard, T Bayes, DP Bertsekas, JN Tsitsiklis, ...","Asian Journal of Mathematics & Statistics 6 (2), 293-315",,0,1958
+"Of making many books there is no end, and much study wearies the body. Now all has been heard; here is the conclusion of the matter: Fear God and keep his commandments, for …","I Abraham, R Ahlswede, N Alon, RJ Anderson, S Arora, BI Aspvall, ...",,,0,0
+"Birnbaum, A. 255 Bobkov, SG 91 Borgwardt, K. 412 Borwein, J. 449 Boser, BE 411, 482","R Adamczak, A Agarwal, R Ahlswede, MA Aizerman, M Akcakaya, ...",,,0,0
+СЫЬЪС ЭЬ Ы Ц РЪЧЦЧЭЫ СЦ Ъ Х ЦЬ Ф ЫЭ Ъ С ЦЬ Х ЬРЧ Ы,"A Nediщc, DP Bertsekas, VS Borkarb",,,0,0
+Continuous Random Variables: Basics Reference,"B Chen, DP Bertsekas, JN Tsitsiklis",,,0,0
+"Experiments, Outcomes, Events and Random Variables: A Revisit",B Chen,,,0,0
+REVERSE AUCTION AND THE SOLUTION OF INEQUALITY,"DP BERTSEKAS, DA CASTAÑON, H TSAKNAKIS",,,0,0
+Asynchronous Multi-Agent Policy Iteration in Dynamic Programming,"DP Bertsekas, H Yu",,,0,0
+LECTURE SLIDES ON NONLINEAR PROGRAMMING,DP Bertsekas,,,0,0
+Nonlinear Programming 3rd Edition Theoretical Solutions Manual,"DP Bertsekas, A Scientific",,,0,0
+Dimitri P. Bertsekas 3,"CA Floudas, PM Pardalos",,,0,0
+Convex Analysis and Optimization Chapter 3 Solutions,"DP Bertsekas, A Scientific",,,0,0
+TOPICS ON,DP Bertsekas,,,0,0
+Nonlinear Programming 2nd Edition Solutions Manual,"DP Bertsekas, A Scientific",,,0,0
+DYNAMIC PROGRAMMING AND OPTIMAL CONTROL: 4TH and EARLIER EDITIONS,"DP Bertsekas, A Scientific",,,0,0
+"These are corrections to the first and second printings of the book, and have been fixed in the third printing. Books from the 2nd or 3rd printing can be identified by the …","DP Bertsekas, JN Tsitsiklis",,,0,0
+Properties fundamentals,AW DRAKE,,,0,0
+Faculty Awards,"D Antoniadis, H Balakrishnan, D Bertsekas, S Bhatia, R Brooks, ...",,,0,0
+Review of Probability Axioms and Laws,B Chen,,,0,0
+"Continuous Random Variables: Joint PDFs, Conditioning, Expectation and Independence",B Chen,,,0,0
+Further Topics on Random Variables: Derived Distributions,B Chen,,,0,0
+"Further Topics on Random Variables: Convolution, Conditional Expectation and Variance",B Chen,,,0,0
+Further Topics on Random Variables: Covariance and Correlation,B Chen,,,0,0
+Sets and Probabilistic Models,B Chen,,,0,0
+"Continuous Random Variables: Conditioning, Expectation and Independence",B Chen,,,0,0
+Continuous Random Variables: Basics,B Chen,,,0,0
+Independence and Counting,B Chen,,,0,0
+Continuous Random Variables: Derived Distributions,B Chen,,,0,0
+Discrete Random Variables: Basics,B Chen,,,0,0
+An Efficient Discriminative Training Method for Generative Models,"H Yu, DP Bertsekas, J Rousu",,,0,0
+REPORT DOCUMENTATION PAGE READ INSTRUCTIONS,"E Gafni, DP Bertsekas, A Contract",,,0,0
+New Sampling Schemes for Simulation-Based Approximate Dynamic Programming,"DP Bertsekas, H Yu",,,0,0
+Electrical Engineering and Computer Science (6)-Research and Teaching Output of the MIT Community,"P Ho, S Dey, D Šćepanović, A Patel",,,0,0
+LIDS Technical Reports Research and Teaching Output of the MIT Community,"DP Bertsekas, S Shreve, DP Bertsekas, JN Tsitsiklis",,,0,0
+isotropic task l,"EA Varvarigos, DP Bertsekas",,,0,0
+TRAN S ON,"DP Bertsekas, GS Lauer, NR Sandell Jr, A Posbergh",,,0,0
+Laboratory for Information and Decision Systems (LIDS) Research and Teaching Output of the MIT Community,MKI Code,,,0,0
+Feature Selection and Basis Function Adaptation in Approximate Dynamic Programming,DP Bertsekas,,,0,0
+GRADIENT CONVERGENCE IN GRADIENT METHODS1,"DP Bertsekas, JN Tsitsiklis",,,0,0
+A Counterexample,DP Bertsekas,,,0,0
+A NOTE ON ERROR BOUNDS FOR1 CONVEX AND NONCONVEX PROGRAMS,DP Bertsekas,,,0,0
+Reinforcement Learning for Dynamic Channel Allocation in Cellular Telephone Systems Satinder Singh Department of Computer Science,D Bertsekas,,,0,0
+Approximation Procedures Based on the Method of,DP BERTSEKAS,,,0,0
+if FOR NETWORK FLOW AND OTHER PROBLEMS.,"P TSENG, DP BERTSEKAS, JN TSITSIKLIS",,,0,0
+Schemes With or Without Bufferingi,"EA Varvarigos, DP Bertsekas",,,0,0
+Synchronous and Asynchronous Stochastic Control* to a Terminal State,"DP Bertsekas, JN Tsitsiklis",,,0,0

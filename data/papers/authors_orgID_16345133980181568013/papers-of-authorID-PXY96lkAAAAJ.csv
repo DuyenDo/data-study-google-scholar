@@ -1,0 +1,209 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+"Software Abstractions: logic, language, and analysis",D Jackson,MIT press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15860016633654622159,8735493817903384172",1503,2012
+Alloy: a lightweight object modelling notation,D Jackson,"ACM Transactions on Software Engineering and Methodology (TOSEM) 11 (2), 256-290",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14160941849029841655,1438,2002
+Software Abstractions: Logic,D Jackson,"Language, and Analysis. MIT press 2012",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10328119118787276008,1060,2006
+Kodkod: A relational model finder,"E Torlak, D Jackson",International Conference on Tools and Algorithms for the Construction and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10803141810583922138,499,2007
+Using dependency models to manage complex software architecture,"N Sangal, E Jordan, V Sinha, D Jackson","ACM Sigplan Notices 40 (10), 167-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8476516736055917281,461,2005
+Alcoa: the alloy constraint analyzer,"D Jackson, I Schechter, H Shlyahter",Proceedings of the 22nd international conference on Software engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16901104372645917383,403,2000
+Automating first-order relational logic,D Jackson,"ACM SIGSOFT Software Engineering Notes 25 (6), 130-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12657795723367023869,274,2000
+Finding bugs with a constraint solver,"D Jackson, M Vaziri","ACM SIGSOFT Software Engineering Notes 25 (5), 14-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18047091623231834714,270,2000
+Semantic Diff: A Tool for Summarizing the Effects of Modifications.,"D Jackson, DA Ladd","ICSM 94, 243-252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8673710600807619302,219,1994
+A micromodularity mechanism,"D Jackson, I Shlyakhter, M Sridharan","ACM SIGSOFT Software Engineering Notes 26 (5), 62-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8239483971312951285,206,2001
+Lackwit: A program understanding tool based on type inference,"R O'Callahan, D Jackson",In Proceedings of the 19th International Conference on Software Engineering,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8200758675013616168,201,1997
+Lightweight formal methods,"D Jackson, J Wing","FME 2001: Formal Methods for Increasing Software Productivity, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5490098740306419824,198,1996
+Elements of style: Analyzing a software design feature with a counterexample detector,"D Jackson, CA Damon","IEEE Transactions on software engineering 22 (7), 484-495",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17904652507984147778,195,1996
+Analysis of PVT data: constraints on the thermoelastic properties of high-pressure minerals,"I Jackson, SM Rigden","Physics of the earth and planetary interiors 96 (2-3), 85-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16416852917409572473,194,1996
+A new model of program dependences for reverse engineering,"D Jackson, EJ Rollins","ACM SIGSOFT Software Engineering Notes 19 (5), 2-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9383829444249245599,164,1994
+Software analysis: A roadmap,"D Jackson, M Rinard","Proceedings of the Conference on the Future of Software Engineering, 133-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12261245436967400057,151,2000
+Lightweight extraction of object models from bytecode,"D Jackson, A Waingold","IEEE Transactions on Software Engineering 27 (2), 156-169",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14356761908866747136,147,2001
+Structuring Z specifications with views,D Jackson,"ACM Transactions on Software Engineering and Methodology (TOSEM) 4 (4), 365-389",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=603119213332886981,142,1995
+A direct path to dependable software,D Jackson,Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12239388831089492361,140,2009
+Aspect: Detecting bugs with abstract dependences,D Jackson,"ACM Transactions on Software Engineering and Methodology (TOSEM) 4 (2), 109-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15891432606685978696,114,1995
+"Some shortcomings of ocl, the object constraint language of uml.","M Vaziri, D Jackson","TOOLS (34), 555-562",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11069238841760974207,105,2000
+Modular verification of code with SAT,"G Dennis, FSH Chang, D Jackson",Proceedings of the 2006 international symposium on Software testing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12778877195215967505,103,2006
+Micromodels of software: Lightweight modelling and analysis with Alloy,D Jackson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4380749321016688179,99,2002
+Inferring specifications to detect errors in code,"M Taghdiri, D Jackson","Automated Software Engineering 14 (1), 87-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10919030424418543086,88,2007
+Finding minimal unsatisfiable cores of declarative specifications,"E Torlak, FSH Chang, D Jackson","International Symposium on Formal Methods, 326-341",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6163057300495226840,87,2008
+Software assurance by bounded exhaustive testing,"K Sullivan, J Yang, D Coppit, S Khurshid, D Jackson","ACM SIGSOFT Software Engineering Notes 29 (4), 133-142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11224125582287736748,85,2004
+An analyzable annotation language,"S Khurshid, D Marinov, D Jackson","ACM SIGPLAN Notices 37 (11), 231-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2833729385194615067,82,2002
+Debugging overconstrained declarative models using unsatisfiable cores,"I Shlyakhter, R Seater, D Jackson, M Sridharan, M Taghdiri","18th IEEE International Conference on Automated Software Engineering, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8472917922414287607,81,2003
+Formal modeling and analysis of a flash filesystem in Alloy,"E Kang, D Jackson","International Conference on Abstract State Machines, B and Z, 294-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15459188829003234848,79,2008
+Chopping: A generalization of slicing,"D Jackson, EJ Rollins",CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16565371996260766526,78,1994
+Problem decomposition for reuse,"D Jackson, M Jackson","Software Engineering Journal 11 (1), 19-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9044873356539839110,71,1996
+Requirement progression in problem frames: deriving specifications from requirements,"R Seater, D Jackson, R Gheyi","Requirements Engineering 12 (2), 77-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5253472037932268289,70,2007
+Checking properties of heap-manipulating procedures with a constraint solver,"M Vaziri, D Jackson",International Conference on Tools and Algorithms for the Construction and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1556405703606311846,66,2003
+Dependable software by design,D Jackson,"Scientific American 294 (6), 68-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5325091887337528292,63,2006
+Abstract model checking of infinite specifications,D Jackson,"International Symposium of Formal Methods Europe, 519-531",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14954903582173084625,62,1994
+Exploring the design of an intentional naming scheme with an automatic constraint analyzer,"S Khurshid, D Jackson",Proceedings ASE 2000. Fifteenth IEEE International Conference on Automated …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13524207236824914526,61,2000
+Alloy*: a general-purpose higher-order relational constraint solver,"A Milicevic, JP Near, E Kang, D Jackson",Proceedings of the 37th International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2300162954934285237,59,2015
+Alloy 3.0 reference manual,D Jackson,Software Design Group,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1951840615587219480,59,2004
+A lightweight formal analysis of a multicast key management scheme,"M Taghdiri, D Jackson",International Conference on Formal Techniques for Networked and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15162942992446012787,58,2003
+Unifying execution of imperative and declarative code,"A Milicevic, D Rayside, K Yessenov, D Jackson","2011 33rd International Conference on Software Engineering (ICSE), 511-520",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1272021242741558352,51,2011
+A type system for object models,"J Edwards, D Jackson, E Torlak","ACM SIGSOFT Software Engineering Notes 29 (6), 189-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7944365754374959862,51,2004
+Lightweight formal methods,D Jackson,"International Symposium of Formal Methods Europe, 1-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4144783518233739154,50,2001
+"A comparison of object modelling notations: Alloy, uml and z",D Jackson,Unpublished manuscript. August,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5583484955233163325,50,1999
+Formal methods light,"CB Jones, D Jackson, J Wing","Computer, 20-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15418388323620354473,48,1996
+A case for efficient solution enumeration,"S Khurshid, D Marinov, I Shlyakhter, D Jackson",International Conference on Theory and Applications of Satisfiability …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17139514562469149961,47,2003
+RBAC schema verification using lightweight formal model and constraint analysis,"J Zao, H Wee, J Chu, D Jackson",Submitted to SACMAT,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5945187938315555877,46,2003
+Isomorph-free model enumeration: a new method for checking relational specifications,"D Jackson, S Jha, CA Damon","ACM Transactions on Programming Languages and Systems (TOPLAS) 20 (2), 302-343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3540043845371386922,46,1998
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years.,PJ Denning,"Communications of the ACM 60 (12), 20-23","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15305032795146851643,7728777708045669405,13916404685410959892,10869433795188372592",42,2017
+Alloy: A logical modelling language,D Jackson,"ZB 2651, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9437301299080414803,40,2003
+Alloy: A new technology for software modelling,D Jackson,Proceedings of the 8th International Conference on Tools and Algorithms for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10971279429451735253,40,2002
+Bounded verification of voting software,"G Dennis, K Yessenov, D Jackson","Working Conference on Verified Software: Theories, Tools, and Experiments …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4618996998961874307,39,2008
+A dynamic analysis for revealing object ownership and sharing,"D Rayside, L Mendel, D Jackson",Proceedings of the 2006 international workshop on Dynamic systems analysis …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3384687569915920518,38,2006
+Automating commutativity analysis at the design level,"G Dennis, R Seater, D Rayside, D Jackson","ACM SIGSOFT Software Engineering Notes 29 (4), 165-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11046011398719637187,37,2004
+What's wrong with git?: a conceptual design analysis,"S Perez De Rosso, D Jackson","Proceedings of the 2013 ACM international symposium on New ideas, new …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=999848452741565464,36,2013
+Lightweight analysis of object interactions,"D Jackson, A Fekete","International Symposium on Theoretical Aspects of Computer Software, 492-513",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7206056587063991803,36,2001
+COM revisited: tool-assisted modelling of an architectural framework,"D Jackson, K Sullivan","ACM SIGSOFT Software Engineering Notes 25 (6), 149-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3193170236922611136,36,2000
+Rubicon: bounded verification of web applications,"JP Near, D Jackson",Proceedings of the ACM SIGSOFT 20th International Symposium on the …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5379916016420813100,35,2012
+"The guided improvement algorithm for exact, general-purpose, many-objective combinatorial optimization","D Jackson, H Estler, D Rayside",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=920843701035651813,35,2009
+Relational analysis of algebraic datatypes,"V Kuncak, D Jackson","ACM SIGSOFT software engineering notes 30 (5), 207-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17906701965763141128,35,2005
+Nitpick: A checkable specification language,D Jackson,"Proc. First ACM SIGSOFT Workshop on Formal Methods in Software Practice, 60-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1558012096286592107,35,1996
+Model-based security analysis of a water treatment system,"E Kang, S Adepu, D Jackson, AP Mathur",Proceedings of the 2nd International Workshop on Software Engineering for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12859643461539562881,32,2016
+Aspect: an economical bug-detector,D Jackson,"[1991 Proceedings] 13th International Conference on Software Engineering, 13-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10737142607521494783,32,1991
+Problem frame transformations: deriving specifications from requirements,"R Seater, D Jackson",Proceedings of the 2006 international workshop on Advances and applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18151977392818598632,31,2006
+Symbolic model checking of declarative relational models,"FSH Chang, D Jackson",Proceedings of the 28th international conference on Software engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5625159575629342372,28,2006
+"Software Abstractions: Logic, Language, and Analysis, revised edn",D Jackson,MIT press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5420271686970402259,27,2012
+Detection of design flaws in the android permission protocol through bounded verification,"H Bagheri, E Kang, S Malek, D Jackson","International Symposium on Formal Methods, 73-89",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5068330203377108291,26,2015
+Agile specifications,"D Rayside, A Milicevic, KT Yessenov, D Jackson",Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6663069370523843769,25,2009
+Object models as heap invariants,D Jackson,"Programming methodology, 247-268",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7545439089178673748,25,2003
+COM revisited: Tool-assisted modelling and analysis of complex software structures,"D Jackson, K Sullivan",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13642379639878980251,25,2000
+An intermediate design language and its analysis,D Jackson,"ACM SIGSOFT Software Engineering Notes 23 (6), 121-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12183068854072652262,25,1998
+Lightweight extraction of syntactic specifications,"M Taghdiri, R Seater, D Jackson",Proceedings of the 14th ACM SIGSOFT international symposium on Foundations …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14890951878677770058,24,2006
+Requirement progression in problem frames applied to a proton therapy system,"R Seater, D Jackson","14th IEEE International Requirements Engineering Conference (RE'06), 169-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6660859920786175308,24,2006
+A nitpick analysis of mobile IPv6,"D Jackson, YC Ng, J Wing","Formal Aspects of Computing 11 (6), 591-615",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18060205492614881608,24,1999
+Faster checking of software specifications by eliminating isomorphs,"D Jackson, S Jha, CA Damon",Proceedings of the 23rd ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6518540665485470790,24,1996
+Abstraction mechanisms for pictorial slicing,"D Jackson, EJ Rollins","Proceedings 1994 IEEE 3rd Workshop on Program Comprehension-WPC'94, 82-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1993803677799654649,24,1994
+An imperative extension to Alloy,"JP Near, D Jackson","International Conference on Abstract State Machines, Alloy, B and Z, 118-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12899651363012647827,23,2010
+Nitpick: A Checker for Software Specifications: Reference Manual,"D Jackson, C Damon",Carnegie-Mellon University. Department of Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13063419792592408558,23,1996
+The cmu master of software engineering core curriculum,"D Garlan, A Brown, D Jackson, J Tomayko, J Wing","Conference on Software Engineering Education, 65-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18249533881763467085,21,1995
+Finding security bugs in web applications using a catalog of access control patterns,"JP Near, D Jackson",Proceedings of the 38th International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10229660223746886215,20,2016
+Towards a theory of conceptual design for software,D Jackson,"2015 ACM International Symposium on New Ideas, New Paradigms, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812521973589194220,19,2015
+"Model-based, event-driven programming paradigm for interactive web applications","A Milicevic, D Jackson, M Gligoric, D Marinov","Proceedings of the 2013 ACM international symposium on New ideas, new …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7387641374832374561,19,2013
+Equality and hashing for (almost) free: Generating implementations from abstraction functions,"D Rayside, Z Benjamin, R Singh, JP Near, A Milicevic, D Jackson","2009 IEEE 31st International Conference on Software Engineering, 342-352",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3053950059847927559,19,2009
+Exploiting subformula sharing in automatic analysis of quantified formulas,"I Shlyakhter, M Sridharan, R Seater, D Jackson",In Proc. 6th International Conference on Theory and Applications of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6575549538102464415,19,2003
+Module dependences in software design,D Jackson,International Workshop on Radical Innovations of Software and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8539433481766119774,18,2002
+Aspect: A formal specification language for detecting bugs,D Jackson,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12426509985505464697,18,1992
+Redesigning air traffic control: An exercise in software design,"D Jackson, J Chapin","Ieee software 17 (3), 63-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3765354249016786235,17,2000
+Efficient search as a means of executing specifications,"CA Damon, D Jackson",International Workshop on Tools and Algorithms for the Construction and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5037001240756163086,17,1996
+Derailer: interactive security analysis for web applications,"JP Near, D Jackson",Proceedings of the 29th ACM/IEEE international conference on Automated …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16469818080986635144,16,2014
+A lightweight code analysis and its role in evaluation of a dependability case,"JP Near, A Milicevic, E Kang, D Jackson","Proceedings of the 33rd International Conference on Software Engineering, 31-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3666692379634349692,16,2011
+Dependability arguments with trusted bases,"E Kang, D Jackson","2010 18th IEEE International Requirements Engineering Conference, 262-271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12679316974584344368,16,2010
+Automatic visualization of relational logic models,"D Rayside, F Chang, G Dennis, R Seater, D Jackson",Electronic Communications of the EASST 7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1927821855694811965,16,2007
+Knowledge flow analysis for security protocols,"E Torlak, M Van Dijk, B Gassend, D Jackson, S Devadas",arXiv preprint cs/0605109,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17402852095684138370,16,2006
+Checking relational specifications with binary decision diagrams,"CA Damon, D Jackson, S Jha","ACM SIGSOFT Software Engineering Notes 21 (6), 70-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16862305512654239233,16,1996
+Semi-executable specifications,"D Jackson, CA Damon","Technical Report CMU-CS-95-216, School of Computer Science, Carnegie Mellon …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11588492325598786951,16,1995
+Detecting shared representations using type inference,"R O'Callahan, D Jackson","School of Computer Science, Carnegie Mellon University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4772213112174854906,16,1995
+Abstract analysis with aspect,D Jackson,"ACM SIGSOFT Software Engineering Notes 18 (3), 19-27",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5398814179450017233,16,1993
+Programming with enumerable sets of structures,"I Kuraj, V Kuncak, D Jackson","Acm Sigplan Notices 50 (10), 37-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4747918435884658330,15,2015
+Faster constraint solving with subtypes,"J Edwards, D Jackson, E Torlak, V Yeung","ACM SIGSOFT Software Engineering Notes 29 (4), 232-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5748245115838336528,15,2004
+"Purposes, concepts, misfits, and a redesign of git","D Rosso, S Perez","ACM SIGPLAN Notices 51 (10), 292-310",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5390102340570145865,14,2016
+An analysis and visualization for revealing object sharing,"D Rayside, L Mendel, R Seater, D Jackson","Proceedings of the 2005 OOPSLA workshop on Eclipse technology eXchange, 11-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17911615737854301624,14,2005
+Using dependency models to manage software architecture,"N Sangal, E Jordan, V Sinha, D Jackson",Companion to the 20th annual ACM SIGPLAN conference on Object-oriented …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1547997715979939042,14,2005
+Tool for error detection in software using aspect specification,DN Jackson,"US Patent 5,423,027",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11451004090432699715,14,1995
+Multi-representational security analysis,"E Kang, A Milicevic, D Jackson",Proceedings of the 2016 24th ACM SIGSOFT International Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17313873663120488359,13,2016
+Preventing arithmetic overflows in Alloy,"A Milicevic, D Jackson","Science of Computer Programming 94, 203-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7629077829703438369,13,2014
+Separation of concerns for dependable software design,"D Jackson, E Kang",Proceedings of the FSE/SDP workshop on Future of software engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14964362377635042702,13,2010
+Designing and analyzing a flash file system with Alloy.,"E Kang, D Jackson","Int. J. Software and Informatics 3 (2-3), 129-148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12850468822599179412,13,2009
+Software abstraction (revised edition),D Jackson,The MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3058094949201020169,12,2012
+The design of a relational engine,"E Torlak, D Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1762621511286392046,12,2006
+Critical feature analysis of a radiotherapy machine,"A Rae, D Jackson, P Ramanan, J Flanz, D Leyman","International Conference on Computer Safety, Reliability, and Security, 221-234",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=865874027066154681,12,2003
+Enforcing design constraints with object logic,D Jackson,"International Static Analysis Symposium, 1-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11735312195157405139,12,2000
+Rby—An Embedding of Alloy in Ruby,"A Milicevic, I Efrati, D Jackson","International Conference on Abstract State Machines, Alloy, B, TLA, VDM, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17977207580018898023,11,2014
+Separating concerns in requirements analysis: An example,"D Jackson, M Jackson","Rigorous Development of Complex Fault-Tolerant Systems, 210-225",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8270722464682969278,11,2006
+Boolean compilation of relational specifications,D Jackson,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10956495258966863345,11,1998
+Designing minimal effective normative systems with the help of lightweight formal methods,"J Hao, E Kang, J Sun, D Jackson",Proceedings of the 2016 24th ACM SIGSOFT International Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1844879567890645531,10,2016
+Conceptual design of software: A research agenda,D Jackson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13085382470536265478,10,2013
+Exploiting symmetry in the model checking of relational specifications,D Jackson,CARNEGIE-MELLON UNIV PITTSBURGH PA SCHOOL OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13142904238693721018,10,1994
+Object spreadsheets: a new computational model for end-user development of data-centric web applications,"RM McCutchen, S Itzhaky, D Jackson",Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6000608829751361171,9,2016
+A new approach to teaching programming,"D Jackson, R Miller",Cambridge 77,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15563592332524989482,9,2009
+Practical Program Understanding with Type Inference.,"R O'Callahan, D Jackson",CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11150723717516961375,9,1996
+Composing Data and Process Descriptions in the Design of Software Systems.,D Jackson,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10066910619655055953,9,1988
+A formal approach for detection of security flaws in the android permission system,"H Bagheri, E Kang, S Malek, D Jackson","Formal Aspects of Computing 30 (5), 525-544",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10599038082942846011,8,2018
+Property-part diagrams: A dependence notation for software systems,"D Jackson, E Kang",Institute of Electrical and Electronics Engineers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17390142237509497433,8,2009
+The future of software analysis,"D Jackson, M Rinard","The Future of Software Engineering. ACM, New York 295",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788026329042756792,8,2000
+Adaptive defending strategy for smart grid attacks,"J Hao, E Kang, D Jackson, J Sun","Proceedings of the 2nd Workshop on Smart Energy Grid Security, 23-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5021962434400346507,7,2014
+Automatic Analysis of Architectural Style,D Jackson,Unpublished manuscript. August,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8741801782321484561,7,1997
+Do you really need formal requirements?,"B Lawrence, D Jackson","IEEE Software 13 (2), 20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12350584721781111537,7,1996
+Synthesizing iterators from abstraction functions,"D Rayside, V Montaghami, F Leung, A Yuen, K Xu, D Jackson","ACM SIGPLAN Notices 48 (3), 31-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9946801367584974000,6,2012
+Critical feature analysis of a radiotherapy machine,"A Rae, D Jackson, P Ramanan, J Flanz, D Leyman","Reliability Engineering & System Safety 89 (1), 48-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12706244719450041441,6,2005
+Automated extraction of abstract object models,AL Waingold,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7598780567471158180,6,2001
+Alloy*: a higher-order relational constraint solver,"A Milicevic, JP Near, E Kang, D Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12149892980070198554,5,2014
+Analyzing distributed algorithms with first-order logic,"I Shlyakhter, M Sridharan, D Jackson",submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7907666733529551404,5,2002
+Symbolic execution for (almost) free: Hijacking an existing implementation to perform symbolic execution,"JP Near, D Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=403316240700428236,4,2014
+Micromodels of software,D Jackson,"NATO SCIENCE SERIES SUB SERIES III COMPUTER AND SYSTEMS SCIENCES 191, 351-384",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7196959601983550934,4,2003
+Search-based energy testing of Android,"R Jabbarvand, JW Lin, S Malek",Proceedings of the 41st International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5430875766696384020,3,2019
+Simplifying Air Traffic Control: An Excercise in Software Design,"D Jackson, J Chapin",Submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10365127935596828403,3,1999
+Defiance Mining NL,"DG Jackson, CG Mines",Annual Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1554261510954619983,3,1999
+"Counterpoint: Requirements need form, maybe formality",D Jackson,"IEEE Annals of the History of Computing, 21-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14309107829528892645,3,1996
+Composable Software Systems,"D Garlan, D Jackson, M Shaw, J Wing","Computer Science, Carnegie Mellon University, Pittsburgh, PA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13180386629879075672,3,1995
+Alloy: a language and tool for exploring software designs,D Jackson,"Communications of the ACM 62 (9), 66-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7741371404356947089,2,2019
+Exploring the role of sequential computation in distributed systems: motivating a programming paradigm shift,"I Kuraj, D Jackson","Proceedings of the 2016 ACM International Symposium on New Ideas, New …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13078728232088632717,2,2016
+Initial report on Object Spreadsheets,"RM McCutchen, S Itzhaky, D Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13771853189532362187,2,2016
+抽象によるソフトウェア設計―Alloy ではじめる形式手法,D Jackson,株式会社 オーム社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7760279651694188556,2,2011
+‘Torah min ha-Shamayim’: Conflicts Between Religious Belief and Scientific Thinking,D Jackson,"Conversations 6, 44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3165652367244430479,2,2010
+Hazards of verification,D Jackson,"Haifa Verification Conference, 1-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7620492582816435334,2,2008
+Correcting a naming architecture using lightweight constraint analysis,"S Khurshid, D Jackson","Technical report, MIT Lab for Computer Science (December 1998)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17848133144157336335,2,1998
+Lackwit: Large-scale analysis of C programs using type inference,"R O'Callahan, D Jackson","Technical Report CMU-CS-96-130, Carnegie Mellon University Computer Science …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2290947987052131847,2,1996
+A Model-Based Framework for Security Configuration Analysis,"E Kang, D Jackson",Unpublished manuscript. Available at: http://people. csail. mit. edu/eskang …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=744823766886945324,2,0
+Correct or usable? the limits of traditional verification (impact paper award),"D Jackson, M Vaziri",Proceedings of the 2016 24th ACM SIGSOFT International Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4293263556080332374,1,2016
+pace,"L Jackson, DA Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11128391505155219172,1,2011
+Software For Dependable Systems,"D Jackson, M Thomas, LI Millett, T Baker","INSIGHT 11 (2), 62-63",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7720184172963915623,1,2008
+A Case for Efficient Solution Enumeration,"SKDMI Shlyakhter, D Jackson","LNCS 2919, 272-286",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18235311678998738295,1,2004
+Point-Counterpoint,"B Lawrence, D Jackson","IEEE Software 13 (2), 20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4783558942034956667,1,1996
+Abstract program dependences for reverse engineering,"D Jackson, EJ Rollins",Submitted to Second ACM SIGSOFT Symposium on Foundations of Software Engineering,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9425920646098852888,1,1994
+The Alloy modelling language and analyzer,"D Jackson, S Khurshid, I Shlyakhter, M Taghdiri, M Vaziri",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11406840479837171492,1,0
+Declarative assembly of web applications from predefined concepts,"S Perez De Rosso, D Jackson, M Archie, C Lao, BA McNamara III",Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas …,,0,2019
+Youarenowhere,"A Schneider, P Musante, A Calabi, C Shallenberg, B McElver, KF Allen, ...","Theater 46 (2), 87-115",,0,2016
+What's wrong with git?: a conceptual design,"S Perez De Rosso, D Jackson",Association for Computing Machinery (ACM),,0,2013
+Worked example of a problem from Leveson’s “Safer World”,D Jackson,,,0,2010
+Patterns for building dependable systems with trusted bases,"E Kang, D Jackson","Proceedings of the 17th Conference on Pattern Languages of Programs, 19",,0,2010
+A structure for dependability arguments,"D Jackson, E Kang","International Conference on Abstract State Machines, Alloy, B and Z, 1-1",,0,2010
+How to Define the Granularity of Properties and Functions Response,D Jackson,"COMMUNICATIONS OF THE ACM 52 (6), 9-9",,0,2009
+How to Define the Granularity of Properties and Functions,"CJ Fearnley, D JACKSON",Communications of the ACM 52 (6),,0,2009
+"6.005 Elements of Software Construction, Fall 2008","D Jackson, R Miller",,,0,2008
+Layout of (Software) Engineering Diagrams (LED 2007),"G Stapleton, P Rodgers, J Howse, J Taylor",Electronic Communications of the EASST 10,,0,2007
+Idioms of logical modelling,D Jackson,"International Conference on Graph Transformation, 14-14",,0,2006
+Lucida: An Analyzing Program Browser,"D Rayside, L Mendel, R Seater, D Jackson",,,0,2005
+Dependable software: an oxymoron?,D Jackson,"13th IEEE International Conference on Requirements Engineering (RE'05), 3",,0,2005
+Sufficient Evidence: Building Certifiably Dependable Systems,"D Jackson, L Millett","Infotech@ Aerospace, 6915",,0,2005
+Lightweight Formal Methods Applied to a Radiation Therapy Machine Component,"G Dennis, R Seater, D Rayside, D Jackson",,,0,2004
+Case Study: Railway Safety,D Jackson,,,0,2002
+"6.170 Laboratory in Software Engineering, Fall 2001","D Jackson, S Devadas",,,0,2001
+School of Engineering Faculty Personnel Record,DN Jackson,Massachusetts Institute of Technology,,0,2000
+BSOm 0J3,"D Jackson, Y Ng, JM Wing",,,0,1998
+The CMU Master of Software Engineering Core Curriculum,"AW Brown, D Garlan, D Jackson, J Tomayko, J Wing",Proceedings of the 8th Conference on Software Engineering Education,,0,1995
+Aspect: A formal specification language for detecting bugs(M. S. Thesis),D JACKSON,,,0,1992
+Systematic Program Development,"SJ Garland, DN Jackson, MT Vandevoorde, M Reinhold, KA Yelick, ...",,,0,1989
+O logike normativnyi predlozenii (on the logic of normative propositions.),"RM Bear, H Abel, R Sahinkaya, W Ackermann, W Ackermann, EM Adams, ...","Early Formal Education: Current Theory, Research, and Practice 33 (3), 1-8",,0,1968
+Incorporating MIDAS Routines into PDP-6 LISP,R Silver,,,0,1967
+Certified Control for Self-Driving Cars,"D Jackson, J DeCastro, S Kong, D Koutentakis, ALF Ping, ...",,,0,0
+Program Board,"J Atlee, J Cleland-Huang, D Damian, A Egyed, M Heimdahl, B Nuseibeh, ...",,,0,0
+Research Abstracts-2007,"RM Seater, DN Jackson",,,0,0
+Debugging Overconstrained Models,"I Shlyakhter, R Seater, M Sridharan, D Jackson",,,0,0
+Specification Coverage by Automatic Mutant Generation,"G Dennis, R Seater, D Jackson, E Torlak",,,0,0
+Research Abstracts-2007,"G Dennis, F Chang, D Jackson",,,0,0
+Generating High-Level Explanations for Property Violations,"E Kang, D Jackson",,,0,0
+Alloy: A New Object Modelling Notation,D Jackson,,,0,0
+Finding Bugs in Code using a Constraint Solver,"M Vaziri, D Jackson",,,0,0
+Case Studies in Modeling and Analysis of Software,"C Cadar, G Dennis, N Doble, D Jackson, S Khurshid, R Lee, T Leu, ...",,,0,0
+Simple Subtypes for Specification,"J Edwards, D Jackson, E Torlak",,,0,0
+Analyzing Java Code Using Function Abstraction,"M Taghdiri, D Jackson",,,0,0
+"MUTHUKRISHNAN, S. CMU-CS-95-131","G ABOWD, R ALLEN, EM ALTMANN, JR ANDERSON, JNC ARABE, ...",,,0,0
+Automatic Test Generation Using SAT,"B Al-Naffouri, D Jackson, S Khurshid, D Marinov",,,0,0
+‎,"D Jackson, M Jackson",,,0,0
+Faster Detection of Design Errors Using Symmetry,D Jackson,,,0,0
+A Lightweight Approach to Construction and Evaluation of a Dependability Case,"JP Near, A Milicevic, E Kang, D Jackson",,,0,0
+Analysis of a Radiation Therapy Control System,"D Rayside, D Jackson",,,0,0
+Combining Requirements Engineering and Program Analysis to Build System Safety Arguments for a Proton Therapy System,"RM Seater, DN Jackson",,,0,0
+ICSE-NIER 2017,"C Cadar, L Tan, E Barr, I Beschastnikh, A Carzaniga, TY Chen, ...",,,0,0
+Software Safety Research for Radiation Therapy,"G Dennis, D Jackson, D Rayside, R Seater",,,0,0
+Case Studies in Modeling and Analysis of Software,"T Nolte, M Taghdiri, D Jackson",,,0,0
+ICSE 2016,"GC Murphy, DS Rosenblum, D Batory, L Briand, L Capra, A Carzaniga, ...",,,0,0
+Software Design of Air Traffic Control Systems,"G Dennis, R Gupta, J Hansman, D Jackson, T Reynolds, M Rinard",,,0,0
+Software Safety Research for Radiotherapy,"D Jackson, M Mirvis, A Rae, P Ramanan",,,0,0
+X-0 am Committee,"J Atlee, D Berry, A Borgida, P Botella, J Bubenko, L Chung, A Davis, ...",,,0,0
+"A micromodel of a program is a tiny, abstract model that captures some crucial aspect of its functionality. To improve the reliability of software, implementations are devel …",D Jackson,,,0,0
+Research Abstracts-2007,"D Rayside, L Mendel, D Jackson",,,0,0
+10 th IWSSD Organizing Committee,"D Richardson, P Inverardi, S Fickas, U Buy, E Di Nitto, M Dwyer, ...",,,0,0
+Automatic Test Generation using SAT,"O Abdala, B Al-Naffouri, F Anwar, D Jackson, S Khurshid, D Marinov",,,0,0

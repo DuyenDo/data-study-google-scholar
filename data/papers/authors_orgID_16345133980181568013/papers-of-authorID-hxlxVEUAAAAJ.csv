@@ -1,0 +1,418 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Concurrent constraint programming,"VA Saraswat, M Rinard",Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15217647233967271313,1101,1989
+Ownership types for safe programming: Preventing data races and deadlocks,"C Boyapati, R Lee, M Rinard","ACM Sigplan Notices 37 (11), 211-230",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9591240322288012711,681,2002
+Semantic Foundations of Concurrent Constraint Programming.,"VA Saraswat, M Rinard, P Panangaden","POPL 91 (18), 333-352",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7897408899914576124,579,1991
+Compositional pointer and escape analysis for Java programs,"J Whaley, M Rinard","ACM Sigplan Notices 34 (10), 187-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1819869476397034502,504,1999
+Managing performance vs. accuracy trade-offs with loop perforation,"S Sidiroglou-Douskos, S Misailovic, H Hoffmann, M Rinard",Proceedings of the 19th ACM SIGSOFT symposium and the 13th European …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7305679451255015465,438,2011
+Enhancing Server Availability and Security Through Failure-Oblivious Computing.,"MC Rinard, C Cadar, D Dumitran, DM Roy, T Leu, WS Beebee","OSDI 4, 21-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335675129880923270,407,2004
+Automatically patching errors in deployed software,"JH Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...",Proceedings of the ACM SIGOPS 22nd symposium on Operating systems principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10615365151037003723,388,2009
+A parameterized type system for race-free Java programs,"C Boyapati, M Rinard","ACM SIGPLAN Notices 36 (11), 56-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5421341122380770451,343,2001
+Dynamic knobs for responsive power-aware computing,"H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard","ACM SIGARCH Computer Architecture News 39 (1), 199-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5483997745982146028,331,2011
+Information flow analysis of android applications in droidsafe.,"MI Gordon, D Kim, JH Perkins, L Gilham, N Nguyen, MC Rinard","NDSS 15 (201), 110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1818475481144819096,314,2015
+Automatic patch generation by learning correct code,"F Long, M Rinard","ACM SIGPLAN Notices 51 (1), 298-312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4789604225541120614,292,2016
+Taint-based directed whitebox fuzzing,"V Ganesh, T Leek, M Rinard",Proceedings of the 31st International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11470543813353249743,284,2009
+Automatic detection and repair of errors in data structures,"B Demsky, M Rinard","Acm sigplan notices 38 (11), 78-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14387570321768832421,275,2003
+Verifying quantitative reliability for programs that execute on unreliable hardware,"M Carbin, S Misailovic, MC Rinard","ACM SIGPLAN Notices 48 (10), 33-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4010622536969875171,240,2013
+Quality of service profiling,"S Misailovic, S Sidiroglou, H Hoffmann, M Rinard","2010 ACM/IEEE 32nd International Conference on Software Engineering 1, 25-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9436858249398145834,233,2010
+Purity and side effect analysis for Java programs,"A Sălcianu, M Rinard","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10030715577634329723,233,2005
+"Symbolic bounds analysis of pointers, array indices, and accessed memory regions","R Rugina, M Rinard","ACM Sigplan Notices 35 (5), 182-195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1811990731637558616,230,2000
+Staged program repair with condition synthesis,"F Long, M Rinard",Proceedings of the 2015 10th Joint Meeting on Foundations of Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1040224277978184140,228,2015
+Full functional verification of linked data structures,"K Zee, V Kuncak, M Rinard","ACM SIGPLAN Notices 43 (6), 349-361",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5679570566719859766,226,2008
+"Jade: A high-level, machine-independent language for parallel programming","MC Rinard, DJ Scales, MS Lam","Computer, 28-38","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17110956929466827071,14933170406040271003",221,1993
+An analysis of patch plausibility and correctness for generate-and-validate patch generation systems,"Z Qi, F Long, S Achour, M Rinard",Proceedings of the 2015 International Symposium on Software Testing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8746932157921548441,214,2015
+Ownership types for safe region-based memory management in real-time Java,"C Boyapati, A Salcianu, W Beebee Jr, M Rinard","ACM SIGPLAN Notices 38 (5), 324-337",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8764610322255126794,211,2003
+Pointer and escape analysis for multithreaded programs,"A Salcianu, M Rinard","ACM SIGPLAN Notices 36 (7), 12-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15252804960549685585,207,2001
+A classification system and analysis for aspect-oriented programs,"M Rinard, A Salcianu, S Bugrara","ACM SIGSOFT Software Engineering Notes 29 (6), 147-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14807886959207361664,204,2004
+"The design, implementation, and evaluation of Jade","MC Rinard, MS Lam","ACM Transactions on Programming Languages and Systems (TOPLAS) 20 (3), 483-545",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4099109737766550800,200,1998
+Credible compilation,MC Rinard,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16451255055555788014,171,2003
+Control jujutsu: On the weaknesses of fine-grained control flow integrity,"I Evans, F Long, U Otgonbaatar, H Shrobe, M Rinard, H Okhravi, ...",Proceedings of the 22nd ACM SIGSAC Conference on Computer and Communications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14170457549889787265,166,2015
+Probabilistic accuracy bounds for fault-tolerant computations that discard tasks,M Rinard,Proceedings of the 20th annual international conference on Supercomputing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2296973468583355492,161,2006
+Contextual policy enforcement in android applications with permission event graphs.,"KZ Chen, NM Johnson, V D'Silva, S Dai, K MacNamara, TR Magrino, ...","NDSS, 234",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2045633386710197432,160,2013
+Chisel: Reliability-and accuracy-aware optimization of approximate computational kernels,"S Misailovic, M Carbin, S Achour, Z Qi, MC Rinard","ACM SIGPLAN Notices 49 (10), 309-328",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8582459554718594992,159,2014
+Role analysis,"V Kuncak, P Lam, M Rinard","ACM SIGPLAN Notices 37 (1), 17-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1226006959619134193,155,2002
+Software analysis: A roadmap,"D Jackson, M Rinard","Proceedings of the Conference on the Future of Software Engineering, 133-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12261245436967400057,151,2000
+Pointer analysis for multithreaded programs,"R Rugina, M Rinard","ACM SIGPLAN Notices 34 (5), 77-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16165067198366402078,149,1999
+Parallelizing applications into silicon,"J Babb, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe",Seventh Annual IEEE Symposium on Field-Programmable Custom Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=800722346980747801,148,1999
+Inference and enforcement of data structure consistency specifications,"B Demsky, MD Ernst, PJ Guo, S McCamant, JH Perkins, M Rinard",Proceedings of the 2006 international symposium on Software testing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1517826489220034638,137,2006
+Commutativity analysis: A new analysis technique for parallelizing compilers,"MC Rinard, PC Diniz","ACM Transactions on Programming Languages and Systems (TOPLAS) 19 (6), 942-991",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3205032149772178055,137,1997
+Missing the point (er): On the effectiveness of code pointer integrity,"I Evans, S Fingeret, J Gonzalez, U Otgonbaatar, T Tang, H Shrobe, ...","2015 IEEE Symposium on Security and Privacy, 781-796",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2125315159591030621,134,2015
+Dynamic feedback: An effective technique for adaptive computing,"PC Diniz, MC Rinard","ACM SIGPLAN Notices 32 (5), 71-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9710023739072286362,131,1997
+Analysis of multithreaded programs,M Rinard,"International Static Analysis Symposium, 1-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5542304843463930928,130,2001
+"Using code perforation to improve performance, reduce energy consumption, and respond to failures","H Hoffmann, S Misailovic, S Sidiroglou, A Agarwal, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10009905844420579859,127,2009
+A dynamic technique for eliminating buffer overflow vulnerabilities (and other memory errors),"M Rinard, C Cadar, D Dumitran, DM Roy, T Leu","20th Annual Computer Security Applications Conference, 82-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10362531076877968081,125,2004
+Data structure repair using goal-directed reasoning,"B Demsky, M Rinard",Proceedings of the 27th international conference on Software engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9738279556674880776,123,2005
+Automatic parallelization of divide and conquer algorithms,"R Rugina, M Rinard","ACM SIGPLAN Notices 34 (8), 72-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16349418583469860807,115,1999
+Incrementalized pointer and escape analysis,"F Vivien, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15281474317894534736,114,2001
+Automatic error elimination by horizontal code transfer across multiple applications,"S Sidiroglou-Douskos, E Lahtinen, F Long, M Rinard","Acm Sigplan Notices 50 (6), 43-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1826490256041645683,101,2015
+An implementation of scoped memory for Real-Time Java,"WS Beebee, M Rinard","International Workshop on Embedded Software, 289-305",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8038278092270855674,100,2001
+Proving acceptability properties of relaxed nondeterministic approximate programs,"M Carbin, D Kim, S Misailovic, MC Rinard","ACM SIGPLAN Notices 47 (6), 169-180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5865207445033841710,99,2012
+Probabilistically accurate program transformations,"S Misailovic, DM Roy, MC Rinard","International Static Analysis Symposium, 316-333",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17285711572844567040,97,2011
+Coarse-grain parallel programming in Jade,"MS Lam, MC Rinard","PPOPP, 94-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4923227576021338379,95,1991
+Randomized accuracy-aware program transformations for efficient approximate computations,"ZA Zhu, S Misailovic, JA Kelner, M Rinard","ACM SIGPLAN Notices 47 (1), 441-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15918612441144914583,94,2012
+An analysis of the search spaces for generate and validate patch generation systems,"F Long, M Rinard",2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=275364147256573535,91,2016
+Commutativity analysis: A new analysis framework for parallelizing compilers,"MC Rinard, PC Diniz","ACM SIGPLAN Notices 31 (5), 54-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9799510460630312765,90,1996
+Using early phase termination to eliminate load imbalances at barrier synchronization points,MC Rinard,"ACM SIGPLAN Notices 42 (10), 369-386",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13604916107634592020,85,2007
+Acceptability-oriented computing,M Rinard,"Acm sigplan notices 38 (12), 57-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15945946683766110916,85,2003
+Memory usage verification for OO programs,"WN Chin, HH Nguyen, S Qin, M Rinard","International Static Analysis Symposium, 70-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10809362370977748026,84,2005
+"Symbolic bounds analysis of pointers, array indices, and accessed memory regions","R Rugina, MC Rinard","ACM Transactions on Programming Languages and Systems (TOPLAS) 27 (2), 185-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13763327176993527818,81,2005
+Pipa: a behavioral interface specification language for aspect,"J Zhao, M Rinard",International Conference on Fundamental Approaches to Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11281552150809252742,81,2003
+Verifying a file system implementation,"K Arkoudas, K Zee, V Kuncak, M Rinard","International Conference on Formal Engineering Methods, 373-390",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9581069989440083924,79,2004
+Automatic error finding in access-control policies,"K Jayaraman, V Ganesh, M Tripunitara, M Rinard, S Chapin",Proceedings of the 18th ACM conference on Computer and communications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15774983593146478566,77,2011
+Data representation synthesis,"P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv","ACM SIGPLAN Notices 46 (6), 38-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=104163665931360570,77,2011
+Automatic runtime error repair and containment via recovery shepherding,"F Long, S Sidiroglou-Douskos, M Rinard","ACM SIGPLAN Notices 49 (6), 227-238",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9240229532380378962,76,2014
+Detecting and escaping infinite loops with jolt,"M Carbin, S Misailovic, M Kling, MC Rinard","European Conference on Object-Oriented Programming, 609-633",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14456167093734812763,76,2011
+Lock coarsening: Eliminating lock overhead in automatically parallelized object-based programs,"PC Diniz, MC Rinard","Journal of Parallel and Distributed Computing 49 (2), 218-244","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3010891090741216368,1404490177089738865",75,1998
+Parallelizing sequential programs with statistical accuracy tests,"S Misailovic, D Kim, M Rinard","ACM Transactions on Embedded Computing Systems (TECS) 12 (2s), 88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10486148264616386263,74,2013
+An integrated proof language for imperative programs,"K Zee, V Kuncak, MC Rinard","ACM Sigplan Notices 44 (6), 338-351",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16972279789142752567,72,2009
+Role-based exploration of object-oriented programs,"B Demsky, M Rinard",Proceedings of the 24th International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16014590635939392706,71,2002
+Automatic inference of code transforms for patch generation,"F Long, P Amidon, M Rinard",Proceedings of the 2017 11th Joint Meeting on Foundations of Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1935350174020963259,70,2017
+A type system and analysis for the automatic extraction and enforcement of design information,"P Lam, M Rinard","European Conference on Object-Oriented Programming, 275-302",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2131965624795195903,69,2003
+Deciding Boolean algebra with Presburger arithmetic,"V Kuncak, HH Nguyen, M Rinard","Journal of Automated Reasoning 36 (3), 213-239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3850173373909048253,68,2006
+Generalized typestate checking for data structure consistency,"P Lam, V Kuncak, M Rinard","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=339758002300292166,67,2005
+Field constraint analysis,"T Wies, V Kuncak, P Lam, A Podelski, M Rinard","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10835918007255774774,66,2006
+Towards efficient satisfiability checking for Boolean Algebra with Presburger Arithmetic,"V Kuncak, M Rinard","International Conference on Automated Deduction, 215-230",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12464444063385488581,65,2007
+An evaluation of exhaustive testing for data structures,"D Marinov, A Andoni, D Daniliuc, S Khurshid, M Rinard","Technical Report MIT-LCS-TR-921, MIT CSAIL, Cambridge, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1128798075841716114,65,2003
+System dependence graph construction for aspect-oriented programs,"J Zhao, M Rinard",Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12280845186073992653,64,2003
+"Translating text to, merging, and optimizing graphical user interface tasks","N Kushman, R Barzilay, SRK Branavan, D Katabi, MC Rinard","US Patent 9,189,254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7688634093344891639,61,2015
+Concurrent data representation synthesis,"P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv","ACM SIGPLAN Notices 47 (6), 417-428",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6601953128958176641,61,2012
+Using first-order theorem provers in the Jahob data structure verification system,"C Bouillaguet, V Kuncak, T Wies, K Zee, M Rinard","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6811190687539255383,61,2007
+Goal-directed reasoning for specification-based data structure repair,"B Demsky, MC Rinard","IEEE Transactions on Software Engineering 32 (12), 931-951",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18282286433012483060,60,2006
+Automatic input rectification,"F Long, V Ganesh, M Carbin, S Sidiroglou, M Rinard","2012 34th International Conference on Software Engineering (ICSE), 80-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14674590284472867956,59,2012
+Automatic testing of software with structurally complex inputs,D Marinov,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=428883832023690450,59,2005
+Automatically identifying critical input regions and code in applications,"M Carbin, MC Rinard",Proceedings of the 19th international symposium on Software testing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6765635194531028514,58,2010
+An algorithm for deciding BAPA: Boolean algebra with Presburger arithmetic,"V Kuncak, HH Nguyen, M Rinard","International Conference on Automated Deduction, 260-277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9440753699909938,58,2005
+Detecting and eliminating memory leaks using cyclic memory allocation,"HH Nguyen, M Rinard","Proceedings of the 6th international symposium on Memory management, 15-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5817934944066298300,56,2007
+Modular pluggable analyses for data structure consistency,"V Kuncak, P Lam, K Zee, MC Rinard","IEEE Transactions on Software Engineering 32 (12), 988-1005",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=633109220468530435,56,2006
+Region inference for an object-oriented language,"WN Chin, F Craciun, S Qin, M Rinard","ACM SIGPLAN Notices 39 (6), 243-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13871274961528520109,56,2004
+Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives,MC Rinard,"ACM Transactions on Computer Systems (TOCS) 17 (4), 337-371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8487812286510459193,56,1999
+Pointer analysis for structured parallel programs,"R Rugina, MC Rinard","ACM Transactions on Programming Languages and Systems (TOPLAS) 25 (1), 70-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11347941982457871724,55,2003
+Synchronization transformations for parallel computing,"PC Diniz, MC Rinard","Concurrency: Practice and Experience 11 (13), 773-802",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16783952027211679900,55,1999
+Word equations with length constraints: what’s decidable?,"V Ganesh, M Minnes, A Solar-Lezama, M Rinard","Haifa Verification Conference, 209-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12827415964516550187,54,2012
+Histogram-based global load balancing in structured peer-to-peer systems,"QH Vu, BC Ooi, M Rinard, KL Tan","IEEE Transactions on Knowledge and Data Engineering 21 (4), 595-608",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8365757444802815686,54,2008
+Integrating model checking and theorem proving for relational reasoning,"K Arkoudas, S Khurshid, D Marinov, M Rinard","International Conference on Relational Methods in Computer Science, 21-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13536597773358150934,53,2003
+Data size optimizations for Java programs,"CS Ananian, M Rinard","ACM SIGPLAN Notices 38 (7), 59-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3286599560604311132,52,2003
+"The design, implementation and evaluation of Jade: a portable, implicitly parallel programming language",MC Rinard,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6838304952356028630,52,1994
+From natural language specifications to program input parsers,"T Lei, F Long, R Barzilay, M Rinard",Proceedings of the 51st Annual Meeting of the Association for Computational …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=918686151238387478,47,2013
+Sound input filter generation for integer overflow errors,"F Long, S Sidiroglou-Douskos, D Kim, M Rinard","Acm sigplan notices 49 (1), 439-452",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10420166928114042452,46,2014
+Structural subtyping of non-recursive types is decidable,"V Kuncak, M Rinard","18th Annual IEEE Symposium of Logic in Computer Science, 2003. Proceedings …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4596614011992311453,45,2003
+Patterns and statistical analysis for understanding reduced resource computing,"M Rinard, H Hoffmann, S Misailovic, S Sidiroglou","ACM Sigplan Notices 45 (10), 806-821",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13894055369769973772,44,2010
+Automatic data structure repair for self-healing systems,"B Demsky, MC Rinard",Proceedings of the 1st Workshop on Algorithms and Architectures for Self …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10569717515557984533,44,2003
+Runtime checking for program verification,"K Zee, V Kuncak, M Taylor, M Rinard","International Workshop on Runtime Verification, 202-213",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11786755049820158861,42,2007
+Interprocedural compatibility analysis for static object preallocation,"O Gheorghioiu, A Salcianu, M Rinard","ACM SIGPLAN Notices 38 (1), 273-284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13310467057976780736,40,2003
+Targeted automatic integer overflow discovery using goal-directed conditional branch enforcement,"S Sidiroglou-Douskos, E Lahtinen, N Rittenhouse, P Piselli, F Long, ...","ACM Sigplan Notices 50 (4), 473-486",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3386734552915615696,39,2015
+An overview of the Jahob analysis system: project goals and current status,"V Kuncak, M Rinard",Proceedings 20th IEEE International Parallel & Distributed Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5163350640166771254,38,2006
+Efficient object-based software transactions,"CS Ananian, M Rinard",Synchronization and Concurrency in Object-Oriented Languages (SCOOL) 27,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7210092572690146256,38,2005
+A combined pointer and purity analysis for Java programs,"A Salcianu, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16166933806758970496,38,2004
+Generalized typestate checking using set interfaces and pluggable analyses,"P Lam, V Kuncak, M Rinard","ACM SIGPLAN Notices 39 (3), 46-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17802597320719325496,38,2004
+Bolt: on-demand infinite loop escape in unmodified binaries,"M Kling, S Misailovic, M Carbin, M Rinard","ACM SIGPLAN Notices 47 (10), 431-450",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6370319431808074780,37,2012
+Write barrier removal by static analysis,"K Zee, M Rinard","ACM SIGPLAN Notices 37 (11), 191-210",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3418103300943448166,37,2002
+Heterogeneous parallel programming in Jade,"MC Rinard, DJ Scales, MS Lam",Supercomputing'92: Proceedings of the 1992 ACM/IEEE Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16974280129804170504,36,1992
+Exploring the acceptability envelope,"M Rinard, C Cadar, HH Nguyen",Companion to the 20th annual ACM SIGPLAN conference on Object-oriented …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5705487969643060930,35,2005
+Parallel synchronization-free approximate data structure construction,M Rinard,Presented as part of the 5th {USENIX} Workshop on Hot Topics in Parallelism,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13178546594233026194,34,2013
+Verification of semantic commutativity conditions and inverse operations on linked data structures,"D Kim, MC Rinard","ACM SIGPLAN Notices 46 (6), 528-541",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14904682192602512218,34,2011
+Living in the comfort zone,MC Rinard,"ACM SIGPLAN Notices 42 (10), 611-622",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17160811002525632993,33,2007
+Decision procedures for set-valued fields,"V Kuncak, M Rinard","Electronic Notes in Theoretical Computer Science 131, 51-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12934143949130728984,33,2005
+Hob: A tool for verifying data structure consistency,"P Lam, V Kuncak, M Rinard","International Conference on Compiler Construction, 237-241",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10291863419564318319,33,2005
+Crosscutting techniques in program specification and analysis,"P Lam, V Kuncak, M Rinard",Proceedings of the 4th international conference on Aspect-oriented software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12933794387840207393,32,2005
+Dancing with uncertainty,"S Misailovic, S Sidiroglou, MC Rinard",Proceedings of the 2012 ACM workshop on Relaxing synchronization for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1940044178592147829,31,2012
+Combining theorem proving with static analysis for data structure consistency,"K Zee, P Lam, V Kuncak, M Rinard",International Workshop on Software Verification and Validation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14011825629166412818,31,2004
+Mohawk: Abstraction-refinement and bound-estimation for verifying access control policies,"K Jayaraman, M Tripunitara, V Ganesh, M Rinard, S Chapin","ACM Transactions on Information and System Security (TISSEC) 15 (4), 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2184775618839695875,30,2013
+Pointer analysis for Java programs: Novel techniques and applications,AD Sălcianu,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16849005810988591203,30,2006
+Deductive runtime certification,"K Arkoudas, M Rinard","Electronic Notes in Theoretical Computer Science 113, 45-63",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8475266392200768154,30,2005
+Safe runtime downcasts with ownership types,"C Boyapati, R Lee, M Rinard","ECOOP International Workshop on Aliasing, Confinement and Ownership in …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17467971856000328014,30,2003
+Recursion unrolling for divide and conquer programs,"R Rugina, M Rinard","International Workshop on Languages and Compilers for Parallel Computing, 34-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14901626050402309118,30,2000
+Optimizations for compiling declarative models into boolean formulas,"D Marinov, S Khurshid, S Bugrara, L Zhang, M Rinard",International Conference on Theory and Applications of Satisfiability …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16480918996044598635,27,2005
+On verifying complex properties using symbolic shape analysis,"T Wies, V Kuncak, K Zee, A Podelski, M Rinard",arXiv preprint cs/0609104,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9710344621387565437,26,2006
+High-level automatic pipelining for sequential circuits,"MCV Marinescu, M Rinard","Proceedings of the 14th international symposium on Systems synthesis, 215-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15365058317821625779,26,2001
+Covert communication in mobile applications (t),"J Rubin, MI Gordon, N Nguyen, M Rinard",2015 30th IEEE/ACM International Conference on Automated Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1012321492521962369,25,2015
+Lynx: A programmatic SAT solver for the RNA-folding problem,"V Ganesh, CW O’donnell, M Soos, S Devadas, MC Rinard, ...",International Conference on Theory and Applications of Satisfiability …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1954248046639207122,25,2012
+The challenges of staying together while moving fast: An exploratory study,"J Rubin, M Rinard",2016 IEEE/ACM 38th International Conference on Software Engineering (ICSE …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12005983244930698036,24,2016
+On the theory of structural subtyping,"V Kuncak, M Rinard",arXiv preprint cs/0408015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8298816545095670813,24,2004
+Semantic foundations of Jade,"MC Rinard, MS Lam",Proceedings of the 19th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17911249959837340832,24,1992
+Verified integrity properties for safe approximate program transformations,"M Carbin, D Kim, S Misailovic, MC Rinard",Proceedings of the ACM SIGPLAN 2013 workshop on Partial evaluation and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10859431820029451203,23,2013
+On our experience with modular pluggable analyses,"P Lam, V Kuncak, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1615401721920154967,23,2004
+A type system for preventing data races and deadlocks in Java programs,"C Boyapati, R Lee, M Rinard","Proceedings of the ACM Conference on Object-Oriented Programming, Systems …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15122148517025000956,23,2002
+Lax: Driver interfaces for approximate sensor device access,"P Stanley-Marbell, M Rinard",15th Workshop on Hot Topics in Operating Systems (HotOS {XV}),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16256664785231123982,21,2015
+Rapid haplotype inference for nuclear families,"AL Williams, DE Housman, MC Rinard, DK Gifford","Genome biology 11 (10), R108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8912572803370253087,21,2010
+Boolean algebra of shape analysis constraints,"V Kuncak, M Rinard","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7271601716382652885,21,2004
+Power-aware computing with dynamic knobs,"H Hoffmann, S Sidiroglou, M Carbin, S Misailovic, A Agarwal, M Rinard","Technical Report TR-2010-027, CSAIL, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3307934642221616766,20,2010
+Specification based detection and repair of errors in data structures,"BC Demsky, MC Rinard","US Patent 7,260,746",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4415616561445311857,20,2007
+Existential heap abstraction entailment is undecidable,"V Kuncak, M Rinard","International Static Analysis Symposium, 418-438",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726981506479683376,20,2003
+Approximate computation with outlier detection in topaz,"S Achour, MC Rinard","Acm Sigplan Notices 50 (10), 711-730",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13970105872524114040,19,2015
+The first-order theory of sets with cardinality constraints is decidable,"V Kuncak, M Rinard",arXiv preprint cs/0407045,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10534884499572781418,19,2004
+Eliminating synchronization overhead in automatically parallelized programs using dynamic feedback,"PC Diniz, MC Rinard","ACM Transactions on Computer Systems (TOCS) 17 (2), 89-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10880362913875365753,19,1999
+Automatic error elimination by multi-application code transfer,"S Sidiroglou-Douskos, E Lahtinen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16379547236058983514,18,2014
+On spatial conjunction as second-order logic,"V Kuncak, M Rinard",arXiv preprint cs/0410073,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18107043914871475956,18,2004
+On role logic,"V Kuncak, M Rinard",arXiv preprint cs/0408018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6230431948927768855,18,2004
+Eliminating synchronization bottlenecks in object-based programs using adaptive replication,"M Rinard, P Diniz","International Conference on Supercomputing, 83-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4668088445050352736,18,1999
+Principled Sampling for Anomaly Detection.,"B Juba, C Musco, F Long, S Sidiroglou-Douskos, MC Rinard",NDSS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5279226365166002982,17,2015
+Utilitiy accrual scheduling with real-time Java,"S Feizabadi, W Beebee, B Ravindran, P Li, M Rinard","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2187072855589019694,17,2003
+Efficient specification-assisted error localization,"B Demsky, C Cadar, D Roy, M Rinard",Proceedings of the Second International Workshop on Dynamic Analysis,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11585799732723158617,16,2004
+Static specification analysis for termination of specification-based data structure repair,"B Demsky, M Rinard","14th International Symposium on Software Reliability Engineering, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7623083816586868784,16,2003
+Reducing serial I/O power in error-tolerant applications by efficient lossy encoding,"P Stanley-Marbell, M Rinard","Proceedings of the 53rd Annual Design Automation Conference, 62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9924293419059555218,15,2016
+Manipulating program functionality to eliminate security vulnerabilities,M Rinard,"Moving target defense, 109-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6037304570076600994,15,2011
+"Verification, Model Checking, and Abstract Interpretation",R Cousot,Springer Berlin/Heidelberg.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16891343945531798686,15,2005
+CodeCarbonCopy,"S Sidiroglou-Douskos, E Lahtinen, A Eden, F Long, M Rinard",Proceedings of the 2017 11th Joint Meeting on Foundations of Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3389121963972145821,14,2017
+The hob system for verifying software design properties,P Lam,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17313158599969775184,14,2007
+Eliminating synchronization bottlenecks using adaptive replication,"MC Rinard, PC Diniz","ACM Transactions on Programming Languages and Systems (TOPLAS) 25 (3), 316-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11888555767973717948,14,2003
+Staged program repair in SPR,"F Long, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7352969423017703674,13,2015
+Unsynchronized techniques for approximate parallel computing,MC Rinard,RACES Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17559754746910933859,13,2012
+Bayesian synthesis of probabilistic programs for automatic data modeling,"FA Saad, MF Cusumano-Towner, U Schaechtle, MC Rinard, ...","Proceedings of the ACM on Programming Languages 3 (POPL), 37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=458848629375377303,12,2019
+Prophet: Automatic patch generation via learning from successful patches,"F Long, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6895801237060650206,12,2015
+Theory and Applications of Satisfiability Testing,"F Bacchus, T Walsh",Springer Berlin/Heidelberg.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1022644454850963597,12,2005
+Generalized records and spatial conjunction in role logic,"V Kuncak, M Rinard","International Static Analysis Symposium, 361-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1717981983848583052,12,2004
+Commutativity analysis: A technique for automatically parallelizing pointer-based computations,"M Rinard, P Diniz","Proceedings of International Conference on Parallel Processing, 14-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10226683259578171702,12,1996
+Configuration synthesis for programmable analog devices with Arco,"S Achour, R Sarpeshkar, MC Rinard","ACM SIGPLAN Notices 51 (6), 177-193",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2296867412695363549,11,2016
+Crayon: saving power through shape and color approximation on next-generation displays,"P Stanley-Marbell, V Estellers, M Rinard","Proceedings of the Eleventh European Conference on Computer Systems, 11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11459571640518880458,11,2016
+Data structure fusion,"P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv","Asian Symposium on Programming Languages and Systems, 204-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15238808789680205150,11,2010
+On modular pluggable analyses using set interfaces,"P Lam, V Kuncak, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17736282861999842608,11,2003
+High-level specification and efficient implementation of pipelined circuits,"MC Marinescu, M Rinard",Proceedings of the 2001 Asia and South Pacific Design Automation Conference …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5079021664951410863,11,2001
+On algorithms and complexity for sets with cardinality constraints,"B Marnette, V Kuncak, M Rinard",arXiv preprint cs/0508123,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11285487417531701302,7010395582687187998",10,2005
+Predictable memory usage for object-oriented programs,"WN Chin, HH Nguyen, SC Qin, M Rinard","Technical report, School of Computing, National University of Singapore",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16909098438760526054,10,2004
+Credible compilers,M Rinard,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12123701277318437439,10,1999
+Probabilistic programming with programmable inference,"VK Mansinghka, U Schaechtle, S Handa, A Radul, Y Chen, M Rinard","ACM SIGPLAN Notices 53 (4), 603-616",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14981325155261657408,9,2018
+Value-deviation-bounded serial data encoding for energy-efficient approximate communication,"P Stanley-Marbell, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7305511732411519733,9,2015
+Automatic correction of program logic,"JH Perkins, S Sidiroglou, MC Rinard, EP Lahtinen, PM Piselli, BC Krikeles, ...","US Patent 8,788,884",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12222680917140009898,9,2014
+Reliability-aware optimization of approximate computational kernels with rely,"S Misailovic, M Carbin, S Achour, Z Qi, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8917988936807609915,9,2014
+Example-driven program synthesis for end-user programming: technical perspective,MC Rinard,"Communications of the ACM 55 (8), 96-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5190728255952937697,9,2012
+Obtaining and reasoning about good enough software,M Rinard,"Proceedings of the 49th Annual Design Automation Conference, 930-935",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8593121836959339737,9,2012
+Reasoning about relaxed programs,"M Carbin, D Kim, S Misailovic, MC Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=985251311012527116,9,2011
+Design-driven compilation,"R Rugina, M Rinard","International Conference on Compiler Construction, 150-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8047976405503029083,9,2001
+On the complexity of commutativity analysis,"O Ibarra, P Diniz, M Rinard","International Computing and Combinatorics Conference, 323-332","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052921035751474147,4340746947652169232",9,1996
+The three pillars of machine programming,"J Gottschlich, A Solar-Lezama, N Tatbul, M Carbin, M Rinard, R Barzilay, ...",Proceedings of the 2nd ACM SIGPLAN International Workshop on Machine …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10715500587998172897,8,2018
+Battery-aware transformations in mobile applications,"J Cito, J Rubin, P Stanley-Marbell, M Rinard",2016 31st IEEE/ACM International Conference on Automated Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13804041570074226619,8,2016
+Efficiency limits for value-deviation-bounded approximate communication,"P Stanley-Marbell, M Rinard","IEEE Embedded Systems Letters 7 (4), 109-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15430358777697093993,8,2015
+Automatic discovery and patching of buffer and integer overflow errors,"S Sidiroglou-Douskos, E Lahtinen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5652154965718935520,8,2015
+"A lossy, synchronization-free, race-full, but still acceptably accurate parallel space-subdivision tree construction algorithm",M Rinard,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14269686067478325514,8,2012
+Probabilistic accuracy bounds for perforated programs: a new foundation for program analysis and transformation,M Rinard,Association for Computing Machinery (ACM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2448982971206952891,8,2011
+SIGPLAN programming language curriculum workshop: Discussion summaries and recommendations,"E Allen, R Bodik, K Bruce, K Fisher, S Freund, R Harper, C Krintz, ...","ACM SIGPLAN Notices 43 (11), 6-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3496848301487345437,8,2008
+Efficient software transactions for object-oriented languages,"C Ananian, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2454471284511879451,8,2005
+The future of software analysis,"D Jackson, M Rinard","The Future of Software Engineering. ACM, New York 295",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10788026329042756792,8,2000
+OSUIF: SUIF 2.0 with objects,"A Duncan, B Cocosel, C Iancu, H Kienle, R Rugina, U Hölzle, M Rinard",Second SUIF Compiler Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16567069722412327425,8,1997
+IDEOSY: An ideographic and interactive program description system,"A Giacalone, MC Rinard, TW Doeppner Jr","ACM SIGPLAN Notices 19 (5), 15-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6066588861128029987,8,1984
+Automatic inference of code transforms and search spaces for automatic patch generation systems,"F Long, P Amidon, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12341343539710708026,7,2016
+Unanimous prediction for 100% precision with application to learning semantic mappings,"F Khani, M Rinard, P Liang",arXiv preprint arXiv:1606.06368,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8872586381755529787,7,2016
+Program fracture and recombination for efficient automatic code reuse,"P Amidon, E Davis, S Sidiroglou-Douskos, M Rinard","2015 IEEE High Performance Extreme Computing Conference (HPEC), 1-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1302701436670106952,7,2015
+A source-to-source transformation tool for error fixing,"Y Khmelevsky, M Rinard, S Sidiroglou-Douskos",Proceedings of the 2013 Conference of the Center for Advanced Studies on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17293394625029767653,7,2013
+Contextual policy enforcement in android programs with permission event graphs,"K Chen, N Johnson, V D'Silva, S Dai, T Magrino, K Macnamarra, E Wu, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15008213165464330499,7,2013
+Probabilistic and statistical analysis of perforated patterns,"S Misailovic, DM Roy, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3071342641241484951,7,2011
+Automatic parallelization with statistical accuracy bounds,"S Misailovic, D Kim, M Rinard","Technical Report MIT-CSAIL-TR-2010-007, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10122740041876752170,7,2010
+A hierarchy of tractable subclasses for SAT and counting SAT problems,"S Andrei, G Grigoras, M Rinard, RHC Yap",2009 11th International Symposium on Symbolic and Numeric Algorithms for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5317483978696384678,7,2009
+"Verification, Model Checking, and Abstract Interpretation","EA Emerson, KS Namjoshi",Springer Berlin/Heidelberg.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=590588115436757102,7,2006
+Typestate checking and regular graph constraints,"V Kuncak, M Rinard",arXiv preprint cs/0408014,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7282332336721438550,7,2004
+A type system for safe region-based memory management in Real-Time Java,"A Salcianu, C Boyapati, W Beebee Jr, M Rinard","Technical Report TR-869, MIT Laboratory for Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8181540091990527308,7,2002
+Communication optimizations for parallel computing using data access information,MC Rinard,Supercomputing'95: Proceedings of the 1995 ACM/IEEE Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1332748751932130416,7,1995
+Verifying quantitative reliability for programs that execute on unreliable hardware,"M Carbin, S Misailovic, MC Rinard",Communications of the ACM 59 (8),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323322744133222859,6,2016
+Reasoning about lock placements,"P Hawkins, A Aiken, K Fisher, M Rinard, M Sagiv","European Symposium on Programming, 336-356",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1485105597468605239,6,2012
+Automatic extraction of heap reference properties in object-oriented programs,"B Demsky, M Rinard","IEEE Transactions on Software Engineering 35 (3), 305-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6970255246930417490,6,2008
+Roles Are Really Great!,"V Kuncak, P Lam, M Rinard",arXiv preprint cs/0408013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16683818117119490059,6,2004
+"Operating Systems Lecture Notes, Lecture 6, CPU Scheduling",MC Rinard,Aug,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12763135117244548941,6,1998
+Semantic foundations of commutativity analysis,"MC Rinard, PC Diniz","European Conference on Parallel Processing, 414-423",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15715201629073157279,6,1996
+An integrated synchronization and consistency protocol for the implementation of a high-level parallel programming language,MC Rinard,"Proceedings of International Conference on Parallel Processing, 549-553",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9835090049200586643,6,1996
+Hierarchical concurrency in Jade,"D Scales, M Rinard, M Lam, J Anderson","International Workshop on Languages and Compilers for Parallel Computing, 50-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14512313883572266616,6,1991
+Horizontal code transfer via program fracture and recombination,"S Sidiroglou-Douskos, E Davis, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13895220183561621482,5,2015
+Arbac policy for a large multi-national bank,"K Jayaraman, V Ganesh, M Tripunitara, MC Rinard, SJ Chapin",arXiv preprint arXiv:1110.2849,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=342927842249171027,5,2011
+WikiDo,"N Kushman, M Brodsky, SRK Branavan, D Katabi, R Barzilay, M Rinard",Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1505334993873954006,5,2010
+"Static Analysis: 12th International Symposium, SAS 2005, London,[Imperial College], UK, September 7-9, 2005-Proceedings",C Hankin,Springer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12735022073392669346,5,2005
+Implicitly synchronized abstract data types: Data structures for modular parallel programming,MC Rinard,"J. Prog. Lang. 6 (1), 1-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18184542263046753596,5,1998
+Cimple: instruction and memory level parallelism: a DSL for uncovering ILP and MLP,"V Kiriansky, H Xu, M Rinard, S Amarasinghe",Proceedings of the 27th International Conference on Parallel Architectures …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2812485364482644518,4,2018
+Synthesis of randomized accuracy-aware map-fold programs,"S Misailovic, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10878502072920779527,4,2013
+From runtime verification to runtime intervention and adaptation,M Rinard,"International Conference on Runtime Verification, 276-276",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9931271560206303039,4,2012
+Integrated Reasoning and Proof Choice Point Selection in the Jahob System–Mechanisms for Program Survival,M Rinard,"International Conference on Automated Deduction, 1-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13091443500492618924,4,2009
+Survival strategies for synthesized hardware systems,M Rinard,Proceedings of the 7th IEEE/ACM international conference on Formal Methods …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1083445847287226592,4,2009
+Set interfaces for generalized typestate and data structure consistency verification,"P Lam, K Zee, V Kuncak, M Rinard",MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17795602653878469326,4,2007
+Polynomial constraints for sets with cardinality bounds,"B Marnette, V Kuncak, M Rinard",International Conference on Foundations of Software Science and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4922789774023528077,4,2007
+Architectural and compiler support for strongly atomic transactional memory,CS Ananian,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10298677000882889031,4,2007
+Failure-oblivious computing and boundless memory blocks,MC Rinard,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4914661666444238759,4,2005
+Method for experimentally verifying imaging errors in optical exposure units,"G Czech, E Richter, U Scheler, M Sebald","US Patent 6,696,208",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1293247110160898793,4,2004
+Enhancing availability and security through failure-oblivious computing,"M Rinard, C Cadar, D Dumitran, DM Roy",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2126907803399647970,4,2004
+A language for role specifications,"V Kuncak, P Lam, M Rinard",International Workshop on Languages and Compilers for Parallel Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17807093269393096989,4,2001
+Compositional pointer and escape analysis for multithreaded Java programs,"M Rinard, J Whaley","Technical Report MIT-LCS-TR-795, Laboratory for Computer Science …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8272865558957830676,4,1999
+Automatically parallelizing serial programs using commutativity analysis,"M Rinard, P Diniz",submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11369221694052929011,4,1995
+Using active learning to synthesize models of applications that access databases,"J Shen, MC Rinard",Proceedings of the 40th ACM SIGPLAN Conference on Programming Language …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11196523588708986641,3,2019
+Cimple: instruction and memory level parallelism,"V Kiriansky, H Xu, M Rinard, S Amarasinghe",arXiv preprint arXiv:1807.01624,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15201513567968901698,3,2018
+Error-efficient computing systems,"P Stanley-Marbell, M Rinard","Foundations and Trends® in Electronic Design Automation 11 (4), 362-461",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4343685880017245799,3,2017
+Inference and Regeneration of Programs that Manipulate Relational Databases,"J Shen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17151348550434411360,3,2017
+Inference and Regeneration of Programs that Store and Retrieve Data,"M Rinard, J Shen",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2424452708988919840,3,2017
+Encoder logic for reducing serial i/o power in sensors and sensor hubs,"P Stanley-Marbell, PA Francese, M Rinard","2016 IEEE Hot Chips 28 Symposium (HCS), 1-2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15108493576183887160,3,2016
+Cloud Intrusion Detection and Repair (CIDAR),"S Sidiroglou, J Perkins, M Rinard",MIT Computer Science and Artificial Intelligence Laboratory Cambridge United …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1401957225364555703,3,2016
+Filtered Iterators for Safe and Robust Programs in RIFL,"J Shen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3649414659939606354,3,2015
+Prophet: Automatic patch generation via learning from successful human patches,"F Long, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17701158914725825300,3,2015
+Energy-efficient approximate computation in Topaz,"S Achour, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8523188363096024203,3,2014
+What to do when things go wrong: recovery in complex (computer) systems.,MC Rinard,"AOSD (Companion), 1-2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16805356713892061180,3,2012
+Probabilistic accuracy bounds for perforated programs,M Rinard,Workshop on Partial Evaluation and Program Manipulation (PEPM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6139191310953519264,3,2011
+Self-repairing programs (dagstuhl seminar 11062),"M Pezzè, MC Rinard, W Weimer, A Zeller",Dagstuhl Reports 1 (2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=436479646229266838,3,2011
+Automatic parallelization with statistical accuracy bounds,"D Kim, S Misailovic, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2350804854348061507,3,2010
+Technical perspective patching program errors,MC Rinard,"Communications of the ACM 51 (12), 86-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6150251649249652275,3,2008
+Using cyclic memory allocation to eliminate memory leaks,"HH Nguyen, M Rinard",MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4830749064617621320,3,2005
+Memory usage inference for object-oriented programs,"HH Nguyen, WN Chin, S Qin, MC Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8642150062907038607,3,2005
+Effective fine-grain synchronization for automatically parallelized programs using optimistic synchronization primitives,M Rinard,"ACM SIGPLAN Notices 32 (7), 112-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7875271357133463054,3,1997
+Locality optimizations for parallel computing using data access information,MC Rinard,"International Journal of High Speed Computing 9 (02), 161-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3238448446344492672,3,1997
+Active learning for inference and regeneration of computer programs that store and retrieve data,"MC Rinard, J Shen, V Mangalick",Proceedings of the 2018 ACM SIGPLAN International Symposium on New Ideas …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13584003495869401491,2,2018
+Using Dynamic Monitoring to Synthesize Models of Applications That Access Databases,"J Shen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2767043589666723497,2,2018
+A Hardware Platform for Efficient Multi-Modal Sensing with Adaptive Approximation,"P Stanley-Marbell, M Rinard",arXiv preprint arXiv:1804.09241,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15196725969359433729,2,2018
+An introduction to data representation synthesis,"P Hawkins, M Rinard, A Aiken, M Sagiv, K Fisher","Communications of the ACM 55 (12), 91-99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6738828476401344766,2,2012
+Cryptographic path hardening: Hiding vulnerabilities in software through cryptography,"V Ganesh, M Carbin, M Rinard",arXiv preprint arXiv:1202.0359,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3582484423936113195,2,2012
+Power-aware computing with dynamic knobs,"S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7220310277415256792,2,2010
+Exploring the effectiveness of loop perforation for quality of service profiling,S Misailovíc,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1317496191516790240,2,2010
+Self-defending software: Automatically patching security vulnerabilities,"J Perkins, S Kim, S Larsen, S Amarasinghe, J Bachrach, M Carbin, ...",Proceedings of the ACM Symposium on Operating Systems Principles (SOSP),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9401606131306733387,2,2009
+Incremental deterministic planning,"S Andrei, W Chin, M Rinard",2006 Eighth International Symposium on Symbolic and Numeric Algorithms for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10677350950067562602,2,2006
+Implications of a data structure consistency checking system,"V Kuncak, P Lam, K Zee, M Rinard","Working Conference on Verified Software: Theories, Tools, and Experiments …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18139100260359480001,2,2005
+Combining Theorem Proving with Static Analysis for Data Structure Consistency,"V Kuncak, P Lam, K Zee, M Rinard",Proceedings of SVV'04,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9623765047172667605,2,2004
+Efficient specification-assisted error localization and correction,"B Demsky, C Cadar, D Roy, M Rinard","Technical report, MIT Lab for Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15479400732573838874,2,2003
+A synthesis algorithm for modular design of pipelined circuits,"MC Marinescu, M Rinard","VLSI: Systems on a Chip, 620-635",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12406583713550562421,2,2000
+Applications experience in Jade,MC Rinard,"Concurrency: Practice and Experience 10 (6), 417-448",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8863176468227242111,2,1998
+Exploiting commuting operations in parallelizing serial programs,"P Diniz, M Rinard","University of California at Santa Barbara, Santa Barbara, CA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4396362545538952737,2,1995
+Interactive production performance feedback in the IDE,"J Cito, P Leitner, M Rinard, HC Gall",Proceedings of the 41st International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1791353546545256598,1,2019
+Perceived-Color Approximation Transforms for Programs that Draw,"P Stanley-Marbell, M Rinard","IEEE Micro 38 (4), 20-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17464496077534214796,1,2018
+Incremental Color Quantization for Color-Vision-Deficient Observers Using Mobile Gaming Data,"J Cambronero, P Stanley-Marbell, M Rinard",arXiv preprint arXiv:1803.08420,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7801289225265802630,1,2018
+Time Dilation and Contraction for Programmable Analog Devices with Jaunt,"S Achour, M Rinard","ACM SIGPLAN Notices 53 (2), 229-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9897969124377141545,1,2018
+Generating Component-based Supervised Learning Programs From Crowdsourced Examples,"J Cambronero, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17882707185803858833,1,2017
+Robust programs with filtered iterators,"J Shen, M Rinard",Proceedings of the 10th ACM SIGPLAN International Conference on Software …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11002608601921832562,1,2017
+AutoRand: Automatic Keyword Randomization to Prevent Injection Attacks,"J Perkins, J Eikenberry, A Coglio, D Willenson, S Sidiroglou-Douskos, ...","International Conference on Detection of Intrusions and Malware, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7852300703422178226,1,2016
+"Vulnerabilities in bytecode removed by analysis, nuanced confinement and diversification (VIBRANCE)","A Coglio, M Becker, S Fitzpatrick, L Gilham, C Green, E McCarthy, ...",KESTREL INST PALO ALTO CA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3743822017248434329,1,2015
+Non-Essential Communication in Mobile Applications,"J Rubin, MI Gordon, N Nguyen, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2920238673884544476,1,2015
+Staged Program Repair in SPR (Supplementary Material),"F Long, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3251961864745422000,1,2015
+Approximating outside the processor,"P Stanley-Marbell, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16041818042906777041,1,2015
+Efficient resolution of security-sensitive values in Android using abstract interpretation,D Petters,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=601725310866525870,1,2014
+What is Decidable about Strings?,"V Ganesh, M Minnes, A Solar-Lezama, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10913759403031050521,1,2011
+Optimal scheduling of urgent preemptive tasks,"S Andrei, A Cheng, M Rinard, L Osborne",2010 IEEE 16th International Conference on Embedded and Real-Time Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13518769045074883746,1,2010
+Power-Aware Computing with Dynamic Knobs,"M Rinard, S Misailovic, A Agarwal, M Carbin, S Sidiroglou, H Hoffmann, ...",MIT-CSAIL-TR-2010-027,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4961228650283313450,1,2010
+Automatically identifying critical behaviors in programs,MMJ Carbin,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=901388073407225439,1,2009
+AvatarSAT: An Auto-tuning Boolean SAT Solver,"R Singh, JP Near, V Ganesh, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17877900819209415104,1,2009
+Using programming language concepts to teach general thinking skills,M Rinard,"ACM Sigplan Notices 43 (11), 111",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9676813595447127904,1,2008
+Automated techniques for surviving (otherwise) fatal software errors,M Rinard,"Electronic Notes in Theoretical Computer Science 174 (4), 113-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13571005933905656759,1,2007
+Quantifier-free Boolean algebra with Presburger arithmetic is NP-complete,V Kuncak,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14869942290424566317,1,2007
+The ultra challenge: software systems beyond big,"S Fraser, G Kiczales, R Lopez, PG Neumann, L Northrop, M Rinard, ...",Companion to the 21st ACM SIGPLAN symposium on Object-oriented programming …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2168675710415047520,1,2006
+An Overview of the Jahob Analysis System,"V Kuncak, M Rinard","MIT CSAIL, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035177713058711201,1,2006
+Survival Techniques for Computer Programs,MC Rinard,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7510241004342142939,1,2006
+Solving sets with cardinality constraints in pspace,"V Kuncak, B Marnette, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14077220994079976151,1,2006
+Region Type Checking for Core-Java,"WN Chin, S Qin, MC Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18043420649721374936,1,2004
+Automatic inference and enforcement of data structure consistency constraints,"B Demsky, MD Ernst, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16138406222896757464,1,2004
+A formal framework for modular synchronous system design,"MCV Marinescu, MC Rinard","International Symposium of Formal Methods Europe, 482-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14075188404774682191,1,2003
+Compiling high-level languages for real-time embedded systems,"CS Ananian, M Rinard","Technical report, MIT Laboratory for Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9168583715978471148,1,2003
+Resilient computing,M Rinard,"Technical report, MIT Computer Science and Artificial Intelligence …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942750017415204333,1,2003
+Extending the Java language for the prevention of data races,RH Lee,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10573484158112366789,1,2002
+High-level synthesis of pipelined circuits from modular queue-based specifications,"MC Marinescu, M Rinard","IEICE TRANSACTIONS on Fundamentals of Electronics, Communications and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16429967941543806404,1,2001
+"Object Models, Heaps, and Interpretations","M Rinard, V Kuncak","Technical Report 816, MIT Laboratory for Computer Science, Cambridge …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17832323033083498643,1,2001
+A Parameterized Type System for Race-Free Java Programs,"CBM Rinard, C Boyapati",OOPSLA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8226035599173788076,1,2001
+"Object models, heaps, and interpretations","V Kuncak, M Rinard",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16645034667309782935,1,2001
+Texas Instruments DSP Dynamic Run-Time Loader,MM Tao,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13323365217989605229,1,2001
+An integrated synchronization and consistency protocol for the implementation of a high-level parallel programming language,M Rinard,University of California at Santa Barbara,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16756274757323703897,1,1995
+Commutativity Analysis: A New Technique for Automatically Parallelizing Serial Programs,"M Rinard, P Diniz","Tech. Rep. TRCS94-16, University of California, Santa Barbara, CA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8047126359024503936,1,1994
+Parallel synchronization-free approximate data structure construction (full version),M Rinard,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11723462428484013914,1,0
+Safe Concurrent Programming in Java,"C Boyapati, R Lee, M Rinard",MIT Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17615967435690908954,1,0
+Synthesizing replacement classes,"M Samak, D Kim, MC Rinard","Proceedings of the ACM on Programming Languages 4 (POPL), 52",,0,2019
+Optimal approximate sampling from discrete probability distributions,"FA Saad, CE Freer, MC Rinard, VK Mansinghka","Proceedings of the ACM on Programming Languages 4 (POPL), 36",,0,2019
+Comprehensive Java Metadata Tracking for Attack Detection and Repair,"J Perkins, J Eikenberry, A Coglio, M Rinard",,,0,2019
+Precise and Comprehensive Provenance Tracking for Android Devices,"M Gordon, J Eikenberry, A Eden, J Perkins, M Rinard",,,0,2019
+Active learning for software engineering,"JP Cambronero, THY Dang, N Vasilakis, J Shen, J Wu, MC Rinard",Proceedings of the 2019 ACM SIGPLAN International Symposium on New Ideas …,,0,2019
+Characterizing developer use of automatically generated patches,"JP Cambronero, J Shen, J Cito, E Glassman, M Rinard",2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC …,,0,2019
+AL: autogenerating supervised learning programs,"JP Cambronero, MC Rinard","Proceedings of the ACM on Programming Languages 3 (OOPSLA), 175",,0,2019
+Compositional Inference Metaprogramming with Convergence Guarantees,"S Handa, V Mansinghka, M Rinard",arXiv preprint arXiv:1907.05451,,0,2019
+Automatic Exploitation of Fully Randomized Executables,"A Gadient, B Ortiz, R Barrato, E Davis, J Perkins, M Rinard",,,0,2019
+Correctness Verification of Neural Networks,"Y Yang, M Rinard",arXiv preprint arXiv:1906.01030,,0,2019
+Borrowing big code to automate programming activities: technical perspective,MC Rinard,"Communications of the ACM 62 (3), 98-98",,0,2019
+Warp: A Hardware Platform for Efficient Multi-Modal Sensing with Adaptive Approximation,"P Stanley-Marbell, M Rinard",IEEE,,0,2019
+"System, Method, and Apparatus for Reducing Power Dissipation of Sensor Data for Bit-Serial Communication","P Stanley-Marbell, MC Rinard","US Patent App. 16/115,639",,0,2019
+A new approach for software correctness and reliability (keynote),MC Rinard,Proceedings of the 11th ACM SIGPLAN International Conference on Software …,,0,2018
+Method and Apparatus for Reducing Sensor Power Dissipation,"P Stanley-Marbell, MC Rinard","US Patent App. 15/596,568",,0,2018
+"System, Method, and Apparatus for Reducing Power Dissipation of Sensor Data on Bit-Serial Communication Interfaces","P Stanley-Marbell, MC Rinard","US Patent App. 15/612,485",,0,2018
+The challenges of staying together while moving fast,"J Rubin, M Rinard",Association for Computing Machinery (ACM),,0,2016
+Automatic Program Repair with Condition Synthesis and Compound Mutations,"F Long, Z Qi, S Achour, M Rinard",,,0,2015
+Control Jujutsu,"I Evans, F Long, U Otgonbaatar, H Shrobe, M Rinard, H Okhravi, ...",Association for Computing Machinery,,0,2015
+(Un) Decidability Results for Word Equations with Length and Regular Expression Constraints,"V Ganesh, M Minnes, A Solar-Lezama, M Rinard",arXiv preprint arXiv:1306.6054,,0,2013
+Workshop on relaxing synchronization for multicore and manycore scalability (RACES 2012),"AP Black, T D'Hondt, D Kimelman, M Rinard, D Ungar","Proceedings of the 3rd annual conference on Systems, programming, and …",,0,2012
+"Session 3B: Reasoning, Inference, and Symbolic Execution-Proving Acceptability Properties of Relaxed Nondeterministic Approximate Programs","M Carbin, D Kim, S Misailovic, MC Rinard","SIGPLAN Notices 47 (6), 169",,0,2012
+Technical Perspective Example-Driven Program Synthesis for End-User Programming,MC RINARD,Communications of the ACM 55 (8),,0,2012
+Collaborative Learning for Security and Repair in Application Communities,"M Ernst, M Rinard, J Perkins",MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,2011
+"Dagstuhl Reports, Vol. 1, Issue 2 ISSN 2192-5283","S Fischer-Hübner, C Hoofnagle, K Rannenberg, M Waidner, I Krontiris, ...",,,0,2011
+OOPSLA/SPLASH 2010 Program Chair Statement,M Rinard,"SIGPLAN Notices 46 (4), 26",,0,2011
+Session 9a: Program Verification II-Session Chair: Ben Zorn (Microsoft Research)-Verification of Semantic Commutativity Conditions and Inverse Operations on Linked Data Structures,"D Kim, MC Rinard","SIGPLAN Notices 46 (6), 528",,0,2011
+Verification of full functional correctness for imperative linked data structures,KK Zee,Massachusetts Institute of Technology,,0,2010
+AvatarSAT: An Auto-tuning Boolean SAT Solver,"V Ganesh, R Singh, JP Near, M Rinard",,,0,2009
+Counting SAT-based Weighted Planning,"S Andrei, P Doerschuk, M Rinard, A Madaan","Computer Science Department, Lamar University",,0,2009
+ARE ENGINEERING,"B Demsky, M Rinard, P Pelliccione, P Inverardi, H Muccini, N Tsantalis, ...",,,0,2009
+Automatically identifying critical behaviors in programs,"MC Rinard, MMJ Carbin",Massachusetts Institute of Technology,,0,2009
+Verifying linked data structure implementations,"K Zee, V Kuncak, M Rinard","2008 IEEE International Symposium on Parallel and Distributed Processing, 1-5",,0,2008
+Static Verification of Design Constraints and Software Correctness Properties in the Hob System,"P Lam, M Rinard","2007 IEEE International Parallel and Distributed Processing Symposium, 1-6",,0,2007
+Ь Рг Ынзи б гж Ю ж н в Ыг ил ж з в Шжгд жи з,M Rinard,Massachusetts Institute of Technology,,0,2007
+Authors’ Addresses,"T Wies, V Kuncak, K Zee, A Podelski, M Rinard",arXiv preprint cs.PL/0609104,,0,2006
+Learning and Repair Techniques for Self-Healing Systems,"M Rinard, M Ernst",MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …,,0,2006
+"of Proceedings: Verification, Model Checking, and Abstract Interpretation: 7th International Conference, VMCAI 2006","T Wies, V Kuncak, P Lam, A Podelski, MC Rinard",Springer,,0,2006
+LogTM-SE: Decoupling hardware transactional memory from caches.,"C Fu, Z Wu, X Wang, X Yang, CS Ananian, M Rinard, L Ceze, J Tuck, ...","Information Technology Journal 8 (8), pp: 1-10",,0,2005
+An empirical study of a novel technique: rationed-memory compiling,IT Leu,Massachusetts Institute of Technology,,0,2005
+Incremental Verification of Timing Constraints for Real-Time Systems,"WN Chin, MC Rinard",,,0,2005
+Component Composition for Embedded Systems Using Semantic Aspect-Oriented Programming,M Rinard,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,2004
+Language-level Transactions for Modular Reliable Systems,"CS Ananian, M Rinard",MASSACHUSETTS INST OF TECH CAMBRIDGE ARTIFICIAL INTELLIGENCE LAB,,0,2004
+Enhancing availability and security through boundless memory blocks,C Cadar,Massachusetts Institute of Technology,,0,2004
+Failure detection and repair of threads in CTAS,F Jahanmir,Massachusetts Institute of Technology,,0,2004
+"STS. 310 History of Science, Fall 2003",D Kaiser,,,0,2003
+Role-Based Exploration of Object-Oriented Programs,M Rinard,,,0,2002
+Ownership Types for Safe Programming: Preventing Data Races and Deadlocks,CBRLM Rinard,OOPSLA 2002: 17th ACM Conference on Object-Oriented Programming Systems …,,0,2002
+"6.035 Computer Language Engineering (SMA 5502), Fall 2002","SP Amarasinghe, MC Rinard",,,0,2002
+"8.02 Electricity and Magnetism: TEAL: Studio Physics Project, Fall 2002","JW Belcher, P Dourmashkin",,,0,2002
+"Hardware synthesis from term rewriting systems Hardware synthesis from term rewriting systems, 1999","MC MARINESCU, M RINARD","IEICE transactions on fundamentals of electronics, communications and …",,0,2001
+"Automatic deduction Automatic deduction, 1982","MC MARINESCU, M RINARD","IEICE transactions on fundamentals of electronics, communications and …",,0,2001
+"HardwareC: A language for hardware design HardwareC: A language for hardware design, 1990","MC MARINESCU, M RINARD","IEICE transactions on fundamentals of electronics, communications and …",,0,2001
+"Programming in Occam 2 Programming in Occam 2, 1988","MC MARINESCU, M RINARD","IEICE transactions on fundamentals of electronics, communications and …",,0,2001
+Special Section on VLSI Design and CAD Algorithms-PAPERS-High Level Synthesis-High-Level Synthesis of Pipelined Circuits from Modular Queue-Based Specifications,"MC Marinescu, M Rinard",IEICE Transactions on Fundamentals Electronics Communications and Computer …,,0,2001
+"Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139","R Rugina, M Rinard",,,0,2000
+Parallelizing Applications into Silicon,"JB Martin, M Rinard, CA Moritz, W Lee, M Frank, R Barua, S Amarasinghe",In Proceedings of the IEEE Workshop on FPGAs for Custom Computing Machines,,0,1999
+An optimizing C compiler for DSP architectures,JH Lin,Massachusetts Institute of Technology,,0,1999
+Incorporating MIDAS Routines into PDP-6 LISP,R Silver,,,0,1967
+Runtime program certification,"K Arkoudas, M Rinard",,,0,0
+"Browsing CSAIL Technical Reports (July 1, 2003-present) by Issue Date Research and Teaching Output of the MIT Community","S Gil, S Kumar, M Mazumder, D Katabi, D Rus, MF Cusumano-Towner, ...",,,0,0
+CSAIL Digital Archive Research and Teaching Output of the MIT Community,"MF Cusumano-Towner, FA Saad, A Lew, VK Mansinghka, K Kawaguchi, ...",,,0,0
+Computer Science and Artificial Intelligence Lab (CSAIL) Research and Teaching Output of the MIT Community,"P Yu, AJ Wang, M Ono, S Dong",,,0,0
+"CSAIL Technical Reports (July 1, 2003-present) Research and Teaching Output of the MIT Community","P Yu, AJ Wang, M Ono, S Dong",,,0,0
+Minimizing Understanding in the Construction and Maintenance of Software Systems,M Rinard,,,0,0
+Data structure repair using goal-directed reasoning,"M Rinard, B Demsky","27th International Conference on Software Engineering, 176-185",,0,0
+The Hob Approach for Verifying Data Structure Consistency Properties,"P Lam, V Kuncak, K Zee, M Rinard",,,0,0
+"Data Representation Synthesis PLDI'11, San Jose, California, USA","P Hawkins, A Aiken, K Fisher, M Sagiv, M Rinard",,,0,0
+Research Abstracts-2006,"DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...",,,0,0
+CSAIL Work Products Research and Teaching Output of the MIT Community,"JD Eisenberg, MA Finlayson, MA Finlayson, Z Qi, F Long, S Achour, ...",,,0,0
+High-level Specification and E cient Implementation of Pipelined Circuits,"MC Marinescu, M Rinard",,,0,0
+Appendix to Detecting and Escaping Infinite Loops with Jolt,"M Carbin, S Misailovic, M Kling, MC Rinard",,,0,0
+Verifying Complex Properties using Symbolic Shape Analysis,VKKZM Rinard,,,0,0
+Technical Commentary,MC Rinard,,,0,0
+Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community,"YS Lee, MB Nardelli, N Marzari, SC Graves, HV Jagadish, BC Ooi, ...",,,0,0
+Tokens: Automatic Extraction and Enforcement of Design Information,"P Lam, M Rinard",,,0,0
+Towards an Effective Data Structure Analysis,"T Wies, V Kuncak, K Zee, A Podelski, M Rinard",,,0,0
+Compatibility Analysis for Static Object Preallocation,"O Gheorghioiu, A Salcianu, M Rinard",,,0,0
+Techniques for Write Barrier Removal,"K Zee, M Rinard",,,0,0
+Generalized Typestate Checking as Set Program Analysis,"P Lam, M Rinard",,,0,0
+Interprocedural Compatibility Analysis for Static Object Preallocation,"A SALCIANU, O GHEORGHIOIU, MC RINARD",,,0,0
+Case Studies in Modeling and Analysis of Software,"C Cadar, G Dennis, N Doble, D Jackson, S Khurshid, R Lee, T Leu, ...",,,0,0
+Ownership Types for Preventing Data Races and Deadlocks,"C Boyapati, R Lee, M Rinard",,,0,0
+Role Logic for Parameterized Typestate and Modular Pluggable Analyses,"V Kuncak, K Zee, P Lam, M Rinard",,,0,0
+Decision Procedures for Data Structure Verification,"V Kuncak, C Bouillaguet, T Wies, K Zee, M Rinard","CADE-21, 71",,0,0
+High-level SpeciŁcation and EfŁcient Implementation of Pipelined Circuits,"MC Marinescu, M Rinard",,,0,0
+A Type System for Preventing Data Races,"C Boyapati, M Rinard",,,0,0
+"ABS£ RA¥£ We present a new role system for specifying changing refer-encing relationships of heap objects. The role of an object depends, in large part, on its aliasing …","V Kuncak, P Lam, M Rinard",,,0,0
+On the Complexity of Commutativity Analysis,"PD Oscar Ibarra, M Rinard",,,0,0
+Utility Accrual Scheduling With Real-Time Java,"W Beebee, B Ravindran, P Li, M Rinard",,,0,0
+1. Course Information,"B Lampson, M Rinard","History 3, 2",,0,0
+Verifying Linked Data Structure Properties using Roles,"V Kuncak, M Rinard",,,0,0
+"Compositional Pointer Analysis for Java TM: Design, Correctness Proof, and Implementation","A SALCIANU, MC RINARD",,,0,0
+"Matthew Frank, Rajeev Barua, and Saman Amarasinghe Laboratory for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139","J Babb, M Rinard, CA Moritz, W Lee",,,0,0
+Pluggable Analyses for Data Structure Consistency and Generalized Typestate Checking,"P Lam, V Kuncak, M Rinard",,,0,0
+Integrating Model Checking and Theorem Proving for Relational Reasoning,"KASKD Marinov, M Rinard",,,0,0
+Ownership Types for Region-Based Memory Management in Real-Time Java,"C Boyapati, A Salcianu, W Beebee, M Rinard",,,0,0
+Modular Pluggable Analyses,"P Lam, V Kuncak, M Rinard",,,0,0
+Korat: Automated Testing Based on Java Predicates,"A Andoni, C Boyapati, D Daniliuc, S Khurshid, D Marinov, M Rinard",,,0,0
+Design Conformance in the Hob System,"P Lam, M Rinard",,,0,0
+Specification-Based Data Structure Repair,"B Demsky, MC Rinard",,,0,0
+Pointer Analysis and its Applications for Multithreaded Java Programs,"A Salcianu, M Rinard",,,0,0
+Parallelizing Applications into Smart Memories,"J Babb, M Rinard, A Moritz, W Lee, M Frank, R Barua, S Amarasinghe",,,0,0
+Enabling Modular Consistency Checking for Linked Data Structures,"P Lam, V Kuncak, M Rinard",,,0,0
+Software Design of Air Traffic Control Systems,"G Dennis, R Gupta, J Hansman, D Jackson, T Reynolds, M Rinard",,,0,0
+Automating the Verification of File System Implementations,"K Arkoudas, K Zee, V Kuncak, M Rinard",,,0,0
+Building Resilient Systems Using Acceptability-Oriented Computing,M Rinard,,,0,0
+Automatic Generation of Correct Dataflow Analyses,"A Salcianu, M Rinard",,,0,0
+Algorithms & Applications,"G Bilardi, J Cuny, S Das, F Dehne, I Glendinning, A Grama, J Reif, ...",,,0,0
+Browsing Singapore-MIT Alliance (SMA) by Title Research and Teaching Output of the MIT Community,"J Kim, SB Gershwin, HP Too, WKY Fung, J Misra, I Alevizos, J Bullen, ...",,,0,0
+Constraints in Role Analysis and Shape Analysis,"V Kuncak, M Rinard",,,0,0
+Decidability of Structural Subtyping,"V Kuncak, M Rinard",,,0,0
+The First-Order Theory of Sets with Cardinality Constraints is Decidable and Elementary,"V Kuncak, M Rinard",,,0,0
+Term Powers and Structural Subtyping,"V Kuncak, M Rinard",,,0,0
