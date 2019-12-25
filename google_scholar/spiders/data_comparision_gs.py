@@ -1,27 +1,28 @@
 import scrapy
 from scrapy.http import TextResponse
+
 from selenium import webdriver
-import os
-import csv
-import logging
+
 import time
+import os
+import sys
+import platform
 
-logging.basicConfig(filename=os.path.join(os.path.dirname(__file__), '..\\..\\logs\\authors.log'),\
-                    level=logging.ERROR)
-logger = logging.getLogger(__name__)
+import csv
 
-file_data_comparison = os.path.join(os.path.dirname(__file__), '..\\..\\data\\data_comparison.csv')
-with open(file_data_comparison,'w') as f:
-    f.write("AuthorID, CitationsAll, CitationsS2014, hIndexAll, hIndexS2014, i10IndexAll, i10IndexS2014, CoAuthorIDs, CoAuthorNames")
-    f.close()
+import pandas as pd
+
+from utils.tools import get_path, write_csv, write_pickle, monitor_crawler
 
 class GSSpider(scrapy.Spider):
-    name = "data_comparison"
+    name = "data_comparison_gs"
+
+    def __init__(self, input_file = ''):
+        self.ROOT_DIR = os.path.dirname(sys.modules['__main__'].__file__)
 
     def start_requests(self):
         # URLs of users
         urls = [
-            # 'file:///E:/google_scholar_html/David_Gesbert.html'
             'https://scholar.google.com/citations?hl=vi&user=VoAaVRAAAAAJ',
             'https://scholar.google.com/citations?hl=vi&user=lsFfh2gAAAAJ',
             'https://scholar.google.com/citations?hl=vi&user=KrIDP2sAAAAJ',
@@ -43,54 +44,49 @@ class GSSpider(scrapy.Spider):
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-
-        # Path to chromedriver.exe
-        chromedriver_path = os.path.join(os.path.dirname(__file__), '..\\..\\libs\\chromedriver.exe')
-        # Create a webdriver
-        self.driver = webdriver.Chrome(chromedriver_path)
-
-        # Wait 60 seconds for loading page if the element is not available yet
+        # Configure webdriver
+        if platform.system() == 'Windows':
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver.exe"])
+        else:
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver"])
+        op = webdriver.ChromeOptions()
+        op.add_argument('headless')
+        self.driver = webdriver.Chrome(executable_path=chromedriver_path, options=op)
         self.driver.implicitly_wait(60)
         
-        # # Get userId from user's URL
+        # Get user_id from URL
         user_id = response.url.split("user=")[1].split("&")[0]
         
-        # Use webdriver to make request to a user's URL
+        # Make request
         self.driver.get(response.url)
 
         # Get all rows in the table from webdriver response, each paper is in a row
         rows = response.xpath("//table[@id='gsc_rsb_st']//tbody//td[@class='gsc_rsb_std']")
 
-        citations_all = int(rows[0].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
-        citations_s2014 = int(rows[1].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
-        hindex_all = int(rows[2].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
-        hindex_s2014 = int(rows[3].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
-        i10index_all = int(rows[4].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
-        i10index_s2014 = int(rows[5].xpath("text()").get()) if rows[0].xpath("text()").get().isdigit() else -1
+        citations_all = int(rows[0].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
+        citations_s2014 = int(rows[1].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
+        hindex_all = int(rows[2].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
+        hindex_s2014 = int(rows[3].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
+        i10index_all = int(rows[4].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
+        i10index_s2014 = int(rows[5].xpath("text()").get()) if rows[0].xpath("text()").get() is not None else 0
 
         coauthor_ids = ''
         coauthor_names = ''
         try:
             self.driver.find_element_by_xpath("//button[@id='gsc_coauth_opn']").click()
-
-            # Create a variable for response from webdriver
             coauthors_response = TextResponse(url=self.driver.current_url, body=self.driver.page_source, encoding='utf-8')
-
-            # filename = 'E:/google_scholar_html/David_Gesbert_coauthors.html'
-            # html = open(filename, "r").read()
-            # coauthors_response = TextResponse(url='E:/google_scholar_html/David_Gesbert_coauthors.html', body=html, encoding='utf-8')
-
             (coauthor_ids, coauthor_names) = self.parse_coauthors(coauthors_response)
         except:
             pass
-
-        with open(file_data_comparison, "a") as f:
+        
+        output_path = get_path([self.ROOT_DIR, "data", "sample_comparision", "hindex.csv"])
+        with open(output_path, "a") as f:
             f.write("\n%s, %d, %d, %d, %d, %d, %d, %s, %s" % (user_id,citations_all,citations_s2014,\
                                                             hindex_all,hindex_s2014,i10index_all,i10index_s2014, \
                                                             coauthor_ids, coauthor_names))
             f.close()
-        
         self.driver.close()
+
         time.sleep(30)
     
     def parse_coauthors(self, response):
@@ -103,8 +99,8 @@ class GSSpider(scrapy.Spider):
             coauthor_id_list.append(coauthor_id)
             coauthor_name_list.append(coauthor_name)
         
-        coauthor_ids = "; ".join(coauthor_id_list)
-        coauthor_names = "; ".join(coauthor_name_list)
+        coauthor_ids = ", ".join(coauthor_id_list)
+        coauthor_names = ", ".join(coauthor_name_list)
         return (coauthor_ids, coauthor_names)
 
 

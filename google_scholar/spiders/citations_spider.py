@@ -1,109 +1,121 @@
 import scrapy
 from scrapy.http import TextResponse
-from selenium import webdriver
-import os
-import csv
-import logging
 
-logging.basicConfig(filename=os.path.join(os.path.dirname(__file__), '..\\..\\logs\\citations.log'),\
-                    level=logging.ERROR)
-logger = logging.getLogger(__name__)
+from selenium import webdriver
+
+import time
+import os
+import sys
+import platform
+
+import glob
+
+import csv
+
+import pandas as pd
+
+from utils.tools import get_path, write_csv, write_pickle, monitor_crawler
 
 class GSSpider(scrapy.Spider):
     name = "citations"
 
+    def __init__(self, input_dir = '', input_file = ''):
+        self.ROOT_DIR = os.path.dirname(sys.modules['__main__'].__file__)
+        self.input_dir = input_dir
+        self.input_file = input_file
+
     def start_requests(self):
-        # Citations of a paper
-        urls = [
-            # 'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=12738890041914893444',
-            # 'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=1875949425317415066,10756395575275702022',
-            'https://scholar.google.fr/scholar?oi=bibs&hl=en&cites=17504880868992847356'
-        ]
+        urls = []
+        try:
+            if self.input_file == '':
+                path = get_path([self.ROOT_DIR, "data", "papers", self.input_dir, "*.csv"])
+                for path_file in glob.glob(path):
+                    df = pd.read_csv(path_file)
+                    urls.extend(df['Cited_url'].dropna().to_list())
+            else:
+                path = get_path([self.ROOT_DIR, "data", "papers", self.input_dir, self.input_file])
+                urls = pd.read_csv(path)['Cited_url'].dropna().to_list()
+        except:
+            raise
+
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-
-        # Path to chromedriver.exe
-        chromedriver_path = os.path.join(os.path.dirname(__file__), '..\\..\\libs\\chromedriver.exe')
-        # Create a webdriver
-        self.driver = webdriver.Chrome(chromedriver_path)
+        # Configure webdriver
+        if platform.system() == 'Windows':
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver.exe"])
+        else:
+            chromedriver_path = get_path([self.ROOT_DIR, "libs", "chromedriver"])
+        op = webdriver.ChromeOptions()
+        op.add_argument('headless')
+        self.driver = webdriver.Chrome(executable_path=chromedriver_path, options=op)
+        self.driver.implicitly_wait(60)
         
-        # Get citationsId from citation URL
-        citation_id = response.url.split("cites=")[1].replace(",", "_")
+        # Monitor the process by url
+        monitor_url = response.url
 
-        # Tracking the current url
-        current_url = response.url
+        citation_id = response.url.split("cites=")[1].split("&")[0].replace(",", "_")
 
-        # Create a list of papers which cited the orginal paper
-        cited_by_list = []
+        citations = []
 
-        # Use webdriver to make request to a user's URL
+        # Make request, get response and extract content
         self.driver.get(response.url)
-
-        # Create a variable for response from webdriver
         page_response = TextResponse(url=response.url, body=self.driver.page_source, encoding='utf-8')
+        self.parse_one_page(page_response, citations)
 
-        self.parse_one_page(page_response, cited_by_list)
-
-        # Click 'Show more' until this button is disabled to show full list of papers
+        # Click 'Next page' and get content until this button is disabled
         while True:
             try:
-                # Find button 'Next' when it is not hidden
+                # Wait 15s before next click
+                time.sleep(15)
+                
+                # Click button 'Next' when it is not hidden
                 self.driver.find_element_by_xpath("//div[@id='gs_n']//td[@align='left']/a").click()
-
-                # Wait 60 seconds for loading page before next click
-                self.driver.implicitly_wait(60)
-
-                # Create a variable for response from webdriver
+                
+                # Get content, parse and monitor
                 next_page_response = TextResponse(url=self.driver.current_url, body=self.driver.page_source, encoding='utf-8')
-
                 self.parse_one_page(next_page_response, cited_by_list)
-
-                current_url = self.driver.current_url
-
-            except Exception as e: 
-                logger.error(e)
-                logger.error(current_url)
-
-                # Close webdriver
+                monitor_url = self.driver.current_url
+            except:
                 self.driver.close()
                 break
 
-        data_folder = os.path.join(os.path.dirname(__file__), '..\\..\\data\\')
-        # Create a filename
-        file_cited_papers = '%scited-papers-%s.csv' % (data_folder, citation_id)
-        # Write list of papers to csv file
-        keys = cited_by_list[0].keys()
-        with open(file_cited_papers, 'w', encoding='utf-8', newline='') as output_file:
-            dict_writer = csv.DictWriter(output_file, keys)
-            dict_writer.writeheader()
-            dict_writer.writerows(cited_by_list)
+        # Output
+        csv_path = get_path([self.ROOT_DIR, "data", "citations", self.input_dir, self.input_file.split(".")[0], \
+                            "papers-of-citeID-{}.csv".format(citation_id)])
+        write_csv(citations, csv_path)
+        pkl_path = get_path([self.ROOT_DIR, "data", "citations", self.input_dir, self.input_file.split(".")[0], \
+                            "papers-of-citeID-{}.pkl".format(citation_id)])
+        write_pickle(citations, pkl_path)
+
+        monitor_file = get_path([self.ROOT_DIR, "data", "monitors", "crawled_papers_{}_{}"\
+                                .format(self.input_dir.replace("authors_",""), self.input_file.replace("papers-of-",""))])
+        monitor_crawler(monitor_file, monitor_url)
 
     
-    def parse_one_page(self, page_response, cited_by_list):
+    def parse_one_page(self, page_response, citations):
 
         rows = page_response.xpath("//div[@id='gs_res_ccl_mid']//div[@class='gs_ri']")
 
         # In each citation, get title of the paper, id of authors, name of authors
-        # To avoid column errors when reading files, replace ',' in strings to ';'
-        # The columns will be seperated by ','
-        for row in rows:
-            title_list = row.xpath(".//h3[@class='gs_rt']//text()").getall()
-            title_str = " ".join(title_list).strip(' \t\n\r').replace(',', ';')
-            author_ids_list = row.xpath(".//div[@class='gs_a']/a/@href").getall()
-            author_ids_str = ",".join([author_id.split("user=")[1].split("&")[0] for author_id in author_ids_list])\
-                                .strip(' \t\n\r').replace(',', ';')
-            author_name_list = row.xpath(".//div[@class='gs_a']/a/text()").getall()
-            author_name_str = ",".join(author_name_list).strip(' \t\n\r').replace(',', ';')
-            cited_url = row.xpath(".//div[@class='gs_fl']/a[contains(text(),'Cited by')]/@href").get()
+        if len(rows) > 0:
+            for row in rows:
+                title_list = row.xpath(".//h3[@class='gs_rt']//text()").getall()
+                author_ids_list = row.xpath(".//div[@class='gs_a']/a/@href").getall()
+                author_name_list = row.xpath(".//div[@class='gs_a']/a/text()").getall()
+                cited_url = row.xpath(".//div[@class='gs_fl']/a[contains(text(),'Cited by')]/@href").get()
 
-            # Create a dictionary for each paper
-            cited_by = {
-                'Title': title_str,
-                'AuthorIDs': author_ids_str,
-                'AuthorNames': author_name_str,
-                'Cited_url': cited_url
-            }
+                # Join elements of list to text
+                title = " ".join(title_list)
+                author_ids = ", ".join([author_id.split("user=")[1].split("&")[0] for author_id in author_ids_list])
+                author_names = ", ".join(author_name_list)
 
-            cited_by_list.append(cited_by)
+                cited_by = {
+                    'Title': title,
+                    'AuthorIDs': author_ids,
+                    'AuthorNames': author_names,
+                    'Cited_url': cited_url
+                }
+
+                citations.append(cited_by)
