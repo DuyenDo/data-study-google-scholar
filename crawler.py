@@ -9,7 +9,7 @@ try:
             'scrapy',
             'crawl',
             'papers',
-            '-a', 'input_file=authors_orgID_8539678734835078480.csv'
+            '-a', 'input_file=authors_orgID_16345133980181568013.csv'
         ]
     )
 except SystemExit:
