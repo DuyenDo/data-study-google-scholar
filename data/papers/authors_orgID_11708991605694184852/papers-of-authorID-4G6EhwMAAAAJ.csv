@@ -1,0 +1,250 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+The formal semantics of programming languages: an introduction,G Winskel,MIT press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9353282748263660873,8343351274636841690",1756,1993
+"Petri nets, event structures and domains, part I","M Nielsen, G Plotkin, G Winskel","Theoretical Computer Science 13 (1), 85-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5045254716100602168,1191,1981
+Event structures,G Winskel,"Advanced Course on Petri Nets, 325-392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6738407957876386783,897,1986
+Models for concurrency,"G Winskel, M Nielsen",Computer Science Department,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5937782121571583843,788,1994
+An introduction to event structures,G Winskel,Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3875999073908775844,472,1988
+Bisimulation from open maps,"A Joyal, M Nielsen, G Winskel","Information and Computation 127 (2), 164-185",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6896878454041290721,428,1996
+Event structure semantics for CCS and related languages,G Winskel,"International Colloquium on Automata, Languages, and Programming, 561-576",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7810429559964773134,348,1982
+Events in computation,G Winskel,The University of Edinburgh,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9738768671670840410,324,1980
+"Petri nets, algebras, morphisms, and compositionality",G Winskel,"Information and Computation 72 (3), 197-238",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14620848038802846007,268,1987
+Categories of models for concurrency,G Winskel,"International Conference on Concurrency, 246-267","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11263105392591376827,17452432535072160539",207,1984
+Synchronization trees,G Winskel,"Theoretical Computer Science 34 (1-2), 33-82","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=327718373469743740,14187185935621145838",184,1984
+Models for concurrency: Towards a classification,"V Sassone, M Nielsen, G Winskel","Theoretical Computer Science 170 (1-2), 297-348",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1499208562603724003,145,1996
+"Petri nets, event structures and domains","M Nielsen, G Plotkin, G Winskel","Semantics of Concurrent Computation, 266-284","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16477331438093504934,15465923294637631845",139,1979
+Using information systems to solve reoursive domain equations effectively,"KG Larsen, G Winskel","International Symposium on Semantics of Data Types, 109-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13539145036966262421,136,1984
+Events in security protocols,"F Crazzolara, G Winskel",Proceedings of the 8th ACM conference on Computer and Communications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6756641386347056073,130,2001
+Relationships between models of concurrency,"M Nielsen, V Sassone, G Winskel",Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6170790567695671378,126,1993
+Domain theoretic models of polymorphism,"T Coquand, C Gunter, G Winskel","Information and Computation 81 (2), 123-167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1618248889702398488,120,1989
+A compositional proof system for the modal/spl mu/-calculus,"HR Andersen, C Stirling, G Winskel","Proceedings Ninth Annual IEEE Symposium on Logic in Computer Science, 144-153",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2440755576368808387,110,1994
+Distributing probability over non-determinism,"D Varacca, G Winskel","Mathematical Structures in Computer Science 16 (1), 87-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12300033695838297825,108,2006
+Petri nets as models of linear logic,"U Engberg, G Winskel","Colloquium on Trees in Algebra and Programming, 147-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15192370575936874281,104,1990
+CCS with priority choice,"J Camilleri, G Winskel","Information and Computation 116 (1), 26-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17300415779534366321,98,1995
+A new definition of morphism on Petri nets,G Winskel,"Annual Symposium on Theoretical Aspects of Computer Science, 140-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5772875633947033897,92,1984
+Petri nets and bisimulation,"M Nielsen, G Winskel","Theoretical Computer Science 153 (1-2), 211-244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6663906468613383427,88,1996
+A note on model checking the modal ,G Winskel,"International Colloquium on Automata, Languages, and Programming, 761-772",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17190057124810935110,88,1989
+Concurrent strategies,"S Rideau, G Winskel","2011 IEEE 26th Annual Symposium on Logic in Computer Science, 409-418",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5199698884010193556,84,2011
+A note on model checking the modal ν-calculus,G Winskel,"Theoretical Computer Science 83 (1), 157-167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9962271175098022513,82,1991
+Presheaf models for concurrency,"GL Cattani, G Winskel","International Workshop on Computer Science Logic, 58-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11859240148576790874,80,1996
+"Graphs, rewriting and pathway reconstruction for rule-based models","V Danos, J Feret, W Fontana, R Harmer, J Hayman, J Krivine, ...",IARCS Annual Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3518970152912701544,74,2012
+Presheaf models for the π-calculus,"GL Cattani, I Stark, G Winskel","International Conference on Category Theory and Computer Science, 106-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11710548812484751319,74,1997
+A classification of models for concurrency,"V Sassone, M Nielsen, G Winskel","International Conference on Concurrency Theory, 82-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4567498125634458148,74,1993
+The cartesian closed bicategory of generalised species of structures,"M Fiore, N Gambino, M Hyland, G Winskel","Journal of the London Mathematical Society 77 (1), 203-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14112261198377044360,68,2008
+DI-domains as a model of polymorphism,"T Coquand, C Gunter, G Winskel",International Workshop on Mathematical Foundations of Programming Semantics …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13012812902755892126,68,1987
+On powerdomains and modality,G Winskel,"Theoretical Computer Science 36, 127-137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6986712955676524267,63,1985
+"Profunctors, open maps and bisimulation","GL Cattani, G Winskel","Mathematical Structures in Computer Science 15 (3), 553-614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13574603506880055448,62,2005
+The formal semantics of programming languages: an introduction. Foundations of computing,G Winskel,MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7530963076157788079,62,1993
+A complete proof system for SCCS with modal assertions,G Winskel,International Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4005292097699358707,61,1985
+Probabilistic event structures and domains,"D Varacca, H Völzer, G Winskel","International Conference on Concurrency Theory, 481-496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3559279951493276188,58,2004
+Probabilistic event structures and domains,"D Varacca, H Völzer, G Winskel","Theoretical Computer Science 358 (2-3), 173-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5400868644919636274,53,2006
+Weak bisimulation and open maps,"M Fiore, GL Cattani, G Winskel",Proceedings. 14th Symposium on Logic in Computer Science (Cat. No. PR00158 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8580061003675443011,51,1999
+Compositional checking of satisfaction,"HR Andersen, G Winskel","Formal Methods in System Design 1 (4), 323-354",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16699650564622512116,48,1992
+Completeness of continuation models for λμ-calculus,"M Hofmann, T Streicher","Information and Computation 179 (2), 332-355",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13093446328281935719,46,2002
+A category of labelled Petri nets and compositional proof system,G Winskel,"[1988] Proceedings. Third Annual Symposium on Logic in Computer Science, 142-154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9933283841521716783,45,1988
+Domain theory for concurrency,"M Nygaard, G Winskel","Theoretical Computer Science 316 (1-3), 153-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15005259041627714323,43,2004
+Event structures with symmetry,G Winskel,"Electronic Notes in Theoretical Computer Science 172, 611-652",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254321296457346841,40,2007
+Linear logic on Petri nets,"U Engberg, G Winskel",Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13873290112517821736,40,1993
+Using information systems to solve recursive domain equations,"KG Larsen, G Winskel","Information and Computation 91 (2), 232-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10893587135820836035,39,1991
+Distributed probabilistic and quantum strategies,G Winskel,"Electronic Notes in Theoretical Computer Science 298, 403-425",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13624492762017490950,34,2013
+Composing strand spaces,"F Crazzolara, G Winskel",International Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3903804630528407097,33,2002
+Petri nets in cryptographic protocols.,"F Crazzolara, G Winskel","ipdps 1, 149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4093496232641316284,33,2001
+Completeness results for linear logic on Petri nets,"U Engberg, G Winskel","Annals of Pure and Applied Logic 86 (2), 101-135",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4521545541230715612,33,1997
+Presheaves as transition systems,"G Winskel, M Nielsen",DIMACS Series in Discrete Mathematics and Theoretical Computer Science 29 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15109522771294449666,33,1997
+A compositional proof system on a category of labelled transition systems,G Winskel,"Information and Computation 87 (1-2), 2-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8118378235559380582,33,1990
+A presheaf semantics of value-passing processes,G Winskel,"International Conference on Concurrency Theory, 98-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17713562997521131399,32,1996
+Completeness results for linear logic on Petri nets,"U Engberg, G Winskel","International Symposium on Mathematical Foundations of Computer Science, 442-452",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5164213927444062647,32,1993
+The winning ways of concurrent games,"P Clairambault, J Gutierrez, G Winskel",Proceedings of the 2012 27th Annual IEEE/ACM Symposium on Logic in Computer …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16657995023019258609,30,2012
+Nominal domain theory for concurrency,"D Turner, G Winskel","International Workshop on Computer Science Logic, 546-560",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12741449762262675885,30,2009
+"Events, causality and symmetry",G Winskel,"The Computer Journal 54 (1), 42-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17087716288614827577,30,2009
+A theory of recursive domains with applications to concurrency,"GL Cattani, M Fiore, G Winskel",Proceedings. Thirteenth Annual IEEE Symposium on Logic in Computer Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5547734663283092771,30,1998
+The parallel intensionally fully abstract games model of PCF,"S Castellan, P Clairambault, G Winskel","2015 30th Annual ACM/IEEE Symposium on Logic in Computer Science, 232-243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=279339764523433730,29,2015
+Large finite structures with few L/sup/spl kappa//-types,M Grohe,Proceedings of Twelfth Annual IEEE Symposium on Logic in Computer Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12099740822586446468,29,1997
+On the compositional checking of validity,G Winskel,"International Conference on Concurrency Theory, 481-501",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3016535622015573615,29,1990
+Model checking in the modal-calculus,G Winskel,"Proceedings of the Sixteenth International Colloquium on Automata, Languages …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14687407997894131129,29,1989
+Strategies as profunctors,G Winskel,International Conference on Foundations of Software Science and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14555661214513422932,28,2013
+The unfolding of general Petri nets,"J Hayman, G Winskel",IARCS Annual Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10342453595248821144,28,2008
+A linear metalanguage for concurrency,G Winskel,"International Conference on Algebraic Methodology and Software Technology, 42-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15130933456969160764,28,1999
+A relational model of non-deterministic dataflow,"T Hildebrandt, P Panangaden, G Winskel","International Conference on Concurrency Theory, 613-628",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4363228446451098338,28,1998
+Deterministic behavioural models for concurrency,"V Sassone, M Nielsen, G Winskel","International Symposium on Mathematical Foundations of Computer Science, 682-692",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8522534223557583288,28,1993
+A note on powerdomains and modality,G Winskel,"International Conference on Fundamentals of Computation Theory, 505-514",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14793499102409917943,28,1983
+Symmetry in concurrent games,"S Castellan, P Clairambault, G Winskel",Proceedings of the Joint Meeting of the Twenty-Third EACSL Annual Conference …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3086125258826276009,27,2014
+Independence and concurrent separation logic,"J Hayman, G Winskel","21st Annual IEEE Symposium on Logic in Computer Science (LICS'06), 147-156",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14479044518070783897,27,2006
+Categories in concurrency,"G Winskel, M Nielsen","Semantics and logics of computation 14, 299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3838958282890288617,25,1997
+Models and logic of MOS circuits,G Winskel,"Logic of Programming and Calculi of Discrete Design, 367-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2420503076486389782,24,1987
+A relational model of non-deterministic dataflow,"TT Hildebrandt, P Panangaden, G Winskel","Mathematical Structures in Computer Science 14 (5), 613-649",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=155689574656998278,23,2004
+"Petri nets, morphisms and compositionality",G Winskel,"European Workshop on Applications and Theory in Petri Nets, 453-477",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397157789096535896,22,1985
+Constraining rule-based dynamics with types,"V Danos, R Harmer, G Winskel","Mathematical Structures in Computer Science 23 (2), 272-289",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7883758141923072520,21,2013
+Linearity in process languages,"M Nygaard, G Winskel","Proceedings 17th Annual IEEE Symposium on Logic in Computer Science, 433-444",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2147063132926623639,19,2002
+A representation of completely distributive algebraic lattices,G Winskel,figshare,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10189813736032240776,19,1989
+A compositional model of MOS circuits,G Winskel,"VLSI Specification, Verification and Synthesis, 323-347",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13642498432849225192,19,1988
+The concurrent game semantics of probabilistic PCF,"S Castellan, P Clairambault, H Paquet, G Winskel",Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10177248564921048262,145478779946412220",18,2018
+Relating two models of hardware,G Winskel,"Category Theory and Computer Science, 98-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1156002450762188874,18,1987
+Relations in concurrency,G Winskel,"20th Annual IEEE Symposium on Logic in Computer Science (LICS'05), 2-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4027109784987074505,17,2005
+Strategies as concurrent processes,"S Castellan, J Hayman, M Lasson, G Winskel","Electronic Notes in Theoretical Computer Science 308, 87-107",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548080905984095367,16,2014
+A categorical axiomatics for bisimulation,"GL Cattani, J Power, G Winskel","International Conference on Concurrency Theory, 581-596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8447058222719349511,16,1998
+Stable bistructure models of PCF,G Winskel,"International Symposium on Mathematical Foundations of Computer Science, 177-197",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2691397278375768663,16,1994
+Games and strategies as event structures,"S Castellan, P Clairambault, S Rideau, G Winskel",arXiv preprint arXiv:1604.04390,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6155220174871770753,15,2016
+Event structure spans for nondeterministic dataflow,"L Saunders-Evans, G Winskel","Electronic Notes in Theoretical Computer Science 175 (3), 109-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=488714898293199341,15,2007
+"Bistructures, bidomains and linear logic","PL Curien, G Plotkin, G Winskel",MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2875052377140892759,15,2000
+On the composition and decomposition of assertions,G Winskel,"International Conference on Concurrency, 62-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7393167025876508612,15,1984
+HOPLA—a higher-order process language,"M Nygaard, G Winskel","International Conference on Concurrency Theory, 434-448",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10563357050218020601,14,2002
+PetriNets: Application and Relationships to Other Models of Concurrency,G Winskel,"LNCS 255, 325-392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16719454697162468525,14,1987
+Linearity and non linearity in distributed computation,G Winskel,Linear Logic in Computer Science 316,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14879505883451115327,13,2004
+Full abstraction for HOPLA,"M Nygaard, G Winskel","International Conference on Concurrency Theory, 383-398",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11122927617816430950,13,2003
+Category theory and models for parallel computation,G Winskel,"Category Theory and Computer Programming, 266-281","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2419990741016319996,15162718770211642149",13,1986
+"Relative pseudomonads, Kleisli bicategories, and substitution monoidal structures","M Fiore, N Gambino, M Hyland, G Winskel","Selecta Mathematica 24 (3), 2791-2830",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6842194237263331752,12,2018
+Deterministic concurrent strategies,G Winskel,"Formal Aspects of Computing 24 (4-6), 647-660",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=149396481194640036,12,2012
+A higher-order calculus for categories,"M Cáccamo, G Winskel","International Conference on Theorem Proving in Higher Order Logics, 136-153",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7527025564163275229,12,2001
+A representation result for free cocompletions,"AJ Power, GL Cattani, G Winskel","Journal of Pure and Applied Algebra 151 (3), 273-286",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4416154209318577964,12,2000
+"Profunctors, open maps and bisimulation","GL Cattani, G Winskel","Mathematical Structures in Computer Science, To appear. Available from the …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14756998934479168154,12,2000
+Event structures as presheaves—two representation theorems,G Winskel,"International Conference on Concurrency Theory, 541-556",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13315478206169790642,12,1999
+Presheaf models for CCS-like languages,"GL Cattani, G Winskel","Theoretical Computer Science 300 (1-3), 47-89",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16182394133208066817,11,2003
+"Automata, Languages and Programming: 25th International Colloquium, ICALP'98, Aalborg, Denmark July 13-17, 1998, Proceedings","KG Larsen, S Skyum, G Winskel",Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11356603552575376705,11024938897989580772",11,1998
+Trace structures and other models for concurrency,"M Nielsen, G Winskel","The Book of Traces, 271-305",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4988479395837277796,11,1995
+NAADP-evoked Ca2+ signals through two-pore channel-1 require arginine residues in the first S4-S5 linker,"S Patel, D Churamani, E Brailoiu","Cell calcium 68, 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18287882474561379411,10,2017
+Thin games with symmetry and concurrent hyland-ong games,"S Castellan, P Clairambault, G Winskel",arXiv preprint arXiv:1409.7542,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11211248621112895238,9456787881910758997",10,2014
+Twenty years on: Reflections on the CEDISYS project. Combining true concurrency with process algebra,"G Boudol, I Castellani, M Hennessy, M Nielsen, G Winskel","Concurrency, Graphs and Models, 757-777",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17235884870609679625,10,2008
+Set constraints with intersection,"W Charatonik, A Podelski","Information and Computation 179 (2), 213-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17050874887406918288,10,2002
+"Bistructures, bidomains and linear logic","PL Curien, G Plotkin, G Winskel","BRICS, Department of Computer Science, Univ.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4954610956912924519,10,1997
+"Bistructures, bidomains and linear logic","G Plotkin, G Winskel","International Colloquium on Automata, Languages, and Programming, 352-363",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2961122685758475637,10,1994
+Prime algebraicity,G Winskel,"Theoretical Computer Science 410 (41), 4160-4168",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17216968895097535088,9,2009
+"Language, semantics, and methods for cryptographic protocols","F Crazzolara, G Winskel",BRICS Report Series 7 (18),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14973092502033625993,9,2000
+"Petri nets, algebras and morphisms",G Winskel,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1610039724229489129,9,1985
+"Seminar on Concurrency: Carnegie-Mellon University Pittsburgh, PA, July 9-11, 1984","SD Brookes, AW Roscoe, G Winskel",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6331587008940067382,9,1985
+On concurrent games with payoff,"P Clairambault, G Winskel","Electronic Notes in Theoretical Computer Science 298, 71-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6063704787796601902,8,2013
+"Event structures, stable families and games",G Winskel,"Lecture notes, Comp Science Dept, Aarhus University, Available from http …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15633586058062640272,8,2011
+On the expressivity of symmetry in event structures,"S Staton, G Winskel","2010 25th Annual IEEE Symposium on Logic in Computer Science, 392-401",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18429292514151597220,8,2010
+Symmetry and concurrency,G Winskel,"International Conference on Algebra and Coalgebra in Computer Science, 40-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3275275937597529177,8,2007
+NEW-HOPLA a higher-order process language with name generation,"G Winskel, FZ Nardelli","Exploring New Frontiers of Theoretical Informatics, 521-534","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1925551194231769615,7520949006151686076",8,2004
+On the determinacy of concurrent games on event structures with infinite winning sets,"J Gutierrez, G Winskel","Journal of Computer and System Sciences 80 (6), 1119-1137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4936821777619552826,7,2014
+"Winning, losing and drawing in concurrent games with perfect or imperfect information",G Winskel,"Logic and Program Semantics, 298-317",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2795599269361877827,7,2012
+Set theory for computer science,G Winskel,Unpublished lecture notes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13506010343854092441,7,2010
+Name generation and linearity,G Winskel,"20th Annual IEEE Symposium on Logic in Computer Science (LICS'05), 301-310",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1270360569518424483,7,2005
+Game semantics for quantum programming,"P Clairambault, M De Visme, G Winskel","Proceedings of the ACM on Programming Languages 3 (POPL), 32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3554830055324323856,6,2019
+The True Concurrency of Herbrand's Theorem,"A Alcolei, P Clairambault, M Hyland, G Winskel",27th EACSL Annual Conference on Computer Science Logic (CSL 2018),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16859619527427564637,6,2018
+On probabilistic distributed strategies,G Winskel,"International Colloquium on Theoretical Aspects of Computing, 69-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1581752674983309626,6,2015
+Probabilistic and quantum event structures,G Winskel,"Horizons of the Mind. A Tribute to Prakash Panangaden, 476-497",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8476504955870327260,6,2014
+Imperfect information in logic and concurrent games,"P Clairambault, J Gutierrez, G Winskel","Computation, Logic, Games, and Quantum Foundations. The Many Facets of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16670507228314010003,6,2013
+Limit preservation from naturality,"M Caccamo, G Winskel","Electronic Notes in Theoretical Computer Science 122, 3-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17094016261466751759,6,2005
+Petri nets with persistence,"F Crazzolara, G Winskel","Electronic Notes in Theoretical Computer Science 121, 143-155",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5156767026971022537,6,2005
+Strategies with parallel causes,"M de Visme, G Winskel",arXiv preprint arXiv:1607.03747,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2428258563041054172,5,2016
+Borel determinacy of concurrent games,"J Gutierrez, G Winskel","International Conference on Concurrency Theory, 516-530",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954803493727259571,5,2013
+Concurrent strategies,"G Winskel, S Rideau",Proceedings of LICS 11,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=665999853843950872,4,2011
+Presheaf models for ccs-like languages,"GL Cattani, G Winskel",BRICS Report Series 6 (36),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15304042741789150819,4,1999
+Models for Concurrency: Of Daimi Pb-429,"G Winskel, M Nielsen",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6643138945180893708,4,1993
+Topics in concurrency,G Winskel,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15481509203186197690,3,2019
+Non-angelic concurrent game semantics,"S Castellan, P Clairambault, J Hayman, G Winskel",International Conference on Foundations of Software Science and Computation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1247540416413100165,3,2018
+Concurrent games,"S Castellan, P Clairambault, S Rideau, G Winskel",arXiv preprint arXiv:1604.04390,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13234956647757021701,3,2016
+"Event Structures, Stable Families and Concurrent Games",G Winskel,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16611772065305179786,3,2016
+Event structure semantics for security protocols,"J Hayman, G Winskel",Submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7128721119009666405,3,2013
+"Graphs, rewriting and causality in rule-based models","V Danos, J Feret, W Fontana, R Harmer, J Hayman, J Krivine, ...",Submitted. Available from http://www. cl. cam. ac. uk/∼ jmh93,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18286471845714129975,3,2012
+Symmetry in Petri nets,"J Hayman, G Winskel",Perspectives in Concurrency Theory,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11434132809679051478,3,2008
+Topics in concurrency: Part ii comp. sci. lecture notes,G Winskel,Computer Science course at the University of Cambridge,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2619660911773665253,3,2002
+An exercise in processes with infinite pasts,G Winskel,"Application and Theory of Petri Nets, 88-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16242032423700978089,3,1982
+Continuous probability distributions in concurrent games,"H Paquet, G Winskel","Electronic Notes in Theoretical Computer Science 341, 321-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=409858038992936861,2,2018
+Observably deterministic concurrent strategies and intensional full abstraction for parallel-or,"S Castellan, P Clairambault, G Winskel",2nd International Conference on Formal Structures for Computation and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2889116611507098293,2,2017
+Distributed games and strategies,G Winskel,arXiv preprint arXiv:1607.03760,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6229553166169115179,2,2016
+Types and programming languages,"BC Pierce, R Harper, G Winskel, H Hüttel","Cambridge, Ma, USA: MIT Press",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16951962695867164793,2,2012
+Containment in rule-based models,"CD Thompson-Walsh, J Hayman, G Winskel","Electronic Notes in Theoretical Computer Science 284, 125-137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17910500541601938251,2,2012
+Bicategories of concurrent games,G Winskel,International Conference on Foundations of Software Science and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11894863027346450102,2,2012
+Denotational Semantics,G Winskel,"CS Lecture Notes, Cambridge University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2297136283994937690,2,2005
+Relational semantics of non-deterministic dataflow,"TT Hildebrandt, P Panangaden, G Winskel",BRICS Report Series 4 (36),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3612657713528271327,2,1997
+Event structures: Lecture notes for the Advanced course on Petri nets,G Winskel,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15330078860659621842,2,1986
+Non-deterministic recursive program schemes and powerdomains,G Winskel,"Carnegie-Mellon University, Department of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=966012600500513214,2,1983
+"Petri nets, event structures and domains","G Plotkin, G Winskel",University of Edinburgh,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15698831273086400282,2,1979
+Discrete Mathematics II: Set Theory for Computer Science Part IA Comp. Sci. Lecture Notes,G Winskel,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1724339712452396618,1,2010
+Editors' note: bibliometrics and the curators of orthodoxy,"G Longo, E Asarin, M Barr, G Berry, T Coquand, PL Curien, R De Nicola, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14111462390668169617,1,2009
+A categorical axiomatics for bisimulation,"J Power, G Winskel, GL Cattani","In Proc. of CONCUR’98, LNCS 1466",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7927663568142895235,1,1998
+Concurrent Quantum Strategies,"P Clairambault, M de Visme, G Winskel","International Conference on Reversible Computation, 3-19",,0,2019
+Causal Unfoldings,"M de Visme, G Winskel",8th Conference on Algebra and Coalgebra in Computer Science (CALCO 2019),,0,2019
+"Relative pseudomonads, Kleisli bicategories, and substitution monoidal structures","N Gambino, JM Hyland, G Winskel",,,0,2018
+Non-angelic Concurrent Game Semantics,G Winskel,Foundations of Software Science and Computation Structures: 21st …,,0,2018
+Distributed Strategies Made Easy,"S Castellan, P Clairambault, G Winskel",,,0,2017
+Strategies with Parallel Causes.,"M Visme, G Winskel",,,0,2017
+"For the ACS course Advanced Topics in Concurrency Event Structures, Stable Families and Concurrent Games",G Winskel,,,0,2014
+Topics in Concurrency Lecture Notes,G Winskel,,,0,2009
+Independence and concurrent separation logic,"G Winskel, J Hayman",Logical Methods in Computer Science 4,,0,2008
+WISP’04 Program Committee,"W van der Aalst, T Aura, G Delzanno, J Esparza, A Grusho, J Guttmann, ...","Electronic Notes in Theoretical Computer Science 121, 1-2",,0,2005
+"Event Structures—maps, monads and spans Invited talk",G Winskel,Interaction Nets vs. the ρ-Calculus: Introducing Bigraphical Nets …,,0,2005
+Domain Theory for Concurrency—New Categorical Foundations,"G Winskel, M Fiore",,,0,2004
+Datalogisk grundforskning og informationsteknologi,"M Nielsen, G Winskel","ACTA JUTLANDICA 78 (1), 427-446",,0,2003
+Volume ,G Winskel,"Information and Computation 179 (2), 384-384",,0,2002
+Author Index for Volume 179,G Winskel,"Information and Computation 179 (2), 385-385",,0,2002
+Calculus for categories,G Winskel,"Fixed Points in Computer Science, 20-21",,0,2002
+"The papers in this issue appeared in a preliminary form at the Twelfth Annual IEEE Symposium on Logic in Computer Science (LICS), held June 29 to July 2, 1997, in Warsaw …",G Winskel,"Information and Computation 179, 151",,0,2002
+Boolean Expression Diagrams,"G Winskel, HR Andersen, H Hulgaard","Information and Computation 179 (2), 194-212",,0,2002
+"Andersen, Henrik Reif, 194","S Brookes, I Cervesato, W Charatonik, J Desharnais, A Edalat, ...","Information and Computation 179, 385",,0,2002
+A diagram of strand spaces for security protocols.,"H Wang, F Crazzolara, G Winskel, FJT Fabrega, JC Herzog, JD Guttman, ...","Information Technology Journal 12 (18), pp: 96-105",,0,2001
+BRICS-Computer Science Department of University of Aarhus and Aalborg University,"UH Engberg, M Nielsen, G Winskel","BULLETIN-EUROPEAN ASSOCIATION FOR THEORETICAL COMPUTER SCIENCE 75, 51-62",,0,2001
+"The Workshop on Proof Theory and Complexity, PTAC’98 was organised and sup-ported by BRICS and took place at the University of Aarhus, Denmark, August 3–7. It drew more than 60 …",G Winskel,"Annals of Pure and Applied Logic 104, 1-2",,0,2000
+BRICS-Computer Science Department of University of Aarhus and Aalborg University,"UH Engberg, M Nielsen, G Winskel","BULLETIN-EUROPEAN ASSOCIATION FOR THEORETICAL COMPUTER SCIENCE 69, 45-52",,0,1999
+Towards a Categorical Axiomatics of Bisimulation,"GL Cattani, AJ Power, G Winskel",,,0,1999
+Proof Theory and Complexity PTAC’98,"U Kohlenbach, S Riis, G Winskel",,,0,1998
+An Operational Understanding of Bisimulation from Open Maps,G Winskel,"Electronic Notes in Theoretical Computer Science 10, 50",,0,1998
+A Compositional Proff System for the Modal@ 03BC-calculus,"HR Andersen, C Stirling, G Winskel","BRICS, Department of Computer Science, University of Aarhus",,0,1998
+BRICS-Basic Research In Computer Science,"UH Engberg, M Nielsen, G Winskel","BULLETIN-EUROPEAN ASSOCIATION FOR THEORETICAL COMPUTER SCIENCE 64, 35-39",,0,1998
+Annual Conference of the European Association for Computer Science Logic (CSL’99),"G Winskel, M Wirsing","AI Communications 11, 249-250",,0,1998
+"Automata, Languages, and Programming: 25th International Colloquium, ICALP'98, Aalborg, Denmark, July 13-17, 1998: Proceedings","G Winskel, KG Larsen, S Skyum",Springer,,0,1997
+BRICS-Basic Research In Computer Science,"U Engberg, G Winskel","BULLETIN-EUROPEAN ASSOCIATION FOR THEORETICAL COMPUTER SCIENCE 62, 69-84",,0,1997
+"Bosch, R., see Bagaria, J. Cholak, P., see Ash, CJ","U Engberg, G Winskel, S Ghilardi, G Meloni, P Matet, D Skvortsov, ...",,,0,1997
+Semantics of Concurrent Systems-Foundations and Applications,"M Droste, ER Olderog, B Steffen, G Winskel",,,0,1996
+Information and Computation w Author Index,"PA Abdulla, L Aceto, S Brookes, P Di Gianantonio, MP Fiore, W Fokkink, ...","information and computation 127, 199",,0,1996
+BRICS-Computer Science Departments of University of Aarhus and Aalborg University,"UH Engberg, G Winskel","BULLETIN-EUROPEAN ASSOCIATION FOR THEORETICAL COMPUTER SCIENCE 57, 72-72",,0,1995
+"Semantics, Algorithmics and Logic: Basic Research in Computer Science. BRICS Inaugural Talk",G Winskel,BRICS Report Series,,0,1994
+"Bistructures, Bidomains and Linear Logic","B Bistructures, G Plotkin, G Winskel",,,0,1994
+Recursive types,G Winskel,MIT Press,,0,1993
+Languages with higher types,G Winskel,MIT Press,,0,1993
+The axiomatic semantics of IMP,G Winskel,MIT Press,,0,1993
+The denotational semantics of IMP,G Winskel,MIT Press,,0,1993
+Completeness of the Hoare rules,G Winskel,MIT Press,,0,1993
+Introduction to operational semantics,G Winskel,MIT Press,,0,1993
+Introduction to domain theory,G Winskel,MIT Press,,0,1993
+"UQAM, Montreal, Canada","A Joyal, M Nielsen, G Winskel","Proceedings 8, 418",,0,1993
+Proceedings of the CLICS Workshop: Part I og II,G Winskel,DAIMI Report Series,,0,1992
+"Models, Languages and Logics for Concurrent Distributed Systems: CEDISYS Workshop (Aarhus, 1991, May 21--24)","U Engberg, M Nielsen, G Winskel",DAIMI Report Series,,0,1992
+"Proceedings of the CLICS Workshop: Aarhus University,[Aarhus,] 23-27.03. 1992",G Winskel,Aarhus Universitet. Department of Computer Science,,0,1992
+"Proceedings of the CLICS Workshop: Aarhus University, 23-27 March 1992",G Winskel,"Aarhus University, Computer Science Department",,0,1992
+"Models, languages and logics for concurrent distributed systems: CEDISYS Workshop","U Engberg, M Nielsen, G Winskel","Computer Science Department, Aarhus University",,0,1992
+Petri nets and transition systems (Abstract for an invited talk),G Winskel,International Conference on Foundations of Software Technology and …,,0,1991
+"16TH INTERNATIONAL-COLLOQUIUM ON AUTOMATA, LANGUAGES AND PROGRAMMING STRESA, ITALY, JULY 11-15, 1989-PREFACE","G AUSIELLO, M DEZANICIANCAGLINI, SR DELLAROCCA","THEORETICAL COMPUTER SCIENCE 83 (1), 1-1",,0,1991
+PETRI NETS AND TRANSITION-SYSTEMS,G WINSKEL,"LECTURE NOTES IN COMPUTER SCIENCE 560, 420-420",,0,1991
+"Proceedings of the Third {HOL} Users Meeting: Aarhus University, 1-2 October 1990",G Winskel,DAIMI Report Series,,0,1990
+A Note on Model Checking the Modal,G Winskel,,,0,1990
+The Subject Index for Volume 87 will appear in the December 1990 issue as part of a cumulative index for the year 1990.,"B BLOOM, K BRUCE, R CLEAVELAND, KJ COMPTON, R FAGIN, ...","Information and Computation 87, 339",,0,1990
+"Proceedings of the Third HOL Users Meeting: Aarhus University, 01-02.10. 1990",G Winskel,Aarhus Universitet. Department of Computer Science,,0,1990
+DAIMI PB m 278 April 1989,G Winskel,,,0,1989
+Domain theoretic models of polymorphism,"C Gunter, G Winskel",University of Cambridge Computer Laboratory,,0,1987
+Technical Report iZZee,G Winskel,,,0,1986
+Technical Report Uﬁéﬁﬁiﬁgié,G Winskel,,,0,1986
+"Models and logic of MOS circuits: Lectures for the Marktoberdorf Summerschool, August 1986",G Winskel,"University of Cambridge, Computer Laboratory",,0,1986
+"Seminar on Concurrency (1984: Carnegie-Mellon University, Pittsburgh, Pa.)","G Winskel, AW Roscoe, SD Brookes",Springer-Verlag,,0,1985
+"A CATEGORY OF LABELLED PETRI NETS AND COMPOSITIONAI, pp oop gygrp (Eztended abstract)",G Winskel,,,0,0
+International Summer School on Logic of Programming and Calculi of Discrete Design,"R Bird, M Broy, EW Dijkstra, ECR Hehner, CAR Hoare, G Huet, CB Jones, ...",,,0,0
+A NEW DEFINITION OF MORPHISM ON PETRI NETS A Preliminary Version SttA AAAAA ぶぶ,G Winskel,,,0,0
+"Computer Science Department, Aarhus University, Denmark",G Winskel,,,0,0
+Quantum Game Semantics,"P Clairambault, M de Visme, F Roumen, G Winskel",,,0,0
+A compositional account of Herbrand’s theorem via concurrent games,"A Alcolei, P Clairambault, M Hyland, G Winskel",,,0,0
+Technical Report iZZkk,G Winskel,,,0,0
+A Theory of Recursive Domains,"GL Cattani, M Fiore, G Winskel",,,0,0
+Basic Research in Computer Science,"D Varacca, H Völzer, G Winskel",,,0,0
+"The Logic in Computer Science Symposium, LICS’97 aims to attract high quality original papers covering theoretical and practical issues in computer science that relate to logic …",G Winskel,,,0,0
+Mogens NIELSEN,"G FLBTKIN, G WINSKEL",,,0,0
+Technical Report “§ é? 1%‘1i%'Z § 9'§ Z,G Winskel,,,0,0
+"Computer Science Department Aarhus University Ny Munkegade DK-8000 Aarhus C, Denmark","U e Engberg, G Winskel",,,0,0
+A Preliminary Version~ J\A\^^ S cf,G Winskel,,,0,0
+Vladimiro Sassone Mogens Nielsen,G Winskel,,,0,0
+A Compositional Proof System for the Modal tex2html_wrap_inline20-Calculus Henrik Reif Andersen Colin Stirling,G Winskel,,,0,0
+Deterministic Behavioural Models for Concurrency,"VSM Nielsen, G Winskel",,,0,0
+Computer Laboratory Corn Exchange Street Cambridge C82 39C,G Winskel,,,0,0
+FIRST EUROPEAN WORKSHOP ON APPLICATION AND THEORY OF PETRI NETS,G Winskel,"I nformatik-F achberichte, 88",,0,0
+An implementation model of rendezvous communication,"SD Brookds, AW Roscoe, G Winskel",,,0,0
+Conference Organisers,"S Abramsky, M Grohe, U Kohlenbach, M Abadi, A Aggarwal, M Bezem, ...",,,0,0
+Models for Concurrency and Games,G Winskel,,,0,0
+General Chair Conference Co-Chairs Publicity Chair Workshops Chair,"S Abramsky, A Felty, P Scott, A Simpson, P Panangaden, M Abadi, ...",,,0,0
+"Event Structures, Stable Families and Concurrent Games Notes for “Distributed Games and Strategies” ACS2015",G Winskel,,,0,0
+Publicity Chair,"L Libkin, A Aggarwal, M Bezem, W Brauer, E Clarke, R Constable, ...",,,0,0
+"Automata, languages and programming(Aalborg, 13-17 July 1998)","KG Larsen, S Skyum, G Winskel",Lecture notes in computer science,,0,0
+Proc. of WoLLIC'2000,"A Asperti, A Macintyre, T Pitassi, B Poizat, G Winskel",,,0,0
+A Compositional Proof System for the Modal-Calculus,"HR Anderseny, C Stirling, G Winskel",,,0,0
+Computer Laboratory Corn Exchange Street,G Winskel,,,0,0
+John Mitchell Angelo Montanari Tal Mor Andrei Morozov,"R Negulescu, F Neven, J Niehren, T Nipkow, T Noll, E Ohlebusch, ...",,,0,0

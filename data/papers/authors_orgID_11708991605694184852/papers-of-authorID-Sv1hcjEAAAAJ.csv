@@ -1,0 +1,305 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Isabelle/HOL: a proof assistant for higher-order logic,"T Nipkow, LC Paulson, M Wenzel",Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3806164623484514129,5257981436718582028,6584179434799688088",3641,2002
+Isabelle: A generic theorem prover,LC Paulson,Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13716001498922326457,8181033632991131545,11063203323789303198,4056321635614519323",2166,1994
+ML for the Working Programmer,"LC Paulson, LC Paulson",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6920852276712524226,1277,1996
+The inductive approach to verifying cryptographic protocols,LC Paulson,"Journal of computer security 6 (1-2), 85-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5940920965806658101,1212,1998
+Logic and computation: interactive proof with Cambridge LCF,LC Paulson,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2956509884730778329,567,1990
+The foundation of a generic theorem prover,LC Paulson,"Journal of Automated Reasoning 5 (3), 363-397",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10606844918778114865,528,1989
+Proving properties of security protocols by induction,LC Paulson,"Proceedings 10th Computer Security Foundations Workshop, 70-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10947272411809272269,390,1997
+Inductive analysis of the Internet protocol TLS,LC Paulson,"ACM Transactions on Information and System Security (TISSEC) 2 (3), 332-351",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=516758422713334853,311,1999
+Metitarski: Past and future,LC Paulson,"International Conference on Interactive Theorem Proving, 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457864019437401408,230,2012
+Natural deduction as higher-order resolution,LC Paulson,"The Journal of Logic Programming 3 (3), 237-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=160295864228188210,209,1986
+The Isabelle reference manual,LC Paulson,"University of Cambridge, Computer Laboratory","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442270113225711551,852695713111453408",188,1993
+Kerberos version IV: Inductive analysis of the secrecy goals,"G Bella, LC Paulson","European Symposium on Research in Computer Security, 361-375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3256596155942214752,181,1998
+Mechanized proofs for a recursive authentication protocol,LC Paulson,"Proceedings 10th Computer Security Foundations Workshop, 84-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13165525801631223057,179,1997
+Translating higher-order clauses to first-order clauses,"J Meng, LC Paulson","Journal of Automated Reasoning 40 (1), 35-60","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2402093900056292784,8184260990737612243,11280992214572996249",151,2008
+A higher-order implementation of rewriting,LC Paulson,arXiv preprint cs/9301108,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12364152090179918240,151,2001
+Should your specification language be typed,"L Lamport, LC Paulson","ACM Transactions on Programming Languages and Systems (TOPLAS) 21 (3), 502-526",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2818886056791522928,149,1999
+LEO-II-a cooperative automatic theorem prover for classical higher-order logic (system description),"C Benzmüller, LC Paulson, F Theiss, A Fietzke","International Joint Conference on Automated Reasoning, 162-170","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13358722129697107747,14809915724489472646",139,2008
+The isabelle framework,"M Wenzel, LC Paulson, T Nipkow","International Conference on Theorem Proving in Higher Order Logics, 33-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=729556963542517710,133,2008
+Set theory for verification: I. From foundations to functions,LC Paulson,"Journal of Automated Reasoning 11 (3), 353-389",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9670890737310756846,133,1993
+MetiTarski: An automatic theorem prover for real-valued special functions,"B Akbarpour, LC Paulson","Journal of Automated Reasoning 44 (3), 175-205",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9826756115088533682,125,2010
+Lightweight relevance filtering for machine-generated resolution problems,"J Meng, LC Paulson","Journal of Applied Logic 7 (1), 41-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3302013980488248718,120,2009
+Introduction to isabelle,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17689928088547477452,119,1992
+A semantics-directed compiler generator,L Paulson,Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4253209115281804577,118,1982
+Extending Sledgehammer with SMT solvers,"JC Blanchette, S Böhme, LC Paulson","Journal of automated reasoning 51 (1), 109-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=963002136997350897,115,2013
+Locales a sectioning concept for Isabelle,"F Kammüller, M Wenzel, LC Paulson","International Conference on Theorem Proving in Higher Order Logics, 149-165",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7087327345837937146,115,1999
+A fixedpoint approach to implementing (co) inductive definitions,LC Paulson,"International Conference on Automated Deduction, 148-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12184869807111858612,113,1994
+Relations between secrets: Two formal analyses of the Yahalom protocol,LC Paulson,"Journal of computer security 9 (3), 197-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043912161997742926,108,2001
+Set theory for verification. II: Induction and recursion,LC Paulson,"Journal of Automated Reasoning 15 (2), 167-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5035035387096747921,107,1995
+Quantified multimodal logics in simple type theory,"C Benzmüller, LC Paulson","Logica Universalis 7 (1), 7-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3214364943087150829,105,2013
+A generic tableau prover and its integration with Isabelle,LC Paulson,"Journal of Universal Computer Science 5 (3), 73-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2584233625053675899,105,1999
+Hammering towards QED,"JC Blanchette, C Kaliszyk, LC Paulson, J Urban","Journal of Formalized Reasoning 9 (1), 101-148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=334188510870133552,101,2016
+Extending Sledgehammer with SMT solvers,"JC Blanchette, S Böhme, LC Paulson","International Conference on Automated Deduction, 116-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16060758196066002327,101,2011
+Isabelle tutorial and user’s manual,"LC Paulson, T Nipkow","University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12837331103280174185,100,1990
+Verifying the SET registration protocols,"G Bella, F Massacci, LC Paulson","IEEE Journal on Selected Areas in Communications 21 (1), 77-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7382659093974975806,97,2003
+Mechanizing coinduction and corecursion in higher-order logic,LC Paulson,"Journal of Logic and Computation 7 (2), 175-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1240922436525308320,96,1997
+Verifying the unification algorithm in LCF,LC Paulson,"Science of computer programming 5, 143-169",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295655035877833380,90,1985
+Constructing recursion operators in intuitionistic type theory,LC Paulson,"Journal of Symbolic Computation 2 (4), 325-355",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16857977109230623634,85,1986
+Source-level proof reconstruction for interactive theorem proving,"LC Paulson, KW Susanto","International Conference on Theorem Proving in Higher Order Logics, 232-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10567536678698024728,83,2007
+Mechanical proofs about a non-repudiation protocol,"G Bella, LC Paulson","International Conference on Theorem Proving in Higher Order Logics, 91-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2634168001569814188,81,2001
+"Isabelle. LNCS, vol. 828",LC Paulson,"Springer, Heidelberg",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17916753118313443398,79,1994
+Isabelle,LC Paulson,Lecture notes in computer science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2329175957235762735,78,1994
+The higher-order prover LEO-II,"C Benzmüller, N Sultana, LC Paulson, F Theiß","Journal of Automated Reasoning 55 (4), 389-404",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15401127220207709855,77,2015
+Automation for interactive proof: First prototype,"J Meng, C Quigley, LC Paulson","Information and computation 204 (10), 1575-1596","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14976482598287008308,2490128216897371432",77,2006
+The verification of an industrial payment protocol: The SET purchase phase,"G Bella, LC Paulson, F Massacci",Proceedings of the 9th ACM conference on Computer and communications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16466263909180468831,77,2002
+Formal verification of cardholder registration in SET,"G Bella, F Massacci, LC Paulson, P Tramontano","European Symposium on Research in Computer Security, 159-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18240050152660002644,72,2000
+Mechanizing set theory,"LC Paulson, K Grabczewski","Journal of Automated Reasoning 17 (3), 291-323","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4574934950719544809,10257992642620822702,12841335213340989914",68,1996
+Using Isabelle to prove properties of the Kerberos authentication system,"G Bella, LC Paulson",In DIMACS Workshop on Design and Formal Verification of Security Protocols,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13827574995572904496,66,1997
+Verifying the SET purchase protocols,"G Bella, F Massacci, LC Paulson","Journal of Automated Reasoning 36 (1-2), 5-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=677972776054140697,65,2006
+Isabelle's object-logics,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2559734855297516071,64,1993
+Isabelle-91,"T Nipkow, LC Paulson","International Conference on Automated Deduction, 673-676",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14304311697360960490,60,1992
+Machine learning for first-order theorem proving,"JP Bridge, SB Holden, LC Paulson","Journal of automated reasoning 53 (2), 141-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8641305737702400192,54,2014
+Generic automatic proof tools,LC Paulson,arXiv preprint cs/9711106,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7404868828278191663,54,2001
+Mechanizing UNITY in isabelle,LC Paulson,"ACM Transactions on Computational Logic (TOCL) 1 (1), 3-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17616720707246186708,54,2000
+A fixedpoint approach to (co) inductive and (co) datatype definitions.,LC Paulson,"Proof, Language, and Interaction, 187-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7878877802019348333,53,2000
+Accountability protocols: Formalized and verified,"G Bella, LC Paulson","ACM Transactions on Information and System Security (TISSEC) 9 (2), 138-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17199822453559577648,51,2006
+An overview of the verification of SET,"G Bella, F Massacci, LC Paulson","International Journal of Information Security 4 (1-2), 17-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9760972475033405505,51,2005
+Proving security protocols correct,LC Paulson,Proceedings. 14th Symposium on Logic in Computer Science (Cat. No. PR00158 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3086939113607618789,51,1999
+Mechanising BAN Kerberos by the inductive method,"G Bella, LC Paulson","International Conference on Computer Aided Verification, 416-427",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9244586550474085180,48,1998
+Isabelle’s logics: HOL,"T Nipkow, LC Paulson, M Wenzel",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11854640116788814526,7132662645794603872",47,2013
+Experiments on supporting interactive proof using resolution,"J Meng, LC Paulson","International Joint Conference on Automated Reasoning, 372-384",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13884387484235277570,47,2004
+The ML handbook,"G Cousineau, M Gordon, G Huet, R Milner, L Paulson, C Wadsworth",INRIA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3327569684459531404,47,1986
+MetiTarski: An automatic prover for the elementary functions,"B Akbarpour, LC Paulson","International Conference on Intelligent Computer Mathematics, 217-231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18369554723203637086,44,2008
+Mechanized proofs of security protocols: Needham-Schroeder with public keys,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=683453633323217107,44,1997
+Co-induction and co-recursion in higher-order logic,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17550821111872868956,43,1993
+Multimodal and intuitionistic logics in simple type theory ,"C Benzmüller, LC Paulson","Logic Journal of the IGPL 18 (6), 881-892",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14963452128184411985,42,2010
+Isabelle: The next seven hundred theorem provers,LC Paulson,"9TH INTERNATIONAL CONFERENCE ON AUTOMATED DEDUCTION, 772--773","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=51890485347120299,1815212535014388118",42,1988
+Designing a theorem prover,LC Paulson,arXiv preprint cs/9301110,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10400248496183657472,41,2001
+Formal verification of analog designs using MetiTarski,"W Denman, B Akbarpour, S Tahar, MH Zaki, LC Paulson","2009 Formal Methods in Computer-Aided Design, 93-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5145356806019480722,39,2009
+A formal proof of sylow's theorem,"F Kammüller, LC Paulson","Journal of Automated Reasoning 23 (3), 235-264","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6252884299869190427,17578645039410338632",39,1999
+A compiler generator for semantic grammars,L Paulson,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4127381567119396703,38,1981
+Interactive theorem proving with cambridge lcf: a user's manual,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1961842756512068795,37,1985
+Verifying second-level security protocols,"G Bella, C Longo, LC Paulson","International Conference on Theorem Proving in Higher Order Logics, 352-366",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3109033848191236973,36,2003
+The archive of formal proofs,"G Klein, T Nipkow, L Paulson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12827755590568652778,36,2003
+A formulation of the simple theory of types (for Isabelle),LC Paulson,"International Conference on Computer Logic, 246-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10080123633529965511,36,1988
+Proving termination of normalization functions for conditional expressions,LC Paulson,Technical report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10737852847377445861,36,1985
+Applying machine learning to the problem of choosing a heuristic to select the variable ordering for cylindrical algebraic decomposition,"Z Huang, M England, D Wilson, JH Davenport, LC Paulson, J Bridge","International Conference on Intelligent Computer Mathematics, 92-107",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3395914277344319810,34,2014
+Tactics and tacticals in Cambridge LCF,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8708989784980592749,34,1983
+Exploring properties of normal multimodal logics in simple type theory with LEO-II,"C Benzmüller, L Paulson","Festschrift in Honor of Peter B. Andrews on His 70th Birthday, 386-406",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17636106010264085590,32,2008
+A concrete final coalgebra theorem for ZF set theory,LC Paulson,"International Workshop on Types for Proofs and Programs, 120-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18021420604901016586,31,1994
+Defining functions on equivalence classes,LC Paulson,"ACM Transactions on Computational Logic (TOCL) 7 (4), 658-675",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14623974148764382310,30,2006
+Applications of MetiTarski in the verification of control and hybrid systems,"B Akbarpour, LC Paulson","International Workshop on Hybrid Systems: Computation and Control, 1-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590890845798563668,29,2009
+Isabelle/isar,"M Wenzel, L Paulson","The seventeen provers of the world, 41-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16757881788037910946,29,2006
+Delegation of responsibilities,B Crispo,"International Workshop on Security Protocols, 118-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8942162950181775138,27,1998
+"Logic programming, functional programming, and inductive definitions","LC Paulson, AW Smith","International Workshop on Extensions of Logic Programming, 283-309",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3742729881645222765,27,1989
+LEO-II and Satallax on the Sledgehammer test bench,"N Sultana, JC Blanchette, LC Paulson","Journal of Applied Logic 11 (1), 91-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11324593135022754703,26,2013
+Translating higher-order problems to first-order clauses,"J Meng, LC Paulson","ESCoR: Empir. Successful Comp. Reasoning, 70-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3856547750773360981,25,2006
+A simple formalization and proof for the mutilated chess board,LC Paulson,"Logic Journal of IGPL 9 (3), 475-485",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12703711444057362457,25,2001
+The representation of logics in higher-order logic,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11617246296810052888,25,1987
+Organizing numerical theories using axiomatic type classes,LC Paulson,"Journal of Automated Reasoning 33 (1), 29-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2825262192488910212,24,2004
+The Relative Consistency of the Axiom of Choice Mechanized Using Isabelle⁄ zf,LC Paulson,"LMS Journal of Computation and Mathematics 6, 198-248",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6396575013085023387,23,2003
+Mechanizing nonstandard real analysis,"JD Fleuriot, LC Paulson","LMS Journal of Computation and Mathematics 3, 140-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17063502928961429425,23,2000
+"A combination of nonstandard analysis and geometry theorem proving, with application to Newton's Principia","JD Fleuriot, LC Paulson","International Conference on Automated Deduction, 3-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9830517334289925043,23,1998
+A mechanised proof of Gödel’s incompleteness theorems using Nominal Isabelle,LC Paulson,"Journal of Automated Reasoning 55 (1), 1-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14246321041968505387,22,2015
+Mechanizing a theory of program composition for UNITY,LC Paulson,"ACM Transactions on Programming Languages and Systems (TOPLAS) 23 (5), 626-656",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=559582201457961583,22,2001
+Real algebraic strategies for MetiTarski proofs,"GO Passmore, LC Paulson, L De Moura","International Conference on Intelligent Computer Mathematics, 358-370",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9849665699922871460,20,2012
+A pragmatic approach to extending provers by computer algebra—with applications to coding theory,"C Ballarin, LC Paulson","Fundamenta Informaticae 39 (1, 2), 1-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12148148505692448417,20,1999
+A machine-assisted proof of Gödel’s incompleteness theorems for the theory of hereditarily finite sets,LC Paulson,"The Review of Symbolic Logic 7 (3), 484-498",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18081756153916099205,19,2014
+Isabelle’s Logics: FOL and ZF,LC Paulson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11530960490342901602,19,2013
+Verifying the SET protocol: Overview,LC Paulson,"Formal Aspects of Security, 4-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15638865357967665981,19,2002
+Isabelle HOL-the tutorial,"T Nipkow, L Paulson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11783080599681497127,19,2001
+Lessons learned from LCF: a survey of natural deduction proofs,LC Paulson,"The Computer Journal 28 (5), 474-479",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3143535927453833356,19,1985
+Extending a resolution prover for inequalities on elementary functions,"B Akbarpour, LC Paulson",International Conference on Logic for Programming Artificial Intelligence …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9910262544468856583,18,2007
+Proof pearl: Defining functions over finite sets,"T Nipkow, LC Paulson","International Conference on Theorem Proving in Higher Order Logics, 385-396",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6039674070896988737,18,2005
+Deriving structural induction in LCF,L Paulson,"International Symposium on Semantics of Data Types, 197-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3443008276719350841,17,1984
+Formal verification of analog circuits in the presence of noise and process variation,"R Narayanan, B Akbarpour, MH Zaki, S Tahar, LC Paulson","2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2847251896919908594,16,2010
+"Progress report on LEO-II, an automatic theorem prover for higher-order logic","C Benzmüller, L Paulson, F Theiss, A Fietzke","TPHOLs: Emerging Trends. CS Dept., University of Kaiserslautern, Internal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15533290094625058389,16,2007
+A preliminary users manual for Isabelle,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17992818096566561951,16,1988
+The Isabelle/Isar Implementation,"M Wenzel, F Haftmann, L Paulson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17060735320664715179,15,2013
+Towards automatic proofs of inequalities involving elementary functions,"B Akbarpour, LC Paulson","PDPAR: Pragmatics of Decision Procedures in Automated Reasoning, 27-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14823935467623784588,15,2006
+On two formal analyses of the Yahalom protocol,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1449224260700914725,14,1997
+Isabelle’s logics,LC Paulson,"Technical report. 15 February 2001, doc/logics. dvi in the Isabelle distribution",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6844779826517815303,13,2013
+Strategic principles in the design of Isabelle,LC Paulson,"CADE-15 Workshop on Strategies in Automated Deduction, 11-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7708076582984085274,13,1998
+Computational logic: its origins and applications,LC Paulson,"Proceedings of the Royal Society A: Mathematical, Physical and Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=55378093273731820,12,2018
+Using machine learning to decide when to precondition cylindrical algebraic decomposition with Groebner bases,"Z Huang, M England, JH Davenport, LC Paulson",2016 18th International Symposium on Symbolic and Numeric Algorithms for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12326168540106658693,12,2016
+"A modular, efficient formalisation of real algebraic numbers","W Li, LC Paulson",Proceedings of the 5th ACM SIGPLAN Conference on Certified Programs and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7275537994148081960,12,2016
+The LEO-II Project,"C Benzmüller, L Paulson, F Theiss, A Fietzke","Automated Reasoning Workshop 17 (23), 157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8742163272948287676,12,2007
+Verifying the SET purchase protocols,"G Bella, F Massacci, LC Paulson","University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8385866156083056795,12,2001
+Introduction to Isabelle,LC Paulson,University of Cambridge Computer Laboratory,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7171263745077971383,12,1994
+Program composition in Isabelle/UNITY,"SO Ehmety, LC Paulson","ipdps, 0209b",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6732600755399076626,11,2002
+"The ML Handbook, Version 5.1","M Gordon, R Milner, C Wadsworth, G Cousineau, G Huet, L Paulson","INRIA, October",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3976349384537131595,11,1984
+Interactive Theorem Proving,"M Kaufmann, LC Paulson",Lecture Notes in Computer Science 6172,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8132849368943634642,10,2010
+Foundations of functional programming,LC Paulson,University of Cambridge,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7113640534218863289,10,1995
+A formal proof of Cauchy’s residue theorem,"W Li, LC Paulson","International Conference on Interactive Theorem Proving, 235-251",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4224251989939490166,9,2016
+A formalisation of finite automata using hereditarily finite sets,LC Paulson,"International Conference on Automated Deduction, 231-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7585546800869152296,9,2015
+Verifying multicast-based security protocols using the inductive method,"JE Martina, LC Paulson","International Journal of Information Security 14 (2), 187-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9336481235398433965,9,2015
+Automated machine-checked hybrid system safety proofs,"H Geuvers, A Koprowski, D Synek, E van der Weegen","International Conference on Interactive Theorem Proving, 259-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14147266718622972634,9,2010
+The reflection theorem: A study in meta-theoretic reasoning,LC Paulson,"International Conference on Automated Deduction, 377-391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13145003311455610875,9,2002
+Proving Newton’s Propositio Kepleriana using geometry and nonstandard analysis in Isabelle,"JD Fleuriot, LC Paulson","International Workshop on Automated Deduction in Geometry, 47-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9340273555530498667,9,1998
+Tool support for logics of programs,LC Paulson,"Mathematical Methods in Program Development, 461-498",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7685469815030817654,9,1997
+Deciding univariate polynomial problems using untrusted certificates in Isabelle/HOL,"W Li, GO Passmore, LC Paulson","Journal of Automated Reasoning 62 (1), 69-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7838156394450713650,8,2019
+Case splitting in an automatic theorem prover for real-valued special functions,"JP Bridge, LC Paulson","Journal of automated reasoning 50 (1), 99-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2056796612251188797,8,2013
+Isabelle proof assistant,"L Paulson, T Nipkow, M Wenzel",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13588575937387335988,8,2009
+SET cardholder registration: the secrecy proofs,LC Paulson,"International Joint Conference on Automated Reasoning, 5-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18274464425422002524,8,2001
+Experience with Isabelle: A generic theorem prover,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16249062439877427363,8,1988
+"Logic and Computation, volume 2 of",LC Paulson,Cambridge tracts in theoretical computer science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7915603924078195415,8,1987
+The revised logic PPLAMBDA: a reference manual,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8836170100131490096,8,1983
+"Isabelle/Isar, The Seventeen Provers of the World","M Wenzel, L Paulson","Springer-Verlag, Berlin, Heidelberg",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8176803278746004514,7,2006
+Mechanizing compositional reasoning for concurrent systems: some lessons,"SO Ehmety, LC Paulson","Formal Aspects of Computing 17 (1), 58-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7944924275957830134,7,2005
+Final coalgebras as greatest fixed points in ZF set theory,LC Paulson,"Mathematical Structures in Computer Science 9 (5), 545-567",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9722181816616190231,7,1999
+Inductive analysis of the Internet protocol TLS (transcript of discussion),LC Paulson,"Proceedings of the 6th International Workshop on Security Protocols, 13-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6115134384627360562,7,1998
+Hammering Away,"JC Blanchette, LC Paulson",A User’s Guide to Sledgehammer for Isabelle/HOL. url: http://isabelle. in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7828876052283150363,6,2013
+The Old Isabelle Reference Manual,LC Paulson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701887387194185999,6,2013
+The Isabelle/HOL algebra library,"C Ballarin, FK Hohe, LC Paulson","Technical report, Isabelle/HOL Library, 2018. https://isabelle. in. tum. de …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=21266732172211963,6,2008
+Logic and proof,LC Paulson,Cambridge University lecture notes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=320378243336775338,6,2008
+Hand scrub products—performance requirements versus clinical relevance,DS Paulson,"AORN journal 80 (2), 225-234","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16905797085748772697,7678854132945943035",6,2004
+Isabelle homepage,"L Paulson, T Nipkow",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5248864918296030943,6,2003
+A Proof of Non-repudiation,"G Bella, LC Paulson","International Workshop on Security Protocols, 119-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2418615517161794150,6,2001
+Set Theory for Verification: II,L Paulson,Induction and Recursion. doi 10,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3933281463663236527,6,2000
+Preface to special issue on scale in hydrology,"A Becker, G Bloeschl, A Hall","J. Hydrol 217, 169-170","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=816418411429413905,12574536035260865421",6,1999
+Reasoning about coding theory: The benefits we get from computer algebra,"C Ballarin, LC Paulson",International Conference on Artificial Intelligence and Symbolic Computation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5521310809527835321,6,1998
+Are timestamps worth the effort? A formal treatment,"G Bella, LC Paulson","University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13082371527523095874,6,1998
+PROGRAM VERIFICATION-THE VERY IDEA,JC Pleasant,"Communications of the ACM 32 (3), 374-375","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6568881765706300983,1833891761343723242",6,1989
+"Isabelle, 2013","L Paulson, T Nipkow, M Wenzel",URL http://isabelle. in. tum. de,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8444826393095916900,5,2015
+ML 程序设计教程,LC Paulson,北京: 机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16052626481714141859,5,2005
+Representing component states in higher-order logic,"SO Ehmety, LC Paulson","TPHOLs, 151-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1733730706834019395,5,2001
+ISABELLE’s Logics: HOL. Web only,"T Nipkow, LC Paulson, M Wenzel",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14743146307454413715,5,2000
+Recent developments in LCF: examples of structural induction,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14183460696916151327,5,1983
+Te Isabelle/Isar Reference Manual. Ed. by Makarius Wenzel. Apr,"M Wenzel, C Ballarin, S Berghofer, T Bourke, L Dixon, F Haftmann, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6043023351489136498,5,0
+An Isabelle/HOL formalisation of Green’s theorem,"M Abdulaziz, LC Paulson","Journal of Automated Reasoning 63 (3), 763-786",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8889729863240816713,4,2019
+Evaluating Winding Numbers and Counting Complex Roots through Cauchy Indices in Isabelle/HOL,"W Li, LC Paulson","Journal of Automated Reasoning, 1-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2604716024401135588,4,2018
+Verifying hybrid systems involving transcendental functions,"P Jackson, A Sogokon, J Bridge, L Paulson","NASA Formal Methods Symposium, 188-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15653275868784404888,4,2014
+A Termination Checker for Isabelle Hoare Logic.,"J Meng, LC Paulson, G Klein",VERIFY,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4270492304921048749,4,2007
+Is the verification problem for cryptographic protocols solved?,"G Bella, C Longo, LC Paulson","International Workshop on Security Protocols, 183-189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9230860152784131730,4,2003
+Making sense of specifications: the formalization of set,"G Bella, F Massacci, LC Paulson, P Tramontano","International Workshop on Security Protocols, 74-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1731290547143129300,4,2000
+Relations between secrets: The Yahalom protocol,LC Paulson,"International Workshop on Security Protocols, 73-77",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2379123253707559557,4,1999
+Structural Induction in LCF,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15324366843430575019,4,1984
+Lessons learned from LCF,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3403720154973673370,4,1984
+Rewriting in Cambridge LCF,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2404338057799393012,4,1983
+Using machine learning to improve cylindrical algebraic decomposition,"Z Huang, M England, DJ Wilson, J Bridge, JH Davenport, LC Paulson","Mathematics in Computer Science, 1-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16142804605333808521,3,2019
+Formalising mathematics in simple type theory,LC Paulson,"Reflections on the Foundations of Mathematics, 437-453",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14258128950490150440,3,2019
+A comparison of three heuristics to choose the variable ordering for CAD,"Z Huang, M England, D Wilson, JH Davenport, LC Paulson",arXiv preprint arXiv:1405.6082,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13250743837719138550,3,2014
+An application of machine learning to RCF decision procedures,"Z Huang, L Paulson",Proc. 20th Automated Reasoning Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15901922257610035254,3,2013
+"Interactive Theorem Proving: First International Conference, ITP 2010 Edinburgh, UK, July 11-14, 2010, Proceedings","M Kaufmann, LC Paulson",Springer,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8382049371999823966,17164401197286612339",3,2010
+Exploring Properties of Normal Multimodal Logics in Simple Type Theory with LEO-II. Festschrift in Honor of Peter B. Andrews on His 70th Birthday,"CE Benzmüller, LC Paulson, T Peter, B Andrews",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11012170801865302905,3,2008
+Introduction to ,"J Avigad, JC Blanchette, G Klein, L Paulson, A Popescu, G Snelting","Journal of Automated Reasoning 61 (1-4), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15391470210923417077,2,2018
+Proofs and reconstructions,"N Sultana, C Benzmüller, LC Paulson","International Symposium on Frontiers of Combining Systems, 256-271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8757047830716084521,2,2015
+Real-valued special functions: Upper and lower bounds,LC Paulson,Archive of Formal Proofs 2014,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6557254828034201645,2,2014
+ITP 2010,"JC Blanchette, T Nipkow, M Kaufmann, L Paulson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16455559147488787870,2,2010
+The Relative Consistency of the Axiom of Choice—Mechanized Using Isabelle/ZF,LC Paulson,"Conference on Computability in Europe, 486-490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10852477034065232524,2,2008
+Lightweight relevance filtering for machine-generated resolution,"J Meng, LC Paulson",Conference Organising Committee,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6744326593714618575,2,2006
+Proof Pearl: Defining Functions Over Finite Sets. volume 3603 of LNCS,"T Nipkow, LC Paulson",Information and Computation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18238943986575957444,2,2005
+Mechanizing compositional reasoning for concurrent systems: Some lessons,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12548075412894436738,2,2003
+Analyzing delegation properties,"G Bella, LC Paulson","International Workshop on Security Protocols, 120-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15456974102689646527,2,2002
+Automation for interactive proof,LC Paulson,Grant Proposal to the UK Engineering and Physical Sciences Research Council,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6900837635861672117,2,2002
+"Logic Programming, Functional Programming, and Inductive Definitions","LC Paulson, AW Smith",arXiv preprint cs/9301109,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9500173507474467061,2,2001
+Making Sense of Specifications: The Formalization of SET,LC Paulson,"International Workshop on Security Protocols, 82-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13381915913834439356,2,2000
+Set theory as a computational logic: I. from foundations to functions,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2949897072349926719,2,1992
+Tactics and Tacticals in LCF,LC Paulson,"Computer Laboratory, University of Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11157673865239353603,2,1983
+"Cambridge University Press, 1996",LC Paulson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2015461051281794730,2,0
+The prime number theorem,"M Eberl, LC Paulson",Archive of Formal Proofs 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16159841676941172421,1,2018
+A complete decision procedure for univariate polynomial problems in Isabelle/HOL,"W Li, GO Passmore, LC Paulson",arXiv preprint arXiv:1506.08238,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6590100617958944161,1,2015
+Old Introduction to Isabelle,LC Paulson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7817011953815209024,1,2013
+A mechanised proof of Gödel’s incompleteness theorems using Nominal Isabelle,LC Paulson,Submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7356862493996970948,1,2013
+Automatic Proof Procedures for Polynomials and Special Functions,"LC Paulson, PB Jackson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15679577126985385360,1,2010
+Beyond Linear Arithmetic: Automatic Proof Procedures for the Reals,LC Paulson,"EPSRC Grant Proposal, URL: http://www. cl. cam. ac. uk/lp15/Grants/arith. html",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8140360663677711329,1,2005
+The supplemental Isabelle/HOL library,"G Bauer, T Nipkow, D Oheimb, LC Paulson, TM Rasmussen, C Tabacznyj, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13331331828489789162,1,2002
+J. UCS Special Issue on Integration of Deduction Systems,LC Paulson,"Journal of Universal Computer Science 5 (3), 50-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1559520410081089414,1,1999
+A simple formalization and proof for the mutilated chess board,LC Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8404598844236682355,1,1996
+PROGRAM VERIFICATION-THE VERY IDEA,"WR Bevier, MK Smith, WD Young","COMMUNICATIONS OF THE ACM 32 (3), 375-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9235464093833664645,1,1989
+Structural induction in LCF,L Paulson,"University of Cambridge, Computer Laboratory",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10925353577350639150,1,1983
+Authentication Logics: New Theory and Implementations,"LC Paulson, RM Needham","Computer Laboratory, University of Cambridge, EPSRC research proposal GR K 77051",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2257730215922610987,1,0
+Zermelo Fraenkel Set Theory in Higher-Order Logic,LC Paulson,,,0,2019
+Bayesian Optimisation with Gaussian Processes for Premise Selection,"A Słowik, C Mangla, M Jamnik, SB Holden, LC Paulson",arXiv preprint arXiv:1909.09137,,0,2019
+From LCF to Isabelle/HOL,"LC Paulson, T Nipkow, M Wenzel","Formal Aspects of Computing, 1-24",,0,2019
+The UNITY Formalism,"S Ehmety, LC Paulson",,,0,2019
+Counting polynomial roots in Isabelle/HOL: a formal proof of the Budan-Fourier theorem,"W Li, LC Paulson",Proceedings of the 8th ACM SIGPLAN International Conference on Certified …,,0,2019
+Michael John Caldwell Gordon. 28 February 1948—22 August 2017,LC Paulson,"Biographical Memoirs of Fellows of the Royal Society, 89-113",,0,2018
+Time to Retire'Computational Thinking'?,LC Paulson,"COMMUNICATIONS OF THE ACM 60 (9), 8-8",,0,2017
+HOL88 proof assistant,"MJ Gordon, LC Paulson",,,0,2017
+Porting the HOL light analysis library: some lessons (invited talk),LC Paulson,Proceedings of the 6th ACM SIGPLAN Conference on Certified Programs and …,,0,2017
+Isabelle-86-source code from the interactive theorem prover Isabelle upon its original release in 1986,LC Paulson,,,0,2016
+Isabelle-89-source code from the interactive theorem prover Isabelle upon its release in 1989,LC Paulson,,,0,2016
+Gödel’s Incompleteness Theorems,LC Paulson,,,0,2016
+The Hereditarily Finite Sets,LC Paulson,,,0,2016
+Proving the impossibility of trisecting an angle and doubling the cube,"R Romanos, L Paulson",,,0,2016
+"Research data supporting"" A semantics-directed compiler generator""",LC Paulson,University of Cambridge,,0,2016
+The Cartan Fixed Point Theorems,LC Paulson,Archive of Formal Proofs 2016,,0,2016
+The Future of Formalised Mathematics,LC Paulson,"EACA 2016, 17",,0,2016
+Automated theorem proving for special functions: the next phase,LC Paulson,"Proceedings of the 2014 Symposium on Symbolic-Numeric Computation, 3-8",,0,2014
+MetiTarski’s Menagerie of Cooperating Systems,LC Paulson,"International Symposium on Frontiers of Combining Systems, 1-6",,0,2013
+What We Want from Computer Science,LC Paulson,"COMMUNICATIONS OF THE ACM 56 (7), 8-9",,0,2013
+Quantifier Elimination for Linear Arithmetic,T Nipkow,,,0,2013
+OVERCOMING INTRACTABLE COMPLEXITY IN AN AUTOMATIC THEOREM PROVER FOR REAL-VALUED FUNCTIONS,LC PAULSON,"CCA 2012, 31",,0,2012
+The Constructible Universe and the Relative Consistency of the Axiom of Choice,LC Paulson,"image 2, 1",,0,2012
+Security Protocols,"G Bella, F Blanqui, LC Paulson",,,0,2012
+"Kleene Algebras, Rewriting Mod-ulo AC, and Circuits in Coq","G BERRY, DR GHICA, C PAULIN-MOHRING, LC PAULSON, D POUS, ...",Cambridge University,,0,2012
+What Liability for Faulty Software?,LC Paulson,"COMMUNICATIONS OF THE ACM 55 (2), 6-6",,0,2012
+Functional Programming in ML.,LC Paulson,"Encyclopedia of Software Engineering, 333-346",,0,2010
+"Robin Milner The Elegant Pragmatist (vol 53, pg 20, 2010)",LC Paulson,"COMMUNICATIONS OF THE ACM 53 (11), 7-7",,0,2010
+Automated Formal Verification of Analog/RF Circuits in the Presence of Noise,"R Narayanan, B Akbarpour, MH Zaki, S Tahar, LC Paulson",,,0,2009
+SEKI is published by the following institutions,"CP Wirth, IH Anellis, P Bussotti, LC Paulson",arXiv preprint arXiv:0902.4682,,0,2009
+Refocus Fragmented CS Conference Culture. Authors' reply,"LC Paulson, J NELSON AMARAL, M HIND",Communications of the ACM 52 (8),,0,2009
+Translating Higher-order Clauses to First-Order Clauses,"LC Paulson, J Meng",Kluwer Academic Publishers,,0,2008
+"Even a good abstraction needs experience and testing, too",LC Paulson,"COMMUNICATIONS OF THE ACM 50 (9), 14-14",,0,2007
+"On Computable Numbers, with an Application to the Entscheidungsproblem","DE Stevenson, DE Stevenson, AV Aho, JD Ullman, AV Aho, R Sethi, ...","Programming Language Fundamentals by Example 9 (3), 177-188",,0,2007
+Special issue on automated reasoning with analytic tableaux-Preface,"B Beckert, LC Paulson","JOURNAL OF AUTOMATED REASONING 38 (1-3), 1-2",,0,2007
+Automated Reasoning with Analytic Tableaux,"B Beckert, LC Paulson",Springer,,0,2007
+Welcome defects as a sign of innovation?,LC Paulson,"COMMUNICATIONS OF THE ACM 48 (11), 11-11",,0,2005
+Number Theory,"J Avigad, K Donnelly, D Gray, A Kramer, LC Paulson, P Raff, ...",,,0,2004
+with apologies to Charles Darwin,LC Paulson,"Computer Systems: Theory, Technology, and Applications, 225",,0,2004
+Pascal and Francis Bibliographic Databases,"B Javidi, D Psaltis","Optical information systems 4, 5",,0,2003
+Analyzing delegation properties. Discussion,"G BELLAL, LC PAULSON, E COHEN, B CHRISTIANSON, M BLAZE","Lecture notes in computer science, 120-127",,0,2003
+"9. Advanced Simplification, Recursion, and Induction","T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0175-0175",,0,2002
+"6. SETS, FUNCTIONS, AND RELATIONS","T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science 2283, 0105",,0,2002
+8. More about Types,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0149-0149",,0,2002
+4. Presenting Theories,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0053-0053",,0,2002
+10. Case Study: Verifying a Security Protocol,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0195-0195",,0,2002
+A. Appendix,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0207-0207",,0,2002
+2. Functional Programming in HOL,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0009-0009",,0,2002
+5. The Rules of the Game,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0067-0067",,0,2002
+7. Inductively Defined Sets,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science (см. в книгах) 2283, 0127-0127",,0,2002
+3. More Functional Programming,"T Nipkow, LC Paulson, M Wenzel","Lecture Notes in Computer Science 2283, 0027-0027",,0,2002
+Software Engineering II,LC Paulson,,,0,2002
+Keep E-journals affordable,LC Paulson,"COMMUNICATIONS OF THE ACM 44 (8), 11-12",,0,2001
+Concluding Discussion When Does Confidentiality Harm Security?,B Christianson,"International Workshop on Security Protocols, 229-238",,0,2001
+A Proof of Non-repudiation,L Paulson,"International Workshop on Security Protocols, 126-133",,0,2001
+Foundations of Computer Science,LC Paulson,,,0,2000
+The Yahalom Protocol,LC Paulson,"International Workshop on Security Protocols, 78-84",,0,1999
+Inductive analysis of the internet protocol TLS. Discussion. Authors' reply,"LC PAULSON, J FEIGENBAUM, B HARBISON, R YAHALOM, M ROE, ...","Lecture notes in computer science, 1-23",,0,1999
+Delegation of responsibilities. Discussion. Authors' reply,"B CRISPO, V GLIGOR, B CHRISTIANSON, L PAULSON, D WHEELER, ...","Lecture notes in computer science, 118-130",,0,1999
+Insider fraud. Discussion. Authors' reply,"D GOLLMANN, M ROE, B CHRISTIANSON, C ELLISON, J FEIGENBAUM, ...","Lecture notes in computer science, 213-266",,0,1999
+Delegating trust. Discussion. Authors' reply,"B HARBISON, J FEIGENBAUM, C ELLISON, B CHRISTIANSON, M ROE, ...","Lecture notes in computer science, 108-117",,0,1999
+Technical Report “Cfééﬁﬁifééé ‘é,"G Bella, LC Paulson",,,0,1998
+Insider Fraud,D Gollman,"International Workshop on Security Protocols, 220-226",,0,1998
+A Generic Tableau Prover,LC Paulson,,,0,1998
+Inductive Analysis of the Internet Protocol TLS (Position Paper),LC Paulson,"Lecture Notes in Computer Science (см. в книгах) 1550, 0001-0001",,0,1998
+Computer Laboratory University of Cambridge,"LC Paulson, T Nipkow",,,0,1997
+Applications of Proof Theory to Isabelle,LC Paulson,,,0,1996
+Proving Properties of Securities Protocols by Induction,LC Paulson,"University of Cambridge, Computer Laboratory",,0,1996
+Mechanizing Set Theory: Cardinal Arithmetic and the Axiom of Choice,"K Grabczewski, LC Paulson",,,0,1995
+of Proceedings: Proceedings of the First Isabelle Users Workshop,"A Ayari, DA Basin",University of Cambridge,,0,1995
+A fixedpoint approach to implementing (co) inductive definitions (updated version),LC Paulson,"University of Cambridge, Computer Laboratory",,0,1995
+On Linear Decision Procedures,"B Zheng, LC Paulson","Proceedings of the First Isabelle Users Workshop, 219",,0,1995
+Proceedings of the First Isabelle Users Workshop,L Paulson,"University of Cambridge, Computer Laboratory",,0,1995
+SRC Research Report 127,L Lamport,,,0,1994
+Review of Images in mind: The evolution of a theory.,IM Begg,"Canadian Psychological Association 47 (1), 124",,0,1993
+Technical Report iZkk,LC Paulson,,,0,1987
+Natural Deduction as Higher-Order Resolution (Revised version),LC Paulson,,,0,1985
+Natural Deduction Proof as Higher-order Resolution,LC Pauson,University of Cambridge. Computer Laboratory,,0,1985
+Natural deduction theorem proving via higher-order resolution,LC Paulson,"University of Cambridge, Computer Laboratory",,0,1985
+Under consideration for publication in Formal Aspects of Computing,L Paulson,,,0,0
+Pascal and Francis Bibliographic Databases,"T Nipkow, LC Paulson, M Wenzel",,,0,0
+Pascal and Francis Bibliographic Databases,OHW Siegmund,,,0,0
+Handbooks of Logic,"M Ryan, M Sadler, I Phillips, K Meinke, J Tucker, A Poigne, M Smyth, ...",,,0,0
+J. Chen,LC Paulson,,,0,0
+"The Editor-in-Chief would like to thank the following colleagues who have helped maintain the standards set for a scientific journal, through their refereeing of the papers …","R Hirsch, R Maddux, LL Maksimova, F Miraglia, R Pluskevicius, ...",,,0,0
+"The Editor-in-Chief would like to thank the following colleagues who have helped maintain the standards set for a scientific journal, through their refereeing of the papers …","H Arlo-Costa, T Hardin, U Sattler, A Avron, R Hirsch, K Schlechta, ...",,,0,0
+"The Editor-in-Chief would like to thank the following colleagues who have helped maintain the standards set for a scientific journal, through their refereeing of the papers …","S Abramsky, N Alechina, J Allen, K Apt, N Asher, H Barringer, J Barwise, ...",,,0,0
+Formalisation of Mathematics using Isabelle,LC Paulson,,,0,0
+Finite Automata using the Hereditarily Finite Sets,LC Paulson,,,0,0
+"The Editor-in-Chief would like to thank the following colleagues who have helped maintain the standards set for a scientific journal, through their refereeing of the papers …","R Booth, K Engesser, A Gilio, R Jirousek, G Kern-Isberner, T Lukasiewicz, ...",,,0,0
+Theorem Proving and the Real Numbers: Overview and Challenges,LC Paulson,,,0,0
+Formalizing Abstract Mathematics: Issues and Progress,LC Paulson,"Computer-Supported Mathematical Theory Development, 5",,0,0
+Applying Machine Learning to Heuristic Selection in an Automatic Theorem Prover,"JP Bridge, LC Paulson, SB Holden","Automated Reasoning Workshop 2008, 10",,0,0
+The Descent of BAN (with apologies to Charles Darwin),LC Paulson,"COMPUTER SYSTEMS, 185",,0,0
+LEO II: An Effective Higher-Order Theorem Prover,LC Paulson,,,0,0
+Accountability Protocols: Formalized and Verified,LC Paulson,,,0,0
+Comparing proof search in LEO-II and Isabelle/HOL,"N Sultana, L Paulson",,,0,0
+Automated Formal Proofs for Polynomial and Transcendental Problems,LC Paulson,,,0,0
+"Automation for Interactive Proof: Techniques, Lessons and Prospects",LC Paulson,"Tools and Techniques for Verification of System Infrastructure, 29",,0,0
+Verifying Electronic Commerce Protocols,LC Paulson,,,0,0
+Compositional Proofs of Concurrent Programs,LC Paulson,,,0,0
+Automation for Interactive Proof Final Report,LC Paulson,,,0,0
+A Sectioning Concept for Isabelle,"F Kammüller, M Wenzel, LC Paulson",,,0,0
