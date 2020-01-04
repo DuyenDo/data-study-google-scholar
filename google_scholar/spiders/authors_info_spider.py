@@ -98,9 +98,9 @@ class GSSpider(scrapy.Spider):
         }
         
         # Output
-        csv_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.csv".format(self.author_file)])
+        csv_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.csv".format(self.author_file.split(".")[0])])
         write_csv([info], csv_path)
-        pkl_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.pkl".format(self.author_file)])
+        pkl_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.pkl".format(self.author_file.split(".")[0])])
         write_pickle([info], pkl_path)
 
         monitor_file = get_path([self.ROOT_DIR, "data", "monitors", 'crawled_info_{}'.format(self.author_file)])
