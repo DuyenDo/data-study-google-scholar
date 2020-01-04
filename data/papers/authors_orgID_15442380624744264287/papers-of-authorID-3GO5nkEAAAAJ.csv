@@ -1,0 +1,771 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+云计算: 系统实例与研究现状,陈康 [1， 郑纬民 [1,"软件学报 20 (5), 1337-1348","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3966484758646059518,11188008629649202350",1172,2009
+Understanding user behavior in large-scale video-on-demand systems,"H Yu, D Zheng, BY Zhao, W Zheng","ACM SIGOPS Operating Systems Review 40 (4), 333-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11768555133877630786,761,2006
+Cloud computing: System instances and current research,"K Chen, WM Zheng","Journal of software 20 (5), 1337-1348",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=349664103303956495,281,2009
+计算机系统结构,郑纬民， 汤志忠,"清华大学出版社 1, 998",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10001669463845066026,185,2001
+MapCG: writing parallel program portable between CPU and GPU,"C Hong, D Chen, W Chen, W Zheng, H Lin",Proceedings of the 19th international conference on Parallel architectures …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6713685225401522539,183,2010
+"OpenUH: An optimizing, portable OpenMP compiler","C Liao, O Hernandez, B Chapman, W Chen, W Zheng","Concurrency and Computation: Practice and Experience 19 (18), 2317-2332",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17000594036334059005,158,2007
+Accessor variety criteria for Chinese word extraction,"H Feng, K Chen, X Deng, W Zheng","Computational Linguistics 30 (1), 75-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6284149203158688236,147,2004
+Gemini: A computation-centric distributed graph processing system,"X Zhu, W Chen, W Zheng, X Ma",12th {USENIX} Symposium on Operating Systems Design and Implementation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3453052800548333028,145,2016
+Extending the lifetime of flash-based storage through reducing write amplification from file systems,"Y Lu, J Shu, W Zheng",Presented as part of the 11th {USENIX} Conference on File and Storage …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8629154348483134162,140,2013
+Phantom: predicting performance of parallel applications on large-scale parallel machines using a single node,"J Zhai, W Chen, W Zheng","ACM Sigplan Notices 45 (5), 305-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6389854047083847131,125,2010
+大数据流式计算: 关键技术及系统实例,孙大为， 张广艳， 郑纬民,软件学报 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8601816711191922543,117,2014
+Big data stream computing: technologies and instances,"DW Sun, GY Zhang, WM Zheng","Journal of Software 25 (4), 839-862",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4985979047788190348,92,2014
+Virtual machine-based on-demand parallel disaster recovery system and the method thereof,"W Zheng, H Yu","US Patent 8,161,321",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14975675650262545765,91,2012
+Re-Stream: Real-time and energy-efficient resource scheduling in big data stream computing environments,"D Sun, G Zhang, S Yang, W Zheng, SU Khan, K Li","Information Sciences 319, 92-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3151002206647459188,90,2015
+Do I use the wrong definition?: DeFuse: definition-use invariants for detecting concurrency and sequential bugs,"Y Shi, S Park, Z Yin, S Lu, Y Zhou, W Chen, W Zheng","ACM Sigplan Notices 45 (10), 160-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=560916385528563742,90,2010
+A parallel transient stability simulation for power systems,"J Shu, W Xue, W Zheng","IEEE Transactions on Power Systems 20 (4), 1709-1717",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9530325158013893540,86,2005
+GRID codes: Strip-based erasure codes with high fault tolerance for storage systems,"M Li, J Shu, W Zheng","ACM Transactions on Storage (TOS) 4 (4), 15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5148501708620529577,81,2009
+DudeTM: Building durable transactions with decoupling for persistent memory,"M Liu, M Zhang, K Chen, X Qian, Y Wu, W Zheng, J Ren","ACM SIGARCH Computer Architecture News 45 (1), 329-343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17597929054266334569,79,2017
+Adaptive workload prediction of grid performance in confidence windows,"Y Wu, K Hwang, Y Yuan, W Zheng","IEEE Transactions on Parallel and Distributed Systems 21 (7), 925-938",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7747351120753409988,72,2009
+MPIWiz: Subgroup reproducible replay of MPI applications,"R Xue, X Liu, M Wu, Z Guo, W Chen, W Zheng, Z Zhang, G Voelker","ACM Sigplan Notices 44 (4), 251-260",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2900410111480810304,63,2009
+Taming hardware event samples for FDO compilation,"D Chen, N Vachharajani, R Hundt, S Liao, V Ramasamy, P Yuan, W Chen, ...",Proceedings of the 8th annual IEEE/ACM international symposium on Code …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15606098958951977526,61,2010
+RACEZ: a lightweight and non-invasive race detection tool for production applications,"T Sheng, N Vachharajani, S Eranian, R Hundt, W Chen, W Zheng",Proceedings of the 33rd International Conference on Software Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3589988903191177153,58,2011
+A peta-scalable CPU-GPU algorithm for global atmospheric simulations,"C Yang, W Xue, H Fu, L Gan, L Li, Y Xu, Y Lu, J Sun, G Yang, W Zheng","ACM SIGPLAN Notices 48 (8), 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=777408372446088350,56,2013
+Design a cloud storage platform for pervasive computing environments,"W Zheng, P Xu, X Huang, N Wu","Cluster Computing 13 (2), 141-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13473910465385126565,55,2010
+Design and implementation of an SAN system based on the fiber channel protocol,"J Shu, B Li, W Zheng","IEEE Transactions on Computers 54 (4), 439-448",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12755187527001915694,55,2005
+10M-core scalable fully-implicit solver for nonhydrostatic atmospheric dynamics,"C Yang, W Xue, H Fu, H You, X Wang, Y Ao, F Liu, L Gan, P Xu, L Wang, ...",Proceedings of the International Conference for High Performance Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7768338882720407822,54,2016
+Fastscale: Accelerate raid scaling by minimizing data migration.,"W Zheng, G Zhang","FAST, 149-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15091375236807012518,54,2011
+DABGPM: A double auction Bayesian game-based pricing model in cloud market,"S Shang, J Jiang, Y Wu, Z Huang, G Yang, W Zheng","IFIP international conference on network and parallel computing, 155-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12493376435655450142,51,2010
+网络存储体系结构的发展和研究,付长冬， 舒继武， 沈美明， 郑纬民,"小型微型计算机系统 25 (4), 485-489",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3754129901551920873,50,2004
+Load prediction using hybrid model for computational grid,"Y Wu, Y Yuan, G Yang, W Zheng","2007 8th IEEE/ACM International Conference on Grid Computing, 235-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=994925770698940705,49,2007
+Tree partition based parallel frequent pattern mining on shared memory systems,"D Chen, C Lai, W Hu, WG Chen, Y Zhang, W Zheng",Proceedings 20th IEEE International Parallel & Distributed Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9944745458124115072,47,2006
+Process mapping for mpi collective communications,"J Zhang, J Zhai, W Chen, W Zheng","European Conference on Parallel Processing, 81-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7746709670365870535,46,2009
+电力系统潮流并行算法的研究进展,薛巍， 舒继武， 王心丰， 郑纬民,"清华大学学报: 自然科学版 42 (9), 1192-1195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1293724372279050248,46,2002
+Response time based optimal web service selection,"W Ahmed, Y Wu, W Zheng","IEEE Transactions on Parallel and distributed systems 26 (2), 551-561",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11528114389812784513,43,2013
+Smartboa: Constructing p2p overlay network in the heterogeneous internet using irregular routing tables,"J Hu, M Li, W Zheng, D Wang, N Ning, H Dong","International Workshop on Peer-to-Peer Systems, 278-287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3219097711754960456,43,2004
+Exploring the hidden dimension in graph processing,"M Zhang, Y Wu, K Chen, X Qian, X Li, W Zheng",12th {USENIX} Symposium on Operating Systems Design and Implementation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13449199029440056993,42,2016
+云 计 算: 系 统 实 例 与 研 究 现 状,陈康， 郑纬民,"软 件 学 报 2 (0), 9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10004488404191006051,42,0
+Performance analysis of gpu-based convolutional neural networks,"X Li, G Zhang, HH Huang, Z Wang, W Zheng","2016 45th International Conference on Parallel Processing (ICPP), 67-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10055567055386330469,41,2016
+µlibcloud: Providing high available and uniform accessing to multiple cloud storages,"S Mu, K Chen, P Gao, F Ye, Y Wu, W Zheng",Proceedings of the 2012 ACM/IEEE 13th International Conference on Grid …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1523021238766994831,41,2012
+Cache sharing management for performance fairness in chip multiprocessors,"X Zhou, W Chen, W Zheng",2009 18th International Conference on Parallel Architectures and Compilation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17923294727702696785,41,2009
+SLAS: An efficient approach to scaling round-robin striped volumes,"G Zhang, J Shu, W Xue, W Zheng","ACM Transactions on Storage (TOS) 3 (1), 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7341361988194643585,41,2007
+Predicting disk failures with HMM-and HSMM-based approaches,"Y Zhao, X Liu, S Gan, W Zheng","Industrial Conference on Data Mining, 390-404",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17557846772981040735,40,2010
+Scalable distributed ontology reasoning using DHT-based partitioning,"Q Fang, Y Zhao, G Yang, W Zheng","Asian Semantic Web Conference, 91-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11015580942769291272,39,2008
+基于 VSM 的中文文本分类系统的设计与实现,张东礼， 汪东升， 郑纬民,"清华大学学报: 自然科学版 43 (9), 1288-1291",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1304645269210247520,39,2003
+GPR-tree: A global parallel index structure for multiattribute declustering on cluster of workstations,"X Fu, D Wang, W Zheng, M Sheng","Proceedings. Advances in Parallel and Distributed Computing, 300-306",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11539534209594226482,39,1997
+计算机系统结构——量化研究方法,"JL Hennessy, DA Patterson",北京: 电子工业出版社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17413200302979118570,7901300009951864095",38,2007
+Bidding for highly available services with low price in spot instance market,"W Guo, K Chen, Y Wu, W Zheng",Proceedings of the 24th International Symposium on High-Performance Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=775718151065542305,37,2015
+Location-aware mapreduce in virtual cloud,"Y Geng, S Chen, YW Wu, R Wu, G Yang, W Zheng","2011 International Conference on Parallel Processing, 275-284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10991983053313608726,37,2011
+User-level checkpoint and recovery for LAM/MPI,"Y Zhang, D Wong, W Zheng","ACM SIGOPS Operating Systems Review 39 (3), 72-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16661355364144933581,37,2005
+Automatic software deployment using user-level virtualization for cloud-computing,"Y Zhang, Y Li, W Zheng","Future Generation Computer Systems 29 (1), 323-329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1848412305088733939,35,2013
+基于角色与组织的访问控制模型,李帆， 郑纬民,"计算机工程与设计 26 (8), 2136-2140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9089842300214913322,35,2005
+一种保护云存储平台上用户数据私密性的方法,侯清铧， 武永卫， 郑纬民， 杨广文,"计算机研究与发展 48 (7), 1146-1154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14764995200818317365,34,2011
+Optimization of sub-query processing in distributed data integration systems,"G Chen, Y Wu, J Liu, G Yang, W Zheng","Journal of Network and Computer Applications 34 (4), 1035-1042",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6399942000321202688,33,2011
+Dynamic hashing: Adaptive metadata management for petabyte-scale file systems,"W Li, W Xue, J Shu, W Zheng",23rd IEEE/14th NASA Goddard Conference on Mass Storage System and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15085208099336937702,33,2006
+A knowledge-based continuous double auction model for cloud market,"S Shang, J Jiang, Y Wu, G Yang, W Zheng","2010 Sixth International Conference on Semantics, Knowledge and Grids, 129-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10194150801917965281,32,2010
+Jcluster: an efficient Java parallel environment on a large‐scale heterogeneous cluster,"BY Zhang, GW Yang, WM Zheng","Concurrency and Computation: Practice and Experience 18 (12), 1541-1557",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=394131219550248960,31,2006
+Microwiper: efficient memory propagation in live migration of virtual machines,"Y Du, H Yu, G Shi, J Chen, W Zheng","2010 39th International Conference on Parallel Processing, 141-149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4477854063265364335,29,2010
+FACT: fast communication trace collection for parallel applications through program slicing,"J Zhai, T Sheng, J He, W Chen, W Zheng",Proceedings of the Conference on High Performance Computing Networking …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3025409396885043111,29,2009
+Enabling cloud storage to support traditional applications,"P Xu, W Zheng, Y Wu, X Huang, C Xu","2010 Fifth Annual ChinaGrid Conference, 167-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14136561532127455141,28,2010
+Adaptive hybrid model for long term load prediction in computational grid,"Y Yuan, Y Wu, G Yang, W Zheng",2008 Eighth IEEE International Symposium on Cluster Computing and the Grid …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10028524135257878865,28,2008
+Squeezing out all the value of loaded data: An out-of-core graph processing system with reduced disk i/o,"Z Ai, M Zhang, Y Wu, X Qian, K Chen, W Zheng","2017 {USENIX} Annual Technical Conference ({USENIX}{ATC} 17), 125-137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8611114628473375152,26,2017
+Taming hardware event samples for precise and versatile feedback directed optimizations,"D Chen, N Vachharajani, R Hundt, X Li, S Eranian, W Chen, W Zheng","IEEE Transactions on Computers 62 (2), 376-389",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18230335629585808739,26,2011
+LogGPO: An accurate communication model for performance prediction of MPI programs,"WG Chen, JD Zhai, J Zhang, WM Zheng","Science in China Series F: Information Sciences 52 (10), 1785-1791",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6444441508416041157,26,2009
+Defend against denial of service attack with VMM,"S Zhao, K Chen, W Zheng","2009 Eighth International Conference on Grid and Cooperative Computing, 91-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=939698130681296601,26,2009
+Cluster-based online monitoring system of web traffic,"Y Mao, K Chen, D Wang, W Zheng",Proceedings of the 3rd international workshop on Web information and data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2704574886021235728,25,2001
+一种适用于机群系统的任务动态调度方法,傅强， 郑纬民,"软件学报 10 (1), 19-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3017819464199023330,24,1999
+An Intelligent Capacity Planning Model for Cloud Market.,"S Shang, B Wang, J Jiang, Y Wu, W Zheng","J. Internet Serv. Inf. Secur. 1 (1), 37-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10957106818103419624,23,2011
+Maotai: View-oriented parallel programming on CMT processors,"J Zhang, Z Huang, W Chen, Q Huang, W Zheng","2008 37th International Conference on Parallel Processing, 636-643",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3171371540503171570,23,2008
+Modeling of distributed file systems for practical performance analysis,"Y Wu, F Ye, K Chen, W Zheng","IEEE Transactions on Parallel and Distributed Systems 25 (1), 156-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13442809155144626885,22,2013
+Job failures in high performance computing systems: A large-scale empirical study,"Y Yuan, Y Wu, Q Wang, G Yang, W Zheng","Computers & Mathematics with Applications 63 (2), 365-377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8807302167456691236,22,2012
+一种基于进程迁移的自适应双阈值动态负载平衡系统,周佳祥， 郑纬民,"清华大学学报: 自然科学版 40 (3), 121-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2415196222347471283,22,2000
+A cloud gaming system based on user-level virtualization and its resource scheduling,"Y Zhang, P Qu, J Cihang, W Zheng","IEEE Transactions on Parallel and Distributed Systems 27 (5), 1239-1252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3500987827086657140,21,2015
+Key Technologies for Big Data Stream Computing.,"D Sun, G Zhang, W Zheng, K Li","Big Data-Algorithms, Analytics, and Applications, 193-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12514475676036625708,21,2015
+Rethinking raid-5 data layout for better scalability,"G Zhang, W Zheng, K Li","IEEE Transactions on Computers 63 (11), 2816-2828",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4633435510395966397,21,2013
+Guarantee strict fairness and utilizeprediction better in parallel job scheduling,"Y Yuan, Y Wu, W Zheng, K Li","IEEE Transactions on Parallel and Distributed Systems 25 (4), 971-981",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1910414090319587471,21,2013
+Design and implementation of a storage virtualization system based on SCSI target simulator in SAN,"B Li, J Shu, W Zheng","Tsinghua science and technology 10 (1), 122-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7576741692358707779,21,2005
+基于 LVS 系统的负载动态平衡设计与实现,郭全生， 舒继武， 毛希平， 温冬蝉， 郑纬民,"计算机研究与发展 41 (6), 923-929",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12602634332750263041,21,2004
+高性能集群计算,郑纬民， 石威,北京: 电子工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12100160860584005193,21,2001
+AI: a lightweight system for tolerating concurrency bugs,"M Zhang, Y Wu, S Lu, S Qi, J Ren, W Zheng",Proceedings of the 22nd ACM SIGSOFT International Symposium on Foundations …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6391509433418596799,20,2014
+Granary: architecture of object oriented Internet storage service,"W Zheng, J Hu, M Li",IEEE International Conference on E-Commerce Technology for Dynamic E …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7422562985989792352,20,2004
+相关任务图的均衡动态关键路径调度算法,石威， 郑纬民,"计算机学报 24 (9), 991-997",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1040234782918290412,20,2001
+Providing source code level portability between CPU and GPU with MapCG,"CT Hong, DH Chen, YB Chen, WG Chen, WM Zheng, HB Lin","Journal of Computer Science and Technology 27 (1), 42-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4011282661299951357,19,2012
+VDB-MR: MapReduce-based distributed data integration using virtual database,"Y Yuan, Y Wu, X Feng, J Li, G Yang, W Zheng","Future Generation Computer Systems 26 (8), 1418-1425",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16665391957716817885,19,2010
+虚拟化技术在容灾系统中的应用,刘其成， 郑纬民， 陈康,"小型微型计算机系统, 1954-1958",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16539755468608041161,19,2010
+电力系统暂态稳定仿真并行算法的研究进展,薛巍， 舒继武， 王心丰， 郑纬民,"系统仿真学报 14 (2), 177-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10087534183781849063,19,2002
+一种基于检查点的卷回恢复与进程迁移系统,汪东升， 沈美明,"软件学报 10 (1), 68-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15972260333133485477,19,1999
+V-tree: Efficient knn search on moving objects with road-network constraints,"B Shen, Y Zhao, G Li, W Zheng, Y Qin, B Yuan, Y Rao","2017 IEEE 33rd International Conference on Data Engineering (ICDE), 609-620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1503995319073108903,18,2017
+带宽自适应的 P2P 网络路由协议,胡进锋， 黎明， 郑纬民， 汪东升,软件学报,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9111131067717802328,18,2005
+Design of an I/O balancing file system on web server clusters,"W Liu, M Wu, X Ou, W Zheng, M Shen","Proceedings 2000. International Workshop on Parallel Processing, 119-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10732131747801744724,18,2000
+确定性退火技术,杨广文， 李晓明,"计算机学报 21 (8), 765-768",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4029359194613610983,18,1998
+Scalable graph traversal on sunway taihulight with ten million cores,"H Lin, X Tang, B Yu, Y Zhuo, W Chen, J Zhai, W Yin, W Zheng",2017 IEEE International Parallel and Distributed Processing Symposium (IPDPS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13582947688927141181,17,2017
+Accelerate rdp raid-6 scaling by reducing disk i/os and xor operations,"G Zhang, K Li, J Wang, W Zheng","IEEE Transactions on Computers 64 (1), 32-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9586031480520031417,17,2013
+Design and implementation of an out-of-band virtualization system for large SANs,"G Zhang, J Shu, W Xue, W Zheng","IEEE transactions on computers 56 (12), 1654-1665",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2861336501163571859,17,2007
+Architecture design of a single-chip multiprocessor,"W Yao, D Wang, W Zheng, S Guo","Current Trends in High Performance Computing and Its Applications, 165-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16974117147561640500,17,2005
+Optimization techniques for parallel force-decomposition algorithm in molecular dynamic simulations,"JW Shu, B Wang, M Chen, JZ Wang, WM Zheng","Computer Physics Communications 154 (2), 121-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2999465664415766500,17,2003
+并行 WWW 服务器集群请求分配算法的研究,邸烁， 郑纬民,"软件学报 10 (7), 713-718",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13980184976495695231,17,1999
+一个网络归档存储中实用的数据持有性检查方案,肖达， 舒继武， 陈康， 郑纬民,"计算机研究与发展 46 (10), 1660-1668",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11609476544423851409,16,2009
+The application of virtual machines on system security,"S Zhao, K Chen, W Zheng","2009 Fourth ChinaGrid Annual Conference, 222-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=977577061282397672,16,2009
+信息网格环境下的综合信任度评价模型,马礼， 郑纬民,"清华大学学报: 自然科学版, 599-603",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14669844254396274768,16,2009
+Zettads: A light-weight distributed storage system for cluster,"L Liu, Y Wu, G Yang, W Zheng","The Third ChinaGrid Annual Conference (chinagrid 2008), 158-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6843180757937208869,16,2008
+联网审计系统中海量数据的存储与管理策略,武海平， 余宏亮， 郑纬民， 周德铭,"计算机学报 29 (004), 618-624",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16741198534735611579,16,2006
+CGSV: an adaptable stream-integrated grid monitoring system,"W Zheng, L Liu, M Hu, Y Wu, L Li, F He, J Tie","IFIP International Conference on Network and Parallel Computing, 22-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=321979576423221436,16,2005
+A virtual tape system based on storage area networks,"F Mu, J Shu, B Li, W Zheng","International Conference on Grid and Cooperative Computing, 278-285",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8749670851439897424,16,2004
+CUDA-Zero: a framework for porting shared memory GPU applications to multi-GPUs,"D Chen, W Chen, W Zheng","Science China Information Sciences 55 (3), 663-676",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=349106295356320693,15,2012
+An introduction to Tsinghua cloud,WM Zheng,"Science China Information Sciences 53 (7), 1481-1486",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7020439981196053025,15,2010
+虚拟化的集群资源管理技术研究,辛军， 陈康， 郑纬民,"计算机科学与探索 4 (4), 324-329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3555860991422540231,15,2010
+Secure logging for auditable file system using separate virtual machines,"S Zhao, K Chen, W Zheng",2009 IEEE International Symposium on Parallel and Distributed Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3727774139958225238,15,2009
+一种基于分布式哈希表的混合对等发现算法,杨峰， 李凤霞， 余宏亮， 战守义， 郑纬民,"软件学报 18 (003), 714-721",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17425121531746630913,15,2007
+A highly efficient FC-SAN based on load stream,"J Shu, J Yao, C Fu, W Zheng","International Workshop on Advanced Parallel Processing Technologies, 31-40","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=360687697447344958,1440487908628678607",15,2003
+A comparative analysis on Weibo and Twitter,"W Han, X Zhu, Z Zhu, W Chen, W Zheng, J Lu","Tsinghua Science and Technology 21 (1), 1-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318535851064730982,14,2016
+Online video playing on smartphones: A context-aware approach based on cloud computing,"J Jiang, Y Wu, X Huang, G Yang, W Zheng","Journal of Internet Technology 11 (6), 821-828",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=615537780571064371,14,2010
+PV-EASY: a strict fairness guaranteed and prediction enabled scheduler in parallel job scheduling,"Y Yuan, G Yang, Y Wu, W Zheng",proceedings of the 19th ACM International symposium on high performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5742237971979582718,14,2010
+"VODCA: View-oriented, distributed, cluster-based approach to parallel computing","Z Huang, W Chen, M Purvis, W Zheng",Sixth IEEE International Symposium on Cluster Computing and the Grid (CCGRID …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11337790021860376790,14,2006
+Design and implementation of a low-overhead file checkpointing approach,"D Pei, D Wang, M Shen, W Zheng",Proceedings Fourth International Conference/Exhibition on High Performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2607822651053872244,14,2000
+Building a fault tolerant framework with deadline guarantee in big data stream computing environments,"D Sun, G Zhang, C Wu, K Li, W Zheng","Journal of Computer and System Sciences 89, 4-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14814735341792417363,13,2017
+Data backup method of distributed file system,"Y Wu, K Chen, W Zheng, Z Li","US Patent App. 14/593,358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15533449661505014811,13,2015
+Employing checkpoint to improve job scheduling in large-scale systems,"S Niu, J Zhai, X Ma, M Liu, Y Zhai, W Chen, W Zheng","Workshop on Job Scheduling Strategies for Parallel Processing, 36-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13472758925520189635,13,2012
+System for disaster recovery backup and a method thereof,"W Zheng, H Yu","US Patent 8,156,373",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12498642249583355886,13,2012
+Openmdsp: Extending openmp to program multi-core dsp,"J He, W Chen, G Chen, W Zheng, Z Tang, H Ye",2011 International Conference on Parallel Architectures and Compilation …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10205346624184884371,15012890421080127149",13,2011
+Dynamic load balancing efficiently in a large-scale cluster,"BY Zhang, ZY Mo, GW Yang, WM Zheng",International journal of high performance computing and networking 6 (2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11664332781857952603,13,2009
+Parallelization and characterization of probabilistic latent semantic analysis,"C Hong, W Chen, W Zheng, J Shan, Y Chen, Y Zhang","2008 37th International Conference on Parallel Processing, 628-635",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12658720772872557381,13,2008
+Parallel algorithm and implementation for realtime dynamic simulation of power system,"W Xue, J Shu, Y Wu, W Zheng","2005 International Conference on Parallel Processing (ICPP'05), 137-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16239785651734609422,13,2005
+WindowsNT 环境下的进程检查点设置与回卷恢复,张悠慧， 汪东升， 郑纬民,"计算机研究与发展 38 (1), 50-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12881568266305375387,13,2001
+FMP: A fast messages passing for workstation clusters,"J Shen, WM Zheng, DP Ju","Chinese Journal of Computers 21 (7), 595-602","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3514963845131964592,5603864893885640965",13,1998
+分布存储多机系统中的消息传递技术,董迎飞， 王鼎兴,"计算机研究与发展 31 (7), 1-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14622105374537237826,13,1994
+Building semi-elastic virtual clusters for cost-effective HPC cloud resource provisioning,"S Niu, J Zhai, X Ma, X Tang, W Chen, W Zheng","IEEE Transactions on Parallel and Distributed Systems 27 (7), 1915-1928",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=303915757914312082,12,2015
+ASLOP: A field-access affinity-based structure data layout optimizer,"J Yan, J He, W Chen, PC Yew, W Zheng","Science China Information Sciences 54 (9), 1769-1783",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1308300653210035810,12,2011
+Efficiently acquiring communication traces for large-scale parallel applications,"J Zhai, T Sheng, J He, W Chen, W Zheng","IEEE Transactions on Parallel and Distributed Systems 22 (11), 1862-1870",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4038638255268307586,12,2011
+Converting legacy desktop applications into on-demand personalized software,"Y Zhang, G Su, W Zheng","IEEE Transactions on Services Computing 3 (4), 306-321",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11166488370090801698,12,2010
+Flow management with service differentiation for sip application servers,"J Sun, H Yu, W Zheng","The third ChinaGrid annual conference (chinagrid 2008), 272-277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11442502692407348708,12,2008
+大规模问题数据并行性能的分析,舒继武， 郑纬民,"软件学报 11 (5), 628-633",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2128135986414861727,12,2000
+"Fixing, preventing, and recovering from concurrency bugs","DD Deng, GL Jin, M de Kruijf, A Li, B Liblit, S Lu, SX Qi, JL Ren, ...","Science China Information Sciences 58 (5), 1-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15762109285945900149,11,2015
+SOPA: Selecting the optimal caching policy adaptively,"Y Wang, J Shu, G Zhang, W Xue, W Zheng","ACM Transactions on Storage (TOS) 6 (2), 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8461665791499005485,11,2010
+基于 P2P 的 Wleb 搜索技术,方启明， 杨广文， 武永卫， 郑纬民,"软件学报 19 (010), 2706-2719",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7526159428187844043,11,2008
+Understanding locality-awareness in peer-to-peer systems,"X Weng, H Yu, G Shi, J Chen, X Wang, J Sun, W Zheng","2008 International Conference on Parallel Processing-Workshops, 59-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6877805821601565972,11,2008
+An analytical model for performance evaluation in a computational grid,"Y Wu, L Liu, J Mao, G Yang, W Zheng",Proceedings of the 2007 Asian technology information program's (ATIP's) 3rd …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380715142223847803,11,2007
+Distributed computing model for Wu's method.,"YW Wu, GW Yang, H Yang, WM Zheng, DD Lin","Ruan Jian Xue Bao(J. Softw.) 16 (3), 384-391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3959144270740726233,11,2005
+相异性容错软件故障模型,姚文斌， 李炯亮， 汪东升， 郑纬民,"清华大学学报: 自然科学版 45 (4), 458-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13007511287189632704,11,2005
+一种电力系统暂态稳定并行计算的优化分区策略,舒继武， 薛巍， 郑纬民,"电力系统自动化 27 (19), 6-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1556401610120785590,11,2003
+可扩展并行 Web 服务器群技术的研究,庄伟强， 王鼎兴,"小型微型计算机系统 21 (1), 19-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3682196645477462631,11,2000
+可扩展并行 Web Server 集群技术,邸烁， 郑纬民,"小型微型计算机系统 20 (10), 721-725",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1913550306696966883,11,1999
+"Weibo, and a tale of two worlds","W Han, X Zhu, Z Zhu, W Chen, W Zheng, J Lu",2015 IEEE/ACM International Conference on Advances in Social Networks …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4515096407255623164,10,2015
+Caco: An efficient cauchy coding approach for cloud storage systems,"G Zhang, G Wu, S Wang, J Shu, W Zheng, K Li","IEEE Transactions on Computers 65 (2), 435-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15574988075100455353,10,2015
+Campus cloud for data storage and sharing,"P Xu, X Huang, Y Wu, L Liu, W Zheng","2009 Eighth International Conference on Grid and Cooperative Computing, 244-249",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17749498600205732533,10,2009
+Distributed storage cluster design for remote mirroring based on storage area network,"J Yao, JW Shu, WM Zheng","Journal of Computer Science and Technology 22 (4), 521-526",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=633423656399987969,10,2007
+Hybrid decomposition method in parallel molecular dynamics simulation based on smp cluster architecture,"B Wang, J Shu, W Zheng, J Wang, M Chen","Tsinghua Science and Technology 10 (2), 183-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4680494763734021338,10,2005
+对等计算研究概论,郑纬民， 胡进锋， 代亚非， 袁泉， 马永泉， 宁宁， 董海涛， 洪春辉， 张桦楠,"中国计算机学会通讯 7 (2), 38-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9967607434099041860,10,2005
+An implementation of storage-based synchronous remote mirroring for SANs,"J Shu, R Yan, D Wen, W Zheng","IFIP International Conference on Network and Parallel Computing, 463-472",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6113237537035248754,10,2004
+ONSP: Parallel Overlay Network Simulation Platform.,"Y Wu, M Li, W Zheng","PDPTA, 1147-1153",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8627405807865990022,10,2004
+一个基于混合并发模型的 Java 虚拟机,杨博， 王鼎兴， 郑纬民,"软件学报 13 (7), 1250-1256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14166031707449869284,10,2002
+Adaptive dual threshold dynamic load balancing system based on migrating [J],"J ZHOU, W ZHENG, G YANG",JOURNAL OF TSINGHUA UNIVERSITY (SCIENCE AND TECHNOLOGY) 3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18052877211647331942,10,2000
+Measuring and optimizing distributed array programs,"M Zhang, Y Wu, K Chen, T Ma, W Zheng","Proceedings of the VLDB Endowment 9 (12), 912-923",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1340692785268342416,9,2016
+Performance prediction for large-scale parallel applications using representative replay,"J Zhai, W Chen, W Zheng, K Li","IEEE Transactions on Computers 65 (7), 2184-2198",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15670084409342702873,9,2015
+从系统角度审视大数据计算,郑纬民,"大数据 1 (1), 2015002",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3218943244553586841,9,2015
+Task Optimization Based on CPU Pipeline Technique in Multicore System,"B Wang, Y Wu, W Zheng",2011 Fifth International Conference on Innovative Mobile and Internet …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2594863906998697970,9,2011
+Efficient Monte Carlo-based options pricing on graphics processors and its optimizations,"L Liu, YH Zhang, GW Yang, WM Zheng","Science China Information Sciences 53 (9), 1703-1712",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8659588831192779498,9,2010
+基于组密钥服务器的加密文件系统的设计和实现,肖达， 舒继武， 薛巍， 刘志才， 郑纬民,"计算机学报 31 (4), 600-610",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11197160753736447203,9,2008
+通用海量数据库性能测试系统的设计与实现,武海平， 余宏亮， 郑纬民,"清华大学学报: 自然科学版 46 (7), 1309-1312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6064587562842405185,9,2006
+MagicStore: a new out-of-band virtualization system in SAN environments,"G Zhang, J Shu, W Xue, W Zheng","IFIP International Conference on Network and Parallel Computing, 379-386",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12316267391723585174,9,2005
+A fault-tolerant single-chip multiprocessor,"W Yao, D Wang, W Zheng","Asia-Pacific Conference on Advances in Computer Systems Architecture, 137-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11041330924193507499,9,2004
+Metasearch via voting,"S Zhu, Q Fang, X Deng, W Zheng",International Conference on Intelligent Data Engineering and Automated …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449313394917513847,9,2003
+基于网络附属对象设备的集群存储体系结构,张悠慧， 郑纬民,软件学报 14 (2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14297897913932304087,9,2003
+Linux 机群系统并行程序调试器的设计与实现,刘建， 余宏亮， 沈美明， 郑纬民,计算机工程,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6561766634634762040,9,2002
+WOB: 一种新的文件检查点设置策略,裴丹， 汪东升， 沈美明， 郑纬民,"电子学报 28 (005), 9-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442037369657760330,9,2000
+FMP: 一种适用于机群系统的快速消息传递机制,申俊， 郑纬民,"计算机学报 21 (7), 595-602",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17020298956996618246,9,1998
+Stepdeep: a novel spatial-temporal mobility event prediction framework based on deep neural network,"B Shen, X Liang, Y Ouyang, M Liu, W Zheng, KM Carley",Proceedings of the 24th ACM SIGKDD International Conference on Knowledge …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8216991248400599250,8,2018
+A fast tridiagonal solver for Intel MIC architecture,"X Wang, W Xue, J Zhai, Y Xu, W Zheng, H Lin",2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2277125444968108317,8,2016
+$ MARS $: Mobile Application Relaunching Speed-Up through Flash-Aware Page Swapping,"W Guo, K Chen, H Feng, Y Wu, R Zhang, W Zheng","IEEE Transactions on Computers 65 (3), 916-928",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7416768332912857901,8,2015
+A Performance Model for Network-on-Chip Wormhole Routers.,"Y Zhang, X Dong, S Gan, W Zheng","JCP 7 (1), 76-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8762734384484561316,8,2012
+Characterization of gas station emissions during the CAREBeijing 2008 field study,"J Zheng, T Zhu, R Zhang, M Wang, CC Chang, M Shao, M Hu","Atmospheric Chemistry and Physics Discussions 11 (5), 14719-14746","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15386090214475478396,16928455450372397614,2654292625689924352",8,2011
+How OpenMP applications get more benefit from many-core era,"J Yan, J He, W Han, W Chen, W Zheng","International Workshop on OpenMP, 83-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2286698191931727617,8,2010
+An heuristic method for web-service program security testing,"G Zhao, W Zheng, J Zhao, H Chen","2009 Fourth ChinaGrid Annual Conference, 139-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6341167173336913348,8,2009
+"Structure-independent disaster recovery: Concept, architecture and implementations","WM Zheng, BX Fang","Science in China Series F: Information Sciences 52 (5), 813-823",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16887809718784132933,8,2009
+Metadata management mechanism based on route directory [J],"F MU, W XUE, J SHU, W ZHENG",Journal of Tsinghua University (Science and Technology) 8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2825293017915820726,8,2009
+Virtualcluster: Customizing the cluster environment through virtual machines,"K Chen, J Xin, W Zheng",2008 IEEE/IFIP International Conference on Embedded and Ubiquitous Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5320646251349576998,8,2008
+网格环境下的信任机制研究综述,马礼， 郑纬民,"小型微型计算机系统 29 (5), 825-830",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17770633750181625267,8,2008
+Achieving reliability through replication in a wide-area network dht storage system,"J Zhao, H Yu, K Zhang, W Zheng, J Wu, J Hu","2007 International Conference on Parallel Processing (ICPP 2007), 29-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11456297315467442284,8,2007
+一种面向对象的 Internet 存储服务系统 Granary,胡进锋， 洪春辉， 郑纬民,"计算机研究与发展 44 (6), 1071-1079",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14034691980345642744,8,2007
+Dynamic load-balancing and high performance communication in JCluster,"BY Zhang, ZY Mo, GW Yang, WM Zheng","2007 IEEE International Parallel and Distributed Processing Symposium, 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1426573273036192305,8,2007
+Hybrid peer-to-peer lookup service algorithm on distributed hash table.,"F Yang, FX Li, HL Yu, SY Zhan, WM Zheng","Ruan Jian Xue Bao(Journal of Software) 18 (3), 714-721",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11134738775978499685,8,2007
+Parallel seismic propagation simulation in anisotropic media by irregular grids finite difference method on PC cluster,"W Sun, J Shu, W Zheng","International Conference on Computational Science and Its Applications, 762-771",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5546718648156632563,8,2005
+一种高可扩展存储网络系统 TH-MSNS 的研究与实现,舒继武， 薛巍， 李必刚， 郑纬民,"计算机学报 28 (3), 326-333",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=569218327651525874,8,2005
+并行集群系统的 Linpack 性能测试分析,罗水华， 杨广文， 张林波， 石威， 郑纬民,"数值计算与计算机应用 24 (4), 285-292",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17876769726772110299,8,2003
+NAS 和 SAN 的融合方案与研究,刘福明， 付长东， 郑纬民,"小型微型计算机系统 24 (6), 1013-1016",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2578569884570041446,8,2003
+基于 B/S 模式和 JSP 技术的网络流量动态监控系统,黄美莹， 郑纬民， 汪东升， 杨广文,"计算机工程与应用 38 (1), 144-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17767244704759043093,8,2002
+工作站机群系统自动重构机制,张悠慧， 汪东升， 郑纬民,"电子学报 28 (5), 13-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11462376536037813634,8,2000
+一个交互式的 Fortran77 并行化系统,陈文光， 杨博,"软件学报 10 (12), 1259-1267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7391192112102222684,8,1999
+异构机群系统中的最优处理机分配算法,温钰洪， 王鼎兴,"计算机学报 19 (3), 161-167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14107521978185671018,8,1996
+Updating preconditioner for iterative method in time domain simulation of power systems,"K Wang, W Xue, HX Lin, SM Xu, WM Zheng","Science China Technological Sciences 54 (4), 1024-1034",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2672298674333896468,7,2011
+一种基于权值的大规模分布式系统结构脆弱性分析算法,赵刚， 况晓辉， 李津， 郑纬民,"计算机研究与发展 48 (5), 906-912",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15616466782243244327,7,2011
+Optimizing write operation on replica in data grid,"PZ Xu, YW Wu, XM Huang, GW Yang, WM Zheng","Science China Information Sciences 54 (1), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4867185700251780822,7,2011
+基于定位目录的元数据管理方法,穆飞， 薛巍， 舒继武， 郑纬民,"清华大学学报: 自然科学版, 1229-1232",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17198271722790162530,7,2009
+CprFS: a user-level file system to support consistent file states for checkpoint and restart,"R Xue, W Chen, W Zheng",Proceedings of the 22nd annual international conference on Supercomputing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16270017294265220297,7,2008
+TH-VSS: An asymmetric storage virtualization system for the SAN environment,"D Xiao, J Shu, W Xue, W Zheng","International Conference on Computational Science, 399-406",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6597257443432704668,7,2005
+Fault model of diversity fault-tolerant software [J],"W YAO, J LI, D WANG, W ZHENG",Journal of Tsinghua University (Science and Technology) 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=88072026864772718,7,2005
+Design and Optimization of an iSCSI System,"B Li, J Shu, W Zheng","International Conference on Grid and Cooperative Computing, 262-269",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1947421478396397547,7,2004
+Storage virtualization system with load balancing for SAN,"W Sun, J Shu, W Zheng","International Conference on Grid and Cooperative Computing, 254-261",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3942112603519287990,7,2004
+Dynamic file allocation in Storage area Networks with Neural network prediction,"W Sun, J Shu, W Zheng","International Symposium on Neural Networks, 719-724",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9941266282073715868,7,2004
+TODS: cluster object storage platform designed for scalable services,"F Zhou, C Jin, Y Wu, W Zheng","Future Generation Computer Systems 20 (4), 549-563",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7554347089755387660,7,2004
+Stability of multistep Runge-Kutta methods for systems of functional-differential and functional equations,"S Gan, W Zheng","Applied mathematics letters 17 (5), 585-590",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16629147612903409377,7,2004
+Coarse-grained Distributed Parallel Programming Interface for Grid Computing,"Y Wu, Q Wang, G Yang, W Zheng","International Conference on Grid and Cooperative Computing, 255-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5314707230911641089,7,2003
+一种基于检查点的并行程序调试器的设计与实现,刘建， 汪东升， 沈美明， 郑纬民,"计算机研究与发展 39 (12), 1580-1586",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5422626063564220640,7,2002
+基于 DAG 图解—重构的机群系统静态调度算法,周佳祥， 郑纬民,"软件学报 11 (8), 1097-1104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2194675365229542409,7,2000
+一种有效的启发式聚类算法,杨广文， 李晓明,"电子学报 27 (2), 90-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6926244207961011058,7,1999
+利用确定性退火技术的旅行商问题求解算法,杨广文， 李晓明,"软件学报 10 (1), 57-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14002605416410263785,7,1999
+并行机群的若干关键技术,王鼎兴， 郑纬民， 沈美明,"清华大学学报: 自然科学版, 18-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17432076198635486834,7,1998
+精确计算 n 维 Mesh 网络和 n 维 Torus 网络的平均最短路径长度,董迎飞， 王鼎兴,"计算机学报 20 (4), 376-380",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16158853361619360813,7,1997
+BUSTER: an integrated debugger for PVM,"J Xiong, D Wang, W Zheng, M Shen",Proceedings of 1996 IEEE Second International Conference on Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11477983137097925591,7,1996
+ShenTu: processing multi-trillion edge graphs on millions of cores in seconds,"H Lin, X Zhu, B Yu, X Tang, W Xue, W Chen, L Zhang, T Hoefler, X Ma, ...",Proceedings of the International Conference for High Performance Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1648284052292912735,6,2018
+{UKSM}: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling,"N Xia, C Tian, Y Luo, H Liu, X Wang","16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 325-340",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10430463706486782863,6,2018
+RAID+: deterministic and balanced data distribution for large disk enclosures,"G Zhang, Z Huang, X Ma, S Yang, Z Wang, W Zheng","16th {USENIX} Conference on File and Storage Technologies ({FAST} 18), 279-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17362512576724441005,6,2018
+Self-checkpoint: An in-memory checkpoint method using less space and its practice on fault-tolerant HPL,"X Tang, J Zhai, B Yu, W Chen, W Zheng","Acm Sigplan Notices 52 (8), 401-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7321542038835291144,6,2017
+A lightweight system for detecting and tolerating concurrency bugs,"M Zhang, Y Wu, S Lu, S Qi, J Ren, W Zheng","IEEE Transactions on Software Engineering 42 (10), 899-917",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7745891267848345465,6,2016
+基于非易失性存储器的存储系统技术研究进展,舒继武， 陆游游， 张佳程， 郑纬民,"科技导报 34 (14), 86-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8360415496433084264,6,2016
+When paxos meets erasure code: Reduce network and storage cost in state machine replication,"S Mu, K Chen, Y Wu, W Zheng",Proceedings of the 23rd international symposium on High-performance parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16520033292975033789,6,2014
+加权复杂网络社团的评价指标及其发现算法分析,吕天阳， 谢文艳， 郑纬民， 朴秀峰,"物理学报 61 (21), 210511-210511",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8464191293173944243,6,2012
+虚拟化环境下的 USB 设备访问方法,王继刚， 郑纬民， 滕志猛， 钟卫东,"计算机应用 31 (05), 1439-1442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8862057196495648165,6,2011
+An adaptive task-level fault-tolerant approach to Grid,"Y Wu, Y Yuan, G Yang, W Zheng","The Journal of Supercomputing 51 (2), 97-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9114099216772932971,6,2010
+Searching maximal degenerate motifs guided by a compact suffix tree,"H Jiang, Y Zhao, W Chen, W Zheng","Advances in Computational Biology, 19-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18322036431086961258,6,2010
+Distributed metadata management based on hierarchical bloom filters in data grid,"S Chen, X Huang, P Xu, W Zheng","2009 Fourth ChinaGrid Annual Conference, 95-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5710073420651769149,6,2009
+一种面向大规模存储系统的数据副本映射算法,穆飞， 薛巍， 舒继武， 郑纬民,"计算机研究与发展 46 (3), 492-497",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18018272752201204243,6,2009
+Grid enabled data integration framework for bioinformatics research,"J Liu, Y Wu, W Zheng",2006 Fifth International Conference on Grid and Cooperative Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14279183412901742490,6,2006
+Dynamically optimize multicast tree structure,"M Zeng, H Yu, F Yang, W Zheng",2006 Fifth International Conference on Grid and Cooperative Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8435754166280168923,6,2006
+Multi-dimensional storage qos guarantees for an object-based storage system,"F Mu, J Shu, B Li, W Zheng","International Conference on Computational Science, 687-694",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8592066546569108865,6,2006
+一种 P2P 环境下的 B\++ 树索引管理算法,鞠大鹏， 黎明， 胡进锋， 汪东升， 郑纬民， 马永泉,"计算机研究与发展 42 (8), 1438-1444",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15824308548002106762,6,2005
+Janus: Build Gnutella-like file sharing system over structured overlay,"H Dong, W Zheng, D Wang","International Conference on Grid and Cooperative Computing, 511-518",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9435115558234808987,6,2004
+基于区域图数据流分析的通信优化算法,钟洪涛， 舒继武， 温冬婵， 郑纬民,Journal of Software 14 (2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11037092206905750538,6,2003
+A distributed persistent object store for scalable service,"C Jin, W Zheng, F Zhou, Y Wu","ACM SIGOPS Operating Systems Review 36 (4), 36-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6766379401276908861,6,2002
+A novel numerical approach of computing American option,"J Shu, Y Gu, W Zheng","International Journal of Foundations of Computer Science 13 (05), 685-693",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3888306305495528791,6,2002
+A new numerical method on American option pricing,"Y Gu, J Shu, X Deng, W Zheng","Science in China Series F: Information Sciences 45 (3), 181-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10886541268678323782,6,2002
+A parallel algorithm for prestack depth migration based on shared memory,"J LI, J SHU, Y WANG, D Wang, W Zheng","Journal of Software 13 (12), 2231-2237",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15178334059053954013,6,2002
+构造并行化系统交互环境的若干关键技术,杨博， 王鼎兴， 郑纬民,"软件学报, 698-705",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11585946196014816213,6,2001
+An effective file migration algorithm in cluster file systems,"W Liu, W Zheng, M Shen, X Ou, M Wu","Proceedings 2000. International Workshop on Parallel Processing, 329-335",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1505391531125770297,6,2000
+Checkpointing and rollback recovery for network of workstations,"D Wang, W Zheng, D Wang, M Shen","Science in China Series E: Technological Sciences 42 (2), 207-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5245808628161258645,6,1999
+在分析用户访问行为基础上实现代理缓存,庄伟强， 李昶,"计算机研究与发展 36 (11), 1375-1383",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10038932118280513915,6,1999
+底层通信协议中内存映射机制的设计与实现,刘炜， 郑纬民,"软件学报 10 (1), 24-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9539610971423926608,6,1999
+基于事件模型的可视化并行调试技术,熊建新， 王鼎兴,"软件学报 7 (5), 292-299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4407835296498217420,6,1996
+多计算机系统中的处理结点通信分析,刘德才， 王鼎兴， 郑纬民， 沈美明,"小型微型计算机系统 14 (12), 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13309299241833290156,6,1993
+Optimized mapping spiking neural networks onto network-on-chip,"Y Ji, Y Zhang, H Liu, W Zheng",International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7960099917330437265,5,2016
+Research progress on non-volatile memory based storage system,"J SHU, Y LU, J ZHANG, W ZHENG","Science & Technology Review 2016 (14), 19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8931765056552634357,5,2016
+Modelling spiking neural network from the architecture evaluation perspective,"Y Ji, YH Zhang, WM Zheng","Journal of computer science and technology 31 (1), 50-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15116097894395603497,5,2016
+Associative big data sharing in community clouds: The meepo approach,"Y Wu, M Su, W Zheng, K Hwang, AY Zomaya","IEEE Cloud Computing 2 (6), 64-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=902162294669025347,5,2015
+NO2: speeding up parallel processing of massive compute-intensive tasks,"Y Wu, W Guo, J Ren, X Zhao, W Zheng","IEEE Transactions on Computers 63 (10), 2487-2499",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10123907014821920927,5,2013
+TopCluster: A hybrid cluster model to support dynamic deployment in Grid,"G Chen, Y Wu, J Wu, W Zheng","Journal of Computer and System Sciences 79 (2), 201-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1686567193554876638,5,2013
+Automatically constructing trusted cluster computing environment,"Y Wu, C Gang, J Liu, R Fang, X Huang, G Yang, W Zheng","The Journal of Supercomputing 55 (1), 51-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17654485858082855943,5,2011
+Exploring the emerging applications for transactional memory,"J Zhang, W Chen, X Tian, W Zheng",2008 Ninth International Conference on Parallel and Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=379670332989393530,5,2008
+Design and implementation of SCSI target emulator,"J Pan, J Shu, S Zhang, W Zheng","Tsinghua Science and Technology 11 (1), 38-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6397091397837686956,5,2006
+General performance measures for massive databases [J],"H WU, H YU, W ZHENG",Journal of Tsinghua University (Science and Technology) 7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14087516263383496985,5,2006
+An efficient dynamic load-balancing algorithm in a large-scale cluster,"BY Zhang, ZY Mo, GW Yang, WM Zheng",International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6090257399075899995,5,2005
+"Peerwindow: An efficient, heterogeneous, and autonomic node collection protocol","J Hu, M Li, H Yu, H Dong, W Zheng","2005 International Conference on Parallel Processing (ICPP'05), 511-520",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16916015741740605136,5,2005
+A checkpointing/recovery system for MPI applications on cluster of IA-64 computers,"Y Zhang, R Xue, D Wong, W Zheng",2005 International Conference on Parallel Processing Workshops (ICPPW'05 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1172625338358148821,5,2005
+Parallel transient stability simulation for national power grid of china,"W Xue, J Shu, W Zheng",International Symposium on Parallel and Distributed Processing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12285363019751566644,5,2004
+Twins: 2-hop structured overlay with high scalability,"J Hu, H Dong, W Zheng, D Wang, M Li","International Conference on Computational Science, 174-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14331486143313152603,5,2004
+Stability analysis of Runge-Kutta methods for delay integro-differential equations,"S Gan, W Zheng","Tsinghua Science and Technology 9 (2), 185-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3474975595800402551,5,2004
+下一代分布式智能网络存储系统的发展趋势,郑纬民， 舒继武,"世界电信 17 (8), 16-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12401479653582413433,5,2004
+Grid computing pool and its framework,"Y Wu, G Yang, J Mao, S Shi, W Zheng","2003 International Conference on Parallel Processing Workshops, 2003 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11677902777994470474,5,2003
+分布式文件系统低耦合度高可用性支持模块的实现,史树明， 温冬婵， 沈美明， 郑纬民,"计算机研究与发展 40 (8), 1258-1264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6659241099109487948,5,2003
+并行处理可视化监测环境,徐杰锋， 舒继武， 郑纬民,"清华大学学报: 自然科学版 43 (4), 532-535",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2004687502087012350,5,2003
+一种具有快速条件断点的并行程序调试器,刘建， 王皓， 沈美明， 郑纬民,软件学报,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7823728348027648528,5,2003
+Errors of linear multistep methods and Runge-Kutta methods for singular perturbation problems with delays,"S Gan, G Sun, W Zheng","Computers & Mathematics with Applications 44 (8-9), 1157-1173",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14051691783669414181,5,2002
+一种基于共享存储的叠前深度偏移并行算法,李建江， 舒继武， 王鼎兴， 郑纬民， 王有新,软件学报,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5041735241853985283,5,2002
+Lnd: a reliable multi-tier storage device in now,"Y Mao, Y Zhang, D Wang, W Zheng","ACM SIGOPS Operating Systems Review 36 (1), 70-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17016284481051027704,5,2002
+A DAG-based partitioning-reconfiguring scheduling algorithm in network of workstations,"JX Zhou, WM Zheng",Proceedings Fourth International Conference/Exhibition on High Performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7405345120821719124,5,2000
+A scalable parallel workstation cluster system,"C Dong, W Zheng, D Wang, M Sheng","Proceedings. Advances in Parallel and Distributed Computing, 307-313",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13304858608944802766,5,1997
+TMR 计算机系统升级/降级重构技术,汪东升， 王春露,"电子学报 25 (8), 41-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3673540102307095004,5,1997
+模块级可重构计算机 HIT—FTC2 的冗余管理,汪东升， 杨孝宗,"电子学报 24 (11), 96-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6063690150949842357,5,1996
+一种基于 Message Passing 的通信技术和并行程序设计方法,温钰洪， 王鼎兴,"计算机研究与发展 33 (3), 211-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1313298069132904431,5,1996
+OCEAN: fast discovery of high utility occupancy itemsets,"B Shen, Z Wen, Y Zhao, D Zhou, W Zheng","Pacific-Asia Conference on Knowledge Discovery and Data Mining, 354-365",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7592968988148123415,4,2016
+XSCALE: Online X-Code RAID-6 scaling using lightweight data reorganization,"G Zhang, G Wu, Y Lu, J Wu, W Zheng","IEEE Transactions on Parallel and Distributed Systems 27 (12), 3687-3700",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12530856265085836952,4,2016
+ParSA: High-throughput scientific data analysis framework with distributed file system,"T Zhang, XZ Sun, W Xue, N Qiao, H Huang, JW Shu, W Zheng","Future Generation Computer Systems 51, 111-119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14175050284706215320,4,2015
+"大数据处理模式——系统结构, 方法以及发展趋势",李贞强， 陈康， 武永卫， 郑纬民,"小型微型计算机系统 36 (4), 641-647",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8465394119606335797,4,2015
+Redistribute data to regain load balance during raid-4 scaling,"G Zhang, J Wang, K Li, J Shu, W Zheng","IEEE Transactions on Parallel and Distributed Systems 26 (1), 219-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14868335188365990597,4,2014
+Software/hardware hybrid network-on-chip simulation on FPGA,"Y Zhang, P Qu, Z Qian, H Wang, W Zheng","IFIP International Conference on Network and Parallel Computing, 167-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14319293730074623692,4,2013
+Employing intelligence in object-based storage devices to provide attribute-based file access,"YH Zhang, ZQ Qian, WM Zheng","Science China Information Sciences 56 (3), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1534084923482548873,4,2013
+Birds: a bare-metal recovery systemfor instant restoration of data services,"H Yu, X Xiang, Y Zhao, W Zheng","IEEE Transactions on Computers 63 (6), 1392-1407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11601136885861965439,4,2013
+CWFlow: 支持资源自适应使用的云工作流框架,尚世锋， 姜进磊， 郑纬民,"清华大学学报: 自然科学版, 415-420",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9740203011407629570,4,2013
+Using user-level virtualization in desktop grid clients for application delivery and sandboxing,"Y Zhang, Y Li, W Zheng","2011 Fourth International Symposium on Parallel Architectures, Algorithms …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15175807670471357346,4,2011
+Model of Network-on-Chip routers and performance analysis,"Y Zhang, X Dong, S Gan, W Zheng","IEICE Electronics Express 8 (13), 986-993",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2590677032879146149,4,2011
+Best position algorithms for top-k query processing in highly distributed environments,"Q Fang, Y Zhao, G Yang, B Wang, W Zheng",2010 First International Conference on Networking and Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3078232058322594429,4,2010
+深度剖析云计算背后采用的具体技术,陈康， 郑纬民,"计算机世界报 12 (07), 1-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16499480199140017610,4,2010
+An emulation environment for vulnerability analysis of large-scale distributed system,"G Zhao, X Kuang, W Zheng","2009 Eighth International Conference on Grid and Cooperative Computing, 97-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=676961281266718946,4,2009
+一种细粒度高效多版本文件系统,向小佳， 舒继武， 郑纬民,"软件学报, 754-765",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8451138926429203423,4,2009
+云计算的大幕已经拉开,郑纬民,"中国计算机学会通讯, 6-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2773595608002149109,4,2009
+A context-sensitive pointer analysis phase in Open64 compiler,"T Sheng, W Chen, W Zheng",2nd Annual Workshop on Open64 in Conjunction with IEEE/ACM International …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8559658069255555076,4,2009
+On Virtual-Machine-Based Windows File Reads: A Performance Study,"Y Zhang, G Su, L Hong, W Zheng",2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2624161123232121101,4,2008
+基于 P2P 的应用层组播结构研究,杨峰， 郑纬民， 余宏亮， 曾明,"计算机工程 33 (015), 115-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13711877310440364711,4,2007
+基于图划分的全基因组并行拼接算法,林皎， 陈文光， 栗强， 郑纬民， 张益民,"计算机研究与发展 43 (8), 1323-1329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15391793990105366939,4,2006
+A massive data storage and management strategy for online computer-assisted audit system,"HP Wu, HL Yu, WM Zheng, DM Zhou","CHINESE JOURNAL OF COMPUTERS-CHINESE EDITION- 29 (4), 618",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2834349429067110371,4,2006
+Tourist: A Self-Adaptive Structured Overlay in Heterogeneous P2P Networks,"J Hu, M Li, H Yu, W Zheng",Technical Report THTR-CS-HPC-2006,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17896287096750979857,4,2006
+Peer-to-peer: A technique perspective,"W Zheng, X Liu, S Shi, J Hu, H Dong","Handbook on theoretical and algorithmic aspects of sensor, ad hoc wireless …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3096704282809306010,4,2005
+Parallel module network learning on distributed memory multiprocessors,"L Liu, W Hu, C Lai, H Jiang, W Chen, W Zheng, Y Zhang",2005 International Conference on Parallel Processing Workshops (ICPPW'05 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=554092638172597095,4,2005
+Design and implementation of a fibre channel target driver supporting SCSI,"H Wu, J Shu, D Wen, W Zheng","Tsinghua Science and Technology 10 (1), 115-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15577336552154890080,4,2005
+P2P 系统发展历史及应用,郑纬民， 胡进锋,"中国教育网络, 23-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13293201498084183265,4,2005
+数值模拟应用中科学数据的组织与管理,陈虹， 夏芳， 宋磊， 郑纬民,"华中科技大学学报: 自然科学版, 22-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6290069681908122370,4,2005
+Using model-based test program generator for simulation validation,"Y Zhang, D Wang, J Wang, W Zheng","International Conference on Embedded Software and Systems, 549-556",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3223756868154711752,4,2004
+Parallelization of Bayesian network based SNPs pattern analysis and performance characterization on SMP/HT,"J Song, E Li, W Hu, S Ge, C Lai, Y Zhang, X Zhang, W Chen, W Zheng",Proceedings. Tenth International Conference on Parallel and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14862726008816106114,4,2004
+一个高性能的 FC-SAN 存储系统的设计与实现,付长冬， 舒继武， 沈美明， 郑纬民,"高技术通讯 13 (10), 25-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3148491029266707502,4,2003
+Implementation of a Weak Coupling and High Availability Module for a Distributed File System [J],"SM SHI, DC Wen, MM Shen, WM Zheng",Journal of Computer Research and Development 8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=322830603860228392,4,2003
+User-level communication based cooperative caching,"Y Zhang, W Zheng","ACM SIGOPS Operating Systems Review 37 (1), 23-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9020755645950748921,4,2003
+TH-CluFS: an open platform cluster file system,"Q Huang, W Zheng, M Shen",Fifth International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700610638494341295,4,2002
+单一系统映象在机群管理中的实现,朱璇， 郑纬民,"计算机工程与应用 38 (7), 86-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16880416756156434361,4,2002
+Cluster-based Molecular Dynamics Parallel Simulation in Thermophysics.,"J Shu, B Wang, J Wang, M Chen, W Zheng","IASTED PDCS, 18-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12346677997020249033,4,2002
+Implementation Techniques of a Distributed Debugger inLinux Cluster System [J],"J LIU, H YU, M SHEN, W ZHENG",Computer Engineering 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910287343420938,4,2002
+MOT: Memory online tracing of Web information system,"Y Mao, K Chen, D Wang, W Zheng, X Deng",Proceedings of the Second International Conference on Web Information …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8020665543806087764,4,2001
+Replacement policy for caching world-wide web documents based on site-graph model,"W Zhuang, M Hu, D Wang, W Zheng, M Shen","Tsinghua Science and Technology 6 (4), 386-390",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18362640277166120474,4,2001
+SMP 机群系统上优化通信的并行任务调度,郑纬民， 杨博， 林伟坚， 李志光,"中国科学: E 辑 31 (5), 442-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5233075449641144430,4,2001
+Design and implementation of a distributed NFS server on cluster of workstations,"W Liu, W Zheng, M Shen, X Ou, M Wu",Proc. of the 12th IASTED International Conference on Parallel and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14491483864958982316,4,2000
+Research on Data Replica Distribution Pattern for Web Server Clusters,"HH Shen, SM Chen, MM Shen, WM Zheng",Proceedings of the The Fourth International Conference on High-Performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7882320170064974075,4,2000
+Request dispatching algorithms for web server clusters based on load balancing,"S Di, W Zheng","Tsinghua Science and Technology 4 (4), 1620-1623",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8461442465826484084,4,1999
+An algorithm for describing object-oriented software architecture using graph,"HH Shen, C Liu, MM Shen, WM Zheng",Proceedings Technology of Object-Oriented Languages and Systems (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=691990494785215294,4,1999
+Research on request dispatching algorithm for web server clusters,"S Di, W Zheng, D Wang, M Shen","RUAN JIAN XUE BAO 10 (7), 713-719",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=520879075725725134,4,1999
+一种基于 Web 浏览器的分布式应用系统的构造方法,吕纪竹， 王鼎兴,"软件学报 10 (5), 533-538",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12497587446296051138,4,1999
+基于 Myrinet 的用户空间精简协议,董春雷， 郑纬民,"软件学报 10 (3), 299-303",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8175906142684961488,4,1999
+异构并行工作站机群系统的性能评价指标,申俊， 郑纬民,"计算机研究与发展 35 (3), 193-198",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7425967211879191945,4,1998
+数据并行的性能分析,刘德才， 王鼎兴,"软件学报 5 (5), 8-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2600591756631436158,4,1994
+High performance graph processing with locality oriented design,"P Gao, M Zhang, K Chen, Y Wu, W Zheng","IEEE Transactions on Computers 66 (7), 1261-1267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16327892405436951006,3,2017
+PDFS: Partially dedupped file system for primary workloads,"H Yu, X Zhang, W Huang, W Zheng","IEEE Transactions on Parallel and Distributed Systems 28 (3), 863-876",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16272394506697240697,3,2016
+Fastbfs: Fast breadth-first graph search on a single server,"S Cheng, G Zhang, J Shu, Q Hu, W Zheng",2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11613872459230378765,3,2016
+CG-Resync: Conversion-guided resynchronization for a SSD-based RAID array,"L Yi, J Shu, J Ou, W Zheng","2013 IEEE 31st International Conference on Computer Design (ICCD), 455-458",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2489001828702562985,3,2013
+Design and implementation of an asymmetric block-based parallel file system,"L Yi, J Shu, Y Zhao, Y Qian, Y Lu, W Zheng","IEEE Transactions on Computers 63 (7), 1723-1735",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=395208049879150999,3,2013
+TDDS: 基于虚拟集群系统的任务部署与调度,冯琳， 付勇， 陈康， 郑纬民,"计算机研究与发展 50 (5), 1118-1124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2276316225411832114,3,2013
+Improving the Effective IO Throughput by Adaptive Read-Ahead Strategy for Private Cloud Storage Service,"Q Wang, K Chen, Y Wu, W Zheng","2012 Seventh ChinaGrid Annual Conference, 134-141",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14752971310460055499,3,2012
+A Consistent Backup Mechanism for Disaster Recovery that Using Container Based Virtualization,"Y Xu, H Yu, W Zheng","2012 Seventh ChinaGrid Annual Conference, 95-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=928735728589993614,3,2012
+Smon: self-managed overlay networks for managing distributed applications,"C Gao, H Yu, G Shiy, J Chen, W Zheng","2010 IEEE Network Operations and Management Symposium-NOMS 2010, 80-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10442278567387457762,3,2010
+一种面向大规模副本存储系统的可靠性模型,穆飞， 薛巍， 舒继武， 郑纬民,"计算机研究与发展 46 (5), 756-761",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1121012350929551237,3,2009
+Cloudow: 一种基于用户层虚拟化的软件即服务模式运行系统,张悠慧， 李艳华， 郑纬民,"Science in China Series G-Physics, Mechanics & Astronomy 52 (52), 2342",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10446466204164323812,3,2009
+Parallel Simulated Annealing Based Time-Lapse Seismic Inversion with VMware Virtual Machine Technology,"Q Liu, W Zheng, Y Song",2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1170961665973590536,3,2008
+Empirical performance evaluation of message passing programs running in virtual machines,"K Chen, J Xin, W Zheng","2008 Seventh International Conference on Grid and Cooperative Computing, 620-627",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16355070806930324851,3,2008
+基于语义关联的网格监控元数据管理,胡美枝， 郑纬民， 武永卫， 杨广文,"清华大学学报: 自然科学版 48 (1), 109-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13877411151305702974,3,2008
+Metadata management scheme based on semantic links for grid monitoring [J],"M HU, W ZHENG, Y WU, G YANG",Journal of Tsinghua University (Science and Technology) 1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16939065417817825881,3,2008
+Granary: An Architecture of Object Oriented Internet Storage Service,"J Hu, C Hong, W Zheng","Jisuanji Yanjiu yu Fazhan(Computer Research and Development) 44 (6), 1071-1079",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3773757594097314919,3,2007
+基于分段的适应性流媒体缓存管理算法,郑冬冬， 余宏亮， 郑纬民,"清华大学学报: 自然科学版 47 (7), 1204-1207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11134588150784011108,3,2007
+Segment-based adaptive proxy caching of multimedia streams,"D Zheng, H Yu, W Zheng","JOURNAL-TSINGHUA UNIVERSITY 47 (7), 1204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8806858599871984837,3,2007
+Research on P2P-based Application Layer Multicast Structure [J],"F Yang, WM Zheng, H YU, M Zeng",Computer Engineering 15,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5671509564253424492,3,2007
+Storage performance virtualization under out-of-band structure,"R Huang, W Xue, J Shu, WM Zheng","MINIMICRO SYSTEMS-SHENYANG- 28 (6), 1139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5299026012069979519,3,2007
+On interoperability: The execution management perspective based on chinagrid support platform,"Y Wu, L Liu, W Zheng, F He",2006 Fifth International Conference on Grid and Cooperative Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9460804328662525654,3,2006
+UGE4B: An universal grid environment for bioinformatics research,"C Gang, Y Wu, W Zheng",2006 Fifth International Conference on Grid and Cooperative Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=36136464673388712,3,2006
+SCSI target simulator based on FC and IP protocols in TH-MSNS,"B Li, J Shu, W Zheng","Tsinghua Science and Technology 11 (5), 589-596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4605761608823976359,3,2006
+A resource-autonomy based monitoring architecture for grids,"M Hu, G Yang, W Zheng","International Conference on Grid and Pervasive Computing, 478-487",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17491049262440903639,3,2006
+一种 IA-64 架构下的大规模流媒体服务器缓存调度算法,余宏亮， 陈婧， 李毅， 郑纬民,"计算机研究与发展 43 (4), 729-737",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15664821358487689004,3,2006
+一种基于动态并行区的 OpenMP 程序开发模式,李建江， 舒继武， 陈永健， 王鼎兴， 郑纬民,"计算机研究与发展 43 (3), 496-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4082427369166179251,3,2006
+一致持久的带外虚拟化系统,张广艳， 舒继武， 薛巍， 郑纬民,"计算机研究与发展 43 (10), 1842-1848",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1664056821997166418,3,2006
+DNA 序列拼接中欧拉超路算法的新并行策略,郑纬民， 林皎， 罗水华,"计算机学报 29 (1), 139-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15561713562573087520,3,2006
+Genius: Peer-to-peer location-aware gossip using network coordinates,"N Ning, D Wang, Y Ma, J Hu, J Sun, C Gao, W Zheng","International Conference on Computational Science, 163-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12454343376178740001,3,2005
+Building a portable file system for heterogeneous clusters,"Q Huang, G Yang, W Zheng, M Shen, Y Deng","Tsinghua Science and Technology 10 (1), 108-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11275153110128670534,3,2005
+主动存储系统结构,靳超， 郑纬民， 张悠慧,"计算机学报 28 (6), 1013-1020",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14622723034073075743,3,2005
+一种分布式吴方法计算模型,武永卫， 杨广文， 杨宏， 郑纬民， 林东岱,"软件学报 16 (003), 384-391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2495497372145929199,3,2005
+Parallel computing method of valuing for multi-asset European option,"W Zheng, J Shu, Y Gu, X Deng",International Journal of Information Technology & Decision Making 3 (04 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=142026254927696195,3,2004
+基于海量存储网络系统的管理软件的设计与实现,王恒， 舒继武， 温冬婵， 郑纬民,"小型微型计算机系统 25 (11), 1959-1964",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8696534752007858174,3,2004
+机群文件系统中一种文件迁移的客户端决策,邓宜堰， 舒继武， 沈美明， 郑纬民,"清华大学学报: 自然科学版 44 (4), 567-571",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6237173253305808613,3,2004
+基于自主运算的自适应存储区域网络系统,付长冬， 舒继武， 郑纬民， 沈美明,"软件学报 15 (007), 1056-1063",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3010558908684596979,3,2004
+On the malicious participants problem in computational grid,"W Chen, W Zheng, G Yang","International Conference on Grid and Cooperative Computing, 839-848",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11960551637776644920,3,2003
+一种新的网络对象存储设备研究,张悠慧， 郑纬民,"电子学报 31 (5), 679-682",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13627532701197444919,3,2003
+统一缓存: 基于用户层通信的合作缓存技术,张悠慧， 汪东升， 郑纬民,"计算机研究与发展 40 (7), 1117-1123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18023517245682298948,3,2003
+一个集群系统上的网络信息采集器,高塽， 齐继国， 沈美明， 郑纬民,"小型微型计算机系统 24 (8), 1413-1417",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8813580134164800692,3,2003
+基于 Cluster 的大型油藏数值模拟的并行计算,杨耀忠， 舒继武， 郑纬民,"清华大学学报: 自然科学版 43 (9), 1284-1287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8683226896967244585,3,2003
+Text distinguishers used in an interactive meta search engine,"K Chen, W Zheng, X Deng, H Feng, S Zhu","International Conference on Web-Age Information Management, 181-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7934360631516163722,3,2002
+调试器对并行程序干扰特性的研究,刘建， 沈美明， 郑纬民,"计算机学报 25 (2), 122-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6308483562243277153,3,2002
+A Java Virtual Machine Based on Hybrid Concurrent Compilation and Execution Model [J],"B YANG, D WANG, W ZHENG",Journal of Software 7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2663059696953292192,3,2002
+Research on perturbation imposed on parallel programs by debuggers,"J Liu, MM Shen, WM Zheng","CHINESE JOURNAL OF COMPUTERS-CHINESE EDITION- 25 (2), 122-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2379502375743485160,3,2002
+Performance analysis for massive problem data parallel computing,"J Shu, W Zheng, M Shen, D Wang","RUAN JIAN XUE BAO 11 (5), 628-633",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10807711697543793935,3,2000
+MPP 中区域分解法的临界子区域数的确定方法,舒继武， 郑纬民,"清华大学学报: 自然科学版 40 (7), 105-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6700585421305197136,3,2000
+高可用集群计算,汪东升， 郑纬民,"小型微型计算机系统 21 (11), 1126-1129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2680279907068638025,3,2000
+Research on cluster of workstations,"D Wang, W Zheng, J Xiong",Proceedings of the 1997 International Symposium on Parallel Architectures …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13514803650476113063,3,1997
+提高工作站机群系统通信性能方法的研究,申俊， 郑纬民,"小型微型计算机系统 18 (6), 8-13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10499556357586141384,3,1997
+工作站机群系统,郑纬民， 李晨,"中国计算机用户, 6-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1506028161022127907,3,1996
+一种基于 Message Passing 的并行程序设计技术,温钰洪， 王鼎兴,"小型微型计算机系统 16 (5), 7-13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8757778352389225383,3,1995
+Granularity analysis for exploiting adaptive parallelism of declarative programs on multiprocessors,"X Tian, D Wang, M Shen, W Zheng, D Wen","Journal of Computer Science and Technology 9 (2), 144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12482268008913766681,3,1994
+云计算的挑战与机遇,郑纬民,"中国计算机学会通讯, 201l 7 (1), 18.22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12361163167715407178,3,0
+Urban Activity Mining Framework for Ride Sharing Systems Based on Vehicular Social Networks,"B Shen, W Zheng, KM Carley","Networks and Spatial Economics 18 (3), 705-734",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2369741323482248986,2,2018
+An efficient in-memory checkpoint method and its practice on fault-tolerant HPL,"X Tang, J Zhai, B Yu, W Chen, W Zheng, K Li","IEEE Transactions on Parallel and Distributed Systems 29 (4), 758-771",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2323327741813641716,2,2017
+Asyncstripe: I/o efficient asynchronous graph computing on a single server,"S Cheng, G Zhang, J Shu, W Zheng",Proceedings of the Eleventh IEEE/ACM/IFIP International Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17411391058531248851,2,2016
+What is wrong with the transmission? a comprehensive study on message passing related bugs,"M Zhang, Y Wu, K Chen, W Zheng","2015 44th International Conference on Parallel Processing, 410-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13054579233279368007,2,2015
+SepStore: Data Storage Accelerator for Distributed File Systems by Separating Small Files from Large Files,"Z Wang, K Chen, Y Wu, W Zheng","International Conference on Internet of Vehicles, 272-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7040035150436880446,2,2014
+BirdStore: Block-grained snapshot management system for instant disaster recovery,"X Zhang, H Yu, W Zheng",2014 IEEE 5th International Conference on Software Engineering and Service …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6150186731064883147,2,2014
+Design and evaluation of a new approach to RAID-0 scaling,"G Zhang, W Zheng, K Li","ACM Transactions on Storage (TOS) 9 (4), 11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5847990035756160283,2,2013
+支持分布式存储删冗的相似文件元数据集合索引,孙竞， 余宏亮， 郑纬民,"计算机研究与发展 50 (1), 197-205",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17676690220917241950,2,2013
+Corner turn of SAR data based on multi-FPGAs parallel system,"H Shen, Z Wang, W Zheng","Computers & Electrical Engineering 38 (5), 1205-1212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17613891318951534487,2,2012
+"MassStore: A low bandwidth, high De-duplication efficiency network backup system","J Du, H Yu, W Zheng","2012 International Conference on Systems and Informatics (ICSAI2012), 886-890",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16115526165543684905,2,2012
+MiF: Mitigating the intra-file Fragmentation in parallel file system,"L Yi, J Shu, Y Lu, W Wang, W Zheng","2011 International Conference on Parallel Processing, 424-433",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10051449021004276458,2,2011
+PMU guided structure data-layout optimization,"J Yan, W Chen, W Zheng","Tsinghua Science and Technology 16 (2), 145-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9657945570146940381,2,2011
+Web Caching Replacement Based on User's Visiting Action,"B Wang, YW Wu, WM Zheng","Applied Mechanics and Materials 52, 25-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10915463013996970813,2,2011
+A performance analytical approach based on queuing model for network-on-chip,"Y Zhang, W Zheng, X Dong, S Gan","2010 3rd International Symposium on Parallel Architectures, Algorithms and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12468825884476236245,2,2010
+A rising tide lifts all boats: how memory error prediction and prevention can help with virtualized system longevity,"Y Du, H Yu, Y Jiang, Y Dong, W Zheng",Proceedings of the Sixth international conference on Hot topics in system …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=970688429088614130,2,2010
+基于日志的系统任务模型推理工具及其应用,高崇南， 余宏亮， 郑纬民,"计算机研究与发展 47 (8), 1490-1496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3447850943221100002,2,2010
+一种自动推断复杂系统层次结构任务模型的方法,高崇南， 余宏亮， 郑纬民,"计算机学报, 119-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15614417815424013278,2,2010
+On demand mode of legacy desktop software and its automatic deployment for cloud-computing environment,"YH Zhang, GL Su, WM Zheng",Proceedings of the 6th Workshop on Grid Technologies and Applications (WOGTA …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12755407404455170122,2,2009
+Amigo file system: CAS based storage management for a virtual cluster system,"J Xin, K Chen, W Zheng",2009 Ninth IEEE International Conference on Computer and Information …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10980807538233729403,2,2009
+Adapting to application workflow in processing data integration queries,"WU Yongwei, LIU Jia, G Chen, G Yang, B Cao, W Zheng",Sixth International Conference on Grid and Cooperative Computing (GCC 2007 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9369708891698130849,2,2007
+种基于 DHT 混合型对等发现服务的算法设计,杨峰， 郑纬民， 余宏亮,计算机应用研究 24 (3),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2369072609900376539,2,2007
+面向 P2P 搜索的可定制聚焦网络爬虫,方启明， 杨广文， 武永卫， 朱安平， 郑纬民,"华中科技大学学报: 自然科学版, 148-152",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9875020005618360256,2,2007
+Parallel programming over ChinaGrid,"W Huang, Y Wu, Y Yuan, J Liu, G Yang, W Zheng","International Journal of Web and Grid Services 3 (4), 480-497",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6143133872792285866,2,2007
+Intelligent Decision Making for Agreement-based Grid Resource Management,"R Liu, W Zheng, Y Wu",First International Multi-Symposiums on Computer and Computational Sciences …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4895687667656709377,2,2006
+基于 CGSP 的大学数字博物馆应用网格,陈小武， 张屹， 罗茜茜， 陈明基， 郝克,"华中科技大学学报: 自然科学版, 13-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11402197658061604386,2,2006
+一种与 Bittorrent 兼容的流媒体服务系统,严彦， 武永卫， 杨广文， 郑纬民,"华中科技大学学报: 自然科学版, 171-173",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9604419881541654896,2,2006
+Resources allocation schemas for web information monitoring,"K Chen, M Shen, M Zheng","Tsinghua Science and Technology 10 (3), 309-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13522469030076394626,2,2005
+Deterministic global optimization with a neighbourhood determination algorithm based on neural networks,"W Sun, J Shu, W Zheng","International Symposium on Neural Networks, 700-705",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16109583623169055171,2,2005
+Improving the data placement algorithm of randomization in SAN,"N Yao, J Shu, W Zheng","International Conference on Computational Science, 415-422",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2000226424042603366,2,2005
+TH-MSNS: A high scalable network storage system.,"JW Shu, W Xue, BG Li, WM Zheng","Jisuanji Xuebao(Chin. J. Comput.) 28 (3), 326-333",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13762987372406236522,2,2005
+RSDictionary——一种用于分布式计算环境的全局名字空间,张武生， 杨广文， 沈美明， 郑纬民,"计算机研究与发展 42 (8), 1409-1414",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2017105914252229019,2,2005
+随机测试程序生成器研究,刘志强， 汪东升， 郑纬民,"计算机工程与设计 26 (2), 281-284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3111095550711849360,2,2005
+TH-MSNS 系统中基于 IP 协议的缓存机制设计与实现,李必刚， 舒继武， 郑纬民,"高技术通讯 15 (12), 14-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2254639008060208733,2,2005
+Active Storage Architecture,"JINCZWM ZHANG, Y Hui","Chinese Journal of Computers, 12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4335778062469948340,2,2005
+Distributed web information tracking,"K Chen, M Shen, W Zheng","MINIMICRO SYSTEMS-SHENYANG- 26 (9), 1441",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12748230352212907765,2,2005
+Cluster-based parallel simulation for large scale molecular dynamics in microscale thermophysics,"J Shu, B Wang, W Zheng",International Symposium on Parallel and Distributed Processing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12207790925300111714,2,2004
+The flexible replication method in an object-oriented data storage system,"Y Zhang, J Hu, W Zheng","IFIP International Conference on Network and Parallel Computing, 485-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3925079425335028614,2,2004
+An efficient web services based approach to computing grid,"W Zheng, M Hu, G Yang, Y Wu, M Chen, R Ma, S Liu, B Zhang",IEEE International Conference on E-Commerce Technology for Dynamic E …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923511892095653719,2,2004
+数据传输模式对用户态通信的性能影响分析,张继超， 常迪， 郑纬民， 沈美明,"小型微型计算机系统 25 (1), 30-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7768229683345975534,2,2004
+"网络存储系统性能基准的研究, 评价与发展",付长冬， 舒继武， 沈美明， 郑纬民,"小型微型计算机系统 25 (12), 2049-2054",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2290288820012650755,2,2004
+A self-adaptive storage area network system based on autonomic computing,"CD Fu, JW Shu, WM Zheng, MM Shen","Journal of Software 15 (7), 1056-1063",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10659112804951889416,2,2004
+File migration client side decisions in clustered file systems [J],"Y DENG, J SHU, M SHEN, W ZHENG",Journal of Tsinghua University (Science and Technology) 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4725391544276144558,2,2004
+Design and Implementation of Management Software Based on Mass Storage Network System,"H WANG, J SHU, D WEN, W ZHENG",Mini-micro Systems 11,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=633604085367857109,2,2004
+Grid-based biological computation service environment,"J Zhu, G Yang, W Zheng, T Zhu, M Shen, L Qiao, X Liu","International Conference on Grid and Cooperative Computing, 237-241",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15644563931060390183,2,2003
+A portable debugger for PVM/MPI programs on IA64 cluster,"X Qian, J Liu, W Zheng","International Workshop on Advanced Parallel Processing Technologies, 136-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8793565715169054425,2,2003
+A Caching Model in Cluster File System,"QF Huang, WM Zheng, MM Shen","Mini-micro Systems, 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11439537778098639868,2,2003
+一种机群文件系统的缓存模型,黄启峰， 郑纬民， 沈美明,"小型微型计算机系统 24 (10), 1748-1752",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12042438445373984256,2,2003
+基于 Myrinet/GM 的多通道通信,张继超， 舒继武， 郑纬民， 常迪,"软件学报 14 (002), 278-284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4986969745207262255,2,2003
+Parallel computing for lattice Monte Carlo simulation of large-scale thin film growth,"J Shu, W Zheng, Q Lu, H Huang, W Wong","Science in China Series: Information Sciences 45 (2), 103-110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1838767575094307608,2,2002
+Myrinet 网络中的用户态通信协议设计与实现,张继超， 常迪,"计算机应用 22 (6), 44-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15498894880677800948,2,2002
+"一种实用, 高效的虚拟远程超级计算环境 A",谢非， 杨广文， 鞠大鹏， 王鼎兴， 郑纬民,Journal of Software 13 (8),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14766702493870408714,2,2002
+利用模拟退火技术求解多 Hoist 调度问题,杨广文， 鞠大鹏， 郑纬民， 林国健,"软件学报 12 (1), 11-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17448432871772434084,2,2001
+WWW 集群服务器的数据副本分布方式研究,沈海华， 陈世敏， 沈美明， 郑纬民,"软件学报 12 (3), 367-371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12478606081240793117,2,2001
+一个并行程序集成开发环境的功能框架及实现中的关键技术,赵刚， 沈美明， 郑纬民,"小型微型计算机系统 22 (11), 1281-1284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5909635952453726019,2,2001
+BUSTER: 一个可移植的并行调试器,杜术， 陈晓鹏， 汪东升， 郑纬民,"小型微型计算机系统 22 (10), 1153-1156",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5610221078145341757,2,2001
+Solaris 系统多线程检查点设置与卷回恢复,张悠慧， 汪东升,"计算机工程与应用 36 (8), 45-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11769096737800458590,2,2000
+服务不间断 “容错” 奠基石,汪东升， 郑纬民,"微电脑世界, 42-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11736174460979691516,2,2000
+ChaRM: A checkpoint-based rollback recovery and process migration system for cluster of workstations,"D WANG, X DENG, W ZHENG","Algorithms And Architectures For Parallel Processing: ICA3PP 2000, 708-709",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15325470389236428047,2,2000
+一种基于结点的分布式合作缓存管理算法 DCC,郑晓薇， 郑纬民,"计算机研究与发展 36 (9), 1057-1061",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=888387408841088175,2,1999
+一种基于 Ethernet 新的可靠多播算法,申俊， 郑纬民,"软件学报 9 (6), 432-437",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14014020203037999769,2,1998
+Myrinet: 一种适用于机群系统的新型高速网络,申俊， 郑纬民,"计算机工程与应用 34 (11), 14-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10246734251868681313,2,1998
+Reduced communication protocol for clusters,"S Di, WM Zheng","Proceedings. Advances in Parallel and Distributed Computing, 314-319",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7272943544308523347,2,1997
+函数程序设计语言,郑纬民， 周光明， 田新民,清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13535130729978002844,2,1997
+三模冗余计算机 FT-HIT 系统设计与实现,汪东升， 郑纬民， 杨孝宗,"计算机研究与发展, 203-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1273472814288327347,2,1997
+并行任务动态派生的积极惰性化控制方法,田新民， 王鼎兴,"软件学报 5 (2), 6-13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15585086682946793360,2,1994
+An automatic performance model-based scheduling tool for coupled climate system models,"N Ding, W Xue, Z Song, H Fu, S Xu, W Zheng","Journal of Parallel and Distributed Computing 132, 204-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14934394665029578566,1,2019
+HyConv: Accelerating Multi-Phase CNN Computation by Fine-Grained Policy Selection,"X Li, G Zhang, Z Wang, W Zheng","IEEE Transactions on Parallel and Distributed Systems 30 (2), 388-399",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216134132033706887,1,2018
+ReGraph: A Graph Processing Framework that Alternately Shrinks and Repartitions the Graph,"X Li, M Zhang, K Chen, Y Wu","Proceedings of the 2018 International Conference on Supercomputing, 172-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1057663807982810521,1,2018
+D ude T x: Durable Transactions Made Decoupled,"M Liu, M Zhang, K Chen, X Qian, Y Wu, W Zheng, J Ren","ACM Transactions on Storage (TOS) 14 (1), 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7348199497493357092,1,2018
+I/O-Conscious and Prediction-Enabled Virtual Machines Scheduling,"J Jiang, X Zhao, Y Wu, W Zheng",2016 IEEE International Conference on Computer and Information Technology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12922367188018939688,1,2016
+Characterizing and optimizing TPC-C workloads on large-scale systems using SSD arrays,"J Zhai, F Zhang, Q Li, W Chen, W Zheng","Science China Information Sciences 59 (9), 92104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11783549578035530619,1,2016
+从系统角度审视大图计算,吴城文， 张广艳， 郑纬民,"大数据 1 (3), 2015028",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5021188308667122408,1,2015
+Flex: Flexible and energy efficient scheduling for big data storage,"D Ma, Y Wu, K Chen, W Zheng","2015 44th International Conference on Parallel Processing Workshops, 213-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13466404431461171191,1,2015
+基于理想点的星型高阶联合聚类一致融合策略,黄少滨， 杨欣欣， 吕天阳， 郑纬民,"计算机学报 38 (7), 1460-1472",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2251859969891258579,1,2015
+Detecting method and system for concurrency bugs,"Y Wu, K Chen, W Zheng, M Zhang","US Patent App. 14/562,706",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16727415519631019478,1,2015
+Customized Network-on-Chip for Message Reduction,"H Wang, S Lu, Y Zhang, G Yang, W Zheng",International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17929321081626782978,1,2014
+An approach of processor core customization for stencil computation,"Y Li, Y Zhang, J Yang, W Luk, G Yang, W Zheng",2014 IEEE 25th International Conference on Application-Specific Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9019566698537553693,1,2014
+OpenMDSP: extending OpenMP to program multi-core DSPs,何江舟， 陈文光， 陈光日， 郑纬民， 汤志忠， 叶寒栋,"计算机科学技术学报: 英文版, 316-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488465883617142957,1,2014
+Cache Optimizations of Distributed Storage for Software Streaming Services,"Y Zhang, P Qu, Y Li, H Wang, W Zheng",International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15952196772540934234,1,2013
+Human dynamics revealed through log analytics in a cloud computing environment,"S Chen, N An, L Li, Y Wu, W Zheng, L Sun","International Conference on Web-Age Information Management, 58-63",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4871094345436295651,1,2013
+AIP: a tool for flexible and transparent data management,"GY Zhang, JP Qiu, JW Shu, WM Zheng","Science China Information Sciences 56 (5), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14934581799493248270,1,2013
+HW/SW approaches to accelerate GRAPES in an FU array,"W Wang, J Yao, Y Zhang, W Xue, Y Nakashima, W Zheng","2013 IEEE COOL Chips XVI, 1-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3368226110496392470,1,2013
+CWFlow: A cloud-based workflow framework with adaptive resource utilization [J],"S SHANG, J JIANG, W ZHENG",Journal of Tsinghua University (Science and Technology) 3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8059449781965714085,1,2013
+面向 “计算机使用者” 的计算机体系结构课程,郑纬民， 张悠慧,"计算机教育, 90-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7734859651663232415,1,2012
+Improving the System Capacity by Client Cooperation in Distributed File Service,"G Huang, K Chen, Y Wu, W Zheng, Q Yue","2012 Seventh ChinaGrid Annual Conference, 156-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8609705445808073825,1,2012
+多核体系下的并行任务构建,王博， 尚世锋， 武永卫， 郑纬民,"计算机研究与发展 49 (4), 818-825",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17756832932332884494,1,2012
+A user-space file system for on-demand legacy desktop software,"YH Zhang, GL Su, WM Zheng","Science China Information Sciences 54 (6), 1142-1150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12217661320559689655,1,2011
+大规模分布式系统实体交互脆弱性分析方法,赵刚， 赵金晶， 况晓辉， 郑纬民,"计算机工程与应用 47 (18), 98-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14920468522488773258,1,2011
+面向结构体数据布局优化的高效内存管理,闫家年， 陈文光， 郑纬民,"清华大学学报: 自然科学版 51 (1), 68-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12074328491369845896,1,2011
+Efficient memory management for structured data-layout optimization,"J Yan, W Chen, W Zheng","Journal of Tsinghua University Science and Technology 51 (1), 68-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8902103207473515974,1,2011
+A Taxonomy and Survey of Resource Management in Grid,"B Wang, G Chen, H Luo, W Zheng","2010 Sixth International Conference on Semantics, Knowledge and Grids, 309-312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6296457660628008121,1,2010
+基于并行离散事件模拟的大规模 P2P 系统行为预测,郑纬民， 余宏亮， 施广宇， 陈坚,"中国科学: 信息科学, 1338-1350",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4783925372107856229,1,2010
+Improving grid performance by dynamically deploying applications,"Y Wu, G Chen, J Liu, R Fang, G Yang, W Zheng","Concurrency and Computation: Practice and Experience 22 (13), 1945-1967",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8103874522341916606,1,2010
+Parallel task developing based on software pipeline in multicore system,"B Wang, S Shang, Q Fang, W Zheng",International Symposium on Parallel and Distributed Processing with …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2571833911276338492,1,2010
+Task partition comparison between multi-core system and GPU,"W Zheng, B Wang, Y Wu","2010 Fifth Annual ChinaGrid Conference, 175-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1431970989973413357,1,2010
+Distributed bandwidth allocation based on alternating evolution algorithm,"X Huang, Y Wu, G Yang, W Zheng, J Jiang","Journal of Parallel and Distributed Computing 70 (5), 547-557",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13792268025686875139,1,2010
+多 Agent 并行遗传算法在地震勘探属性优化中的应用,刘其成， 郑纬民,"计算机科学 37 (4), 234-237",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6600494631751503377,1,2010
+Towards a Better Understanding of Locality-Awareness in Peer-to-Peer Systems,"H Yu, G Shi, J Chen, X Weng, W Zheng","International Conference on Grid and Distributed Computing, 41-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13929088559439655730,1,2009
+Grid Scheduling Based on Prediction of Task Completion Time,"Y WU, G CHEN, G YANG, W ZHENG",Chinese Journal of Electronics 18 (3),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17608140252436400718,1,2009
+A Software-Controlled Cache Coherence Optimization for Snoopy-based SMP System,"Y Zhang, Z Qian, W Zheng",2009 International Conference on Computational Intelligence and Natural …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10938015636574013833,1,2009
+KLinux: 基于开源 Linux 的混合实时操作系统,王继刚， 郑纬民， 钟卫东， 李翌,"清华大学学报: 自然科学版, 1028-1031",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16526063003287193765,1,2009
+基于 Linux 的混合实时操作系统,王继刚， 郑纬民， 钟卫东， 李翌,"清华大学学报 (自然科学版) 网络. 预览, 27",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=865933884475166009,1,2009
+面向全系统毁坏后的服务即时恢复技术,郑纬民,"中国工程科学 11 (10), 32-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15181029577396717753,1,2009
+基于虚拟机的 OpenSSH 秘钥数据隔离方法,陈康， 余宏亮， 郑纬民,"通信学报, 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8065551925548238033,1,2009
+电信级操作系统 CGEL 中的高可用性设计,王继刚， 郑纬民， 谢世波， 钟卫东,"计算机科学 36 (12), 18-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3410937322514873710,1,2009
+Teaching large scale data processing: the five-week course and two years' experiences,"K Chen, Y Yin, W Zheng",Proceedings of the 1st ACM Summit on Computing Education in China on First …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4853292779382033794,1,2008
+A Practical Stride Prefetching Implementation in Global Optimizer,"H Zhou, X Zhou, T Sheng, D Chen, J Yan, S Liu, W Chen, W Zheng",1st Open64 Workshop at CGO,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17473726690879489152,1,2008
+A component based interoperability solution over existing grid middleware,"W Huang, Y Wu, J Liu, G Yang, W Zheng",Sixth International Conference on Grid and Cooperative Computing (GCC 2007 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3788090539802071000,1,2007
+Design and implementation of an efficient multi-version file system,"XJ Xiang, JW Shu, W Xue, WM Zheng","2007 International Conference on Networking, Architecture, and Storage (NAS …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7528821543667448379,1,2007
+一种高可用性存储系统 TH-iSCSI 的设计与实现,舒继武， 于冰， 薛巍， 郑纬民,"计算机研究与发展, 82-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11324519615443368148,1,2007
+网格计算专刊前言,金海， 郑纬民,"软件学报 17 (011), 2221-2223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397059334744846080,1,2006
+Seamless peripherals integration for network computers based on the reversed server message block protocol,"Y Zhang, P Li, D Wang, W Zheng","International conference on Networking and Services (ICNS'06), 112-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14304948831542718170,1,2006
+Parallelization of module network structure learning and performance tuning on SMP,"H Jiang, C Lai, W Chen, Y Chen, W Hu, W Zheng, Y Zhang",Proceedings 20th IEEE International Parallel & Distributed Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3523629318748919895,1,2006
+一种 DNA 测序纠错算法,郑纬民， 张华， 王小川,"Journal of Software 17 (2), 193-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9990974512144635704,1,2006
+B,"M Chen, G Yang, X Liu, W Zheng","Tsinghua Science And Technology 11 (1), 44-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8172379916045272473,1,2006
+PScript: 基于 J2ME 平台的高效可扩展脚本语言,何佳， 余宏亮， 郑纬民,"清华大学学报: 自然科学版 46 (4), 568-571",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11803044508659628774,1,2006
+面向集群的消息传递并行程序容错系统,薛瑞尼， 张悠慧， 陈文光， 郑纬民,"清华大学学报: 自然科学版 46 (001), 67-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1953653823096900004,1,2006
+一种基于集群环境的虚拟存储系统研究与实现,李必刚， 舒继武， 穆飞， 郑纬民,"小型微型计算机系统 27 (6), 1113-1119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12282468143873606727,1,2006
+Algorithm for synchronizing physical clocks in a parallel debugging environment,"Y Lin, X Qian, W Chen, M Shen, W Zheng","JOURNAL-TSINGHUA UNIVERSITY 46 (7), 1286",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6151417445864902391,1,2006
+FleMA: A flexible measurement architecture for ChinaGrid,"W Zheng, M Hu, L Liu, Y Wu, J Tie",International Symposium on Parallel and Distributed Processing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12290911780256573370,1,2005
+A sliced-finite difference method for the American option,"J Shu, Y Gu, X Deng, W Zheng","IIE Transactions 37 (10), 939-944",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7348106263135205842,1,2005
+SAN 中的分布式锁机制,姚念民， 舒继武， 郑纬民,"计算机研究与发展 42 (2), 338-343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11871651101332941620,1,2005
+基于类型的运行时环境存储管理算法,张武生， 杨广文， 郑纬民,"软件学报 16 (008), 1506-1512",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12481815868940649411,1,2005
+可扩展的分布式邮件系统的研究与实现,刘广涛， 舒继武， 郑纬民,"小型微型计算机系统 26 (12), 2096-2099",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10647850114365684042,1,2005
+基于区域分解和 MPI 的线性带状方程组归并迭代解法器,刘朝辉， 舒继武， 郑纬民,"清华大学学报: 自然科学版 45 (10), 1409-1412",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6983205912853665744,1,2005
+P2P: 未来社会不可避免的计算模式,郑纬民， 胡进锋,"中国教育网络, 14-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6749911248726665911,1,2005
+分布式网络信息跟踪,陈康， 沈美明， 郑纬民,"小型微型计算机系统 26 (9), 1441-1444",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3075671246094784579,1,2005
+A Class-Based Garbage Collection Algorithm for the Runtime Environments,"WS Zhang, GW Yang, WM Zheng",Journal of Software 8,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13589005523963629660,1,2005
+Parallel checkpoint/recovery on cluster of IA-64 computers,"Y Zhang, D Wang, W Zheng",International Symposium on Parallel and Distributed Processing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4620431299882999279,1,2004
+A JDO storage cluster based on object devices,"Y Zhang, D Wang, C Gao, W Zheng","International Conference on Grid and Cooperative Computing, 187-194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13082362963496249989,1,2004
+Challenge and methods of synchronous disk I/O,"C Jin, W Zheng, D Wang, Y Mao","Tsinghua Science and Technology 9 (1), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15378051503150922221,1,2004
+Session 2C-Cluster Systems and Applications-Cluster-Based Parallel Simulation for Large Scale Molecular Dynamics in Microscale Thermophysics,"J Shu, B Wang, W Zheng","Lecture Notes in Computer Science 3358, 200-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12475773355991198724,1,2004
+Improvement of routing structure in P2P overlay networks,"J Hu, Y Wu, M Li, W Zheng","International Conference on Grid and Cooperative Computing, 292-299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11521261571228469982,1,2003
+Class-Based garbage collection in object-oriented programming environments,"W Zhang, Q Huang, M Shen, W Zheng","Tsinghua Science and Technology 8 (6), 658-666",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8853470830445644063,1,2003
+Parallel computing method of valuing for multi-asset european option,"W Zheng, J Shu, X Deng, Y Gu","International Conference on Computational Science, 3-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16478978136823258369,1,2003
+基于 IP 的全局网络存储解决方法,刘福明， 郑纬民,"计算机科学 30 (7), 46-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13605616034513467985,1,2003
+ChangeSpider: 一个自适应的网页信息跟踪系统,刘凡， 陈康， 郑纬民,"计算机工程与应用 39 (34), 160-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10576547045136614214,1,2003
+机群计算多通道通信技术研究与设计,张继超， 郑纬民， 常迪， 沈美明,"小型微型计算机系统 24 (12), 2063-2063",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=974941726270004049,1,2003
+THMonitor: A new Schema of WWW updating monitor,"C Ma, S Gao, G Yang, M Shen, W Zheng",Fifth International Conference on Algorithms and Architectures for Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6014302814499269406,1,2002
+有限延时消息通信模型及在并行程序调试器设计中的应用,刘建， 沈美明， 郑纬民,"计算机科学 29 (3), 7-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12107221959868725564,1,2002
+On-line selection of distinguishing elements for focused information retrieval,"K Chen, W Zheng, H Chim, X Deng, H Feng, S Zhu","IEEE International Conference on Multimedia and Expo, 2001. ICME 2001., 1041 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17766333594991145113,1,2001
+Task scheduling of parallel programs to optimize communications for cluster of SMPs,"W Zheng, B Yang, W Lin, Z Li","Science in China Series: Information Sciences 44 (3), 213-225",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14748076985792433717,1,2001
+Transparent checkpointing and rollback recovery mechanism for Windows NT applications,"Y Zhang, D Wang, W Zheng","ACM SIGOPS Operating Systems Review 35 (2), 78-85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9700860397216116055,1,2001
+Communication optimization for smp clusters,"W Lin, W Chen, Z Li, W Zheng","Tsinghua Science and Technology 6 (1), 18-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7009915976648598141,1,2001
+基于快速消息传递的高性能 PVM,夏华夏， 郑纬民,"软件学报 12 (1), 26-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17635601948209046127,1,2001
+适用于工作站机群系统高性能计算的快速消息传递协议,欧新明， 申俊， 郑纬民,"软件学报 12 (3), 317-322",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=263991648545088479,1,2001
+Selection of the ideal number of sub-domains for domain decomposition in MPP [J],"J Shu, W Zheng, D Wang, G Yang",JOURNAL OF TSINGHUA UNIVERSITY (SCIENCE AND TECHNOLOGY) 7,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11528707935030257091,1,2000
+基于 NOW 的检查点设置与卷回恢复,汪东升， 郑纬民,"中国科学: E 辑 28 (6), 559-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16803878645079868398,1,1998
+LBS—基于 PVM 的动态任务负载平衡系统,傅强， 郑纬民,"小型微型计算机系统 19 (10), 6-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9099577067498487105,1,1998
+一种基于 Message Passing 的并行程序设计环境,温钰洪， 沈美明,"软件学报 6 (11), 647-654",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6913860339887941251,1,1995
+计算机性能指标 MIPS 的适用性分析,刘德才， 王鼎兴,"小型微型计算机系统 15 (11), 7-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10911991551554688245,1,1994
+一个全互连可伸缩并行加速系统的体系结构设计,董迎飞， 王鼎兴,"计算机学报 17 (3), 204-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10011262058097758407,1,1994
+Optimized parallel execution of declarative programs on distributed memory multiprocessors,"M Shen, X Tian, D Wang, W Zheng, D Wen","Journal of Computer Science and Technology 8 (3), 233-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8554809890945004612,1,1993
+面向对象语言 Smalltalk-80 的并行与分布实现技术的研究,高耀清， 郑纬民， 沈美明， 王鼎兴,"计算机研究与发展, 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7958718408031280632,1,1993
+"C_m~*, X-TREE 多处理机系统寻址机构和路径算法的分析",郑纬民， 沈美明， 王鼎兴,"计算机研究与发展, 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2697703745375725868,1,1982
+An implement of parallel module network learning algorithm on distributed memory multiprocessors,"L Liu, W Hu, C Lai, H Jiang, W Chen, W Zheng, Y Zhang",The 7th International Workshop on High Performance Scientific and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1373939320184125576,1,0
+A Task Migration Mechanism for MPI Applications,"YZDPD Wang, W Zheng",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=393288142747494797,1,0
+Determining Data Distribution for Large Disk Enclosures with 3-D Data Templates,"G Zhang, Z Wang, X Ma, S Yang, Z Huang, W Zheng","ACM Transactions on Storage (TOS) 15 (4), 1-38",,0,2019
+Systems and methods for remote procedure call,"K Chen, Y Wu, W Zheng, M Su, T Ma, M Zhang","US Patent App. 15/919,821",,0,2019
+Data storage system and data storage method,"G Zhang, W Zheng","US Patent 10,346,245",,0,2019
+专题: 边缘计算技术及其应用,郑纬民， 潘毅， 施巍松,"中兴通讯技术, 1",,0,2019
+基于 RDMA 和 NVM 的大数据系统一致性协议研究,吴昊， 陈康， 武永卫， 郑纬民,"大数据 5 (4), 89-99",,0,2019
+Roo: Route Planning Algorithm for Ride Sharing Systems on Large-Scale Road Networks,"B Shen, B Cao, Y Zhao, H Zuo, W Zheng, Y Huang",2019 IEEE International Conference on Big Data and Smart Computing (BigComp …,,0,2019
+Automatic tuning of the Community Atmospheric Model (CAM5) by using short-term hindcasts with an improved downhill simplex optimization method,"T Zhang, M Zhang, W Lin, Y Lin, W Xue, H Yu, J He, X Xin, HY Ma, S Xie, ...",Geoscientific Model Development (Online) 11 (LLNL-JRNL-765387),,0,2018
+Redio: Accelerating Disk-Based Graph Processing by Reducing Disk I/Os,"C Wu, G Zhang, Y Wang, X Jiang, W Zheng","IEEE Transactions on Computers 68 (3), 414-425",,0,2018
+Accelerating breadth-first graph search on a single server by dynamic edge trimming,"G Zhang, S Cheng, J Shu, Q Hu, W Zheng","Journal of Parallel and Distributed Computing 120, 383-394",,0,2018
+A Fast Sparse Triangular Solver for Structured-grid Problems on Sunway Many-core Processor SW26010,"X Wang, P Xu, W Xue, Y Ao, C Yang, H Fu, L Gan, G Yang, W Zheng","Proceedings of the 47th International Conference on Parallel Processing, 53",,0,2018
+: A Disk I/O Focused Parallel Out-of-Core Graph Processing System,"Z Ai, M Zhang, Y Wu, X Qian, K Chen, W Zheng","IEEE Transactions on Parallel and Distributed Systems 30 (1), 45-62",,0,2018
+Understanding potential performance issues using resource-based alongside time models,"N Ding, VW Lee, W Xue, W Zheng",,,0,2018
+"Hybrid network system, communication method and network node","W Zheng, W Chen, W Xue, J Zhai, K Chen","US Patent App. 15/319,775",,0,2017
+Method and Apparatus for Multiple Accesses in Memory and Storage System,"W Chen, W Zheng","US Patent App. 15/310,984",,0,2017
+面向 MPI 集合操作的定制化片上网络,陆思羽， 王宏伟， 张悠慧， 杨广文， 郑纬民,"计算机工程 34 (6), 1-10",,0,2017
+大数据背景下动态共乘的研究进展,沈弼龙， 赵颖， 黄艳， 郑纬民,"计算机研究与发展 54 (1), 34-49",,0,2017
+高等计算机系统结构课程研究型教学探讨,张广艳， 郑纬民,"计算机教育, 5-7",,0,2016
+大数据分析平台——从扩展性优先到性能优先,郑纬民， 陈文光,"中兴通讯技术 22 (2), 11-13",,0,2016
+系统结构角度的脉冲神经网络建模,"Y Ji, YH Zhang, WM Zheng","计算机科学技术学报 31 (1), 50-59",,0,2016
+固态盘阵列构建方法研究综述,李祥楠， 张广艳， 李强， 郑纬民,"计算机研究与发展 53 (9), 1893-1905",,0,2016
+Total contents,"WC Zhu, W Zheng, J Lu, Z Mi, J Yifei, Y Xie, Y Fu, R Wang, J Zhang, ...",Tsinghua Science and Technology 21,,0,2016
+Characterizing and optimizing TPC-C workloads on large-scale systems using SSD arrays,"Z Jidong, F ZHANG, LI Qingwen, C Wenguang, W ZHENG","中国科学: 信息科学 (英文版), 29-42",,0,2016
+Software-Based Lightweight Multithreading to Overlap Memory-Access Latencies of Commodity Processors,"C Jiang, Y Zhang, W Zheng","2015 44th International Conference on Parallel Processing, 619-628",,0,2015
+Application virtualization system and method,"Y Wu, K Chen, W Zhu, W Zheng","US Patent App. 14/580,565",,0,2015
+Redbud 并行文件系统的可扩展存储管理机制,易乐天， 舒继武， 郑纬民,"计算机学报 38 (5), 961-972",,0,2015
+OpenMDSP: 扩展 OpenMP 为多核信号处理器编程,何江舟， 陈文光， 陈光日， 郑纬民， 汤志忠， 叶寒栋,"计算机科学技术学报 29 (2), 316-331",,0,2014
+IOmark: 一种精确的存储系统性能测试工具,宋丽丽， 张广艳， 蔡涛， 郑纬民,"高技术通讯, 41-47",,0,2014
+高性能计算向云平台迁移面临的机遇和挑战,郑纬民， 翟季冬， 余宏亮， 陈康， 陈文光,"高性能计算技术, 1-13",,0,2014
+C4S2-343: 一种基于用户层虚拟化的支持现有 Windows 应用的软件即服务模式运行系统及其性能优化,张悠慧， 郑纬民,"第二届中国云计算与 SaaS 大会, 39-39",,0,2013
+延时敏感的推测多线程调度策略,李艳华， 张悠慧， 王为， 郑纬民,"计算机工程与科学 35 (11), 14-21",,0,2013
+基于线性阵列处理器的 GRAPES 核心代码优化,王为， 张悠慧， 姚骏， 李艳华， 郑纬民,"计算机学报 36 (10), 2053-2061",,0,2013
+基于虚拟机的多个安全级别的日志生成方法,赵斯琴， 付勇， 陈康， 郑纬民,"清华大学学报: 自然科学版, 227-233",,0,2013
+Improving cis-regulatory elements modeling by consensus scaffolded mixture models,"HS Jiang, Y Zhao, WG Chen, WM Zheng, XG Zhang","Science China Information Sciences 56 (1), 1-11",,0,2013
+Quatrain: Accelerating Data Aggregation between Multiple Layers,"J Ren, Y Wu, M Zhu, W Zheng","IEEE Transactions on Computers 63 (5), 1207-1219",,0,2012
+基于 FPGA 的处理器多周期时分复用功能级模拟,张悠慧， 郑纬民,"2010 年中国计算机大会, 13-23",,0,2012
+SHIFT: 支持删冗的云存储系统元数据管理,孙竞， 郑纬民,"2010 年中国计算机大会, 316-326",,0,2012
+Twins: Scalable 2-hop structured overlay network,"J Hu, H Zhang, W Zheng","Computing and Informatics 24 (3), 249-261",,0,2012
+MVNC: A multiview network computer architecture,"H Yu, W Zheng, M Shen","Computing and Informatics 24 (2), 167-181",,0,2012
+一种基于代数映射的相变内存矩阵磨损均衡方法,杜雨阳， 余宏亮， 郑纬民,"计算机研究与发展 49 (12), 2713-2720",,0,2012
+Analysis on entity interaction vulnerability in large-scale distributed system,"G Zhao, J Zhao, X Kuang, W Zheng",Jisuanji Gongcheng yu Yingyong(Computer Engineering and Applications) 47 (18 …,,0,2011
+PMU Guided Structure Data-Layout Optimization,闫家年， 陈文光， 郑纬民,"Tsinghua Science and Technology, 6",,0,2011
+LDS 脆弱性分析实验环境体系结构研究与实现,赵刚， 况晓辉， 郑纬民,"清华大学学报: 自然科学版 51 (12), 1824-1830",,0,2011
+Employing Object-Based Storage Devices to Embed File Access Control in Storage,"Y Zhang, H Wang, D Wang, W Zheng","Intelligent Automation & Soft Computing 17 (1), 1-11",,0,2011
+Emulation environment architecture for large-scale distributed system vulnerability analysis,"G Zhao, X Kuang, W Zheng","Journal of Tsinghua University (Science and Technology), 13",,0,2011
+Radon activity in the lower troposphere and its impact on ionization rate: a global estimate using different radon flux data,"K Zhang, J Feichter, J Kazil, H Wan, W Zhuo, AD Griffiths, H Sartorius, ...",,,0,2010
+Predicting the behavior of large scale P2P systems by parallel discrete event simulation,"WM Zheng, HL Yu, GY Shi, J Chen","Science China Information Sciences 53 (6), 1109-1121",,0,2010
+Self-managed overlay network for distributed application management,"C Gao, H Yu, W Zheng","Journal of Tsinghua University Science and Technology 50 (4), 543-546",,0,2010
+Research of heuristic fuzzing data generation method in program frangibility,"G Zhao, JJ Zhao, H Chen, WM Zheng",Computer Engineering and Design 31 (13),,0,2010
+可自管理的分布式应用管理覆盖网络,高崇南， 余宏亮， 郑纬民,"清华大学学报: 自然科学版, 543-546",,0,2010
+时移地震数据处理中基于 mobile agent 的并行相位校正,刘其成， 郑纬民， 薛巍， 孙立民,"計算機應用研究 27 (1), 154-156",,0,2010
+程序脆弱性发现中的测试数据生成方法研究,赵刚， 赵金晶， 陈华， 郑纬民,"计算机工程与设计, 3010-3013",,0,2010
+Streaming Legacy Desktop Software from the Cloud,"Y Zhang, G Su, W Zheng",,,0,2010
+Aerosol Indirect Effect on Tropical Precipitation in the ECHAM5 General Circulation Model,"M Previdi, K Zhang, J Feichter",AGU Fall Meeting Abstracts,,0,2009
+Codec-on-Demand Based on User-Level Virtualization,"Y Zhang, W Zheng","IEICE transactions on information and systems 92 (12), 2422-2429",,0,2009
+ALR-MIN: A Replacement Strategy to Reduce Overhead during Dynamic Deployment of Applications in Grid,"C Gang, Y Wu, J Liu, R Fang, G Yang, W Zheng",2009 International Conference on Scalable Computing and Communications …,,0,2009
+Information seeking on the web: An integrated approach based on human collaboration and web 2.0,"J Jiang, Y Wu, G Yang, W Zheng","2009 1st IEEE Symposium on Web Society, 108-112",,0,2009
+Updates in the aerosol-climate model ECHAM5-HAM and their effects,"K Zhang, J Feichter","Geochimica et Cosmochimica Acta Supplement 73, A1506",,0,2009
+Evaluation of the tropospheric aerosol number concentrations simulated by two versions of the global model ECHAM5-HAM,"K Zhang, J Kazil, J Feichter","EGU General Assembly Conference Abstracts 11, 6075",,0,2009
+2008 年中国计算机大会推荐优秀论文介绍,郑纬民,"软件学报, 2857-2858",,0,2009
+2009 年中国计算机大会优秀论文专辑前言,郑纬民,"计算机学报, F0002-F0002",,0,2009
+Private data isolation for OpenSSH based on virtual machines,"K CHEN, H YU, W ZHENG","Journal on Communications, 5",,0,2009
+Optimized mapping of pixels into memory for H. 264/AVC decoding,"Y Zhang, Y Xie, W Zheng","IEICE Electronics Express 6 (6), 283-289",,0,2009
+Time-Lapse Seismic Parallel Forward Modeling with Xen Virtualization,"Q Liu, W Zheng, Y Song",2008 IEEE Pacific-Asia Workshop on Computational Intelligence and Industrial …,,0,2008
+A Grid Workflow Framework with High Scalability and Usability,"S Shang, J Jiang, Z Huang, X Huang, G Yang, W Zheng, L Yu","2008 Seventh International Conference on Grid and Cooperative Computing, 503-509",,0,2008
+2007 年中国计算机大会推荐优秀论文介绍,郑纬民,"Journal of Software 10, 2694-2695",,0,2008
+"A Practical Programming Model for the Multi-Core Era: International Workshop on OpenMP, IWOMP 2007 Beijing, China, June 3-7, 2007, Proceedings","B Chapman, W Zheng, GR Gao, M Sato, E Ayguadé, D Wang",Springer,,0,2008
+教育部——Intel 精品课程 “高等计算机系统结构” 内容介绍,郑纬民,"计算机教育, 74-75",,0,2008
+一种高效的网格监控数据收集方法,胡美枝， 郑纬民， 武永卫， 杨广文,"高技术通讯 18 (4), 355-359",,0,2008
+一种可扩展的气象水文网格模型,蔡军， 钱越英， 胡美枝， 郑纬民,"计算机工程与应用 44 (15), 214-217",,0,2008
+高性能计算与通讯--计算机体系结构大挑战,刘霆， 郑纬民,"中国计算机学会 94 年全国计算机体系结构学术研讨会, 11 页-11 页",,0,2007
+一种可扩展高性能工作站机群的互连网络,董春雷， 郑纬民,"中国计算机学会 94 年全国计算机体系结构学术研讨会, 8 页-8 页",,0,2007
+一种提高系统性能的网络内存技术,张悠慧， 郑纬民,"2002 年全国计算机体系结构学术会议, 56-60",,0,2007
+一个基于 VSM 的中文网页分类器的设计与实现,张东礼， 郑纬民,"2002 年全国计算机体系结构学术会议, 250-253",,0,2007
+"NAS 存储服务器的设计, 实现与发展",付长冬， 郑纬民,"2002 年全国计算机体系结构学术会议, 79-84",,0,2007
+综合 NAS 和 SAN 的网络存储解决方案,刘福明， 郑纬民,"2002 年全国计算机体系结构学术会议, 396-398",,0,2007
+一种基于 Java-XML 技术的分布式计算框架,张武生， 郑纬民,"2002 年全国计算机体系结构学术会议, 254-258",,0,2007
+Software support for LIRAC architecture,"P Li, D Wang, H Wang, M Lu, C Li, W Zheng","Tsinghua Science and Technology 12 (6), 700-706",,0,2007
+Performance evaluation of view-oriented parallel programming on cluster of computers,"H Shang, J Zhang, W Chen, W Zheng, Z Huang",International Conference on High Performance Computing and Communications …,,0,2007
+Accelerate data sharing in a wide-area networked file storage system,"K Zhang, H Yu, J Zhao, W Zheng","European Conference on Parallel Processing, 551-562",,0,2007
+一种支持 SAN 远程镜像的分布式存储集群的设计,"J Yao, JW Shu, WM Zheng","计算机科学技术学报 22 (4), 521-526",,0,2007
+LIRAC: using live range information to optimize memory access,"P Li, D Wang, H Wang, M Lu, W Zheng","International Conference on Architecture of Computing Systems, 28-42",,0,2007
+基于资源监控的网格调度系统,陈刚， 武永卫， 柳佳， 杨广文， 郑纬民,"华中科技大学学报: 自然科学版, 76-78",,0,2007
+SmartTree: 异构网络环境下的应用层组播协议,曾明， 余宏亮， 郑纬民,"清华大学学报: 自然科学版 47 (4), 599-602",,0,2007
+大规模流媒体服务间隔缓存策略的性能预测模型,余宏亮， 陈婧， 郑纬民,"清华大学学报: 自然科学版 47 (4), 588-591",,0,2007
+基于网格的内容传输技术研究,方程， 刘学铮， 郑纬民,"计算机应用与软件 24 (10), 10-12",,0,2007
+广域网分布式哈希表存储副本可靠性的维护,赵竞， 余宏亮， 张堃， 郑纬民,全国网络与信息安全技术研讨会论文集 (下册),,0,2007
+TNet: 基于树型结构的集群工具软件通信协议,陈晨， 陈文光， 郑纬民,"中国科技论文在线, 444-449",,0,2007
+带外架构下的存储性能虚拟化,黄荣荣， 薛巍， 舒继武， 郑纬民,"小型微型计算机系统 28 (6), 1139-1143",,0,2007
+SOPA: Selecting the Optimal Policy Adaptively for a cache system,"Y Wang, J Shu, G Zhang, W Xue, W Zheng",,,0,2007
+"Distributed, Mobile and Pervasive Systems-Performance Evaluation of View-Oriented Parallel Programming on Cluster of Computers","H Shang, J Zhang, W Chen, W Zheng, Z Huang","Lecture Notes in Computer Science 4782, 120-131",,0,2007
+Dynamic cache performance analytical model for large video services,"H YU, J CHEN, W ZHENG",Journal of Tsinghua University (Science and Technology) 4,,0,2007
+SmartTree: Application layer multicast protocol for heterogenious network enviroments [J],"M ZENG, H YU, W ZHENG",Journal of Tsinghua University (Science and Technology) 4,,0,2007
+Live range aware cache architecture,"P Li, D Wang, S Guo, T Tian, W Zheng","Asia-Pacific Conference on Advances in Computer Systems Architecture, 409-415",,0,2006
+A database redo log system based on virtual memory disk,"H Wu, H Yu, B Li, X Wei, W Zheng","International Conference on Computational Science, 656-662",,0,2006
+Buffer management policy in IA-64 large-scale video streaming servers.,"H Yu, J Chen, Y Li, W Zheng","Jisuanji Yanjiu yu Fazhan(Computer Research and Development) 43 (4), 729-737",,0,2006
+Mode for developing OpenMP programs based on dynamic parallel region.,"J Li, J Shu, Y Chen, D Wang, W Zheng","Jisuanji Yanjiu yu Fazhan(Computer Research and Development) 43 (3), 496-502",,0,2006
+DPGS: a distributed programmable grid system,"Y Wu, Q Wang, G Yang, W Zheng","Asia-Pacific Web Conference, 496-505",,0,2006
+International Workshop on Metropolis/Enterprise Grid and Applications (MEGA 2006)-DPGS: A Distributed Programmable Grid System,"Y Wu, Q Wang, G Yang, W Zheng","Lecture Notes in Computer Science 3842, 496-505",,0,2006
+基于报备池和模版的网格记账溯源服务,胡美枝， 郑纬民， 杨广文,"华中科技大学学报: 自然科学版, 29-32",,0,2006
+用于并行调试环境的改进的物理时钟算法,林贻珀， 钱希， 陈文光， 沈美明， 郑纬民,"清华大学学报 (自然科学版), 26",,0,2006
+郑纬民: 应用是关键 存储不可缺,郑纬民,"中国教育网络, 14",,0,2006
+基于内存功能划分的并行程序检查点策略研究,薛瑞尼， 陈文光， 郑纬民,华中科技大学学报 (自然科学版) 1,,0,2005
+A cluster LVM for SAN environments,"B Li, J Shu, F Mu, W Zheng",International Symposium on Parallel and Distributed Processing and …,,0,2005
+Scheduling efficiently for irregular load distributions in a large-scale cluster,"BY Zhang, ZY Mo, GW Yang, WM Zheng",International Symposium on Parallel and Distributed Processing and …,,0,2005
+Grid developing environment in CGSP system,"W Zheng, L Mu, Q Wang, Y Wu","International Workshop on Advanced Parallel Processing Technologies, 313-322",,0,2005
+CAPU: Enhancing P2P file sharing system with capacity aware topology,"H Yu, W Zheng, D Wang, H Dong, L Li","International Workshop on Advanced Parallel Processing Technologies, 214-225",,0,2005
+Hierarchical parallel simulated annealing and its applications,"S Xu, W Chen, W Zheng, T Wang, Y Zhang",International Conference on Algorithms and Architectures for Parallel …,,0,2005
+VICS: a Storage Virtualization Management System for SAN,"L Bigang, J SHU, W ZHENG","SNAPI’05, 9",,0,2005
+ImDeploy: a tool for global-scale service deployment on peer-to-peer networks,"C Gao, J Sun, J Hu, N Ning, W Zheng",25th IEEE International Conference on Distributed Computing Systems …,,0,2005
+Distributed lock scheme in SAN.,"N Yao, J Shu, W Zheng","Jisuanji Yanjiu yu Fazhan(Comput. Res. Dev.) 42 (2), 338-343",,0,2005
+"Workshop on"" Grid Computing Security and Resource Management""-Genius: Peer-to-Peer Location-Aware Gossip Using Network Coordinates","N Ning, D Wang, Y Ma, J Hu, J Sun, C Gao, W Zheng","Lecture Notes in Computer Science 3516, 163-170",,0,2005
+Workshop 2: International Workshop on Advanced Storage Technology and Autonomic Distributed Data (ASTD 2005)-A Cluster LVM for SAN Environments,"B Li, J Shu, F Mu, W Zheng","Lecture Notes in Computer Science 3759, 149-158",,0,2005
+基于异步时钟机群监测系统的设计与实现,刘广涛， 舒继武， 郑纬民,"小型微型计算机系统 26 (9), 1617-1620",,0,2005
+Web 页面跟踪系统的设计与实现,刘凡， 陈康， 郑纬民,"小型微型计算机系统 26 (9), 1652-1656",,0,2005
+基于 ORC 的 OpenMP 编译器设计与实现,陈永健， 李建江， 王生原， 郑纬民,"清华大学学报: 自然科学版 45 (1), 69-72",,0,2005
+"Workshop on"" Autonomic Distributed Data and Storage Systems Management--ADSM2005""-Improving the Data Placement Algorithm of Randomization in SAN","N Yao, J Shu, W Zheng","Lecture Notes in Computer Science 3516, 415-422",,0,2005
+4 Optimization Methods-Deterministic Global Optimization with a Neighbourhood Determination Algorithm Based on Neural Networks,"W Sun, J Shu, W Zheng","Lecture Notes in Computer Science 3496, 700-705",,0,2005
+Iteration-merged solver for linear banded matrices based on domain decomposition and MPI,"Z Liu, J Shu, W Zheng","Qinghua Daxue Xuebao/Journal of Tsinghua University(China) 45 (10), 1409-1412",,0,2005
+Stability of general linear methods for systems of functional-differential and functional equations,"S Gan, W Zheng","Journal of Computational Mathematics, 37-48",,0,2005
+General Tracks-Parallel Seismic Propagation Simulation in Anisotropic Media by Irregular Grids Finite Difference Method on PC Cluster,"W Sun, J Shu, W Zheng","Lecture Notes in Computer Science 3483, 762-771",,0,2005
+Algorithm of B (+) tree management in P 2 P environment.,"D Ju, M Li, J Hu, D Wang, W Zheng, Y Ma","Jisuanji Yanjiu yu Fazhan(Computer Research and Development) 42 (8), 1438-1444",,0,2005
+"Workshop on"" Autonomic Distributed Data and Storage Systems Management--ADSM2005""-TH-VSS: An Asymmetric Storage Virtualization System for the SAN Environment","D Xiao, J Shu, W Xue, W Zheng","Lecture Notes in Computer Science 3516, 399-406",,0,2005
+Design and Implementation of a Cluster Monitor System Based on Asynchronous Clock,"G Liu, J SHU, W ZHENG","MINIMICRO SYSTEMS-SHENYANG- 26 (9), 1617",,0,2005
+Event Chain Clocks for performance debugging in parallel and distributed systems,"H Yu, J Liu, W Zheng, M Shen",International Symposium on Parallel and Distributed Processing and …,,0,2004
+An accounting and QoS model for grid computing,"Y Guangwen, Y Wu, D Huang, W Zheng","International Conference on Grid and Cooperative Computing, 36-43",,0,2004
+Gemini: Probabilistic routing algorithm in structured P2P overlay,"M Li, J Hu, H Dong, D Wang, W Zheng","International Conference on Grid and Cooperative Computing, 519-526",,0,2004
+An object-oriented data storage system on network-attached object devices,"Y Zhang, W Zheng","Asia-Pacific Conference on Advances in Computer Systems Architecture, 527-538",,0,2004
+on the Parallel C omDutat lOn of--●^,"Y WU, G YANG, D LIN, Q HUANG, W ZHENG",Chinese Journal of Electronics 13 (3),,0,2004
+discas: a distributed-parallel computer algebra system,"Y Wu, G Yang, W Zheng, D Lin","International Conference on Computational Science, 295-302",,0,2004
+基于自主运算的自管理的 IP-SAN 存储系统的体系结构与性能策略,付长冬， 舒继武， 郑纬民， 沈美明,"高技术通讯 14 (3), 1-5",,0,2004
+基于 RAM/Disk 混合设备模型的 FC-SAN 存储系统,付长冬， 舒继武， 沈美明， 郑纬民,"计算机研究与发展 41 (3), 504-510",,0,2004
+文件分配问题的一种动态解决算法,陈俊杰， 张武生， 沈美明， 郑纬民,"小型微型计算机系统 25 (7), 1329-1332",,0,2004
+DENNET 中降低调试器干扰的机制,王皓， 刘建， 沈美明， 郑纬民， 余宏亮,"小型微型计算机系统 25 (2), 257-261",,0,2004
+A Study on Web Searching: Overlap and Distance of the,"S Zhu, X Deng, W Zheng","Intelligent Agents for Data Mining and Information Retrieval, 207",,0,2004
+Mechanism of Reducing Disturbance in DENNET [J],"H WANG, J LIU, M SHEN, W ZHENG, H YU",Mini-micro Systems 2,,0,2004
+Workshop 2-International Workshop on Storage Grid and Technologies (SGT'2004)-Storage Virtualization System with Load Balancing for SAN,"W Sun, J Shu, W Zheng","Lecture Notes in Computer Science 3252, 254-261",,0,2004
+Effect of Data Transfer Modes on User-level Communication Performance,"J ZHANG, D CHANG, W ZHENG, M SHEN","Mini-micro Systems, 6",,0,2004
+Session 9C-Distributed Processing and Architecture-Event Chain Clocks for Performance Debugging in Parallel and Distributed Systems,"H Yu, J Liu, W Zheng, M Shen","Lecture Notes in Computer Science 3358, 1050-1054",,0,2004
+Improving the objects set availability in the P2P environment by multiple groups,"K Chen, S Shi, G Yang, M Shen, W Zheng","International Conference on Grid and Cooperative Computing, 396-403",,0,2003
+Adaptive file-grain distribution in a cluster file system.,"Q Huang, W Zheng, G Yang, Y Wu, M Shen",Fifteenth IASTED International Conference on Parallel and Distributed …,,0,2003
+An effective molecular algorithm for solving the satisfiability problem,"W Yu, W Zheng","International Workshop on Advanced Parallel Processing Technologies, 274-280",,0,2003
+基于数据属性与服务的叠前深度偏移并行算法,李建江， 舒继武， 王有新， 王鼎兴， 郑纬民,"清华大学学报: 自然科学版 43 (7), 985-988",,0,2003
+一种多机协同工作支撑环境的设计与实现,彭靖龙， 郑纬民， 毛希平,"计算机工程与应用 39 (21), 126-128",,0,2003
+TH-MNSS: 一个新的海量网络存储系统体系结构,付长冬， 舒继武， 郑纬民,"大连理工大学学报, 155-157",,0,2003
+一种可扩展机群文件系统的设计与实现,黄启峰， 郑纬民， 沈美明,"小型微型计算机系统 24 (11), 1889-1892",,0,2003
+Research and Design of Multi-networking Communication Mechanism for Cluster Computing,"J ZHANG, W ZHENG, D CHANG, M SHEN","Mini-micro Systems, 3",,0,2003
+Interactive and symbolic data dependence analysis based on ranges of expressions,"B Yang, F Zheng, D Wang, W Zheng","Journal of Computer Science and Technology 17 (2), 160",,0,2002
+利用机群邮件服务器构建的 Web 邮件系统,陈薇， 汪东升,"计算机工程与应用 38 (6), 152-156",,0,2002
+大规模薄膜生长的格子 MC 模拟并行计算,舒继武， 郑纬民,"中国科学: E 辑 32 (3), 419-424",,0,2002
+基于 Petri 网模型的磁盘日志记录算法与性能分析 A,周枫， 林闯， 郑纬民,Journal of Software 13 (4),,0,2002
+"基于机群系统的通信协议性能比较, 分析与研究",魏英霞， 舒继武， 王鼎兴， 郑纬民,"计算机科学 29 (2), 9-13",,0,2002
+EFFICIENT PARALLEL ALGORITHM FOR LARGE-SCALE MOLECULAR DYNAMICS SIMULATION IN MICROSCALE THERMOPHYSICS,"B WANG, J SHU, W ZHENG, J WANG","Recent Advances In Computational Science And Engineering, 637-641",,0,2002
+TODS: A Distributed Persistent Object Store.,"C Jin, W Zheng, F Zhou, Y Wu","IASTED PDCS, 668-673",,0,2002
+Web 信息的分布式在线评测技术,毛昀， 汪东升， 郑纬民， 邓小铁,"电子学报 29 (S1), 1836-1839",,0,2001
+Parallel models and job characterization for system scheduling,"X Deng, H Ip, K Law, J Li, W Zheng, S Zhu","International Conference on Computational Science, 648-656",,0,2001
+基于机群系统的薄膜淀积并行计算,舒继武， 郑纬民， 沈美明， 黄汉臣,"计算物理 18 (3), 230-234",,0,2001
+基于快速消息传递的高性能 PVM (英文),夏华夏， 郑纬民,"软件学报, 3",,0,2001
+利用模拟退火技术求解多 Hoist 调度问题 (英文),杨广文， 鞠大鹏， 郑纬民， 林国健,"软件学报, 1",,0,2001
+Cluster-based Online Monitoring System of Web Traffic,"YMKCD Wang, W Zheng",,,0,2001
+分布式合作缓存中的全局向量时钟模型,郑晓薇， 沈美明,"小型微型计算机系统 21 (2), 179-181",,0,2000
+一种面向结点的加速比模型,刘炜， 郑晓薇,"计算机工程与设计 21 (5), 16-21",,0,2000
+基于 RangeTest 的交互式数据相关性分析技术,郑丰宙， 陈文光,"清华大学学报: 自然科学版 40 (1), 68-71",,0,2000
+网络性能攀升 “群集” 显山露水,郑纬民， 汪东升,"微电脑世界, 44-46",,0,2000
+A REDUCED COMMUNICATION PROTOCOL FOR NETWORKS OF WORKSTATIONS,"W ZHENG, X OU, JUN SHEN","Algorithms And Architectures For Parallel Processing: ICA3PP 2000, 34-39",,0,2000
+Prefetching and Caching Metadata in a Distributed NFS Server,"W Liu, X Ou, W Zheng, M Wu, M Shen","Algorithms And Architectures For Parallel Processing: ICA3PP 2000, 490-495",,0,2000
+Interactive data dependence analysis based on range tests,"F Zheng, W Chen, W ZHENG","JOURNAL OF TSINGHUA UNIVERSITY (SCIENCE AND TECHNOLOGY), 19",,0,2000
+Interactive Fortran 77 parallel system,"W Chen, B Yang, Z Wang, F Zheng, W Zheng","RUAN JIAN XUE BAO 10 (12), 1259-1267",,0,1999
+Fast message passing communication for workstation clusters,"J Shen, WM Zheng","CHIN J ADV SOFTWARE RES 6 (3), 236-246",,0,1999
+按自然法则计算的一个新分支: 确定性退火技术,杨广文， 李晓明,"计算机科学 26 (1), 1-4",,0,1999
+静态性能分析的训练集自动生成工具,杨博， 王文军,"小型微型计算机系统 20 (11), 809-812",,0,1999
+WEB 或 Intranet 环境下激发应用的机制与安全,吕纪竹， 王鼎兴,"计算机工程与应用 35 (9), 108-110",,0,1999
+分布式容错计算机系统的一个冗余结点配置,汪东升， 杨孝宗,"小型微型计算机系统 19 (1), 14-19",,0,1998
+工作站机群及应用,董春雷， 郑纬民,"电子与信息化, 12-14",,0,1998
+对 Pertel 关于可适应寻径的批评的讨论,董迎飞， 王鼎兴,"计算机学报 20 (5), 412-420",,0,1997
+国际化版 Mosaic2. 5 的设计与实现,陈文光， 许开新,"小型微型计算机系统 18 (6), 14-20",,0,1997
+并行程序环境及其系统移植实现,温钰洪， 沈美明， 郑纬民， 王鼎兴,"小型微型计算机系统, 13-19",,0,1996
+Approach to support the P & M multithreaded program execution model on workstation cluster,"C Li, D Wang, S Peng, M Shen, W Zheng",The 1996 IEEE 2 nd International Conference on Algorithms & Architectures …,,0,1996
+FLOPS 指标的适用性分析,刘德才， 王鼎兴,"计算机工程与应用 31 (1), 17-22",,0,1995
+SPEEDUP 指标的适用性分析,刘德才， 王鼎兴,"计算机研究与发展 32 (5), 52-56",,0,1995
+稀疏三角矩阵线性系统的基于树结构并行求解,李程， 田新民,"软件学报 6 (8), 479-485",,0,1995
+Multiprocessor Scheduling in PGR Machine.,"D Liu, W Zheng, M Shen","Chinese Science Abstracts Series A 3 (14), 51",,0,1995
+Compiling CIL rewriting language for multiprocessors,"X Tian, D Wang, W Zheng, M Shen, C Li","Journal of Computer Science and Technology 9 (4), 302-310",,0,1994
+SCALTASK: 一种可伸缩的并行任务控制机制,熊建新， 王鼎兴,"小型微型计算机系统 15 (6), 1-7",,0,1994
+行列式求值在多处理机系统性能评价中的应用,刘德才， 王鼎兴,"计算机学报 17 (3), 227-231",,0,1994
+一种基于 PGRM 结构的负载分布策略,符晓东， 田新民,"小型微型计算机系统 15 (12), 1-6",,0,1994
+PGR 机中多处理机调度的研究,刘德才， 郑纬民,"计算机学报 17 (A00), 45-52",,0,1994
+of ML and PARLOG Programs on Multicomputers,"D LIU, D WANG, M SHEN, W ZHENG","Transputers' 94 40, 191",,0,1994
+Parallel execution of prolog on shared-memory multiprocessors,"Y Gao, D Wang, W Zheng, M Shen, Z Huang, S Hu, G Levi","Journal of Computer Science and Technology 8 (4), 329-336",,0,1993
+Multiprocessor execution of parallel rewriting programs with parallel abstract machine PAM/TGR,"X Tian, D Wang, W Zheng, M Shen",Proceedings of the third international conference on Young computer …,,0,1993
+Speedup analysis of domain decomposition parallelism,"D Liu, D Wang, M Shen, W Zheng",Proceedings of the third international conference on Young computer …,,0,1993
+Parallel Execution of Prolog on Shared-Memory Multiprocessors,高耀清， 王鼎兴， 郑纬民， 沈美明， 黄志毅， 胡守仁,"计算机科学技术学报 8 (4), 43-50",,0,1993
+面向对象的计算模型: 从顺序到并发,李经纬， 王鼎兴,"计算机工程与应用, 69-73",,0,1993
+Optimized Parallel Execution of Declarative Programs on Distributed Memory Multiprocessors,沈美明， 田新民,"计算机科学技术学报: 英文版 8 (3), 233-242",,0,1993
+Transputer 阵列上的并行抽象机 PAM/TGR 性能评价,田新民， 王鼎兴， 沈美明， 郑纬民,"电子学报 21 (11), 7-14",,0,1993
+并行粗粒度任务的动态分布算法 (PTDD) 及其鲁棒性,沈美明， 田新民， 王鼎兴， 郑纬民,"计算机学报, 1",,0,1993
+优化并行图重写计算粒度的编译时部分调度策略,田新民， 王鼎兴， 沈美明， 郑纬民， 温冬婵,"计算机学报 15 (11), 838-847",,0,1992
+PARLOG 顺序编译实现技术,郑纬民， 杨和平,"软件学报 2 (4), 19-22",,0,1991
+On the execution mechanisms of parallel graph reduction,"D Wang, W Zheng, X Du, Y Guo","Journal of Computer Science and Technology 5 (4), 333-346",,0,1990
+并行图归约机中智能存储系统的设计与研究,张蓓楠， 沈美明， 郑纬民,"计算机研究与发展 27 (3), 42-46",,0,1990
+Design and analysis of communication and service support layers of thuds distributed computer system,"L Jin, X Liao, M Sheng, W Zheng, C Zhang, P Hu, S Liu","IFAC Proceedings Volumes 20 (14), 79-84",,0,1987
+实现不同系列机程序兼容的仿真系统的设计,王鼎兴， 沈美明， 郑纬民， 李家瑛,"计算机研究与发展, 1",,0,1985
+一种分割总线分布式多处理机结构的分析和性能研究,金兰， 郑纬民， 王鼎兴， 沈美明,"计算机学报, 1",,0,1984
+一种分布式多处理机系统的随机模拟,金兰， 郑纬民,"计算机学报, 2",,0,1984
+Implementation and Performance Evaluation of a Distributed Splitted-Bus Multiple Computer System,"L Jin, W Zheng, D Wang, M Sheng","IFAC Proceedings Volumes 15 (3), 75-80",,0,1982
+Analysis and modeling of a splitted-bus distributed multiprocessor system,"L Jin, W Zheng","IEEE, New York, NY",,0,1982
+面向阻变存储器的长短期记忆网络加速器的训练和软件仿真,刘鹤， 季宇， 韩建辉， 张悠慧， 郑纬民,"计算机研究与发展 56 (6), 1182-1191",,0,0
+类 Paxos 共识算法研究进展,王江， 章明星， 武永卫， 陈康， 郑纬民,"计算机研究与发展 56 (4), 692-707",,0,0
+网格计算专刊前言,金海， 郑纬民,,,0,0
+基于 Myrinet/GM 的多通道通信,张继超， 舒继武， 郑纬民， 常迪,,,0,0
+基于 P2P 的 Web 搜索技术,方启明， 杨广文， 武永卫， 郑纬民,,,0,0
+一种分布式吴方法计算模型,武永卫， 杨广文， 杨宏， 郑纬民， 林东岱,,,0,0
+基于事件模型的可视化并行调试技术,熊建新， 王鼎兴， 郑纬民， 沈美明,,,0,0
+一种具有快速条件断点的并行程序调试器,刘建， 王皓， 沈美明， 郑纬民,,,0,0
+带宽自适应的 P2P 网络路由协议,胡进锋， 黎明， 郑纬民， 汪东升,,,0,0
+一种 DNA 测序纠错算法,郑纬民， 张华， 王小川,,,0,0
+云计算: 系统实例与研究现状,陈康， 郑纬民,,,0,0
+基于类型的运行时环境存储管理算法,张武生， 杨广文， 郑纬民,,,0,0
+基于自主运算的自适应存储区域网络系统,付长冬， 舒继武， 郑纬民， 沈美明,,,0,0
+基于网络附属对象设备的集群存储体系结构,张悠慧， 郑纬民,,,0,0
+基于 P2P 的 Web 搜索技术综述,方启明， 杨广文， 武永卫， 郑纬民,,,0,0
+基于区域图数据流分析的通信优化算法,钟洪涛， 舒继武， 温冬婵， 郑纬民,,,0,0
+一种基于分布式哈希表的混合对等发现算法,杨峰， 李凤霞， 余宏亮， 战守义， 郑纬民,,,0,0
+"Weichao Guo, Department of Computer Science and Technology, Tsinghua National Laboratory for Information Science and Technology (TNLIST) Tsinghua University Kang Chen …",W Zheng,,,0,0
+Russian Track,"W Zheng, J Shu, X Deng, Y Gu, Y Fang, KK Lai, SY Wang, J Tian, ...",,,0,0
+文章题目 2009 年中国计算机大会优秀论文专辑前言,郑纬民,,,0,0
+A Rising Tide Lifts All Boats: How Memory Error Prediction and Prevention Can Help with Virtualized System Longevity,"YDHYY Jiang, Y Dong, W Zheng",,,0,0
+ATNCTA 2008 Program Committee,"H Tang, J Jiang, H Tianfield, X Shen, W Zheng, X Tian, J Ni, G Min, ...",,,0,0
+"Part I Bioinformatics Databases, Data Mining, and Pattern Discovery","P Luukka, Z Liu, D Chen, G Tian, ML Tang, M Tan, L Sheng, S Tree, ...",,,0,0
+Efficient Frequent Itemset Mining on Multi-Core CPU,"L Liu, J Jiang, E Li, G Yang, L Qiao, W Zheng, Z Tang",,,0,0
+Extending Open64 with Transactional Memory Features,"J Zhang, W Chen, W Zheng",,,0,0
+TODS: Object Storage Platform Designed for Scalable Services1,"F Zhou, C Jin, W Zheng",,,0,0
+Modeling Position Dependencies in Cis-regulatory Elements by Consensus Constraints,"H Jiang, W Chen, X Zhang, Z Fan, W Zheng",,,0,0
+Tourist: Self-Adaptive Structured Overlay,"J Hu, H Yu, M Li, W Zheng",Submission. http://hpc. cs. tsinghua. edu. cn/granary,,0,0
+Optimization of PVM Based on a User-level Communication Protocol,"J Zhang, D Chang, W Zheng, H Xia",,,0,0
+Program Co-chairs,"S Wu, Y Wu, K Li, Y Shen, K Lin, H Jin, W Zheng, X Li, X Chen, W Wang, ...",,,0,0
+Experience with the design of a communication protocol for PC clusters,"J Zhang, W Zheng, D Chang, H Xia",,,0,0
+An Out-of-band Approach to SAN-level Cache Management,"D Xiao, J Shu, W Xue, W Zheng",,,0,0
+DPDR 2009 Workshop Organizing Committee,"S Wu, J Shu, W Zheng, L Xu, H Jing, L Fang, Y Wang, D Feng, Z Li, H Yu, ...",,,0,0
+LND: A Reliable Multi-Tier Storage Device in NOW1,"YMYZD Wang, W Zheng",,,0,0
+ICEBE 2011 Organizing Committee,"D Li, J Li, JY Chung, Y Li, P Yu, B Xu, Y Zhu, K Chen, M Younas, RYK Lau, ...",,,0,0
+THUMPSim: One Simulation Framework for Processor Architecture Evaluation,"Y Zhang, Y Gu, D Wang, W Zheng",,,0,0
+Checkpointing Active Files through Write Buffering,"D Wang, D Pei, W Zheng",,,0,0
+Performance Prediction of Large Scale Parallel Programs with SIM-MPI,"J Zhai, W Chen, W Zheng",,,0,0
+A class-based garbage collector for network server applications,"W Zhang, J Zhu, M Shen, W Zheng",2001 International Conferences on Info-Tech and Info-Net. Proceedings (Cat …,,0,0

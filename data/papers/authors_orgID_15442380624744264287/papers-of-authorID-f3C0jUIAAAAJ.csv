@@ -1,0 +1,129 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Process mining manifesto,"W Van Der Aalst, A Adriansyah, AKA De Medeiros, F Arcieri, T Baier, ...","International Conference on Business Process Management, 169-194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8361161290699373098,807,2011
+Mining process models with non-free-choice constructs,"L Wen, WMP van der Aalst, J Wang, J Sun","Data Mining and Knowledge Discovery 15 (2), 145-180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9199372584511601388,310,2007
+A novel approach for process mining based on event types,"L Wen, J Wang, WMP van der Aalst, B Huang, J Sun","Journal of Intelligent Information Systems 32 (2), 163-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3552968564089941033,189,2009
+Process mining: Overview and outlook of petri net discovery algorithms,"BF Van Dongen, AKA De Medeiros, L Wen","Transactions on Petri Nets and Other Models of Concurrency II, 225-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2422464603105321568,153,2009
+Detecting implicit dependencies between tasks from event logs,"L Wen, J Wang, J Sun","Asia-Pacific Web Conference, 591-603",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6426966096538920567,137,2006
+A workflow net similarity measure based on transition adjacency relations,"H Zha, J Wang, L Wen, C Wang, J Sun","Computers in Industry 61 (5), 463-471",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12206632185492548886,132,2010
+"工作流管理——模型, 方法和系统","W Van Der Aalst, K Van Hee","王建民, 闻立杰等译北京: 清华大学出版社","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17207646620290629578,796653586856059528,2259524882445211244,15702397208087078325,5958805745370574601",108,2004
+中小企业云制造服务平台共性关键技术体系,尹超， 黄必清， 刘飞， 闻立杰， 王朝坤， 黎晓东， 杨书评， 叶丹， 柳先辉,"计算机集成制造系统 17 (003), 495-503",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1994277624885156885,84,2011
+Mining process models with prime invisible tasks,"L Wen, J Wang, WMP van der Aalst, B Huang, J Sun","Data & Knowledge Engineering 69 (10), 999-1021",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15348018392699559633,83,2010
+A behavioral similarity measure between labeled Petri nets based on principal transition sequences,"J Wang, T He, L Wen, N Wu, AHM Ter Hofstede, J Su","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1413458750313459103,63,2010
+Efficient querying of large process model repositories,"T Jin, J Wang, M La Rosa, AHM ter Hofstede, L Wen","Computers in Industry 64 (1), 41–49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12577414348462425586,58,2013
+Querying Business Process Model Repositories: A survey of current approaches and issues,"J Wang, T Jin, RK Wong, L Wen","World Wide Web 17 (3), 427-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14451708988900092874,50,2014
+Querying business process models based on semantics,"T Jin, J Wang, L Wen","International Conference on Database Systems for Advanced Applications, 164-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3169008506577988808,48,2011
+Efficient Selection of Process Mining Algorithms,"J Wang, R Wong, J Ding, Q Guo, L Wen","IEEE Transactions on Services Computing 6 (4), 484-496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8111786485417211767,46,2013
+Mining invisible tasks from event logs,"L Wen, J Wang, J Sun","Advances in Data and Web Management (APWeb 2007), 358-365",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18126913044123248488,43,2007
+Formal semantics of BPMN process models using YAWL,"J Ye, S Sun, W Song, L Wen",2008 Second International Symposium on Intelligent Information Technology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2446355815408840992,41,2008
+Transformation of BPMN to YAWL,"J Ye, S Sun, L Wen, W Song",2008 International Conference on Computer Science and Software Engineering 2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17378884456741969671,36,2008
+Mining invisible tasks in non-free-choice constructs,"Q Guo, L Wen, J Wang, Z Yan, SY Philip","International Conference on Business Process Management, 109-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13095782092303447329,33,2016
+Verifying workflow processes: a transformation-based approach,"H Zha, WMP van der Aalst, J Wang, L Wen, J Sun","Software & Systems Modeling 10 (2), 253-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16300456670032979678,32,2011
+Efficient retrieval of similar workflow models based on behavior,"T Jin, J Wang, L Wen","Asia-Pacific Web Conference, 677-684",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11451090560831546616,29,2012
+DMC: a more precise cohesion measure for classes,"J Wang, Y Zhou, L Wen, Y Chen, H Lu, B Xu","Information and Software Technology 47 (3), 167-180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16426167722713314532,29,2005
+Efficient retrieval of similar business process models based on structure,"T Jin, J Wang, L Wen","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9038710562152041456,26,2011
+DRC: A dependence relationships based cohesion measure for classes,"Y Zhou, L Wen, J Wang, Y Chen, H Lu, B Xu","Tenth Asia-Pacific Software Engineering Conference, 2003., 215-223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2991565315835246306,26,2003
+Transforming XPDL to Petri nets,"H Zha, Y Yang, J Wang, L Wen","International Conference on Business Process Management, 197-207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17361739615961129566,23,2007
+Efficiently Querying Business Process Models with BeehiveZ.,"T Jin, J Wang, L Wen",BPM (Demos),"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18441425683333655281,1772459478925085279",18,2011
+Efficient syntactic process difference detection using flexible feature matching,"K Liu, Z Yan, Y Wang, L Wen, J Wang","Asia-Pacific Conference on Business Process Management, 103-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3405507152119882570,16,2014
+On recommendation of process mining algorithms,"J Wang, RK Wong, J Ding, Q Guo, L Wen","2012 IEEE 19th International Conference on Web Services, 311-318",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9513739339874076119,15,2012
+An empirical evaluation of process mining algorithms based on structural and behavioral similarities,"J Wang, S Tan, L Wen, RK Wong, Q Guo","Proceedings of the 27th Annual ACM Symposium on Applied Computing, 211-213",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=584365317662887319,15,2012
+用着色 Petri 网建模工作流模式,闻立杰， 王建民， 孙家广,"计算机科学 33 (6), 135-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=378582044884012502,15,2006
+Dynamically analyzing time constraints in workflow systems with fixed-date constraint,"R Han, Y Liu, L Wen, J Wang","2010 12th International Asia-Pacific Web Conference, 99-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17182854359013517905,14,2010
+"Process Model Fragmentization, Clustering and Merging: An Empirical Study","X Gao, Y Chen, Z Ding, M Wang, X Zhang, Z Yan, L Wen, Q Guo, R Chen","Business Process Management Workshops, 405-416",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=231039630442111278,13,2013
+A process mining approach to improve emergency rescue processes of fatal gas explosion accidents in Chinese coal mines,"Z He, Q Wu, L Wen, G Fu","Safety science 111, 154-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10248515053288389378,12,2019
+Querying process models based on the temporal relations between tasks,"L Song, J Wang, L Wen, W Wang, S Tan, H Kong",2011 IEEE 15th International Enterprise Distributed Object Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13184285603748695017,12,2011
+CFS: a behavioral similarity algorithm for process models based on complete firing sequences,"Z Dong, L Wen, H Huang, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2157981431848682060,11,2014
+Verification of workflow nets with transition conditions,"Z Wang, J Wang, X Zhu, L Wen","Journal of Zhejiang University SCIENCE C 13 (7), 483-509",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8677177518701998017,10,2012
+Probability timing constraint WF-nets and their application to timing schedulability analysis of workflow management systems,"R Han, Y Liu, L Wen, J Wang",2009 WRI World Congress on Computer Science and Information Engineering 7 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10349866230320030527,10,2009
+An efficient approach for supporting dynamic evolutionary change of adaptive workflow,"D Zhang, D Cao, L Wen, J Wang","Asia-Pacific Web Conference, 684-695",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12933712963468546751,10,2008
+Organizational modeling from event logs,"T Jin, J Wang, L Wen",Sixth International Conference on Grid and Cooperative Computing (GCC 2007 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13919142630256577823,10,2007
+基于工作流网的过程挖掘算法研究,闻立杰,清华大学,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16122423198230348860,10,2007
+Refactor Business Process Models with Maximized Parallelism,"T Jin, J Wang, Y Yang, L Wen, K Li",IEEE Transactions on Services Computing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11508864681751507274,9,2016
+A label-free similarity measure between workflow nets,"H Zha, J Wang, L Wen, C Wang","2009 IEEE Asia-Pacific Services Computing Conference (APSCC), 463-469",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8695672650186777332,9,2009
+A two-stage probabilistic approach to manage personal worklist in workflow management systems,"R Han, Y Liu, L Wen, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18203029174911045332,9,2009
+Crowd Intelligence in Requirements Engineering: Current Status and Future Directions,"JA Khan, L Liu, L Wen, R Ali",International Working Conference on Requirements Engineering: Foundation for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1967239965778552421,8,2019
+Efficient behavioral-difference detection between business process models,"Z Yan, Y Wang, L Wen, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11934486468596067689,8,2014
+Structural descriptions of process models based on goal-oriented unfolding,"C Qian, L Wen, J Wang, A Kumar, H Li","International Conference on Advanced Information Systems Engineering, 397-412",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6964528374692330596,7,2017
+基于任务最短跟随距离矩阵的流程模型行为相似性算法,汪抒浩， 闻立杰， 魏代森， 王建民， 闫志强,"计算机集成制造系统 19 (008), 1822-1831",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18217033600459318509,7,2013
+TAGER: Transition-labeled graph edit distance similarity measure on process models,"Z Wang, L Wen, J Wang, S Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7065518210383655959,6,2014
+CPL+: An improved approach for evaluating the local completeness of event logs,"H Yang, L Wen, J Wang, RK Wong","Information Processing Letters 14 (11), 607-610",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10915643353806103501,6,2014
+Process mining manifesto,"A Adriansyah, F Arcieri, T Baier, T Blickle, J Bose, R Tjen, J Buijs, ...","Springer Berlin Heidelberg 99, 169-194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13022918511530094756,6,2012
+基于变迁紧邻关系重要性的流程相似性算法,殷明， 闻立杰， 王建民， 肖汉， 丁子哲， 高翔,"计算机集成制造系统 21 (2), 344-358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16242228526245310831,5,2015
+An approach to evaluate the local completeness of an event log,"H Yang, L Wen, J Wang","2012 IEEE 12th International Conference on Data Mining, 1164-1169",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11932285250522724547,5,2012
+Discovering BPMN Models with Sub-processes and Multi-instance Markers,"Y Wang, L Wen, Z Yan, B Sun, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3647813151211693195,4,2015
+基于触发序列集合的过程模型行为相似性算法,董子禾， 闻立杰， 黄浩未， 王建民,Journal of Software 26 (3),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14191721559422398524,4,2015
+Computing Refined Ordering Relations with Uncertainty for Acyclic Process Models,"T Jin, J Wang, L Wen, G Zou","IEEE Transactions on Services Computing 7 (3), 415-426",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7301402789127458902,4,2014
+An approach to recommend resources for business processes,"H Yang, L Wen, Y Liu, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4225701399332400664,4,2012
+Detecting process concept drifts from event logs,"C Zheng, L Wen, J Wang","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10200101184285066691,3,2017
+Managing Massive Business Process Models and Instances with Process Space.,"S Wang, C Lv, L Wen, J Wang","BPM (Demos), 91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16845519799091545154,3,2014
+Process model storage solutions: proposition and evaluation,"J Li, L Wen, J Wang, Z Yan","Asia-Pacific Conference on Business Process Management, 56-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5391662802883871344,3,2013
+工作流管理系统监控粒度划分机制研究,董超， 王建民， 闻立杰,"计算机应用研究 23 (5), 70-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7314962891134561814,3,2006
+Decomposed and parallel process discovery: A framework and application,"Z Yan, B Sun, Y Chen, L Wen, L Hu, J Wang, M Yang, L Wang","Future Generation Computer Systems 98, 392-405",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13972973014183940912,2,2019
+MM-Pred: A Deep Predictive Model for Multi-attribute Event Sequence,"L Lin, L Wen, J Wang",SIAM Conference on Data Mining (SDM19),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11583942628787568068,2,2019
+Linguistic Analysis of Crowd Requirements: An Experimental Study,"JA Khan, L Liu, Y Jia, L Wen",2018 IEEE 7th International Workshop on Empirical Requirements Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=524808675262181336,2,2018
+Estimating global completeness of event Logs: a comparative study,"J Pei, L Wen, H Yang, J Wang, X Ye",IEEE Transactions on Services Computing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13500522744603510292,2,2018
+基于 MapReduce 的海量事件日志并行转化算法,窦蒙， 闻立杰， 王建民， 闫志强,"计算机集成制造系统 19 (008), 1784-1793",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15000531082827979817,2,2013
+An Approach to Identifying False Traces in Process Event Logs,"H Yang, L Wen, J Wang",17th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14192072900367512574,2,2013
+业务过程模型库索引技术,金涛， 闻立杰,"计算机集成制造系统 17 (8), 1580-1586",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17676517237301704683,2,2011
+FORMALLY MODELING AND ANALYZING DATA-CENTRIC WORKFLOW USING WFCP-NET AND ASK-CTL,"Z Wang, J Wang, L Wen, G Luo",13th International Conference on Enterprise Information Systems (ICEIS 2011 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16645990576654237392,2,2011
+工作流管理系统中一种概率性分析和调整时间约束的方法,韩锐， 刘英博， 闻立杰， 王建民,"计算机研究与发展 47 (1), 157-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4136758035235044030,2,2010
+BeehiveZ: 一个开放的业务过程模型管理框架,武年华， 金涛， 查海平， 何腾飞， 闻立杰， 王建民,NDBC2010 第 27 届中国数据库学术会议论文集 (B 辑),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3243908176438783896,2,2010
+过程感知的信息系统,"M Dumas, AHM ter Hofstede, 王建民, 闻立杰",清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3377274176113682081,2,2009
+Deriving canonical business object operation nets from process models,"Z Wang, J Wang, L Wen, Y Liu","Proc. 11th Int. Conf. on Enterprise Information Systems, 182-187",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5073919388374325155,2,2009
+BP+: An Improved Behavioral Profile Metric for Process Models,"L Wen, J Song, J Wang, A Kumar",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=365070665805017361,1,2019
+一种挖掘二度循环的扩展 Alpha 算法,林雷蕾， 周华， 代飞， 闻立杰， 莫启,"计算机集成制造系统 24 (第 3), 591-601",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8727167530725028472,1,2018
+From data-centric business processes to enterprise process frameworks,"J Su, L Wen, J Yang",2017 IEEE 21st International Enterprise Distributed Object Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13554189659543785885,1,2017
+Transition Adjacency Relation Computation Based on Unfolding: Potentials and Challenges,"J Pei, L Wen, X Ye, A Kumar, Z Lin","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7543156511593408672,1,2016
+ExRORU: a new approach to characterize the behavioral semantics of process models (short paper),"S Wang, L Wen, A Kumar, J Wang, J Su","OTM Confederated International Conferences"" On the Move to Meaningful …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2862285382885057727,1,2016
+Efficient syntactic process difference detection and its application to process similarity search,"K Liu, Z Yan, Y Wang, L Wen, J Wang","International Journal of Industrial Engineering 22 (4), 468-481",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2416917572985364375,1,2015
+A universal significant reference model set for process mining evaluation framework,"Q Guo, L Wen, J Wang, Z Ding, C Lv","Asia-Pacific Conference on Business Process Management, 16-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14227154878175457011,1,2014
+基于 Petri 网编辑距离相似性的过程模型存储机制,李婕， 闻立杰， 王建民,"计算机集成制造系统 19 (8), 1832-1841",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12615238147781226682,1,2013
+Efficient Semantics-based Compliance Checking Using LTL Formulae and Unfolding,"L Song, J Wang, L Wen, H Kong",Journal of Applied Mathematics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17707965898685037902,1,2013
+PLM 系统中业务对象版本操作合规性检查的自动实现,王朝霞， 朱笑尘， 欧阳春， 闻立杰,"计算机集成制造系统 17 (008), 1660-1669",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5597545825033080421,1,2011
+Extracting Real-Life Log with Data Perspective in PLM System for Business Process Analysis,"Z Wang, J Wang, L Wen, Y Liu",2009 WRI World Congress on Computer Science and Information Engineering 7 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9294465197467887830,1,2009
+工作流资源分配中约束规则的建模研究 [J],吕少熊， 闻立杰， 王建民,计算机研究与发展,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11040758828322456158,1,2009
+一种 Petri 网模型完备日志生成算法,查海平， 王建民， 闻立杰,"系统仿真学报 19 (A01), 271-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4876257322953216166,1,2007
+A Latent-Constrained Variational Neural Dialogue Model for Information-Rich Responses,"Y Zheng, Y Wang, L Wen, J Wang",Proceedings of the 28th ACM International Conference on Information and …,,0,2019
+BePT: A Behavior-based Process Translator for Interpreting and Understanding Process Models,"C Qian, L Wen, A Kumar",Proceedings of the 28th ACM International Conference on Information and …,,0,2019
+Analysis of Requirements-Related Arguments in User Forums,"JA Khan, Y Xie, L Liu, L Wen","2019 IEEE 27th International Requirements Engineering Conference (RE), 63-74",,0,2019
+ICPM 2019,"A Guzzo, A Senderovich, A Polyvyanyy, A Ter Hofstede, A Gal, B Weber, ...",,,0,2019
+A Business Process Analysis Methodology Based on Process Mining for Complaint Handling Service Processes,"Q Wu, Z He, H Wang, L Wen, T Yu","Applied Sciences 9 (3313), 1-20",,0,2019
+Process Extraction from Texts via Multi-Task Architecture,"C Qian, L Wen, Y Li, A Kumar, J Wang",arXiv preprint arXiv:1906.02127,,0,2019
+TraceWalk: Semantic-based Process Graph Embedding for Consistency Checking,"C Qian, L Wen, A Kumar",arXiv preprint arXiv:1905.06883,,0,2019
+标签匹配方法对业务流程模型相似性影响的分析,闫志强， 李少鹏， 胡磊， 闻立杰， 刘从屹， 高迎， 陈一， 刘克强,"计算机集成制造系统 25 (第 4), 985-992",,0,2019
+基于日志完备性的过程漂移检测方法,林雷蕾， 闻立杰， 周华， 裴继升， 代飞， 郑灿彬,"计算机集成制造系统 25 (第 4), 873-881",,0,2019
+从事件日志中发现过程模型的渐变漂移,郑灿彬， 吴翾， 闻立杰， 王建民,"计算机集成制造系统 25 (第 4), 830-836",,0,2019
+基于 Spark 的并行分布式过程挖掘算法,胡小强， 吴翾， 闻立杰， 王建民,"计算机集成制造系统 25 (第 4), 791-797",,0,2019
+BePT: A Process Translator for Sharing Process Models,"C Qian, L Wen, A Kumar",arXiv preprint arXiv:1904.09768,,0,2019
+RLRecommender: A Representation-Learning-Based Recommendation Method for Business Process Modeling,"H Wang, L Wen, L Lin, J Wang","International Conference on Service-Oriented Computing, 478-486",,0,2018
+基于行为特征的语义工作流修正算法,孙晋永， 古天龙， 闻立杰， 钱俊彦， 刘华东,"软件学报, 3",,0,2018
+流程模型约束下的排产问题求解算法,钱忱， 闻立杰,"计算机集成制造系统 24 (第 7), 1598-1607",,0,2018
+基于可扩展活动关系的过程概念漂移检测,郑灿彬， 闻立杰， 王建民,"计算机集成制造系统 24 (第 7), 1589-1597",,0,2018
+Sequence Modeling with Hierarchical Deep Generative Models with Dual Memory,"Y Zheng, L Wen, J Wang, J Yan, L Ji",Proceedings of the 2017 ACM on Conference on Information and Knowledge …,,0,2017
+基于对齐的 BPMN 2.0 模型符合性检测算法,汪玉泉， 闻立杰， 闫志强,"计算机研究与发展 54 (9), 1920-1930",,0,2017
+基于行为和结构特征的相似语义工作流检索,孙晋永， 古天龙， 闻立杰， 钱俊彦， 孟瑜,"计算机研究与发展 54 (9), 1880-1891",,0,2017
+基于任务发生关系的流程模型相似性度量,宋金凤， 闻立杰， 王建民,"计算机研究与发展 54 (4), 832-843",,0,2017
+3.10 Optimisation opportunities,"R Vitenberg, A Gal, A Margara, V Setty, M Ugarte, M Weidlich, L Wen, ...","Integrating Process-Oriented and Event-Based Systems, 45",,0,2016
+一种基于诱导规则的 Petri 网完备日志生成算法,靳伟国， 闻立杰， 王建民， 武年华,"计算机应用研究 33 (7), 2051-2055",,0,2016
+基于变迁标签图编辑距离的过程模型相似性度量,王子璇， 闻立杰， 汪抒浩， 王建民,"计算机集成制造系统 22 (2), 343-352",,0,2016
+用于面向过程的基于实例推理的语义工作流相似性算法,孙晋永， 古天龙， 闻立杰， 钱俊彦,"计算机集成制造系统 22 (2), 381-394",,0,2016
+Weakly supervised glasses removal,"Z Wang, Y Zhou, L Wen",Sixth International Conference on Graphic and Image Processing (ICGIP 2014 …,,0,2015
+"Process-Aware Systems: First International Workshop, PAS 2014, Shanghai, China, October 17, 2014. Proceedings","J Cao, L Wen, X Liu",Springer,,0,2015
+"海量流程实例的存储, 索引与检索",郭芬， 闻立杰， 王建民， 丁子哲， 高翔,"计算机集成制造系统 21 (第 2), 359-367",,0,2015
+业务过程模型间高级编辑操作的识别,肖汉， 闫志强， 闻立杰， 杨明， 丁子哲， 高翔,"计算机集成制造系统 21 (第 2), 316-325",,0,2015
+NBAJ: 一种基于网络流的工作流资源分配合理性判定方法,郭秦龙， 闻立杰， 金涛， 陈俊， 唐旺， 丁子哲， 高翔,"计算机集成制造系统 21 (第 2), 326-335",,0,2015
+过程挖掘：业务过程的发现、合规和改进,王建民， 闻立杰， 等译,,,0,2014
+基于完全有限前缀的过程实例表示图的分解,宋亮， 闻立杰， 王建民， 刘国平， 刘廷龙， 杨剑勇,"清华大学学报: 自然科学版, 490-494",,0,2014
+Simplification of behavior property specification pattern system,"L SONG, L WEN, J WANG, H KONG, G LIU, T LIU","Computer Integrated Manufacturing Systems, 20",,0,2013
+时序行为特征描述模式体系的化简,宋亮， 闻立杰， 王建民， 孔辉， 刘国平， 刘廷龙,"计算机集成制造系统 19 (8), 1891-1897",,0,2013
+DETECTING INFEASIBLE TRACES IN PROCESS MODELS,"Z Wang, L Wen, X Zhu, Y Liu, J Wang",14th International Conference on Enterprise Information Systems (ICEIS 2002 …,,0,2012
+行为因果关系的分类与判定,金涛， 闻立杰， 王建民,"系统仿真学报 23 (B07), 188-192",,0,2011
+基于支持向量机的 Web 日志用户标志修正算法,邹根， 闻立杰,"计算机集成制造系统 17 (8), 1851-1855",,0,2011
+基于完全有限前缀的完备日志生成算法,王文星， 闻立杰， 谭士杰,"计算机集成制造系统 17 (8), 1692-1702",,0,2011
+基于代理的工作流邦联及子流调用框架,李书生， 闻立杰， 王建民， 吕少熊,第 26 届中国数据库学术会议论文集 (B 辑),,0,2009
+The operations and properties of reproducibility of the empty marking,"J Ye, S Sun, W Song, L Wen",2008 International Conference on Computational Intelligence and Security 1 …,,0,2008
+An Innovative Workflow Product Structure,"H Zha, L Wen, J Wang",31st Annual International Computer Software and Applications Conference …,,0,2007
+一种基于推荐系统的工作流资源分配机制,靳绍聪， 王建民， 闻立杰， 曹大海,第二十三届中国数据库学术会议论文集 (技术报告篇),,0,2006
+基于 CPN 的工作流管理系统访问控制技术研究与实现,周家浩， 王建民， 闻立杰,第二十二届中国数据库学术会议论文集 (技术报告篇),,0,2005
+一种基于工作流日志的人力资源业绩评价模型,曹大海， 王建民， 闻立杰,"计算机科学 321, 7",,0,2005
+Distributed knowledge sharing for collaborative product development.,"S Ying-Ying, L Di, WMP Van der Aalst, KM van Hee, G Convertino, ...","Information Technology Journal 12 (14), Pages: 368-Pages: 368",,0,2004

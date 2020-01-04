@@ -1,0 +1,197 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+ABAQUS非线性有限元分析与实例,庄茁，张帆，岑松,科学出版社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5435796196728739247,6646985091844945644,474781998644243674",514,2005
+基于 ABAQUS 的有限元分析和应用,庄茁， 由小川， 廖剑晖， 岑松， 沈新普， 梁明刚,清华大学出版社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1937180279823175663,15118015963364866635",377,2009
+Membrane elements insensitive to distortion using the quadrilateral area coordinate method,"XM Chen, S Cen, YQ Long, ZH Yao","Computers & Structures 82 (1), 35-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13567789388998988706,120,2004
+Advanced finite element method in structural engineering,"YQ Long, S Cen, ZF Long",Springer & Tsinghua University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18434828646927709505,110,2009
+A new twelve DOF quadrilateral element for analysis of thick and thin plates,"AK Soh, S Cen, YQ Long, ZF Long","European Journal of Mechanics-A/Solids 20 (2), 299-326",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14917221999633879820,88,2001
+Application of the quadrilateral area co‐ordinate method: a new element for Mindlin–Reissner plate,"S Cen, YQ Long, ZH Yao, SP Chiew","International Journal for Numerical Methods in Engineering 66 (1), 1-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14625332082876762967,83,2006
+Area co‐ordinates used in quadrilateral elements,"Y Long, J Li, Z Long, S Cen","Communications in Numerical Methods in Engineering 15 (8), 533-545",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6117074970421582746,79,1999
+A 4-node hybrid stress-function (HS-F) plane element with drilling degrees of freedom less sensitive to severe mesh distortions,"S Cen, MJ Zhou, XR Fu","Computers & Structures 89 (5), 517-528",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8727132546626800342,71,2011
+A new 4-node quadrilateral FE model with variable electrical degrees of freedom for the analysis of piezoelectric laminated composite plates,"S Cen, AK Soh, YQ Long, ZH Yao","Composite structures 58 (4), 583-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17847268389321157388,68,2002
+8-and 12-node plane hybrid stress-function elements immune to severely distorted mesh containing elements with concave shapes,"S Cen, XR Fu, MJ Zhou","Computer Methods in Applied Mechanics and Engineering 200 (29), 2321-2336",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8862519922564624839,67,2011
+Some basic formulae for area co‐ordinates in quadrilateral elements,"Z Long, J Li, S Cen, Y Long","Communications in Numerical Methods in Engineering 15 (12), 841-852",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6413267195739519994,62,1999
+Quadrilateral membrane element family formulated by the quadrilateral area coordinate method,"S Cen, XM Chen, XR Fu","Computer Methods in Applied Mechanics and Engineering 196 (41), 4337-4353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17415548616703505866,61,2007
+Analytical trial function method for development of new 8-node plane element based on the variational principle containing Airy stress function,"XR Fu, S Cen, CF Li, XM Chen","Engineering Computations 27 (4), 442-463",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17472916304415827664,59,2010
+A new hybrid-enhanced displacement-based element for the analysis of laminated composite plates,"S Cen, Y Long, Z Yao","Computers & structures 80 (9), 819-833",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2361983993817108723,52,2002
+A new nine DOF triangular element for analysis of thick and thin plates,"AK Soh, ZF Long, S Cen","Computational Mechanics 24 (5), 408-417",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6980718609567169919,52,1999
+有限元法新论: 原理・程序・进展,龙志飞， 岑松,中国水利水电出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6682060779289603219,49,2001
+四边形单元面积坐标理论,龙驭球， 李聚轩， 龙志飞， 岑松,"工程力学 14 (3), 1-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5683960796158960126,4030357943909653853",49,1997
+Development of eight-node quadrilateral membrane elements using the area coordinates method,"AK Soh, Y Long, S Cen","Computational Mechanics 25 (4), 376-384",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13068361798526560034,47,2000
+Development of a new quadrilateral thin plate element using area coordinates,"AK Soh, L Zhifei, C Song","Computer Methods in Applied Mechanics and Engineering 190 (8), 979-987",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7406131104711990914,46,2000
+A new quadrilateral area coordinate method (QACM‐II) for developing quadrilateral finite element models,"XM Chen, S Cen, XR Fu, YQ Long","International Journal for Numerical Methods in Engineering 73 (13), 1911-1941",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14214233615972573640,41,2008
+新型有限元论,龙驭球， 龙志飞， 岑松,清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8433818388173492584,41,2004
+Statistical reconstruction of two-phase random media,"JW Feng, CF Li, S Cen, DRJ Owen","Computers & Structures 137, 78-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6726301763207338882,39,2014
+对转角场和剪应变场进行合理插值的厚薄板通用四边形单元,岑松， 龙志飞， 龙驭球,"工程力学 16 (4), 1-15","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18116496113661117296,4486273447850298030",39,1999
+A shape‐free 8‐node plane element unsymmetric analytical trial function method,"S Cen, GH Zhou, XR Fu","International journal for numerical methods in engineering 91 (2), 158-185",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=452019860391639289,34,2012
+Shape-free finite element method: the plane hybrid stress-function (HS-F) element method for anisotropic materials,"S Cen, XR Fu, GH Zhou, MJ Zhou, CF Li","Science China Physics, Mechanics and Astronomy 54 (4), 653-665",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=448619826659755546,33,2011
+Quadrilateral membrane elements with analytical element stiffness matrices formulated by the new quadrilateral area coordinate method (QACM‐II),"S Cen, XM Chen, CF Li, XR Fu","International journal for numerical methods in engineering 77 (8), 1172-1200",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9164143444704671475,32,2009
+Hexahedral volume coordinate method (HVCM) and improvements on 3D Wilson hexahedral element,"HG Li, S Cen, ZZ Cen","Computer Methods in Applied Mechanics and Engineering 197 (51), 4531-4548",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=425377469092584626,31,2008
+顶板灾害防治,传鸿， 岑,中国矿业大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16236252312778871699,29,1994
+顶板灾害防治,传鸿， 岑,中国矿业大学出版社,,29,1989
+Generalized Neumann Expansion and Its Application in Stochastic Finite Element Methods,"X Wang, S Cen, C Li",Mathematical Problems in Engineering 2013,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4732216543060149759,15660816452470548877",28,2013
+四边形单元面积坐标的微分和积分公式,龙志飞， 李聚轩， 岑松， 龙驭球,"工程力学 14 (3), 12-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15508102168172920063,27,1997
+Hybrid displacement function element method: a simple hybrid‐Trefftz stress element method for analysis of Mindlin–Reissner plate,"S Cen, Y Shang, CF Li, HG Li","International Journal for Numerical Methods in Engineering 98 (3), 203-234",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2548569303865063326,26,2014
+Developments of Mindlin-Reissner Plate Elements,"S Cen, Y Shang",Mathematical Problems in Engineering 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15500818322383712044,25,2015
+"An unsymmetric 4‐node, 8‐DOF plane membrane element perfectly breaking through MacNeal's theorem","S Cen, PL Zhou, CF Li, CJ Wu","International Journal for Numerical Methods in Engineering 103 (7), 469-500",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11239653923083950841,24,2015
+"The third form of the quadrilateral area coordinate method (QACM-III): theory, application, and scheme of composite coordinate interpolation","ZF Long, S Cen, L Wang, XR Fu, YQ Long","Finite Elements in Analysis and Design 46 (10), 805-818",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16432638862196037874,24,2010
+The analytical element stiffness matrix of a recent 4‐node membrane element formulated by the quadrilateral area co‐ordinate method,"S Cen, Y Du, XM Chen, XR Fu","Communications in Numerical Methods in Engineering 23 (12), 1095-1110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9777038593903436021,23,2007
+Predictions of elastic property on 2.5 DC/SiC composites based on numerical modeling and semi-analytical method,"L Chen, X Yao, S Cen","Composites Part B: Engineering 74, 53-65",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10209608604327641203,22,2015
+有限元方法: 固体力学. 第 2 卷,辛克维奇， 泰勒， 庄茁， 岑松,清华大学出版社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17560182616416771328,1069514482768137279",22,2006
+对转角场和剪应变场进行合理插值的厚板元,岑松， 龙志飞,"工程力学 15 (3), 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18201313982136844920,21,1998
+Multiphysics Modeling: Numerical Methods and Engineering Applications: Tsinghua University Press Computational Mechanics Series,"Q Zhang, S Cen",Elsevier,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=256176518895588786,19,2015
+Application of the quadrilateral area coordinate method: a new element for laminated composite plate bending problems,"S Cen, X Fu, Y Long, H Li, Z Yao","Acta Mechanica Sinica 23 (5), 561-575",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7972371511559500681,19,2007
+Numerical determination of effective properties of voided piezoelectric materials using BNM,"H Wang, G Tan, S Cen, Z Yao","Engineering analysis with boundary elements 29 (6), 636-646",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9191672707141406628,19,2005
+采用面积坐标的四边形厚薄板通用单元,岑松， 龙驭球,"工程力学 16 (2), 1-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2559133990410215075,19,1999
+基于一阶剪切变形理论的新型复合材料层合板单元,岑松， 龙驭球,"工程力学 19 (1), 1-8","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6433963219766124193,5658471843732991732",18,2002
+Geometrically nonlinear analysis with a 4-node membrane element formulated by the quadrilateral area coordinate method,"Y Du, S Cen","Finite Elements in Analysis and Design 44 (8), 427-438",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2905489400689014877,17,2008
+一种新型厚薄板通用三角形广义协调元,岑松， 龙志飞,"工程力学 15 (1), 10-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=549862559192134363,17,1998
+An unsymmetric 8‐node hexahedral element with high distortion tolerance,"PL Zhou, S Cen, JB Huang, CF Li, Q Zhang",International Journal for Numerical Methods in Engineering,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2897372799511465718,16,2016
+Development of triangular flat-shell element using a new thin-thick plate bending element based on SemiLoof constrains,"YL Chen, S Cen, ZH Yao, YQ Long, ZF Long","Structural Engineering and Mechanics 15 (1), 83-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7419295710547753742,16,2003
+Comparing different fidelity models for the impact analysis of large commercial aircrafts on a containment building,"X Lu, K Lin, S Cen, Z Xu, L Lin","Engineering Failure Analysis 57, 254-269",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1916445094710785221,15,2015
+A quasi-static crack propagation simulation based on shape-free hybrid stress-function finite elements with simple remeshing,"MJ Zhou, S Cen, Y Bao, CF Li","Computer Methods in Applied Mechanics and Engineering 275, 159-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11213329423496175233,15,2014
+厚板哈密顿求解体系及其变分原理与正交关系,罗建辉， 岑松， 龙志飞， 龙驭球,"工程力学 21 (2), 34-39","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17599345362600284812,16867760774822792778",15,2004
+An effective hybrid displacement function element method for solving the edge effect of Mindlin–Reissner plate,"Y Shang, S Cen, CF Li, JB Huang","International Journal for Numerical Methods in Engineering 102 (8), 1449-1487",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11703346269828873017,14,2015
+The analytical trial function method (ATFM) for finite element analysis of plane crack/notch problems,"XR Fu, S Cen, YQ Long, XG Jiang, JS Ju","Key Engineering Materials 385, 617-620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12798601956169628297,14,2008
+On convergence of nonconforming convex quadrilateral finite elements AGQ6,"R Flajs, S Cen, M Saje","Computer Methods in Applied Mechanics and Engineering 199 (25), 1816-1827",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8807893808630703993,13,2010
+用杂交法改善应力解的新型复合材料层合板单元,岑松， 龙驭球， 姚振汉,"工程力学 19 (2), 7-16","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10526004742248425908,8531165245862501431",13,2002
+Method of area coordinate-from triangular to quadrilateral elements,"Y Long, Z Long, S Cen","Advances in Structural Engineering 4 (1), 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1093365046648912238,13,2001
+A QUADRILATERAL THIN-THICK PLATE BENDING ELEMENT BY USING AREA COORDINATE METHOD [J],"CEN Song, L Yu-Qiu","Engineering Mechanics 2, 000",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10560185449175255313,13,1999
+A joint diagonalisation approach for linear stochastic systems,"CF Li, S Adhikari, S Cen, YT Feng, DRJ Owen","Computers & structures 88 (19), 1137-1148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8265637670438053574,11,2010
+基于解析试函数的内参型广义协调膜元,傅向荣， 龙驭球， 袁明武， 岑松,"工程力学 23 (1), 1-5","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9671873365048900975,3068576550076974966",11,2006
+采用面积坐标和基于假设转角的薄板元,陈晓明， 岑松， 龙驭球,"工程力学 22 (4), 1-5","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17083356309783234850,1297229842096759202",11,2005
+Generalized conforming element (GCE) and quadrilateral area coordinate method (QACM),"YQ Long, S Cen, ZF Long",Proceedings of the Sixth World Congress on Computational Mechanics in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5878425381283164141,11,2004
+A 4-node quadrilateral flat shell element formulated by the shape-free HDF plate and HSF membrane elements,"Y Shang, S Cen, CF Li","Engineering Computations 33 (3), 713-741",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=388713697871602961,10,2016
+Statistical reconstruction and Karhunen–Loève expansion for multiphase random media,"JW Feng, S Cen, CF Li, DRJ Owen","International Journal for Numerical Methods in Engineering 105 (1), 3-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6347656916444322178,10,2016
+Shape-free finite element method: another way between mesh and mesh-free methods,"S Cen, MJ Zhou, Y Shang",Mathematical Problems in Engineering 2013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4011983754160692459,10,2013
+A novel joint diagonalization approach for linear stochastic systems and reliability analysis,"F Wang, C Li, J Feng, S Cen, DRJ Owen","Engineering Computations 29 (2), 221-244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1791977643005969997,10,2012
+A Mindlin plate triangular element with improved interpolation based on Timoshenko's beam theory,"AK Soh, L Zhifei, C Song","Communications in numerical methods in engineering 15 (7), 527-532",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6034089813616630337,10,1999
+Two generalized conforming quadrilateral Mindlin–Reissner plate elements based on the displacement function,"Y Shang, S Cen, CF Li, XR Fu","Finite Elements in Analysis and Design 99, 24-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=112341324628397018,9,2015
+A priori error estimation for the stochastic perturbation method,"XY Wang, S Cen, CF Li, DRJ Owen","Computer Methods in Applied Mechanics and Engineering 286, 1-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7707087651477455266,9,2015
+含两个分量的四边形单元面积坐标理论,陈晓明， 岑松， 龙驭球， 傅向荣,"工程力学 24 (1), 32-35","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15451891529019715561,13226181332441557787",9,2007
+薄板哈密顿求解体系及其变分原理,岑松， 龙志飞， 罗建辉， 龙驭球,"工程力学 21 (3), 1-5","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2314313452534406650,18403172692207856687",9,2004
+A meshless singular hybrid boundary node method for 2‐D elastostatics,"HT Wang, ZH Yao, S Cen","Journal of the Chinese Institute of Engineers 27 (4), 481-490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7627459235650971561,9,2004
+采用面积坐标的四边形板弯曲单元,龙志飞， 李聚轩， 岑松， 龙驭球,"工程力学 14 (4), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9610054998601461398,9,1997
+有限元新型自然坐标方法研究进展,岑松， 陈晓明， 李宏光， 杜宇， 傅向荣， 管楠祥,"工程力学 25 (S1), 18-32","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10337312385127201187,2029908135225084145",8,2008
+广义协调元理论与四边形面积坐标方法,龙志飞， 岑松,中国矿业大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15182868938329476924,8,2000
+A novel shape-free plane quadratic polygonal hybrid stress-function element,"PL Zhou, S Cen",Mathematical Problems in Engineering 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3581830334251846218,7,2015
+Characteristic equation solution strategy for deriving fundamental analytical solutions of 3D isotropic elasticity,"X Fu, M Yuan, S Cen, G Tian","Applied Mathematics and Mechanics 33, 1253-1264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18003479476655406180,7,2012
+A hybrid-stress element based on Hamilton principle,"S Cen, T Zhang, CF Li, XR Fu, YQ Long","Acta Mechanica Sinica 26 (4), 625-634",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10987257119550485975,7,2010
+位移型板单元内力解的杂交化后处理,岑松， 龙驭球， 姚振汉,"工程力学 18 (3), 21-27","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5992438353392448174,883910746003409050",7,2001
+Several Treatments on Nonconforming Element Failed in the Strict Patch Test,"XM Chen, S Cen, YG Li, JY Sun",Mathematical Problems in Engineering 2013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15241725742799737810,6,2013
+基于哈密顿解法的厚板边界效应典型算例分析,鞠伟， 岑松， 傅向荣， 龙驭球,"工程力学 25 (2), 0-008","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9654376305520685772,10443169571963745533",6,2008
+基于四边形面积坐标的平面单元解析试函数法,陈晓明， 岑松,"清华大学学报: 自然科学版 48 (2), 289-293","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16187424691710777009,5311373420866166327",6,2008
+Advances in finite element method,"S Cen, C Li, S Rajendran, Z Hu",Mathematical Problems in Engineering 2014,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12798677111328194733,5,2014
+"3, LONG Yu-qiu1 (1. Department of Civil Engineering, Tsinghua University, Beijing 100084, China; 2. Failure Mechanics Laboratory, Tsinghua University, Beijing 100084, China; 3 …","JU Wei, CEN Song",Engineering Mechanics 1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10747121578599351594,5,2008
+引入广义泡状型位移场影响的厚板矩形单元,岑松， 龙志飞， 匡文起,"工程力学 13 (4), 41-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6393536846977373364,5,1996
+Normal impact behaviour of C/SiC rigid‐felt titanium alloy three‐layered plate,"L Chen, X Yao, S Cen, S Wang","Fatigue & Fracture of Engineering Materials & Structures 39 (3), 357-371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4412841127426541075,4,2016
+复合材料层合板分层裂纹扩展的试验及数值模拟研究,傅向荣， 陈新文， 岑松， 赵东， 赵阳， 蒋东英， 田歌， 张鹏,"固体力学学报 31, 39-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10244981793529734424,4,2010
+六面体单元体积坐标方法,李宏光， 岑松， 龙驭球， 岑章志,"工程力学 25 (10), 12-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10464532006701748526,4,2008
+采用面积坐标的抗畸变四边形曲边膜元,陈晓明， 岑松， 宋德坡,"清华大学学报: 自然科学版 47 (2), 248-255","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12423408760336261223,6205513943458738857",4,2007
+基于四边形面积坐标的广义协调轴对称单元,管楠祥， 岑松， 陈晓明,"工程力学 24 (Sup II), 161-167","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10556360247396506204,3102414280790254265",4,2007
+一个不闭锁和抗畸变的四边形厚板元,龙驭球， 陈晓明， 岑松,"计算力学学报 22 (4), 385-391","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7935200818543329838,8665436340403365083",4,2005
+Area-coordinate theory for quadrilateral elements,"L Yuqiu, L Juxuan, L Zhifei, C Song","Engineering Mechanics 14 (3), 1-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5673066663610061764,2091060213972241775",4,1997
+厚薄板振动分析的通用矩形单元,龙志飞， 岑松,"工程力学, 332-340",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12246812470835758400,4,1996
+基于新型大变形平板壳单元的剪力墙模型及其在 OpenSees 中的应用,王丽莎， 岑松， 解琳琳， 陆新征,"工程力学 33 (3), 47-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343822227434211166,3,2016
+Four-Node Generalized Conforming Membrane Elements with Drilling DOFs Using Quadrilateral Area Coordinate Methods,"XM Chen, S Cen, JY Sun, YG Li",Mathematical Problems in Engineering 2015,,3,2015
+大型商用飞机撞击刚性墙及核电屏蔽厂房的撞击力分析,林丽， 陆新征， 韩鹏飞， 岑松， 刘晶波,"振动与冲击 34 (9), 158-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7187152134975731281,3,2015
+A novel hybrid stress-function finite element method immune to severe mesh distortion,"S Cen, XR Fu, MJ Zhou","IOP Conference Series: Materials Science and Engineering 10 (1), 012220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18187087810172400871,3,2010
+弹性力学求解体系的研究与进展,罗建辉， 刘光栋， 岑松， 龙志飞,"工程力学 22 (S1), 150-163","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12562480364932133538,12008137649866496408,5603736285053358261",3,2004
+厚薄通用三角形三结点平板壳元 TSLTl8,陈永亮， 岑松， 姚振汉， 龙驭球,"清华大学学报: 自然科学版 43 (8), 1069-1073","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12012703414676627528,3998492731623261080",3,2003
+广义协调元在薄板弹性皱曲分析中的应用,陈永亮， 岑松， 姚振汉， 龙驭球,"工程力学 19 (5), 7-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17446592372265767458,17317400955634951297",3,2002
+两个采用面积坐标的四边形八结点膜元,岑松， 龙志飞,"工程力学, 237-241",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1980835360142102624,3,1998
+4-node Generalized Conforming Membrane elements with Drilling DOFs Using Quadrilateral Area Coordinate Methods,"XM Chen, S Cen, JY Sun, YG Li",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9711591200251372499,3,0
+Quasi-Static Crack Propagation Modeling Using Shape-Free Hybrid Stress-Function Elements with Drilling Degrees of Freedom,"S Cen, Y Bao, CF Li","International Journal of Computational Methods, 1650014",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1129190848657990210,2,2016
+Hybrid Post-Processing Procedure for Displacement-Based Plane Elements,"X Chen, S Cen, J Sun, Y Li","Journal of Applied Mathematics and Physics 1 (06), 15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15136346623427729073,2,2013
+一种对网格凹凸畸变不敏感的高应力精度 4 结点带旋转自由度平面杂交应力函数单元,岑松， 周明珏， 傅向荣， 周国华,固体力学学报 1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14678686099012330956,2,2010
+Elastic-plastic torque analysis of notched cross-section bars using the finite difference method,"HP Liu, XR Fu, S Cen, XG Jiang, JS Ju, WJ Wang","Key Engineering Materials 385, 869-872",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16731962559119224497,2,2008
+Applications of boundary node method to simulation of piezoelectric composites,"G Tan, S Cen, H Wang, Z Yao",18th International Conference on Structural Mechanics in Reactor Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14360675737364974438,2,2005
+薄板哈密顿含参变分原理,龙志飞， 岑松， 龙驭球， 罗建辉,"工程力学 21 (4), 1-5","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12708206578682216474,3012142787481723522",2,2004
+厚/薄板元的一些进展,龙志飞， 岑松,"工程力学 1 (a01), 7-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14602957560170366567,2,1999
+两个高效稳定的厚薄板广义协调矩形元,岑松， 龙志飞,"工程力学, 163-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15540228714837738660,2,1996
+基于第二类四边形面积坐标的弹性力学纯弯解及 MacNeal 局限定理的破解,岑松， 周培蕾,"计算力学学报 33 (4), 462-468",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14203128045817304838,1,2016
+正交各向异性材料含切口平面问题特征值研究,傅向荣， 岑松， 田歌， 邓娇， 周明珏， 宋孟燕,"工程力学 30 (6 增刊), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7948417488983372183,1,2013
+Effect of Beam Height on Elastic Impact Load Subjected to Transverse Impact of Bar,"JS Ju, M Ding, XD Shi, S Cen, XG Jiang, XH Chen","Key Engineering Materials 462, 259-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16832259400075155442,1,2011
+用于模拟压电复合材料平面问题的边界点法,谭国文， 王洪涛， 岑松， 姚振汉,"清华大学学报: 自然科学版 47 (5), 734-737","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9763424854182226340,15109435090545412436",1,2007
+Quadrilateral axisymmetric elements formulated by the area coordinate method,"N Guan, S Cen, X Chen",Computational Mechanics (Proceedings of the ISCM 2007). Tsinghua University …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8190463630202883886,1,2007
+Method of volume coordinates——from tetrahedral to hexahedral elements,"H Li, S Cen, Y Long, Z Cen","Yao ZH, Yuan M W. Computational Mechanics (Proceedings of the ISCM 2007 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6824646764872795010,1,2007
+二维弹性静力学的奇异杂交边界点法,王洪涛， 姚振汉， 岑松,"燕山大学学报 28 (2), 133-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10792568044625962921,1,2004
+一种用于杂交边界点法的奇异积分处理方案 [A],王洪涛， 岑松， 姚振汉,第十三届全国结构工程学术会议论文集 (第 Ⅰ 册),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1836046611003867849,1,2004
+完全无闭锁厚薄板通用弯曲三角形单元,王海霞， 岑松,"南通工学院学报: 自然科学版 2 (2), 5-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9873050407544194714,1,2003
+"新型厚薄板, 层合板元与四边形面积坐标法",岑松,北京: 清华大学,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9831614983622302808,1,2000
+THE INFLUENCE OF GENERALIZED BUBBLE DISPLACEMENT ON THICK PLATE RECTANGULAR ELEMENT [J],"C Song, L Zhifei, K Wenqi",ENGINEERING MECHANICS 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5377963782429987286,1,1996
+A TWO-COMPONENT AREA COORDINATE METHOD FOR QUADRILATERAL ELEMENTS,"X CHEN, S CEN, Y LONG, X FU",,,1,0
+飞机撞击建 (构) 筑物研究进展,刘晶波， 韩鹏飞， 林丽， 陆新征， 岑松,"爆炸与冲击 36 (2), 269-278",,0,2016
+飞机撞击荷载计算模型中压溃力选取分析,韩鹏飞， 刘晶波， 陆新征， 林丽， 岑松,"工程力学 33 (2), 81-87",,0,2016
+Application of the quadrilateral area coordinates: A 4-node quadrilateral membrane element beyond MacNeal’s theorem,"PL Zhou, S Cen",The 6th International Conference on Computational Methods (ICCM2015),,0,2015
+Advances in Finite Element Method 2014,"S Cen, C Li, S Rajendran, Z Hu","Mathematical Problems in Engineering 501, 572648",,0,2015
+一种新的非对称 4 结点平面膜元,岑松， 周培蕾,北京力学会第 21 届学术年会暨北京振动工程学会第 22 届学术年会论文集,,0,2015
+基于位移函数构造形状自由的 Mindlin 板单元,尚闫， 岑松,中国计算力学大会 2014 暨第三届钱令希计算力学奖颁奖大会论文集,,0,2014
+杂交应力函数 (HSF) 方法的完善,尚闫， 岑松， 周明珏,北京力学会第 20 届学术年会论文集,,0,2014
+不同胞元对单向增强复合材料等效弹性常数预测的影响,陈良家， 姚学锋， 岑松,北京力学会第 20 届学术年会论文集,,0,2014
+杂交应力函数单元在裂纹扩展问题中的应用,岑松， 周明珏,中国力学大会——2013 论文摘要集,,0,2013
+模拟堆芯散体结构地震响应的简化新方法,张洪坤， 岑松， 王海涛， 程寰宇,"核动力工程 33 (2), 51-55",,0,2012
+一种求三维弹性力学基本解析解的特征方程解法,傅向荣， 袁明武， 岑松， 田歌,"应用数学和力学 33 (10), 1170-1179",,0,2012
+杂交应力函数单元在裂纹扩展问题中的应用,周明珏， 岑松， 傅向荣,北京力学会第 18 届学术年会论文集,,0,2012
+"一种基于非对称, 解析试函数的形状自由八结点平面单元",周国华， 岑松， 傅向荣， 周明珏,北京力学会第 18 届学术年会论文集,,0,2012
+平面各向异性问题应力函数基本解及其杂交应力函数单元模式研究,周国华， 岑松， 傅向荣， 周明珏,北京力学会第 17 届学术年会论文集,,0,2011
+组合结构单柱模型抗震性能分析,刘佃贵， 岑松,北京力学会第 17 届学术年会论文集,,0,2011
+杂交应力函数单元在裂纹问题中的运用,周明珏， 岑松， 傅向荣,北京力学会第 17 届学术年会论文集,,0,2011
+Introduction To The Third Form Of The Quadrilateral Area Coordinate Method (QACM‐III),"S Cen, ZF Long, L Wang, YQ Long",PROCEEDINGS OF THE 2ND INTERNATIONAL SYMPOSIUM ON COMPUTATIONAL MECHANICS …,,0,2010
+分区加速 Müller 法对多材料 V 型切口平面问题特征根的求解,赵东， 傅向荣， 岑松， 赵阳， 田歌， 应秀梅， 刘浩宇， 张鹏,第 19 届全国结构工程学术会议论文集 (第 Ⅰ 册),,0,2010
+汽车发动机缸盖多场耦合三维有限元分析,马寅魏， 岑松,北京力学会第十六届学术年会论文集,,0,2010
+散体构件碰撞的等效简化研究,张洪坤， 岑松,北京力学会第十六届学术年会论文集,,0,2010
+截面含切口圆柱体自由扭转的弹塑性分析,傅向荣， 岑松， 刘慧鹏， 蒋秀根， 剧锦三， 王文婕， 赵东,"计算力学学报 26 (3), 415-419",,0,2009
+Generalized Conforming Thin Plate Element I—Introduction,"ZF Long, S Cen","Advanced Finite Element Method in Structural Engineering, 101-119",,0,2009
+抗网格畸变的二十结点六面体单元,李宏光， 岑松,北京力学会第 15 届学术年会论文摘要集,,0,2009
+基于六面体体积坐标的新型 8 结点实体单元,李宏光， 岑松， 岑章志,"清华大学学报: 自然科学版, 1856-1860",,0,2009
+基于 Hamilton 变分原理的四边形 4 结点杂交元,张涛， 岑松,第 18 届全国结构工程学术会议论文集第 Ⅰ 册,,0,2009
+基于 Hamilton 变分原理的四节点应力杂交单元研究,张涛， 岑松,北京力学会第 15 届学术年会论文摘要集,,0,2009
+陶瓷堆内构件侧反射层散体抗震计算研究,张洪坤， 岑松,北京力学会第 15 届学术年会论文摘要集,,0,2009
+Analytical Trial Function Method II—Singular Elements with Crack and Notch,"S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 518-545",,0,2009
+Sub-Region Mixed Element II—V-Notch Problem,"YQ Long, S Cen","Advanced Finite Element Method in Structural Engineering, 438-494",,0,2009
+The Sub-Region Variational Principles,"YQ Long, ZF Long, S Cen","Advanced Finite Element Method in Structural Engineering, 15-65",,0,2009
+Analytical Trial Function Method I—Membrane and Plate Bending Elements,"S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 495-517",,0,2009
+Variational Principles with Several Adjustable Parameters,"YQ Long, S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 66-85",,0,2009
+"Quadrilateral Area Coordinate Systems, Part II—New Tools for Constructing Quadrilateral Elements","S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 582-640",,0,2009
+"Quadrilateral Area Coordinate Systems, Part I—Theory and Formulae","YQ Long, S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 546-581",,0,2009
+Sub-Region Mixed Element I—Fundamental Theory and Crack Problem,"YQ Long, S Cen","Advanced Finite Element Method in Structural Engineering, 405-437",,0,2009
+Generalized Conforming Element for the Analysis of the Laminated Composite Plates,"S Cen, YQ Long","Advanced Finite Element Method in Structural Engineering, 268-303",,0,2009
+Generalized Conforming Thin Plate Element I—Introduction,"ZF Long, S Cen","Advanced Finite Element Method in Structural Engineering, 101-119",,0,2009
+Introduction—The Evolutive Finite Element Method,"YQ Long, S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 1-11",,0,2009
+Generalized Conforming Thick Plate Element,"S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 203-267",,0,2009
+Generalized Conforming Thin Plate Element II—Line-Point and SemiLoof Conforming Schemes,"ZF Long, S Cen","Advanced Finite Element Method in Structural Engineering, 120-175",,0,2009
+Elastic-plastic torque analysis of notched cross-section cylinder,"X FU, S CEN, H LIU, X JAING, J JU, W WANG, D ZHAO","Chinese Journal of Computational Mechanics 3, 023",,0,2009
+Generalized Conforming Element for the Analysis of Piezoelectric Laminated Composite Plates,"S Cen, YQ Long","Advanced Finite Element Method in Structural Engineering, 304-324",,0,2009
+Generalized Conforming Thin Plate Element III—Perimeter-Point and Least-Square Conforming Schemes,"S Cen, ZF Long","Advanced Finite Element Method in Structural Engineering, 176-202",,0,2009
+Generalized Conforming Membrane and Shell Elements,"ZF Long, S Cen","Advanced Finite Element Method in Structural Engineering, 325-401",,0,2009
+基于四边形面积坐标的杂交应力轴对称单元研究,管楠祥， 岑松， 李宏光,北京力学会第 14 届学术年会论文集,,0,2008
+一种抗网格畸变的新型六面体单元,李宏光， 岑松,北京力学会第 14 届学术年会论文集,,0,2008
+Quadrilateral Area Coordinates (QAC),"S Cen, D Song, YL Xiaoming Chen",Computational Methods in Engineering & Science: Proceedings of Enhancement …,,0,2007
+三角形层合板单元及应力解的杂交化后处理,龙志飞， 杨燕艳， 岑松,"中国矿业大学学报 35 (6), 792-798",,0,2007
+基于四边形面积坐标方法的 4 结点平面膜元的显式刚度矩阵,杜宇， 岑松,北京力学会第 13 届学术年会论文集,,0,2007
+基于四边形面积坐标的空间轴对称单元研究,管楠祥， 岑松， 陈晓明,北京力学会第 13 届学术年会论文集,,0,2007
+六面体单元体积坐标理论,李宏光， 岑松， 陈晓明,北京力学会第 13 届学术年会论文集,,0,2007
+Computational Strategies for Curved-side Elements Formulated by Quadrilateral Area Coordinates (QAC),"S Cen, D Song, X Chen, Y Long","Computational Methods in Engineering & Science, 250-250",,0,2007
+A Hybrid Membrane Element Based on the Hamilton Variational Principle,"W Ju, Y Long, X Fu, S Cen","Computational Mechanics, 386-386",,0,2007
+Study of the Analytical Trial Functions,"X Fu, Y Long, M Yuan, S Cen, X Chen","Computational Mechanics, 392-392",,0,2007
+Some Recent Advances on the Quadrilateral Area Coordinate Method,"S Cen, X Chen, X Fu, Y Long","Computational Mechanics, 380-380",,0,2007
+Studies of 4-node Membrane Element with Analytical Stiffness-Matrix Based on the Quadrilateral Area Coordinates,"Y Du, S Cen","Computational Methods in Engineering & Science, 251-251",,0,2007
+柱体弹塑性自由扭转数值模拟的一种新方法,罗成， 傅向荣， 剧锦三， 岑松,第 15 届全国结构工程学术会议论文集 (第 Ⅰ 册),,0,2006
+模拟含随机分布圆形夹杂的压电复合材料的边界点法,王洪涛， 岑松， 谭国文， 姚振汉,北京力学学会第 12 届学术年会论文摘要集,,0,2006
+四边形面积坐标膜元模拟曲边网格的策略,宋德坡， 岑松， 陈晓明,第 15 届全国结构工程学术会议论文集 (第 Ⅰ 册),,0,2006
+基于面积坐标的四边形 4 结点平面膜元解析刚度矩阵式研究,杜宇， 岑松,第 15 届全国结构工程学术会议论文集 (第 Ⅰ 册),,0,2006
+A New Triangular Displacement-Based Element for the Analysis of Laminated Composite Plates and Improvement Stress Solutions by a Hybrid Procedure,"Z Long, Y Yang, S Cen","JOURNAL-CHINA UNIVERSITY OF MINING AND TECHNOLOGY-CHINESE EDITION- 35 (6), 792",,0,2006
+模拟含随机分布圆形孔洞压电弹性体的边界点法,王洪涛， 岑松， 谭国文， 姚振汉,第 14 届全国结构工程学术会议论文集 (第一册),,0,2005
+空间索单元研究,傅向荣， 龙驭球， 袁明武， 岑松， 蒋秀根， 剧锦三,第 14 届全国结构工程学术会议论文集 (第一册),,0,2005
+模拟含随机分布圆形孔洞的压电弹性体的边界点法,王洪涛， 谭国文， 岑松， 姚振汉,北京力学会第 11 届学术年会论文摘要集,,0,2005
+将三角形薄板元推广为厚板元的解析试函数法,陈晓明， 岑松， 龙志飞， 龙驭球,"清华大学学报: 自然科学版 44 (3), 376-378",,0,2004
+新型广义协调平板壳元厚薄通用性验证及非线性分析,陈永亮， 岑松， 姚振汉， 龙驭球,第十二届全国结构工程学术会议论文集第 Ⅰ 册,,0,2003
+新型四边形广义协调层合板单元,岑松， 龙驭球,"工程力学, 355-363",,0,2001
+An improved twenty DOF quadrilateral element for the analysis of laminated composite plates,"AK Soh, S Cen, YQ Long","Proceedings of the 3rd Canadian International Composites Conference, 379-386",,0,2001
+"Quadrilateral Area Coordinate Systems, Part Ċ—New Tools for Constructing Quadrilateral Elements","S Cen, ZF Long",,,0,0
+Numerical Methods in Engineering,"JW Feng, S Cen, CF Li, DRJ Owen, L Graham-Brady, J Jagalur-Mohan",,,0,0
+Generalized Conforming Thin Plate Element Ċ—Line-Point and SemiLoof Conforming Schemes,"ZF Long, S Cen",,,0,0
+Developments of Mindlin-Reissner Plate Elements: A Review,"S Cen, Y Shang",,,0,0
+The Evaluation of Singular Integrals in MLS-Based and RBF-Based Boundary-Only Meshless Methods,"H Wang, J Zhang, S Cen, Z Yao",,,0,0
+Quadrilateral axisymmetric 4-node hybrid-stress elements using the Quadrilateral Area Coordinate Method (QACM),"N Guan¹, S Cen",,,0,0
+364. NUMERICAL SIMULATION FOR PIEZOELECTRIC INHOMOGENEITIES EMBEDDED IN A NON-PIEZOELECTRIC MATRIX USING BNM,"S Cen, S Cen",,,0,0
