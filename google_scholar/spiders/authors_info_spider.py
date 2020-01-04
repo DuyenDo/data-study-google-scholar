@@ -99,9 +99,12 @@ class GSSpider(scrapy.Spider):
         
         # Output
         csv_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.csv".format(self.author_file.split(".")[0])])
-        write_csv([info], csv_path)
-        pkl_path = get_path([self.ROOT_DIR, "data", "info", "info-{}.pkl".format(self.author_file.split(".")[0])])
-        write_pickle([info], pkl_path)
+        with open(csv_path, "a") as f:
+            f.write("\n%s, %d, %d, %d, %d, %d, %d, %s, %s, %s, %s" % \
+                    (user_id,citations_all,citations_s2014,\
+                    hindex_all,hindex_s2014,i10index_all,i10index_s2014, \
+                    coauthor_ids, coauthor_names, info_texts_str,info_links_str,))
+            f.close()
 
         monitor_file = get_path([self.ROOT_DIR, "data", "monitors", 'crawled_info_{}'.format(self.author_file)])
         monitor_crawler(monitor_file, user_id)
@@ -120,8 +123,8 @@ class GSSpider(scrapy.Spider):
             coauthor_id_list.append(coauthor_id)
             coauthor_name_list.append(coauthor_name)
         
-        coauthor_ids = ", ".join(coauthor_id_list)
-        coauthor_names = ", ".join(coauthor_name_list)
+        coauthor_ids = " | ".join(coauthor_id_list)
+        coauthor_names = " | ".join(coauthor_name_list)
         return (coauthor_ids, coauthor_names)
 
 
