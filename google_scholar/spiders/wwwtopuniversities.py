@@ -51,7 +51,7 @@ class GSSpider(scrapy.Spider):
 
         try:
             org_id = ''
-            org_ids = response.xpath("//div[@class='gs_ob_inst_r']//a//@href").getall()
+            org_ids = response.xpath("//*[@class='gs_ob_inst_r']//a//@href").getall()
             for i in org_ids:
                 org_id = org_id.join(i.split('org=')[1].split('&')[0].join(' | '))
         except Exception as e:
