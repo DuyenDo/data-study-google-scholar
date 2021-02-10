@@ -1,0 +1,386 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Introduction to algorithms,"TH Cormen, CE Leiserson, RL Rivest",MIT press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18383162872107784007,5632045179387093749,10958816162892426598",53818,1990
+Introduction to algorithms,"TH Cormen, CE Leiserson, RL Rivest, C Stein",MIT press,,53687,2001
+Introduction to VLSI systems,"C Mead, L Conway",Addison-Wesley,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2708287652397157572,16609999034977809175",4507,1980
+Cilk: An efficient multithreaded runtime system,"RD Blumofe, CF Joerg, BC Kuszmaul, CE Leiserson, KH Randall, Y Zhou","Journal of parallel and distributed computing 37 (1), 55-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11566889187479722121,2320,1996
+Scheduling multithreaded computations by work stealing,"RD Blumofe, CE Leiserson","Journal of the ACM (JACM) 46 (5), 720-748",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15051680708331206708,1860,1999
+Fat-trees: universal networks for hardware-efficient supercomputing,CE Leiserson,"IEEE transactions on Computers 100 (10), 892-901",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17257911335720843221,1585,1985
+The implementation of the Cilk-5 multithreaded language,"M Frigo, CE Leiserson, KH Randall","ACM Sigplan Notices 33 (5), 212-223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15519951755278020413,1494,1998
+Systolic arrays (for VLSI),"HT Kung, CE Leiserson","Sparse Matrix Proceedings 1978 1, 256-282",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11625981602965030010,1395,1979
+Cache-oblivious algorithms,"M Frigo, CE Leiserson, H Prokop, S Ramachandran",40th Annual Symposium on Foundations of Computer Science (Cat. No. 99CB37039 …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7772136743399473379,5900020418645809613",1251,1999
+Retiming synchronous circuitry,"CE Leiserson, JB Saxe","Algorithmica 6 (1-6), 5-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18205806881228324669,1216,1991
+Introduction to algorithms,"CE Leiserson, RL Rivest, TH Cormen, C Stein",MIT press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4134770915557761083,1120,2001
+The network architecture of the Connection Machine CM-5,"CE Leiserson, ZS Abuhamdeh, DC Douglas, CR Feynman, MN Ganmukhi, ...","Journal of Parallel and Distributed Computing 33 (2), 145-158","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=483832415330702654,10661061416936733980",751,1996
+Unbounded transactional memory,"CS Ananian, K Asanovic, BC Kuszmaul, CE Leiserson, S Lie","11th International Symposium on High-Performance Computer Architecture, 316-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12893504641366489327,684,2005
+Optimizing synchronous circuitry by retiming (preliminary version),"CE Leiserson, FM Rose, JB Saxe","Third Caltech conference on very large scale integration, 87-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7756057066868011629,678,1983
+Optimizing synchronous systems,"CE Leiserson, JB Saxe","22nd Annual Symposium on Foundations of Computer Science (sfcs 1981), 23-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4751353735108404149,639,1981
+Algorithms for VLSI processor arrays,H Kung,"Introduction to VLSI systems, 271-292",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11075445708757477682,512,1980
+Introduction to algorithms,L Charles,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4131102736580930043,492,2013
+Algoritmos: teoria e prática,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Editora Campus 2, 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7120449023105421384,483,2002
+A comparison of sorting algorithms for the connection machine CM-2,"GE Blelloch, CE Leiserson, BM Maggs, CG Plaxton, SJ Smith, M Zagha","Commun. ACM 39 (12es), 273-297",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8021419746770720200,432,1996
+Area-efficient graph layouts,CE Leiserson,"21st Annual Symposium on Foundations of Computer Science (sfcs 1980), 270-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11446992056346856673,407,1980
+Introduction to algorithms second edition,"TH Cormen, CE Leiserson, RL Rivest, C Stein","The Knuth-Morris-Pratt Algorithm, year","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13585922006259513612,15212569099999879127,10171562531602321311",406,2001
+The Cilk++ concurrency platform,CE Leiserson,"The Journal of Supercomputing 51 (3), 244-257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4086251636111745762,389,2010
+Wafer-scale integration of systolic arrays,"FT Leighton, CE Leiserson","23rd Annual Symposium on Foundations of Computer Science (sfcs 1982), 297-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13963794171925643396,366,1982
+Area-Efficent VLSI Computation,CE Leiserson,"Ph. D. dissertation, Department of Computer Science, Carnegie-Mellon University","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3995310425240140490,7104176432827123653,2819279866270243612",354,1981
+The Pochoir stencil compiler,"Y Tang, RA Chowdhury, BC Kuszmaul, CK Luk, CE Leiserson",Proceedings of the 23rd ACM Symposium on Parallelism in Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8841859152943510723,343,2011
+Parallel sparse matrix-vector and matrix-transpose-vector multiplication using compressed sparse blocks,"A Buluç, JT Fineman, M Frigo, JR Gilbert, CE Leiserson",Proceedings of the twenty-first annual symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11040762343594802863,271,2009
+Introduction à l'algorithmique,T Cormen,Dunod,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14266659495900649139,269,1997
+Space-efficient scheduling of multithreaded computations,"RD Blumofe, CE Leiserson","SIAM Journal on Computing 27 (1), 202-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12822276589353198651,232,1998
+Algorithms for routing and testing routability of planar VLSI layouts,"CE Leiserson, FM Maley",Proceedings of the seventeenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12204698223176157004,230,1985
+Introduction to algorithms,"RL Rivest, CE Leiserson","McGraw-Hill, Inc.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10390901073506043598,225,1990
+Systolic Priority Queues.,CE Leiserson,CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17605551206519842460,206,1979
+Algorithmen-Eine Einführung,"TH Cormen, CE Leiserson, R Rivest, C Stein",Walter de Gruyter GmbH & Co KG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9115782314499064220,196,2017
+A work-efficient parallel breadth-first search algorithm (or how to cope with the nondeterminism of reducers),"CE Leiserson, TB Schardl",Proceedings of the twenty-second annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11233827228148740853,187,2010
+Greedy algorithms,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to algorithms 1, 329-355",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11211764207638544393,184,2001
+Randomized routing on fat-tress,"RI Greenberg, CE Leiserson","26th annual symposium on foundations of computer science (sfcs 1985), 241-249",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8147334291812056161,172,1985
+Reducers and other Cilk++ hyperobjects,"M Frigo, P Halpern, CE Leiserson, S Lewin-Berlin",Proceedings of the twenty-first annual symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6729242228772842088,167,2009
+Introduction to algorithms,"TH Corrnen, CE Leiserson, RL Rivest","McGraw Htll, New York",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8119722223836337658,160,1990
+Integrated water resources management is more a political than a technical challenge,JA Allan,"Developments in water science 50, 9-23","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15361243592679736464,4435857250154896479,7714258404855369663,666489153128847142,2603423395009238491,5333592305950094132",156,2003
+Efficient detection of determinacy races in Cilk programs,"M Feng, CE Leiserson","Theory of Computing Systems 32 (3), 301-326",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1911752504527282202,154,1999
+Detecting data races in Cilk programs that use locks,"GI Cheng, M Feng, CE Leiserson, KH Randall, AF Stark",Proceedings of the tenth annual ACM symposium on Parallel algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2809166842106484936,148,1998
+An analysis of dag-consistent distributed shared-memory algorithms,"RD Blumofe, M Frigo, CF Joerg, CE Leiserson, KH Randall","SPAA 96, 297-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15396505034528915816,136,1996
+Optimal placement for river routing,"CE Leiserson, RY Pinter","SIAM Journal on Computing 12 (3), 447-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1040131073381477620,127,1983
+Dag-consistent distributed shared memory,"RD Blumofe, M Frigo, CF Joerg, CE Leiserson, KH Randall","Proceedings of International Conference on Parallel Processing, 132-141",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8396679917041828990,124,1996
+Adversarial contention resolution for simple channels,"MA Bender, M Farach-Colton, S He, BC Kuszmaul, CE Leiserson",Proceedings of the seventeenth annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5426031041833868773,110,2005
+The Cilkview scalability analyzer,"Y He, CE Leiserson, WM Leiserson",Proceedings of the twenty-second annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=553713112443616223,106,2010
+Parallel computer system including arrangement for transferring messages from a source processor to selected ones of a plurality of destination processors and combining responses,"RC Zak, CE Leiserson, BC Kuzmaul, SW Yang, WD Hillis, DC Douglas, ...","US Patent 5,265,207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9104120405431823238,100,1993
+How to assemble tree machines,"SN Bhatt, CE Leiserson","Proceedings of the fourteenth annual ACM symposium on Theory of computing, 77-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1652368892728419054,99,1982
+Communication-efficient parallel algorithms for distributed random-access machines,"CE Leiserson, BM Maggs","Algorithmica 3 (1-4), 53-77",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12397074697816996480,90,1988
+Systolic array apparatuses for matrix computations,"HT Kung, CE Leiserson","US Patent 4,493,048",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5584568310150945834,89,1985
+Executing task graphs using work-stealing,"K Agrawal, CE Leiserson, J Sukha",2010 IEEE International Symposium on Parallel & Distributed Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17771864315349277464,85,2010
+算法导论::[英文],TH Cormen,高等教育出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8264181880236901074,84,2002
+Adaptive scheduling with parallelism feedback,"K Agrawal, Y He, WJ Hsu, CE Leiserson",Proceedings of the eleventh ACM SIGPLAN symposium on Principles and practice …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7820324946388521208,81,2006
+Rivest,"L Cormen, CE Leiserson andR",Introduction to algorithms 2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17553465040162487298,81,1990
+"Optimizing two-phase, level-clocked circuitry","AT Ishii, CE Leiserson, MC Papaefthymiou",Advanced Research in VLSI and Parallel Systems: Proceedings of the 1992 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10571673367662981964,74,1992
+Orderings for parallel sparse symmetric factorization,"CE Leiserson, JG Lewis",Proceedings of the Third SIAM Conference on Parallel Processing for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=582765125883575530,73,1987
+Standards for graph algorithm primitives,"T Mattson, D Bader, J Berry, A Buluc, J Dongarra, C Faloutsos, J Feo, ...","2013 IEEE High Performance Extreme Computing Conference (HPEC), 1-2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10295870747625762475,68,2013
+Introduction to algorithms,"C Stein, T Cormen, R Rivest, C Leiserson","The MIT Press 31 (77), 13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16230129372396338007,67,2001
+An application of number theory to the organization of raster-graphics memory,"B Chor, CE Leiserson, RL Rivest, JB Shearer","Journal of the ACM (JACM) 33 (1), 86-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12287002939553348052,67,1986
+Adaptive work-stealing with parallelism feedback,"K Agrawal, CE Leiserson, Y He, WJ Hsu","ACM Transactions on Computer Systems (TOCS) 26 (3), 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15047417718296358274,66,2008
+On-the-fly maintenance of series-parallel relationships in fork-join multithreaded programs,"MA Bender, JT Fineman, S Gilbert, CE Leiserson",Proceedings of the sixteenth annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3990466754476223075,64,2004
+Clifford stein,"TH Cormen, CE Leiserson, RL Rivest",Introduction to algorithms,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12293468472384025600,63,2001
+An experimental analysis of parallel sorting algorithms,"GE Blelloch, CE Leiserson, BM Maggs, CG Plaxton, SJ Smith, M Zagha","Theory of Computing Systems 31 (2), 135-167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16373783283176599898,63,1998
+Parallel computer system with physically separate tree networks for data and control messages,"WD Hillis, DC Douglas, CE Leiserson, BC Kuszmaul, MN Ganmukhi, ...","US Patent 5,590,283",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3472374662508162418,62,1996
+Programming with exceptions in JCilk,"JS Danaher, ITA Lee, CE Leiserson","Science of Computer Programming 63 (2), 147-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8445369620617226122,61,2006
+Parallel computer system including request distribution network for distributing processing requests to selected sets of processors in parallel,"CE Leiserson, RC Zak Jr, WD Hillis, BC Kuszmaul, JV Hill","US Patent 5,388,214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6960095766474113871,57,1995
+A mixed-integer linear programming problem which is efficiently solvable,"CE Leiserson, JB Saxe","Journal of Algorithms 9 (1), 114-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10500193286656686873,55,1988
+Adaptive work stealing with parallelism feedback,"K Agrawal, Y He, CE Leiserson",Proceedings of the 12th ACM SIGPLAN symposium on Principles and practice of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16749420645383389172,54,2007
+A Layout for the Shuffle-Exchange Network.,"D Hoey, CE Leiserson",CARNEGIE-MELLON UNIV PITTSBURGH PA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16831342047863572874,52,1980
+Provably efficient online nonclairvoyant adaptive scheduling,"Y He, WJ Hsu, CE Leiserson","IEEE Transactions on Parallel and Distributed Systems 19 (9), 1263-1279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12541355944173529196,50,2008
+Quantitative performance modeling of scientific computations and creating locality in numerical algorithms,SA Toledo,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6858985285546970973,50,1995
+On-the-fly pipeline parallelism,"I Lee, T Angelina, CE Leiserson, TB Schardl, Z Zhang, J Sukha","ACM Transactions on Parallel Computing (TOPC) 2 (3), 17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4888179628437328093,49,2015
+Computing the processor desires of jobs in an adaptively parallel scheduling environment,"CE Leiserson, K Agrawal, WJ Hsu, Y He","US Patent 8,510,741",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8017487255078403132,49,2013
+Method of implementing hyperobjects in a parallel processing software programming environment,"M Frigo, CE Leiserson, ST Lewin-Berlin","US Patent App. 12/247,420",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12254736227089992505,49,2009
+Ordering heuristics for parallel graph coloring,"W Hasenplaugh, T Kaler, TB Schardl, CE Leiserson",Proceedings of the 26th ACM symposium on Parallelism in algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15627390073425351764,48,2014
+"Optimizing two-phase, level-clocked circuitry","AT Ishii, CE Leiserson, MC Papaefthymiou","Journal of the ACM 44 (1), 148-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13707675605116260105,47,1997
+How to survive the multicore software revolution (or at least survive the hype),"CE Leiserson, IB Mirman","Cilk Arts 1, 11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15200535531622735950,46,2008
+Memory models for open-nested transactions,"K Agrawal, CE Leiserson, J Sukha",Proceedings of the 2006 workshop on Memory system performance and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16891577043706718,46,2006
+Introduzione agli algoritmi e strutture dati 3/ed,"TH Cormen, CE Leiserson, RL Rivest, C Stein",McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=256436404730351929,45,2010
+Router for parallel computer including arrangement for redirecting messages,"DC Douglas, CE Leiserson, BC Kuszmaul, SW Yang, WD Hillis, D Wells, ...","US Patent 5,530,809",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15595579131191259753,45,1996
+System and method for performing memory operations in a computing system,"SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...","US Patent 8,321,634",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14461865429571277067,44,2012
+The organization of permutation architectures with bused interconnections,"J Kilian, S Kipnis, CE Leiserson","IEEE Transactions on Computers 39 (11), 1346-1358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7771826172090167657,43,1990
+Parallel computer system including arrangement for quickly draining messages from message router,"BC Kuszmaul, CE Leiserson, SW Yang, CR Feynman, WD Hillis, D Wells, ...","US Patent 5,390,298",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8025195823204364224,42,1995
+Introducere în algoritmi,"TH Cormen, CE Leiserson, RR Rivest, HF Pop, S Motogna, PA Blaga",Computer Libris Agora,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17633415018129539784,41,2004
+Using de Bruijn sequences to index a 1 in a computer word,"CE Leiserson, H Prokop, KH Randall",Available on the Internet from http://supertech. csail. mit. edu/papers …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9082666805778280672,40,1998
+Deterministic parallel random-number generation for dynamic-multithreading platforms,"CE Leiserson, TB Schardl, J Sukha","ACM Sigplan Notices 47 (8), 193-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15920039876586873341,39,2012
+Safe open-nested transactions through ownership,"K Agrawal, I Lee, J Sukha","ACM Sigplan Notices 44 (4), 151-162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1461213917433608277,39,2009
+Parallel computer system,"DC Douglas, MN Ganmukhi, JV Hill, WD Hillis, BC Kuszmaul, ...","US Patent 5,333,268",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11579081849842235892,39,1994
+VLSI theory and parallel supercomputing,CE Leiserson,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17024954798582407322,39,1989
+Stein. C,"TH Cormen, CE Leiserson, RL Rivest","Introduction to algorithms, 552-557",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14524074244192243173,37,2009
+Tapir: Embedding fork-join parallelism into LLVM's intermediate representation,"TB Schardl, WS Moses, CE Leiserson","ACM SIGPLAN Notices 52 (8), 249-265",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17337986550281383469,36,2017
+Introduzione agli algoritmi,"TH Cormen, CE Leiserson, RL Rivest",Jackson libri,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177739318586194640,36,1994
+Using memory mapping to support cactus stacks in work-stealing runtime systems,"ITA Lee, S Boyd-Wickizer, Z Huang, CE Leiserson",2010 19th International Conference on Parallel Architectures and Compilation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14716185175077961727,34,2010
+Provably efficient two-level adaptive scheduling,"Y He, WJ Hsu, CE Leiserson","Workshop on Job Scheduling Strategies for Parallel Processing, 1-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1230449875669840295,34,2006
+Communication-Efficient Parallel Graph Algorithms.,"CE Leiserson, BM Maggs",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1933420577447259329,34,1986
+Systolic and semisystolic design,CE Leiserson,"IEEE Computer Society Press, Silver Spring, MD",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3893326577540042087,34,1983
+Dynamic programming,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms,, 323-370",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=610474784609008370,33,2001
+Digital computer for determining a combined tag value from tag values selectively incremented and decremented reflecting the number of messages transmitted and not received,"BC Kuszmaul, CE Leiserson, SW Yang, CR Feynman, WD Hillis, ...","US Patent 5,680,550",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8193386098253533270,33,1997
+Efficient out-of-core algorithms for linear relaxation using blocking covers,"CE Leiserson, S Rao, S Toledo","Proceedings of 1993 IEEE 34th Annual Foundations of Computer Science, 704-713",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1255141307261228299,33,1993
+The cilkprof scalability profiler,"TB Schardl, BC Kuszmaul, I Lee, WM Leiserson, CE Leiserson",Proceedings of the 27th ACM symposium on Parallelism in Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17758241580546013046,32,2015
+Algorithmique: cours avec 957 exercices et 158 problèmes,"TH Cormen, C Leiserson, R Rivest, C Stein",Dunod,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14545053108698881665,32,2010
+An empirical evaluation of work stealing with parallelism feedback,"K Agrawal, Y He, CE Leiserson",26th IEEE International Conference on Distributed Computing Systems (ICDCS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6289794495304656729,32,2006
+Efficient out-of-core algorithms for linear relaxation using blocking covers,"CE Leiserson, S Rao, S Toledo","Journal of Computer and System Sciences 54 (2), 332-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385966627440681780,32,1997
+Algoritmos,"T Cormen, C Leiserson, R Rivest",Elsevier Brasil,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5777911757804174456,31,2017
+Data structures for disjoint sets,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms, 498-524",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9020027586219490830,31,2001
+Programming parallel applications in Cilk,"C Leiserson, A Plaat","SINEWS: SIAM News 31 (4), 6-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2868373720955992042,31,1998
+Új algoritmusok,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Scolar Kiadó, Budapest",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10480891183083419016,30,2003
+Algoritmusok,"TH Cormen, CE Leiserson, RL Rivest, I Antal, B András",Műszaki Kvk.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15839075361930524376,30,2003
+Charles Leiserson. Ronald Rivest,T Cormen,"Introduction to Algorithms, 485-488","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14480518688373272583,932223578289333908",30,1990
+Using Cilk to write multiprocessor chess programs,"D Dailey, CE Leiserson",The Journal of the International Computer Chess Association,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17005501849175422395,29,2001
+Minimizing the longest edge in a VLSI layout,"SN Bhatt, CE Leiserson","Department of Electrical Engineering and Computer Science, Massachusetts …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7696571989726948023,29,1982
+"A type-checking preprocessor for Cilk 2, a multithreaded C language",RC Miller,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1225825775460375737,27,1995
+A timing analysis of level-clocked circuitry,"AT Ishii, CE Leiserson",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4759584906542488397,26,1992
+The JCilk language for multithreaded computing,"J Danaher, I Lee, C Leiserson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9508684465321993331,25,2005
+A Survey of Algorithms for Integrating Wafer-Scale Systolic Arrays.,"T Leighton, C Leiserson",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3847667965080889639,25,1986
+Highly concurrent systems,"HT Kung, CE Leiserson",Introduction to VLSI Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14227812883197717715,25,1980
+"R. y Stein, C.(2001). Introduction to Algorithms","T Comer, CR Leiserson",Cambridge: McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3027236020721560121,25,0
+A consistency architecture for hierarchical shared caches,"E Ladan-Mozes, CE Leiserson",Proceedings of the twentieth annual symposium on Parallelism in algorithms …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6510800924037148587,23,2008
+Depth-first search,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to algorithms, 540-549",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3289381285134276029,23,2001
+Single-Layer Wire Routing.,FM Maley,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6600701813690027577,23,1987
+Executing dynamic data-graph computations deterministically using chromatic scheduling,"T Kaler, W Hasenplaugh, TB Schardl, CE Leiserson","ACM Transactions on Parallel Computing (TOPC) 3 (1), 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17216331525769257193,22,2016
+Coding stencil computations using the pochoir stencil-specification language,"Y Tang, R Chowdhury, CK Luk, CE Leiserson",Poster session presented at the 3rd USENIX Workshop on Hot Topics in Parallelism,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2522870544311732922,21,2011
+A compact layout for the three-dimensional tree of meshes,"RI Greenberg, CE Leiserson","Applied Mathematics Letters 1 (2), 171-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15291510072860468495,21,1988
+Deriving divide-and-conquer dynamic programming algorithms using solver-aided transformations,"S Itzhaky, R Singh, A Solar-Lezama, K Yessenov, Y Lu, C Leiserson, ...","ACM SIGPLAN Notices 51 (10), 145-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6890448899498111568,20,2016
+Programming irregular parallel applications in Cilk,CE Leiserson,International Symposium on Solving Irregularly Structured Problems in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14665321732093110831,20,1997
+"Cormen, Charles E. Leiserson, and Ronald L. Rivest. Introduction to algorithms",T HOA,"The MIT Press, Cambridge, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13695265296399715341,20,1992
+Helper locks for fork-join parallel programming,"K Agrawal, CE Leiserson, J Sukha","ACM Sigplan Notices 45 (5), 245-256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13354638708242989062,19,2010
+The rabin–karp algorithm,"T Cormen, C Leiserson, R Rivest, C Stein","Introduction to Algorithms 911, 916",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2857930192229518309,19,2001
+Scheduling adaptively parallel jobs,B Song,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15968056393428593320,19,1998
+Introduction to algorithms,P Leiserson,MIT,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8131551812469555356,4451471790821808953",18,2005
+SC Introduction to algorithms,"T Cormen, C Leiserson, R Rivest","The MIT Press,",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2809834161302003481,18,2001
+Autogen: Automatic discovery of cache-oblivious parallel recursive algorithms for solving dynamic programs,"R Chowdhury, P Ganapathi, JJ Tithi, C Bachmeier, BC Kuszmaul, ...","ACM SIGPLAN Notices 51 (8), 10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5925088573694183102,17,2016
+Cache-conscious scheduling of streaming applications,"K Agrawal, JT Fineman, J Krage, CE Leiserson, S Toledo",Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1324801578355147641,17,2012
+Efficient evaluation of large polynomials,"CE Leiserson, L Li, MM Maza, Y Xie","International Congress on Mathematical Software, 342-353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1378441579292025403,17,2010
+Ronald L,"TH Cormen, CE Leiserson",Rives Introduction to Algorithms,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17524177060491427558,17,2001
+The floyd-warshall algorithm,"TH Cormen, CE Leiserson, RL Rivest","Introduction to Algorithms 558 (565), 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=976087454479154026,17,1990
+Introduction to Algorithms. rd ed,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Mit Press,, pp.–,–,–. isbn",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18428203500100814694,16,2009
+The JCilk-1 runtime system,JJS Danaher,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10064178467933780698,16,2005
+Memory-mapped transactions,J Sukha,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5544345821842702921,15,2005
+Leiserson,"TH Cormen, E Charles","CE, RIVEST, RL, STEIN, C, 323-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6257694798133187853,15,2001
+Lifelong learning: Science professors need leadership training,"CE Leiserson, C McVinney","Nature News 523 (7560), 279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12182046663610042990,14,2015
+Memory-mapping support for reducer hyperobjects,"I Lee, T Angelina, A Shafi, CE Leiserson",Proceedings of the twenty-fourth annual ACM symposium on Parallelism in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6270136170386449878,14,2012
+The JCilk multithreaded language,"I Lee, T Angelina",Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11892187526552735238,14,2005
+"R. 1. Rivest, Introduction to","TH Cormen, CE Leiserson",Algorithms,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5809418811255339615,1414558296381410814,7212987601088449821",14,1990
+Elementary graph algorithms,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms, 606",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6056953802825673435,13,2009
+Hash tables,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms, 221-222",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18213262542276262752,13,2001
+High-performance architectures for adaptive filtering based on the Gram-Schmidt algorithm,"KA Gallivan, CE Leiserson","Real-Time Signal Processing VII 495, 30-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14236582047296572797,13,1984
+On the efficiency of localized work stealing,"W Suksompong, CE Leiserson, TB Schardl","Information Processing Letters 116 (2), 100-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4763643903471796623,12,2016
+Cilk,CE Leiserson,"Encyclopedia of Parallel Computing, 273-288",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3917328035849287358,12,2011
+算法导论,"HC THOMAS, EL CHARLES, LR Ronald",北京: 机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18008406770626383340,12,2006
+Nondeterminator-3: A provably good data-race detector that runs in parallel,TC Karunaratna,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11824301492132201258,12,2005
+RL Rivest i C,"TH Cormen, CE Leiserson","Stein, Wprowadzenie do algorytmów, WNT, Warszawa",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3406086009680797693,12,2004
+Dynamic processor allocation for adaptively parallel work-stealing jobs,S Sen,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14674094941093858719,12,2004
+A minicourse on multithreaded programming,"CE Leiserson, H Prokop",Available on the Internet from http://theory. lcs. mit. edu/~ cilk 42,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14145095414440881894,12,1998
+The Monge array--an abstraction and its applications,JK Park,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3511970685297927964,11,1991
+A hyperconcentrator switch for routing bit-serial messages,"TH Cormen, CE Leiserson","Journal of Parallel and Distributed Computing 10 (3), 193-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16130962364891141438,11,1990
+Algoritmos-Teoria e Prática (3a. ediçao),"T Cormen, C Leiserson, R Rivest, C Stein",Editora Campus,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8618832869449999485,10,2012
+Parallel computation of the minimal elements of a poset,"CE Leiserson, M Moreno Maza, L Li, Y Xie",Proceedings of the 4th International Workshop on Parallel and Symbolic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1347793159099989389,10,2010
+Provably good race detection that runs in parallel,JT Fineman,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16705092069363031620,10,2005
+"Introduction to Algorithms (Chapter 26, Flow Networks)","TH Cormen, CE Leiserson, RL Rivest, C Stein","MIT Press, Cambridge, MA, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5908961301643031244,9,2002
+Algorithms for data-race detection in multithreaded programs,G Cheng,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=156101616854623252,9,1998
+Animated Algorithms: A Hypermedia Learning Environment for'Introduction to Algorithms',"PA Gloor, I Lee, S Dynes",MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2012970059439511215,9,1993
+Introduction to algorithm the mit press,"T Cormen, C Leiserson, R Rivest, C Stein","Cambridge, Massachusetts",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15641566286563733442,9,1990
+33.3: Finding the convex hull,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms, 955-956",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17556583950977104975,9,1990
+Desmistificando algoritmos,T Cormen,Elsevier Brasil,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2547753574531393560,8,2017
+Race detectors for Cilk and Cilk++ programs,"JT Fineman, CE Leiserson","Encyclopedia of Parallel Computing, 1706-1719",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2222179781198916070,8,2011
+Εισαγωγή στους αλγορίθµους,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Πανεπιστημιακές Εκδóσεις Κρήτης, 597",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11324566159290044986,8,2006
+Minimum spanning trees,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms,, 561-579",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12635843687148006938,8,2001
+The cilk project,"M Frigo, H Prokop, M Frigo, C Leiserson, H Prokop, S Ramachandran, ...","Algorithms, 8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3095620968699412047,8,1998
+"C., Stein.(2001) VIntroduction to Algorithms","T Cormen, C Leiserson, R Rivest",V MIT Press and McGraw $ Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6058201346674593710,8,0
+"Rivest., RL (1990.)","TH Cormen, CE Leiserson","Introduction to algorithms, 55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557659370399996079,8,0
+Scalable Graph Learning for Anti-Money Laundering: A First Look,"M Weber, J Chen, T Suzumura, A Pareja, T Ma, H Kanezashi, T Kaler, ...",arXiv preprint arXiv:1812.00076,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7106720312323498321,7,2018
+Wprowadzenie do algorytmów,"H Cormen Thomas, E Leiserson Charles, L Rivest Ronald, C Stein",Warszawa: Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3784759854721931474,7,2007
+Work stealing with parallelism feedback,"K Agrawal, Y He, CE Leiserson",Unpublished manuscripts,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=50714618677968854,7,2006
+"Introducere în algoritmi, Ed","T Cormen, C Leiserson, R Rivest","Computer Libris Agora, Cluj-Napoca",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1519918114453445419,7,2000
+Debugging multithreaded programs that incorporate user-level locking,AF Stark,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14595175368262458821,7,1998
+Macro-level scheduling in the Cilk network of workstations environment,PA Lisiecki,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1852070488935048065,7,1996
+Introductiona l’algorithmique,"T Rivest, C Leiserson, R Rivest","Dunod, Paris",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8753123771338118641,7,1994
+Foundations of computer Science,"T Cormen, C Leiserson, R Rivest","MIT Press, Cambridge, Massachusets 3 (4), 5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12378598089418844462,7,1990
+Algorithms for VLSI processor arrays,"CE Leiserson, HT Kung","Introduction to VLSI Systems, 271-292",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15568778613926856242,7,1980
+Sparse matrix proceedings,"HT Kung, CE Leiserson, IS Duff, GW Stewart",Society for Industrial & Applied Mathematics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6646680355643435831,7,1978
+"Science, CMUDoC: Systolic Arrays for (VLSI). CMUCS","H Kung, C Leiserson","Carnegie-Mellon University, Department of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=258284988684453659,7,1978
+The csi framework for compiler-inserted program instrumentation,"TB Schardl, T Denniston, D Doucet, BC Kuszmaul, I Lee, CE Leiserson",Proceedings of the ACM on Measurement and Analysis of Computing Systems 1 (2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15343176338400111736,6,2017
+Upper bounds on number of steals in rooted trees,"CE Leiserson, TB Schardl, W Suksompong","Theory of Computing Systems 58 (2), 223-240",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10334099267239230976,6,2016
+Multithreaded programming in cilk,CE Leiserson,Proc. Supercomputing'07,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2629271345582835065,6,2007
+Algorithms,"T Kormen, C Leiserson, R Rivest","Construction and analysis. Moscow, MTsNMO 960, 16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2390091017055714642,6,2002
+C. stein,"TH Cormen, CE Leiserson, RL Rivest","The MIT Press 6, 5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5973162408776131336,6,2001
+Introduction to algorithms. TH Cormen,"CE Leiserson, RL Rivest, C Stein",The MIT press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10289444686323916377,6,2001
+Cilk,"RD Blumofe, CF Joerg, BC Kuszmaul, CE Leiserson, KH Randall, Y Zhou","ACM SIGPLAN Notices 30 (8), 207-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9925208908628067631,6,1995
+BradleyC,"CE Leiserson, ZS Abuhamdeh, DC Douglas, CR Feynman, MN Ganmukhi, ...","Kuszmaul, Margaret A. St. Pierre, DavidS. Wells, Monica C. Wong, Shaw-Wen …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6172463984136540461,6,1992
+"Introduction to Algorithms,""","TC CLR, C Leiserson, R Rivest",McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6509400721609138439,6,1992
+A media player for use in distance education,"K Huang, CE Leiserson, LFG Sarmenta",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6467950786160391865,5,2004
+The RSA Public-Key Cryptosystem,"TH Cormen, CE Leiserson, RL Rivest, C Stein",Introduction to Algorithms 2,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17217697582077759998,5,2001
+Chapter 28: Matrix Operations,"T Cormen, C Leiserson, R Rivest, C Stein","Introduction to Algorithms, Second Edition. MIT Press, McGraw-Hill Book Company",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7140580333915586335,5,2001
+Introduction to algorithms,VJ Rayward-Smith,"Journal of the Operational Research Society 42 (9), 816-817",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15757697513763136708,5,1991
+Message merging device,"TH Cormen, CE Leiserson","US Patent 4,922,246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14440325596167539485,5,1990
+Optimizing synchronous systems,"JB Saxe, CE Leiserson",J. VLSI and Computer systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2177180786554665418,5,1983
+"In C. Mead and L. Conway: Introduction to VLSI systems, chapter 8.3","HT Kung, CE Leiserson, CE Leiserson","Addison-Wesley, Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16862996828210482487,5,1980
+Introduction to Algorithms. 2001,"HC Thomas, EL Charles, LR Ronald, S Clifford",McGraw-Hill Higher Education,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15630929124191883163,5,0
+Algorithmes: notions de base,"TH Cormen, H Soulard",Dunod,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3019971864408892767,4,2013
+"Introduction to algorithms, 3rd McGraw-Hill Higher education","T Cormen, C Stein, R Rivest, C Leiserson",New York,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4682529609652564151,4,2009
+Provably efficient adaptive scheduling for parallel jobs,"Y He, WJ Hsu, CE Leiserson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=795741390047982064,4,2007
+External-memory search trees with fast insertions,JJO Nelson,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1428016103312110721,4,2006
+Longest common subsequence,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Introduction to Algorithms. Boston: MIT Press and McGraw Hill, 350-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3130391150235095187,4,2003
+"Rivest, and Clifford Stein","H Thomas, CE Cormen, RL Leiserson",Introduction to Algorithms,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2270937717865794923,4,2001
+Introduction to Algorithms. 2 MIT Press,"TH Cormen, CE Leiserson, RL Rivest, C Stein",Cambridge,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1196377059629620806,11393378623720330198",4,2001
+"浅野哲夫, 梅尾博司, 和田幸一, 岩野和生, 山下雅史 (訳), アルゴリズムイントロダクション第 2 巻アルゴリズムの設計と解析手法","TH Cormen, RL Rivest, CE Leiserson",近代科学社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11212365137254870556,4,1995
+Theory of Parallel and VLSI Computation: Lecture Notes,"T Leighton, CE Leiserson",Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2282959738482774192,4,1988
+Fat Trees,CE Leiserson,"Universal Networks for Hardware-Efficient Supercomputing”, IEEE Trans. on …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1324720044607671547,4,1985
+Digital circuit optimization,"CE Leiserson, FM Rose, JB Saxe","Department of Electrical Engineering and Computer Science, Massachusetts …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335337494325429220,4,1982
+"Introduction to Algorithms, C. 1990",T Cormen,"The MIT Press, Cambridge, Massachusetts",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15058255315960789284,4,0
+A simple deterministic algorithm for guaranteeing the forward progress of transactions,CE Leiserson,"Information Systems 57, 69-74",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10292676234761173476,3,2016
+Linear programming,B Morén,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9012716548874098826,3,2009
+Book: Introduction to Algorithms,"T Cormen, C Leiserson, R Rivest, C Stein",MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12782052681316363695,3,2009
+Building blocks and excluded sums,"ED Demaine, ML Demaine, A Edelman, CE Leiserson, PO Persson","SIAM News 38 (1), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6184883717600743602,3,2005
+Cache-oblivious algorithms,CE Leiserson,"Italian Conference on Algorithms and Complexity, 5-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1356908131982181182,3,2003
+Data-race detection in transactions-everywhere parallel programming,K Huang,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17186216283812430263,3,2003
+Heterogeneous multithreaded computing,HJ Lu,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10152818056372531423,3,1995
+The networks of the connection machine CM-5,CE Leiserson,"Heinz Nixdorf Symposium at the University of Paderborn, 66-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18130493143441774907,3,1992
+Theory of parallel and vlsi computation: Lecture notes for 18.435/6.848,"T Leighton, CE Leiserson, M Klugerman",Massachusetts Institute of Technology. Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3653773963786704932,3,1991
+Design and Analysis of Algorithms,AIT Core,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16441096894687817299,3,1990
+Minimizing Wire Delay in VLSI Layouts,"SN Bhatt, CE Leiserson",MIT VLSI memo 82-86,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7255881544778081671,3,1982
+"Chapter 8.3 in Introduction to VLSI systems, Mead and Conway","HT Kung, CE Leiserson",Addison-Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11394176764044777801,3,1980
+"R. L, 2001, Introduction to Algorithm","TH Cormen, CER Leiserson","The MIT Press, Massachusetts",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5420521556564562570,3,0
+Anti-money laundering in bitcoin: Experimenting with graph convolutional networks for financial forensics,"M Weber, G Domeniconi, J Chen, DKI Weidele, C Bellei, T Robinson, ...",arXiv preprint arXiv:1908.02591,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5975645869162397346,2,2019
+Brief Announcement: Open Cilk.,"TB Schardl, ITA Lee, CE Leiserson","SPAA, 351-353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16282686640088771272,2,2018
+Autogen: Automatic discovery of efficient recursive divide-8-conquer algorithms for solving dynamic programming problems,"R Chowdhury, P Ganapathi, S Tschudi, JJ Tithi, C Bachmeier, ...","ACM Transactions on Parallel Computing (TOPC) 4 (1), 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5158452556943077807,2,2017
+Autotuning divide‐and‐conquer stencil computations,"E Palamadai Natarajan, M Mehri Dehnavi, C Leiserson","Concurrency and Computation: Practice and Experience 29 (17), e4127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=721709892673851483,2,2017
+Design and analysis of a nondeterministic parallel breadth-first search algorithm,TB Schardl,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=836997313489676278,2,2010
+Agile Software Development: The Cooperative,"A Cockburn, T Cormen, C Leiserson, R Rivest, C Stein, T Connolly, ...",Game,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13750593391041479965,2,2006
+A minicourse on dynamic multithreaded algorithms,CE Leiserson,"MIT Press, Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=173469152036438907,2,2005
+Adversarial analyses of window backoff strategies,"MA Bender, M Farach-Colton, S He, BC Kuszmaul, CE Leiserson","18th International Parallel and Distributed Processing Symposium, 2004 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9098844412737736023,2,2004
+Transactions everywhere,"BC Kuszmaul, CE Leiserson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15822648614970455087,2,2003
+Virtual networks--implementation and analysis,KH Randall,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2192863467652524925,2,1994
+Carl R,"CE Leiserson, ZS Abuhamdeh, DC Douglas","Feynman, Mahesh N. Ganmukhi, Jeffrey V. Hill, W. Daniel Hillis, Bradley C …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13141859184915790557,2,1992
+An algorithm for the tramp steamer problem based on mean-weight cycles,"AT Ishii, CE Leiserson, MC Papaefthymiou","Laboratory for Computer Science, Massachusetts Institute of Technology",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18031498773134329907,2,1991
+"Advanced research in VLSI: proceedings of the fourth MIT Conference, April 7-9, 1986",CE Leiserson,Mit Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=952196721562314562,2,1986
+Spacee cient scheduling of multithreaded computations,"RD Blumofe, CE Leiserson",Proceedings of the Twenty Fifth Annual ACM Symposium on Theory of Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=730536974791652716,2,0
+The resurgence of software performance engineering,CE Leiserson,Proceedings of the 30th on Symposium on Parallelism in Algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14210972257987884572,1,2018
+Instructor’s Manual,"LH Coeman, J Bohn",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14556973086119836680,1,2016
+System and Method for Performing Memory Operations In A Computing System,"SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...","US Patent App. 13/683,367",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14776773735295207819,1,2013
+Thread-Local Storage in X-Parallel Computations,"P Halpern, CE Leiserson",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5082631391455673414,1,2013
+System and method for performing memory operations in a computing system,"SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...","US Patent 7,925,839",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11833317710011995598,1,2011
+Planet-in-a-Bottle: A Numerical Fluid-Laboratory System,"C Hill, BC Kuszmaul, CE Leiserson, J Marshall","International Conference on Computational Science, 1163-1170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1377789157632760719,1,2007
+Universidade Católica de Goiás,LRP TORRES,Goiânia,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16065862072482444725,1,2007
+Efficiency of Parallel Processing with JCilk,"Q Smith, CE Leiserson",under the direction of Professor Charles E. Leiserson Massachusetts …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9989033163227782287,1,2005
+Advanced Algorithms-CS 6/76101,"TH Cormen, C Leiserson, R Rivest, C Stein",The MIT Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14262238162432926139,1,2001
+IEEE Computer Society awards,GC Bowker,"IEEE Annals of the History of Computing 20 (2), 79-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2679607987080143181,1,1998
+Parallel algorithms for the circuit value update problem,"CE Leiserson, KH Randall",Proceedings of the seventh annual ACM symposium on Parallel algorithms and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12412149685021472025,1,1995
+Cilk: an efficient multithreaded runtime system,"C Joerg, R Blumofe, BC Kuszmaul, CE Leiserson, KH Randall, Y Zhou",Proc. Fifth ACM SIGPLAN Symposium on Principles and Practice of Parallel …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13918054796634314041,1,1995
+Organization of systems with bussed interconnections,S Kipnis,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13450376850760945249,1,1992
+Local convergence of the multi-secant method for the parallel solution of systems of nonlinear equations,"TF Coleman, G Li","Applied Mathematics Letters 1 (2), 141-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=513342151203661672,1,1988
+Minimizing the longest edge in a VLSI Layout,"SN Bhatt, CE Leiserson",MIT,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7505598682726614369,1,1983
+Tapir: Embedding Recursive Fork-join Parallelism into LLVM’s Intermediate Representation,"TB Schardl, WS Moses, CE Leiserson","ACM Transactions on Parallel Computing (TOPC) 6 (4), 19",,0,2019
+The CSI Framework for Compiler-Inserted Program Instrumentation,"TB Schardl, T Denniston, D Doucet, BC Kuszmaul, I Lee, CE Leiserson","ACM SIGMETRICS Performance Evaluation Review 46 (1), 100-102",,0,2019
+Strategies for Dynamic Load Balancing on Highly Parallel Computers,"P Czarnul, P Czarnul, P Czarnul, H Meuer, E Strohmaier, J Dongarra, ...","Parallel Programming for Modern High Performance Computing Systems 1 (2), 1-9",,0,2018
+Programming Models for Parallel Computing,"W Gropp, R Thakur, PH Hargrove, JA Kuehn, S Poole, K Yelick, Y Zheng, ...",MIT Press,,0,2015
+Educate engineering and science faculty in leadership skills,"CE Leiserson, C McVinney",Nature Publishing Group,,0,2015
+Pochoir: A Compiler for Stencil Computations,"Y Tang, R Chowdhury, BC Kuszmaul, CK Luk, CE Leiserson",,,0,2014
+Composable abstractions for synchronization in dynamic threading platforms,J Sukha,Massachusetts Institute of Technology,,0,2011
+"Introduction to Algorithms, 2nd (or 3rd) Edition","TH Cormen, CE Leiserson, RL Rivest, C Stein",MIT Press,,0,2011
+Efficient Evaluation of Large Polynomials,L Li,"School of Graduate and Postdoctoral Studies, University of Western Ontario",,0,2010
+"6.172 Performance Engineering of Software Systems, Fall 2010","S Amarasinghe, C Leiserson",,,0,2010
+Constant propagation with conditional branches,"O Agesen, D Detlefs, JE Moss, AV Aho, JE Hopcroft, JD Ullman, AV Aho, ...","Data Flow Analysis: Theory and Practice 5 (7), 1-20",,0,2009
+"6.172 Performance Engineering of Software Systems, Fall 2009","C Leiserson, S Amarasinghe",,,0,2009
+Algorithms incorporating concurrency and caching,JT Fineman,Massachusetts Institute of Technology,,0,2009
+Scheduling and synchronization for multicore concurrency platforms,K Agrawal,Massachusetts Institute of Technology,,0,2009
+System and method for performing memory operations in a computing system,"SC Miller, MM Deneroff, CF Schimmel, L Rudolph, CE Leiserson, ...","US Patent 7,398,359",,0,2008
+Technology for facilitating and analyzing interviews in large groups,JY Zhou,Massachusetts Institute of Technology,,0,2008
+Ф Ь м Ф ийж ЙХйаи б Ша н ж,CE Leiserson,Massachusetts Institute of Technology,,0,2005
+Adversarial contention resolution for simple channels,"M Farach-Colton, S He, BC Kuszmaul, CE Leiserson",,,0,2005
+Boosting SMT trace processors performance with data cache misssensitive thread scheduling mechanism.,"X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...","Information Technology Journal 9 (1), pp: 316-327",,0,2005
+Brief announcement: Transactional memory and the birthday paradox.,"X Wang, Z Ji, C Fu, M Hu, CS Ananian, K Asanovic, BC Kuszmaul, ...","Information Technology Journal 8 (7), pp: 316-327",,0,2005
+"6.042 J/18.062 J Mathematics for Computer Science, Spring 2005","C Leiserson, E Lehman, S Devadas, AR Meyer",,,0,2005
+Cache-Oblivious and Cache-Aware Algorithms,"A Lars, MA Bender, E Demaine, C Leiserson, K Mehlhorn",Cache-Oblivious and Cache-Aware Algorithms (Dagstuhl Seminar 04301),,0,2005
+A Simple Algorithm for I/O-efficiently Pruning Dense Spanners,"J Gudmundsson, J Vahrenhold",Dagstuhl Seminar Proceedings,,0,2005
+04301 Abstracts Collection--Cache-Oblivious and Cache-Aware Algorithms,"L Arge, MA Bender, E Demaine, C Leiserson, K Mehlhorn",Dagstuhl Seminar Proceedings,,0,2005
+LecTix: a lecture-multimedia player,TD Olsen,Massachusetts Institute of Technology,,0,2005
+Design and Analysis of Dynamic Multithreaded Algorithms,CE Leiserson,"Scandinavian Workshop on Algorithm Theory, 1-2",,0,2004
+Adversarial Analyses of Window Backoff Strategies for Simple Multiple-Access Channels,"MA Bender, M Farach-Colton, S He, BC Kuszmaul, CE Leiserson",,,0,2004
+Hardware Transactional Memory,"S Lie, K Asanovic, BC Kuszmaul, CE Leiserson",,,0,2004
+"6.046 J Introduction to Algorithms (SMA 5503), Fall 2004","CE Leiserson, P Indyk",,,0,2004
+A Implementation of the Karp-Zhang Parallel Branch-and-Bound Algorithm,"T Liu, CE Leiserson",,,0,2003
+Giáo trình thuật toán,"HC Thomas, EL Charles",Thống kê,,0,2001
+"6.046 J/18.410 J Introduction to Algorithms, Fall 2001","ED Demaine, CE Leiserson, WS Lee",,,0,2001
+Principles of CMOS VLSI Design.,"P Vijayakumar, M Shanthanalakshmi, K Gunavathi, E Amirante, ...","Information Technology Journal 6 (3), pp: 1-10",,0,2001
+Hierarchal path views: A model based on fragmentation and transportation road types.,"S Idwan, W Etaiwi, EPF Chan, N Zhang, H Deitel, P Deitel, TH Cormen, ...","Journal of Applied Sciences 11 (12), pp: 160-166",,0,2001
+Algorithms in Java,"TH Cormen, CE Leiserson, RL Rivest, C Stein",MIT Press,,0,2001
+A new competitive analysis of randomized caching,"C Law, CE Leiserson","International Symposium on Algorithms and Computation, 35-46",,0,2000
+Journal of Computer and System Sciences Volume 60 Issue 3,"FC Graham, EK Blum, A Meyer, RE Miller, M Rabin, H Rogers Jr, D Scott, ...","Academic Press, Inc. 60 (3)",,0,2000
+C programming and Data Structures Overview,"TH Cormen, CE Leiserson, RL Rivest, H Choo",,,0,2000
+Design and Analysis of Algorithms for Shared-Memory Multiprocessors,CE Leiserson,"Workshop on Algorithms and Data Structures, 55-55",,0,1999
+Human-board system model (II): Initial value and constraint conditions about human-board equation.,"Z Liu, N Badler, CB Phillips, BL Webber, C Bregler, J Malik, TH Cormen, ...","Information Technology Journal 13 (16), pp: 8-15",,0,1999
+A M inicourse on,"CE Leiserson, H Prokop",,,0,1998
+Using de Bruijn Sequences to Index,"CE Leiserson, H Prokop, KH Randall",,,0,1998
+Extending multicore architectures to exploit hybrid parallelism in single-thread applications.,"X Li, J Zhang, H Akkary, MA Driscoll, CS Ananian, K Asanovic, ...","Information Technology Journal 12 (9), pp: 226-236",,0,1998
+Portable fault-tolerant file I/O,IB Lyubashevskiy,Massachusetts Institute of Technology,,0,1998
+Algorithmic analysis of multithreaded algorithms,CE Leiserson,"International Symposium on Algorithms and Computation, 132-132",,0,1997
+Table of primitive binary polynomials. II,"AJ Menezes, PC van Oorschot, SA Vanstone, AJ Menezes, ...","Handbook of Applied Cryptography 35 (10), 1-48",,0,1997
+"1994 ACM Symposium on Parallel Algorithms and Architectures-June 27-29, 1994-Foreword","GE Blelloch, CE Leiserson, CG Plaxton","JOURNAL OF COMPUTER AND SYSTEM SCIENCES 53 (3), 315-315",,0,1996
+Can Multithreaded Programming Save Massively Parallel Computing?,CE Leiserson,"ipps, 2-3",,0,1996
+"The Network Architecture of the Connection Machine CM-G Charles E. Leiserson, Zahi S. Abuhamdeh, David C. Douglas, Carl R. Feynman, Mahesh N. Ganmukhi, Jeffrey V. Hill, W …",CE Leiserson,,,0,1996
+"Abrams, Marc, 131 Abuhamdeh, Zahi S., 145 B Banerjee, S., 165","J Barklund, JC Bermond, SN Bhatt, MY Chan, PY Chang, YI Chang, ...","Journal of Parallel and Distributed Computing 33, 214",,0,1996
+CilkTM 1.2 (Version 1) Reference Manual,"RD Blumofe, M Frigo, M Halbherr, CF Joerg, BC Kuszmaul, CE Leiserson, ...",,,0,1995
+Proceedings of the 1992 MIT Student Workshop on VLSI and Parallel Systems,CE Leiserson,Massachusetts Institute of Technology,,0,1992
+Proceedings of the MIT Student Workshop on VLSI and Parallel Systems,CE Leiserson,NASA STI/Recon Technical Report N 93,,0,1992
+"Proceedings of the MIT Student Workshop on VLSI and Parallel Systems Held in Dedham, Massachusetts on 21 July 1992",CE Leiserson,MASSACHUSETTS INST OF TECH CAMBRIDGE DEPT OF CIVIL ENGINEERING,,0,1992
+"Optimizing Two-Phase, Level-Clocked Circuitry","CE Leiserson, MC Papaefthymiou",Advanced research in VLSI and parallel systems: proceedings of the 1992 …,,0,1992
+"Theory of Parallel and VLSI Computation: Lecture Notes for 18.435 J/6.848 J, Fall 1992; Lecturer: Tom Leighton, TA: Atul Shrivastava",T Leighton,Massachusetts Institute of Technology,,0,1992
+A very fast substring search algorithm.,"A Sleit, AV Aho, R Baeza-Yates, GH Gonnet, RS Boyer, JS Moore, ...","Journal of Applied Sciences 7 (18), pp: 255-300-pp: 255-300",,0,1990
+"Critical problems in very large scale computer systems(Semiannual Technical Report, 1 Oct. 1989- 31)(Mar. 1990)","A AGARWAL, W DALLY, S DEVADAS, T KNIGHT, JR S F, FT LEIGHTON, ...",,,0,1990
+VLSI (Very Large Scale Integration) theory and parallel supercomputing. Technical report,CE Leiserson,"Massachusetts Inst. of Tech., Cambridge, MA (USA). Lab. for Computer Science",,0,1989
+"Critical problems in very large scale computer systems(Semiannual Technical Report, 1 Apr.- 30 Sep. 1989)","A AGARWAL, W DALLY, S DEVADAS, T KNIGHT, JR S F, F LEIGHTON, ...",,,0,1989
+18.435/6.848 Theory of Parallel and VLSI Computation: Lecture Notes,"FT Leighton, CE Leiserson, E Schwabe","Laboratory for Computer Science, Massachusetts Institute of Technology",,0,1989
+Critical Problems in Very Large Scale Computer Systems,"P Penfield Jr, A Agarwal, WJ Dally, LA Glasser, TF Knight Jr, FT Leighton, ...",MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER,,0,1988
+Theory of Parallel and VLSI Computation: Lecture Notes [for] 18.435/6.848 Fall 1987,"T Leighton, CE Leiserson","Laboratory for Computer Science, Massachusetts Institute of Technology",,0,1988
+Erratum to a Compact Layout for the Three-Dimensional Tree of Meshes,"RI Greenberg, CE Leiserson",Applied Mathematics Letters 1 (3),,0,1988
+CS702: Advanced Algorithms Analysis & Design,"TH Cormen, CE Leiserson, RL Rivest, C Stein, MJ Hanson, DJ McNamee","Journal ofthe Association for Computing Machinery 34 (3), 596-615",,0,1987
+A Space-Efficient Algorithm for Finding the Connected Components of Rectangles in the Plane.,"CE Leiserson, CA Phillips",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,1987
+Communication-efficient parallel graph algorithms. Technical report,"CE Leiserson, BM Maggs","Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Computer Science",,0,1986
+Recent results in VLSI CAD at MIT,"RE Zippel, P Penfield Jr, LA Glasser, CE Leiserson, JL Wyatt Jr, ...","Proceedings of 1986 ACM Fall joint computer conference, 871-877",,0,1986
+A Coherent VLSI Design Environment.,"P Penfield Jr, WJ Dally, LA Glasser, TF Knight Jr, CE Leiserson",MASSACHUSETTS INST OF TECH CAMBRIDGE MICROSYSTEMS RESEARCH CENTER,,0,1986
+Randomized routing on fat trees. Interim research report,"RI Greenberg, CE Leiserson","Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Computer Science",,0,1986
+"Advanced Research in VLSI: Proceedings, 4th MIT Conference, April 7-9, 1986",CE Leiserson,MIT,,0,1986
+A survey of algorithms for integrating wafer-scale systolic arrays(Interim Research Report),"T LEIGHTON, C LEISERSON",,,0,1986
+"Advanced research in VLSI; Proceedings of the Fourth MIT Conference, Cambridge, MA, Apr. 7-9, 1986",CE Leiserson,NASA STI/Recon Technical Report A 87,,0,1986
+Retiming synchronous circuitry(Interim Research Report),"CE LEISERSON, JB SAXE",,,0,1986
+"Coherent VLSI (Very Large Scale Integration) design environment. Semiannual technical report, April 1-September 30, 1985","LA Glasser, TF Knight, CE Leiserson, RL Rivest","Massachusetts Inst. of Tech., Cambridge (USA). Dept. of Electrical …",,0,1985
+A mixed-integer linear programming problem which is efficiently solvable(Interim Research Report),"CE LEISERSON, JB SAXE",,,0,1985
+An application of number theory to the organization of raster-graphics memory[Interim Research Report],"B CHOR, CE LEISERSON, R RIVEST, J SHEARER",,,0,1984
+How to assemble tree machines[Interim Research Report],"SN BHATT, CE LEISERSON",,,0,1984
+A Mixed-Integer Linear Programming Problem Which Is Efficiently Solvable,CELJB SAXE,"Proceedings, 204",,0,1983
+"Habermann, A. N.","I Hajj, W Haken, SL Hakimi, C Halatsis, J Hamilton, N Harris, M Harrison, ...",IEEE Transactions on Computers 31 (1),,0,1982
+Area-efficient graph layouts(for VLSI)[Interim Report],CE LEISERSON,,,0,1980
+Systolic priority queues[Interim Report],CE LEISERSON,,,0,1979
+Pascal and Francis Bibliographic Databases,"GE BLELLOCH, CE LEISERSON, CG PLAXTON",,,0,0
+FACULDADE DE COMPUTAÇÃO E INFORMÁTICA MESTRADO PROFISSIONAL EM COMPUTAÇÃO APLICADA Disciplina: ALGORITMOS E PROGRAMAÇÃO OBRIGATÓRIA,"TH CORMEN, CE LEISERSON, LR RIVEST",,,0,0
+List of papers,"K Wu, D Lee, A Sim, J Choi, J Wang, E Papenhausen, B Wang, S Ha, ...",,,0,0
+Problem Set 6 Solutions,"PCE Leiserson, DM Handout",,,0,0
+Problem Set 2,"PED Demaine, CEL Handout","exchange 672, 6IADC",,0,0
+Adaptive Scheduling with Adaptive Scheduling with Parallelism Feedback,"K Agrawal, CE Leiserson",,,0,0
+DER TECHNISCHEN UNIVERSITAT MUNCHEN,"A Asteroth, C Baier, M Broy, TH Cormen, CE Leiserson, RL Rivest, ...",,,0,0
+DIPARTIMENTO DI INFORMATICA,"M COMINI, F DAMIANI, S Vrech",,,0,0
+Assignment can be used to improve you grade▶ If you obtain a bonus your grade will improve according to the following function,"AV Aho, JE Hopcroft, JD Ullman, TH Cormen, CE Leiserson, RL Rivest, ...",,,0,0
+Electrical Engineering and Computer Science (6)-Research and Teaching Output of the MIT Community,"P Ho, S Dey, D Šćepanović, A Patel",,,0,0
+Mathematics (18)-Archived Research and Teaching Output of the MIT Community,"C Mei, R Rosales, T Akylas, A Sutherland, G Strang, PS Koev",,,0,0
+Medical Informatics–Bachelor,T Course,Module descriptors for English taught modules at Brandenburg University of …,,0,0
+CSE 2010 Algorithms and Data Structures (4 credits) Primary instructor: Ronalda Menezes Textbooks and references,"TH Carmen, CE Leiserson, RL Rivest, C Stein",,,0,0
+Course information—CS 4820,"T Cormen, C Leiserson, R Rivest",,,0,0
+Research Abstracts-2006,"DJ Abadi, DJ DeWitt, S Harizopoulos, SR Madden, DS Myers, ...",,,0,0
+Texts and Monographs in Computer Science,"FL Bauer, SD Brookes, CE Leiserson, FB Schneider",,,0,0
+"The papers in this volume were presented at the 27th Annual Symposium on Foundations of Computer Science, held October 27-29, 1986, in Toronto, Ontario, Canada. The symposium …","A Aggarwal, J Hopcroft, R Kannan, CE Leiserson, N Lynch, J Seiferas, ...",,,0,0
+SUBJECT: COMPUTATIONAL AND ALGORITHMIC METHODS IN E-BUSINESS NUMBER OF CREDIT POINTS: 6 SEMESTER: I COURSE TYPE: in-depth,"TH CORMEN, CH LEISERSON, R RIVEST",DEPARTAMENT OF COMPUTERS AND INFORMATION TECHNOLOGY MASTER: INFORMATION …,,0,0
+"Dept., Number CSci 533 Course Title Analysis of Algorithms Semester hours 3 Course Coordinator Stephen V. Rice, Assistant Professor","TH Cormen, CE Leiserson, RL Rivest, C Stein",,,0,0
+User Manual for the Pochoir Stencil Compiler,"CE Leiserson, Y Tang",,,0,0
+Informatik der Systeme,"G Saake, KU Sattler, TH Cormen, CE Leiserson, RL Rivest, C Stein",Modulhandbuch des Fachbereichs 4: Informatik,,0,0
+Data Management in an Connected World,"H Balakrishnan, J Guttag, F Kaashoek, BC Kuszmaul, CE Leiserson, ...",,,0,0
+"BEN-DAVID, S. 615 See Alon, N.","W BIBEL, S BISTARELLI, M BLUM, A BORODIN, RI BRAFMAN, ...",,,0,0
+CENTRO DE CIÊNCIAS TECNOLÓGICAS-CCT,"TH CORMEN, CE LEISERSON, RL RIVEST, C STEIN, A TENENBAUM, ...",,,0,0
+"Instructor: Ashok Thakorbhai Amin Class Room: LT1; Class Times: Mon, Thu-8: 30am; Tue, 9: 30am Office: Faculty Block 1, Room No. 1112 Tel. No.: 30 510 632; email: ashok amin …","TH Cormen, CE Leiserson, RL Rivest, C Stein",,,0,0
+CALENDARIO DELLE PRESENTAZIONI PER LABORATORIO DI LINGUAGGI,"TH Cormen, CE Leiserson, RL Rivest, C Stein–Cap, A di Boyer-Moore, ...",,,0,0
+"Instructor: Ashok Thakorbhai Amin Class Room: LT1; Class Times: Tue-12: 00noon; Wed, Fri-11: 00 am Office: Faculty Block 1, Room No. 1112 Tel. No.: 30 510 632; email: ashok …","TH Cormen, CE Leiserson, RL Rivest, C Stein",,,0,0
+Effiziente Algorithmen,"M Hofmann, J Johannsen, TH Cormen, CE Leiserson, RL Rivest",,,0,0
+"Instructor: AT Amin Office: Faculty Block 1, Room No. 1112 Tel. No.: 3051 0632; email: ashok amin@ da-iict. org Ofc Hours: Mon Through Thursday, 4-5 pm, or by Appointment.","TH Cormen, CE Leiserson, RL Rivest, C Stein",,,0,0
+8.1 Curs Metode de predare Observaţii,"AV Aho, JE Hopcroft, JD Ullman, TH Cormen, C Leiserson, R Rivest",,,0,0
+Executing Dynamic Task Graphs Using Work-Stealing,"K Agrawal, CE Leiserson, J Sukha",,,0,0
+Parallel algorithms,CE Leiserson,Journal of the ACM 10 (2),,0,0
+Safe Open-Nested Transactions,"BC Kuszmaul, CE Leiserson, J Sukha",,,0,0
+Dynamic Processor Allocation for Adaptively Parallel Jobs,"K Agrawal, YX He, CE Leiserson",,,0,0
+Modul: Algorithmen und Datenstrukturen Allg,"D Nazareth, A für Graphen, TH Cormen, CE Leiserson, RL Rivest",Bachelor Studiengang Informatik (B. Sc.) Hochschule Landshut,,0,0
+Cilk: A Multithreaded Programming Environment,"M Frigo, CE Leiserson, B Song",,,0,0
+An Analysis of Dag-Consistent Distributed Shared-Memory Algorithms,"RDBM Frigo, CF Joerg, CE Leiserson, KH Randall",,,0,0
+"93-87 Wkshop on Models, Architectures, & Technologies for","PB Gibbons, RM Karp, CE Leiserson, GM Papadopoulos",,,0,0
+Provably Efficient Adaptive Scheduling For Parallel Jobs,"HE Yuxiong, WJ HSU, CE LEISERSON",,,0,0
+Lab 4: Breadth-First Search,"CE Leiserson, TB Schardl",,,0,0
+Research Abstracts-2007,"K Agrawal, YXH NUS, WJH NTU, CE Leiserson, J Sukha, N Alon, ...",,,0,0
+Geometrische Algorithmen und ihre Visualisierung,"TH Cormen, CE Leiserson, RL Rivest, C Stein","Kommentiertes Vorlesungsverzeichnis, 47",,0,0
+"High-performance architectures for adaptive filtering based on the Gram-Schmidt algorithm Kyle A. Gallivan Government Aerospace Systems Division, Harris Corporation PO Box …",CE Leiserson,,,0,0
+Transactions Everywhere,"MA Bender, BC Kuszmaul, CE Leiserson, T Karunaratna, J Sukha",,,0,0
+DER TECHNISCHEN UNIVERSITAT MUNCHEN,"M Broy, G Goos, JE Hopcroft, JD Ullman, U Schöning, K Erk, L Priese, ...",,,0,0
+"Wkshop on Models, Architectures, & Technologies for Parallel Computation","PB Gibbons, RM Karp, CE Leiserson, GM Papadopoulos",,,0,0
+Lab 3| Active Messages,CE Leiserson,,,0,0
+"f athena, cel, prokop, sridhar g@ supertech. lcs. mit. edu","M Frigo, CE Leiserson",,,0,0
+CS 9201 DESIGN AND ANALYSIS OF ALGORITHMS 3 0 0 3,"TH Cormen, CE Leiserson, RL Rivest, C Stein",,,0,0
+JCilk--A Java-Based Multithreaded Programming Language,"JS Danaher, ITA Lee, CE Leiserson",,,0,0
+Hi gh Performance Computing,CE Leiserson,,,0,0

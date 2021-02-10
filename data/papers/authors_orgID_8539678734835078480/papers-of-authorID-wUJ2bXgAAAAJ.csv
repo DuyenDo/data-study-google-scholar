@@ -1,0 +1,622 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+"Introduction to Automata Theory, Languages, and Computation",L Ullman,Addison Wesley,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17086986431227322387,5812861400869175261,13694564186496104118,8906491110484312201,18327567549722683768,18269367082773957727,3826565321515743538,2393762230369467416",19761,2006
+"Compilers, principles, techniques","AV Aho, R Sethi, JD Ullman","Addison wesley 7 (8), 9","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14589105653825902392,9920662484993599235,16663252334510420843,16513087762916318365,952336408196927694,15175732340649678225",16425,1986
+The design and analysis of computer algorithms,"AV Aho, JE Hopcroft",Pearson Education India,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14711936833273091897,1518038004099832002,5945899533656130359",13628,1974
+Principles of database systems,JD Ullman,Galgotia publications,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6330373797566968697,10957421177574592156,5608707471237087923,17979259305608789707,17525834438290738522,9833006393210420030,12776344707074103347",10624,1984
+Data structures and algorithms,"JE Hopcroft, JD Ullman",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2094287892356843808,17887151124601145867",4383,1983
+"The theory of parsing, translation, and compiling","AV Aho, JD Ullman","Prentice-Hall 1, 368-399",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9770809689129204648,3519,1972
+Dynamic itemset counting and implication rules for market basket data,"S Brin, R Motwani, JD Ullman, S Tsur","Acm Sigmod Record 26 (2), 255-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16759277300126776759,2767,1997
+Formal languages and their relation to automata,"JE Hopcroft, JD Ullman","Addison-Wesley Longman Publishing Co., Inc.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14074608124006494786,2395,1969
+Implementing data cubes efficiently,"V Harinarayan, A Rajaraman, JD Ullman","Acm Sigmod Record 25 (2), 205-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9112921129698038148,2091,1996
+Principles of compiler design,"JD Ullman, AV Aho",Reading: Addison Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10751860169134165016,2006,1977
+Mining of massive datasets,"A Rajaraman, JD Ullman",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6155819770138192839,1722,2011
+The TSIMMIS project: Integration of heterogenous information sources,"S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, ...",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9750315667705526577,2715108289819253007,17988744411514418514",1605,1994
+Computer and job-shop scheduling theory,"EG Coffman, JL Bruno",John Wiley & Sons,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2669035647356395443,1596,1976
+Protection in operating systems,"MA Harrison, WL Ruzzo, JD Ullman","Communications of the ACM 19 (8), 461-471",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16921350528069105021,1549,1976
+NP-complete scheduling problems,JD Ullman,"Journal of Computer and System sciences 10 (3), 384-393",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11334141387370320583,1456,1975
+Mining of massive data sets,"J Leskovec, A Rajaraman, JD Ullman",Cambridge university press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12010736749037096193,6273436867832936788",1340,2019
+Computational aspects of VLSI,JD Ullman,Computer Science Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13178261205188949289,1317,1984
+The TSIMMIS approach to mediation: Data models and languages,"H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...","Journal of intelligent information systems 8 (2), 117-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2485038387662849139,1164,1997
+Magic sets and other strange ways to implement logic programs,"F Bancilhon, D Maier, Y Sagiv, JD Ullman",Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12972664209333316768,1055,1985
+Worst-case performance bounds for simple one-dimensional packing algorithms,"DS Johnson, A Demers, JD Ullman, MR Garey, RL Graham","SIAM Journal on computing 3 (4), 299-325",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15991253967703055054,1055,1974
+Information integration using logical views,JD Ullman,"International Conference on Database Theory, 19-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4544462912931852725,1015,1997
+Universality of data retrieval languages,"AV Aho, JD Ullman",Proceedings of the 6th ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16232725475994672932,862,1979
+Database system implementation,"H Garcia-Molina, JD Ullman, J Widom",Prentice Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9677876879056017009,846,2000
+A first course in database systems,JD Ullman,Pearson Education India,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1152767339865409829,801,1997
+The transitive reduction of a directed graph,"AV Aho, MR Garey, JD Ullman","SIAM Journal on Computing 1 (2), 131-137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8543047126611948290,800,1972
+Index selection for OLAP,"H Gupta, V Harinarayan, A Rajaraman, JD Ullman","Proceedings 13th International Conference on Data Engineering, 208-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11047543362464026201,678,1997
+Foundations of computer science,"K Balog, E Cayirci, T Wiktorski, E Tøssebro, TP Kårstad, H Meling, ...",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8507780280289495394,14640071260755383448,17130526698780983961",601,1992
+Finding interesting associations without support pruning,"E Cohen, M Datar, S Fujiwara, A Gionis, P Indyk, R Motwani, JD Ullman, ...","IEEE Transactions on Knowledge and Data Engineering 13 (1), 64-78",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12144555411234130334,558,2001
+Computing Iceberg Queries Efficiently.,"M Fang, N Shivakumar, H Garcia-Molina, R Motwani, JD Ullman","Internaational Conference on Very Large Databases (VLDB'98), New York …","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15097348552970951201,18128175635027516396",544,1999
+The theory of joins in relational databases,"AV Aho, C Beeri, JD Ullman","ACM Transactions on Database Systems (TODS) 4 (3), 297-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9886743615777057514,533,1979
+On the semantics of updates in databases,"R Fagin, JD Ullman, MY Vardi",Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8373591163005540693,508,1983
+Implementation of logical query languages for databases,JD Ullman,"ACM Transactions on Database Systems (TODS) 10 (3), 289-321","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12041495254828469869,13910138851845904620",498,1985
+Monotone data flow analysis frameworks,"JB Kam, JD Ullman","Acta Informatica 7 (3), 305-317",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12428774341837968592,491,1977
+Database and knowledge base systems,JD Ullman,Computer Science Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9331077959139843006,483,1988
+"Einführung in die Automatentheorie, formale Sprachen und Komplexitätstheorie","JE Hopcroft, JD Ullman, R Motwani",Pearson Studium,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13479397387868993045,469,2002
+An optimal synchronizer for the hypercube,"D Peleg, JD Ullman","SIAM Journal on computing 18 (4), 740-747",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8765481530186493793,458,1989
+Optimizing joins in a map-reduce environment,"FN Afrati, JD Ullman",Proceedings of the 13th International Conference on Extending Database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10546717564616862656,443,2010
+The design and analysis ofcomputer algorithms,"AV Aho, JE Hopcroft, JD Ullman",Reading,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=571450808541081379,440,1974
+Equivalences among relational expressions,"AV Aho, Y Sagiv, JD Ullman","SIAM Journal on Computing 8 (2), 218-246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16624915612794671651,432,1979
+Inferring a tree from lowest common ancestors with an application to the optimization of relational expressions,"AV Aho, Y Sagiv, TG Szymanski, JD Ullman","SIAM Journal on Computing 10 (3), 405-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9556619539869944742,411,1981
+Global data flow analysis and iterative algorithms,"JB Kam, JD Ullman","Journal of the ACM (JACM) 23 (1), 158-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10692189148729300603,398,1976
+A survey of deductive database systems,"R Ramakrishnan, JD Ullman","The journal of logic programming 23 (2), 125-149","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12361815165782271420,16708700111870234219",391,1995
+Principles of optimal page replacement,"AV Aho, PJ Denning, JD Ullman","Journal of the ACM (JACM) 18 (1), 80-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13152590477740293088,385,1971
+Elements of ML programming,"JD Ullman, JD Ullman, EU Informaticien, JD Ullman, JD Ullman",Prentice Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=543708112485726112,382,1994
+The generation of optimal code for arithmetic expressions,"R Sethi, JD Ullman","Journal of the ACM (JACM) 17 (4), 715-728",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10042733287427802923,376,1970
+"Compiladores: principios, técnicas y herramientas","AV Aho, R Sethi, JD Ullman",Pearson Educación,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16518893033062404517,2062797624184239304,13548918505118918837",375,1998
+"Ullman, Compilers: Principles, Techniques, and Tools","S Aho, R Sethi, D Jeffrey","Addison-Wesley 26, 63-64","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=614430413434825752,16790230000110072004,15831408410629682813",373,1986
+Scalable techniques for mining causal structures,"C Silverstein, S Brin, R Motwani, J Ullman","Data Mining and Knowledge Discovery 4 (2-3), 163-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=224591188906887137,363,2000
+The Asilomar report on database research,"P Bernstein, M Brodie, S Ceri, D DeWitt, M Franklin, H Garcia-Molina, ...","ACM Sigmod record 27 (4), 74-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16407997793884183020,355,1998
+Answering queries using templates with binding patterns,"A Rajaraman, Y Sagiv, J Ullman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4284074796645994328,353,1995
+A simplied universal relation assumption and its properties,"R Fagin, AO Mendelzon, JD Ullman","ACM Transactions on Database Systems (TODS) 7 (3), 343-360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3705073545874807965,330,1982
+On the foundations of the universal relation model,"D Maier, D Maier, JD Ullman, MY Vardi","ACM Transactions on Database Systems (TODS) 9 (2), 283-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13126994605563617808,327,1984
+Integrating and accessing heterogeneous information sources in TSIMMIS,"H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, ...","Proceedings of the AAAI Symposium on Information Gathering 3, 61-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216619265853491119,317,1995
+Bounds on the complexity of the longest common subsequence problem,"JD Ullman, AV Aho, DS Hirschberg","Journal of the ACM (JACM) 23 (1), 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3038529312466986798,299,1976
+Database systems: Achievements and opportunities,"A Silberschatz, M Stonebraker, J Ullman","Communications of the ACM 34 (10), 110-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6011103070100547429,286,1991
+Medmaker: A mediation system based on declarative specifications,"Y Papakonstantinou, H Garcia-Molina, J Ullman","Proceedings of the Twelfth International Conference on Data Engineering, 132-141",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2564355706169949253,280,1996
+Querying semistructured heterogeneous information,"D Quass, A Rajaraman, Y Sagiv, J Ullman, J Widom","International Conference on Deductive and Object-Oriented Databases, 319-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9663482812218930606,275,1995
+A query translation scheme for rapid implementation of wrappers,"Y Papakonstantinou, A Gupta, H Garcia-Molina, J Ullman","International Conference on Deductive and Object-Oriented Databases, 161-186","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15265579307236118013,13989123216970766435",266,1995
+Efficient optimization of a class of relational expressions,"AV Aho, Y Sagiv, JD Ullman","ACM Transactions on Database Systems (TODS) 4 (4), 435-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12128513863817177465,266,1979
+"Representative objects: Concise representations of semistructured, hierarchical data","S Nestorov, J Ullman, J Wiener, S Chawathe","Proceedings 13th International Conference on Data Engineering, 79-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320975262295968910,253,1997
+Flow graph reducibility,"MS Hecht, JD Ullman","SIAM Journal on Computing 1 (2), 188-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6242298524108666546,245,1972
+Information integration using logical views,JD Ullman,"Theoretical Computer Science 239 (2), 189-210",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16003717112615569275,242,2000
+On notions of information transfer in VLSI circuits,"AV Aho, JD Ullman, M Yannakakis",Proceedings of the fifteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15964118886159907834,242,1983
+Query flocks: A generalization of association-rule mining,"D Tsur, JD Ullman, S Abiteboul, C Clifton, R Motwani, S Nestorov, ...","Acm sigmod record 27 (2), 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3610736539753409560,240,1998
+Database research: Achievements and opportunities into the 21st century,"A Silberschatz, M Stonebraker, J Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2081300387329100567,233,1995
+Translations on a context free grammar,"AV Aho, JD Ullman","Information and Control 19 (5), 439-475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17079334584625184790,227,1971
+Code generation for expressions with common subexpressions,"AV Aho, SC Johnson, JD Ullman",Proceedings of the 3rd ACM SIGACT-SIGPLAN symposium on Principles on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6107783896103123404,218,1976
+The Lowell database research self-assessment,"S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, ...","Communications of the ACM 48 (5), 111-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13781305444159342585,212,2005
+Characterizations of reducible flow graphs,"MS Hecht, JD Ullman","Journal of the ACM (JACM) 21 (3), 367-375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3180221999829236343,212,1974
+Optimizing multiway joins in a map-reduce environment,"FN Afrati, JD Ullman","IEEE Transactions on Knowledge and Data Engineering 23 (9), 1282-1298",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11421150325016318091,210,2011
+Set merging algorithms,"JE Hopcroft, JD Ullman","SIAM Journal on Computing 2 (4), 294-303",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18243075778885232729,208,1973
+On finding lowest common ancestors in trees,"AV Aho, JE Hopcroft, JD Ullman","SIAM Journal on computing 5 (1), 115-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7391099920533171610,205,1976
+Syntax directed translations and the pushdown assembler,"AV Aho, JD Ullman","Journal of Computer and System Sciences 3 (1), 37-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12149378701793966949,203,1969
+Maximal objects and the semantics of universal relation databases,"D Maier, JD Ullman","ACM Transactions on Database Systems (TODS) 8 (1), 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12725336952865691023,200,1983
+Complexity of sequencing problems,SD Ullman,Computers and Job-Shop Scheduling,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14473839925115799220,198,1967
+Updating logical databases.,"R Fagin, GM Kuper, J Ullman, MY Vardi",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2054805277808648137,194,1984
+Worst-case analysis of memory allocation algorithms,"MR Garey, RL Graham, JD Ullman","Proceedings of the fourth annual ACM symposium on Theory of computing, 143-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18151018248040696378,192,1972
+The compilation of regular expressions into integrated circuits,"RW Floyd, JD Ullman","21st Annual Symposium on Foundations of Computer Science (sfcs 1980), 260-269",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2234915550893774627,190,1980
+Constraint checking with partial information,"A Gupta, Y Sagiv, JD Ullman, J Widom",Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8711816520052057586,187,1994
+Estructuras de datos y algoritmos,"AV Aho, JE Hopcroft, JD Ullman",Addison-Wesley Iberoamericana,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11586251302588486617,186,1988
+The theory of Parsing,"AV Aho, JD Ullman",Translation and Compiling 1 (1972),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6968571971081931000,186,1973
+Properties of acyclic database schemes,"C Beeri, R Fagin, R Fagin, R Fagin, D Maier, A Mendelzon, J Ullman, ...",Proceedings of the thirteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10513233407341419295,180,1981
+A simple algorithm for global data flow analysis problems,"MS Hecht, JD Ullman","SIAM Journal on Computing 4 (4), 519-532",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12207687628045481228,177,1975
+The performance of a memory allocation algorithm,Princeton University. Department of Electrical Engineering. Computer Science ...,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9766254689623294331,176,1971
+Capability based mediation in TSIMMIS,"C Li, R Yerneni, V Vassalos, H Garcia-Molina, Y Papakonstantinou, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=979071151086332815,171,1998
+Design overview of the NAIL! system,"K Morris, JD Ullman, A Van Gelder","International Conference on Logic Programming, 554-568",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16929319244284795357,171,1986
+Deterministic parsing of ambiguous grammars,"AV Aho, SC Johnson, JD Ullman","Communications of the ACM 18 (8), 441-452",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1525445541126609159,170,1975
+Parallel complexity of logical query programs,"JD Ullman, A Van Gelder","Algorithmica 3 (1-4), 5-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17304319046731274704,169,1988
+High-probability parallel transitive-closure algorithms,"JD Ullman, M Yannakakis","SIAM Journal on Computing 20 (1), 100-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2489533184308079841,165,1991
+Bottom-up beats top-down for datalog,JD Ullman,Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12765947940215516633,165,1989
+Efficient tests for top-down termination of logical rules,"JD Ullman, A Van Gelder","Journal of the ACM (JACM) 35 (2), 345-373",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8408040018741582691,163,1988
+Efficient robust parallel computations,"ZM Kedem, KV Palem, PG Spirakis, AY Afek, E Gafni, AY Afek, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16837281032670193162,160,1990
+Optimal partial-match retrieval when fields are independently specified,"AV Aho, JD Ullman","ACM Transactions on Database Systems (TODS) 4 (2), 168-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10258229945584675726,155,1979
+"Automata theory, languages, and computation","JE Hopcroft, R Motwani, JD Ullman","International Edition 24, 19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6987421378388331964,147,2006
+Upper and lower bounds on the cost of a map-reduce computation,"AD Sarma, FN Afrati, S Salihoglu, JD Ullman","Proceedings of the VLDB Endowment 6 (4), 277-288",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14890757498239517567,145,2013
+System/U: a database system based on the universal relation assumption,"HF Korth, GM Kuper, J Feigenbaum, A Van Gelder, JD Ullman","ACM Transactions on Database Systems (TODS) 9 (3), 331-347",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14546602835498473337,144,1984
+Ullman,H Aho,"Data Structures and Algorithms, 204-208",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8429540666191056956,136,1974
+Answering queries using limited external query processors,"AY Levy, A Rajaraman, JD Ullman","Journal of Computer and System Sciences 58 (1), 69-82","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8007419300561074168,15952415310204218236,17626645016137137056",135,1999
+LR (k) grammars,"AV Aho, JD Ullman","The theory of parsing, translation, and compiling 1, 371-379",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2095779829243711555,135,1972
+Polynomial complete scheduling problems,JD Ullman,"ACM SIGOPS Operating Systems Review 7 (4), 96-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2367465684806255559,131,1973
+"Information translation, mediation, and mosaic-based browsing in the TSIMMIS system","J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9017304037952285098,128,1995
+Equivalence of relational database schemes,"C Beeri, AO Mendelzon, Y Sagiv, JD Ullman","SIAM Journal on Computing 10 (2), 352-370",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3547350961142226771,128,1981
+"Teoría de autómatas, lenguajes y computación","JE Hopcroft, R Motwani, JD Ullman",Addison Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16948812398921887884,127,2008
+Computing capabilities of mediators,"R Yerneni, C Li, H Garcia-Molina, J Ullman","ACM Sigmod Record 28 (2), 443-454",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7475596614737350007,127,1999
+A communication-time tradeoff,"CH Papadimitriou, JD Ullman","SIAM Journal on Computing 16 (4), 639-646",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5565641292603746240,124,1987
+"Flexible relation: An approach for integrating data from multiple, possibly inconsistent databases","S Agarwal, AM Keller, G Wiederhold, K Saraswat",Proceedings of the Eleventh International Conference on Data Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9653850987942326197,117,1995
+Fast algorithms for the elimination of common subexpressions,JD Ullman,"Acta Informatica 2 (3), 191-213",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2950202055467433471,117,1973
+Enumerating subgraph instances using map-reduce,"FN Afrati, D Fotakis, JD Ullman","2013 IEEE 29th International Conference on Data Engineering (ICDE), 62-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13101895238035160481,115,2013
+Database theory—past and future,JD Ullman,Proceedings of the sixth ACM SIGACT-SIGMOD-SIGART symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2217283482700185965,114,1987
+Some results on tape-bounded Turing machines,"JE Hopcroft, JD Ullman","Journal of the ACM (JACM) 16 (1), 168-177",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1026994130490399045,114,1969
+Database systems: Achievements and opportunities,"A Silberschatz, M Stonebraker, JD Ullman","ACM Sigmod Record 19 (4), 6-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13797490734291741255,113,1990
+"Efficient evaluation of right-, left-, and multi-linear rules","JF Naughton, R Ramakrishnan, Y Sagiv, JD Ullman","ACM SIGMOD Record 18 (2), 235-242","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15112433315639790887,2942374305773796134,9838110548303124544",112,1989
+Compilers-Princeiples,AV Aho,"Techniques, and Tools",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=789691271341406550,112,1988
+Big data: a research agenda,"A Cuzzocrea, D Saccà, JD Ullman",Proceedings of the 17th International Database Engineering & Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14398113348834641324,111,2013
+Universal single transition time asynchronous state assignments,"AD Friedman, RL Graham, JD Ullman","IEEE Transactions on Computers 100 (6), 541-547",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15937195100040119578,110,1969
+Fuzzy joins using mapreduce,"FN Afrati, AD Sarma, D Menestrina, A Parameswaran, JD Ullman","2012 IEEE 28th International Conference on Data Engineering, 498-509",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10543807007528134413,108,2012
+A model of statistical database their security,"JB Kam, JD Ullman","ACM Transactions on Database Systems (TODS) 2 (1), 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5104163327304781807,107,1977
+Map-reduce extensions and recursive queries,"FN Afrati, V Borkar, M Carey, N Polyzotis, JD Ullman",Proceedings of the 14th international conference on extending database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2448882134989295860,106,2011
+All-optical networks,"S Chatterjee, S Pawlowski","Communications of the ACM 42 (6), 74-83","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6811559215158308730,7549993440779538370,16885922238496850903,6200134941578269157,746979734647686050",105,1999
+Optimal wiring between rectangles,"D Dolev, K Karplus, A Siegel, A Strong, JD Ullman",Proceedings of the thirteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13320957851944716331,102,1981
+On protection in operating systems,"MA Harrison, WL Ruzzo, JD Ullman","ACM SIGOPS Operating Systems Review 9 (5), 14-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2119929555226965948,101,1975
+The UR strikes back,JD Ullman,Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7526836704933167903,97,1982
+Compilateurs,"A Aho, R Sethi, J Ullman","Principes, techniques et outils. InterEditions, Paris",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8839192919139765332,94,1989
+Time and tape complexity of pushdown automaton languages,"AV Aho, JE Hopcroft, JD Ullman","Information and Control 13 (3), 186-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14311405398980958148,93,1968
+"Fluency with information technology: skills, concepts & capabilities",L Snyder,Addison-Wesley,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=451209845582015730,10371414235103607391,8581966814887952121",92,2011
+Properties of syntax directed translations,"AV Aho, JD Ullman","Journal of Computer and System Sciences 3 (3), 319-334",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10030147492554767408,92,1969
+A comparison between deductive and object-oriented database systems,JD Ullman,"International Conference on Deductive and Object-Oriented Databases, 263-277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=337325765142765192,89,1991
+Deadlock-free packet switching networks,"S Toueg, JD Ullman","SIAM Journal on Computing 10 (3), 594-611",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2840129002441299416,88,1981
+"Introduction to Automata Theory, Languages and Computation. Adison-Wesley","JE Hopcroft, JD Ullman","Reading, Mass",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15737943485269185821,88,1979
+Analysis of a simple algorithm for global data flow problems,"MS Hecht, JD Ullman",Proceedings of the 1st annual ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6888392486235211713,87,1973
+An approach to a unified theory of automata,"JE Hopcroft, JD Ullman","The Bell System Technical Journal 46 (8), 1793-1829",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13692414567207063387,86,1967
+System and method for generating and providing educational exercises,"JD Ullman, RV Yerneni","US Patent 7,377,785",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6958393772400849615,83,2008
+Generating efficient plans for queries using views,"FN Afrati, C Li, JD Ullman","ACM SIGMOD Record 30 (2), 319-330",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6541115766539284537,83,2001
+Parallel skyline queries,"FN Afrati, P Koutris, D Suciu, JD Ullman","Theory of Computing Systems 57 (4), 1008-1037",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12250439506483022345,81,2015
+Optimizing large join queries in mediation systems,"R Yerneni, C Li, J Ullman, H Garcia-Molina","International Conference on Database Theory, 348-364",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14908191045995652794,79,1999
+Evaluating polynomials at fixed sets of points,"AV Aho, K Steiglitz, JD Ullman","SIAM Journal on Computing 4 (4), 533-539",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11088307459954846996,79,1975
+Query Optimization for Database Systems,JD Ullman,"Principles of Database and Knowledge-Base Systems, 633-725",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15853405361284532909,78,1989
+"Introdução à teoria de autômatos, linguagens e computação","JE Hopcroft, JD Ullman, R Motwani",Rio de Janeiro: Campus,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10368166090519126545,76,2002
+Proof-tree transformation theorems and their applications,"R Ramakrishnan, Y Sagiv, JD Ullman, MY Vardi",Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17650939705628598955,76,1989
+Induction variables in very high level languages,"AC Fong, JD Ullman",Proceedings of the 3rd ACM SIGACT-SIGPLAN symposium on Principles on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925491069873528696,75,1976
+A scheme for the automatic inference of variable types,"MA Kaplan, JD Ullman","Journal of the ACM (JACM) 27 (1), 128-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13801029545306627654,74,1980
+Lore: A lightweight object repository for semistructured data,"D Quass, J Goldman, K Haas, Q Luo, J McHugh, S Nestorov, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13462965523584898001,73,1996
+On the capabilities of codes to correct synchronization errors,J Ullman,"IEEE Transactions on Information Theory 13 (1), 95-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9738577006291735302,73,1967
+Connections in acyclic hypergraphs,"D Maier, JD Ullman","Theoretical Computer Science 32 (1-2), 185-199","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6134499075810257531,4739640023631228261",72,1984
+"Parsing, volume 1 of The Theory of Parsing, Translation and Compiling","AV Aho, JD Ullman",Prentice-Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3601767921974526451,72,1972
+Committee on Information Technology Literacy. Being Fluent with Information Technology,National Research Council,http://www. nap. edu/books/030906399X/html,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=932011345112168431,71,1999
+Integrating information by outerjoins and full disjunctions,"A Rajaraman, J Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15107639338193834384,71,1996
+Argument reduction by factoring,"JF Naughton, R Ramakrishnan, Y Sagiv, JD Ullman",University of Wisconsin-Madison Department of Computer Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2262202363111869579,68,1991
+Template dependencies: A large class of dependencies in relational databases and its complete axiomatization,"F Sadri, JD Ullman","Journal of the ACM (JACM) 29 (2), 363-372",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11031408503293498176,65,1982
+Introducción a los Sistemas de Bases de Datos,"JD Ullman, J Widom, EA Miguel",Prentice Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11172665959005883757,63,1999
+The theory of languages,"AV Aho, JD Ullman","Mathematical systems theory 2 (2), 97-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15575767323793371138,63,1968
+Parsing algorithms with backtrack,"A Birman, JD Ullman","11th Annual Symposium on Switching and Automata Theory (swat 1970), 153-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18318371205298868687,62,1970
+The input/output complexity of transitive closure,"JD Ullman, M Yannakakis","Annals of Mathematics and Artificial Intelligence 3 (2-4), 331-360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1111403170475276070,60,1991
+Node listings for reducible flow graphs,"AV Aho, JD Ullman","Journal of Computer and System Sciences 13 (3), 286-299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17590528420339763744,59,1976
+Mining of massive datasets,JD Ullman,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15523426921897716883,56,2011
+Implementação de sistemas de banco de dados,"H Garcia-Molina, JD Ullman, J Widom",Campus,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10328451627249580328,56,2001
+"Wprowadzenie do teorii automatów, języków i obliczeń","JE Hopcroft, R Motwani, JD Ullman, B Konikowska",Wydawnictwo Naukowe PWN,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6739990968614763898,55,2012
+Data mining research: Opportunities and challenges,"R Grossman, S Kasif, R Moore, D Rocke, J Ullman","A report of three NSF workshops on mining large, massive, and distributed data",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3065918557793457118,55,1999
+YAWN! (Yet Another Window on NAIL!),"KA Morris, JF Naughton, YP Saraiya, JD Ullman, AV Gelder","IEEE Data Eng. Bull. 10 (4), 28-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13925792285279973267,54,1987
+Modeling communications protocols by automata,"AV Aho, JD Ullman, M Yannakakis","20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 267-273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18212789806596874390,54,1979
+Code Optimization and Finite Church Rosser Systems,Princeton University. Department of Electrical Engineering. Computer Science ...,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17885424460632181458,54,1971
+The input/output complexity of transitive closure,"JD Ullman, M Yannakakis","ACM SIGMOD Record 19 (2), 44-53",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8366052541407819983,52,1990
+A general theory of translation,"AV Aho, JE Hopcroft, JD Ullman","Mathematical Systems Theory 3 (3), 193-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15839826204246693157,52,1969
+Nonerasing stack automata,"JE Hopcroft, JD Ullman","Journal of Computer and System Sciences 1 (2), 166-186",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891217903341454535,51,1967
+"Near-optimal, single-synchronization-error-correcting code",J Ullman,"IEEE Transactions on Information Theory 12 (4), 418-424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3233462196677363381,51,1966
+Foundations of uncertain-data integration,"P Agrawal, AD Sarma, J Ullman, J Widom","Proceedings of the VLDB Endowment 3 (1-2), 1080-1090",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3509840666627670471,50,2010
+Postrojenije i analiz vyčislitel'nych algoritmov,"AV Aho, J Hopcroft, JD Ullman",Mir,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3118376741721851464,6052902642967901567",49,1979
+数据库系统实现,H Garcia-Molina,机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=238507982122454428,48,2001
+The Design and Analysis of Computer Algorithms (1974),"AV Aho, JE Hopcroft, JD Ullman","Reading: Addison-Wesley, 207-209",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15634267167568687833,48,1987
+Bounds on the size and transmission rate of communications protocols,"AV Aho, AD Wyner, M Yannakakis, JD Ullman","Computers & Mathematics with Applications 8 (3), 205-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15977577115099932825,48,1982
+Minimizing view sets without losing query-answering power,"C Li, M Bawa, JD Ullman","International Conference on Database Theory, 99-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4386603730764705870,47,2001
+China Now,"NM Lam, JL Graham, P Cullen",McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18077425696483677008,45,2006
+Concepts fondamentaux de l'informatique,"AV Aho, JD Ullman, X Cazin",Dunod,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6999293818258936446,45,1993
+A note on the efficiency of hashing functions,JD Ullman,"Journal of the ACM (JACM) 19 (3), 569-575",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3962702439424794541,45,1972
+"Mediator languages—a proposal for a standard: report of an I 3/POB working group held at the University of Maryland, April 12 and 13, 1996","P Buneman, L Raschid, J Ullman","ACM SIGMOD Record 26 (1), 39-44","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15297143767787244552,13872338529640164185",44,1997
+Informatik: Datenstrukturen und konzepte der Abstraktion,"AV Aho, JD Ullman, M Boré",Internat. Thomson Publ.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=298079408976052227,44,1996
+A Technique for Speeding up LR(k) Parsers,"AV Aho, JD Ullman","SIAM Journal on Computing 2 (2), 106-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13490813134372992446,44,1973
+Relations between time and tape complexities,"JE Hopcroft, JD Ullman","Journal of the ACM (JACM) 15 (3), 414-427",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11945875214668342916,44,1968
+Designing good mapreduce algorithms,JD Ullman,"XRDS: Crossroads, The ACM Magazine for Students 19 (1), 30-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14760116950168412691,43,2012
+编译原理,AV Aho,机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11958763604310064121,43,2009
+A complete axiomatization for a large class of dependencies in relational datatbases,"F Sadri, JD Ullman","Proceedings of the twelfth annual ACM symposium on Theory of computing, 117-122",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9516666301549359048,43,1980
+Podstawowy wykład z systemów baz danych,"JD Ullman, J Widom",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16084256612910436249,42,2000
+Optimization of straight line programs,"AV Aho, JD Ullman","SIAM Journal on Computing 1 (1), 1-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9136921212358437866,42,1972
+Transitive closure and recursive datalog implemented on clusters,"FN Afrati, JD Ullman",Proceedings of the 15th International Conference on Extending Database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6082974822271631454,41,2012
+"Introduction to Automata Theory, Languages, and Computation. Adison","JE Hopcroft, JD Ullman","Wesley Publishing Company, Reading, Massachusets, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11913622676945546566,41,1979
+Inhibition of HIV-1 gene expression by retroviral vector-mediated small-guide RNAs that direct specific RNA cleavage by tRNase ZL,"Y Habu, N Miyano-Kurosaki, M Kitano, Y Endo, M Yukita, S Ohira, ...","Nucleic acids research 33 (1), 235-243","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=194342199221576954,16209616893410430176",40,2005
+Adequacy of decompositions of relational databases,"D Maier, AO Mendelzon, F Sadri, J Dullman","Journal of Computer and System Sciences 21 (3), 368-379",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16185506193763877870,39,1980
+Best practices memo: Evaluating computer scientists and engineers for promotion and tenure,"D Patterson, L Snyder, J Ullman","Computing Research News 11 (4), A-B",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12574601806304888420,38,1999
+The design and analysis of computer algorithms [Russian translation],"A Aho, J Hopcroft, J Ullman","Mir, Moscow",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17765207463502214072,38,1979
+On the complexity of LR (k) testing,"HB Hunt III, TG Szymanski, JD Ullman","Communications of the ACM 18 (12), 707-716",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8650086923041262233,38,1975
+"Evaluating, combining and generalizing recommendations with prerequisites","AG Parameswaran, H Garcia-Molina, JD Ullman",Proceedings of the 19th ACM international conference on Information and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12270180359420087649,37,2010
+Systemy baz danych: Pełny wykład,"H Garcia-Molina, JD Ullman, J Widom",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7680695909011798015,37,2006
+Projektowanie i analiza algorytmów komputerowych,"AV Aho, JE Hopcroft, JD Ullman",Państwowe Wydaw. Naukowe,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2053313730519485097,37,1983
+Optimization of LR (k) parsers,"AV Aho, JD Ullman","Journal of Computer and System Sciences 6 (6), 573-602",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14591174296547387011,37,1972
+Deductive databases: achievements and future directions,"JD Ullman, C Zaniolo","ACM SIGMOD Record 19 (4), 75-82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16619695309185204924,36,1990
+Weak and mixed strategy precedence parsing,"AV Aho, PJ Denning, JD Ullman","Journal of the ACM (JACM) 19 (2), 225-243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5251416865782347805,36,1972
+Compilerbau. 2 (1988),"AV Aho, R Sethi, JD Ullman",Addison-Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8037240136906425187,35,1988
+The complexity of ordering subgoals,"JD Ullman, MY Vardi",Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9511442165128670796,34,1988
+A general scheme for the automatic inference of variable types,"MA Kaplan, JD Ullman",Proceedings of the 5th ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17171665399260274491,34,1978
+On Kent's “Consequences of assuming a universal relation”(Technical correspondance),JD Ullman,"ACM Transactions on Database Systems (TODS) 8 (4), 637-643",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3011291571086053798,33,1983
+Code-generation for machines with multiregister operations,"AV Aho, SC Johnson, JD Ullman",Proceedings of the 4th ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11031918667084185895,33,1977
+Application of lattice algebra to loop optimization,"A Fong, J Kam, J Ullman",Proceedings of the 2nd ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18102200035261415576,33,1975
+Efficient Implementation of Data Cubes Via Materialized Views.,JD Ullman,"KDD, 386-388",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11851704210643905954,30,1996
+Formálne jazyky a automaty,"JE Hopcroft, JD Ullman, J Ullman",Alfa,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12035511405218115344,30,1978
+GYM: A multiround join algorithm in mapreduce,"F Afrati, M Joglekar, C Ré, S Salihoglu, JD Ullman",arXiv preprint arXiv:1410.4156,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14079371599102611560,29,2014
+A characterization of two-way deterministic classes of languages,"AV Aho, JD Ullman","Journal of Computer and System Sciences 4 (6), 523-538",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16290384909759986497,29,1970
+Vision paper: Towards an understanding of the limits of map-reduce computation,"FN Afrati, AD Sarma, S Salihoglu, JD Ullman",arXiv preprint arXiv:1204.1754,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4197567866337935751,28,2012
+A formal approach to code optimization,"AV Aho, R Sethi, JD Ullman","ACM SIGPLAN Notices 5 (7), 86-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7660536425923237128,28,1970
+"HOPCROF~, JE, AND ULLMAN, JD (1974),‘The Design and Analysis of Computer Algorithms,”",AV Aho,"Addison-Wesley, Reading, Mass","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7000718172442098009,18120163020940246535",28,0
+Schema design for uncertain databases,"AD Sarma, J Ullman, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1182995821201533552,27,2007
+Implementacja systemów baz danych,"H Garcia-Molina, J Widom, JD Ullman",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13117130552418257962,27,2003
+Logical query optimization by proof-tree transformation,"R Ramakrishnan, Y Sagiv, JD Ullman, MY Vardi","Journal of Computer and System Sciences 47 (1), 222-248",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18177963872883621154,27,1993
+Structures de données et algorithmes,"AV Aho, JE Hopcroft, JD Ullman, JM Moreau",InterEditions,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3640523030067796775,27,1987
+On complementary and independent mappings on databases,"AM Keller, JD Ullman","ACM SIGMOD Record 14 (2), 143-148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2111584653428554067,27,1984
+The analysis and design of computer algorithms,"AV Aho, JE Hopcroft, JD Ullman","Add1~""-son-Wes-------fey-~ Reading, Mass",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12518793562370347082,27,1974
+Assigning an appropriate meaning to database logic with negation,J Ullman,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=489072500438656551,26,1994
+Fragments of relations,"D Maier, JD Ullman","ACM SIGMOD Record 13 (4), 15-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10808507812189105473,26,1983
+Formal languages and their relation to automata,JD Ullman,"Reading, Mass.: Addison-Wesley Publishing Company",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16466121471575094657,26,1969
+Using views to generate efficient evaluation plans for queries,"FN Afrati, C Li, JD Ullman","Journal of Computer and System Sciences 73 (5), 703-724",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8162585813059881573,25,2007
+Testing applicability of top-down capture rules,"JD Ullman, A Van Gelder","Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17094121090079380465,25,1985
+On the Equivalence of Logical Databases.,"GM Kuper, JD Ullman, MY Vardi",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3155437036369513002,25,1984
+Operations on sparse relations,"HB Hunt III, JD Ullman, TG Szymanski","Communications of the ACM 20 (3), 171-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2576388609618441220,25,1977
+アルゴリズムの設計と解析 I,野崎， 野下,サ イ エ ン ス社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11267922575127279748,25,1977
+Fundamental concepts of programming systems,JD Ullman,"Addison-Wesley Longman Publishing Co., Inc.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2956633265920462359,25,1976
+Evaluating computer scientists and engineers for promotion and tenure,"D Patterson, L Snyder, J Ullman",Computing Research News,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=112891188783871109,24,1999
+Argument reduction through factoring,"J Naughton, R Ramakrishnan, Y Sagiv, J Ullman","Proc. of the 15th Int'l Conf. on Very Large Data Bases, 173-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14644852074241124624,24,0
+"Automi, linguaggi e calcolabilità","JE Hopcroft, R Motwani, JD Ullman, G Pighizzini",Addison-Wesley Italia,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14580348508037582862,23,2003
+Experience with a regular expression compiler,"AR Karlin, HW Trickey, JD Ullman",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11554953417812639740,23,1983
+"The theory of parsing, translation, and compiling",JD Ullman,Prentice-Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1523585070127517400,23,1972
+Tools for template dependencies,"R Fagin, D Maier, JD Ullman, M Yannakakis","SIAM Journal on Computing 12 (1), 36-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16774461740154147311,22,1983
+An n log n algorithm for detecting reducible graphs,"JE Hopcroft, JD Ullman",Proc. 6th Annual Princeton Conference on Information Sciences and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14541158941197633567,22,1972
+"Kompilatory: reguły, metody i narzędzia","AV Aho, R Sethi, JD Ullman",Wydawnictwa Naukowo-Techniczene,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2523357732386539800,21,2002
+A version numbering scheme with a useful lexicographical order,"AM Keller, JD Ullman",Proceedings of the Eleventh International Conference on Data Engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9576764618555550437,21,1995
+Complexity of a top-down capture rule,"Y Sagiv, JD Ullman","Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1107543276945536985,21,1984
+Directed graphs,"AV Aho, JE Hopcroft, JD Ullman","Data structures and algorithms, 219-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2769745199981761005,21,1983
+The design and analysis of computer algorithms,"JE Hopcroft, JD Ullman","Addison-Wesley, Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9175844700904770302,21,1974
+Projektowanie i analiza algorytmów,"AV Aho, JE Hopcroft, JD Ullman",Helion,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16948485561283981381,20,2003
+Principles of Computer and Knowledge-base Systems,JD Ullman,Computer Science Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12951567842648929099,20,1988
+"Economy of description by parsers, DPDA's, and PDA's","MM Geller, HB Hunt III, TG Szymanski, JD Ullman","Theoretical Computer Science 4 (2), 143-153",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1955899768934479263,20,1977
+Operations on sparse relations and efficient algorithms for grammar problems,"HB Hunt, TG Szymanski, JD Ullman","15th Annual Symposium on Switching and Automata Theory (swat 1974), 127-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15717168840721563661,20,1974
+Shift-shuffle memory system with rapid sequential access,"A Aho, J Ullman","US Patent 3,810,112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1871340072951927003,20,1974
+Dynamic memories with rapid random and sequential access,"AV Aho, JD Ullman","IEEE Transactions on Computers 100 (3), 272-276",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7466620507620230485,20,1974
+Querying websites using compact skeletons,"A Rajaraman, JD Ullman","Journal of Computer and System Sciences 66 (4), 809-851",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=877108659423656436,19,2003
+Dynamic miss-counting algorithms: Finding implication and similarity rules with confidence pruning,"S Fujiwara, JD Ullman, R Motwani",Proceedings of 16th International Conference on Data Engineering (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12208378619999439612,19,2000
+Database system implementation,"GM Hector, D Jeffrey, W Jennifer",Published by 3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9044779966513847685,19,1999
+Convergence of sideways query evaluation,"F Afrati, C Papadimitriou, G Papageorgiou, A Roussou, Y Sagiv, ...",Proceedings of the fifth ACM SIGACT-SIGMOD symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10159569310633087800,19,1985
+Data flow analysis,JD Ullman,"Proc. 2nd USA-Japan Computer Conference, 335-342",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8736729220753595762,19,1975
+Improving the efficiency of database-system teaching,JD Ullman,Proceedings of the 2003 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14009573944970717895,18,2003
+Algorytmy i struktury danych,"AV Aho, JE Hopcroft, JD Ullman",Helion,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9997181395154065638,18,2003
+数据库系统基础教程,"JD Ullman, J Widom",北京: 清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16468572761265259297,18,1999
+数据库系统基础教程,史嘉权,北京: 清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11386002089666714224,18,1999
+Correcting faults in write-once memory,"D Dolev, D Maier, D Maier, I Mairson, J Ullman",Proceedings of the sixteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11271922013244614444,18,1984
+JD ULLMAN Introduction to Automata Theory,JE Hopcroft,Languages and,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10662531453741975904,18,1979
+On the computational complexity of finding the maxima of a set of vectors,HT Kung,"15th Annual Symposium on Switching and Automata Theory (swat 1974), 117-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13558249219018619677,18,1974
+Sets accepted by one-way stack automata are context sensitive,"JE Hopcroft, JD Ullman","Information and Control 13 (2), 114-133",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17592550413861247620,18,1968
+"Introduction to automata theory, languages, and computation, 2001","JE Hopcroft, R Motwani, JD Ullman","Addison Wesley, Boston, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=36930719653985813,18,0
+"Flux, sorting, and supercomputer organization for AI applications",JD Ullman,"Journal of Parallel and Distributed Computing 1 (2), 133-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18289335459864273728,17,1984
+"Compilateurs: principes, techniques et outils","AV Aho, Monica S.. Lam, R Sethi, JD Ullman",Pearson Education,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6245825470647442841,16,2007
+The database approach to knowledge representation,JD Ullman,"PROCEEDINGS OF THE NATIONAL CONFERENCE ON ARTIFICIAL INTELLIGENCE, 1346-1349",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3889295181289454371,16,1996
+Construction and Analysis of Computational Algorithms,"A Aho, J Hopcroft, J Ullman",World,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17338527281658562288,16,1979
+Deterministic stack automata and the quotient operator,"JE Hopcroft, JD Ullman","Journal of Computer and System Sciences 2 (1), 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16850105937048306584,16,1968
+Data structures and algorithms (1983),"AV Aho, JE Hopcroft, JD Ullman","Addison-Wesley, Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9064101208081470685,16,0
+"Einführung in die Automatentheorie, formale Sprachen und Berechenbarkeit","JE Hopcroft, R Motwani, JD Ullman",Pearson Deutschland GmbH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8190039868366397099,15,2011
+Gradiance on-line accelerated learning,JD Ullman,Proceedings of the Twenty-eighth Australasian conference on Computer Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9813456501369674186,15,2005
+Querying semistructured heterogeneous information,"D Quass, A Rajaraman, J Ullman, J Widom, Y Sagiv","Journal of Systems Integration 7 (3-4), 381-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949109946964574895,15,1997
+U11-man,"AV Aho, R Sethi, D Jeffrey","Compilers-Principles, Techniques, and Tools, 176-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2285838560076881673,15,1986
+The interaction between functional dependencies and template dependencies,"F Sadri, JD Ullman",Proceedings of the 1980 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954360181158224230,15,1980
+Introduction to Automata,JE Hopcroft,"Language, and Computation",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10536612899495429323,15,1979
+"Theory of Parsing, Translation, and Compiling [Rusian translation], Vol. 1","A Aho, J Ullman","Mir, Moscow",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717740747427402638,15,1978
+Error detection in precedence parsers,"AV Aho, JD Ullman","Mathematical systems theory 7 (2), 97-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12702289479050751173,15,1973
+"The Theory of Parsing, Translation and Compiling","A Alfred, J Ullman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10567210882969127228,14,1972
+"Cluster computing, recursion and datalog","FN Afrati, V Borkar, M Carey, N Polyzotis, JD Ullman","International Datalog 2.0 Workshop, 120-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4611169154881907878,13,2010
+Adatbázisrendszerek: alapvetés,"JD Ullman, J Widom, E Cserges, B Csizmazia, P Gyenizse",Panem,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11825034812763601415,13,1998
+数据结构与算法,"AV Aho, JE Hopcroft, JD Ullman",北京: 科学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1506224831913356208,13,1987
+Finding the depth of a flow graph,"AC Fong, JD Ullman","Journal of Computer and System Sciences 15 (3), 300-309",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6132684682855687321,13,1977
+Universal two state machines: Characterization theorems and decomposition schemes,"JD Ullman, P Weiner","9th Annual Symposium on Switching and Automata Theory (swat 1968), 413-426",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11628841892873905975,13,1968
+Decidable and undecidable questions about automata,"JE Hopcroft, JD Ullman","Journal of the ACM (JACM) 15 (2), 317-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15885989365528119956,13,1968
+Error correction for formal languages,"JE Hopcroft, JD Ullman",Univ.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11624109230867086066,13,1966
+Formal Languages and their relation to Automata (1969),"JE Hopcroft, JD Ullman","Addison-Wesley, Reading, Mass",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6528353259781680648,13,0
+Matching bounds for the all-pairs MapReduce problem,"F Afrati, J Ullman",Proceedings of the 17th International Database Engineering & Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7034454264539448563,12,2013
+Argument reduction by factoring,"JF Naughton, R Ramakrishnana, Y Sagiv, JD Ullman","Theoretical Computer Science 146 (1-2), 269-310",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12878710028762773425,12,1995
+Medmaker: A mediation system based on declarative specifications. Available by anonymous ftp at db,"Y Papakonstantinou, H Garcia-Molina, J Ullman",stanford. edu as the le/pub/papakonstantinou/1995/medmaker. ps,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=275501532308305817,12,1995
+Einführung in die Automatentheorie,"JE Hopcroft, R Motwani, J Ullman",Formale Sprachen und,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14002746264157967294,12,1990
+Data Structures and algorithms. Addison,"AV Aho, JE Hopcroft, JD Ullman","W esley Publishing Company, INc 1, 983",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16020396267011886812,12,1983
+Adequacy of decompositions of relational databases,"D Maier, AO Mendelzon, F Sadri, JD Ullman","Advances in Data Base Theory, 101-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14418887665578031564,12,1981
+Transformations on straight line programs-(Preliminary Version),"AV Aho, JD Ullman","Proceedings of the second annual ACM symposium on Theory of computing, 136-148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15143384772000126959,12,1970
+Sharesskew: An algorithm to handle skew for joins in mapreduce,"FN Afrati, N Stasinopoulos, JD Ullman, A Vassilakopoulos","Information Systems 77, 129-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2591153369498159031,11,2018
+GYM: A multiround distributed join algorithm,"FN Afrati, MR Joglekar, CM Re, S Salihoglu, JD Ullman",20th International Conference on Database Theory (ICDT 2017),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4282937464355122473,11,2017
+Bounds for Overlapping Interval Join on MapReduce.,"FN Afrati, S Dolev, S Sharma, JD Ullman","EDBT/ICDT Workshops, 3-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1555762274305303822,11,2015
+"Compilers: Principles, Techniques and Tools, 2nd Editio","A Aho, M Lam, R Sethi, J Ullman",Pearson Higher Education,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14002586568166913037,11,2007
+"自动机理论, 语言和计算导论","JE Hopcroft, R Motwani, JR Ullman",北京: 机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8853954881661842080,11,2004
+The lowell report,"J Gray, H Schek, M Stonebraker, J Ullman",Proceedings of the 2003 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2456408874189118147,11,2003
+数据库系统全书,"H Garcia-Molina, JD Ullman, J Widom",机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343620228736040150,11,2003
+The revenge of the JD,"D Maier, JD Ullman, MY Vardi",Proceedings of the 2nd ACM SIGACT-SIGMOD symposium on Principles of database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15958252053901830201,11,1983
+Some thoughts about supercomputer organization,JD Ullman,"Stanford University, Department of Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5850054181526384519,11,1983
+Számítógép-algoritmusok tervezése és analízise,"AV Aho, JE Hopcroft, D Jeffrey, S László",Műszaki K.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4387267532013653654,11,1982
+Principles of database design,JD Ullman,"Rockville, Maryland: Computer Science Press",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13095278315569282203,11,1982
+"Parsing, Vol. 1 of The Theory of Parsing, Translation and Compiling","A Aho, J Ullman",Prentice-Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=732426415054941963,11,1972
+Formal Languages and their Relation to Automata Addison,"JE Hopcroft, JD Ullman","Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177802302753488568,11,1969
+"1979Introduction to automata theory, languages and computation","JE Hopcroft, JD Ullman","Reading, Massachussetts: Addison-Wesley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3807053168894934023,11,0
+Assignment problems of different-sized inputs in mapreduce,"F Afrati, S Dolev, E Korach, S Sharma, JD Ullman","ACM Transactions on Knowledge Discovery from Data (TKDD) 11 (2), 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12829100386585406275,10,2016
+Storing and querying tree-structured records in Dremel,"FN Afrati, D Delorey, M Pasumansky, JD Ullman","Proceedings of the VLDB Endowment 7 (12), 1131-1142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14133528876963528796,10,2014
+Anchor points algorithms for hamming and edit distance,"F Afrati, AD Sarma, A Rajaraman, P Rule, S Salihoglu, J Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6389455215169363272,10,2014
+Designing good algorithms for MapReduce and beyond,"FN Afrati, M Balazinska, AD Sarma, B Howe, S Salihoglu, JD Ullman","Proceedings of the Third ACM Symposium on Cloud Computing, 26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6868172889273609034,10,2012
+Efficient and complete tests for database integrity constraint checking,"A Gupta, Y Sagiv, JD Ullman, J Widom",International Workshop on Principles and Practice of Constraint Programming …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18293949442537085940,10,1994
+On the convergence of query evaluation,"F Afrati, CH Papadimitriou, G Papageorgiou, A Roussou, Y Sagiv, ...","Journal of Computer and System Sciences 38 (2), 341-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17078266075473266930,10,1989
+Principles of knowledge base and database systems,J Ullman,W y rÃD Ã (''ÃW y rÃDD Ã ('(Ã8 r ÃTpvr prÃQ r,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5666168998644504364,1203672283790372425",10,1988
+UII-man,"AV Aho, R Sethi, D Jeffrey","Compi [ers-Principles, Techniques, and Tools. Addison-Wesley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14759621349271821498,10,1986
+Data structures and algorithms,"JD Ullman, AV Aho",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15719767389917190651,10,1983
+Bounds on the complexity of the longest common subsequence problem,"AV Aho, DS Hirschberg, JD Ullman","15th Annual Symposium on Switching and Automata Theory (swat 1974), 104-109",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15624188361814610329,10,1974
+The Design and Analysis of Algorithms. Addison and Wesley,"A Aho, J Hopcroft, J Ullman","Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2089440756880400013,10,1974
+On the computational power of pushdown automata,"AV Aho, JD Ullman, JE Hopcroft","Journal of Computer and System Sciences 4 (2), 129-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18444042332810425936,10,1970
+Uniform synthesis of sequential circuits,"JD Ullman, P Weiner","Bell System Technical Journal 48 (5), 1115-1127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3980293942747384337,10,1969
+Clustering,"A Rajaraman, J Ullman","Mining of massive datasets, 239-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2547542132761546426,9,2012
+コンパイラ: 原理・技法・ツール,AV エイホ,サイエンス社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16648661153280146329,9,2009
+A linear list merging algorithm,"JE Hopcroft, JD Ullman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7401070508906653968,9,2008
+Kompiliatory,"AV Aho, R Sethi, JD Ullman",Vil'iams,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8403540579474460973,9,2001
+A survey of association-rule mining,JD Ullman,"International Conference on Discovery Science, 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8376959698802260358,9,2000
+The interface between language theory and database theory,JD Ullman,"Theoretical studies in computer science, 133-151","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3370667438267625656,7929553165854586299",9,1992
+DNS considered harmful,"G Moore, J Ullman, D Sun, E Moore, M Blum, J Wilkinson",Proceedings of OOPSLA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13951789524400611489,9,1991
+オートマトン言語理論計算論 2,"JE Hopcroft, JD Ullman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6173710802715331829,9,1986
+Halting stack automata,JD Ullman,"Journal of the ACM (JACM) 16 (4), 550-563",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11422324345982396348,9,1969
+Meta-MapReduce: A technique for reducing communication in MapReduce computations,"F Afrati, S Dolev, S Sharma, JD Ullman",arXiv preprint arXiv:1508.01171,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15478798688395837286,8,2015
+Maximum H-colourable subdigraphs and constraint optimization with arbitrary weights,"P Jonsson, A Krokhin","Journal of Computer and System Sciences 73 (5), 691-702",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11601916589043995787,8,2007
+Wykłady z informatyki z przykładami w języku C,"AV Aho, JD Ullman",Wydaw. Helion,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4520402883800641439,8,2003
+"A report of three NSF workshops on mining large, massive, and distributed data","R Grossman, S Kasif, R Moore, D Rocke, J Ullman","Data Mining Research: Opportunities and Challenges, National Science …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=163259311023228539,8,1999
+"Versions, configurations, and constraints in CEDB","HC Howard, AM Keller, A Gupta, K Krishnamurthy, KH Law, PM Teicholz, ...","CIFE Working Paper 31, Center for Integrated Facilities Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6407969699678593106,8,1994
+New frontiers in database system research,JD Ullman,"Conference Organized by INRIA, France, 87-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12966277197080323973,8,1992
+Sethi,A Aho,"R & ULLMAN, J",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=131298903409960402,8,1989
+Combining State Machines and Regular Expressions for Automatic Synthesis of VLSI Circuits.,JD Ullman,STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2992236147794973676,8,1982
+The equivalence of universal relation definitions,"Stanford University. Computer Science Department, D Maier, JD Ullman, ...","Computer Science Department, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14754146861687764988,8,1982
+Applications of language theory to compiler design,JD Ullman,"Proceedings of the May 16-18, 1972, spring joint computer conference, 235-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7822484571688945630,8,1972
+The care and feeding of LR (k) grammars,"AV Aho, JD Ullman","Proceedings of the third annual ACM symposium on Theory of computing, 159-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13532411235492567398,8,1971
+Equivalence of programs with structured variables,"AV Aho, JD Ullman","11th Annual Symposium on Switching and Automata Theory (swat 1970), 25-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7211336764094202656,8,1970
+Experiments as research validation: Have we gone too far?,JD Ullman,"Communications of the ACM 58 (9), 37-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14216435827123952959,7,2015
+Fondamenti di informatica,U Aho,Zanichelli,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4777996275706084696,7,2011
+"AHO, Monica LAM, Ravi SETHI et Jeffrey D. ULLMAN: Compilers: Principles, Techniques, and Tools",V Alfred,Addison-Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13191185251846471115,7,2006
+Automated training and evaluation,"J Ullman, R Yerneni, A Beck","US Patent App. 11/146,515",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16603896511292350376,7,2005
+Ullmann: Compilerbau,"AV Aho, R Sethi, D JEFFREY","zwei Bänden. Das» Drachenbuch «. Das Standard-Lehrbuch, das alle Methoden …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4668923456666583214,7,1997
+The role of theory today,JD Ullman,"ACM Computing Surveys (CSUR) 27 (1), 43-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17650832942477424401,7,1995
+Syntax-directed translation,"AV Aho, R Sethi, JD Ullman","Compilers: Principles, Techniques, Tools. Reading, Mass.: Addison-Wesley, 33-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14530784296566046761,7,1988
+"Sethi. R. and Ullman. J.(1986) Compilers: Principles, Techniques and Tools",A Aho,"Addison-Wesley Publishing Company, Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9370463658182573636,7,1986
+Compiler Construction,"RSA Aho, J Ullman",Addison-Wessley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3975155736333194544,7,1984
+Optimal algorithms for structural assembly,"D Dolev, K Karplus, A Siegel, A Strong, JD Ullman","VLSI Design 3, 38-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8817773018278570625,7,1982
+"The Theory of Parsing, Compiling and Translation. Vols. I & II","VA Aho, JD Ullman",Prentice-Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18149713022229417660,7,1972
+MapReduce algorithms,J Ullman,"Proceedings of the 2nd IKDD Conference on Data Sciences, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13001410200641824973,6,2015
+Assignment of different-sized inputs in mapreduce,"F Afrati, S Dolev, E Korach, S Sharma, JD Ullman",arXiv preprint arXiv:1501.06758,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17542869139259878685,6,2015
+Role Mining in Business: Taming Role-Based Access Control Administration,"C Alessandro, O Alberto",World Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1368868591177918262,6,2012
+A new computation model for rack-based computing,"FN Afrati, JD Ullman",PODS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8785096191987357790,6,2009
+Compiler–Prinzipien,"A Aho, M Lam, R Sethi, J Ullmann","Techniken und Werkzeuge, Pearsom Studium",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1375199893543733440,6,2008
+"Foundations of Computer Science, chapter 10","A Aho, J Ullman",Freeman,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4571146956019664286,6,1995
+Medmaker: a mediation system based on declarative specification,"YPH Garcia-Molina, J Ullman","Technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10050910594456558686,6,1995
+Instructor's Manual to Accompany Foundations of Computer Science,"AV Aho, JD Ullman",Computer Science Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2901544779881518808,6,1993
+Finite automata,"J Hopcroft, J Ullman, S Rivas","Introduction to Automata Theory Languages and Computation, S. Rivas, Ed …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13116244671970640424,6,1979
+Evaluating relational expressions with dense and sparse arguments,"TG Szymanski, JD Ullman","SIAM Journal on Computing 6 (1), 109-122",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16828501673214171977,6,1977
+Two results on one-way stack automata,"JE Hopcroft, JD Ullman","8th Annual Symposium on Switching and Automata Theory (SWAT 1967), 37-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5462072518467336358,6,1967
+D.(1974),"AV Aho, JE Hopcroft, J Ullman","The Design and Analysis of ('ornpattr Algorithms, Addison-Wesley Publishing …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8171127754178102949,6,0
+"Widom., J.(1995)‘Integrating and Accessing Heterogeneous Information Sources in TSIMMIS’","H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman","AAAI Symposium on Information Gathering, Stanford, California, 61-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1216222136843565498,6,0
+"Data science education: We're missing the boat, again","B Howe, M Franklin, L Haas, T Kraska, J Ullman","2017 IEEE 33rd international conference on data engineering (ICDE), 1473-1474",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15932942884735971614,5,2017
+A new computation model for cluster computing,"FN Afrati, JD Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11313966812435640572,5,2009
+"Compiler: Prinzipien, Techniken und Werkzeuge","JD Ullman, MS Lam, R Sethi",Pearson Deutschland GmbH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12597303586972728847,5,2008
+DataStructuresandAlgorithms,"V AhoA, UJD HopcroftE","北京: 清华大学出版社 199, 228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1415135877079903061,5,2003
+编译原理技术与工具 (英文版),"AV Aho, R Sethi, JD Ullman",北京: 人民邮电出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7767788943936649902,5,2002
+"JD; WIDOM, J","HU Garcia-Molina, J Ullman",Implementação de Bancos de Dados. Rio de Janeiro-RJ: Campus,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12179686285586055268,5,2001
+Data mining techniques for structured and semistructured data,S Nestorov,stanford university,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14012746035017499144,5,2000
+The MIDAS data-mining project at Stanford,JD Ullman,Proceedings. IDEAS'99. International Database Engineering and Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8854339576530525390,5,1999
+A survey of research in deductive database systems,"J Ullman, R Ramakrishnan","J. Logic Programming, 125-149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2236322377504360158,5,1995
+"C3: Changes, consistency, and configurations in heterogeneous distributed information systems","J Widom, J Ullman","Unpublished project description, available through the URL http://www-db …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6489678694049027646,5,1995
+"The TSIMMIS project: integration of heterogeneous information sources,"" IPSJ Conference, Tokyo, 1994. Available by anon. ftp as pub/chawathe/1994/tsimmis-overview. ps from db","S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, ...",stanford. edu,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4657559674272270249,5,1994
+Systemy baz danych. Kompletny podręcznik. Wydanie II,"H Garcia-Molina, JD Ullman, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2759671099076186129,5,1991
+Run-Time Environments,"A Aho, R Sethi, J Ullman","Compilers: Principles, Techniques, and Tools, Addison-Welsey, 389-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11222343292966235049,5,1986
+"till man, Database Systems",D Jeffrey,Computer-Science Press Inc,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7680082983286670376,5,1982
+"The Theory of Parsing, Translation, and Compiling (Vol. 1). Englewoods Cliffs","A Aho, J Ullman",NJ: Prentice-Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16801585179134598698,5,1972
+"Compiladores: Princıpios, técnicas e ferramentas 3 ed","A AHO, J ULLMANN, S REVI",Rio de Janeiro: LTC-Livros,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=639009912975968999,5,0
+ULLMAN: Magic sets and other strange ways to implement logic programs,"F Bancilhon, D Maier, Y SAGIV, D JEFFREY","ACM (Herausgeber): PODS 86, 24-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18211138073399151948,5,0
+Computing marginals using MapReduce,"FN Afrati, S Sharma, JR Ullman, JD Ullman","Journal of Computer and System Sciences 94, 98-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15180823383033568428,4,2018
+Efficient and private approximations of distributed databases calculations,"P Derbeko, S Dolev, E Gudes, JD Ullman","2017 IEEE International Conference on Big Data (Big Data), 4487-4496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7725284239386386712,4,2017
+Dimensionality reduction,"J Leskovec, A Rajaraman, J Ullman",Mining of Massive Datasets (online book v2. 1). Stanford: Stanford …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10011712045480379278,4,2014
+Viewpoint Advising students for success,JD Ullman,"Communications of the ACM 52 (3), 34-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6981809246966126808,4,2009
+21st Century Compilers,"AV Aho, R Sethi, JD Ullman, M Lam",Pearson Addison Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9641903089852892337,4,2004
+Content-based music retrieval on acoustic data,"Z Yang, JD Ullman",Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17679740555806033861,4,2003
+"Deductive Databases: Challenges, opportunities and future directions","A Siebes, S Tsur, J Ullman, L Vieille, C Zaniolo","International Workshop on Logic in Databases, 223-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4395666833405397859,4,1996
+Index Selection for OLAP,"JD Ullman, H Gupta",Proc. of ICDE97,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17720661604992346331,4,1996
+Validating constraints with partial information: Research overview,"J Widom, A Gupta, Y Sagiv, J Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6352065529836508709,4,1994
+A programming and problem solving seminar,"E Chang, SJ Phillips, JD Ullman","Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5378518167483535535,4,1991
+The theory of deductive database systems,JD Ullman,Digest of Papers Compcon Spring'90. Thirty-Fifth IEEE Computer Society …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17249463452419363926,4,1990
+The theory of functional and template dependencies,"F Sadri, JD Ullman","Theoretical Computer Science 17 (3), 317-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6793678061061122022,4,1982
+"The Theory of Parsing, Translation, and Compiling, vol. 1 (page 357, Algorithm 5.5)","AV Aho, JD Ullman",Prentice-Hall,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15572866242055866496,3424903285199539111",4,1972
+Characterizations and extensions of pushdown translations,"AV Aho, JD Ullman","Mathematical systems theory 5 (2), 172-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10418764884610139185,4,1971
+The Design of Hashing Functions,Princeton University. Department of Electrical Engineering. Computer Science ...,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15603136497436868973,4,1970
+"Database system implementation, 2000","H Garcia-Molina, J Ullman, J Widom","Prentice Hall 2 (3.1), 2.3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16886592566511444073,4,0
+Principles of Compiler Design. 1978,"AV Aho, JD Ullman",Addison-Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1973437837167944075,4,0
+Shasta: Interactive reporting at scale,"GNB Manoharan, S Ellner, K Schnaitter, S Chegu, A Estrella-Balderrama, ...","Proceedings of the 2016 International Conference on Management of Data, 1393 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16708093501029687331,3,2016
+Clustering,"JD Ullman, A Rajaraman","Mining of Massive Datasets, 241-280",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11408872651006560768,3,2012
+The impact of efficient modalities on electrical engineering,"I WILSON, D JOHNSON, J ULLMAN, M PANWAR, Y JOHNSON, ...",Proceedings of MOBICOM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7655083210970756532,3,2003
+A methodology for the emulation of courseware,"O Martinez, S Floyd, J Wilkinson, Y Johnson, MV Wilkes, H Simon, ...",Proceedings of MOBICOM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15019263003375996314,3,2002
+Database Systems,"HG Molina, J Ullman, J Widom",The complete Book,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9780147552185561242,3,2002
+NSF workshop on industrial/academic cooperation in database systems,"MJ Carey, LJ Seligman, H Pirahesh, J Hamilton, J Cherniavsky, ...","SIGMOD Record 28 (1), 115-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2831966040456270021,3,1999
+Capability based mediation in TSIMMIS,"L Chen, R Yerneni, V Vassalos, H Garcia-Molina, Y Papakonstantinou, ...",Proceedings on SIGMOD 98 Demo,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15783861857949600991,3,1998
+Logic and database systems,JD Ullman,"On Knowledge Base Management Systems, 121-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8902437726699929350,3,1986
+Updating logical databases,"JD Ullman, MY Vardi",Advances in Computing Research 3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=995456169084913308,3,1986
+Linear precedence functions for weak precedence grammars,"AV Aho, JD Ullman","International Journal of Computer Mathematics 3 (1-4), 149-155",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9608366161752100258,3,1972
+Pushdown automata with bounded backtrack,J Ullman,SYSTEM DEVELOPMENT CORP SANTA MONICA CA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16616353501917757127,3,1965
+1974The design and analysis of computer algorithms,"AV Aho, JD Ullman, JE Hopcroft","Cambridge, MA: Addison-Wesley) zbMATH",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9625197245871928586,3,0
+Partitioned data security on outsourced sensitive and non-sensitive data,"S Mehrotra, S Sharma, J Ullman, A Mishra","2019 IEEE 35th International Conference on Data Engineering (ICDE), 650-661",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14611002196033377231,2,2019
+Concise essence-preserving big data representation,"P Derbeko, S Dolev, E Gudes, JD Ullman","2016 IEEE International Conference on Big Data (Big Data), 3662-3665",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7806260456216697757,2,2016
+Aceleración de algoritmos mediante hardware reconfigurable,"LM Garces Socarras, S Sanchez Solano, P Brox Jimenez","e-libro, Corp.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8397984488660886835,2,2011
+Jure Leskovec,"A Rajaraman, JD Ullman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7970269495592372196,2,2010
+A First Course in Database Systemm (3rd).[M],"JD Ullman, J Widow",Beijing: China Machine Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13929452104127189867,2,2008
+lFinite Automata lRegular Expressions,"JE Hopcroft, JD Ullman","Introduction to automata theory, languages, and computation, New York …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1071856955579308222,2,2006
+"Introducción a la teoría de autómatas, lenguajes y computación''","J Ullman, J Hopcroft, R Motwani","México: COMPAÑÍA EDITORIAL CONTINENTAL 1, 447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12021850104150586133,2,2002
+Adatbázisrendszerek megvalósítása,"H Garcia-Molina, JD Ullman, J Widom, A Buza, E Cserges, C Hajas",Panem,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2633370250718889000,2,2001
+Information Integration,"JD Ullman, J Widom, H Garcia-Molina","Database System Implementation, Prentice Hall, 595-612",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692809333225976191,2,1999
+Index selection for olap,"V Harinarayan, A Rajaraman, JD Ullman","Proceedings for 13th International Conference on Data Engineering, 208-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=942964381729027234,2,1997
+Foundations of Computer Science,"AV Hopcroft, JD Ullman",Computer Science Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5740049074818554975,2,1992
+An approach to processing queries in a logic-based query language,JD Ullman,"On Knowledge Base Management Systems, 147-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7104799590791909810,2,1986
+Principles of database systemsComputer Sc,J Ullman,Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9288212697007291401,2,1983
+Query Processing in Universal Relation Systems,JD Ullman,"IEEE Database Eng. Bull. 5 (3), 6-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16514908244874958219,2,1982
+Template Dependencies,"F Sadri, J Ullman","unpubl. manuscript, Stanford Univ",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5861335876162736904,2,1980
+Algorytmy+ struktury danych,"N Wirth, M Iglewski",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4983235034464388104,2,1980
+Principles of Compiler Design. 2nd printing,"AV Aho, JD Ullman","USA: Addison-Wesley.(Aho & Ullman, 1978)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16259780480408354190,2,1978
+Principles of Compiler Design: By Alfred V. Aho and Jeffrey D. Ullman,AV Aho,Addison-Wesley Publishing Company,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1703654353527875702,2,1977
+Security in Statistical Data Bases,"JB Kam, JD Ullman",Princeton University. Department of Electrical Engineering,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4659035643137945026,2,1976
+Asymptotic complexity of partial fraction expansion,Princeton University. Department of Electrical Engineering. Computer Science ...,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17209335337688873935,2,1975
+Adverse Event Profiles for Multi-drug Combinations,"S Iyer, K Tayal, S Soman, J Ullman",CS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13887893560739467263,2,0
+Efficient Multiway Hash Join on Reconfigurable Hardware,"K Olukotun, R Prabhakar, R Singhal, JD Ullman, Y Zhang",arXiv preprint arXiv:1905.13376,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6034143696065722434,1,2019
+Efficient Multiway Hash Join on Reconfigurable Hardware,"R Singhal, Y Zhang, JD Ullman, R Prabhakar, K Olukotun",Technology Conference on Performance Evaluation & Benchmarking (TPCTC),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2047687282062256051,1,2019
+Report from the third workshop on Algorithms and Systems for MapReduce and Beyond (BeyondMR'16),"FN Afrati, J Hidders, C Ré, J Sroka, J Ullman","ACM SIGMOD Record 46 (2), 43-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9922582825940147755,1,2017
+Panel: the state of data: invited paper from panelists,"M Bonenfant, BC Desai, D Desai, B Fung, MT Özsu, JD Ullman",Proceedings of the 20th International Database Engineering & Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10337596685632515183,1,2016
+Some pairs problems,"JD Ullman, J Ullman",Proceedings of the 3rd ACM SIGMOD Workshop on Algorithms and Systems for …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1173824697864396358,1,2016
+Brief Announcement: Meta-MapReduce A Technique for Reducing Communication in MapReduce Computations⋆,"F Afrati, S Dolev, S Sharma, JD Ullman","Stabilization, Safety, and Security of Distributed Systems: 17th …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10801377299272878497,1,2015
+Handling skew in multiway joins in parallel processing,"FN Afrati, JD Ullman, A Vasilakopoulos",arXiv preprint arXiv:1504.03247,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=91670151456033652,1,2015
+Brief Announcement: Assignment of Different-Sized Inputs in MapReduce⋆,"F Afrati, S Dolev, E Korach, S Sharma, JD Ullman","Distributed, 536",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17583406003426471054,1,2014
+Podstawowy kurs systemów baz danych,"JD Ullman, J Widom, R Meryk",Helion,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9979905845838488566,1,2011
+Lav integration of uncertain data,"P Agrawal, AD Sarma, J Ullman, J Widom","Tech. rep. 2008-31, Stanford InfoLab",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5936114139047982728,1,2008
+A survey of new directions in database systems,JD Ullman,Eighth International Conference on Database Systems for Advanced …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3044498274262387,1,2003
+Endliche Automaten,"JE Hopcroft, R Motwani, JD Ullmann","Einführung in die Automatentheorie, Formale Sprachen und Komplexitätstheorie …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6483594154626619445,1,2002
+MapReduce: Simplified data processing on large clusters.,"H Bin, P Yuxing, R Agrawal, A Somani, Y Xu, DJ Abadi, A Crainiceanu, ...","Information Technology Journal 12 (20), pp: 149-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10736062402859659180,1,2001
+"Compilers: Principles, Techniques, and Tools</TITLE","AV Aho, R Sethi, JD Ullman",Addison-Wesley</PUBLISHER,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10247448174822263187,1,1985
+A Communication-time Tradeoff,JD Ullman,"Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12118000132067635897,1,1983
+A view of directions in relational database theory,JD Ullman,"International Colloquium on Automata, Languages, and Programming, 165-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8678569639492778677,1,1981
+The UR strikes back,JD Ullman,"Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6715581628578750785,1,1981
+A Survey of Formal Language Theory,"JE Hopcroft, JD Ullman",Proceedings of the Princeton Conference on Information Sciences and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11324183534617061630,1,1967
+Answering Queries Using Templates with Binding Patterns (Extended Abtract),"A Rajaraman, Y Sagiv, JD Ullman","Proc. 14th ACM PODS, 105-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13715834739936703213,1,0
+FAQtor: Automatic FAQ generation using online forums,"A Bihani, JD Ullman, A Paepcke",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11100566369796472394,1,0
+Foundations of,"A Aho, J Ullman",Computer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2868475187215598587,1,0
+Scaling Cryptographic Techniques by Exploiting Data Sensitivity at a Public Cloud,"S Mehrotra, S Sharma, JD Ullman",Proceedings of the Ninth ACM Conference on Data and Application Security and …,,0,2019
+Report from the Fourth Workshop on Algorithms andSystems for MapReduce and Beyond (BeyondMR'17),"FN Afrati, J Hidders, P Koutris, J Sroka, J Ullman","ACM SIGMOD Record 46 (4), 44-48",,0,2018
+Playing: its theoretical status in the clinical situation,"K Abraham, R Abraham, C Shaw, A Aho, J Hopcroft, J Ullman, J Anderson, ...",Nonlinear Psychoanalysis: Notes from Forty Years of Chaos and Complexity …,,0,2017
+Boosting the Value of Online Class Forum Facilities,"A Bihani, J Ullman, A Paepcke",Stanford InfoLab,,0,2017
+Structure marking,"IC Bertolotti, T Hu, AV Aho, MS Lam, R Sethi, JD Ullman, JH Anderson, ...","Embedded Software Development: The Open-Source Approach 10 (12), 1-6",,0,2016
+Computing Marginals Using MapReduce: Keynote talk paper,"FN Afrati, S Sharma, JD Ullman, JR Ullman",Proceedings of the 20th International Database Engineering & Applications …,,0,2016
+Portrait of an Indexer—Computing Pointers Into Instructional Videos,"A Lamb, J Hernandez, J Ullman, A Paepcke",Stanford InfoLab,,0,2016
+Modul IB-207: Compiler,"A Syntaxbaum, AV Aho, MS Lam, R Sethi, JD Ullmann","Modulhandbuch, 29",,0,2016
+"“Compilers–Principles, Techniques and Tools”, Pearson Education, 2007","AV Aho, MS Lam, R Sethi, JD Ullman",BHARATHIDASAN ENGINEERING COLLEGE,,0,2016
+Towards Automated Study Guides for MOOCs,"J Hernandez, A Lamb, A Paepcke, J Ullman",Stanford InfoLab,,0,2015
+",“Introduction to Automata Theory, Languages and Computations”, Pearson Education, 2007","JE Hopcroft, R Motwani, JD Ullman",BHARATHIDASAN ENGINEERING COLLEGE,,0,2015
+Reducer capacity and communication cost in MapReduce algorithms design,"F Afrati, S Dolev, E Korach, S Sharma, JD Ullman","Proceedings of the 8th ACM International Systems and Storage Conference, 22",,0,2015
+Big Data Management and Analytics,"J Leskovec, A Rajaraman, J Ullman",,,0,2015
+Editor’s Note: Special Issue on Database Theory,"DD Amsterdamer, T Milo, P Senellart, P Bourhis, V Vianu, ...","Theory Comput Syst 57, 805",,0,2015
+Department of Computer Science Stanford University,JD Ullman,"Theoretical Studies in Computer Science, 133",,0,2014
+"Compilers: Pearson New International Edition-Principles, Techniques, and",JD Ullman,Pearson Education Limited,,0,2013
+First Course in Database Systems: International Edition,JD Ullman,Pearson Education Limited,,0,2013
+95 Generative Capacity,"JE Hopcroft, JD Ullman","Catalogue of Artificial Intelligence Tools, 63",,0,2012
+Chiến lược kinh doanh dịch vụ Bưu chính của Bưu điện Thành phố Đà Nẵng 2010-2015,TH Nguyễn,Trường Đại học Kinh tế Đà Nẵng,,0,2012
+PODS 30th Anniversary Colloquium,"M Lenzerini, MY Vardi, R Fagin, JD Ullman, S Abiteboul, V Vianu, ...",Proceedings of the thirtieth ACM SIGMOD-SIGACT-SIGART symposium on …,,0,2011
+Research and development of the cross compiler based on GCC for embedded system.,"L Gao-ming, L Chao, L Song-chao, T Huai-liang, MM Chabbi, ...","Information Technology Journal 13 (13), pp: 34-45",,0,2011
+Push-Down Automata and Context-Free Languages,"Y Su, SY Yan","Principles of Compilers, 101-124",,0,2011
+Anand Rajaraman,JD Ullman,,,0,2010
+Constant propagation with conditional branches,"O Agesen, D Detlefs, JE Moss, AV Aho, JE Hopcroft, JD Ullman, AV Aho, ...","Data Flow Analysis: Theory and Practice 5 (7), 1-20",,0,2009
+Path-oriented test data generation using symbolic execution and constraint solving techniques.,"C Zhang, Y Chen, M Hall, E Frank, G Holmes, B Pfahringer, P Reutemann, ...","Journal of Software Engineering 6 (4), 10-18",,0,2009
+Prof. Raj Reddy,JD Ullman,KAIST,,0,2009
+"Daisy F. Sang, Office 8/8, Phone 909-869-3469, Email fcsang@ csupomona. edu Office hours: Tuesday 9–10 AM, Wednesday 2–3 PM, Thursday 9–10 AM and 1–3 PM Course web site: http …","AV Aho, MS Lam, R Sethi, JD Ullman",,,0,2009
+Equal Opportunity Support for All,"JD Ullman, J Widom",Communications of the ACM 52 (7),,0,2009
+"On Computable Numbers, with an Application to the Entscheidungsproblem","DE Stevenson, DE Stevenson, AV Aho, JD Ullman, AV Aho, R Sethi, ...","Programming Language Fundamentals by Example 9 (3), 177-188",,0,2007
+Behavior description for complex flexible manufacturing system based on decomposition of Petri net.,"WJ Lian, H Fan, YY Du, YQ Liang, YY Du, CJ Jiang, MC Zhou, YY Du, ...","Information Technology Journal 7 (4), 643-654",,0,2007
+One-Dimensional Stable Distributions.,"Y Zhu, X Sun, Z Xia, L Chen, T Li, D Zhang, D Boneh, B Waters, N Cao, ...","Information Technology Journal 13 (5), pp: 535-554",,0,2007
+50 Formale Strukturen,"P als formale Sprachen, AA Aho, R Sethi, J Ullmann, N Wirth",Modulhandbuch,,0,2006
+"Lo normativo y lo descriptivo y su conflicto en las praxiologías: el caso de las teorías de la utilidad (de predicadores y pecadores), tesis doctoral 1994",PFJ Pavesi,"Universidad de Buenos Aires, Facultad de Ciencias Económicas,",,0,2004
+Special Issue on PODS 2001,"R Fagin, A Lotem, M Naor, KS Larsen, D Achlioptas, N Alon, T Milo, ...",,,0,2003
+The Lowell Database Research Self Assessment,"S Zdonik, J Widom, G Weikum, J Ullman, R Snodgrass, M Stonebraker, ...",,,0,2003
+A model and an hypothesis for language structure,"S Vasishth, S Vasishth, D Aaronson, S Ferres, D Aaronson, ...",Working Memory in Sentence Comprehension: Processing Hindi Center Embeddings …,,0,2003
+Business Process Engineering: Reference Models for Industrial Enterprises.,"SA Salaimeh, K Batiha, J Friedl, M Hammer, J Champy, J Hop-Kroft, ...","Information Technology Journal 5 (3), pp: 216-pp: 216",,0,2003
+On computable numbers with an application to the Entscheidung sproblem (decision problem).,"SR Khan, D Guetta, JE Hopscroft, R Motwani, JD Ullman, SR Khan, ...","Information Technology Journal 5 (6), 305-313",,0,2003
+Database System Concepts.,"N Arman, R Elmasri, S Navathe, J Ullman, A Silberschatz, H Korth, ...","Information Technology Journal 5 (2), pp: 2-pp: 2",,0,2003
+Sergey Brin,"S Brin, R Rastogi, K Shim, M Henzinger, BW Chang, B Milch, C Silverstein, ...","IEEE Trans. Knowl. Data Eng 15, 324-338",,0,2003
+Journal of Computer and System Sciences](]]]])]]]–]]],"E Fischer, G Kindler, BD Ron, S Safra, A Samorodnitsky",,,0,2003
+"Achlioptas, Dimitris, 671 Agarwal, Pankaj K., 207 Alon, Noga, 688 Arge, Lars, 207 B","S Ben-David, M Benedikt, V Carchiolo, Z Chen, NN Dalvi, N Eiron, ...","Journal of Computer and System Sciences 66, 853",,0,2003
+Condensed cube: An effective approach to reducing data cube size.,"MK Ajaja, F Yu, W Shan, S Acharaya, PB Gibbons, V Poosla, D Barbara, ...","Information Technology Journal 5 (3), 625-635",,0,2002
+Новые книги по дискретной математике,АД Коршунов,"Дискретный анализ и исследование операций 9 (2), 102-104",,0,2002
+Foundations of Databases</title,"S Abiteboul, V Vianu, JD Ullman","Foundations of Information and Knowledge Systems 39 (5), 384",,0,2002
+DBMS</title,JD Ullman,"2001 IEEE Conference on Logic and Computer Science (LICS 2001) 19 (9), 379",,0,2001
+Generating Efficient Plans for Queries Using Views (Full Version),"F Afrati, C Li, J Ullman",Technical Report,,0,2001
+Journal of Computer and System Sciences Volume 62 Issue 2,"J Hartmanis, J Hopcroft, RM Karp, DE Nuth, A Meyer, RE Miller, M Rabin, ...","Academic Press, Inc. 62 (2)",,0,2001
+Journal of Computer and System Sciences Volume 60 Issue 3,"FC Graham, EK Blum, A Meyer, RE Miller, M Rabin, H Rogers Jr, D Scott, ...","Academic Press, Inc. 60 (3)",,0,2000
+Jason George McHugh March 2000,S DATA,stanford university,,0,2000
+Some Advances in Data-Mining Techniques,JD Ullman,International Workshop on Next Generation Information Technologies and …,,0,1999
+Safety in numbers,W Grossman,"Daily Telegraph, 4-5",,0,1999
+Query Flocks: A Generalization of Association-Rule Mining,"JD Ullman, R Motwani, S Nestorov",,,0,1998
+Efficient Management of Active Databases,"JD Ullman, J Widom",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1998
+"Reminiscences on Influential Papers-R. Snodgrass, ed.","H Garcia-Molina, T Imielinski, D Maier, P Selinger, J Ullman","SIGMOD RECORD 27, 33-35",,0,1998
+Dick Tsur,"JD Ullman, S Abiteboul, C Clifton, R Motwani, S Nestorov, A Rosenthal",,,0,1997
+"Dick Tsur, Hitachi Corp.","JD Ullman, S Abiteboul, C Clifton, R Motwani, S Nestorov, A Rosenthal",,,0,1997
+"sign and Analysis of Computer Algorithms; Read-ing, MA: Addison-Wesley, 1974. J. Hertz, A. Krogh, RG Palmer, Introduction to the Theory of Neural Computation; Redwood City","AV Aho, JE Hopcroft, JD Ullman","Intelligent Methods for Signal Processing and Communications, 32",,0,1997
+Evolving materialized views in data warehouse.,"CA Dhote, MS Ali, E Baralis, S Paraboschi, E Tenientle, JA Blaiseley, ...","Journal of Applied Sciences 9 (3), pp: 488-499",,0,1997
+Moving database theory into database practice,J Ullman,"ACM Computing Surveys (CSUR) 28 (4es), 90",,0,1996
+Sstanford UNIVERSITY,H Korth,,,0,1996
+What is software testing? And why is it so hard?,"S Wang, Y Ji, W Dong, X Sun, Y Liu, TY Chen, YT Yu, TY Chen, YT Yu, ...","Information Technology Journal 12 (14), 109-119",,0,1996
+MedMaker: A Mediation System Based on Declarative Speciﬁcations ii,"Y Papakonstantinou, H Garcia-Molina, J Ullman",Proceedings of the twelfth International Conference on Data Engineering …,,0,1996
+Research Into Multimedia Database Systems,J Ullman,"11. SUPPLEMENTARY NOTES, 50",,0,1995
+Design and Implementation of Logical Database Languages.,JD Ullman,STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1994
+Peer DB: A P2P-based system for distributed data sharing.,"NS Ougouti, H Belbachir, Y Amghar, NA Benharkat, S Chawathe, ...","Journal of Applied Sciences 10 (22), pp: 7-18",,0,1994
+New Uses for Old Theory: Databases with Active Rules,JD ULLMAN,"第 3 回デ-タベ-スエンジニアリングフォ-ラム, 1-11",,0,1994
+Editor's foreword,AK Chandra,"Journal of Computer and System Sciences 47 (1), 1",,0,1993
+Fast mining of spatial collocations.,"A Tiwari, RK Gupta, DP Agrawal, R Agrawal, T Imielinski, A Swami, ...","Information Technology Journal 9 (7), pp: 207-216",,0,1993
+MORE ON RELATIONAL DATABASE-SYSTEMS,"F BANCILHON, PA BERNSTEIN, M CAREY, D DEWITT, R FAGIN, ...","COMMUNICATIONS OF THE ACM 35 (8), 14-15",,0,1992
+Design and Implementation of Parallel Algorithms,JD Ullman,STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1992
+"20TH ANNUAL ACM SYMPOSIUM ON THE THEORY OF COMPUTING, MAY 2-4, 1988-FOREWORD",JD ULLMAN,"JOURNAL OF COMPUTER AND SYSTEM SCIENCES 43 (3), 405-405",,0,1991
+"Twentieth annual ACM symposium on theory of computing: selected papers, May 2-4, 1988",JD ULLMAN,"Journal of computer and system sciences 43 (3), 405-466",,0,1991
+Selected database research at Stanford,"A Keller, P Rathmann, J Ullman, G Wiederhold","ACM SIGMOD Record 19 (4), 119-127",,0,1990
+Research into the Design and Implementation of Knowledge Base Systems,JD Ullman,STANFORD UNIV CA,,0,1990
+"FOR FURTHER INFORMATION ON THESE COURSES, WRITE OR PHONE: Joleen Barnhill, Program Manager Western Institute in Computer Science (WICS)","E Horowitz, A Wasserman, Z Manna, A Pneuli, KС Sevcik, ED Lazowska, ...",COMPUTER,,0,1990
+17 _ 27 Caching,"AV Aho, JE Hopcroft, JD Ullman",,,0,1990
+"Database Systems: Achievements and Opportunities: The'Lagunita'Report of the NSF Invitational Workshop on the Future of Database Systems Research, Held in Palo Alto, California …","A Silberschatz, M Stonebraker, JD Ullman",University of Texas. Department of Computer Sciences,,0,1990
+"Mathematics of Information Processing (Michael Anshel and William Gewirtz, eds.)",JD Ullman,"SIAM Review 30 (1), 165-168",,0,1988
+Cumulative bibliography,"KD Bahn, KL Granzin, B Segmentation, VV Bellur, RA Chaganti, ...","Art Market 11, 240-49",,0,1988
+Algorithms for the compilation of regular expressions into PLAs,"AR Karlin, HW Trickey, JD Ullman","Algorithmica 2 (1-4), 283-314",,0,1987
+Editor's foreword,J Ullman,"Journal of Computer and System Sciences 33 (2), 125",,0,1986
+Access,P Rony,"IEEE Micro, 84-87",,0,1986
+"JOURNAL OF COMPUTER ANv SYSTEM SCIENCES 33, 481 (1986)","A GIORGIO, N BIDOIT, TIM CONNORS, SS COSMADAKIS, E DAHLHAUS, ...","SCIENCES 33, 481",,0,1986
+"Tools, Addison-Wesley, Reading, MA, 1986.[Ambler 77] AL Ambler, DI Good, WF Burger, and CG Hoch,“GYPSY: A Language for Specification and Implementation of Verifiable Programs …","AV Aho, R Sethi, JD Ullman","Transformation 10 (5), 574-588",,0,1984
+Universal Relation Database Systems.,JD Ullman,STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1983
+"Universal relation database systems[Annual Report, 1 Sep. 1982- 31 Aug. 1983]",JD ULLMAN,,,0,1983
+Research in VLSI Systems. Heuristic Programming Project and VLSI Theory Project. A Fast Turn Around Facility for Very Large Scale Integration (VLSI),"J Hennessy, R Matthews, J Newkirk, J Shott, J Ullman",STANFORD UNIV CA,,0,1982
+The Equivalence of Universal Relation Definitions.,"JD Ullman, MY Vardi, D Maier",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1982
+Design of a Universal Relation Database System.,JD Ullman,STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1982
+"Design of a universal relation database system[Annual Report, 1 Sep. 1981- 31 Aug. 1982]",JD ULLMAN,,,0,1982
+Maximal objects and the semantics of universal relation data bases[Interim Report],"D MAIER, JD ULLMAN",,,0,1981
+"FSMC+, a tool for the generation of java code from statecharts.","J Ali, A Aho, J Ullman, J Ali, J Tanaka, G Booch, R James, J Ivar, ...","Journal of Software Engineering 4 (3), 65-77",,0,1979
+Crossfertilization Of DBMS Research With Other Disciplines Of Computer Science (Panel Discussion),"B Bhargava, SR Kimbleton, BH Liskov, J Minker, JD Ullman","Proceedings of the 1978 annual conference, 325",,0,1978
+"Teorija sintaksičeskogo analiza, perevoda i kompiljacii: Tom 1. Sintaksičeskij analiz","AV Aho, JD Ullman",Mir,,0,1978
+"Teorija sintaktičeskogo analiza, perevoda i kompiľaciji: Sintaktičeskij analiz","AV Aho, JD Ullman",Mir,,0,1978
+""" Wfc","AV Aho, R Sethi, JD Ullman","IEEE Trans. Software Eng, 266-278",,0,1977
+The Theory of Joins in Relational Data Bases,"C Been, JD Ullman","18th Annual Symposium on Foundations of Computer Science, Oct. 31-Nov. 2 …",,0,1977
+The Design and Analysis of Computer Algorithms,HD Ratliff,"Interfaces 6 (2), 77-78",,0,1976
+"niques, and Tools, Addison-Wesley, Reading, MA, 1986.[Alagic78] Suad Alagic and Michael Arbib, The Design of Well-Structured and Correct Programs, Springer-Verlag, New York …","H Abelson, GJ Sussman, J Sussman, A Aho, R Sethi, J Ullman","Informatica 6, 109-131",,0,1976
+The Design and Analysis of Computer Algorithms,VR Pratt,"American Scientist 64 (1), 99-100",,0,1976
+A Genetic Algorithm for Database Query Optimization.,"M Sinha, SV Chande, JH Holland, KA De-Jong, DE Goldberg, SV Chande, ...","Research Journal of Information Technology 2 (3), Pages: 183-Pages: 183",,0,1975
+"ALAGI6, SUAD, 266 AMOROSO, SERAFINO, 77 ASHCROFT, EA,] 10","C BEERI, G COOPER, G GERMANO, S GINSSURC, JA GOOUEN, ...",,,0,1975
+John E. Hopcroft and Jeffrey D. Ullman. Relations between time and tape complexities. ,J Bečvář,"The Journal of Symbolic Logic 38 (2), 343-343",,0,1973
+"DYNAMIC MEMORIES WITH RAPID RANDOM AND SEQUENTIAL ACCESS AV Aho Bell Laboratories Murray Hill, New Jersey 07974",JD Ullman,Proceedings of the... Annual Princeton Conference on Information Sciences …,,0,1973
+"1972 THIRTEENTH ANNUAL SYMPOSIUM ON SWITCHING AND AUTOMATA THEORY OCTOBER 25-27, 1972","AR Meyer, R Moll, JD Ullman, JL Bruno, EG Coffman, WH Hosken, ...",,,0,1972
+Eleventh Annual Switching and Automata Theory Symposium,"JW Carlyle, S Greibach, J Hartmanis, EK Blum","Journal of Computer and System Sciences 6 (2), i",,0,1972
+Global parallel indexing for multi-processors database systems.,"KMA Hasan, R Bayer, EM McCreight, R Bayer, K Unterauer, E Bertino, ...","Information Technology Journal 7 (7), 173-189",,0,1972
+JE Hopcroft,JD Ullman,Combinatorial Algorithms: Courant Computer Science Symposium 9: January 24 …,,0,1972
+"An n log n Algorithm for Detecting Reducible Graphs^ JE Hopcroft Cornell University Ithaca, NY",JD Ullman,Proceedings of the... Annual Princeton Conference on Information Sciences …,,0,1972
+MR Garey and R. L Graham,JD Ullman,Combinatorial Algorithms: Courant Computer Science Symposium 9: January 24 …,,0,1972
+THE CARE AND FEEDING-OP LR (k) GRAMMARS1,"AV Aho, JD Ullman",Proceedings of the... ACM Symposium on Theory of Computing 3,,0,1971
+"PLATA 1985. Garcfa Hidalgo, Ma.. Isabel y Freidberg, Laura."" Procedimiento computacional para compatibilizar el sistema de la biblioteca de El Colegio de México con mi-croisis …","JE Hopcroft, JD Ullman, SM Malinconioo, PJ Fasana","Comm. ACM 13 (10), 591-606",,0,1970
+R69-19 On the Elimination of Endmarkers,JD Ullman,"IEEE Transactions on Computers 100 (7), 669-669",,0,1969
+List of important publications in computer science,"NJ Cutland, MO Rabin, DS Scott, JE Hopcroft, JD Ullman, R Motwani","Trans. Amer. Math. Soc 141, 1-35",,0,1969
+"Introduction to Automata Theory, Languages, and Computation. JOHN E. HOPCROFT and",JD ULLMAN,"Communications of the ACM, 151-197",,0,1968
+"The Art of Computer Programming, Volume II. By Donald","E Hopcroft, JD Ullman, R Addison-Wesley","Nucl. Sci. Eng 34, 198",,0,1968
+A recognition algorithm for pushdown store systems,"AV Aho, JE Hopcroft, JD Ullman","Proceedings of the 1968 23rd ACM national conference, 597-604",,0,1968
+An Approach to a Unified Theory of Automata,"JD Ullman, JE Hopcroft","Bell System Technical Journal 46 (8), 1793-1829",,0,1967
+Pushdown automata with bounded backtrack(Acceptance of programming language by pushdown automata with bounded backtrack- set theory),J ULLMAN,,,0,1965
+"A First Course in Database Systems, 2e",JD Ullman,,,0,0
+Introduction to Compilers,"D Book, A Aho, R Sethi, J Ullman, T Book, A Appel, W Book, S Muchnick",,,0,0
+Design Theory for Relational Databases,"B Simion, D Horton, J Ullman",,,0,0
+Adatszerkezetek és algoritmusok,"V Aho, JE Hopcroft, JD Ullman","GAZDASÁGINFORMATIKUS ALAPKÉPZÉSI SZAK, 21",,0,0
+"Estructuras de datos y algoritmos/por Alfred V. Aho, John E. Hopcroft y Jeffrey D. Ullman.","AVI Aho, E John, U II, D Jeffrey",,,0,0
+"IntroducciÃ³n a la teorÃa de autÃ³matas, lenguajes y computaciÃ³n","JE Hopcroft, R Motwani, JD Ullman","Madrid; Addison Wesley,",,0,0
+Also sprach CRA…,"D Patterson, L Snyder, J Ullman",,,0,0
+Operating system concepts,L Zhong,,,0,0
+Crossroads The ACM Magazine for Students,JD Ullman,,,0,0
+Einige Literaturhinweise,"JE Hopcroft, JD Ullman, B Khoussainov, A Nerode, G Rozenberg, ...",,,0,0
+1.1 What is Data Mining?,"J Leskovec, A Rajaraman, JD Ullman",,,0,0
+DER TECHNISCHEN UNIVERSITAT MUNCHEN,"A Asteroth, C Baier, M Broy, TH Cormen, CE Leiserson, RL Rivest, ...",,,0,0
+"Data structures and algorithms/by Jeffrey D. Ullman, Alfred V. Aho and John E. Hopcroft.",JD Ullman,,,0,0
+"Aarts, EHL, and Korst, J.(1989), Simulated Annealing and Boltzmann Ma-chines, John Wiley & Sons, New York. Agarwal, PK, and Procopiuc, CM (1998),“Exact and approximation algo …","R Agarwala, V Bafna, M Farach, B Narayanan, M Paterson, M Thorup, ...",,,0,0
+Operating RS Gaines Systems Editor Protection in Operating Systems,"MA Harrison, WL Ruzzo, JD Ullman",,,0,0
+Handbook Of Computer Vision Algorithms In Image Algebra 2nd Edition,"AV Aho, JE Hopcroft, JD Ullman",,,0,0
+Assignment can be used to improve you grade▶ If you obtain a bonus your grade will improve according to the following function,"AV Aho, JE Hopcroft, JD Ullman, TH Cormen, CE Leiserson, RL Rivest, ...",,,0,0
+Business Intelligence,"A Rajaraman, J Leskovec, J Ullman","Fachbereich 4 Mathematik, Naturwissenschaften, Wirtschaft und Informatik, 65",,0,0
+Program Vice-Chairs,"J Naughton, S Sarawagi, H Korth, A Rosenthal, J Ullman, H Schek, ...",,,0,0
+"Department of Computer Science, Stanford University, Stanford, CA 94305","CSSBR Motwani, J Ullman",,,0,0
+Himanshu Gupta Venky Harinarayan,JD Ullman,,,0,0
+GYM: A Multiround Join Algorithm In MapReduce And Its Analysis,"F Afrati, M Joglekar, C Re, S Salihoglu, J Ullman",,,0,0
+"recommend them for further reading. Since the develop-ment of models based on GAs has formed a significant part of our recent work, this is reflected in the selection and …","JE Hopcroft, R Motwani, JD Ullman, D Kalyanmoy","Environmental Modelling and Software 14, 607-611",,0,0
+Data Mining and Social Network Analysis,"MA Russell, A Rajaraman, JD Ullman, MEJ Newman, OU Press, D Easley, ...",,,0,0
+Program and Organizing Committees,"N Adam, A Aho, R Bayer, D Choy, B Edelson, S Feldman, L Gomez, ...",,,0,0
+1 I dati del corso,"JE Hopcroft, R Motwani, JD Ullman, PE Italia, NJ Cutland",,,0,0
+"Allen, Dennis, Jr., 464 Alter, Ronald, 169","HA Antosiewicz, AV Balakrishnan, A Blaquiere, L Collatz, R Danchick, ...",,,0,0
+J. Hartmanis,"J Hopcroft, RM Karp, DE Knuth, RE Miller, AV Aho, JW de Bakker, ...",,,0,0
+"Heindel, Lee E.","S Amoroso, A Borodin, RS Bucy, P Butzbach, JP Cleave, RL Constable, ...",,,0,0
+"Aho, AV, 129, 523 Amoroso, S., 137","E Angel, SK Basu, RV Book, JA Brzozowski, RS Cohen, R Conti, J Doner, ...",,,0,0
+EK Blum,"J Hartmanis, J Hopcroft, RM Karp, DE Knuth, RE Miller, AV Aho, ...",,,0,0
+"RI 02912, USA","V Kotov, AA LetiEevskii, AR Meyer, AL Semenov, W Thomas, J Tiuryn, ...",,,0,0
+"Ginsburg, Seymour, 1 Give'on, Yehoshafat, 137 Guinn, T., 227, 235 H Harrison, Michael A., I","EK Blum, RS Bucy, EG Coffman, GB Dantzig, WA Davis, D Eggert, ...",,,0,0
+"Ito, Ryuichi, 221","RM Baer, EK Blum, MA Breuer, AR Butz, J Cleave, JE Dennis, DR Deuel, ...",,,0,0
+Program and Organizing Committees,"SE Howe, TR Smith, LL Hill, T Renfrow, V Atluri, M Mullen, L Carver, ...",,,0,0
+8.1 Curs Metode de predare Observaţii,"AV Aho, JE Hopcroft, JD Ullman, TH Cormen, C Leiserson, R Rivest",,,0,0
+"The underlying concepts may di er in subtle ways. A payroll database may not regard a retiree as an\employee,"" while the benefits department does. Conversely, the payroll …","H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...",,,0,0
+Literatur Literatur,"AV Aho, JD Ullmann, J Amsterdam, PJ Brown, AJT Davie, R Morrison, ...",,,0,0
+"The Theory of Parsing, Translation and Compiling. 1973","AV Aho, JD Ullman","Prentice-Hall, Englewood Cliffs 1, 2",,0,0
+"Davis M., Logemann G. AND Loveland D.[1983], A machine program for theorem proving, in J. Siekmann and G. Wrightson, eds,‘Automation of Reasoning. Classical Papers on Compu …","J Gallier, M Garey, D Johnson, SF Freeman, J Hopcroft, J Ullmann","American Mathematical Society 12 (4), 1017-1054",,0,0
+Chen Li,"Y Papakonstantinou, J Ullman, M Valiveti",,,0,0
+TSIMMIS System,"J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J rey Ullman, ...",,,0,0
+A probabilistic study of two-level storage,"MF Acevedo, A Agarwal, A Agarwal, M Horowitz, J Hennessy, A Agarwal, ...","tocs 10, 367-374",,0,0
+Course Syllabus CIS 305-Data Structures,"AV Aho, JD Ullman, JE Hopcroft",,,0,0
+Department and Course Number CS 386 Course Coordinator Valentino Crespi,"J Hopcroft, R Motwani, J Ullman",,,0,0
+Integrated Data Exchange and Concurrent Design for Engineered Facilities1,"HC Howard, J Ullman, K Law, P Teicholz, A Keller, S Tiwari, A Gupta, ...",,,0,0
+DER TECHNISCHEN UNIVERSITAT MUNCHEN,"M Broy, G Goos, JE Hopcroft, JD Ullman, U Schöning, K Erk, L Priese, ...",,,0,0
+Sección de Programación,"AV Aho, JD Ullman, JEH Estructuras",,,0,0
+"Classmark Author Title Edition Imprint 003.54 MAC MacKay, David JC Information theory, inference, and learning algorithms/David JC MacKay. Cambridge: Cambridge University Press …","R Motwani, J Ullman",,,0,0
+Department and Course Number,"J Hopcroft, R Motwani, J Ullman",,,0,0
+Materijal za prijemni ispit na Doktorske studije iz informatike,"RS Madaras, S Crvenković, JE Hopcroft, JD Ullman, Đ Paunić",,,0,0
+Department and Course Number,"H Garcia-Molina, JD Ullman, J Widom",,,0,0
+SEGUNDO CURSO. SEGUNDO SEMESTRE.,"JE Hopcroft, R Motwani, JD Ullman, P García","DEL CURSO 2005-2006, 25",,0,0
+1967 EIGHTH ANNUAL SYMPOSIUM ON,"MC Paull, SH Unger, DJ Rosenkrantz, AV Aho, SA Greibach, JE Hopcroft, ...",,,0,0
+"Information Translation, Mediation, and Mosaic-Based Browsing in the","J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...",,,0,0

@@ -1,0 +1,296 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Identification of causal effects using instrumental variables,"JD Angrist, GW Imbens, DB Rubin","Journal of the American statistical Association 91 (434), 444-455","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17166265099721941605,3171785726983152511",5295,1996
+Identification and estimation of local average treatment effects,"J Angrist, G Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8713217552156471560,4546,1995
+Recent developments in the econometrics of program evaluation,"GW Imbens, JM Wooldridge","Journal of economic literature 47 (1), 5-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6707037625268101023,3949,2009
+Regression discontinuity designs: A guide to practice,"GW Imbens, T Lemieux","Journal of econometrics 142 (2), 615-635",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14880461049667868187,3482,2008
+Nonparametric estimation of average treatment effects under exogeneity: A review,GW Imbens,"Review of Economics and statistics 86 (1), 4-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590191971038677236,2944,2004
+Large sample properties of matching estimators for average treatment effects,"A Abadie, GW Imbens","econometrica 74 (1), 235-267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4573396461750206382,2417,2006
+Efficient estimation of average treatment effects using the estimated propensity score,"K Hirano, GW Imbens, G Ridder","Econometrica 71 (4), 1161-1189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6308529426666045417,2077,2003
+Optimal bandwidth choice for the regression discontinuity estimator,"G Imbens, K Kalyanaraman","The Review of economic studies 79 (3), 933-959",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963177879669254236,1982,2012
+"Causal inference in statistics, social, and biomedical sciences","GW Imbens, DB Rubin",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12425750260779193002,1725,2015
+The role of the propensity score in estimating dose-response functions,GW Imbens,"Biometrika 87 (3), 706-710",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9868650882288965686,1593,2000
+Bias-corrected matching estimators for average treatment effects,"A Abadie, GW Imbens","Journal of Business & Economic Statistics 29 (1), 1-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6586684235213729252,10514823468473347448",1456,2011
+Implementing matching estimators for average treatment effects in Stata,"A Abadie, D Drukker, JL Herr, GW Imbens","The stata journal 4 (3), 290-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3389967263741883426,1252,2004
+Two-stage least squares estimation of average causal effects in models with variable treatment intensity,"JD Angrist, GW Imbens","Journal of the American statistical Association 90 (430), 431-442","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9579098421617917952,4063122425611550252",1083,1995
+On the failure of the bootstrap for matching estimators,"A Abadie, GW Imbens","Econometrica 76 (6), 1537-1557","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18007502635212238147,5488152593813346925",1001,2008
+Estimation of causal effects using propensity score weighting: An application to data on right heart catheterization,"K Hirano, GW Imbens","Health Services and Outcomes research methodology 2 (3-4), 259-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5269234538186853995,1001,2001
+Identification and inference in nonlinear difference‐in‐differences models,"S Athey, GW Imbens","Econometrica 74 (2), 431-497",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6045614968307910018,938,2006
+The propensity score with continuous treatments,"K Hirano, GW Imbens",Applied Bayesian modeling and causal inference from incomplete-data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1123643667002126420,859,2004
+Redefine statistical significance,"DJ Benjamin, JO Berger, M Johannesson, BA Nosek, EJ Wagenmakers, ...","Nature Human Behaviour 2 (1), 6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14991050258346750897,825,2018
+Why high-order polynomials should not be used in regression discontinuity designs,"A Gelman, G Imbens","Journal of Business & Economic Statistics 37 (3), 447-456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3011541621693551627,741,2019
+Instrumental variables estimates of the effect of subsidized training on the quantiles of trainee earnings,"A Abadie, J Angrist, G Imbens","Econometrica 70 (1), 91-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8550275664415968136,736,2002
+Confidence intervals for partially identified parameters,"GW Imbens, CF Manski","Econometrica 72 (6), 1845-1857",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6532378605938671295,691,2004
+Dealing with limited overlap in estimation of average treatment effects,"RK Crump, VJ Hotz, GW Imbens, OA Mitnik","Biometrika 96 (1), 187-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6045126608792752355,634,2009
+Identification and estimation of triangular simultaneous equations models without additivity,"GW Imbens, WK Newey","Econometrica 77 (5), 1481-1512",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18090871366375899649,600,2009
+Bayesian inference for causal effects in randomized experiments with noncompliance,"GW Imbens, DB Rubin","The annals of statistics, 305-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=22337461719422698,560,1997
+Matching on the estimated propensity score,"A Abadie, GW Imbens","Econometrica 84 (2), 781-807",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1424658648973355613,547,2016
+"Estimating the effect of unearned income on labor earnings, savings, and consumption: Evidence from a survey of lottery players","GW Imbens, DB Rubin, BI Sacerdote","American economic review 91 (4), 778-794","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7183800703918914021,16632171029533051319",493,2001
+Better LATE than nothing: Some comments on Deaton (2009) and Heckman and Urzua (2009),GW Imbens,"Journal of Economic literature 48 (2), 399-423",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1038727045092548863,472,2010
+Information theoretic approaches to inference in moment condition models,"G Imbens, P Johnson, RH Spady",National Bureau of Economic Research,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6320287518910449226,14213950145499014541",429,1995
+Recursive partitioning for heterogeneous causal effects,"S Athey, G Imbens","Proceedings of the National Academy of Sciences 113 (27), 7353-7360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2775896851289680688,421,2016
+Sensitivity to exogeneity assumptions in program evaluation,GW Imbens,"American Economic Review 93 (2), 126-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8697916829545528779,400,2003
+Estimating outcome distributions for compliers in instrumental variables models,"GW Imbens, DB Rubin","The Review of Economic Studies 64 (4), 555-574",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5772821783192903810,390,1997
+When should you adjust standard errors for clustering?,"A Abadie, S Athey, GW Imbens, J Wooldridge",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8225495551868313121,377,2017
+Assessing the effect of an influenza vaccine in an encouragement design,"K Hirano, GW Imbens, DB Rubin, XH Zhou","Biostatistics 1 (1), 69-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16605333405419963768,362,2000
+The state of applied econometrics: Causality and policy evaluation,"S Athey, GW Imbens","Journal of Economic Perspectives 31 (2), 3-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13869117478738689144,353,2017
+Matching methods in practice: Three examples,GW Imbens,"Journal of Human Resources 50 (2), 373-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17702083140773504432,351,2015
+Jackknife instrumental variables estimation,"JD Angrist, GW Imbens, AB Krueger","Journal of Applied Econometrics 14 (1), 57-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3785560377510637133,317,1999
+Promoting transparency in social science research,"E Miguel, C Camerer, K Casey, J Cohen, KM Esterling, A Gerber, ...","Science 343 (6166), 30-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4029280670878653053,288,2014
+The interpretation of instrumental variables estimators in simultaneous equations models with an application to the demand for fish,"JD Angrist, K Graddy, GW Imbens","The Review of Economic Studies 67 (3), 499-527",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12354631094721773057,285,2000
+Social networks and the identification of peer effects,"P Goldsmith-Pinkham, GW Imbens","Journal of Business & Economic Statistics 31 (3), 253-264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=634608944281434262,274,2013
+Combining micro and macro data in microeconometric models,"GW Imbens, T Lancaster","The Review of Economic Studies 61 (4), 655-680",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17779206267925157487,260,1994
+One-step estimators for over-identified generalized method of moments models,GW Imbens,"The Review of Economic Studies 64 (3), 359-383",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3419642015519434136,242,1997
+Robust standard errors in small samples: Some practical advice,"GW Imbens, M Kolesar","Review of Economics and Statistics 98 (4), 701-712",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12766445935258762060,213,2016
+An efficient method of moments estimator for discrete choice models with choice-based sampling,GW Imbens,"Econometrica: Journal of the Econometric Society, 1187-1214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16567212282610508587,213,1992
+Empirical likelihood estimation and consistent tests with conditional moment restrictions,"SG Donald, GW Imbens, WK Newey","Journal of Econometrics 117 (1), 55-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4938992227678085876,203,2003
+The econometrics of randomized experiments,"S Athey, GW Imbens","Handbook of Economic Field Experiments 1, 73-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11068199063289460813,198,2017
+Instrumental variable estimation of nonseparable models,"V Chernozhukov, GW Imbens, WK Newey","Journal of Econometrics 139 (1), 4-14","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4314070090659414890,15937487272873378389",187,2007
+Combining panel data sets with attrition and refreshment samples,"K Hirano, GW Imbens, G Ridder, DB Rubin","Econometrica 69 (6), 1645-1659",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13544574424663358735,179,2001
+Bias from classical and other forms of measurement error,"DR Hyslop, GW Imbens","Journal of Business & Economic Statistics 19 (4), 475-481",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16673077362893495145,171,2001
+Evaluating the Cost of Conscription in the Netherlands,"G Imbens, WVD Klaauw","Journal of Business & Economic Statistics 13 (2), 207-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=875936898416375492,171,1995
+Nonparametric tests for treatment effect heterogeneity,"RK Crump, VJ Hotz, GW Imbens, OA Mitnik","The Review of Economics and Statistics 90 (3), 389-405",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4335392813302337878,170,2008
+"Robust, accurate confidence intervals with a weak instrument: quarter of birth and education","GW Imbens, PR Rosenbaum",Journal of the Royal Statistical Society: Series A (Statistics in Society …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13232378245047899930,164,2005
+An empirical model for strategic network formation,"NA Christakis, JH Fowler, GW Imbens, K Kalyanaraman",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15545940979920514277,162,2010
+Evaluating the differential effects of alternative welfare-to-work training components: A reanalysis of the California GAIN program,"VJ Hotz, GW Imbens, JA Klerman","Journal of Labor Economics 24 (3), 521-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14109314945776943052,161,2006
+“What’s New in Econometrics” Lecture 5,"G Imbens, J Wooldridge",NBER,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18162901133707069058,156,2007
+Simple and bias-corrected matching estimators,"A Abadie, G Imbens",NBER Technical Working Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7074476885973614344,155,2002
+Efficient estimation and stratified sampling,"GW Imbens, T Lancaster","Journal of Econometrics 74 (2), 289-318",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5776056138131329799,155,1996
+Imposing moment restrictions from auxiliary data by weighting,"JK Hellerstein, GW Imbens","Review of Economics and Statistics 81 (1), 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=715081289678573219,143,1999
+The effect of court-ordered hiring quotas on the composition and quality of police,J McCrary,"American Economic Review 97 (1), 318-353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7382720245338501917,140,2007
+Predicting the efficacy of future training programs using past experiences at other locations,"VJ Hotz, GW Imbens, JH Mortimer","Journal of Econometrics 125 (1-2), 241-270",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14817797861170179791,134,2005
+Moving the goalposts: Addressing limited overlap in the estimation of average treatment effects by changing the estimand,"R Crump, VJ Hotz, G Imbens, O Mitnik",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16891862389279022061,120,2006
+The long-term gains from GAIN: a re-analysis of the impacts of the California GAIN program,"VJ Hotz, GW Imbens, JA Klerman",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6813542391671989155,120,2000
+Approximate residual balancing: debiased inference of average treatment effects in high dimensions,"S Athey, GW Imbens, S Wager",Journal of the Royal Statistical Society: Series B (Statistical Methodology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3134760777924309805,119,2018
+"Balancing, regression, difference-in-differences and synthetic control methods: A synthesis","N Doudchenko, GW Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1212261875744543417,119,2016
+Instrumental variables: An econometrician's perspective,G Imbens,National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12580665332411570988,118,2014
+Case-control studies with contaminated controls,"T Lancaster, G Imbens","Journal of Econometrics 71 (1-2), 145-160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6256263181280313565,118,1996
+Machine learning methods for estimating heterogeneous causal effects,"S Athey, GW Imbens","stat 1050 (5), 1-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17736172949350001385,116,2015
+Generalized method of moments and empirical likelihood,GW Imbens,"Journal of Business & Economic Statistics 20 (4), 493-506",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6415260479859552098,114,2002
+"Clustering, spatial correlations, and randomization inference","T Barrios, R Diamond, GW Imbens, M Kolesár","Journal of the American Statistical Association 107 (498), 578-591",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12451911741992957577,113,2012
+Identification and inference with many invalid instruments,"M Kolesár, R Chetty, J Friedman, E Glaeser, GW Imbens","Journal of Business & Economic Statistics 33 (4), 474-484",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14395692097374310920,96,2015
+Sources of identifying information in evaluation models,"J Angrist, G Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=917769052928694984,94,1991
+Analyzing a randomized trial on breast self‐examination with noncompliance and missing outcomes,"F Mealli, GW Imbens, S Ferro, A Biggeri","Biostatistics 5 (2), 207-222",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11208480162071706678,92,2004
+Nonparametric applications of Bayesian inference,"G Chamberlain, GW Imbens","Journal of Business & Economic Statistics 21 (1), 12-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8280452593468925834,89,2003
+Exact ,"S Athey, D Eckles, GW Imbens","Journal of the American Statistical Association 113 (521), 230-240",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7332335419158575156,88,2018
+Mean-square-error calculations for average treatment effects,"GW Imbens, WK Newey, G Ridder",IEPR working paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11005584291669278591,88,2005
+Standards for Regression Discontinuity Designs.,"P Schochet, T Cook, J Deke, G Imbens, JR Lockwood, J Porter, J Smith",What Works Clearinghouse,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18433271815105654261,82,2010
+Instrumental variables estimation of quantile treatment effects,"A Abadie, J Angrist",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1932845200112490004,76,1998
+Random effects estimators with many instrumental variables,"G Chamberlain, G Imbens","Econometrica 72 (1), 295-306",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4739947178006332944,75,2004
+Nonadditive models with endogenous regressors,GW Imbens,"Econometric Society Monographs 43, 17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1100741598538980794,69,2007
+Choosing instrumental variables in conditional moment restriction models,"SG Donald, GW Imbens, WK Newey","Journal of Econometrics 152 (1), 28-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16760191729849992637,68,2009
+Control function and related methods,"G Imbens, J Wooldridge",What’s new in Econometrics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=938994403351740295,68,2007
+Why ask why? Forward causal inference and reverse causal questions,"A Gelman, G Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=880453354551141630,67,2013
+What’s new in econometrics? Lecture 10 difference-in-differences estimation,J Wooldridge,"NBER Summer Institute, available at: www. nber. org/WNE/Slides7–31–07 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7547909636340623177,67,2007
+Difference-in-differences estimation,"G Imbens, J Wooldridge",National Bureau of Economics Research Working Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4778259906883258215,66,2007
+External validity in fuzzy regression discontinuity designs,"M Bertanha, GW Imbens","Journal of Business & Economic Statistics, 1-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11395554613711740472,61,2019
+The regression discontinuity design—theory and applications,"G Imbens, T Lemieux",Journal of Econometrics,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12824804021377727112,6647791835367674690",61,2008
+Matrix completion methods for causal panel data models,"S Athey, M Bayati, N Doudchenko, G Imbens, K Khosravi",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16799621137104623095,59,2018
+Finite population causal standard errors,"A Abadie, S Athey, GW Imbens, JM Wooldridge",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10549475913166115942,58,2014
+Re-employment probabilities over the business cycle,"GW Imbens, LM Lynch","Portuguese Economic Journal 5 (2), 111-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7244717172159585729,55,2006
+Regression discontinuity design with multiple forcing variables,"G Imbens, T Zajonc","Report, Harvard University.[972]",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17700701827976019949,53,2011
+Discrete choice models with multiple unobserved choice characteristics,"S Athey, GW Imbens","International Economic Review 48 (4), 1159-1192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441599847271777487,51,2007
+Design-based analysis in difference-in-differences settings with staggered adoption,"S Athey, GW Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4354280150534488245,50,2018
+Experimental design for unit and cluster randomid trials,GW Imbens,International Initiative for Impact Evaluation Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12646569415612402511,50,2011
+A measure of robustness to misspecification,"S Athey, G Imbens","American Economic Review 105 (5), 476-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2024836048782722406,49,2015
+Transition models in a non-stationary environment,GW Imbens,"The Review of Economics and Statistics, 703-720",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10908610391657396087,48,1994
+A martingale representation for matching estimators,"A Abadie, GW Imbens","Journal of the American Statistical Association 107 (498), 833-843",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9072992885927594103,46,2012
+Propensity score matching and subclassification in observational studies with multi‐level treatments,"S Yang, GW Imbens, Z Cui, DE Faries, Z Kadziola","Biometrics 72 (4), 1055-1065",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3856503805469478832,44,2016
+Measuring the effects of segregation in the presence of social spillovers: A nonparametric approach,"BS Graham, GW Imbens, G Ridder",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17683145234414108211,41,2010
+Estimation of the conditional variance in paired experiments,"A Abadie, GW Imbens","Annales d'Economie et de Statistique, 175-187",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12964733238387462921,40,2008
+NNMATCH: Stata module to compute nearest-neighbor bias-corrected estimators,"A Abadie, JL Herr, G Imbens, DM Drukker",Boston College Department of Economics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16486050402645838148,40,2004
+Rubin causal model,"GW Imbens, DB Rubin","The new palgrave dictionary of economics, 1-10","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4864783417393315470,3162392543760374178",38,2017
+Predicting the efficacy of future training programs using past experiences,"VJ Hotz, G Imbens, JH Mortimer",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9918521621985816405,38,1999
+Re-employment probabilities over the business cycle,"GW Imbens, LM Lynch",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=522976106792149410,37,1993
+Measuring the average outcome and inequality effects of segregation in the presence of social spillovers,"B Graham, G Imbens, G Ridder","Unpublished manuscript, Univ. Calif., Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5346090023318604425,35,2008
+Complementarity and aggregate implications of assortative matching: A nonparametric analysis,"BS Graham, GW Imbens, G Ridder","Quantitative Economics 5 (1), 29-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9339926447327315516,33,2014
+Estimating average treatment effects: Supplementary analyses and remaining challenges,"S Athey, G Imbens, T Pham, S Wager","American Economic Review 107 (5), 278-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8952256305685246749,31,2017
+Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"BS Graham, GW Imbens, G Ridder",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1781145039521212066,31,2009
+Machine learning methods that economists should know about,"S Athey, GW Imbens",Annual Review of Economics 11,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5524335751244564224,27,2019
+Sampling-based vs. design-based uncertainty in regression analysis,"A Abadie, S Athey, GW Imbens, JM Wooldridge",arXiv preprint arXiv:1706.01778,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11076802940799253188,27,2017
+Efficient inference of average treatment effects in high dimensions via approximate residual balancing,"S Athey, GW Imbens, S Wager","Stanford University, Graduate School of Business Research Papers",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6983528127538333611,27,2016
+Estimation of average treatment effects under unconfoundedness,"G Imbens, J Wooldridge","Imbens & Wooldridge, What’s new in econometrics, Lecture Notes 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17070973379771792742,27,2007
+Choosing the number of moments in conditional moment restriction models,"SG Donald, G Imbens, W Newey",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3818170463078157885,26,2008
+"Comment on James J. Heckman,"" Instrumental Variables: A Study of Implicit Behavioral Assumptions Used in Making Program Evaluations""","JD Angrist, GW Imbens","Journal of Human Resources, 823-827",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3916847205691924677,26,1999
+"Causal inference: Statistical methods for estimating causal effects in biomedical, social, and behavioral sciences","G Imbens, D Rubin",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5869471894956275643,24,2007
+Hierarchical Bayes models with many instrumental variables,"G Chamberlain, G Imbens",National Bureau of Economic Research,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16998119222091589624,10165401027986376815",23,1996
+Notes for matlab and stata regression discontinuity software,"D Fuji, G Imbens, K Kalyanaraman",Manuscript. http://www. economics. harvard. edu/faculty/imbens/files …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4382767992686499920,22,2009
+Non-parametric demand analysis with an application to the demand for fish,"J Angrist, K Graddy, G Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6596347485770743443,22,1995
+New developments in econometrics,"G Imbens, JM Wooldridge","Lecture Notes, CEMMAP, UCL2009b",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14074402157372749692,21,2009
+Synthetic difference in differences,"D Arkhangelsky, S Athey, DA Hirshberg, GW Imbens, S Wager",National Bureau of Economic Research Working Paper Series,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=380000139855607810,20,2019
+Estimation considerations in contextual bandits,"M Dimakopoulou, Z Zhou, S Athey, G Imbens",arXiv preprint arXiv:1711.07077,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15681063296468655140,20,2017
+Optimized regression discontinuity designs,"G Imbens, S Wager","Review of Economics and Statistics 101 (2), 264-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16852010725827862574,19,2019
+"The Propensity Score with Continuous Treatments,"" in A. Gelman and X.-L. Meng (eds.), Applied Bayesian Modeling and Causal Inference from Incomplete-Data Perspectives. New York …","K Hirano, G Imbens","Wiley, West Sussex, UK",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15007842942003217451,19,2004
+Choice-based sampling: Inference and optimality,"T Lancaster, G Imbens","University of Bristol, Department of Economics",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3837563163905283524,19,1991
+Inference for misspecified models with fixed regressors,"A Abadie, GW Imbens, F Zheng","Journal of the American Statistical Association 109 (508), 1601-1614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7627492835809540359,18,2014
+"Wooldridge., JM (2009)",GW Imbens,Recent Developments in the Econometrics of Program Evaluation. Journal of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13712563347166918214,18,0
+The performance of empirical likelihood and its generalizations,"GW Imbens, RH Spady",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15016243130229714031,17,2001
+An economist’s perspective on Shadish (2010) and West and Thoemmes (2010).,GW Imbens,"American Psychological Association 15 (1), 47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10556538099815811664,16,2010
+What’s new in econometrics? Weak instruments and many instruments,"G Imbens, J Wooldridge",NBER Lecture Notes 13,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6838121035134234872,16,2007
+Instrumental variables with treatment effect heterogeneity: Local average treatment effects,"G Imbens, J Wooldridge",Lecture presented at National Bureau of Economic Research Summer Institute,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6387049836369653430,16,2007
+Some remarks on instrumental variables,GW Imbens,"Econometric Evaluation of Labour Market Policies, 17-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9107596758004555832,16,2001
+A New Approach to Generalized Method on Moments Estimation,G Imbens,Harvard Institute of Economic Research Working Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9724901638711267677,16,1993
+Estimating treatment effects using multiple surrogates: The role of the surrogate score and the surrogate index,"S Athey, R Chetty, G Imbens, H Kang",arXiv preprint arXiv:1603.09326,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4947119078236515535,15,2016
+Confidence intervals in generalized method of moments models,"GW Imbens, R Spady","Journal of econometrics 107 (1-2), 87-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7674518962170254220,14,2002
+Causal diagrams for empirical research: Discussion of ‘Causal diagrams for empirical research’by J. Pearl,"GW Imbens, DB Rubin","Biometrika 82 (4), 694-695",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11029380808933346526,14,1995
+Welfare reform in California: Early results from the impact analysis,"JA Klerman, J Hotz, E Reardon, AG Cox, DO Farley",Rand Corporation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8030924885587093312,13,2003
+Handbook of Field Experiments,"AV Banerjee, E Duflo, JM Gueron, S Athey, GW Imbens, S Chassang, ...",Elsevier North Holland,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14171654999459783632,12,2017
+Machine Learning for Estimating Heterogeneous Causal Effects,"S Athey, GW Imbens","Stanford University, Graduate School of Business",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13823940966342874007,12,2015
+Regression discontinuity designs,"G Imbens, T Lemieux",NBER Lecture Notes: What’s New in Econometrics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6809104952951290408,12,2007
+Randomization inference with an instrumental variable,"G Imbens, P Rosenbaum","Journal of the Royal Statistical Society, Series A 168 (1)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12621917943209667643,12,2005
+Causal inference with instrumental variables,"GW Imbens, DB Rubin",DISCUSSION PAPER-HARVARD INSTITUTE OF ECONOMIC RESEARCH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8017216970706537331,12,1994
+Job separations and job matching,"T Lancaster, G Imbens, P Dolton","The Practice of Econometrics, 31-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10718705801641357783,12,1987
+Social networks and the identification of peer effects,"P Goldsmith-Pinkham, G Imbens",Working paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14815308994443292290,11,2011
+Estimation and inference for generalized full and partial means and average derivatives,"GW Imbens, G Ridder",URL http://www. economics. harvard. edu/faculty/imbens/files/ir. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13201855318029946749,11,2009
+"The Effect of High School Matriculation Awards: Evidence from Randomized Trials,” NBER Working paper 9839","JD Angrist, V Lavy, D Acemoglu, A Banerjee, D Card, S Dynarksi, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2888347665827562433,11,2003
+[Covariance Adjustment in Randomized Experiments and Observational Studies]: Comment,"J Angrist, G Imbens","Statistical Science 17 (3), 304-307","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14768302348472398987,16139710849053221023,1988358389730002519",11,2002
+Potential outcome and directed acyclic graph approaches to causality: Relevance for empirical practice in economics,G Imbens,National Bureau of Economic Research Working Paper Series,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=520895430878021653,9,2019
+Addressing unmeasured confounding in comparative observational research,"X Zhang, DE Faries, H Li, JD Stamey, GW Imbens","Pharmacoepidemiology and drug safety 27 (4), 373-382",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8091277113126367257,9,2018
+Lecture 1: Estimation of average treatment effects under unconfoundedness,"G Imbens, J Wooldridge",What’s New in Econometrics” NBER Summer 2007 Seminar,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12161341193359232463,9,2007
+Causal inference in encouragement designs with covariates,"K Hirano, GW Imbens, DB Rubin, A Zhou","Biostatistics 1 (1), 69-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2375619359623423462,9,2000
+"W., & Wooldridge, J, M.(2009)",G Imbens,"Recent Developments in the Econometrics of Program Evaluation, Journal of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2973442903979585170,8,0
+Identification and efficiency bounds for the average match function under conditionally exogenous matching,"BS Graham, GW Imbens, G Ridder","Journal of Business & Economic Statistics, 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18385454106354999975,7,2018
+Peer encouragement designs in causal inference with partial interference and identification of local average network effects,"H Kang, G Imbens",arXiv preprint arXiv:1609.04464,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1761712960464360877,7,2016
+Lectures on machine learning,"S Athey, G Imbens",NBER Summer Institute,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13727659961527995678,7,2015
+Robust inference for misspecified models conditional on covariates,"A Abadie, GW Imbens, F Zheng",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14203220072716955495,7,2011
+[Estimation of Limited Dependent Variable Models with Dummy Endogenous Regressors: Simple Strategies for Empirical Practice]: Comment,GW Imbens,"Journal of Business & Economic Statistics 19 (1), 17-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6032942354897754313,7,2001
+Discussion-Causal diagrams for empirical research,"DR Cox, N Wermuth, AP Dawid, SE Fienberg, C Glymour, P Spirtes, ...","Biometrika 82 (4), 669-710","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7942582593818807006,6978323152054442988",7,1995
+On the Fragility of Instrumental Variables Estmators,"GW Imbens, DB Rubin",DISCUSSION PAPER-HARVARD INSTITUTE OF ECONOMIC RESEARCH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16981578179514742945,7,1994
+Balanced linear contextual bandits,"M Dimakopoulou, Z Zhou, S Athey, G Imbens","Proceedings of the AAAI Conference on Artificial Intelligence 33, 3445-3453",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9926671390909537967,6,2019
+Ensemble Methods for Causal Effects in Panel Data Settings,"S Athey, M Bayati, G Imbens, Z Qu","AEA Papers and Proceedings 109, 65-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1284599619879104906,6,2019
+The role of the propensity score in fixed effect models,"D Arkhangelsky, G Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14258880846903511116,6,2018
+Clustering as a design problem,"A Abadie, S Athey, G Imbens, J Wooldridge",Unpublished Working Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3176133724021335010,6,2016
+"Clustering, spatial correlations and randomization inference","G Imbens, T Barrios, R Diamond, M Kolesar",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3570414328930208042,6,2011
+Causal inference,DB Rubin,Elsevier,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9218563090921593624,6,2010
+Using macro data to obtain better micro forecasts,"JR Magnus, AL Vasnev","Econometric Theory 24 (2), 553-579",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18335760660714285891,6,2008
+Estimating average treatment effects in Stata,G Imbens,West Coast Stata Users' Group Meetings 2007,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5489895629114695922,6,2007
+What's new in econometrics? Instrumental variables with treatment effect heterogeneity: local average treatment effects,"G Imbens, JM Wooldridge",Lecture Notes,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9518293996096081250,6,2007
+"What is new in econometrics: Estimation of average treatment effects under unconfoundedness. Lecture 1, Summer","G Imbens, J Wooldridge","Cambridge, MA: National Bureau of Economic Research",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17434856708756670622,6,2007
+Identification of causal effects using instrumental variables,"DB Rubin, GW Imbens, JD Angrist",American Statistical Association,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1012052576933870857,6,1996
+Understanding and misunderstanding randomized controlled trials: A commentary on Deaton and Cartwright.,G Imbens,"Social science & medicine (1982) 210, 50-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=369908293352624554,5,2018
+Supplementary Materials for:‘Identification and Inference in Nonlinear Difference-in-Differences Models.’,"S Athey, G Imbens",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=193434128605228488,5,2006
+Welfare Reform in California: Design of the Impact Analysis,"JA Klerman, VJ Hotz, G Imbens, P Steinberg, E Reardon",RAND CORP SANTA MONICA CA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8664667605556861172,5,2000
+Bias from Classical and other forms of Measurement Error,"GW Imbens, DR Hyslop",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14268848816414405147,5,2000
+Nonparametric applications of Bayesian inference,"G Chamberlain, G Imbens",National Bureau of Economic Research,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033692075612513401,9365458793733988721",5,1996
+Imposing moment restrictions from auxiliary data by weighting,"G Imbens, JK Hellerstein",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17010155608697541169,5,1996
+Semiparametric Applications of Bayesian Influence,"G Chamberlain, GW Imbens",Harvard Institute of Economic Research Working Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2187311010439207951,5,1995
+THE CURE CAN BE WORSE THAN THE DISEASE: A CAW'IONARY TALE REGARDING INSTRUMENTAL VARIABLES,"DA Jaeger, R Raker, G Imbens, D Lam, KM Murphy, J Angrist, E Berman, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=145825861838158174,5,1993
+Raking and Regression,"GW Imbens, JK Hellerstein",Harvard Institute of Economic Research Working Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14103286500384495896,5,1993
+Pharmacogenetic testing among patients with mood and anxiety disorders is associated with decreased utilization and cost: A propensity‐score matched study,"RH Perlis, R Mehta, AM Edwards, A Tiwari, GW Imbens","Depression and anxiety 35 (10), 946-952",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17924959821362691957,4,2018
+A causal bootstrap,"G Imbens, K Menzel",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13623326829467451272,4,2018
+Book Review Feature: Public Policy in an Uncertain World,G Imbens,"The Economic Journal 123 (570), F401-F411",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10819874679645928374,4,2013
+Regression discontinuity design with vector-argument assignment rules,"G Imbens, T Zajonc",Unpublished paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1298356932050606416,4,2009
+Redistributive effects for discretely-valued inputs,"BS Graham, GW Imbens, G Ridder",IEPR Working Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4573948363160319756,4,2007
+Evaluation of a program to help minorities succeed at college math: UC Berkeley’s Professional Development Program,"S Chin, M Fan, G Imbens, JM Perloff","Department of Mathematics, University of California, Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15293665547254409883,4,2006
+"pEstimating Dynamic Models of Imperfect Competitionq, forthcoming Econometrica","P Bajari, L Benkard, J Levin",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1537065602368952654,4,2006
+gLarge Sample Properties of Matching Estimators for,"A Abadie, GW Imbens",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1233506753924183850,4,2006
+Accounting for limited overlap in estimation of average treatment effects under unconfoundedness,"RK Crump, VJ Hotz, GW Imbens, O Mitnik","Working paper, University of California, Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7588410417202055476,4,2004
+The Analysis of Randomized Experiments with Missing Data,"GW Imbens, WA Pizer",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16352504478902233693,4,2000
+"mEstimating Outcome Distributions for Compliers in Instrumental Variable Models, nReview of Economic Studies","G Imbens, D Rubin","October 555, 574",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13645213575857289266,4,1997
+The Foundations of Econometric Analysis.,GW Imbens,"Journal of Applied Econometrics 12 (1), 91-94","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5297161038065224442,12486959547913461417",4,1997
+An empirical model for strategic network formation,"G Imbens, K Kalyanaraman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10047995151325393011,3,2010
+Estimation and Inference for Generalized Partial Means,"G Imbens, G Ridder","unpublished manuscript, Department of Economics, UC Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14805342701677124847,3,2006
+Estimation of nonparametric simultaneous equations,"RL Matzkin, J Heckman, J Horowitz, G Imbens, A Lewbel, D Mcfadden, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7006742684664887368,3,2005
+Simple and Bias-Corrected Matching Estimators for Average Treatment Effects,"GW Imbens, A Abadie",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10949318864677965710,3,2002
+Efficient estimation of average treatment effects using the estimated propensity score,G Imbens,Econometric Society World Congress 2000 Contributed Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15184712211717441572,3,2000
+Identification of Causal Effects Using Instrumental Variables,"G Imbens, J Angrist, D Rubin",Journal of Econometrics 71 (1-2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14791952490610227290,3,1996
+Optimal stock/flow panels,"T Lancaster, G Imbens","Journal of econometrics 66 (1-2), 325-348",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7906196434908941872,3,1995
+Duration models with time-varying coefficients,GW Imbens,"Center for Economic Research, Tilburg University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11163067632369222334,3,1990
+Comments On: Understanding and Misunderstanding Randomized Controlled Trails by Cartwright and Deaton,GW Imbens,"Stanford University, Graduate School of Business",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10212699384015525065,2,2018
+"Causal inference: For statistics, social, and biomedical sciences an introduction. Causal Inference: For Statistics, Social, and Biomedical Sciences an Introduction","GW Imbens, DB Rubin",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16562209601717949678,2,2015
+Recent Developments in the Econometrics of program Evaluation,"JM Wooldridge, GM Imbens",National Bureau of Economic Research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14563334892579408933,2,2008
+Matched Sampling for Causal Effects by Donald B. Rubin,GW Imbens,"International Statistical Review 75 (2), 257-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15841156914709924039,2,2007
+The long term gains from GAIN,"V Hotz, G Imbens, JA Klerman",NBER Working Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4282770871834732311,2,2004
+Welfare reform in California,"JA Klerman, VJ Hotz, E Reardon, AG Cox, DO Farley, SJ Haider, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13083563033734894385,2,2002
+"Comment on James J. Heckman,Instrumental Variables: A study of Implicit Behavioral Assumptions...","JD Angrist, GW Imbens",Journal of Human Resources 34 (4),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10217795967195371953,2,1999
+Choice–Based Sampling of Dynamic Populations,"G Imbens, T Lancaster",Panel Data and Labor Market Studies,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16050334681822866314,2,1990
+Transition Models in a Non-stationary Environment,G Imbens,"Harvard Institute of Economic Research, Harvard University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13599953729036395796,2,1990
+Double-robust identification for causal panel data models,"D Arkhangelsky, GW Imbens",arXiv preprint arXiv:1909.09412,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1480191988559877982,1,2019
+Machine Learning Methods for Causal Effects,"S Athey, I Guido",Internet: www. nasonline. org/programs/sackler-colloquia/documents/athey. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18334549815265127048,1,2015
+Social Networks and the Identification of Peer Effects Rejoinder,"P Goldsmith-Pinkham, G Imbens","Journal of Business & Economic Statistics 31 (3), 279-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7457416771638952315,1,2013
+Brief of Empirical Scholars as Amici Curiae,"G Imbens, DB Rubin, G King, RA Berk, DE Ho, KM Quinn, DJ Greiner, ...",Filed with the Supreme Court of the United States in Abigail Noel Fisher v …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6800014168643090731,1,2012
+ECONOMIC LITERATURE,"JE Aldy, AJ Krupnick, RG Newell, IWH Parry, WA Pizer, D Dranove, GZ Jin, ...",Journal of Economic Literature 48 (4),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15114425159398730666,1,2010
+Complementarity and aggregate implications of assortative matching: a nonparametric analysis,"G Imbens, B Graham, G Ridder",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7532634802238735601,1,2009
+Matching methods for estimating treatment effects using Stata,GW Imbens,North American Stata Users' Group Meetings 2006,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15919555271492739959,1,2006
+Estimating the Effect of Unearned Income on Labor Earnings,"GW Imbens, DB Rubin, BI Sacerdote","Savings, and Consumption: Evidence from a Survey of Lottery Players 778",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3855758426626583611,1,2001
+The Analysis of Randomized Experiments with Missing Data,"W Pizer, G Imbens",Resources For the Future Discussion Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8442554376443039132,1,2000
+Efficient estimation of choice-based sample models with the method of moments,GW Imbens,"Tilburg University, Department of Economics",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=703277418013347843,1,1989
+The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely,"S Athey, R Chetty, GW Imbens, H Kang",National Bureau of Economic Research Working Paper Series,,0,2019
+Optimal Experimental Design for Staggered Rollouts,"R Xiong, S Athey, M Bayati, GW Imbens",Available at SSRN,,0,2019
+Optimal Experimental Design for Staggered Rollouts,"S Athey, GW Imbens, M Bayati","Stanford University, Graduate School of Business Research Papers",,0,2019
+Using Wasserstein Generative Adversial Networks for the Design of Monte Carlo Simulations,"S Athey, G Imbens, J Metzger, E Munro",arXiv preprint arXiv:1909.02210,,0,2019
+Package ‘optrdd’,"G Imbens, S Wager, MS Wager",,,0,2018
+The Search for Truth Amidst the Bias Addressing Unmeasured Confounding in Observational Studies Addressing Unmeasured Confounding in Observational Studies,"H Li, X Zhang, DE Faries, J Stamey, GW Imbens","PHARMACOEPIDEMIOLOGY AND DRUG SAFETY 26, 88-88",,0,2017
+Subscription Information,"EJ Weber, I Maconochie, RB UK, SC UK, MD UK, RP UK, DT UK",,,0,2017
+List of key references on Mediation Analysis,"DP MacKinnon, D Almirall, I Nahum-Shani, NE Sherwood, SA Murphy, ...","Sociological Review 37, 47",,0,2016
+PUBLICATIONS & PREPRINTS,"M Dimakopoulou, I Osband, B Van Roy, S Athey, G Imbens, N Bambos, ...","Operations Research 6, 2016",,0,2015
+Propensity Score Matching and Subclassification With Multi-Level Treatments,"Z Kadziola, S Yang, GW Imbens, Z Cui, DE Faries","Value in Health 17 (7), A587",,0,2014
+"Minutes of the Meeting of the Executive Committee Chicago, IL April 17, 2014","E Duflo, S Durlauf, A Finkelstein, P Goldberg, C Goldin, G Imbens, ...",,,0,2014
+Supplement to “Complementarity and aggregate implications of assortative matching: A nonparametric analysis”,"BS Graham, GW Imbens, G Ridder",,,0,2014
+Evaluating the Effectiveness of Different Teaching Methods in College Calculus Courses Using Matching,"S Chin, M Fan, G Imbens, JM Perloff",,,0,2012
+Cross-section Econometrics,G Imbens,,,0,2012
+Inference with Many Weakly Invalid Instruments,"M Kolesar, R Chetty, J Friedman, E Glaeser, GW Imbens",,,0,2011
+Challenges in Econometrics,GW Imbens,"American Economic Association, Ten Years and Beyond: Economists Answer NSF's …",,0,2010
+ECONOMIC LITERATURE,"GW Imbens, JM Wooldridge, J Currie, A Shleifer, DJ Snower, AJG Brown, ...",,,0,2009
+On the failure of,"A Abadie, GW Imbens",Version doi: 10.3982/ECTA6474,,0,2008
+Nonparametric Tests for Treatment Effect Heterogeneity,"G Imbens, R Crump, VJ Hotz, O Mitnik",Review of Economics and Statistics 90 (3),,0,2008
+"Firm vs. Occupation in Labor Markets: A Cross Analysis of Wage, Mobility, and Promotion","I Kwon, EMM Milgrom",,,0,2007
+TECHNICAL WORKING PAPER SERIES,"RK Crump, VJ Hotz, GW Imbens, OA Mitnik",,,0,2006
+TECHNICAL WORKING PAPER SERIES,"A Abadie, GW Imbens",,,0,2006
+"The Integrated Graduate Education and Training Program in Politics, Economics, Psychology and Public Policy","H Brady, S Raphael, E Bardach, D Card, D Collier, S DellaVigna, ...",,,0,2005
+Preliminary and Incomplete,"BS Graham, GW Imbens, G Ridder",,,0,2005
+The Performance of Empirical Likelihood and its Generalizations,"R SPADY, GWK IMBENS",Identification and Inference for Econometric Models,,0,2005
+Measuring the Average Outcome and Inequality Effects of Segregation in the Presence of Social Spillovers,"G Imbens, B Graham, G Ridder",,,0,2005
+Bias-adjusted Nearest Neighbor Estimation for the Partial Linear Model,"G Imbens, J Porter",,,0,2005
+"CENTER FOR LAW, ECONOMICS AND ORGANIZATION RESEARCH PAPER SERIES",T Kuran,,,0,2004
+Random Effects Estimators with Many Instrumental Variables,"G Imbens, G Chamberlain",Econometrica 72 (1),,0,2004
+Economics 243: Gibbs Sampler for Multinomial Probit,"G Imbens, PA Ruud","University of California, Berkeley",,0,2003
+Estimation of causal effects using propensity score weighting: an aplication to data on right heart,"K Hirano, GW Imbens",,,0,2001
+Comment: Binary regressors in nonlinear panel-data models with fixed effects,GW Imbens,"JOURNAL OF BUSINESS & ECONOMIC STATISTICS 19 (1), 17-20",,0,2001
+LV CalWORKs,"JA Klerman, VJ Hotz, G Imbens, P Steinberg, E Reardon, PA Ebener, ...",,,0,2000
+an Application to the Demand for Fish,"JD ANGRIST, GW IMBENS",,,0,2000
+Equations Models with an Application to the,"JD ANGRIST, GW IMBENS",,,0,2000
+The Long-Term Gains from GAIN: A Re-Analysis of the...,VJ Hotz,,,0,2000
+"JELNo. Fl, D23, 017","GW Imbens, DB Rubin, B Sacerdote",,,0,1999
+"Estimating the effect of unearned income on labor supply, earnings, savings, and consumption","G Imbens, DB Rubin, B Sacerdote",National Bureau of Economic Research,,0,1999
+"Comment on James Heckman,"" Instrumental Variables: A Study of Implicit Behavioral Assumption Used in Making Program Evaluations","G Imbens, J Angrist","The Journal of Human Resources 34 (Autumn, 1999)",,0,1999
+Using Refreshment Samples to Correct for Selective Attrition,"G Ridder, G Imbens",Proceedings of the 51st session of the International Statistical Institute …,,0,1998
+ELSEVIER Journal of Econometrics 76 (1997) 407-408,"K Abadir, Y Fan, J Knight, BC Ahn, JP Florens, G Koop, H Ahn, P Frances, ...","Journal of Econometrics 76, 407-408",,0,1997
+Gary Chamberlain,GW Imbens,,,0,1996
+ARNOLD ZELLNER,"HJ BIERENS, S CHIB, M DAGENAIS, M DEISTLER, JM DUFOUR, ...",Journal of econometrics 67,,0,1995
+Optimal Stock/Flow Panels,"G Imbens, T Lancaster","Journal of Econometrics 66 (182, December)",,0,1994
+С V. STARR CENTER FOR APPLIED ECONOMICS,G Imbens,,,0,1993
+Evolution and Rationality Some Recent Game-Theoretic Results. Identification and Estimation of Local Average Treatment Effects,GW Imbens,Harvard Institute of Economic Research Working Papers,,0,1992
+Two essays in econometrics.,GW Imbens,,,0,1992
+Average Causal Response with Variable Treatment Intensity,"G Imbens, JD Angrist",Harvard Institute of Economic Research Working Papers,,0,1992
+NBER TECHNICAL WORKING PAPERS SERIES,"JD Angrist, GW Imbens",,,0,1991
+Efﬁcient estimation and stratiﬁed sampling,"GW Imbens, T Lancasterb","Discussion Paper 1545, Harvard Institute of Economic Research",,0,1991
+An Efficient Methods of Moments Estimator for Discrete Choice Models with Choice Models with Choice-based Sampling,G Imbens,"Harvard Institute of Economic Research, Harvard University",,0,1991
+Investigating Homelessness: A Renewal Theory Approach,"T Lancaster, G Imbens",,,0,1990
+Efficient estimation of choice-based sample methods with the method of moments,G Imbens,"Tilburg University, School of Economics and Management",,0,1989
+Log linear transition intensities,"T Lancaster, G Imbens",na,,0,1986
+Toward a Universal Curriculum for a Global Generation: An Open Invitation to the World's Educators,M Gibbons,World Citizens for a Universal Curriculum,,0,1985
+"Mineral deposits of Europe, 2. Southeast Europe. FW Dunning, W. Mykura and D. Slater (Editors). 1982 The Mineral Society and The Institution of Mining and Metallurgy, London …",MP Jones,"Earth-Science Reviews 20 (2), 170-171",,0,1984
+"Pierre-André Chiappori, Krislert Samphantharak, Sam Schulhofer-Wohl, and Robert M. Townsend Heterogeneity and risk sharing in village economies...........................","BS Graham, GW Imbens, G Ridder, C Helmers, M Patnam, M Henry, ...",,,0,0
+Dealing with Limited Overlap in Estimation of Average Treatment Effects,"VJ Hotz, RK Crump, G Imbens, OA Mitnik",Oxford University Press,,0,0
+Causality in Econometrics and Statistics,G Imbens,,,0,0
+UNPUBLISHED APPENDIX,"VJ Hotz, GW Imbens, JA Klerman",,,0,0
+Search Journal,"GA Boyter, GS Gates, G Schroth, JA Vornberg, DP Thompson",,,0,0
+"``Hierarchical Bayes Models with Many Instrumental Variables,''(with Gary Chamberlain), NBER technical working paper T0204, September 1996",G Imbens,,,0,0
+"``Bias from Classical and Other Forms of Measurement Error,''(with Dean Hyslop), NBER technical working paper T0257, August 2000",G Imbens,,,0,0
+"``Non-parametric Demand Analysis with an Application to the Demand for Fresh Fish'',(with Joshua Angrist and Kathryn Graddy), NBER technical working paper T0178, April 1995",G Imbens,,,0,0
+"``Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score,''(with Kei Hirano and Geert Ridder), NBER technical working paper T0251, March 2000",G Imbens,,,0,0
+"``Combining Panels with Attrition and Refreshment Samples,''(with Kei Hirano, Geert Ridder and Donald Rubin), NBER technical working paper T0230, April 1998",G Imbens,,,0,0
+"``Instrumental Variables Estimation of Quantile Treatment Effects''(with Alberto Abadie and Joshua Angrist), NBER technical working paper T0229, March 1998",G Imbens,,,0,0
+"``Nonparametric Applications of Bayesian Inference,''(with Gary Chamberlain), NBER technical working paper T0200, August 1996",G Imbens,,,0,0
+"``Comment on:Estimation of Limited-dependent Variable Models with Dummy Endogenous Regressors: Simple Strategies for Empirical Practice', by Joshua Angrist'', July, 2000",G Imbens,,,0,0
+Economics 250a Course Outline and Reading List,"J Abowd, O Ashenfelter, GW Imbens, DB Rubin, BI Sacerdote","Changes 57 (2), 411-445",,0,0
+"``Predicting the Efficacy of Future Training Programs Using Past Experiences,''(with J. Hotz and J. Mortimer), NBER technical working paper T0238, May 1999",G Imbens,,,0,0
+"``The Role of the Propensity Score in Estimating Dose-Response Functions,''NBER Technical Working Paper T0237, May 1999",G Imbens,,,0,0
+"``Estimating the Effect of Unearned Income on Labor Supply, Earnings, Savings and Consumption: Evidence from a Sample of Lottery Players,''(with Donald Rubin and Bruce …",G Imbens,,,0,0
+Quasi-Experimentation Workshops–August 2012,"A Abadie, D Drukker, JL Herr, GW Imbens","The Review of Economics and Statistics 86 (1), 180-194",,0,0
+Report of the Secretary,"RH Thaler, D Card, JA Chevalier, NG Mankiw, JM Wooldridge, DL Costa, ...",,,0,0
+Appendix Not Intended for Publication,"A Abadie, GW Imbens",,,0,0
+Estimation of the Conditional Variance in Paired Experiments,"G Imbens, A Abadie",,,0,0
+Name (Program) Email/Primary Fields/Advisors and References,"RE Barza, L Economics, S Economics, L Katz, C Goldin, R Fryer, ...",,,0,0
+Causal inference and program evaluation,"G Imbens, E Hall, G Hall",,,0,0
+"Econometric Theory, First Half","G Imbens, E Hall",,,0,0

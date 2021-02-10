@@ -1,0 +1,789 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+A unified framework for hybrid control: Model and optimal control theory,"MS Branicky, VS Borkar, SK Mitter","IEEE transactions on automatic control 43 (1), 31-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5022514166374591279,1633,1998
+Stabilization of linear systems with limited information,"N Elia, SK Mitter","IEEE transactions on Automatic Control 46 (9), 1384-1400",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5313942133623446174,1627,2001
+Control under communication constraints,"S Tatikonda, S Mitter","IEEE Transactions on automatic control 49 (7), 1056-1068",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17798959240933976163,1616,2004
+Representation and control of infinite dimensional systems,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter",Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16770379927301757289,14424723357693352404,17724288102481209011",1409,2007
+Probabilistic solution of ill-posed problems in computational vision,"J Marroquin, S Mitter, T Poggio","Journal of the american statistical association 82 (397), 76-89",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17010564457181919725,1089,1987
+Stochastic approximation: a dynamical systems viewpoint,VS Borkar,Springer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12275696535967617677,910,2009
+Discrete-time controlled Markov processes with average cost criterion: a survey,"A Arapostathis, VS Borkar, E Fernández-Gaucherand, MK Ghosh, ...","SIAM Journal on Control and Optimization 31 (2), 282-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4221386695447126639,563,1993
+The conjugate gradient method for optimal control problems,"L Lasdon, S Mitter, A Waren","IEEE Transactions on Automatic Control 12 (2), 132-138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13344474400520013371,485,1967
+The necessity and sufficiency of anytime capacity for stabilization of a linear system over a noisy communication link—Part I: Scalar systems,"A Sahai, S Mitter","IEEE transactions on Information Theory 52 (8), 3369-3395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6951885306099231349,384,2006
+Stochastic linear control over a communication channel,"S Tatikonda, A Sahai, S Mitter","IEEE transactions on Automatic Control 49 (9), 1549-1561",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8349998531986997082,381,2004
+Control over noisy channels,"S Tatikonda, S Mitter","IEEE transactions on Automatic Control 49 (7), 1196-1201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10903384474629078276,381,2004
+The ODE method for convergence of stochastic approximation and reinforcement learning,"VS Borkar, SP Meyn","SIAM Journal on Control and Optimization 38 (2), 447-469",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=256925738881183189,364,2000
+A unified framework for hybrid control,"MS Branicky, VS Borkar, SK Mitter","Proceedings of 1994 33rd IEEE Conference on Decision and Control 4, 4228-4234","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1450494972609524035,5852235643412616820",332,1994
+Volatility of power grids under real-time pricing,"M Roozbehani, MA Dahleh, SK Mitter","IEEE Transactions on Power Systems 27 (4), 1926-1940",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17632357813361443907,319,2012
+Asymptotic agreement in distributed estimation,"V Borkar, P Varaiya","IEEE Transactions on Automatic Control 27 (3), 650-655",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14153526407417649136,316,1982
+Stochastic approximation with two time scales,VS Borkar,"Systems & Control Letters 29 (5), 291-294",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8073112525200632108,312,1997
+A new distributed time synchronization protocol for multihop wireless networks,"R Solis, VS Borkar, PR Kumar","Proceedings of the 45th IEEE Conference on Decision and Control, 2734-2739",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17982679308532068937,241,2006
+The capacity of channels with feedback,"S Tatikonda, S Mitter","IEEE Transactions on Information Theory 55 (1), 323-349",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=211230804313270789,236,2008
+A theory of modal control,"JD Simon, SK Mitter","Information and Control 13 (4), 316-353",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9684380333729048955,231,1968
+A theory of QoS for wireless,"IH Hou, V Borkar, PR Kumar","IEEE INFOCOM 2009, 486-494",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12126776292574222948,224,2009
+Optimal control of diffusion processes,VS Borkar,"Pitman Research Notes in Math., 203. 36 Borkar V.(2005):“Controlled …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5500742893134105703,224,1989
+"Controllability, observability and optimal feedback control of affine hereditary differential systems","MC Delfour, SK Mitter","SIAM Journal on Control 10 (2), 298-328",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12730152044450805731,214,1972
+Probability theory: an advanced course,VS Borkar,Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5870436969236223544,197,2012
+Stability and the infinite-time quadratic cost problem for linear hereditary differential systems,"MC Delfour, C McCalla, SK Mitter","SIAM Journal on Control 13 (1), 48-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4258073757784439301,192,1975
+Recursive Stochastic Algorithms for Global Optimization in ,"SB Gelfand, SK Mitter","SIAM Journal on Control and Optimization 29 (5), 999-1018",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7048994450243368789,188,1991
+Actor-Critic--Type Learning Algorithms for Markov Decision Processes,"VR Konda, VS Borkar","SIAM Journal on control and Optimization 38 (1), 94-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17064808714885644757,183,1999
+A control perspective on recent trends in manufacturing systems,"S Gershwin, R Hildebrant, R Suri, S Mitter","IEEE Control Systems Magazine 6 (2), 3-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8852490718033176663,182,1986
+On the Analogy between Mathematical Problems of Non-Linear Filtering and Quantum Physics.,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9488898964833559901,181,1980
+Ergodic control of diffusion processes,"A Arapostathis, VS Borkar, MK Ghosh",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3814213902450681297,175,2012
+Topics in controlled Markov chains,"VS Borkar, VS Borkar",Longman Scientific & Technical,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6242586900949324189,174,1991
+Dynamic pricing and stabilization of supply and demand in modern electric power grids,"M Roozbehani, M Dahleh, S Mitter","2010 First IEEE International Conference on Smart Grid Communications, 543-548",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1681402051832082003,166,2010
+Simulated annealing with noisy or imprecise energy measurements,"SB Gelfand, SK Mitter","Journal of Optimization Theory and Applications 62 (1), 49-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10677984630995551709,166,1989
+Hereditary differential systems with constant delays. I. General case,"MC Delfour, SK Mitter","Journal of Differential Equations 12 (2), 213-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9578709849851378293,158,1972
+Learning algorithms for Markov decision processes with average cost,"J Abounadi, D Bertsekas, VS Borkar","SIAM Journal on Control and Optimization 40 (3), 681-698",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2944436490595010190,156,2001
+Method and apparatus for automated text recognition,"MA Akra, SK Mitter","US Patent 5,644,656",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17396376839558433468,149,1997
+Control of LQG systems under communication constraints,"S Tatikonda, A Sahai, S Mitter",Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11053192158422975410,145,1998
+Asymptotic behavior for solutions of a one-dimensional parabolic equation with homogeneous Neumann boundary conditions,N Chafee,"Journal of Differential equations 18 (1), 111-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6123826745275010755,142,1975
+Distributed asynchronous incremental subgradient methods,"A Nedich, DP Bertsekas, VS Borkar","Studies in Computational Mathematics 8 (C), 381-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13659013261089013708,139,2001
+A descent numerical method for optimization problems with nondifferentiable cost functionals,"DP Bertsekas, SK Mitter","SIAM Journal on Control 11 (4), 637-652",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16923722460405089214,139,1973
+Algorithms for optimal hybrid control,"MS Branicky, SK Mitter","Proceedings of 1995 34th IEEE Conference on Decision and Control 3, 2661-2666",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13561950200857231000,138,1995
+Asynchronous stochastic approximations,VS Borkar,"SIAM Journal on Control and Optimization 36 (3), 840-851","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1352772509140848811,2814758345287806818",134,1998
+"Adaptive control of Markov chains, I: Finite parameter set","V Borkar, P Varaiya","IEEE Transactions on Automatic Control 24 (6), 953-957",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1347761069185724773,133,1979
+Optimal control and nonlinear filtering for nondegenerate diffusion processes,"WH Fleming, SK Mitter",Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3558607734068020423,130,1982
+Data compression for storing and transmitting ECG's/VCG's,"ME Womble, JS Halliday, SK Mitter, MC Lancaster, JH Triebwasser","Proceedings of the IEEE 65 (5), 702-706",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14364507343424277910,129,1977
+ε-approximation of differential inclusions,"A Puri, V Borkar, P Varaiya","International Hybrid Systems Workshop, 362-376","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8046026602232879997,13092910038864520097",128,1995
+LQG control with communication constraints,"VS Borkar, SK Mitter","Communications, Computation, Control, and Signal Processing, 365-373",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=104463133040640337,127,1997
+Robust recursive estimation in the presence of heavy-tailed observation noise,"IC Schick, SK Mitter","The Annals of Statistics 22 (2), 1045-1080",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3881133274036393497,122,1994
+On the stability of wholesale electricity markets under real-time pricing,"M Roozbehani, M Dahleh, S Mitter","49th IEEE Conference on Decision and Control (CDC), 1911-1918",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17424563944251399648,116,2010
+Convex analytic methods in Markov decision processes,VS Borkar,"Handbook of Markov decision processes, 347-375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8333839867954047407,115,2002
+An on-line learning algorithm for energy efficient delay constrained scheduling over a fading channel,"N Salodkar, A Bhorkar, A Karandikar, VS Borkar","IEEE Journal on Selected Areas in Communications 26 (4), 732-742",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17451303125016687141,114,2008
+Occupation measures for controlled Markov processes: Characterization and optimality,"AG Bhatt, VS Borkar","The Annals of Probability, 1531-1562",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13889568711744588297,113,1996
+Metropolis-Type Annealing Algorithms for Global Optimization in ,"SB Gelfand, SK Mitter","SIAM Journal on Control and Optimization 31 (1), 111-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12315383979106916285,113,1993
+Successive approximation methods for the solution of optimal control problems,SK Mitter,"Automatica 3 (3-4), 135-149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9474146906219145202,112,1966
+A convex analytic approach to Markov decision processes,VS Borkar,"Probability Theory and Related Fields 78 (4), 583-602",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2458818733162925634,109,1988
+Information and entropy flow in the Kalman–Bucy filter,"SK Mitter, NJ Newton","Journal of Statistical Physics 118 (1-2), 145-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15314631187465824117,108,2005
+Sample complexity of testing the manifold hypothesis,"H Narayanan, S Mitter","Advances in Neural Information Processing Systems, 1786-1794",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9424043040251892170,103,2010
+Optimal sequential vector quantization of Markov sources,"VS Borkar, SK Mitter, S Tatikonda","SIAM journal on control and optimization 40 (1), 135-148",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3017133483412253906,100,2001
+Controlled diffusion processes,VS Borkar,"Probability surveys 2, 213-244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3048471862694113179,95,2005
+An actor-critic algorithm for constrained Markov decision processes,VS Borkar,"Systems & control letters 54 (3), 207-213",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14461146514422156215,93,2005
+Dynamic Cesaro-Wardrop equilibration in networks,"VS Borkar, PR Kumar","IEEE Transactions on Automatic Control 48 (3), 382-396",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10608544192092076475,91,2003
+"Controllability, observability, pole allocation, and state reconstruction","J Willems, S Mitter","IEEE Transactions on Automatic Control 16 (6), 582-595",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1090000902928239378,90,1971
+Analysis of simulated annealing for optimization,"SB Gelfand, SK Mitter","1985 24th IEEE Conference on Decision and Control, 779-786",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3727055641618769473,89,1985
+Risk-sensitive optimal control for Markov decision processes with monotone cost,"VS Borkar, SP Meyn","Mathematics of Operations Research 27 (1), 192-209",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15718292135757491691,88,2002
+Active learning using arbitrary binary valued queries,"SR Kulkarni, SK Mitter, JN Tsitsiklis","Machine Learning 11 (1), 23-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2453431148324825980,88,1993
+General-purpose filter design for neural prosthetic devices,"L Srinivasan, UT Eden, SK Mitter, EN Brown","Journal of neurophysiology 98 (4), 2456-2475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7676368845968139432,86,2007
+Improved temporal difference methods with linear function approximation,"DP Bertsekas, VS Borkar, A Nedic","Learning and Approximate Dynamic Programming, 231-255",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14923556852729323936,84,2004
+A variational approach to nonlinear estimation,"SK Mitter, NJ Newton","SIAM journal on control and optimization 42 (5), 1813-1833",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9425974586547431254,80,2003
+Information and control: Witsenhausen revisited,"S Mitter, A Sahai","Learning, control and hybrid systems, 281-293",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1553135799966498262,78,1999
+New results on the innovations problem for non-linear filtering,"DF Allinger, SK Mitter",Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7466080055073778312,75,1981
+Control with limited information,SK Mitter,"European Journal of Control 7 (2-3), 122-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3574967136307673903,74,2001
+H∞ sensitivity minimization for delay systems,"DS Flamm, SK Mitter","Systems & Control Letters 9 (1), 17-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17649002204440107273,74,1987
+On minimum cost per unit time control of Markov chains,VS Borkar,"SIAM Journal on Control and Optimization 22 (6), 965-978",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17870906879836123209,74,1984
+A note on essential spectra and norms of mixed Hankel-Toeplitz operators,"G Zames, SK Mitter","Systems & Control Letters 10 (3), 159-165",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4782516949443709191,73,1988
+Controllability and observability for infinite-dimensional systems,"MC Delfour, SK Mitter","SIAM Journal on Control 10 (2), 329-333",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=325383755232291296,73,1972
+Filtering and stochastic control: A historical perspective,SK Mitter,"IEEE Control Systems Magazine 16 (3), 67-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3245477905061173943,72,1996
+Hereditary differential systems with constant delays. II. A class of affine systems and the adjoint problem,"MC Delfour, SK Mitter","Journal of Differential Equations 18 (1), 18-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5786210405718986447,72,1975
+Q-learning for risk-sensitive control,VS Borkar,"Mathematics of operations research 27 (2), 294-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8648961690640362194,68,2002
+Stochastic Approximation for Nonexpansive Maps: Application to ,"J Abounadi, DP Bertsekas, V Borkar","SIAM Journal on Control and Optimization 41 (1), 1-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17005916191512884257,68,2002
+Testing the manifold hypothesis,"C Fefferman, S Mitter, H Narayanan","Journal of the American Mathematical Society 29 (4), 983-1049",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4898736638088422103,67,2016
+Adaptive importance sampling technique for Markov chains using stochastic approximation,"TPI Ahamed, VS Borkar, S Juneja","Operations Research 54 (3), 489-504",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7649955552928748914,65,2006
+"GUEST EDITORS'INTRODUCTION: Perceptual Organization in Computer Vision: Status, Challenges, and Potential","KL Boyer, S Sarkar","Computer Vision and Image Understanding 76 (1), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4701162225384632780,65,1999
+White-noise representations in stochastic realization theory,VS Borkar,"SIAM Journal on Control and Optimization 31 (5), 1093-1102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12534260748274691748,65,1993
+Control of Markov chains with long-run average cost criterion: the dynamic programming equations,VS Borkar,"SIAM Journal on Control and Optimization 27 (3), 642-657",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2054409053311047018,63,1989
+Index policies for real-time multicast scheduling for wireless broadcast systems,"V Raghunathan, V Borkar, M Cao, PR Kumar","IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 1570-1578",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12924476420250531340,62,2008
+Ergodic control of multidimensional diffusions I: The existence results,"VS Borkar, MK Ghosh","SIAM Journal on Control and Optimization 26 (1), 112-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10181850704328673197,60,1988
+Lagrange duality theory for convex control problems,"WW Hager, SK Mitter","SIAM Journal on Control and Optimization 14 (5), 843-856",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9533359182494276540,59,1976
+Reachability of perturbed systems and min sup problems,"MC Delfour, SK Mitter","SIAM Journal on Control 7 (4), 521-533",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2262670420184003954,59,1969
+An analog scheme for fixed point computation. i. theory,"VS Borkar, K Soumyanatha",IEEE Transactions on Circuits and Systems I: Fundamental Theory and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15728206031408300712,58,1997
+Semidefinite programming approach to Gaussian sequential rate-distortion trade-offs,"T Tanaka, KKK Kim, PA Parrilo, SK Mitter","IEEE Transactions on Automatic Control 62 (4), 1896-1910",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11900605262856333778,57,2016
+Control of LQG systems under communication constraints,"S Tatikonda, A Sahai, S Mitter",Proceedings of the 1999 American Control Conference (Cat. No. 99CH36251) 4 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4910255315838617225,57,1999
+Stochastic quantization of field theory in finite and infinite volume,"VS Borkar, RT Chari, SK Mitter","Journal of functional analysis 81 (1), 184-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1363841635287152835,55,1988
+Parameter identification in infinte dimensional linear systems: Parameter identification,"A Bagchi, V Borkar",Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13920183328204252532,54,1984
+Identification and adaptive control of Markov chains,"V Borkar, P Varaiya","SIAM Journal on Control and Optimization 20 (4), 470-489",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2773274698607355232,54,1982
+Quantization of linear systems,"N Elia, SK Mitter",Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8696041715723443516,52,1999
+Ergodic control of Markov chains with constraints—the general case,VS Borkar,"SIAM journal on control and optimization 32 (1), 176-186",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16938495259704544659,51,1994
+Simulated annealing type algorithms for multivariate optimization,"SB Gelfand, SK Mitter","Algorithmica 6 (1-6), 419-436",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3453370054296068564,51,1991
+A two timescale stochastic approximation scheme for simulation-based parametric optimization,"S Bhatnagar, VS Borkar","Probability in the Engineering and Informational Sciences 12 (4), 519-531",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12773016262450927298,49,1998
+Stochastic differential games: Occupation measure based approach,"VS Borkar, MK Ghosh","Journal of optimization theory and applications 73 (2), 359-385",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6659737282124101628,48,1992
+Parameter estimation in continuous-time stochastic processes,"V Borkar, A Bagchi",Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2716328799706619444,47,1982
+Some randomized code constructions from group actions,"LMJ Bazzi, SK Mitter","IEEE Transactions on Information Theory 52 (7), 3210-3219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5818389512650842669,46,2006
+Structural properties of optimal transmission policies over a randomly varying channel,"M Agarwal, VS Borkar, A Karandikar","IEEE Transactions on Automatic Control 53 (6), 1476-1491",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12244205572412472618,45,2008
+Control of Markov chains with long-run average cost criterion,VS Borkar,"Stochastic Differential Systems, Stochastic Control Theory and Applications …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17640763023078943533,45,1988
+Controlled Markov chains and stochastic networks,VS Borkar,"SIAM Journal on Control and Optimization 21 (4), 652-666",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4070712967181023351,42,1983
+Lectures on nonlinear filtering and stochastic control,SK Mitter,"Nonlinear Filtering and Stochastic Control, 170-207","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2669753054774589821,14261822736396841599",42,1982
+A model-based approach to clock synchronization,"NM Freris, VS Borkar, PR Kumar",Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9376048692041017829,41,2009
+"Differential join prices for parallel queues: Social optimality, dynamic pricing algorithms and application to internet pricing","P Dube, VS Borkar, D Manjunath",Proceedings. Twenty-First Annual Joint Conference of the IEEE Computer and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5945746639885462111,41,2002
+Stochastic approximation algorithms: Overview and recent trends,"B Bharath, VS Borkar","Sadhana 24 (4-5), 425-452",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14825892714296156665,40,1999
+A stable online algorithm for energy-efficient multiuser scheduling,"N Salodkar, A Karandikar, VS Borkar","IEEE Transactions on Mobile Computing 9 (10), 1391-1406",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17986958707458929766,37,2010
+Average cost dynamic programming equations for controlled Markov chains with partial observations,VS Borkar,"SIAM Journal on Control and Optimization 39 (3), 673-681",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4595566816118197771,37,2000
+Multiscale stochastic approximation for parametric optimization of hidden Markov models,"S Bhatnagar, VS Borkar","Probability in the Engineering and Informational Sciences 11 (4), 509-522",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16722423389379985193,37,1997
+A note on stochastic dissipativeness,"VS Borkar, SK Mitter","Directions in Mathematical Systems Theory and Optimization, 41-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18128906788674804879,36,2003
+Filtering theory and quantum fields,SK Mitter,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15299039447344412580,36,1979
+Mathematical control theory,SK Mitter,Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10385443659119519973,35,2012
+Common randomness and distributed control: A counterexample,"V Anantharam, V Borkar","Systems & control letters 56 (7-8), 568-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1114721647986975057,34,2007
+Hierarchical image segmentation—Part i: Detection of regular curves in a vector graph,"S Casadei, S Mitter","International Journal of Computer Vision 27 (1), 71-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16249670754539653281,34,1998
+e-Approximation of differential inclusions,"A Puri, V Borkar, P Varaiya","Lecture Notes in Computer Science, 362-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13510359277808235185,34,1996
+A linguistic feature representation of the speech waveform,"E Eide, JR Rohlicek, H Gish, S Mitter","1993 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=878975786767296738,34,1993
+Filtering for linear stochastic hereditary differential systems,"SK Mitter, RB Vinter","Control theory, numerical methods and computer systems modelling, 1-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11225452186947041826,34,1975
+LQG control with minimum directed information: Semidefinite programming approach,"T Tanaka, PM Esfahani, SK Mitter","IEEE Transactions on Automatic Control 63 (1), 37-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7231978758935241979,33,2017
+Analysis of competitive electricity markets under a new model of real-time retail pricing,"M Roozbehanit, M Rinehart, MA Dahleh, SK Mitter, D Obradovic, ...","2011 8th International Conference on the European Energy Market (EEM), 250-255",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8256396386191958333,33,2011
+Averaging of singularly perturbed controlled stochastic differential equations,"V Borkar, V Gaitsgory","Applied mathematics and optimization 56 (2), 169-209",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17286058078340205469,32,2007
+Endcoding complexity versus minimum distance,"LMJ Bazzi, SK Mitter","IEEE Transactions on Information Theory 51 (6), 2103-2112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12233615925937838298,32,2005
+Distributed multiple target tracking and data association in ad hoc sensor networks,"M Chu, S Mitter, F Zhao","Sixth International Conference of Information Fusion, 2003. Proceedings of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11848244149076724312,32,2003
+Finite Dimensional Nonlinear Estimation in Continuous and Discrete Time.,"SI Marcus, SK Mitter, D Ocone",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12465653625458179954,32,1978
+Stochastic approximation with ‘controlled Markov’noise,VS Borkar,"Systems & control letters 55 (2), 139-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12207846741495676121,31,2006
+"Approximation, computation, and distortion in the variational formulation","T Richardson, S Mitter","Geometry-Driven Diffusion in Computer Vision, 169-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3048977024695351264,31,1994
+Controlled diffusions with constraints,"VS Borkar, MK Ghosh","Journal of Mathematical Analysis and Applications 152 (1), 88-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11283837502575399426,31,1990
+Optimal control of sleep periods for wireless terminals,"AP Azad, S Alouf, E Altman, V Borkar, GS Paschos","IEEE Journal on Selected Areas in Communications 29 (8), 1605-1617",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8546674275721400491,30,2011
+Ergodic control of diffusion processes,VS Borkar,Proceedings ICM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11756874395535599077,30,2006
+Reinforcement learning in Markovian evolutionary games,VS Borkar,"Advances in Complex Systems 5 (01), 55-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18278488452414516460,30,2002
+Denumerable state stochastic games with limiting average payoff,"VS Borkar, MK Ghosh","Journal of optimization theory and applications 76 (3), 539-560",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7223983297088233129,30,1993
+"Ergodic control of multidimensional diffusions, II: Adaptive control","VS Borkar, MK Ghosh","Applied Mathematics and Optimization 21 (1), 191-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2668133968950763602,30,1990
+Maximum work extraction and implementation costs for nonequilibrium Maxwell's demons,"H Sandberg, JC Delvenne, NJ Newton, SK Mitter","Physical Review E 90 (4), 042119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11469058964293517547,29,2014
+McKean–Vlasov limit in portfolio optimization,"VS Borkar, K Suresh Kumar","Stochastic Analysis and Applications 28 (5), 884-906",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6055707193113243441,29,2010
+A sensitivity formula for risk-sensitive cost and the actor–critic algorithm,VS Borkar,"Systems & Control Letters 44 (5), 339-346",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13446190628075520957,28,2001
+Weak convergence of Markov chain sampling methods and annealing algorithms to diffusions,"SB Gelfand, SK Mitter","Journal of Optimization Theory and Applications 68 (3), 483-498",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6945375376594813055,28,1991
+Ergodic control for constrained diffusions: characterization using HJB equations,"V Borkar, A Budhiraja","SIAM journal on control and optimization 43 (4), 1467-1492",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7274349159503711929,27,2004
+Asymptotics of the invariant measure in mean field models with jumps,"VS Borkar, R Sundaresan","Stochastic Systems 2 (2), 322-380",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=880263434589547801,26,2013
+Shape representation via harmonic embedding,"A Duci, AJ Yezzi, SK Mitter, S Soatto","null, 656",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15898846663068368431,26,2003
+Source coding and channel requirements for unstable processes,"A Sahai, S Mitter",arXiv preprint cs/0610143,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13279489052054910235,25,2006
+Optimal random access in networks with two-way traffic,"E Altman, VS Borkar, AA Kherani","2004 IEEE 15th International Symposium on Personal, Indoor and Mobile Radio …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4731782876637887065,25,2004
+Multiscale chaotic SPSA and smoothed functional algorithms for simulation optimization,"S Bhatnagar, VS Borkar","Simulation 79 (10), 568-580",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12295070136256420234,25,2003
+A hierarchical approach to high resolution edge contour reconstruction,"S Casadei, SK Mitter",Proceedings CVPR IEEE Computer Society Conference on Computer Vision and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10455799421316303651,25,1996
+On the diffusion of messages in on-line social networks,"A Karnik, A Saroop, V Borkar","Performance Evaluation 70 (4), 271-285",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17749211615422749035,24,2013
+A learning algorithm for risk-sensitive cost,"A Basu, T Bhattacharyya, VS Borkar","Mathematics of operations research 33 (4), 880-898",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9857775783397700488,24,2008
+Coding into a source: A direct inverse rate-distortion theorem,"M Agarwal, A Sahai, S Mitter",arXiv preprint cs/0610142,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14557226811062238352,24,2006
+Charge-based control of diffserv-like queues,"VS Borkar, D Manjunath","Automatica 40 (12), 2043-2057",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15574944428909250202,24,2004
+Non-linear filtering and stochastic mechanics,SK Mitter,Stochastic Systems: The Mathematics of Filtering and Identification and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16188298687182511570,24,1981
+Region matching with missing parts,"A Duci, AJ Yezzi, S Mitter, S Soatto","European Conference on Computer Vision, 48-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10151622416407360480,23,2002
+Controlled Markov chains with constraints,VS Borkar,"Sadhana 15 (4-5), 405-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2497411252736128360,23,1990
+Spatio-temporal data fusion for 3D+ T image reconstruction in cerebral angiography,"AD Copeland, RS Mangoubi, MN Desai, SK Mitter, AM Malek","IEEE Transactions on Medical Imaging 29 (6), 1238-1251",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3846476120774403507,22,2010
+Why is resorting to fate wise? A critical look at randomized algorithms in systems and control,MC Campi,"European Journal of Control 16 (5), 419-430",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15456743172459028161,22,2010
+On the lock-in probability of stochastic approximation,VS Borkar,"Combinatorics, Probability and Computing 11 (1), 11-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11164622265027987642,22,2002
+Dynamics of individual specialization and global diversification in communities,"VS Borkar, S Jain, G Rangarajan","Complexity 3 (3), 50-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6213845891723712157,22,1998
+Nonlinear filtering of diffusion processes,"JS Baras, GL Blankenship, SK Mitter","IFAC Proceedings Volumes 14 (2), 547-552",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15714846451859431296,22,1981
+Random access in wireless ad hoc networks as a distributed game,"VS Borkar, AA Kherani",Proc. WiOpt 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12998170862805101698,21,2004
+Dynamic programming for ergodic control with partial observations,VS Borkar,"Stochastic processes and their applications 103 (2), 293-310",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14674080207038072362,21,2003
+Markov control problems under communication constraints,"VS Borkar, S Mitter, S Tatikonda","Communications in information and Systems 1 (1), 15-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15949968529732794094,21,2001
+A learning algorithm for Markov decision processes with adaptive state aggregation,"JS Baras, VS Borkar",Proceedings of the 39th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16347126115972012843,21,2000
+Local versus nonlocal computation of length of digitized curves,"SR Kulkarni, SK Mitter, TJ Richardson, JN Tsitsiklis","IEEE Transactions on Pattern Analysis and Machine Intelligence 16 (7), 711-718",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8755278651375824456,21,1994
+Multiple Integral Expansions for Nonlinear Filtering.,"SK Mitter, D Ocone",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15316332068236865978,21,1979
+Optimal control of distributed parameter systems,SK Mitter,"Joint Automatic Control Conference, 620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6076151732692570623,21,1969
+Risk-constrained Markov decision processes,"V Borkar, R Jain","IEEE Transactions on Automatic Control 59 (9), 2574-2579",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15253212743157089434,20,2014
+Sequential source coding: An optimization viewpoint,"VS Borkar, SK Mitter, A Sahai, S Tatikonda","Proceedings of the 44th IEEE Conference on Decision and Control, 1035-1042",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17304788543289441673,20,2005
+Control under communication constraints: Part i and ii,"S Tatikonda, S Mitter",IEEE Trans. Automat. Control (submitted),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6985226164763286752,20,2000
+Controllability and pole assignment for discrete time linear systems defined over arbitrary fields,"SK Mitter, R Foulkes","SIAM Journal on Control 9 (1), 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13723705300981507596,20,1971
+Risk-constrained Markov decision processes,"V Borkar, R Jain","49th IEEE Conference on Decision and Control (CDC), 2664-2669",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7436544476005790755,19,2010
+Risk-sensitive control with near monotone cost,"A Biswas, VS Borkar, KS Kumar","Applied Mathematics & Optimization 62 (2), 145-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=722747382806893443,19,2010
+Uniform recurrence properties of controlled diffusions and applications to optimal control,"A Arapostathis, VS Borkar","SIAM Journal on Control and Optimization 48 (7), 4181-4223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11217824179966277863,19,2010
+Distributed topology control of wireless networks,"VS Borkar, D Manjunath","Wireless Networks 14 (5), 671-682",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8788741198689453940,19,2008
+The actor-critic algorithm as multi-time-scale stochastic approximation,"VS Borkar, VR Konda","Sadhana 22 (4), 525-543",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17440318789636439279,19,1997
+Singular perturbations in ergodic control of diffusions,"VS Borkar, V Gaitsgory","SIAM journal on control and optimization 46 (5), 1562-1577",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15908667568868415783,18,2007
+"The necessity and sufficiency of anytime capacity for stabilization of a linear system over a noisy communication link, part II: Vector systems","A Sahai, S Mitter",arXiv preprint cs/0610146,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16165324110995118118,18,2006
+WLC39-3: power optimal opportunistic scheduling,"A Bhorkar, A Karandikar, VS Borkar","IEEE Globecom 2006, 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7530384046464282478,18,2006
+On existence of limit occupational measures set of a controlled stochastic differential equation,"V Borkar, V Gaitsgory","SIAM journal on control and optimization 44 (4), 1436-1473",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3247249296995070944,18,2005
+A topology for Markov controls,VS Borkar,"Applied Mathematics and Optimization 20 (1), 55-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1967478098522325173,18,1989
+Steepest descent for optimization problems with nondifferentiable cost functionals,"DP Bertsekas, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE DEPT OF ELECTRICAL ENGINEERING,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5703595377537383360,18,1971
+Distributed reinforcement learning via gossip,"A Mathkar, VS Borkar","IEEE Transactions on Automatic Control 62 (3), 1465-1470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11234055597591252978,17,2016
+A Concentration Bound for Stochastic Approximation via Alekseev's Formula,"G Thoppe, VS Borkar",arXiv preprint arXiv:1506.08657,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11578008389660428666,17,2015
+Asynchronous gossip for averaging and spectral ranking,"VS Borkar, R Makhijani, R Sundaresan","IEEE Journal of Selected Topics in Signal Processing 8 (4), 703-716",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6473812683097921341,17,2014
+Manufacturing consent,"VS Borkar, J Nair, N Sanketh","2010 48th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6788602258540586620,17,2010
+A novel ACO algorithm for optimization via reinforcement and initial bias,"VS Borkar, D Das","Swarm Intelligence 3 (1), 3-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1017277211098660473,17,2009
+Convex optimization in infinite dimensional spaces,SK Mitter,"Recent advances in learning and control, 161-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7302283425749539298,17,2008
+"Directed graphs, Hamiltonicity and doubly stochastic matrices","VS Borkar, V Ejov, JA Filar","Random Structures & Algorithms 25 (4), 376-395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4614114336674875201,17,2004
+A further remark on dynamic programming for partially observed Markov processes,"VS Borkar, A Budhiraja","Stochastic processes and their applications 112 (1), 79-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=370328923465402629,17,2004
+Some game-theoretic problems in wireless ad-hoc networks,"E Altman, VS Borkar, AA Kherani, P Michiardi, R Molva","International Workshop of the EuroNGI Network of Excellence, 82-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4800823045102918275,17,2004
+Boundary detection in piecewise homogeneous textured images,"S Casadei, S Mitter, P Perona","European Conference on Computer Vision, 174-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12302902840866968916,17,1992
+On sampling methods and annealing algorithms,"SB Gelfand, SK Mitter",PURDUE UNIV LAFAYETTE IN SCHOOL OF ELECTRICAL ENGINEERING,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13616643016109766217,17,1990
+The linear quadratic optimal control problem for infinite dimensional systems over an infinite horizon: Survey and examples,"A Bensoussan, MC Delfour, SK Mitter",1976 IEEE Conference on Decision and Control including the 15th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5684383616819966943,17,1976
+Hamiltonian cycle problem and Markov chains,"VS Borkar, V Ejov, JA Filar, GT Nguyen",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9147336167591472229,16,2012
+On the Hamiltonicity gap and doubly stochastic matrices,"VS Borkar, V Ejov, JA Filar","Random Structures & Algorithms 34 (4), 502-519",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16097584054753204630,16,2009
+A variational formulation-based edge focussing algorithm,"TJ Richardson, SK Mitter","Sadhana 22 (4), 553-574",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17314418099674841952,16,1997
+Linear systems over Noetherian rings in the behavioural approach,"S Zampieri, SK Mitter","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5549023332496770878,16,1994
+Analysis of Simulated Annealing Type Algorithms.,"SB Gelfand, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8426974372766328383,16,1987
+Existence of optimal controls for partially observed diffusions,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13474731486533528426,16,1983
+The Necessity and Sufficiency of Anytime Capacity for Control over a Noisy Communication Link--Part II: Vector Systems,"A Sahai, S Mitter",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17635361121887652547,15,2006
+An information architecture for distributed inference on ad hoc sensor networks,"M Chu, S Mitter, F Zhao",Proceedings of the Annual Allerton Conference on Communication Control and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11667307977940442862,15,2003
+A learning algorithm for discrete-time stochastic control,VS Borkar,"Probability in the Engineering and Informational Sciences 14 (2), 243-258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2490565334210884760,15,2000
+Optimal control of a stochastic hybrid system with discounted cost,"VS Borkar, MK Ghosh, P Sahay","Journal of Optimization Theory and Applications 101 (3), 557-580",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=924224389431445390,15,1999
+An existence theorem and lattice approximations for a variational problem arising in computer vision,"SR Kulkarni, SK Mitter, TJ Richardson","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12296689352401702473,15,1989
+Evolution of interacting particles in a Brownian medium,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7033457757430325574,15,1984
+"Conjugate convex functions, duality, and optimal control problems I: Systems governed by ordinary differential equations","W Heins, SK Mitter","Information Sciences 2 (2), 211-243",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17364318280635579138,15,1970
+A variational formula for risk-sensitive reward,"V Anantharam, VS Borkar","SIAM Journal on Control and Optimization 55 (2), 961-988",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14395576845947929436,14,2017
+Whittle index policy for crawling ephemeral content,"KE Avrachenkov, VS Borkar","IEEE Transactions on Control of Network Systems 5 (1), 446-455",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16592782246456482362,14,2016
+Submodularity in team formation problem,"A Bhowmik, V Borkar, D Garg, M Pallan","Proceedings of the 2014 SIAM International Conference on Data Mining, 893-901",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6175863172535056795,14,2014
+Closed and open loop optimal control of buffer and energy of a wireless device,"VS Borkar, AA Kherani, BJ Prabhu","Third International Symposium on Modeling and Optimization in Mobile, Ad Hoc …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1665957277988461945,14,2005
+PAC learning with generalized samples and an applicaiton to stochastic geometry,"SR Kulkarni, SK Mitter, JN Tsitsiklis, O Zeitouni","IEEE transactions on pattern analysis and machine intelligence 15 (9), 933-942",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12615284886683253496,14,1993
+Ergodic and adaptive control of nearest-neighbor motions,"VS Borkar, MK Ghosh","Mathematics of Control, Signals and Systems 4 (1), 81-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9643691775396834017,14,1991
+Self-tuning control of diffusions without the identifiability condition,VS Borkar,"Journal of optimization theory and applications 68 (1), 117-138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12861206271574676629,14,1991
+Opportunistic scheduling as restless bandits,"VS Borkar, GS Kasbekar, S Pattathil, PY Shetty","IEEE Transactions on Control of Network Systems 5 (4), 1952-1961",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10832080333782340968,13,2017
+An information-theoretic characterization of channels that die,"LR Varshney, SK Mitter, VK Goyal","IEEE Transactions on Information Theory 58 (9), 5711-5724",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14771674096215920305,13,2012
+Peformance analysis conditioned on rare events: an adaptive simulation scheme,"VS Borkar, S Juneja, AA Kherani","Communications in Information & Systems 3 (4), 259-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6401397768719184430,13,2003
+Uniform stability of controlled Markov processes,VS Borkar,"System Theory, 107-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6512749149462028086,13,2000
+Hierarchical curve reconstruction. Part I: Bifurcation analysis and recovery of smooth curves,"S Casadei, S Mitter","European Conference on Computer Vision, 199-208",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15815589090018096623,13,1996
+On extremal solutions to stochastic control problems,VS Borkar,"Applied Mathematics and Optimization 24 (1), 317-330",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=841588277669118239,13,1991
+Modelling for Stochastic Systems and Quantum Fields.,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11499952133194983388,13,1978
+Synthesis of transfer function matrices with invariant zeros,"J Simon, S Mitter","IEEE Transactions on Automatic Control 14 (4), 420-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10557334930949518837,13,1969
+Risk-sensitive control and an abstract Collatz–Wielandt formula,"A Arapostathis, VS Borkar, KS Kumar","Journal of Theoretical Probability 29 (4), 1458-1484",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12678539121708389301,12,2016
+Nonlinear gossip,"AS Mathkar, VS Borkar","SIAM Journal on Control and Optimization 54 (3), 1535-1557",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11363044747305785450,12,2016
+Signal Processing: Part I Signal Processing Theory,"L Auslander, FA Grnbaum, JW Helton, T Kailath, P Khargonekar, SK Mitter","Springer Publishing Company, Incorporated",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1655499329538087496,12,2012
+A new Markov selection procedure for degenerate diffusions,"VS Borkar, KS Kumar","Journal of Theoretical Probability 23 (3), 729-747",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9330662016026196391,12,2010
+Region matching with missing parts,"A Duci, AJ Yezzi, SK Mitter, S Soatto","Image and Vision Computing 24 (3), 271-277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18375757677164821319,12,2006
+Collective behaviour and diversity in economic communities: Some insights from an evolutionary game,"VS Borkar, S Jain, G Rangarajan","The Application of Econophysics, 330-337",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9437580191158564325,12,2004
+The capacity of channels with feedback Part I: the General Case,"S Tatikonda, S Mitter",IEEE Trans. Inform. Theory,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14670652384222213800,12,2001
+An analog scheme for fixed-point computation-part II: Applications,"K Soumyanath, VS Borkar",IEEE Transactions on Circuits and Systems I: Fundamental Theory and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7501319256295698866,12,1999
+Ergodic control of partially observed Markov chains,VS Borkar,"Systems & control letters 34 (4), 185-189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16778854494873511364,12,1998
+A remark on the attainable distributions of controlled diffusions,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5074256541720766003,12,1986
+Geometric theory of nonlinear filtering,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE DEPT OF ELECTRICAL ENGINEERING AND …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4796231086716191860,12,1983
+Optimal filtering for linear stochastic hereditary differential systems,"A Bensoussan, MC Delfour, SK Mitter",Proceedings of the 1972 IEEE Conference on Decision and Control and 11th …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813766424138915755,12,1972
+The method of conjugate gradients for optimal control problems,"S Mitter, LS Lasdon, AD Waren","Proceedings of the IEEE 54 (6), 904-905",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10477556609148718119,12,1966
+A relative value iteration algorithm for nondegenerate controlled diffusions,"A Arapostathis, VS Borkar","SIAM Journal on Control and Optimization 50 (4), 1886-1902",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12613092717749866018,11,2012
+Optimal sampling for state change detection with application to the control of sleep mode,"AP Azad, S Alouf, E Altman, V Borkar, G Paschos",Proceedings of the 48h IEEE Conference on Decision and Control (CDC) held …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17077004301100416314,11,2009
+Reinforcement Learning—A Bridge Between Numerical Methods and Monte Carlo,VS Borkar,"Perspectives in Mathematical Sciences I: Probability and Statistics, 71-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9707338537935531118,11,2009
+A note on linear function approximation using random projections,"K Barman, VS Borkar","Systems & Control Letters 57 (9), 784-786",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6870441352375043947,11,2008
+The value function in ergodic control of diffusion processes with partial observations,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10775552204230972799,11,1999
+"Controlled diffusions with constraints, II",VS Borkar,"Journal of mathematical analysis and applications 176 (2), 310-321",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12151784532444132127,11,1993
+The kumar-becker-lin scheme revisited,VS Borkar,"Journal of Optimization Theory and Applications 66 (2), 289-309",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9622900286063740908,11,1990
+Integration with respect to operator-valued measures with applications to quantum estimation theory,"SK Mitter, SK Young","Annali di matematica pura ed applicata 137 (1), 1-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9972060326865489886,11,1984
+Toward a theory of nonlinear stochastic realization,"A Lindquist, S Mitter, G Picci","Feedback Control of Linear and Nonlinear Systems, 175-189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3677656418184246626,11,1982
+Generic solvability of Morgan's problem,"M Warren, S Mitter","IEEE Transactions on Automatic Control 20 (2), 268-269",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6671939542645451534,11,1975
+Small noise asymptotics for invariant densities for a class of diffusions: a control theoretic view,"A Biswas, VS Borkar","Journal of Mathematical Analysis and Applications 360 (2), 476-484",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=903368423064801871,10,2009
+Transmission rate control over randomly varying channels,"G Rajadhyaksha, VS Borkar","Probability in the Engineering and Informational Sciences 19 (1), 73-82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9210216544017882029,10,2005
+A strong approximation theorem for stochastic recursive algorithms,"VS Borkar, SK Mitter","Journal of optimization theory and applications 100 (3), 499-513",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13499548795902678570,10,1999
+Sampling of images for efficient model-based vision,"M Akra, L Bazzi, S Mitter","IEEE transactions on pattern analysis and machine intelligence 21 (1), 4-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4311265475268830111,10,1999
+Bayesian parameter estimation and adaptive control of Markov processes with time-averaged cost,V Borkar,"Applicationes Mathematicae 25, 339-358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16681783727443322996,10,1998
+Recursive self-tuning control of finite Markov chains,VS Borkar,"Applicationes Mathematicae 24 (2), 169-188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4035696383021040100,10,1996
+A necessary condition for decoupling multivariable systems,"ME WARREN, SK MITTER","International Journal of Control 21 (2), 177-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16626619606646617704,10,1975
+Fast rumor source identification via random walks,"A Jain, V Borkar, D Garg","Social Network Analysis and Mining 6 (1), 62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14575060053167858671,9,2016
+Convergence of the relative value iteration for the ergodic control problem of nondegenerate diffusions under near-monotone costs,"A Arapostathis, VS Borkar, KS Kumar","SIAM Journal on Control and Optimization 52 (1), 1-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12934854883020445392,9,2014
+Robust parameter optimization of hidden Markov models,"B Bharath, VS Borkar","Journal of the Indian Institute of Science 78 (2), 119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9216070628760953832,9,2013
+Learning algorithms for risk-sensitive control,VS Borkar,Proceedings of the 19th International Symposium on Mathematical Theory of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9406196201294879331,9,2010
+A new learning algorithm for optimal stopping,"VS Borkar, J Pinto, T Prabhu","Discrete Event Dynamic Systems 19 (1), 91-113","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18343070237923114445,15126364881447722882",9,2009
+Stochastic control with imperfect models,"A Basu, VS Borkar","SIAM Journal on Control and Optimization 47 (3), 1274-1300",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910329262489903785,9,2008
+Network pricing for QoS: a ‘regulation’approach,"D Garg, VS Borkar, D Manjunath","Advances in Control, Communication Networks, and Transportation Systems, 137-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4004845591587150815,9,2005
+The sequential rate distortion function and joint source-channel coding with feedback,"S Tatikonda, S Mitter",PROCEEDINGS OF THE ANNUAL ALLERTON CONFERENCE ON COMMUNICATION CONTROL AND …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17333640408878684803,9,2003
+Beyond the uniqueness assumption: Ambiguity representation and redundancy elimination in the computation of a covering sample of salient contour cycles,"S Casadei, S Mitter","Computer Vision and Image Understanding 76 (1), 19-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17992268607848012565,9,1999
+The probabilistic structure of controlled diffusion processes,VS Borkar,"Acta Applicandae Mathematica 11 (1), 19-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5083800431189213507,9,1988
+Approximations for nonlinear filtering,SK Mitter,"Nonlinear Stochastic Problems, 339-345",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2948526763174548437,9,1983
+Nonlinear filtering of diffusion processes a guided tour,SK Mitter,"Advances in Filtering and Optimal Stochastic Control, 256-266",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17307538835621508644,9,1982
+Untitled,,GB Patent 2160874: A,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561872595518217541,9,0
+LQG control with minimal information: Three-stage separation principle and SDP-based solution synthesis,"T Tanaka, PM Esfahani, SK Mitter",arXiv preprint arXiv:1510.04214,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17152838314595929056,8,2015
+Application of nonlinear filtering to credit risk,"VS Borkar, MK Ghosh, G Rangarajan","Operations Research Letters 38 (6), 527-532",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13984090774902028578,8,2010
+Quasi-stationary distributions as centrality measures for the giant strongly connected component of a reducible graph,"K Avrachenkov, V Borkar, D Nemirovsky","Journal of computational and applied mathematics 234 (11), 3075-3090",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6038053268171823085,8,2010
+Singular perturbations in risk-sensitive stochastic control,"VS Borkar, KS Kumar","SIAM Journal on Control and Optimization 48 (6), 3675-3697",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10234962722949345419,8,2010
+Channels that die,"LR Varshney, SK Mitter, VK Goyal","2009 47th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=638962041361285071,8,2009
+Reinforcement learning—a bridge between numerical methods and Markov Chain Monte Carlo,VS Borkar,Perspectives in Mathematical Sciences. World Scientific,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13178575872672228057,8,2008
+On de Finetti coherence and Kolmogorov probability,"VS Borkar, VR Konda, SK Mitter","Statistics & probability letters 66 (4), 417-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12825189467852162402,8,2004
+Risk sensitive optimal control: Existence and synthesis for models with unbounded cost,"VS Borkar, SP Meyn",SIAM J. Control Optim,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12740191126613270698,8,1999
+Method and apparatus for automated recognition of text embedded in cluttered observations,"MA Akra, SK Mitter","US Patent 5,784,490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14947059109926119078,8,1998
+Optimal control of semilinear stochastic evolution equations,"VS Borkar, TE Govindan","Nonlinear analysis 23 (1), 15-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9788056653922069453,8,1994
+Ergodic control problem for one-dimensional diffusions with near-monotone cost,"A Bensoussan, V Borkar","Systems & control letters 5 (2), 127-133",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12969687620055165548,8,1984
+Finite chain approximation for a continuous stochastic control problem,"V Borkar, P Varaiya","IEEE Transactions on Automatic Control 26 (2), 466-470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1302589696687819740,8,1981
+Existence and non-existence of finite dimensional filters,SK Mitter,"Mathematical theory of optimization, 1-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6361691639961228083,8,1981
+Theory of inequalities and the controllability of linear systems,SK Mitter,"Mathematical Theory of Control, Academic Press, New York, 203-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15342372590659697830,8,1967
+Concentration bounds for two time scale stochastic approximation,"VS Borkar, S Pattathil","2018 56th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10925383821512048703,7,2018
+Temporally agnostic rumor-source detection,"A Kumar, VS Borkar, N Karamchandani",IEEE Transactions on Signal and Information Processing over Networks 3 (2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2895212698265237653,7,2017
+Dynamic programming for ergodic control of markov chains under partial observations: a correction,VS Borkar,"SIAM Journal on Control and Optimization 45 (6), 2299-2304",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11577971473830373287,7,2007
+Control of buffer and energy of a wireless device: Closed and open loop approaches,"VS Borkar, AA Kherani, B Prabhu",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4753791825643297459,7,2006
+The necessity and sufficiency of anytime capacity for control over a noisy communication link: Parts I and II,"A Sahai, S Mitter",preprint,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12852362076419867346,7,2005
+The duality between estimation and control,"SK Mitter, NJ Newton",Published in Festschrift for A. Bennoussan,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12992801749616683477,7,2000
+"The legacy of George Zames-(January 7, 1934 August 10, 1997)","S Mitter, A Tannenbaum","IEEE Transactions on Automatic Control 43 (5), 590-595",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8776453814877073682,7,1998
+"Point estimation, stochastic approximation, and robust Kalman filtering","SK Mitter, IC Schick","Systems, Models and Feedback: Theory and Applications, 127-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13331486158463426291,7,1992
+A comparison principle for certain convex functionals of a diffusion process without drift,VS Borkar,"Stochastic processes and their applications 25, 245-248",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8954813324984799854,7,1987
+A reinforcement learning algorithm for restless bandits,"VS Borkar, K Chadha","2018 Indian Control Conference (ICC), 89-94",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15527244020440447309,6,2018
+A Distributed Boyle--Dykstra--Han Scheme,"SR Phade, VS Borkar","SIAM Journal on Optimization 27 (3), 1880-1897",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4950172419276812084,6,2017
+Whittle index for partially observed binary Markov decision processes,VS Borkar,"IEEE Transactions on Automatic Control 62 (12), 6614-6618",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=419063679463250890,6,2017
+An index policy for dynamic pricing in cloud computing under price commitments,"VS Borkar, K Ravikumar, K Saboo","Applicationes Mathematicae 44, 215-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4810410771554970524,6,2017
+Whittle indexability in egalitarian processor sharing systems,"VS Borkar, S Pattathil","Annals of Operations Research, 1-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16594301163587266744,6,2017
+Manufacturing consent,"VS Borkar, A Karnik, J Nair, S Nalli","IEEE Transactions on Automatic Control 60 (1), 104-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1475882217528366086,6,2014
+A stochastic Kaczmarz algorithm for network tomography,"G Thoppe, V Borkar, D Manjunath","Automatica 50 (3), 910-914",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18150265410225714856,6,2014
+Feature search in the grassmanian in online reinforcement learning,"S Bhatnagar, VS Borkar, KJ Prabuchandran","IEEE Journal of Selected Topics in Signal Processing 7 (5), 746-758",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14018945816375034775,6,2013
+Relative value iteration for stochastic differential games,"A Arapostathis, VS Borkar, KS Kumar","Advances in Dynamic Games, 3-27",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8814668387426233191,6,2013
+Adaptive feature pursuit: Online adaptation of features in reinforcement learning,"S Bhatnagar, VS Borkar, LA Prashanth",Reinforcement Learning and Approximate Dynamic Programming for Feedback …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=616602500594761762,6,2012
+Stochastic approximation with long range dependent and heavy tailed noise,"V Anantharam, VS Borkar","Queueing Systems 71 (1-2), 221-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=479082325620710447,6,2012
+Risk sensitive optimal control framework applied to delay tolerant networks,"E Altman, V Kavitha, F De Pellegrini, V Kamble, V Borkar","2011 Proceedings IEEE INFOCOM, 3146-3154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5512079894202640958,6,2011
+Vacation policy optimization with application to IEEE 802.16 e power saving mechanism,"AP Azad, S Alouf, E Altman, V Borkar, G Paschos","2009 2nd IFIP Wireless Days (WD), 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17589169978276866688,6,2009
+Proof of the bosonic minimum output entropy conjecture,"S Lloyd, V Giovannetti, L Maccone, NJ Cerf, S Guha, R Garcia-Patron, ...",arXiv preprint arXiv:0906.2758,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3905027992155590178,6,2009
+The bosonic minimum output entropy conjecture and Lagrangian minimization,"S Lloyd, V Giovannetti, L Maccone, NJ Cerf, S Guha, R Garcia-Patron, ...",arXiv preprint arXiv:0906.2758,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15975012517140165792,6,2009
+Guest editorial control and communications,"T Javidi, M Franceschetti, PR Kumar, S Mitter, D Teneketzis","IEEE Journal on Selected Areas in Communications 26 (4), 577-579","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5663101346097660927,7452210595065392162",6,2008
+A fundamental need for differentiated ‘quality of service’over communication links: An information theoretic approach,"A Sahai, SK Mitter","Proceedings of the Allerton Conference on Communication, Control, and Computing",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4753379790512199542,6,2000
+An efficient and provably correct algorithm for the multiscale estimation of image contours by means of polygonal lines,"S Casadei, S Mitter","IEEE Transactions on Information Theory 45 (3), 939-954",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12091110846785112738,6,1999
+"A perceptual organization approach to contour estimation via composition, compression and pruning of contour hypotheses","S Casadei, S Mitter","Massachusetts Institute of Technology, Tech. Rep. LIDS-P-2415",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4418759262170858241,6,1998
+A convex analytic framework for ergodic control of semi-Markov processes,"S Bhatnagar, VS Borkar","Mathematics of operations research 20 (4), 923-936",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2000445812735474203,6,1995
+"Markov random fields, stochastic quantization and image analysis",SK Mitter,"Applied and Industrial Mathematics, 101-109",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9357875764389679921,6,1991
+Sensitivity reduction over a frequency band,"Y Ohta, G TADMOR §, SK Mitter","International Journal of Control 48 (5), 2129-2138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13401688752597310178,6,1988
+Controlled diffusions with boundary-crossing costs,VS Borkar,"Applied Mathematics and Optimization 18 (1), 67-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2728673309169823865,6,1988
+Aerial monitoring of slow moving convoys using elliptical orbits,"AV Borkar, VS Borkar, A Sinha","European Journal of Control 46, 90-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6147962323134736154,5,2019
+A Concentration Bound for Stochastic Approximation via Alekseev’s Formula,"G Thoppe, V Borkar","Stochastic Systems 9 (1), 1-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1802353112590715340,5,2019
+Semantics-preserving cosynthesis of cyber-physical systems,"D Roy, L Zhang, W Chang, SK Mitter, S Chakraborty","Proceedings of the IEEE 106 (1), 171-200",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3782430384567542589,5,2017
+Approachability in Stackelberg stochastic games with vector costs,"D Kalathil, VS Borkar, R Jain","Dynamic games and applications 7 (3), 422-442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12899525131622383941,5,2017
+Reinforcement learning for matrix computations: Pagerank as an example,"VS Borkar, AS Mathkar","International Conference on Distributed Computing and Internet Technology, 14-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9004294994882741682,5,2014
+"Oja’s algorithm for graph clustering, Markov spectral decomposition, and risk sensitive control","V Borkar, SP Meyn","Automatica 48 (10), 2512-2519",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11460913196727403467,5,2012
+Convergence analysis for an online recommendation system,"A Truong, N Kiyavash, V Borkar",2011 50th IEEE Conference on Decision and Control and European Control …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10804183529626939753,5,2011
+Cooperative dynamics and Wardrop equilibria,VS Borkar,"Systems & Control Letters 58 (2), 91-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8191521404742396727,5,2009
+An information theoretic view of stochastic resonance,"V Anantharam, VS Borkar","2007 IEEE International Symposium on Information Theory, 966-970",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5548380947715989010,5,2007
+Distributed self-tuning of sensor networks,"A Karnik, A Kumar, V Borkar","Wireless Networks 12 (5), 531-544",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1659269736622948709,5,2006
+The solution of linear probabilistic recurrence relations,"L Bazzi, S Mitter","Algorithmica 36 (1), 41-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12483245854555038227,5,2003
+"System science: The convergence of communication, computation and control",SK Mitter,"Proceedings of the International Conference on Control Applications 1, lii …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13461879303371335043,5,2002
+Mathematical programming embeddings of logic,"VS Borkar, V Chandru, SK Mitter","Journal of Automated Reasoning 29 (1), 91-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9167600010444005656,5,2002
+"Festschrift: Communications, Computation, Control and Signal Processing: A Tribute to Thomas Kailath, chapter LQG Control with Communication Constraints","V Borkar, S Mitter",Kluwer/Springer-Verlag,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14987356311712017975,5,1997
+Distributed computation of fixed points of oc-nonexpansive maps,V Borkar,"Indian Acad. Sci. Proc. Math. Sci 106, 289-300",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2959887941017558348,5,1996
+On ergodic control of degenerate diffusions,VS Borkar,"Journal of optimization theory and applications 86 (1), 251-261",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10632265918224224935,5,1995
+Managing interprocessor delays in distributed recursive algorithms,"VS Borkar, VV Phansalkar","Sadhana 19 (6), 995-1003",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=58296758941026312,5,1994
+A REMARK ON CONTROL OF PARTIALLY OBSERVED MARKOV CHAINS.,VS Borkar,Annals of Operations Research 29,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3832307472361164011,5,1991
+Estimation theory and statistical physics,SK Mitter,"Stochastic Processes and Their Applications, 157-176",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12191645486875716041,5,1986
+Progress on H Optimal Sensitivity for Delay Systems. Part I: Minimum Phase Plant with Input Delay. L Pole/zero Weighting Function,"DS Flamm, SK Mitter","Massachusetts Institute of Technology, Laboratory for Information and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10111505388629632942,5,1985
+A note on controlled diffusions on line with time-averaged cost,VS Borkar,"Systems & control letters 4 (1), 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10581328215952159125,5,1984
+Adaptive control of Markov chains,"V Borkar, P Varaiya","International Symposium on Systems Optimization and Analysis, 145-152",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14333191477990037138,5,1979
+Variable metric methods and filtering theory,"SK Mitter, P Toldalagi","Recent Developments in Variable Structure Systems, Economics and Biology …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10721912887124182915,5,1978
+Multi-level approach to the control of interconnected power systems,"SK Mitter, TE Dy-Liacco",IFAC Conference on Computer Control,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=114027931823719892,5,1967
+Bounds for tracking error in constant stepsize stochastic approximation,"B Kumar, V Borkar, A Shetty",arXiv preprint arXiv:1802.07759,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14430651350907754442,4,2018
+Controlled equilibrium selection in stochastically perturbed dynamics,"A Arapostathis, A Biswas, VS Borkar","The Annals of Probability 46 (5), 2749-2799",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9773949957619533110,4,2018
+Randomized Kaczmarz for rank aggregation from pairwise comparisons,"VS Borkar, N Karamchandani, S Mirani","2016 IEEE Information Theory Workshop (ITW), 389-393",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5104969288272532,4,2016
+Empirical q-value iteration,"D Kalathil, VS Borkar, R Jain",arXiv preprint arXiv:1412.0180,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2778600076270962813,4,2014
+Controlled gossip,"VS Borkar, A Karnik","2011 49th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4559232612345562657,4,2011
+"Universal capacity of channels with given rate-distortion in absence of common randomness, and failure of universal source-channel separation","M Agarwal, S Kopparty, S Mitter","2009 47th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12846167327953478119,4,2009
+Variations on a theme by Neyman and Pearson,"VS Borkar, SK Mitter, SR Venkatesh","Sankhyā: The Indian Journal of Statistics, 292-305",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8088947985945006383,4,2004
+Value functions and performance evaluation in stochastic network models,"VS Borkar, SP Meyn",42nd IEEE International Conference on Decision and Control (IEEE Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6154798568438281034,4,2003
+"A k-partition, graph theoretic approach to perceptual organization","J Byrne, A Gandhe, RK Prasanth, B Ravichandan, M Huff, RK Mehra, ...",IEMC'03 Proceedings. Managing Technologically Driven Organizations: The …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9250778221463276708,4,2003
+Avoidance of traps in stochastic approximation,VS Borkar,"Systems & control letters 50 (1), 1-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714085756060197514,4,2003
+Stability of annealing schemes and related processes,VS Borkar,"Systems & control letters 41 (5), 325-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7375025031651491098,4,2000
+The value function in ergodic control of diffusion processes with partial observations II,V Borkar,"Applicationes Mathematicae 27, 455-464",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15780454859734680946,4,2000
+Waveform recognition in the presence of domain and amplitude noise,"MA Akra, SK Mitter","IEEE Transactions on Information Theory 43 (1), 174-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18189072822476728490,4,1997
+Stochastic processes that generate polygonal and related random fields,"VS Borkar, SK Mitter","IEEE Transactions on Information Theory 42 (2), 606-617",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3307970915366063148,4,1996
+"On extremal solutions to stochastic control problems, II",VS Borkar,"Applied Mathematics and Optimization 28 (1), 49-56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12283001019220995960,4,1993
+N-person noncooperative stochastic games with partial information,VS Borkar,"Lecture notes in economics and mathematical systems 1 (389), 98-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9229125658834631378,4,1992
+Mimicking finite dimensional marginals of a controlled diffusion by simpler controls,VS Borkar,"Stochastic Processes and their Applications 31 (2), 333-342",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1920602659408462538,4,1989
+Control of a partially observed diffusion up to an exit time,VS Borkar,"Systems & control letters 8 (5), 429-434",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2071508119143798315,4,1987
+Simulated annealing,"SB Gelfand, SK Mitter","Proc. Advanced school CISM, 1-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17812325262808261019,4,1987
+Corrections to: 20Ergodic control problem for one-dimensional diffusions with near-monotone cost”,"A Bensoussan, V Borkar","Systems & control letters 7 (3), 233-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16063115790455188008,4,1986
+Identification and filtering--optimal recursive maximum likelihood approach,"JMF Moura, SK Mitter","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12128811132628637844,4,1986
+Revisiting random walk based sampling in networks: evasion of burn-in period and frequent regenerations,"K Avrachenkov, VS Borkar, A Kadavankandy, JK Sreedharan","Computational social networks 5 (1), 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7656784664603538694,3,2018
+"Blind, Adaptive and Robust Flow Segmentation in Datacenters","F De Pellegrini, L Maggi, A Massaro, D Saucez, J Leguay, E Altman","IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 10-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182392914101718940,3,2018
+Q-learning for Markov decision processes with a satisfiability criterion,"SM Shah, VS Borkar","Systems & Control Letters 113, 45-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11232295311581448218,3,2018
+"Layered black-box, behavioral interconnection perspective and applications to problems in communications, Part II: stationary sources satisfying ","M Agarwal, S Mitter, A Sahai","Communications in Information and Systems 17 (4), 219-247",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14503916169458361624,3,2017
+LQG control with minimum directed information,"T Tanaka, PM Esfahani, SK Mitter","2016 IEEE 55th Conference on Decision and Control (CDC), 7359-7364",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16264854618508658565,3,2016
+Comparison of random walk based techniques for estimating network averages,"K Avrachenkov, VS Borkar, A Kadavankandy, JK Sreedharan","International Conference on Computational Social Networks, 27-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11093144506750293983,3,2016
+Gaussian approximations in high dimensional estimation,"VS Borkar, R Dwivedi, N Sahasrabudhe","Systems & Control Letters 92, 42-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18308531726301782952,3,2016
+Characterizing feedback signal drop patterns in formal verification of networked control systems,"D Goswami, S Chakraborty, P Bhaduri, SK Mitter","2013 IEEE Conference on Computer Aided Control System Design (CACSD), 13-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18031437095260227383,3,2013
+"Mathematical Systems Theory: Proceedings of the International Symposium Udine, Italy, June 16–27, 1975","G Marchesini, SK Mitter",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13451462050137957434,3,2013
+"Markov chains, Hamiltonian cycles and volumes of convex bodies","VS Borkar, JA Filar","Journal of Global Optimization 55 (3), 633-639",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5325825510794247086,3,2013
+Variational Bayes and a problem of reliable communication: II. Infinite systems,"NJ Newton, SK Mitter","Journal of Statistical Mechanics: Theory and Experiment 2012 (11), P11008",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3142112851078465443,3,2012
+On a controlled eigenvalue problem,"A Biswas, VS Borkar","Systems & Control Letters 59 (11), 734-735",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7627725500175664455,3,2010
+"Towards a unified view of inference, communication and control",SK Mitter,2010 international conference on signal processing and communications (SPCOM …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8688131730909506729,3,2010
+Variational Bayes and a Problem of Reliable Communication I: Finite Systems,"NJ Newton, SK Mitter","Communications in Information & Systems 10 (3), 155-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891100048210414140,3,2010
+Robust and distributed decisions for future cyber-physical energy networks,"M Roozbehani, M Dahleh, S Mitter",New Res. Directions Future Cyber-Physical Energy Syst.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17044926069137048162,3,2009
+Oja's algorithm for graph clustering and Markov spectral decomposition,"V Borkar, SP Meyn",Proceedings of the 3rd International Conference on Performance Evaluation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5253149252848749077,3,2008
+Some examples of stochastic approximation in communications,VS Borkar,"International Conference on Network Control and Optimization, 150-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9149842966223448746,3,2007
+Existence of optimal Markov solutions for ergodic control of Markov processes,"AG Bhatt, VS Borkar",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13355969548892083322,3,2005
+Channel coding with feedback,S Tatikonda,"Proc. on ISIT 2001, June 126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1021883382877926560,3,2001
+Risk sensitive dynamic programming with unbounded cost,"S Balaji, VS Borkar, SP Meyn",Proceedings of the 38th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15952778376321585392,3,1999
+Generalized replicator dynamics as a model of specialization and diversity in societies,"VS Borkar, S Jain, G Rangarajan","Advances in Complex Systems 1 (04), 325-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7160105707032908936,3,1998
+There’s no such thing as a free lunch,VS Borkar,"Resonance 3 (6), 40-51",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11285568703728040794,3,1998
+Multiscale estimation of regular image contours via a graph of local edgel hypotheses,"S Casadei, SK Mitter","Laboratory for Information and Decision Systems, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2375048504509459609,3,1998
+On extremal solutions of controlled nonlinear filtering equations,"VS Borkar, S Kumar","SIAM journal on control and optimization 33 (3), 718-724",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=546027259327787067,3,1995
+On the Milito-Cruz adaptive control scheme for Markov chains,VS Borkar,"Journal of optimization theory and applications 77 (2), 387-397",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18415219047111524078,3,1993
+Modelling and estimation for random fields,SK Mitter,"Acoustic Signal Processing for Ocean Exploration, 391-412",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4010318769446038463,3,1993
+Ergodic and adaptive control of nearest-neighbor motions.,"VS Borkar, MK Ghosh","MCSS 5 (4), 453",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12547059799089117159,3,1992
+The Nisio semigroup for controlled diffusions with partial observations,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7097511109242656513,3,1986
+A variational principle for the linear filter matrix and an interpretation for the maximum value of the functional,"M Kanal, HE Moses, SK Mitter","Transport Theory and Statistical Physics 8 (3), 163-168",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=145433247472343431,3,1979
+Quantum Detection and Estimation Theory,"SK Mitter, SK Young",to appear,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=422515820711081099,3,1977
+"Theory ofinequalities and the controllability oflinear systems, Mathematical Theory of Control, A. V. Balakrishnan and L. Neustadt, eds",SK Mitter,"Academic Press, New York",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17391478992147651495,3,1967
+Distributed stochastic approximation with local projections,"SM Shah, VS Borkar","SIAM Journal on Optimization 28 (4), 3375-3401",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=173601771633965904,2,2018
+Controlling G-AIMD by index policy,"KE Avrachenkov, VS Borkar, S Pattathil","2017 IEEE 56th Annual Conference on Decision and Control (CDC), 120-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3507927623062169478,2,2017
+Vector field guidance for convoy monitoring using elliptical orbits,"AV Borkar, VS Borkar, A Sinha","2017 IEEE 56th Annual Conference on Decision and Control (CDC), 918-924",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12697937670437531046,2,2017
+"Layered black-box, behavioral interconnection perspective and applications to the problem of communication with fidelity criteria, Part II: stationary sources satisfying {\psi …","M Agarwal, S Mitter, A Sahai",arXiv preprint arXiv:1703.05348,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12175991751695222453,2,2017
+Distributed and Asynchronous Methods for Semi-supervised Learning,"K Avrachenkov, VS Borkar, K Saboo","International Workshop on Algorithms and Models for the Web-Graph, 34-46",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9841016253143100927,2,2016
+Preface: in memory of AV Balakrishnan,"A Bensoussan, I Kukavica, I Lasiecka, S Mitter, R Temam, R Triggiani","Applied Mathematics & Optimization 73 (3), 391-392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15003037120757218661,2,2016
+Blackwell's approachability in stackelberg stochastic games: A learning version,"D Kalathi, VS Borkar, R Jain","53rd IEEE Conference on Decision and Control, 4467-4472",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12579847408879181272,2,2014
+An actor critic algorithm based on Grassmanian search,"KJ Prabuchandran, S Bhatnagar, VS Borkar","53rd IEEE Conference on Decision and Control, 3597-3602",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1270613030990732295,2,2014
+Greedy block coordinate descent (GBCD) method for high dimensional quadratic programs,"G Thoppe, VS Borkar, D Garg",arXiv preprint arXiv:1404.6635,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1607749628254537245,2,2014
+"Reinforcement learning, particle filters and the EM algorithm","VS Borkar, A Jain","2014 Information Theory and Applications Workshop (ITA), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5415258002476322146,2,2014
+Stochastic approximation,VS Borkar,"Resonance 18 (12), 1086-1094",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11305519750656808504,2,2013
+Recent trends in Markov decision processes,"VS Borkar, MK Ghosh","Journal of the Indian Institute of Science 75 (1), 5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2006049938722310418,2,2013
+"A universal, operational theory of unicast multi-user communication with fidelity criteria","M Agarwal, S Mitter, A Sahai",arXiv preprint arXiv:1302.5860,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8261293053583941282,2,2013
+Gossip with transmission constraints,"VS Borkar, R Makhijani, R Sundaresan","2013 Information Theory and Applications Workshop (ITA), 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11400111020009558362,2,2013
+Who is the fairest of them all?,"VS Borkar, RM Makhijani","2012 50th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6641683127535190717,2,2012
+Graph enumeration,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 179-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9608227084361859007,2,2012
+Optimal distributed uplink channel allocation: a constrained mdp formulation,"VS Borkar, J Kuri","Advances in Dynamic Games, 425-445",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10587410821068291130,2,2011
+Revision of marginal probability assessments,"P Jones, S Mitter, V Saligrama","2010 13th International Conference on Information Fusion, 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5412961316900139905,2,2010
+Communication to within a fidelity criterion over unknown networks by reduction to reliable communication problems over unknown networks,"M Agarwal, S Mitter",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17897694676491084085,2,2010
+"Discussion on:"" Why Is Resorting to Fate Wise? A Critical Look at Randomized Algorithms in Systems and Control"".","SK Mitter, A Nemirovski, JC Willems","Eur. J. Control 16 (5), 431-432",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=402087455294589904,2,2010
+Finite dimensional approximation and Newton-based algorithm for stochastic approximation in Hilbert space,"AA Kulkarni, VS Borkar","Automatica 45 (12), 2815-2822",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17548133314287905868,2,2009
+Convergence of population dynamics in symmetric routing games with a finite number of playersz,"E Altman, V Kambley, V Borkar","2009 International Conference on Game Theory for Networks, 668-672",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353367274548818625,2,2009
+Adaptive importance sampling technique for Markov chains using stochastic approximation,"TPI Ahamed, VS Borkar, S Juneja","Quality control and applied statistics 52 (4), 377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12571863516854547748,2,2007
+Unbounded control operators: Hyperbolic equations with control on the boundary,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 459-475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13054803135642213449,2,2007
+An iterative algorithm for autonomous tasking in sensor networks,"PB Jones, SK Mitter","Proceedings of the 45th IEEE Conference on Decision and Control, 2740-2746",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1616132459711514066,2,2006
+A Simulation-Based Algorithm for Ergodic Control of Markov Chains Conditioned on Rare Events,"S Bhatnagar, VS Borkar, M Akarapu","Journal of Machine Learning Research 7 (Oct), 1937-1962",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5793544835884677703,2,2006
+"Authors' reply [to comments on"" control over noisy channels"" by S. Tatikonda and S. Mitter]","S Tatikonda, S Mitter","IEEE Transactions on Automatic Control 50 (12), 2110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5726335692209715414,2,2005
+"Linear Estimation-T. Kailath, AH Sayed, and B. Hassibi",SK Mitter,"IEEE TRANSACTIONS ON AUTOMATIC CONTROL AC 48 (1), 177-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16979840328319479439,2,2003
+Evolutionary games with two timescales,"VS Borkar, S Jain, G Rangarajan","Physica D: Nonlinear Phenomena 125 (1-2), 155-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9299927732095146487,2,1999
+Stability and convergence of stochastic approximation using the ODE method,"VS Borkar, SP Meyn",Proceedings of the 37th IEEE Conference on Decision and Control (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10292339416150090446,2,1998
+An SPDE formulation for image segmentation,"SK Mitter, O Zeitouni","Proceedings, Conference on Stochastic PDEs",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10428824333620130482,2,1990
+Stochastic quantization,SK Mitter,"Modeling and Control of Systems, 149-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4961829414304356816,2,1989
+Some min-max optimization problems in infinite-dimensional control systems,"F Fagnani, D Flamm, SK Mitter","Modelling, Robustness and Sensitivity Reduction in Control Systems, 399-413",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7483190662075604341,2,1987
+Estimation Theory and Statistical Physics.,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14577905666359857169,2,1985
+Optimal control and pathwise nonlinear filtering of nondegenerate diffusions,"WH Fleming, SK Mitter",1981 20th IEEE Conference on Decision and Control including the Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11190445989318482276,2,1981
+An interim report of research on stochastic and adaptive systems,"M Athans, SK Mitter, L Valavani",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=383144396291220657,2,1981
+Application of estimation theory to the classification of vectorcardiograms,"ME Womble, JS Halliday, SK Mitter, FG Yanowitz, MC Lancaster",American Astronautical Society and American Institute of Aeronautics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11657133686621763462,2,1973
+Control of hereditary differential systems,"MC Delfour, SK Mitter","IFAC Proceedings Volumes 5 (1), 195-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16988929089713395476,2,1972
+A uniﬁed framework for hybrid control,"MS Branicky, VS Borkar, SK Mitter","Proc. IEEE Conf. 1Igecisiobn and Control, 4228-4234",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14956932841715233502,2,0
+A VARIATIONAL CHARACTERIZATION OF THE RISK-SENSITIVE AVERAGE REWARD FOR CONTROLLED DIFFUSIONS ON Rd.,"ARI ARAPOSTATHIS, A BISWAS, VS BORKAR, K SURESH",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8024231890189016832,2,0
+Tighter Dimensioning of Heterogeneous Multi-Resource Autonomous CPS with Control Performance Guarantees,"D Roy, W Chang, SK Mitter, S Chakraborty","Proceedings of the 56th Annual Design Automation Conference 2019, 10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14432270703739788453,1,2019
+Linear Programming Formulation of Long-Run Average Optimal Control Problem,"VS Borkar, V Gaitsgory","Journal of Optimization Theory and Applications 181 (1), 101-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8512076057107155991,1,2019
+A Structure-aware Online Learning Algorithm for Markov Decision Processes,"A Roy, V Borkar, A Karandikar, P Chaporkar",Proceedings of the 12th EAI International Conference on Performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14325161783108836489,1,2019
+Average cost optimal control under weak hypotheses: Relative value iterations,"A Arapostathis, VS Borkar",arXiv preprint arXiv:1902.01048,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=385620586531334306,1,2019
+Low Complexity Online Radio Access Technology Selection Algorithm in LTE-WiFi HetNet,"A Roy, VS Borkar, P Chaporkar, A Karandikar",IEEE Transactions on Mobile Computing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14533213670691422204,1,2019
+Simultaneous Small Noise Limit for Singularly Perturbed Slow-Fast Coupled Diffusions,"SR Athreya, VS Borkar, KS Kumar, R Sundaresan",arXiv preprint arXiv:1810.03585,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620540365984302495,1,2018
+Manipulating opinion dynamics in social networks in two phases,"S Dhamal, W Ben-Ameur, T Chahed, E Altman",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12219501476069332020,1,2018
+Supplement to “Controlled equilibrium selection in stochastically perturbed dynamics.”,"A Arapostathis, A Biswas, VS Borkar",DOI,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9096647830859593922,1,2018
+Linear and dynamic programming approaches to degenerate risk-sensitive reward processes,VS Borkar,"2017 IEEE 56th Annual Conference on Decision and Control (CDC), 3714-3718",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9751790020912908310,1,2017
+Distributed Server Allocation for Content Delivery Networks,"S Pattathil, VS Borkar, GS Kasbekar",arXiv preprint arXiv:1710.11471,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17495332884829764388,1,2017
+Rudolf E. Kalman: The Father of Mathematical Systems Theory [Historical Perspectives],"S Mitter, A Tannenbaum","IEEE Control Systems Magazine 37 (2), 164-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10659629994295980686,1,2017
+"Layered black-box, behavioral interconnection perspective and applications to problems in communications, Part I: iid sources","M Agarwal, S Mitter, A Sahai","Communications in Information and Systems 17 (4), 193-217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5536562287029176743,1,2017
+Gradient and passive circuit structure in a class of non-linear dynamics on a graph,"H Mangesius, JC Delvenne, SK Mitter","Systems & Control Letters 96, 30-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13871816258370352803,1,2016
+Actor-Critic Algorithms with Online Feature Adaptation,"KJ Prabuchandran, S Bhatnagar, VS Borkar","ACM Transactions on Modeling and Computer Simulation (TOMACS) 26 (4), 24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15102554254151654929,1,2016
+An Adaptive Window Scheme for Backoff in 802.11 MAC Protocol,"P Shetty, V Borkar, G Kasbekar",Proceedings of the 9th EAI International Conference on Performance …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12995793519251510255,1,2016
+Gradient Estimation with Simultaneous Perturbation and Compressive Sensing,"VS Borkar, VR Dwaracherla, N Sahasrabudhe",arXiv preprint arXiv:1511.08768,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9234590674272177328,1,2015
+A randomized covering-packing duality between source-coding and channel-coding,"M Agarwal, S Mitter",arXiv preprint arXiv:1505.06130,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=678203588264574705,1,2015
+A learning scheme for blackwell’s approachability in mdps and stackelberg stochastic games,"D Kalathil, VS Borkar, R Jain",arXiv preprint arXiv:1411.0728,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13851930888186348258,1,2014
+Removing sampling bias in networked stochastic approximation,"R Dwivedi, VS Borkar",2014 International Conference on Signal Processing and Communications (SPCOM …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10148246525075501570,1,2014
+Small noise large time asymptotics for the normalized Feynman-Kac semigroup,"VS Borkar, KS Kumar","Variational and optimal control problems on unbounded domains 619, 31-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3375967923302939528,1,2014
+A Maximum Work Theorem for Maxwell’s Demons,"H Sandberg, JC Delvenne, NJ Newton, SK Mitter",arXiv preprint arXiv:1402.1010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16662892863669917054,1,2014
+A learning scheme for approachability in mdps and stackelberg stochastic games,"D Kalathil, VS Borkar, R Jain","Preprint, available at http://www-scf. usc. edu/∼ manisser/KaBoJa …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11011297852799223529,1,2014
+Markov decision processes,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 49-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16326824790730032840,1,2012
+Markov Chains,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 23-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5616412059076869707,1,2012
+Architecture for communication with a fidelity criterion in unknown networks,"M Agarwal, S Mitter","IFAC Proceedings Volumes 44 (1), 7809-7817",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6137127147453344130,1,2011
+"Numerical Linear Algebra, Internet and Large Scale Applications","MW Berry, DA Bini, N Mastronardi, S Serra-Capizzano",Journal of computational and applied mathematics 234 (11),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1259365938542960421,1,2010
+Probabilistic belief revision with structural constraints,"P Jones, V Saligrama, S Mitter","Advances in Neural Information Processing Systems, 1036-1044",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6420958453722886746,1,2010
+"Equivalence perspectives in communication, source-channel connections and universal source-channel separation","M Agarwal, A Sahai, S Mitter",arXiv preprint arXiv:0911.3872,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10222670249573996626,1,2009
+Enhancing the surgeons reality: Smart visualization of bolus time of arrival and blood flow anomalies from time lapse series for safety and speed of cerebrovascular surgery,"A Copeland, R Mangoubi, M Desai, S Mitter, A Malek","2009 IEEE Applied Imagery Pattern Recognition Workshop (AIPR 2009), 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16355208969632275460,1,2009
+Power Efficient Scheduling under Delay Constraints over Multi-user Wireless Channels,"N Salodkar, A Karandikar, VS Borkar",arXiv preprint arXiv:0710.1190,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15233970016718597270,1,2007
+Existence of limit occupational measures set used for averaging of singularly perturbed controlled stochastic differential equations,"V Borkar, V Gaitsgory","Proceedings of the 45th IEEE Conference on Decision and Control, 326-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5147945435637051520,1,2006
+Dynamical view of information theory,SK Mitter,"Proc. 43rd Annual Allerton Conference on Communication, Control, and Computing",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6449386143478951797,1,2005
+"Statistical inference, statistical mechanics and the relationship to information theory",SK Mitter,"Lecture Notes, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13383907220487042453,1,2004
+The Mathematics of the Information Revolution,SK Mitter,"Matematica, cultura e Societa",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9093675593266767592,1,2004
+Variations on a neyman pearson theme,"V Borkar, S Mitter, S Venkatesh","J. Indian Statist. Inst 66, 292-305",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17266013225969515329,1,2004
+Ergodic control of partially degenerate diffusions in a compact domain,"VS Borkar, MK Ghosh","Stochastics and Stochastic Reports 75 (4), 221-231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7325081762053688874,1,2003
+BOOK REVIEW-//Linear Estimation,"T Kailath, AH Sayed, B Hassibi, SK Mitter","IEEE Transactions on Automatic Control 48 (EPFL-ARTICLE-233331), 177-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2917913985052875291,1,2003
+An information theoretic view of estimation,"SK Mitter, NJ Newton",LIDS-P,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9822563363045063268,1,2001
+Sample complexity for Markov chain self-tuner,VS Borkar,"Systems & control letters 41 (2), 95-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8735861742332374166,1,2000
+Randomized neural networks for learning stochastic dependences,"VS Borkar, P Gupta","IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics) 29 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2864068171390529038,1,1999
+Erratum to''Ergodic control of partially observed Markov chains''[Systems Control Lett. 34 (1998) 185-189],VS Borkar,"Systems & Control Letters 37 (3), 181-181",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12054826133191201608,1,1999
+Correction to,V Borkar,"Applicationes Mathematicae 24 (3), 355-188","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14622193706521060413,15029167123508053051",1,1997
+Probability Theory: an Advanced Course,"VS Borkar, A Gut","SIAM Review 39 (1), 149-149",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8822137063070062346,1,1997
+Logic and mathematical programming,"SK Mitter, V Borkar, V Chandru, D Micciancio","Control Using Logic-Based Switching, 79-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14013366635390367670,1,1997
+Stochastic differential games: Occupation measure based approach,"VS Borkar, MK Ghosh","Journal of Optimization Theory and Applications 88 (1), 251-252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731502374178184517,1,1996
+Spaces of Probability Measures,VS Borkar,"Probability Theory, 19-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588719137605542885,1,1995
+Nonlinear Estimation,SK Mitter,Encyclopedia of Science & Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2640209317961197491,1,1995
+Variational versus Markov random field methods for image segmentation,"SR Kulkarni, SK Mitter","Neural and Stochastic Methods in Image and Signal Processing III 2304, 18-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9141142200370805893,1,1994
+Local versus non-local computation of length of digitized curves,"SR Kulkarni, SK Mitter, TJ Richardson, JN Tsitsiklis",International Conference on Foundations of Software Technology and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6480610663665140996,1,1993
+On infinitesimal~-fields generated by random processes,VS Borkar,"Proc. Indian Acad. Sci.(Math. Sci.) 103 (3), 329-332",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307539587941056995,1,1993
+A modified self-tuner for controlled diffusions with an unknown parameter,VS Borkar,"LECTURE NOTES IN PURE AND APPLIED MATHEMATICS, 57-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11692267894192766220,1,1993
+A Fresh Look at Markov Decision Processes.,VS Borkar,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351934170640060359,1,1987
+Optimal recursive maximum likelihood estimation,"L LJung, SJK Mitter, JMF Moura","Sloan School of Management, Massachusetts Institute of Technology]",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=300287270865723327,1,1987
+Parameter estimation in stochastic systems: some recent results and applications,VS Borkar,"Systems & Control Letters 1 (4), 221-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13666826617694403477,1,1982
+Recent results in non-linear filtering,SK Mitter,"Analysis and Optimization of Systems, 262-263",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15789440184821843643,1,1980
+Representation theory for linear infinite dimensional continuous time systems,"A Bensoussan, MC Delfour, SK Mitter","Mathematical Systems Theory, 204-225",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16571165979352261811,1,1976
+Feature selection for diagnosis of vectorcardiograms,"DE Gustafson, A Akant, SK Mitter",1975 IEEE Conference on Decision and Control including the 14th Symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5229012948902102397,1,1975
+Control of affine systems with memory,"MC Delfour, SK Mitter","IFIP Technical Conference on Optimization Techniques, 292-303",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15050984416766127373,1,1973
+COMPUTATIONAL EXPERIMENTS IN CONTINUOUS NONLINEAR FILTERING,"BW Licht, SK Mitter",Proceedings of the Princeton Conference on Information Sciences and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16759106398126165266,1,1970
+A uni ed framwork for hybrid control,"MS Branicky, VS Borkar, SK Mitter","Proc. of the 33rd International Conference on Decision and Control, 4228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17487753761666160171,1,0
+A Power Optimal Scheduling Algorithm on a Point to Point Wireles Link,"N Salodkar, A Bhorkar, A Karandikar, VS Borkar",Preprint,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18369913584188029233,1,0
+A universal source-channel separation theorem and connections between source and channel coding,"M Agarwal, A Sahai, S Mitter","submitted, ITW 2010",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14019030196103750165,1,0
+On the fastest finite Markov processes,"V Borkar, L Miclo","Journal of Mathematical Analysis and Applications 481 (2), 123488",,0,2020
+On the relative value iteration with a risk-sensitive criterion,"A Arapostathis, VS Borkar",arXiv preprint arXiv:1912.08758,,0,2019
+Non-asymptotic error bounds for constant stepsize stochastic approximation for tracking mobile agents,"B Kumar, V Borkar, A Shetty","Mathematics of Control, Signals, and Systems 31 (4), 589-614",,0,2019
+Opinion shaping in social networks using reinforcement learning,"V Borkar, A Reiffers-Masson",arXiv preprint arXiv:1910.08802,,0,2019
+Scheduling in Wireless Networks with Spatial Reuse of Spectrum as Restless Bandits,"VS Borkar, S Choudhary, VK Gupta, GS Kasbekar",arXiv preprint arXiv:1910.04402,,0,2019
+A learning algorithm for the Whittle index policy for scheduling web crawlers,"K Avrachenkov, VS Borkar","2019 57th Annual Allerton Conference on Communication, Control, and …",,0,2019
+Stochastic approximation algorithms for rumor source inference on graphs,"A Kalvit, VS Borkar, N Karamchandani","Performance Evaluation 132, 1-20",,0,2019
+Metastability in Stochastic Replicator Dynamics,"K Avrachenkov, VS Borkar","Dynamic Games and Applications 9 (2), 366-390",,0,2019
+LP Formulations of Discrete Time Long-Run Average Optimal Control Problems: The NonErgodic Case,"VS Borkar, V Gaitsgory, I Shvartsman","SIAM Journal on Control and Optimization 57 (3), 1783-1817",,0,2019
+Controlled'versions of the Collatz-Wielandt and Donsker-Varadhan formulae,"A Arapostathis, VS Borkar",arXiv preprint arXiv:1903.10714,,0,2019
+A variational characterization of the risk-sensitive average reward for controlled diffusions on ,"A Arapostathis, A Biswas, VS Borkar, KS Kumar",arXiv preprint arXiv:1903.08346,,0,2019
+Postponing Collapse: Ergodic Control with a Probabilistic Constraint,"VS Borkar, JA Filar","Modeling, Stochastic Control, Optimization, and Applications, 57-65",,0,2019
+"Reinforcement learning, Sequential Monte Carlo and the EM algorithm","VS Borkar, AV Jain","Sādhanā 43 (8), 123",,0,2018
+Distributed Algorithms: Tsitsiklis and Beyond,"VS Borkar, SM Shah","2018 Information Theory and Applications Workshop (ITA), 1-9",,0,2018
+MCMC Approaches to Rumor Source Inference using Pairwise Information,"A Kalvit, VS Borkar, N Karamchandani",Proceedings of the 11th EAI International Conference on Performance …,,0,2017
+A dynamic programming framework for optimal home scheduling,"A Kowli, J Jose, VS Borkar, IA TP","2017 IEEE Innovative Smart Grid Technologies-Asia (ISGT-Asia), 1-6",,0,2017
+Wardrop equilibria and relaxation oscillations in queuing systems,"V Borkar, C Touati",,,0,2017
+"Feedback and optimal sensitivity: Model reference transformation, multiplicative seminorms and approximative inverses","W Zhang, L Xie, BS Chen, S Aberkane, JC Ponsart, M Rodrigues, ...","Stochastic H2/H∞ Control: A Nash Game Approach 44 (4), 1-28",,0,2017
+Computing the capacity of a Markoff channel with perfect feedback is PSPACE-hard.,"M Agarwal, S Mitter",arXiv preprint arXiv:1703.08625,,0,2017
+Gradient estimation with simultaneous perturbation and compressive sensing,"VS Borkar, VR Dwaracherla, N Sahasrabudhe","The Journal of Machine Learning Research 18 (1), 5910-5936",,0,2017
+Edge conductance estimation using MCMC,"A Bora, VS Borkar, D Garg, R Sundaresan","2016 54th Annual Allerton Conference on Communication, Control, and …",,0,2016
+Modeling and Analysis of Interconnected Systems in the Presence of Uncertainty,S Mitter,,,0,2016
+Mean Field Limits Through Local Interactions,"SM Shah, VS Borkar","International Symposium on Dynamic Games and Applications, 131-141",,0,2016
+Event-driven stochastic approximation,"VS Borkar, N Sahasrabudhe, MA Vardhan","Indian Journal of Pure and Applied Mathematics 47 (2), 291-299",,0,2016
+Asymptotic and non-asymptotic convergence properties of stochastic approximation with controlled Markov noise without ensuring stability,"P Karmakar, A Ramaswamy, S Bhatnagar, VS Borkar",,,0,2016
+A concentration result for stochastic approximation,"G Thoppe, VS Borkar","2016 Information Theory and Applications Workshop (ITA), 1-2",,0,2016
+Fast rumor source identification via random walks,"D Garg, A Jain, V Borkar",Springer Vienna,,0,2016
+Parallel and Distributed Approaches for Graph Based Semi-supervised Learning,"K Avrachenkov, V Borkar, K Saboo",arXiv preprint arXiv:1509.01349,,0,2015
+Playing Dice with the Universe: Algorithms for Random Environments,VS BORKAR,"Proc Indian Natn Sci Acad 81 (3), 569-582",,0,2015
+Rocking in Two by Two: From Collatz-Wielandt to Donsker-Varadhan,"V Anantharam, VS Borkar","2015 Information Theory and Applications Workshop (ITA), 252-254",,0,2015
+An efficient scheduling algorithm for solving load commitment problem under Time of Use Pricing with bound on Maximum Demand,"TPI Ahamed, VS Borkar","2014 IEEE International Conference on Power Electronics, Drives and Energy …",,0,2014
+Stabilization of a quasi-linear parabolic Cauchy problem associated with ergodic control of diffusions,"A Arapostathis, VS Borkar, KS Kumar","53rd IEEE Conference on Decision and Control, 1103-1110",,0,2014
+From Collatz-Weilandt to Donkser-Varadhan via Krein-Rutman,"A Arapostathis, VS Borkar, KS Kumar","53rd IEEE Conference on Decision and Control, 1874-1879",,0,2014
+GOSSIP ALGORITHMS AND THEIR VARIANTS,V Borkar,,,0,2014
+Edge Conductance Estimation with MCMC,"A Bora, V Borkar, R Sundaresan, D Garg",,,0,2014
+Gossip and related algorithms,V Borkar,Banff International Research Station for Mathematical Innovation and Discovery,,0,2014
+"SOME RANDOM, DISTORTED GOSSIP",V Borkar,,,0,2014
+THE INFINITE TIME QUADRATIC COST PROBLEM FOR,SK Mitter,"Delay and Functional Differential Equations and Their Applications, 269",,0,2014
+Greedy Block Coordinate Descent (GBCD) Method for Quadratic Programming in High Dimensions,"G Thoppe, VS Borkar, D Garg",arXiv preprint arXiv:1404.6635,,0,2014
+Thermodynamic costs in implementing Kalman-Bucy filters,"H Sandberg, JC Delvenne, NJ Newton, SK Mitter","2014 52nd Annual Allerton Conference on Communication, Control, and …",,0,2014
+Model-based clock synchronization protocol for wireless sensor networks,"N Freris, V Borkar, PR Kumar",arXiv preprint arXiv:1311.6914,,0,2013
+Edge detection through a time-homogeneous markov chain,"UMAS RAJAN, VS Borkar, PS Sastry","Journal of the Indian Institute of Science 78 (1), 31",,0,2013
+A relative value iteration for controlled diffusions under ergodic cost,"A Arapostathis, VS Borkar","2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 6702-6707",,0,2012
+Bayesian filtering without an observation model,"P Jones, S Mitter, V Saligrama","2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 3496-3501",,0,2012
+8 UNIFORM STABILITY OF,VS Borkar,"System Theory: Modeling, Analysis and Control 518, 107",,0,2012
+LQG CONTROL WITH,"VS Borkar, SK Mitter","Communications, Computation, Control, and Signal Processing: a tribute to …",,0,2012
+"MARKOV RANDOM FIELDS, STOCHASTIC QUANTIZATION AND IM",SK Mitter,"Applied and Industrial Mathematics: Venice-1, 1989 56, 101",,0,2012
+Department of Electrical Engineering and Computer Science and Laboratory for Information and Decision Systems,SK Mitter,"Nonlinear Stochastic Problems 104, 339",,0,2012
+Signal Processing: Part II Control Theory and Applications,"L Auslander, FA Grnbaum, JW Helton, T Kailath, PP Khargonekar, S Mitter","Springer Publishing Company, Incorporated",,0,2012
+Problem-aware scheduling of in-network computation over multi-hop wireless networks,"R Meshram, VS Borkar, D Manjunath",2012 International Conference on Signal Processing and Communications (SPCOM …,,0,2012
+Control for large scale and uncertain systems:(interim report),"M Athans, SK Mitter","Decision and Control Sciences Group, Electronic Systems Laboratory, Dept. of …",,0,2012
+"Generation and termination of binary decision trees for nonparametric multiclass classification S. Gelfand, SK Mitter.","SB Gelfand, SK Mitter","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,2012
+Stochastic Control on Graphs,"VS BORKAR, SK MITTER",revised version submitted to Systems and Control Letters,,0,2012
+Optimal Control and Estimation for Partially Nested Interconnected Systems,"A Gattami, S Mitter",arXiv preprint arXiv:1205.1907,,0,2012
+Distributed strategic learning with application to network security,"H Tembine, H Tembine, M Aghassi, D Bertsimas, C Alós-Ferrer, N Netzer, ...","Distributed Strategic Learning for Wireless Engineers 107 (1), xix-xix",,0,2012
+"Eduardo Casas, Christian Clason, and Karl Kunisch","I Lestas, JJ Yamé, M Dai, Z Yang, Y Zhong, IH Biswas, GS Medvedev, ...","SIAM J. Control Optim 50 (4), 1735-1752",,0,2012
+Intriguing Properties,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 9-20",,0,2012
+Linear Programming Based Algorithms,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 113-142",,0,2012
+Illustrative Graphs,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 3-8",,0,2012
+Interior Point and Cross-Entropy Algorithms,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 143-159",,0,2012
+Determinants,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 69-89",,0,2012
+Traces,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 91-109",,0,2012
+Self-similar Structure and Hamiltonicity,"VS Borkar, V Ejov, JA Filar, GT Nguyen","Hamiltonian Cycle Problem and Markov Chains, 163-178",,0,2012
+Sensitivity of Quadratic Gaussian Matching to Interference,"LR Varshney, SK Mitter","IEEE Communications Letters 15 (9), 922-924",,0,2011
+Small Noise Asymptotics for Invariant Densities for a Class of Diffusions: A Control Theoretic View (with Erratum),"A Biswas, VS Borkar",arXiv preprint arXiv:1107.2277,,0,2011
+For Lotfi Zadeh on his 90th birthday,SK Mitter,"Scientia Iranica. Transaction D, Computer Science & Engineering, Electrical …",,0,2011
+Stochastic approximation with ‘bad’noise,"V Anantharam, VS Borkar","2011 Information Theory and Applications Workshop, 1-3",,0,2011
+SELECTED RECENT PUBLICATIONS,"VS Borkar, MK Ghosh, G Rangarajan","Stochastic Analysis and Applications 29, 511-522",,0,2011
+Opportunistic transmission across fading channels: issues and algorithms,VS Borkar,PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES INDIA SECTION A-PHYSICAL …,,0,2011
+ERRATUM: White-Noise Representations in Stochastic Realization Theory,VS Borkar,"SIAM Journal on Control and Optimization 48 (7), 4815-4819",,0,2010
+Stochastic approximation with ‘bad’noise,VS Borkar,2010 International Conference on Signal Processing and Communications (SPCOM …,,0,2010
+MEETING REPORT: Lectures on probability and stochastic processes series,VS Borkar,"Current Science 98 (8), 1000-1000",,0,2010
+"Xiaoming Hu, Maja Karasalo, and Clyde F. Martin","SK Mitter, NJ Newton, J Demamu, RS Selvaraj, GRM Borzadaran, ...",Communications in Information and Systems 10 (3),,0,2010
+"Algorithms in Systems and Control Why is Resorting to Fate Wise? A Critical Look at Randomized Discussions on:"" Why Is Resorting to Fate Wise? A Critical Look at Randomized …",SK Mitter,"European Journal of Control 16 (5), 431",,0,2010
+A learning scheme for stationary probabilities of large markov chains with examples,"VS Borkar, DJ Das, AD Banik, D Manjunath","2008 46th Annual Allerton Conference on Communication, Control, and …",,0,2008
+Opportunistic Transmission over Randomly Varying Channels,VS Borkar,"International Conference on Network Control and Optimization, 62-69",,0,2008
+Upcoming Issues of the,"F Abdollahi, K Khorasani, C Long, B Li, Q Zhang, B Zhao, B Yang, X Guan, ...",Network 744,,0,2008
+Basic Convergence Analysis,VS Borkar,"Stochastic Approximation, 10-20",,0,2008
+Asynchronous Schemes,VS Borkar,"Stochastic Approximation, 78-87",,0,2008
+Lock-in Probability,VS Borkar,"Stochastic Approximation, 31-51",,0,2008
+Multiple Timescales,VS Borkar,"Stochastic Approximation, 64-77",,0,2008
+Stability Criteria,VS Borkar,"Stochastic Approximation, 21-30",,0,2008
+A Limit Theorem for Fluctuations,VS Borkar,"Stochastic Approximation, 88-100",,0,2008
+Constant Stepsize Algorithms,VS Borkar,"Stochastic Approximation, 101-116",,0,2008
+Stochastic Recursive Inclusions,VS Borkar,"Stochastic Approximation, 52-63",,0,2008
+Cooperative Networked Control of Dynamical Peer-to-Peer Vehicle Systems,"GE Dullerud, F Bullo, E Feron, E Frazzoli, PR Kumar, S Lall, D Liberzon, ...",ILLINOIS UNIV CHAMPAIGN,,0,2007
+Quasi-stationary distributions as centrality measures of reducible graphs,"K Avrachenkov, V Borkar, D Nemirovsky",arXiv preprint arXiv:0708.0522,,0,2007
+Preface to Volume I of the First Edition,"A Bensoussan, G Da Prato, MC Delfour, S Mitter","Representation and Control of Infinite Dimensional Systems, xi-xiii",,0,2007
+Control of Linear Differential Systems,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 13-45",,0,2007
+Bounded Control Operators: Control Inside the Domain,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 385-429",,0,2007
+Variational Theory of Parabolic Systems,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 173-200",,0,2007
+Controllability and Observability for a Class of Infinite Dimensional Systems,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 313-382",,0,2007
+Semigroups of Operators and Interpolation,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 87-172",,0,2007
+Representation and Control of Infinite Dimensional Systems. Systems and Control: Foundations and Applications,"G Da Prato, M Delfour, S Mitter",Springer,,0,2007
+Unbounded Control Operators: Parabolic Equations With Control on the Boundary,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 431-457",,0,2007
+State Space Theory of Differential Systems With Delays,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 229-310",,0,2007
+Linear Quadratic Two-Person Zero-Sum Differential Games,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 47-84",,0,2007
+Semigroup Methods for Systems With Unbounded Control and Observation Operators,"A Bensoussan, G Da Prato, MC Delfour, SK Mitter","Representation and Control of Infinite Dimensional Systems, 201-227",,0,2007
+Department of Mathematics Indian Institute of Science Bangalore,"A BASU, T BHATTACHARYYA, VS BORKAR",,,0,2006
+"Laboratory for Information and Decision Systems, MIT",SK Mitter,Stochastic Processes and Their Applications: Proceedings of the …,,0,2006
+Power Optimal Opportunistic Scheduling in Fading Wireless Channel,"A Bhorkar, A Karandikar, VS Borkar",,,0,2006
+Erratum to “Avoidance of traps in stochastic approximation”[Systems Control Lett. 50 (2003) 1–9],VS Borkar,"Systems & Control Letters 2 (55), 174-175",,0,2006
+HJB Equations for Ergodic Control Problems for Constrained Diffusions in Polyhedral Domains.,"V Borkar, A Budhiraja","Proceedings of the 44th IEEE Conference on Decision and Control, 6668-6672",,0,2005
+Discrete-Time Markov Chains [Book Review],VS Borkar,"IEEE Control Systems Magazine 25 (6), 106-108",,0,2005
+Correction To “Transmission Rate Control Over Randomly Varying Channels”,"G Rajadhyaksha, VS Borkar","Probability in the Engineering and Informational Sciences 19 (4), 471-471",,0,2005
+"Comments on"" control over noisy channels"" and relevant negative results-Reply","S Tatikonda, S Mitter","IEEE Transactions on Automatic Control 50 (12), 2110-2110",,0,2005
+TECHNICAL NOTES AND CORRESPONDENCE-Authors' Reply,"S Tatikonda, S Mitter","IEEE Transactions on Automatic Control 50 (12), 2110-2110",,0,2005
+Design and Implementation of SeTiA: Secure Multi Auction System I: Auction Mechanisms,"VS Borkar, MS Dave, RK Shyamasundar","Journal of Intelligent Systems 14 (1), 45-68",,0,2005
+Evolutionary Mechanisms of Organization in Complex Systems,"VS Borkar, S Jain, G Rangarajan","Mathematical Models for Bioengineering and Probabilistic Systems, 323",,0,2005
+Design and Implementation of SeTiA: Secure Multi Auction System II: Architecture and Implementation Issues,"VS Borkar, MS Dave, RK Shyamasundar","Journal of Intelligent Systems 14 (1), 69-93",,0,2005
+"Akella, MR and K. Subbarao, A novel","A Alessandri, M Baglietto, G Battistelli, C Altafini, BDO Anderson, ...","Systems & Control Letters 54, 1233-1237",,0,2005
+The'ODE'Approach to Stochastic Approximation,VS Borkar,"Mathematical Models for Bioengineering and Probabilistic Systems, 422",,0,2005
+Control of buffer and of a wireless device: closed and open loop approaches,"VS Borkar, AA Kherani, B Prabhu",INRIA,,0,2005
+"Control and modeling of complex systems edited by Koichi Hashimoto, Yasuaki Oishi and Yutaka Yamamoto",V Borkar,Indian Institute of Science,,0,2004
+"Brian DO Anderson, Peter N. Belhumeur, Tolga Eren, A. Stephen Morse, and Walter Whiteley","VS Borkar, S Juneja, AA Kherani, N Gupta, PR Kuman, R Jain, ...",Communications in Information and Systems 3 (4),,0,2003
+Newton’s method,"VS Borkar, VS Borkar","Resonance 7 (1), 31-36",,0,2002
+"WILLIAM McCUNE, ROBERT VEROFF, BRANDEN FITELSON","K HARRIS, A FEIST, L WOS, VS BORKAR, V CHANDRU, SK MITTER","Journal of Automated Reasoning 29, 417-418",,0,2002
+""" Massachusetts Institute of Technology, Rm. 35-210","A Nedić, DP Bertsekas, VS Borkar",Inherently Parallel Algorithms in Feasibility and Optimization and their …,,0,2001
+Suguru Arimoto,"VS Borkar, S Mitter, S Tatikonda, P Gupta, PR Kumar, Y Ma, R Vidal, ...",Communications in Information and Systems 1 (1),,0,2001
+Method in the madness,VS Borkar,"Resonance 5 (11), 37-46",,0,2000
+"A Comprehensive Approach to Fusion for Microsensor Networks: Distributed and Hierarchical Inference, Communication, and Adaption","JW Fisher III, M Cetin, T Jaakkola, J Tsitsiklis, S Verdu, S Kulkarni, ...",MASSACHUSETTS INST OF TECH CAMBRIDGE OFFICE OF SPONSORED RESEARCH,,0,2000
+Statistical methodology in decision sciences,VS Borkar,"Current Science 78 (8), 943-944",,0,2000
+Stochastic Control under Communication Constraints,"S Tatikonda, S Mitter","Proceedings 1, 451",,0,2000
+Chance as necessity-Foreword,VS Borkar,"SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES 24, 259-260",,0,1999
+"Al-Said, EA, 389 Avriel, M., 15 Baier, J., 233 Balakrishnan, V., 457","T Basar, D Bhatia, WM Bian, VS Borkar, A Breiner, AE Bryson, XR Cao, ...","Journal of Optimization Theory and Applications 100 (3), 723-724",,0,1999
+Stochastic differential equations and applications,VS Borkar,"Current Science (Bangalore) 76 (2), 128-128",,0,1999
+Norbert Wiener and engineering,VS Borkar,"Resonance 4 (1), 3-4",,0,1999
+Erratum to Retraction of Ergodic control of partially observed Markov chains (bull,VS Borkar,"Systems and Control Letters 37 (3), 181",,0,1999
+"Amir, Arnon, 7 Atanacio, Bemina, 259 August, Jonas, 146, 231","C Baillard, R Berthilsson, P Bouthemy, KL Boyer, JM Buhmann, ...",,,0,1999
+Pictures at an Exhibition–A Lagrange Multiplier Gallery,"VS Borkar, VS Borkar",Resonance 3 (12),,0,1998
+A recursive algorithm for the complete representation of salient contour paths in a graph,"S Casadei, S Mitter",,,0,1998
+Environments for Modeling and Simulation of Complex Systems,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1998
+Mathematical programming embeddings of logic,VS Borkar,"Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1998
+Why do clocks move clockwise?,VS Borkar,"Resonance 3 (1), 27-35",,0,1998
+"A perceptual organization approach to contour estimation via composition, compression and pruning","S Casadei, SK Mitter","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1998
+Learning Decentralized Goal-based Vector Quantization,"P Gupta, V Borkar","Complex Systems 11 (2), 73-106",,0,1997
+"Bangalore-560 012, INDIA","P Gupta, VS Borkar",,,0,1997
+How low can you sink?,VS Borkar,"Resonance 2 (2), 52-63",,0,1997
+"Correction to"" Recursive self-tuning control of finite Markov chains""(Applicationes Math. 24 (2)(1996), 169-188",V Borkar,"Applicationes Mathematicae 3 (24), 355",,0,1997
+"Inference, learning, and recognition",SK Mitter,"Proceedings of Symposia in Pure Mathematics 60, 223-234",,0,1997
+Global stochastic recursive algorithms,SK Mitter,"Foundations of Computational Mathematics, 277-277",,0,1997
+"Filtering and stochastic control: A historical perspective (vol 16, pg 67, 1996)",SK Mitter,"IEEE CONTROL SYSTEMS MAGAZINE 16 (4), 57-57",,0,1996
+in a Vector Graph,"S Casadei, S Mitter",,,0,1996
+Acknowledgement of referees' services,"E Altman, T Katayama, S Seshadri, Y Baba, J Kaufman, M Sidi, V Borkar, ...","Queueing Systems 20 (471), 471",,0,1995
+Foundations of Continuous-Time Processes,VS Borkar,"Probability Theory, 109-129",,0,1995
+Conditioning and Martingales,VS Borkar,"Probability Theory, 37-63",,0,1995
+Basic Limit Theorems,VS Borkar,"Probability Theory, 65-87",,0,1995
+Workshop on Formal Models for Intelligent Control,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,1994
+Autonomy and adaptiveness: a perspective on integrative neural architectures,"B Gaveau, C Rockland, SK Mitter","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1994
+Duality of Linear Input-Output Maps,SK Mitter,"Communications and Cryptography, 307-314",,0,1994
+Variational versus Markov random field methods for image segmentation (Invited Paper)[2304-03],"SR Kulkarni, SK Mitter","PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 18-18",,0,1994
+Center for the Study of Intelligent Control Systems (Fellowships),SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE CENTER FOR INTELLIGENT CONTROL SYSTEMS,,0,1993
+"Filtering, Statistical Signal Processing and Variational Problems",S Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1993
+A Stochastic Algorithm for Edge Detection,"K Uma, VS Borkar, PS Sastry",IEEE,,0,1993
+Learning Stochastic Dependences through matching of Empirical Averages,"VS Borkar, PS Sastry, K Rajaraman",IEEE,,0,1993
+"DEPARTMENT OF ELECTRICAL ENGINEERING INDIAN INSTITUTE OF SCIENCE BANGALORE 560 012, INDIA",VS BORKAR,"Lecture notes in pure and applied mathematics 142, 57",,0,1993
+Series expansions for nonlinear filters,"VS Borkar, SK Mitter","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1993
+"Filtering, statistical signal processing and variational problems(Final Report, 15 Jan. 1989- 14 Oct. 1992)",S MITTER,,,0,1993
+Center for Intelligent Control Systems,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,1992
+Weak convergence methods and singularly perturbed stochastic control and filtering problems: Harold J. Kushner,VS Borkar,"Automatica 28 (5), 1071-1072",,0,1992
+Some discrete approximations to a variational method for image segmentation,"SR Kulkarni, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1991
+"Recent Advances in Modelling and Control of Stochastic Systems: Selected Papers from a Workshop Sponsored by Jawaharlal Nehru Centre for Advanced Scientific Research, 7-11 …","N Viswanadham, VS Borkar",Indian Academy of Sciences,,0,1991
+Scaling results for the variational approach to edge detection,"TJ Richardson, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1991
+RECENT ADVANCES IN MODELING AND CONTROL OF STOCHASTIC-SYSTEMS-FOREWORD,"VS BORKAR, N VISWANADHAM","SADHANA-ACADEMY PROCEEDINGS IN ENGINEERING SCIENCES 15, 249-250",,0,1990
+Adaptive Control of Markov Processes,VS Borkar,"Sankhyā: The Indian Journal of Statistics, Series A (1961-2002) 52 (1), 142-144",,0,1990
+An SPDE Formulation for Image Segmentation,"O Zeitouni, SK Mitter","Conference on Stochastic PDE's,” Trento, Italy",,0,1990
+Signal Processing: Signal Processing Theory,"SK Mitter, T Kailath, L Auslander",Springer,,0,1990
+CONTROLLED MARKOV CHAINS ON A COUNTABLE STATE SPACE: SOME RECENT RESULTS,VS Borkar,"Recent advances in stochastic calculus 1, 141",,0,1990
+On sampling methods and annealing algorithms,"SK Mitter, SB Gelfand","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1990
+Hybrid control in the nematode,"C Rockland, SK Mitter","Proceedings of the 28th IEEE Conference on Decision and Control,, 821",,0,1989
+‘Minimum toll’control of diffusions,VS Borkar,"Systems & control letters 12 (4), 343-349",,0,1989
+"Scattering theory, unitary dilations and Gaussian processes","SK Mitter, YB Avniel","Three decades of mathematical system theory, 302-338",,0,1989
+"-Alain Bensoussan (INRIA, Le Chesnay, France)-Vivek S. Borkar (Tata Institute of Fundamental Research, Bangalore, India)-Piermarco Cannarsa (Dipartimento di Matematica …","PL Chow, P Daiprà, G Da Prato, DA Dawson, M Dozzi, F Fagnola, ...",Stochastic partial differential equations and applications II: proceedings …,,0,1989
+LATTICE APPROXIMATION IN THE STOCHASTIC QUANTIZATION OF (♦*») FIELDS1,"VS E-orkar, SK Mitter",Stochastic partial differential equations and applications II: proceedings …,,0,1989
+Lattice approximation in the stochastic quantization of (φ,"VS Borkar, SK Mitter","Stochastic Partial Differential Equations and Applications II, 24-32",,0,1989
+Lattice Approximation in the Stochastic Quantization of (04) 2 Fields,"VS Borkar, SK Mitter",TATA INST OF FUNDAMENTAL RESEARCH BOMBAY (INDIA),,0,1988
+"A Center on Communications, Control and Computation.",SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1988
+"Center on communications, control, and computation. Final report, 1 January 1984-31 December 1987",SK Mitter,"Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Information and …",,0,1988
+Distributed Algorithms for Probabilistic Solution of Computational Vision Problems.,"DE Gustafson, SK Mitter",SCIENTIFIC SYSTEMS INC CAMBRIDGE MA,,0,1988
+"Distributed algorithms for probabilistic solution of computational vision problems(Final Report, Aug. 1987- Jan. 1988)","D GUSTAFSON, S MITTER",,,0,1988
+H Infinity Sensitivity Minimization for Delay Systems. Part 2.,"DS Flamm, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1987
+SUM,"JA BURNS, CE OLIVER, J CHANDRA, P DAVIS, JG ECKER, WF EDDY, ...",,,0,1986
+Estimation theory and statistical physics. Technical paper,SK Mitter,"Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Information and …",,0,1985
+Progress on H (at Infinity) Optimal Sensitivity for Delay Systems. Part 1. Minimum Phase Plant with Input Delay. 1 Pole/Zero Weighting Function. Revised.,"DS Flamm, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1985
+A Final Technical Report of Research on under Grant AFOSR-82-0135.,"SK Mitter, B Levy",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1985
+MICHAEL BENJAMIN PROPP,SK Mitter,Massachusetts Institute of Technology,,0,1985
+Parameter estimation in stochastic systems: some recent results and applications,VS Borkar,"Banach Center Publications 16 (1), 43-50",,0,1985
+"Fundamental aspects of filtering theory, statistical signal processing and stochastic variational problems related to estimation of Markov random fields(Final Technical Report …","SK MITTER, B LEVY",,,0,1985
+Correction to “existence of optimal controls for partially observed diffusions”,VS Borkar,Stochastics: An International Journal of Probability and Stochastic …,,0,1984
+Generation and Termination of Binary Decision Trees for Nonparametric Multiclass Classification.,"S Gelfand, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1984
+"Interim Technical Report, Grant AFOSR-82-0135, 15 March 1983 to 14 March 1984","SK Mitter, B Levy",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1984
+"Linear and nonlinear filtering and stochastic control[Interim Technical Report, 15 Mar. 1983- 14 Mar. 1984]","SK MITTER, B LEVY",,,0,1984
+"Generation and termination of binary decision trees for nonparametric multiclass classification S. Gelfand, SK Mitter.","SK Mitter, SB Gelfand","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1984
+Linear and Nonlinear Filtering and Related Inverse Scattering Problems.,"SK Mitter, B Levy",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1983
+Remarks on pathwise nonlinear filtering,SK Mitter,"Mathematical Theories of Optimization, 232-235",,0,1983
+"Linear and nonlinear filtering and related inverse scattering problems[Interim Technical Report, 15 Mar. 1982- 14 Mar. 1983]","SK MITTER, B LEVY",,,0,1983
+Pathwise smoothing of Markov processes with noisy observations,VS Borkar,"Journal of Mathematical Analysis and Applications 90 (2), 525-535",,0,1982
+"NONLINEAR FILTERING AND STOCHASTIC CONTROL 3RD. 1981 SESSION OF THE CENTRO INTERNZIONALE MATEMATICS ESTIVO (CIME), HELD AT CORTONA, ITALY, JULY 1-10, 1981. PROCEEDINGS OF THE …",SK MITTER,,,0,1982
+Nonlinear filtering and stochastic control: proceedings of the 3rd 1981 session of the Centro internazionale matematico estivo,S Mitter,Springer-Verlag,,0,1982
+"Nonlinear Filtering And Stochastic Control. Proceedings Of The Third Session Of The CIME Held At Cortona, July 1-10, 1981","SK Mitter, A Moro",Springer,,0,1982
+"Stochastic and adaptive systems[Final Report, 1 Feb. 1977- 31 Jan. 1982]","M ATHANS, SK MITTER, L VALAVANI",,,0,1982
+A final report of research on stochastic and adaptive systems,"M Athans, SK Mitter, LS Valavani","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1982
+Toward a theory of nonlinear stochastic realization,"SK Mitter, G Picci, A Lindquist","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1981
+Mackey's imprimitivity theorem with applications to stochastic systems,SK Mitter,1980 19th IEEE Conference on Decision and Control including the Symposium on …,,0,1980
+On the analogy between mathematical problems of non-linear filtering and quantum physics. Interim report,SK Mitter,"Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Information and …",,0,1980
+"Proceedings of the MIT/ONR Workshop on Distributed Communication and Decision Problems Motivated by Naval C3 Systems (2nd). Held in Monterey, California on 16-27 July 1979 …",M Athans,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1980
+The sufficiency of maximum principle,SK Mitter,,,0,1980
+"Stochastic and adaptive systems[Final Report, 1 Feb. 1979- 31 Jan. 1980]","M ATHANS, SK MITTER, L VALAVANI",,,0,1980
+New results on the innovations problem for non-linear filtering[Interim Report],"DF ALLINGER, SK MITTER",,,0,1980
+"Texas at Austin, USA","SK Mitter, D Ocone",Analysis and Optimisation of Stochastic Systems: Based on the Proceedings of …,,0,1980
+Recent Results in Nonlinear Filtering,"DF Allinger, SK Mitter","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1979
+"Stochastic and adaptive systems[Final Report, 1 Feb. 1978- 31 Jan. 1979]","M ATHANS, SK MITTER",,,0,1979
+Multiple integral expansions for nonlinear filtering[Interim Report],"SK MITTER, D OCONE",,,0,1979
+"A final report of research on stochastic and adaptive systems under grant AFOSR 77-3281B for the period February 1, 1978 to January 31, 1979","M Athans, SK Mitter","Massachusetts Institute of Technology, Laboratory for Information and …",,0,1979
+Filtering theory and quantum fields[Interim Report],SK MITTER,,,0,1979
+Quantum estimation theory,"SK Mitter, SK Young","International Symposium on Systems Optimization and Analysis, 127-136",,0,1979
+Modelling for stochastic systems and quantum fields. Interim report,SK Mitter,"Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Information and …",,0,1978
+Finite dimensional nonlinear estimation in continuous and discrete time[Interim Report],"SI MARCUS, SK MITTER, D OCONE",,,0,1978
+Variable metric methods and filtering theory[Interim Report],"SK MITTER, P TOLDALAGI",,,0,1978
+Variable metric methods and filtering theory,"P Toldalagi, SK Mitter","Massachusetts Institute of Technology, Electronic Systems Laboratory",,0,1978
+Stochastic and adaptive systems: interim report,"SK Mitter, M Athans","Massachusetts Institute of Technology, Electronic Systems Laboratory …",,0,1978
+Finite dimensional nonlinear estimation in continuous and discrete time,"SK Mitter, D Ocone, SI Marcus","Laboratory for Information and Decision Systems, Massachusetts Institute of …",,0,1978
+Theory and Applications of Nonlinear Wave Propagation.,"SK Mitter, FY Chu",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR INFORMATION AND DECISION SYSTEMS,,0,1978
+A robustness property of the separation principle,"G Blankenship, V Borkar",1977 IEEE Conference on Decision and Control including the 16th Symposium on …,,0,1977
+"Dynamic Programming and Stochastic Control. Mathematics in Science and Engineering, Vol. 125",SK Mitter,"American Scientist 65 (5), 642-642",,0,1977
+"Stochastic and adaptive systems[Final Report, 1 Feb. 1972- 31 Jan. 1977]","M ATHANS, SK MITTER",,,0,1977
+A prototype system for automated interpretation of vectorcardiograms,"DE Gustafson, AS Willsky, SK Mitter, A Akant, ME Womble, MC Lancaster","Joint Automatic Control Conference, 776-781",,0,1977
+"Control for large scale and uncertain systems[Interim Report, 1 Jan. 1975- 1 Jan. 1976]","M ATHANS, SK MITTER",,,0,1976
+Cardiogram Analysis-Feature Extraction and Clustering Studies.,"DE Gustafson, A Akant, SK Mitter",CHARLES STARK DRAPER LAB INC CAMBRIDGE MASS,,0,1975
+Lagrange Duality Theory for Convex Control Problems,"WW Hager, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE ELECTRONIC SYSTEMS LAB,,0,1975
+CONTROL FOR LARGE SCALE AND UNCERTAIN SYSTEMS,"M Athans, SK Mitter, BAF Base",MASSACHUSETTS INST OF TECH CAMBRIDGE ELECTRONIC SYSTEMS LAB,,0,1975
+"Control for large scale and uncertain systems[Interim Report, 1 Jan. 1974- 1 Jan. 1975]","M ATHANS, SK MITTER",,,0,1975
+A DESCENT NUMERICAL METHOD FOR OPTIMIZATION PROBLEMS,"DP BERTSEKAS, SK MITTER",SIAM J. Cosro. Vol 11 (4),,0,1973
+"Control optimization, stabilization and computer algorithms for aircraft applications",SK Mitter,,,0,1973
+"Control optimization, stabilization and computer algorithms for aircraft applications(Computerized design of aircraft control optimization stabilization systems)[Status Report …",SK MITTER,,,0,1973
+CONTROL OF AFFINE SYSTEMS WITH MEMORY,SK Mitter,"5th Conference on Optimization Techniques 1, 290",,0,1973
+Control Theory for Large Scale and Uncertain Systems Applicable to Aerospace Systems,"M Athans, SK Mitter",MASSACHUSETTS INST OF TECH CAMBRIDGE ELECTRONIC SYSTEMS LAB,,0,1972
+"IEEE CONFERENCE ON DECISION AND CONTROL, AND SYMPOSIUM ON ADAPTIVE PROCESSES, 11TH, PROCEEDINGS, 1972.","YG Jan, MM Peritsky, M Mintz, M Simaan, JB Crux, M Banker, RJ Corn, ...",[No source information available],,0,1972
+The infinite time quadratic cost problem for certain classes of infinite dimensional control systems,SK Mitter,"Delay and Functional Differential Equations and their Applications, 269-280",,0,1972
+Control theory for large scale and uncertain systems applicable to aerospace systems(Decision and control theory for large scale and uncertain systems for aerospace …,"M ATHANS, SK MITTER",,,0,1972
+Reprinted from,SK Mitter,,,0,1972
+SYSTEMS OF HEREDITARY DIFFERENTIAL EQUATIONS WITH FIXED DELAYS-CLASS OF AFFINE SYSTEMS AND PROBLEM OF ADJUNCT SYSTEM,"M DELFOUR, S MITTER",COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE A …,,0,1971
+OPTIMAL CONTROL OF SYSTEMS GOVERNED BY AFFINE HEREDITARY DIFFERENTIAL EQUATIONS,"M DELFOUR, S MITTER",COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE A …,,0,1971
+HEREDITARY DIFFERENTIAL EQUATION EQUATIONS WITH FIXED DELAYS-EXISTENCE AND UNIQUENESS THEOREM,"M DELFOUR, S MITTER",COMPTES RENDUS HEBDOMADAIRES DES SEANCES DE L ACADEMIE DES SCIENCES SERIE A …,,0,1971
+Studies Related to the Optimal Control and Stabilization of Aircraft in the Presence of Gust Load Disturbances.,SK Mitter,MASSACHUSETTS INST OF TECH CAMBRIDGE ELECTRONIC SYSTEMS LAB,,0,1971
+"Studies related to the optimal control and stabilization of aircraft in the presence of gust load disturbances Status report, 15 Jun. 1970- 31 Jan. 1971(Theory of …",SK MITTER,,,0,1971
+Approximations for optimal control problems described by partial differential equations,"SK Mitter, CA Phillipson","Joint Automatic Control Conference, 181",,0,1970
+"NUMERICAL, SOLUTION OF OPTIMAL CONTROL PROBLEMS",SK Mitter,Proceedings Second Biennial Cornell Electrical Engineering Conference: 1969 …,,0,1969
+The conjugate gradient minimization method in function space(Conjugate gradient minimization method in function space),"LS LASDON, SK MITTER, AD WAREN",,,0,1966
+A variational formula for risk-sensitive control,VS Borkar,,,0,0
+How Low Can You Sink? In Search of Global Minima,"VS Borkar, VS Borkar",Resonance 2 (02),,0,0
+Mathematics and Sports,"VS Borkar, VS Borkar",Resonance 4 (12),,0,0
+Method in the Madness-Laws and Order in Probability,"VS Borkar, VS Borkar",Resonance 5 (11),,0,0
+"STOCHASTIC AND ADAPTIVE SYSTEMS Under Grant AFOSR 77-3281B for the period February 1, 1978 to January 31, 1979","PM Athans, SK Mitter",,,0,0
+Ю ж и гвз гв Ь б н Ц нб в в Ш жзгв,"VS Borkar, SK Mitter, SR Venkatesh",,,0,0
+Sparse Regression using Compressive Sensing with Input Shaping,"VS Borkar, VR Dwaracherla, N Sahasrabudhe",,,0,0
+"Braking Control in Railway Vehicles: A Distributed Preview Approach...... B. Picasso, D. Caporale, and P. Colaneri 189 Mode-Target Games: Reactive Synthesis for Control …","NS Aybat, Z Wang, T Lin, S Ma, Y Guo, W Lin, G Chen, T Tanaka, ...",,,0,0
+"APPROXIMATION, COMPUTATION, AND",S Mitter,,,0,0
+"B LAN, CHIN-CHIN, 258 LAVITA, JAMES A., 244 BANKS, II. T., 296 LI, TIEX-YIEN, 29 BEXNFELD, STEFH~ N R., 103 LIU, TAI-PING, 218","R BOWEN, CY CHIZN, SUS CHEN, PL DAVIS, XIC DELFOUR, ...",,,0,0
+An Efficient Scheduling Algorithm for Solving Load Commitment Problem under Time of Use Pricing with Bound on Maximum Demand,"IA TP, VS Borkar",,,0,0
+ISSN Print 1526-7555 ISSN Online 2163-4548 4 issues per year,"WS Wong, SST Yau, ST Yau, J Baillieul, P Caines, MM Cheng, IL Chern, ...",,,0,0
+Newest issue Volume 19 (2019),"X He, K Mao, J Wang, C Zeng, Y Xiao, S Liu, S Pei, SST Yau, Q Wu, ...",,,0,0
+NSF Workshop in Cyber-Physical Systems,"M Dahleh, E Frazzoli, A Megretski, S Mitter, A Ozdaglar, P Parrilo, D Shah",,,0,0
+COMMUNICATIONS IN INFORMATION AND SYSTEMS,"T Eren, BDO Anderson, AS Morse, W Whiteley, PN Belhumeur, VS Borkar, ...",,,0,0
+Risk sensitive optimal control framework applied to Multi-dimensional delay tolerant networks,"E Altman, V Kavitha, F De Pellegrini, V Kamble, V Borkar",,,0,0
+STOCHASTIC APPROXIMATION WITH LONG RANGE,"V ANANTHARAM, VS BORKAR",,,0,0
+Norbert Wiener and Control Engineering,"VS Borkar, VS Borkar",Resonance 4 (01),,0,0
+LATTICE AFP ROXI MA TIOS IN TEJE STOCHASTIC QUANTIZATION OF (j'J FIELDS1,"VS Borkar, PÛ Box, SÏÎ Witter",,,0,0
+TECHNIQUE FOR MARKOV CHAINS USING STOCHASTIC APPROXIMATION”,"TPI Ahamed, VS Borkar, S Juneja",,,0,0
+A NEW LEARNING ALGORITHM,"VS BORKAR, J PINTO, T PRABHU",,,0,0
+Singular perturbations in ergodic control,V Borkar,,,0,0
+CAPACITY OF MARKOV CHANNELS: A STOCHASTIC CONTROL APPROACH,"VS BORKAR, AA KHERANI, V SHARMA",,,0,0
+Evolutionary games with two timescales Vivek S. Borkar,"VS Borkar, S Jain, G Rangarajan",,,0,0
+2016 Reviewers List,"A Ajorlou, R Aldecoa, D Alderson, A Allard, A Amadeh, A Anis, N Antunes, ...",,,0,0
+Session: Performance Modeling and Optimization (I),"VS Borkar, AA Kherani, BJ Prabhu, GA Gupta, S Toumpis, J Sayir, ...",,,0,0
+"Optimality of “full bang to reduce predicted miss” for some partially observed stochastic control problems....................... 1 VE Benes, RW Rishel On some approximation …","A Bensoussan, GL Blankenship, VS Borkar, JP Chancelier, C Gomez, ...",,,0,0
+"AC Antoulas, Department of Electrical and Computer Engineering, Rice University, Houston, TX 77251-1892, USA (e-mail: scletters@ rice. edu) IMY Mareels, Department of …","V Blondel, RK Boel, VS Borkar, FH Clarke, F Colonius, GB Di Masi, ...",,,0,0
+Why Do Clocks Move Clockwise? The Dynamics of Collective Learning,"VS Borkar, VS Borkar",Resonance 3 (01),,0,0
+REINFORCEMENT LEARNING AND MATRIX COMPUTATION,V Borkar,,,0,0
+A Note on Busy Period Statistics for Mt/Gt/∞ Queues,"SR Srinivasan, D Manjunath, V Borkar",,,0,0
+Delay Constrained Point to Multi-Point Scheduling in Wireless Fading Channels,"N Salodkar, A Karandikar, VS Borkar",,,0,0
+Duality of Linear Systems,"F Fagnani, SK Mitter",,,0,0
+AN ALGORITHM FOR TESTING THE MANIFOLD HYPOTHESIS FROM RANDOM DATA,"C FEFFERMAN, S MITTER, H NARAYANAN",,,0,0
+Stochastic Processes that Generate Polygonal and Related Random,"V Borkar, SK Mitter",,,0,0
+CONTROLLABILITY OF PERTURBED LINEAR SYSTEMS,"MС Delfour, SK Mitter",,,0,0
+Session 07: Electricity market simulation and modeling (2),"CA Díaz, J Villar, F Campos, C Corchero, F Heredia, M Roozbehani, ...",,,0,0
+Three-Stage Separation Theorem for Information-Frugal LQG Control,"T Tanaka, PM Esfahani, SK Mitter",,,0,0
+DIMACS Workshop on Perspectives and Future Directions in Systems and Control Theory (SontagFest 2011),"Y Yamamoto, R Brockett, R Sepulchre, D Liberzon, T Georgiou, Z Artstein, ...",,,0,0
+"On Some Connections between Nonlinear Filtering, Information Theory and Statistical Mechanics",SK Mitter,,,0,0
+"filtering roblem asks what, given the measurements 2 s): 05 s£= t} of the system","BW Licht, SK Mitter",,,0,0
+Statistical Inference and Statistical Mechanics,SK Mitter,,,0,0
+Control for large scale and uncertain systems:(interim report),"SK Mitter, M Athans","Decision and Control Sciences Group, Electronic Systems Laboratory, Dept. of …",,0,0
+STOCHASTIC AND ADAPTIVE SYSTEMS,"B Epstein, BAF Base, PM Athans, SK Mitter, L Valavani",,,0,0
+A Guided Tour,SK Mitter,,,0,0
+D istributed M ultiple Target Tracking and D ata,"M Chu, S Mitter, F Zhao",,,0,0
+A STATISTICAL MECHANICAL VIEW OF KALMAN FILTERING,"SK Mitter, NJ NEWTON",,,0,0
+"R. Gowaikar, B. Hochwald, and B. Hassibi Communication Over a Wireless Network With Random Connections 2857 P. Liu, RA Berry, and ML Honig A Fluid Analysis of a Utility-Based …","S Toumpis, L Tassiulas, A Orlitsky, NP Santhanam, K Viswanathan, ...",,,0,0
+This research has been supported by the Air Force Office of Scientific Research under Grant AFOSR-82-0135A.,SK Mitter,,,0,0
+"111. Vie/ml I 14C. NOV/OZ"" 55",SK Mitter,,,0,0
+For Tyrone Duncan,"A Bensoussan, SK Mitter",,,0,0
+SK U1TTER NOV 1 8 1974,"A BENSOUSSAN, MC DELFOUR, SK MITTER",,,0,0
+JL** r¿ k¿ M* ri~ уш.,"JS Baras, GL Blankenship, SK Mitter",,,0,0
+LQG Control with Minimal Information: Three-Stage Separation Theorem and SDP-based Solution Synthesis,"T Tanaka, PM Esfahani, SK Mitter",,,0,0
+X Sensitivity Minimization for Delay Systems: Part II,"DS Flamm, SK Mitter",,,0,0

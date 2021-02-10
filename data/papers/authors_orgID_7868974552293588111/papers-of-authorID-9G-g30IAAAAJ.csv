@@ -1,0 +1,18 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Convergence guarantees for kernel-based quadrature rules in misspecified settings,"M Kanagawa, BK Sriperumbudur, K Fukumizu","Advances in Neural Information Processing Systems, 3288-3296",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15891832595726058878,27,2016
+Gaussian processes and kernel methods: A review on connections and equivalences,"M Kanagawa, P Hennig, D Sejdinovic, BK Sriperumbudur",arXiv preprint arXiv:1807.02582,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15914902105785850729,26,2018
+Convergence analysis of deterministic kernel-based quadrature rules in misspecified settings,"M Kanagawa, BK Sriperumbudur, K Fukumizu","Foundations of Computational Mathematics, 1-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11674245511021511885,13,2019
+Filtering with state-observation examples via kernel Monte Carlo filter,"M Kanagawa, Y Nishiyama, A Gretton, K Fukumizu","Neural computation 28 (2), 382-444",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14482736317165153370,12,2016
+Monte Carlo filtering using kernel embedding of distributions,"M Kanagawa, Y Nishiyama, A Gretton, K Fukumizu",Twenty-Eighth AAAI Conference on Artificial Intelligence,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3373256068725616649,11,2014
+Large sample analysis of the median heuristic,"D Garreau, W Jitkrittum, M Kanagawa",arXiv preprint arXiv:1707.07269,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7171603717357301675,7,2017
+Kernel recursive abc: Point estimation with intractable likelihood,"T Kajihara, M Kanagawa, K Yamazaki, K Fukumizu",arXiv preprint arXiv:1802.08404,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12068705844158699696,3,2018
+Unsupervised group matching with application to cross-lingual topic matching without alignment information,"T Iwata, M Kanagawa, T Hirao, K Fukumizu","Data mining and knowledge discovery 31 (2), 350-370",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14702256576599544580,3,2017
+Convergence Guarantees for Adaptive Bayesian Quadrature Methods,"M Kanagawa, P Hennig",arXiv preprint arXiv:1905.10271,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8938178337596484322,1,2019
+Model-based Kernel Sum Rule,"Y Nishiyama, M Kanagawa, A Gretton, K Fukumizu","stat 1050, 18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12718908983472419331,1,2014
+On the positivity and magnitudes of Bayesian quadrature weights,"T Karvonen, M Kanagawa, S Särkkä","Statistics and Computing 29 (6), 1317-1333",,0,2019
+Model Selection for Simulator-based Statistical Models: A Kernel Approach,"T Kajihara, M Kanagawa, Y Nakaguchi, K Khandelwal, K Fukumiziu",arXiv preprint arXiv:1902.02517,,0,2019
+Counterfactual Mean Embedding: A Kernel Method for Nonparametric Causal Inference,"K Muandet, M Kanagawa, S Saengkyongam, S Marukatat",arXiv preprint arXiv:1805.08845,,0,2018
+Empirical representations of probability distributions via kernel mean embeddings,M Kanagawa,,,0,2016
+Model-based Kernel Sum Rule: Kernel Bayesian Inference with Probabilistic Models,"Y Nishiyama, M Kanagawa, A Gretton, K Fukumizu",arXiv preprint arXiv:1409.5178,,0,2014
+Counterfactual Mean Embedding,"K Muandet, M Kanagawa, S Saengkyongam, S Marukatat","a∈ A 1, 1",,0,0
+Supplementary materials for “Convergence guarantees for kernel-based quadrature rules in misspecified settings”,"M Kanagawa, BK Sriperumbudur, K Fukumizu",,,0,0

@@ -1,0 +1,350 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+The Laplacian pyramid as a compact image code,"P Burt, E Adelson","IEEE Transactions on communications 31 (4), 532-540",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11650651392044296280,8054,1983
+The design and use of steerable filters,"WT Freeman, EH Adelson","IEEE Transactions on Pattern Analysis & Machine Intelligence, 891-906",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10166670535670508895,3999,1991
+Spatiotemporal energy models for the perception of motion,"EH Adelson, JR Bergen","Josa a 2 (2), 284-299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10749086880817846297,3963,1985
+The plenoptic function and the elements of early vision,"EH Adelson, JR Bergen","Vision and Modeling Group, Media Laboratory, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3382592858606971739,1942,1991
+Shiftable multiscale transforms,"EP Simoncelli, WT Freeman, EH Adelson, DJ Heeger","IEEE transactions on Information Theory 38 (2), 587-607","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8490752581543157585,15238485879706416605",1819,1992
+Representing moving images with layers,"JYA Wang, EH Adelson","IEEE Transactions on Image Processing 3 (5), 625-638",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18360943598902846102,1524,1994
+A multiresolution spline with application to image mosaics,"PJ Burt, EH Adelson","ACM transactions on Graphics 2 (4), 217-236",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16072616433531144450,1434,1983
+Phenomenal coherence of moving visual patterns,"EH Adelson, JA Movshon","Nature 300 (5892), 523",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320758538892793839,1295,1982
+Single lens stereo with a plenoptic camera,"EH Adelson, JYA Wang","IEEE Transactions on Pattern Analysis & Machine Intelligence, 99-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2759642694776734834,1155,1992
+Pyramid methods in image processing,"EH Adelson, CH Anderson, JR Bergen, PJ Burt, JM Ogden","RCA engineer 29 (6), 33-41",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1007165708168168771,1118,1984
+The analysis of moving patterns,JA Movshon,"Pattern recognition mechanisms, 117-151","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7909673324687651278,713310532942055786",1040,1986
+Motion illusions as optimal percepts,"Y Weiss, EP Simoncelli, EH Adelson","Nature neuroscience 5 (6), 598",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16928023464124433108,1039,2002
+Noise removal via Bayesian wavelet coring,"EP Simoncelli, EH Adelson","Proceedings of 3rd IEEE International Conference on Image Processing 1, 379-382",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15282813470673248226,870,1996
+Analyzing and recognizing walking figures in XYT,"SA Niyogi, EH Adelson","CVPR 94, 469-474",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5282995231863595324,824,1994
+Perceptual organization and the judgment of brightness,EH Adelson,"Science 262 (5142), 2042-2044",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16582645111530489017,644,1993
+24 Lightness Perception and Lightness Illusions,EH Adelson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5719632400628685796,640,2000
+Image statistics and the perception of surface qualities,"I Motoyoshi, S Nishida, L Sharan, EH Adelson","Nature 447 (7141), 206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14117991711283579544,551,2007
+Probability distributions of optical flow,"EP Simoncelli, EH Adelson, DJ Heeger",Proceedings. 1991 IEEE Computer Society Conference on Computer Vision and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12896969589904621386,534,1991
+Orthogonal pyramid transforms for image coding.,"EH Adelson, E Simoncelli, R Hingorani","Visual Communications and image processing II 845, 50-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10082562721029980399,496,1987
+Recovering intrinsic images from a single image,"MF Tappen, WT Freeman, EH Adelson","Advances in neural information processing systems, 1367-1374",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6125742585666051424,485,2003
+Digital signal encoding and decoding apparatus,EH Adelson,"US Patent 4,939,515",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10173616921443330607,421,1990
+Early vision and texture perception,"JR Bergen, EH Adelson","Nature 333 (6171), 363-364",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3157522845347621392,411,1988
+Real-world illumination and the perception of surface reflectance properties,"RW Fleming, RO Dror, EH Adelson","Journal of vision 3 (5), 3-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=959492833092130620,402,2003
+Layered representation for motion analysis,"JYA Wang, EH Adelson",Proceedings of IEEE Conference on Computer Vision and Pattern Recognition …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=198530404556844048,396,1993
+A unified mixture framework for motion segmentation: Incorporating spatial coherence and estimating the number of models,"Y Weiss, EH Adelson",Proceedings CVPR IEEE Computer Society Conference on Computer Vision and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=254099024254568903,338,1996
+Directionally selective complex cells and the computation of motion energy in cat visual cortex,"RC Emerson, JR Bergen, EH Adelson","Vision research 32 (2), 203-218",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12773946357098226294,338,1992
+Transparent motion perception as detection of unbalanced motion signals. I. Psychophysics,"N Qian, RA Andersen, EH Adelson","Journal of Neuroscience 14 (12), 7357-7366",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5761000706271573090,334,1994
+Motion magnification,"C Liu, A Torralba, WT Freeman, F Durand, EH Adelson","ACM transactions on graphics (TOG) 24 (3), 519-526",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1049915870896356014,310,2005
+Specular reflections and the perception of shape,"RW Fleming, A Torralba, EH Adelson","Journal of vision 4 (9), 10-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18219878786318520007,304,2004
+Apparent ridges for line drawing,"T Judd, F Durand, E Adelson","ACM Transactions on Graphics (TOG) 26 (3), 19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12015113527058573461,297,2007
+Ground truth dataset and baseline evaluations for intrinsic image algorithms,"R Grosse, MK Johnson, EH Adelson, WT Freeman","2009 IEEE 12th International Conference on Computer Vision, 2335-2342",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11082563412988783690,295,2009
+Compressing and companding high dynamic range images with subband architectures,"Y Li, L Sharan, EH Adelson","ACM transactions on graphics (TOG) 24 (3), 836-844",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4811351225498469416,294,2005
+On seeing stuff: the perception of materials by humans and machines,EH Adelson,"Human vision and electronic imaging VI 4299, 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17775813244028578903,288,2001
+System for encoding image data into multiple layers representing regions of coherent motion and associated motion parameters,"JYA Wang, EH Adelson","US Patent 5,557,684","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9795393552095834996,1053457504076052253",263,1996
+The perception of shading and reflectance,"EH Adelson, AP Pentland","Perception as Bayesian inference, 409-423","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9946759661022664646,9173332063257841529,6185095911606574490",258,1996
+Theories of visual texture perception,JR Bergen,Vision and visual dysfunction 10,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14550716655363644680,238,1991
+Receiver-compatible enhanced definition television system,"WF Schreiber, AB Lippman, EH Adelson, AN Netravali","US Patent 5,010,405",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4504258769764389079,222,1991
+Material perception: What can you see in a brief glance?,"L Sharan, R Rosenholtz, E Adelson","Journal of Vision 9 (8), 784-784",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14949933366258835812,211,2009
+Optical ranging apparatus,EH Adelson,"US Patent 5,076,687",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3983202208336862860,207,1991
+Exploring features in a bayesian framework for material recognition,"C Liu, L Sharan, EH Adelson, R Rosenholtz",2010 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6354755045466118488,206,2010
+Human-assisted motion annotation,"C Liu, WT Freeman, EH Adelson, Y Weiss","2008 IEEE Conference on Computer Vision and Pattern Recognition, 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2155063080417064468,201,2008
+Depth-of-focus imaging process method,EH Adelson,"US Patent 4,661,986",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14863082305447507366,199,1987
+Merging images through pattern decomposition,"PJ Burt, EH Adelson","Applications of Digital Image Processing VIII 575, 173-181",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15436740961349269930,197,1985
+Pyramid-based computer graphics,"JM Ogden, EH Adelson, JR Bergen, PJ Burt","RCA engineer 30 (5), 4-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488649932062421147,193,1985
+The extraction of spatio-temporal energy in human an machine vision,EH Adelson,Proceedings from the workshop on motion representation and analysis …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10688769171460737446,191,1986
+Analyzing gait with spatiotemporal surfaces,"SA Niyogi, EH Adelson",Proceedings of 1994 IEEE Workshop on Motion of Non-rigid and Articulated …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5720126760820599105,185,1994
+Non-separable extensions of quadrature mirror filters to multiple dimensions,"EP Simoncelli, EH Adelson","Proceedings of the IEEE 78 (4), 652-664",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18058906682335151653,181,1990
+Subband transforms,"EP Simoncelli, EH Adelson","Subband image coding, 143-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1142146059556844019,178,1991
+Motion without movement,"WT Freeman, EH Adelson, DJ Heeger","ACM Siggraph Computer Graphics 25 (4), 27-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6714608976366587217,177,1991
+Saturation and adaptation in the rod system,EH Adelson,"Vision research 22 (10), 1299-1312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10923323103873849552,177,1982
+Separating reflections from images by use of independent component analysis,"H Farid, EH Adelson","JOSA A 16 (9), 2136-2145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=448985827019367521,170,1999
+Transparent motion perception as detection of unbalanced motion signals. III. Modeling,"N Qian, RA Andersen, EH Adelson","Journal of Neuroscience 14 (12), 7381-7392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4318068414402165760,159,1994
+Learning gaussian conditional random fields for low-level vision,"MF Tappen, C Liu, EH Adelson, WT Freeman","2007 IEEE Conference on Computer Vision and Pattern Recognition, 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14439012343717268624,158,2007
+Visually indicated sounds,"A Owens, P Isola, J McDermott, A Torralba, EH Adelson, WT Freeman",Proceedings of the IEEE conference on computer vision and pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16283889422271541176,154,2016
+Retrographic sensing for the measurement of surface texture and shape,"MK Johnson, EH Adelson","2009 IEEE Conference on Computer Vision and Pattern Recognition, 1070-1077",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9661503332135724921,154,2009
+Spatio-temporal segmentation of video data,"J Wang, EH Adelson","Image and Video Processing II 2182, 120-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16719178570261189907,153,1994
+Ordinal characteristics of transparency,"EH Adelson, P Anandan","Vision and Modeling Group, Media Laboratory, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14516477206219940967,149,1990
+Truncated subband coding of images,"EH Adelson, EPM Simoncelli","US Patent 4,817,182","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14215329442040912413,7002806057195830177",149,1989
+Noise reduction system,"EH Adelson, WT Freeman","US Patent 5,526,446",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4491861195324550521,148,1996
+Recognizing materials using perceptually inspired features,"L Sharan, C Liu, R Rosenholtz, EH Adelson","International journal of computer vision 103 (3), 348-371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6035038050489336077,141,2013
+Separating reflections and lighting using independent components analysis,"H Farid, EH Adelson","cvpr 1, 262-267",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9406397188662227185,141,1999
+Slow and smooth: A Bayesian theory for the combination of local motion signals in human vision,"Y Weiss, EH Adelson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=226337524532923582,141,1998
+Pattern recognition mechanisms,"JA Movshon, EH Adelson, MS Gizzi, WT Newsome, C Chagas, R Gattass, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=599413233974750797,138,1985
+Statistical characterization of real-world illumination,"RO Dror, AS Willsky, EH Adelson","Journal of Vision 4 (9), 11-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17859586976448928189,133,2004
+Recovering reflectance and illumination in a world of painted polyhedra,"P Sinha, E Adelson","1993 (4th) International Conference on Computer Vision, 156-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11614139192054241509,132,1993
+Crisp boundary detection using pointwise mutual information,"P Isola, D Zoran, D Krishnan, EH Adelson","European Conference on Computer Vision, 799-814",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14820255002936173739,121,2014
+Microgeometry capture using an elastomeric sensor,"MK Johnson, F Cole, A Raj, EH Adelson","ACM Transactions on Graphics (TOG) 30 (4), 46",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8862314988618964762,120,2011
+Image statistics for surface reflectance perception,"L Sharan, Y Li, I Motoyoshi, S Nishida, EH Adelson","JOSA A 25 (4), 846-865",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16222428964962527591,111,2008
+Computational models of visual processing,"MS Landy, JA Movshon",MIT press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6262142633452910434,111,1991
+Estimating intrinsic component images using non-linear regression,"MF Tappen, EH Adelson, WT Freeman",2006 IEEE Computer Society Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5340246971351222340,109,2006
+Personal photo enhancement using example images.,"N Joshi, W Matusik, EH Adelson, DJ Kriegman","ACM Trans. Graph. 29 (2), 12:1-12:15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7099388285890266282,99,2010
+Checkershadow illusion,EH Adelson,URL: http://persci. mit. edu/gallery/checkershadow,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6296304602114771106,94,1995
+Layered representation for image coding,EH Adelson,"US Patent 5,706,417",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2604947327078225886,92,1998
+Shape estimation in natural illumination,"MK Johnson, EH Adelson","CVPR 2011, 2553-2560",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12133691018387947942,91,2011
+Computational models of visual processing,"EH Adelson, JR Bergen","MIT Press, Cambridge, Mass",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4207406490503700281,88,1991
+The psychophysics of iconic storage.,"EH Adelson, J Jonides","Journal of Experimental Psychology: Human Perception and Performance 6 (3), 486",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891329649739365826,88,1980
+System for coring an image-representing signal,"CR Carlson, EH Adelson, CH Anderson","US Patent 4,523,230","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3882696912756264202,17229030667267704110",85,1985
+Beyond junctions: nonlocal form constraints on motion interpretation,"J McDermott, Y Weiss, EH Adelson","Perception 30 (8), 905-923",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14004608139345719487,78,2001
+Image data compression with the Laplacian pyramid,"EH Adelson, PJ Burt",University of Maryland. Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2502065643248277670,78,1980
+The perceptual buildup of three-dimensional structure from motion,"EC Hildreth, NM Grzywacz, EH Adelson, VK Inada","Perception & Psychophysics 48 (1), 19-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3547841048514744548,76,1990
+Perceptually organized EM: A framework for motion segmentation that combines information about form and motion,"Y Weiss, EH Adelson","Media Laboratory, Massachusetts Institute of Technology",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18344440449987264729,75,1995
+"Hierarchical, computationally efficient motion estimation algorithm (A)","JR Bergen, EH Adelson",Journal of the Optical Society of America A 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14992780132277776051,75,1987
+Measurement of shear and slip with a GelSight tactile sensor,"W Yuan, R Li, MA Srinivasan, EH Adelson","2015 IEEE International Conference on Robotics and Automation (ICRA), 304-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2436377420304813271,74,2015
+"Steerable filters for early vision, image analysis, and wavelet decomposition","WT Freeman, EH Adelson","[1990] Proceedings Third International Conference on Computer Vision, 406-415",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15462955965386118212,74,1990
+Localization and manipulation of small parts using gelsight tactile sensing,"R Li, R Platt, W Yuan, A ten Pas, N Roscup, MA Srinivasan, E Adelson",2014 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13715771775117956933,71,2014
+Accuracy and speed of material categorization in real-world images,"L Sharan, R Rosenholtz, EH Adelson","Journal of vision 14 (9), 12-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2458968830173001365,68,2014
+Statistics of real-world illumination,"RO Dror, TK Leung, EH Adelson, AS Willsky",Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13998162352544566436,65,2001
+Layered representations for image coding,EH Adelson,"Vision and Modeling Group, Media Laboratory, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1459076870243872964,64,1991
+Gelsight: High-resolution robot tactile sensors for estimating geometry and force,"W Yuan, S Dong, E Adelson","Sensors 17 (12), 2762",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13670332711691750105,60,2017
+ScribbleBoost: Adding Classification to Edge‐Aware Interpolation of Local Image and Video Adjustments,"Y Li, E Adelson, A Agarwala","Computer Graphics Forum 27 (4), 1255-1264",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2634297201861428428,59,2008
+Recognition of surface reflectance properties from a single image under unknown real-world illumination,"RO Dror, EH Adelson, AS Willsky",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11490079444611105563,58,2001
+Understanding the role of phase function in translucent appearance,"I Gkioulekas, B Xiao, S Zhao, EH Adelson, T Zickler, K Bala","ACM Transactions on graphics (TOG) 32 (5), 147",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11385232954688435001,57,2013
+The feeling of success: Does touch sensing help predict grasp outcomes?,"R Calandra, A Owens, M Upadhyaya, W Yuan, J Lin, EH Adelson, ...",arXiv preprint arXiv:1710.05512,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13290564523378360625,54,2017
+Binocular disparity and the computation of two-dimensional motion (A),"EH Adelson, JA Movshon",Journal of the Optical Society of America A 1,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9307934541338067269,54,1984
+Sensing and recognizing surface textures using a gelsight sensor,"R Li, EH Adelson",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=831646649256605945,53,2013
+System for ascertaining direction of blur in a range-from-defocus camera,"B Girod, EH Adelson","US Patent 4,965,442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8885341098509353603,53,1990
+The plenoptic function and the elements of early vision. Computational Models of Visual Processing,"EH Adelson, JR Bergen","International Jour-nal of Computer Vision, 20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12408426832953860089,52,1991
+The analysis of visual moving patterns,"JA Movshon, EH Adelson, MS Gizzi, WT Newsome","Pattern recognition mechanisms, 117-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11511398034793485926,51,1985
+Bayesian motion estimation and segmentation,Y Weiss,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5325011575163695983,48,1998
+Learning visual groups from co-occurrences in space and time,"P Isola, D Zoran, D Krishnan, EH Adelson",arXiv preprint arXiv:1511.06811,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13918962029728972303,47,2015
+"deForm: an interactive malleable surface for capturing 2.5 D arbitrary objects, tools and touch","S Follmer, M Johnson, E Adelson, H Ishii",Proceedings of the 24th annual ACM symposium on User interface software and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3929234497687580967,47,2011
+Synchrony does not promote grouping in temporally structured displays,"H Farid, EH Adelson","Nature Neuroscience 4 (9), 875",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9592653699494813940,47,2001
+More than a feeling: Learning to grasp and regrasp using vision and touch,"R Calandra, A Owens, D Jayaraman, J Lin, W Yuan, J Malik, EH Adelson, ...","IEEE Robotics and Automation Letters 3 (4), 3300-3307",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3717274151525759408,46,2018
+Adventures with gelatinous ellipses—constraints on models of human motion analysis,"Y Weiss, EH Adelson","Perception 29 (5), 543-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5607030010242756136,46,2000
+Visual texture segmentation based on energy measures (A),"JR Bergen, EH Adelson","J. Opt. Soc. Am. A, vol. 3, page P99 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4125122236230185474,45,1986
+Shape-independent hardness estimation using deep learning and a gelsight tactile sensor,"W Yuan, C Zhu, A Owens, MA Srinivasan, EH Adelson","2017 IEEE International Conference on Robotics and Automation (ICRA), 951-958",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1399728542680000189,44,2017
+Subband image coding with three-tap pyramids,"EH Adelson, EP Simoncelli","Picture Coding Symposium, 1-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9938104597168783157,43,1990
+Layered representations for vision and video,EH Adelson,Proceedings IEEE Workshop on Representation of Visual Scenes (In Conjunction …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16077005710923571061,42,1995
+"Some new motion illusions, and some old ones, analysed in terms of their Fourier components",EH Adelson,"Invest. Ophthal. Vis. Sci. 34, 144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8261041692492336129,42,1982
+Looking against the light: How perception of translucency depends on lighting direction,"B Xiao, B Walter, I Gkioulekas, T Zickler, E Adelson, K Bala","Journal of vision 14 (3), 17-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6730404911178598186,41,2014
+Visual persistence without the rods.,EH Adelson,Perception & Psychophysics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=801356445422527467,41,1979
+Improved gelsight tactile sensor for measuring geometry and slip,"S Dong, W Yuan, EH Adelson",2017 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7722826638107372925,40,2017
+Discovering states and transformations in image collections,"P Isola, JJ Lim, EH Adelson",Proceedings of the IEEE conference on computer vision and pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18104632241500220960,40,2015
+Estimating surface reflectance properties from images under unknown illumination,"RO Dror, EH Adelson, AS Willsky","Human Vision and Electronic Imaging VI 4299, 231-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15410582748954011208,39,2001
+Connecting look and feel: Associating the visual and tactile properties of physical materials,"W Yuan, S Wang, S Dong, E Adelson",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6976714623274700756,38,2017
+Analysis of contour motions,"C Liu, WT Freeman, EH Adelson","Advances in Neural Information Processing Systems, 913-920",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11781109948212621554,38,2007
+Applying mid-level vision techniques for video data compression and manipulation,"J Wang, EH Adelson",Digital Video Compression on Personal Computers: Algorithms and Technologies …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13049069478713065008,38,1994
+Pyramids and multiscale representations,"E Adelson, E Simoncelli, WT Freeman","Representations and Vision, Gorea A.,(Ed.). Cambridge University Press …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9085751681870904395,38,1991
+Mechanisms for motion perception,E Adelson,"Optics and Photonics News 2 (8), 24-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3832361806244688512,36,1991
+Iconic storage: The role of rods,EH Adelson,"Science 201 (4355), 544-546",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14532057545901236401,36,1978
+Computing optical flow distributions using spatio-temporal filters,"EP Simoncelli, EH Adelson","Vision and Modeling Group, Media Laboratory, Massachusetts Institute of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8422782940479733284,35,1991
+Tactile sensor using elastomeric imaging,EH Adelson,"US Patent 8,411,140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6377730588144004351,34,2013
+The geometry of the occluding contour and its effect on motion interpretation,"J McDermott, EH Adelson","Journal of Vision 4 (10), 9-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5191325587018408743,34,2004
+Tracking objects with point clouds from vision and touch,"G Izatt, G Mirano, E Adelson, R Tedrake","2017 IEEE International Conference on Robotics and Automation (ICRA), 4000-4007",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=617875469525944142,32,2017
+Filtering reveals form in temporally structured displays,"EH Adelson, H Farid","Science 286 (5448), 2231-2231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12173290968672186487,32,1999
+Vision with equiluminant colour contrast: 2. A large-scale technique and observations,"P Cavanagh, EH Adelson, P Heard","Perception 21 (2), 219-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17059348377125578738,32,1992
+The perception of coherent motion in two-dimensional patterns,"EH Adelson, JA Movshon",Proceedings of the ACM Siggraph Interdisciplinary Workshop on Motion …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1817905185291573590,8237690678251910157",32,1983
+"GelSlim: A High-Resolution, Compact, Robust, and Calibrated Tactile-sensing Finger","E Donlon, S Dong, M Liu, J Li, E Adelson, A Rodriguez",2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6281667424618919264,30,2018
+Band-sifting decomposition for image-based material editing,"I Boyadzhiev, K Bala, S Paris, E Adelson","ACM Transactions on Graphics (TOG) 34 (5), 163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5590643502472778668,28,2015
+How do humans determine reflectance properties under unknown illumination?,"RW Fleming, RO Dror, EH Adelson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14436259664802121690,28,2001
+Layered representation for image sequence coding,"JYA Wang, EH Adelson","1993 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7949697359059451078,28,1993
+Surface reflectance estimation and natural illumination statistics,"RO Dror, EH Adelson, AS Willsky",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11456136486680756460,27,2001
+Channel-compatible 6-MHz HDTV distribution systems,"WF Schreiber, AB Lippman, AN Netravali, EH Adelson, DH Staelin",Television Technology in Transition: 22nd Annual SMPTE Television Conference …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1410530027689814852,27,1988
+Estimating object hardness with a gelsight touch sensor,"W Yuan, MA Srinivasan, EH Adelson",2016 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7851841341676276601,24,2016
+Can you see what you feel? Color and folding properties affect visual–tactile material discrimination of fabrics,"B Xiao, W Bi, X Jia, H Wei, EH Adelson","Journal of vision 16 (3), 34-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7563624734347073260,24,2016
+Steerable filters.,"WT Freeman, EH Adelson",Optical Society of America Conference on Image Understanding and Machine …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7381745954009613040,24,1989
+Image statistics and surface perception,EH Adelson,"Human vision and electronic imaging XIII 6806, 680602","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14741821846625003952,13511527508900147733",23,2008
+Method for compensating for void-defects in images,"PJ Burt, EH Adelson","US Patent 4,698,843",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12407047203865705947,23,1987
+The delayed rod afterimage,EH Adelson,"Vision Research 22 (10), 1313-1328",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8245923640677942665,23,1982
+Method and apparatus for enhancing images using helper signals,"B Girod, EH Adelson","US Patent 5,818,972",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18109054350725369789,20,1998
+Single-eye range estimation by using displaced apertures with color filters,"Y Amari, EH Adelson",Proceedings of the 1992 International Conference on Industrial Electronics …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18159315752024391135,20,1992
+Visual wetness perception based on image color statistics,"M Sawayama, EH Adelson, S Nishida","Journal of vision 17 (5), 7-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6111880657762792752,19,2017
+Playing with puffball: simple scale-invariant inflation for use in vision and graphics,"NR Twarog, MF Tappen, EH Adelson","Proceedings of the ACM symposium on applied perception, 47-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10880303402467132290,18,2012
+Do colored highlights look like highlights?,"S Nishida, I Motoyoshi, L Nakano, Y Li, L Sharan, E Adelson","Journal of Vision 8 (6), 339",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14391343043384191110,18,2008
+Junctions and cost functions in motion interpretation,"J McDermott, EH Adelson","Journal of Vision 4 (7), 3-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8873375761922790882,18,2004
+"Junctions, transparency, and brightness","DC Somers, EH Adelson","Investigative Ophthalmology & Visual Science 38 (4), 2126-2126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=641240782972653289,17,1997
+Motion estimation and segmentation using a recurrent mixture of experts architecture,"Y Weiss, EH Adelson",Proceedings of 1995 IEEE Workshop on Neural Networks for Signal Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14990392997637324143,17,1995
+Slip detection with combined tactile and visual information,"J Li, S Dong, E Adelson","2018 IEEE International Conference on Robotics and Automation (ICRA), 7772-7777",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=815040081166678304,16,2018
+Vitac: Feature sharing between vision and tactile sensing for cloth texture recognition,"S Luo, W Yuan, E Adelson, AG Cohn, R Fuentes","2018 IEEE International Conference on Robotics and Automation (ICRA), 2722-2727",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13399639132713659456,16,2018
+A compatible high-definition television system using the noise-margin method of hiding enhancement information,"WF Schreiber, EH Adelson, AB Lippman, G Rongshu, P Monta, A Popat, ...","SMPTE journal 98 (12), 873-879",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13436751342004474294,16,1989
+Directional movement selectivity in cortical complex cells,"JA Movshon, ET Davis, EH Adelson","Soc. Neurosci. Abs 6, 670",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4648401651277741512,16,1980
+"Shapecollage: Occlusion-aware, example-based shape interpretation","F Cole, P Isola, WT Freeman, F Durand, EH Adelson","European Conference on Computer Vision, 665-678",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12942683090411222846,15,2012
+Straightness as a cue for luminance edge interpretation,"AD Logvinenko, EH Adelson, DA Ross, D Somers","Perception & psychophysics 67 (1), 120-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15747356123941381517,15,2005
+Subband texture synthesis for image coding,"SY Yoon, EH Adelson","Human Vision and Electronic Imaging III 3299, 489-497",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5459164415029965127,15,1998
+"3d shape perception from monocular vision, touch, and shape priors","S Wang, J Wu, X Sun, W Yuan, WT Freeman, JB Tenenbaum, EH Adelson",2018 IEEE/RSJ International Conference on Intelligent Robots and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1586673582718699409,14,2018
+Active clothing material perception using tactile sensing and deep learning,"W Yuan, Y Mo, S Wang, EH Adelson","2018 IEEE International Conference on Robotics and Automation (ICRA), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1854899584027713162,14,2018
+Shape from sheen,"RW Fleming, A Torralba, EH Adelson","Three dimensional shape perception. Q. Zaidi,(Ed.) Springer",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1904665737402309796,14,2009
+Luminance re-mapping for the control of apparent material,"I Motoyoshi, S Nishida, EH Adelson",Proceedings of the 2nd symposium on Applied perception in graphics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18095621333627962417,14,2005
+"RELATIONSHIP BETWEEN GRADIENT, SPATIOTEMPORAL ENERGY, AND REGRESSION-MODELS FOR MOTION PERCEPTION","EP Simoncelli, EH Adelson","Investigative Ophthalmology & Visual Science 32 (4), 893-893",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1929348940431506909,13,1991
+Study group on pattern recognition mechanisms,"JA Movshon, EA Adelson, M Gizzi, WT Newsome",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3920551839607479139,13,1985
+The temporal integration of 3-D structure from motion: A computational and psychophysical study,"NM Grzywacz, EC Hildreth, VK Inada, EH Adelson","Organization of neural networks, 239-259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9282276584902690510,12,1988
+On the appearance of translucent edges,"I Gkioulekas, B Walter, EH Adelson, K Bala, T Zickler",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3898041577818969132,11,2015
+Lump detection with a gelsight sensor,"X Jia, R Li, MA Srinivasan, EH Adelson","2013 World Haptics Conference (WHC), 175-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7055211250485296167,11,2013
+Perceptually based range compression for high dynamic range images,"Y Li, L Sharan, EH Adelson","Journal of Vision 5 (8), 598-598",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13407267189986837242,11,2005
+A computational model for perception of two-dimensional pattern velocities,"EP Simoncelli, DJ Heeger, EH Adelson",Investigative Opthamology and Vision Research 33,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6244373544296710281,11,1992
+Mid-level vision: New directions in vision and video,"EH Adelson, JYA Wang, SA Niyogi","Proceedings of 1st International Conference on Image Processing 2, 21-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7642028334596468862,10,1994
+"Checkershadow Illusion, 1995",EH Adelson,URL http://web. mit. edu/persci/people/adelson/checkershadow_illusion. html,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15992630153821254088,9,2016
+High-resolution surface measurement systems and methods,"EH Adelson, MK Johnson","US Patent 9,127,938",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16696020117276512743,9,2015
+THE RECOVERY OF 3-D SHAPES FROM 2-D WIREFRAME DRAWINGS,"P Sinha, EH Adelson","Investigative Ophthalmology & Visual Science 33 (4), 825-825",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6402901098212299861,9,1992
+Probability distributions of optical flow,"EH Adelson, EP Simoncelli, DJ Heeger","IEEE Conf. Comput. Vision and Pattern Recognition, 310315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17257586873938471808,9,1991
+Single-Channel Backward-Compatible EDTV Systems,"AB Lippmanny, AN Netravali, EH Adelson, WR Neuman, WF Schreiber",Television Technology in Transition: 22nd Annual SMPTE Television Conference …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1216346024627748184,9,1988
+Experimental brain research supplementum ii: pattern recognition mechanisms,"JA Movshon, EH Adelson, MS Gizzi, WT Newsome",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7450469062851161706,3953083740555500301",9,1986
+Spatiotemporal energy models for the perception of motion (A),"EH Adelson, JR Bergen",Journal of the Optical Society of America (1917-1983) 73,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2817352449657391059,9,1983
+"NewsomeWT, 1985"" The analysis of moving visual patterns","JA Movshon, EH Adelson, MS Gizzi","Stud)'group on pattern recognition mechanisms, 117-1511",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16887035000492662539,9,0
+Motion perception and mid-level vision,"J McDermott, EH Adelson","The cognitive neurosciences III, 369-383",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3022876530283203304,8,2004
+Junction detection and classification,"WT Freeman, EH Adelson","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 32 (4), 1279-1279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8153344557079818389,8,1991
+Subband image coding with hexagonal quadrature mirror filters,"EP Simoncelli, EH Adelson",Picture Coding Symposium,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6770837980367242615,8,1990
+Nonseparable QMF pyramids,"EP Simoncelli, EH Adelson","Visual Communications and Image Processing IV 1199, 1242-1246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1506798684741973087,8,1989
+The perceptual buildup of three-dimensional structure from motion,"VK Inada, EC Hildreth, NM Grzywacz, EH Adelson","Invest. Ophthal. Visual Sci. Suppl 27, 142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11302948589539880765,8,1986
+What is iconic storage good for?,EH Adelson,"Behavioral and Brain Sciences 6 (1), 11-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18215248185432065105,8,1983
+Image statistics for material perception,"EH Adelson, Y Li, L Sharan","Journal of Vision 4 (8), 123-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13572047595078368667,7,2004
+How image statistics drive shape-from-texture and shape-from-specularity,"RW Fleming, A Torralba, RO Dror, EH Adelson","Journal of Vision 3 (9), 73-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13842343442065104323,7,2003
+Phenomenal coherence of moving gratings (A),"EH Adelson, JA Movshon",Journal of the Optical Society of America (1917-1983) 70,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1993481274086414698,7,1980
+Methods of and Systems for Three-Dimensional Digital Impression and Visualization of Objects Through an Elastomer,"J Rohaly, MK Johnson, EH Adelson","US Patent App. 14/056,817",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=413751699759429543,6,2014
+Image mapping using local and global statistics,"Y Li, E Adelson","Human Vision and Electronic Imaging XIII 6806, 680614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13160818078447958541,6,2008
+Adaptation to skewed image statistics alters the perception of glossiness and lightness,"I Motoyoshi, S Nishida, EH Adelson","Perception ECVP abstract 34, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8791477478833643027,6,2005
+Recovering shading and reflectance from a single image,MF Tappen,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12371225078625900374,6,2002
+Image statistics for 3D shape estimation,"R Fleming, Y Li, E Adelson","Journal of Vision 8 (6), 76-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17882184896448046794,5,2008
+Learning gaussian conditional random fields for low-level vision,"C Liu, EH Adelson, WT Freeman",In Proc. of CVPR,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9535667433535481937,5,2007
+Image statistics and reflectance estimation,"L Sharan, Y Li, EH Adelson","Journal of Vision 5 (8), 375-375",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4774055728130329545,5,2005
+Shadows are fuzzy and straight; paint is sharp and crooked,"EH Adelson, D Somers","Perception ECVP abstract 29, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15709445404002846812,5,2000
+Verifying the'consistency'of shading patterns and 3-D structures,"P Sinha, E Adelson","[1993] Proceedings IEEE Workshop on Qualitative Vision, 71-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13594176171178170730,5,1993
+Extended definition television systems,"AB Lippman, EH Adelson, WJ Butera","US Patent 5,003,377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11870181928625546236,5,1991
+"Phenomenal coherence of Barbas, H.(1988)","EH Adelson, JA Movshon",Anatomic organization of basoventral and medio,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16816323586501375369,5,1982
+Decay of rod signals following bright flashes (A),EH Adelson,"J. Opt. Soc. Am., vol. 67, page 1427 67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2241708033902112586,5,1977
+Sparkle vision: Seeing the world through random specular microfacets,"Z Zhang, P Isola, EH Adelson",arXiv preprint arXiv:1412.7884,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14973350208192277552,4,2014
+Non-oriented filters are better than oriented filters for skewness detection,"L Sharan, EH Adelson, I Motoyoshi, S Nishida","Perception ECVP abstract 36, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5522600665172921044,4,2007
+Surface perception and motion integration,"J McDermott, Y Weiss, EH Adelson","Investigative Ophthalmology & Visual Science 38 (4), 1108-1108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3023354397314235421,4,1997
+"In C. Chagas, R. Gattas, & DG Gross","A Movshon, EH Adelson, MS Gizzi, WT Newsome",Pattern recognition mechanisms,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10631054023440037269,4,1983
+Effects of shape and color on the perception of translucency,"B Xiao, I Gkioulekas, A Dunn, S Zhao, E Adelson, T Zickler, K Bala","Journal of Vision 12 (9), 948",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7854207532070552755,3,2012
+Eye movements for shape and material perception,"L Sharan, R Rosenholtz, EH Adelson","Journal of Vision 8 (6), 219-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8650768824257509703,3,2008
+Human visual perception under real-world illumination,RW Fleming,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=19757925553547892,3,2004
+Textural statistics and surface perception.,EH Adelson,"Journal of Vision 3 (9), 48-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16332663457518591938,3,2003
+Surface reflectance estimation under unknown natural illumination,"RW Fleming, RO Dror, EH Adelson","Journal of Vision 1 (3), 43-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16191055849720328009,3,2001
+"Straightness, structure, and shadows","E Adelson, D Somers","Journal of Vision 1 (3), 204-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3754009756171127073,3,2001
+Vector averaging as Bayesian IOC,"Y Weiss, EH Adelson","Investigative Ophthalmology & Visual Science 38 (4), 4358-4358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13912602039676242191,3,1997
+Kinetic occlusion,SA Niyogi,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13873245681983971077,3,1995
+Remote influences on brightness illusions,EH Adelson,"Investigative Ophthalmology & Visual Science 35 (4), 1490-1490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133917985392376469,3,1994
+A stereoscopic camera employing a single main lens,"EH Adelson, JYA Wang",Proceedings. 1991 IEEE Computer Society Conference on Computer Vision and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14944322540485119908,3,1991
+Pyramids for early vision,"EH Adelson, E Simoncelli, WT Freeman","Representations of vision, 3-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15422852312053534778,3,1991
+Image encoding with the Laplacian pyramid (A),"EH Adelson, PJ Burt",Journal of the Optical Society of America (1917-1983) 72,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14743803280477151158,3,1982
+Image data compression with the Laplacian pyramid,"PJ Burt, EH Adelson",Proc. IEEE Conf. Pattern Recognition and Image Processing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11004303821863655305,3,1981
+Bleaches as equivalent backgrounds and equivalent filters (A),EH Adelson,Journal of the Optical Society of America (1917-1983) 70,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3229850452635245607,3,1980
+Can you see what you feel? Tactile and visual matching of material properties of fabrics,"B Xiao, X Jia, E Adelson","Journal of Vision 13 (9), 197-197",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12669900688932096266,2,2013
+Interpreting line drawings of smooth shapes,"F Cole, F Durand, W Freeman, E Adelson","Journal of Vision 11 (11), 47-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16706316660342136291,2,2011
+The effect of color saturation and luminance contrast on color naturalness,"L Nakano, T Takeuchi, I Motoyoshi, Y Li, E Adelson, S Nishida","Journal of Vision 9 (8), 1040-1040",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17948726217403765722,2,2009
+Image statistics for surface reflectance estimation,"L Sharan, Y Li, EH Adelson","Journal of Vision 6 (6), 101-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10035553537403952688,2,2006
+Image statistics and the perception of surface reflectance,L Sharan,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8987638790667558510,2,2005
+Standard mechanisms can explain grouping in temporally synchronous displays,"H Farid, EH Adelson","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 41 (4), S438-S438",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12068938080521065827,2,2000
+Integration and segmentation of nonrigid motion,"Y Weiss, EH Adelson","Investigative Ophthalmology & Visual Science 36 (4), S228-S228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2677154538665961627,2,1995
+Adventures with gelatinous ellipses,"Y Weiss, EH Adelson","Perception 24, 31-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18206779356835080031,2,1995
+Recovering 3D shapes from 2D line-drawings,"P Sinha, E Adelson",Intelligent Robotics; Proceedings of the International Symposium on …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=274860713111948409,831880481890195338",2,1993
+Probabilistic contour analysis in a hypercolumn representation,"WT Freeman, EH Adelson","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 33 (4), 825-825",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11861714403308642847,2,1992
+"H., and William T",E Adelson,"Freeman,"" The Design and Use of Steerable Filters,"" IEEE T-PAMI 13, 891-906",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18063353385902702341,2,1991
+A DIFFERENT AFTEREFFECT OF MOTION-ALTERING PERCEIVED DIRECTION OF GRATINGS AND PLAIDS,"ACO LEW, EY Song, SR FRIEDMANHILL, EH Adelson, JM Wolfe","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 32 (4), 827-827",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3870460175768306458,2,1991
+Visual motion: algorithms for analysis and application,MA Sokolov,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12924192069898576031,2,1990
+Multi-resolution Splining Using a Pyramid Image Representation,"EH Adelson, PJ Burt","Applications of Digital Image Processing VI 432, 204-210",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5835390825495457362,2,1984
+Exoskeleton-covered soft finger with vision-based proprioception and exteroception,"Y She, SQ Liu, P Yu, E Adelson",arXiv preprint arXiv:1910.01287,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3146642214392259257,1,2019
+End-to-end pixelwise surface normal estimation with convolutional neural networks and shape reconstruction using GelSight sensor,"J Li, S Dong, EH Adelson","2018 IEEE International Conference on Robotics and Biomimetics (ROBIO), 1292 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12852146374448766685,1,2018
+SparkleVision: Seeing the world through random specular microfacets,"Z Zhang, P Isola, EH Adelson",Proceedings of the IEEE Conference on Computer Vision and Pattern …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11291272747129188680,1,2015
+Tactile sensor using elastomeric imaging,E Adelson,"US Patent App. 14/045,620",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14379190096700701893,1,2014
+Continuous contact-based three-dimensional measurement,"EH Adelson, MK Johnson, J Rohaly","US Patent App. 14/201,835",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10962615850922302596,1,2014
+Looking against the light: how perception of translucency depends on lighting direction and phase function,"B Xiao, B Walter, I Gkioukelas, T Zickler, E Adelson, K Bala","Journal of Vision 14 (10), 1316-1316",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13474231512170592397,1,2014
+Speed of Material vs. Object Recognition Depends upon Viewing Condition,"B Xiao, L Sharan, R Rosenholtz, E Adelson","Journal of Vision 11 (15), 19-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15244787184520697072,1,2011
+"Material recognition is fast, but not superfast","E Adelson, L Sharan, R Rosenholtz","Journal of Vision 11 (11), 402-402",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15351768915347667962,1,2011
+Personal photo enhancement using prior images,"N Joshi, W Matusik, EH Adelson, DJ Kriegman","ACM SIGGRAPH 2008 posters, 69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14068817916152453228,1,2008
+Image statistics as a determinant of reflectance perception,"I Motoyoshi, S Nishida, EH Adelson","Journal of Vision 5 (8), 569-569",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5260113153518708124,1,2005
+Material Perception,"EH Adelson, L Sharan, Y Li",CSAIL Research Abstract,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4865926618886787732,1,2005
+The computation of occlusion for motion perception,"J McDermott, Y Weiss, EH Adelson","Investigative Ophthalmology & Visual Science 41 (4), S544-S544",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10019031805963622075,1,2000
+Analyzing junctions with atmospheric transfer functions,EH Adelson,"Investigative Ophthalmology & Visual Science 40 (4), S987-S987",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18212006384664292830,1,1999
+Articulation and scene statistics,EH Adelson,"Perception ECVP abstract 28, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8206809887716673748,1,1999
+The computation of occlusion for motion perception,"J McDermott, Y Weiss, EH Adelson","Perception ECVP abstract 28, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=428068637988272628,1,1999
+What makes a good T junction?,"J McDermott, Y Weiss, EH Adelson","Perception ECVP abstract 27, 0-0",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6801479389930613801,1,1998
+Atmospheric boundaries in lightness perception,"EH Adelson, DC Somers","Perception 26 (1_suppl), 60-60",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8775793704146824715,1,1997
+Layers and alpha maps as visual representations,"EH Adelson, JYA Wang","Perception 25 (1_suppl), 5-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18209202200696934881,1,1996
+Interaction of multiple surface cues in motion grouping,"Y Weiss, EH Adelson","Perception 25 (1_suppl), 178-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13565184473077473322,1,1996
+"Layers, warps, and alpha maps in mid-level vision","EH Adelson, JYA Wang","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 37 (3), 2122-2122",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=194014112601464118,1,1996
+Integration and segmentation of non-rigid motion: a computational model,"Y Weiss, EH Adelson","Investigative Ophthalmology & Visual Science 37 (3), 3395-3395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14968351111735777337,1,1996
+A computational model for the integration of form and motion,"GT CHOU, EH ADELSON","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 34 (4), 1029-1029",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6646923617220820762,1,1993
+A Model of Transparent Motion Perception Using Layers,T DARREL,"Investigative Opthalmology and Visual Science Supplement (ARVO 1992) 33, 1142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4029015475336959727,1,1992
+""" The Plenoptic Function and the Elements of Early Vision"", Computational Models of Visual",EH ADELSON,"Processing, Chap. 1, Edited by M. Landy and JA Movshon",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10105474725792517277,1,1991
+Mechanisms for the detection of flicker and motion (A),"JR Bergen, EH Adelson","J. Opt. Soc. Am. A, vol. 2, page P96 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13195085874456782281,1,1985
+The response of the rod system to bright flashes of light.,EH Adelson,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6900246300264051811,1,1980
+Mathematics of afterimage discrimination (A),EH Adelson,Journal of the Optical Society of America (1917-1983) 69,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14785068514425073511,1,1979
+Cable Manipulation with a Tactile-Reactive Gripper,"Y She, S Wang, S Dong, N Sunil, A Rodriguez, E Adelson",arXiv preprint arXiv:1910.02860,,0,2019
+On Interpretation,MW Conkey,"The Oxford Handbook of the Archaeology and Anthropology of Rock Art, 25",,0,2018
+High-resolution surface measurement systems and methods,"EH Adelson, MK Johnson","US Patent 9,538,056",,0,2017
+Development of GelSight: A High-resolution Tactile Sensor for Measuring Geometry and Force,"W Yuan, S Dong, EH Adelson",,,0,2017
+"Motion, Early Vision, and the Plenoptic Function",EH Adelson,"Frontiers in Optics, FTh4I. 3",,0,2016
+Can you see what you feel,"B Xiao, W Bi, X Jia, H Wei, EH Adelson",Color and folding properties affect,,0,2016
+Talk abstract: Computational lighting design and band-sifting operators,"S Paris, I Boyadzhiev, K Bala, EH Adelson","2015 IEEE International Conference on Image Processing (ICIP), 36-37",,0,2015
+Modifying material appearance with bandsifting operators,"E Adelson, I Boyadzhiev, S Paris, K Bala","PERCEPTION 44, 85-85",,0,2015
+Tactile sensor using elastomeric imaging,E Adelson,"US Patent App. 14/045,594",,0,2015
+Tactile sensor using elastomeric imaging,E Adelson,"US Patent App. 14/045,668",,0,2015
+Technical Perspective Image Processing Goes Back to Basics,E Adelson,"COMMUNICATIONS OF THE ACM 58 (3), 80-80",,0,2015
+Image processing goes back to basics: technical perspective,E Adelson,"Communications of the ACM 58 (3), 80-80",,0,2015
+Tactile sensor using elastomeric imaging,E Adelson,"US Patent App. 14/045,647",,0,2014
+Puffball Part Segmentation: Psychophysical and Statistical Evaluation,"N Twarog, E Adelson","Journal of Vision 14 (10), 893-893",,0,2014
+Seeing in Shadeworld,"E Adelson, P Isola","Journal of Vision 14 (10), 719-719",,0,2014
+Tactile sensor using elastomeric imaging,E Adelson,"US Patent App. 13/971,456",,0,2014
+Looking against the light: how perception of,"B Xiao, B Walter, I Gkioulekas, T Zickler, E Adelson, K Bala",,,0,2014
+A unified approach to estimating shape from images,"P Isola, F Cole, B Freeman, F Durand, E Adelson","Journal of Vision 12 (9), 276-276",,0,2012
+Estimating material by estimating shape,"E Adelson, F Cole, P Isola, W Freeman, F Durand","Journal of Vision 12 (9), 946-946",,0,2012
+Tactile sensing using elastomeric sensors,XXS Jia,Massachusetts Institute of Technology,,0,2012
+User Alerts,"TN Cornsweet, AE Hendrickson, JG Robson, G Westheimer, RE Marc, ...","Journal of Vision 11, 1",,0,2011
+Segmenting 2D Shapes using 3D Inflation,"NR Twarog, EH Adelson, MF Tappen","Journal of Vision 11 (11), 851-851",,0,2011
+Visualizing and measuring detailed shape and texture with an elastomeric sensor,"EH Adelson, MK Johnson","Imaging Systems and Applications, JTuD2",,0,2011
+Surface Metrology using an Elastomeric Sensor,"MK Johnson, EH Adelson","Applied Industrial Optics: Spectroscopy, Imaging and Metrology, AITuB4",,0,2011
+A computational model for material recognition,"L Sharan, C Liu, R Rosenholtz, E Adelson","Journal of Vision 10 (7), 987-987",,0,2010
+Shape from Sheen,"EH Adelson, A Torralba, RW Fleming",,,0,2009
+"An interactive retrographic sensor for touch, texture, and shape","A Raj, MK Johnson, EH Adelson","ACM SIGGRAPH 2009 Emerging Technologies, 15",,0,2009
+The Perception of Surfaces and Materials,EH Adelson,"Color and Imaging Conference 2009 (1), 1-1",,0,2009
+Human-assisted motion annotation for real-world videos,"C Liu, E Adelson, W Freeman","Journal of Vision 8 (6), 679-679",,0,2008
+Image mapping using local and global statistics [6806-38],"Y Li, E Adelson","PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6806, 6806",,0,2008
+Image statistics and surface perception (Keynote Paper)[6806-01],EH Adelson,"PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING 6806, 6806",,0,2008
+Histogram skewness is useful and easily computed in neural hardware,"L Sharan, E Adelson, I Motoyoshi, S Nishida","Journal of Vision 7 (9), 966-966",,0,2007
+Imposing both local and global image statistics leads to perceptually improved superresolution,"Y Li, E Adelson","Journal of Vision 7 (9), 965-965",,0,2007
+Action recognition by learning mid-level motion features.,"J Yang, Z Ma, G Lin, L Gorelick, M Blank, E Shechtman, M Irani, R Basri, ...","Journal of Applied Sciences 14 (20), 2247-2253",,0,2007
+Where do you draw the lines?,"E Adelson, T Judd, F Durand","Perception ECVP abstract 36, 0-0",,0,2007
+Learning the statistics of illumination and reflectance,"EH Adelson, MF Tappen, WT Freeman, Y Li","Journal of Vision 6 (6), 102-102",,0,2006
+Blind measurement of blocking artifacts in images.,"I Abboud, I Abboud, PJ Burt, EH Adelson, R Castagno, S Marsi, ...","Information Technology Journal 5 (3), 532-540",,0,2005
+Probability density estimation based on SVM.,"Y Meng-Ning, LI Xiang-Jun, Z Xiao-Hong, KI Mikolajczyk, C Schmid, ...","Information Technology Journal 10 (11), 1615-1630",,0,2005
+"9.35 Sensation and Perception, Spring 2004",EH Adelson,,,0,2004
+Genericity and junctions in motion interpretation,"J McDermott, EH Adelson","Journal of Vision 3 (9), 480-480",,0,2003
+Energy versus synchrony in perceptual grouping,"H Farid, EH Adelson","Journal of Vision 2 (7), 703-703",,0,2002
+"Genericity, not junctions: Insights from moving crosses","J McDermott, EH Adelson, Y Weiss","Perception ECVP abstract 30, 0-0",,0,2001
+Using image statistics in material perception,"EH Adelson, R Fleming, R Dror","Perception ECVP abstract 30, 0-0",,0,2001
+Keynote Paper,EH Adelson,"Human Vision and Electronic Imaging 4299, 1",,0,2001
+Temporal dynamics reveal multiple mechanisms of brightness perception.,"DC Somers, KR Nichols, EH Adelson","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 41 (4), S956-S956",,0,2000
+"Buttons, bevels, and shadows.",EH Adelson,"INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 41 (4), S741-S741",,0,2000
+Amodal completion and depth segregation in motion integration,"J McDermott, Y Weiss, EH Adelson","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 40 (4), S390-S390",,0,1999
+TECHNICAL COMMENTS-Filtering Reveals Form in Temporally Structured Displays,"EH Adelson, H Farid","Science-International Edition-AAAS 286 (5448), 2361",,0,1999
+Image Processing-Separating reflections from images by use of independent component analysis,"H Farid, EH Adelson",Journal of the Optical Society of America-A-Optics Image Science and Vision …,,0,1999
+A simple Bayesian model predicts a complex set of motion phenomena,"EH Adelson, Y Weiss","Perception ECVP abstract 27, 0-0",,0,1998
+Doggone Dalmatian!,"P Sinha, E Adelson","Perception 26 (5), 667-667",,0,1997
+Early-visual features as determinants of perceived texture similarity,WT Neveitt,Massachusetts Institute of Technology,,0,1996
+The Modal Workshop,AD Jepson,,,0,1995
+Applying mid-level vision techniques for video data compression and manipulation [2187-11],"JYA Wang, EH Adelson","PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 116-116",,0,1994
+Spatio-temporal segmentation of video data [2182-12],"JYA Wang, EH Adelson","PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 120-120",,0,1994
+Optimal brightness patterns for 2-D optical flow,"EH Adelson, JL Prince","icassp, 225-228vol. 5",,0,1993
+"Motion, orientation, and early vision",EH Adelson,"Spatial Vision 7 (1), 88-88",,0,1993
+EXPLORING THE ARGYLE ILLUSION,EH ADELSON,"INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 33 (4), 1259-1259",,0,1992
+ELEMENTARY MEASUREMENTS IN VISION,"EH ADELSON, JR BERGEN","INVESTIGATIVE OPHTHALMOLOGY & VISUAL SCIENCE 32 (4), 1024-1024",,0,1991
+William T. Freeman Edward H. Adelson y,EH Adelson,,,0,1991
+PYRAMIDS FOR VISION AND IMAGE-PROCESSING,EH Adelson,"PERCEPTION 19 (3), 325-325",,0,1990
+Bildbehandlingsssystem.,"CR Carlson, EH Adelson, CH Anderson",,,0,1989
+WHITAKER COLLEGE,"CM No, EC Hildreth, NM Grzywacz, EH Adelson, VK Inada",,,0,1989
+Efficient image coding with QMF pyramids (A),"E Simoncelli, EH Adelson, R Hingorani","J. Opt. Soc. Am. A, vol. 4, page P71 4",,0,1987
+QMF pyramids: a new class of orthogonal pyramid transform (A),"EH Adelson, E Simoncelli","J. Opt. Soc. Am. A, vol. 4, page P71 4",,0,1987
+Visual mechanisms and visual illusions (A),EH Adelson,"J. Opt. Soc. Am. A, vol. 4, page P62 4",,0,1987
+MINC: A gridding program based on minimum curvature.,"GC Onyedim, RJ Blakely, RW Simpson, JM Boesse, OO Ocan, J Canny, ...","Journal of Applied Sciences 7 (2), 1494-1498",,0,1986
+Improved system for coring an image-representing signal,"CR Carlson, EH Adelson, CH Anderson",,,0,1985
+Manipulating image information with pyramids (A),"EH Adelson, PJ Burt",Journal of the Optical Society of America A 2,,0,1985
+"75 Inventor: Jerome M. Shapiro, Philadelphia, Pa.","EH Adelson, E Simoncelli, RH SPIE",Research & Development 28 (2),,0,1984
+"Chromokinetic effect: a surprising interaction of color, luminance, and motion (A)","JR Bergen, EH Adelson",Journal of the Optical Society of America A 1,,0,1984
+Nonlinear scale for plotting color-matching functions,EH Adelson,"JOSA 71 (2), 201-203",,0,1981
+KEY TO INDEX USE,"JB Abshire, N Acquista, J See Reader, EH Adelson, J Agostinelli, ...","Transformation 50, 487",,0,1739
+Cloth Texture Recognition using Vision and Tactile Sensing,"S Luo, W Yuan, E Adelson, AG Cohn, R Fuentes",,,0,0
+The Perceptual Buildup of Three-Dimensional Structure,"EC Hildreth, NM Grzywacz, EH Adelson, VK Inada",,,0,0
+On the Appearance of Translucent Edges: Supplementary Material,"I Gkioulekas, S Harvard, B Walter, EH Adelson, K Bala, T Zickler",,,0,0
+The Recognition of Material Properties for Vision and Video Communication MIT2000-02,EH Adelson,,,0,0
+Can you see what you feel? Color and folding properties affect material discrimination of fabrics,"B Xiao, W Bi, X Jia, H Wei, EH Adelson",,,0,0
+Research Abstracts-2007,"C Liu, WT Freeman, EH Adelson",,,0,0
+Crisp Boundary Detection Using Pointwise Mutual Information–Supplementary Material,"P Isola, D Zoran, D Krishnan, EH Adelson",,,0,0
+"ARAI, Y. 531 ARAKI, M. 639 ARASE, M. 521 ARAVENA, JL 189 ARCE, GR 187","RS ACHARYA, EH ADELSON, M ADJOUADI, G ADORNI, JK AGGARWAL, ...",,,0,0
+Analysis of Contour Motions,CLWT Freeman,,,0,0
+Brain and Cognitive Sciences (9)-Archived Research and Teaching Output of the MIT Community,"E Gibson, R Rosenholtz, A Oliva, G Schneider, SL Chorover, J Ristic",,,0,0
+The MIT Media Laboratory The MIT Media Laboratory Dept. Elec. Eng. and Comp. Sci. Dept. Brain and Cognitive Sciences Massachusetts Institute of Technology Massachusetts …,"JYA Wang, EH Adelson",,,0,0
+"Aanjaneya, Mridul","M Abe, KT Abou-Moustafa, GD Abowd, WC Abraham, R Abugharbieh, ...",,,0,0
+MIT Media Lab Vision and Modeling Group Technical Report No. 223 Analyzing and Recognizing Walking Figures in XYT,"SA Niyogi, EH Adelson",,,0,0
+llndex of Authors,"E Adelson, P Anandan, K Astriim, J Bergen, S Carlsson, C Dyer, K Hanna, ...",,,0,0
+"AI Memo No. 1141 August, 1989 CBIP Memo No. 20","EC Hildreth, NM Grzywacz, EH Adelson, VK Inada",,,0,0
+Research Abstracts-2006,"L Sharan, Y Li, EH Adelson",,,0,0
+A lapped directional transform for spectral image analysis and its,"T Aach, D Kunz, P Abry, P Flandrin, EH Adelson, CH Anderson, ...","j sp 6, 314-345",,0,0
+Acoustic Material Recognition,"S Cavaco, EH Adelson",,,0,0
+Estimating Surface Reflectance from Images,"RO Dror, EH Adelson",,,0,0
+Recovering Intrinsic Images with Gaussian Conditional Random Fields,"MF Tappen, WT Freeman, EH Adelson",,,0,0
+Lightness Perception and Lightness Illusions (Banquet Talk),EH Adelson,,,0,0
+Recovering Intrinsic Images,"MF Tappen, WT Freeman, EH Adelson",,,0,0

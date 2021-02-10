@@ -1,0 +1,153 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Tree-to-String Alignment Template for Statistical Machine Translation,"Y Liu, Q Liu, S Lin",ACL 2006,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8683308453323663525,405,2006
+Modeling Coverage for Neural Machine Translation,"Z Tu, Z Lu, Y Liu, X Liu, H Li",ACL 2016,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=894656013823838967,3847852403106053948",370,2016
+Minimum Risk Training for Neural Machine Translation,"S Shen, Y Cheng, Z He, W He, H Wu, M Sun, Y Liu",ACL 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13568140432319924245,235,2016
+Log-Linear Models for Word Alignment,"Y Liu, Q Liu, S Lin",ACL 2005,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4270871124380124966,131,2005
+Adversarial Training for Unsupervised Bilingual Lexicon Induction,"M Zhang, Y Liu, H Luan, M Sun",ACL 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1858752500147406961,103,2017
+Neural Machine Translation with Reconstruction,"Z Tu, Y Liu, L Shang, X Liu, H Li",AAAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1310099558617172101,99,2017
+Improving Tree-to-Tree Translation with Packed Forests,"Y Liu, Y Lü, Q Liu",ACL 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3907324274083528908,97,2009
+Semi-Supervised Learning for Neural Machine Translation,"Y Cheng, W Xu, Z He, W He, H Wu, M Sun, Y Liu",ACL 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4238720597816763796,96,2016
+Recursive Autoencoders for ITG-based Translation,"P Li, Y Liu, M Sun",EMNLP 2013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=399142427261570955,72,2013
+面向 Internet 的中文新词语检测,邹纲， 刘洋， 刘群， 孟遥， 于浩,"中文信息学报 18 (6), 2-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15949882972207091559,68,2004
+Forest-to-String Statistical Translation Rules,"Y Liu, Y Huang, Q Liu, S Lin",ACL 2007,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3394538482375661742,62,2007
+Earth Mover's Distance Minimization for Unsupervised Bilingual Lexicon Induction,"M Zhang, Y Liu, H Luan, M Sun",EMNLP 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8228362677106813515,59,2017
+Context Gates for Neural Machine Translation,"Z Tu, Y Liu, Z Lu, X Liu, H Li",Transactions of the Association for Computational Linguistics,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4677989351050388193,17140938682907783936",59,2017
+Visualizing and Understanding Neural Machine Translation,"Y Ding, Y Liu, H Luan, M Sun",ACL 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6029143337933047130,56,2017
+Discriminative Word Alignment by Linear Modeling,"Y Liu, Q Liu, S Lin","Computational Linguistics 36 (3), 303-339",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6051859893335832083,52,2010
+Deep Learning in Natural Language Processing,"L Deng, Y Liu",Springer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14789435493214549942,51,2018
+Weighted Alignment Matrices for Statistical Machine Translation,"Y Liu, T Xia, X Xiao, Q Liu",EMNLP 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11797615918562563975,48,2009
+Learning Cross-Lingual Word Embeddings via Matrix Co-Factorization,"T Shi, Z Liu, Y Liu, M Sun",ACL 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14050205514563101433,46,2015
+A Teacher-Student Framework for Zero-Resource Neural Machine Translation,"Y Chen, Y Liu, Y Cheng, VOK Li",ACL 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13349008860652038472,45,2017
+Agreement-based Joint Training for Bidirectional Attention-based Neural Machine Translation,"Y Cheng, S Shen, Z He, W He, H Wu, M Sun, Y Liu",IJCAI 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7726998929707665947,39,2016
+Maximum Entropy based Rule Selection Model for Syntax-based Statistical Machine Translation,"Q Liu, Z He, Y Liu, S Lin",EMNLP 2008,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1764131071139727553,39,2008
+Asynchronous Bidirectional Decoding for Neural Machine Translation,"X Zhang, J Su, Y Qin, Y Liu, R Ji, H Wang",AAAI 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8717464809531813198,35,2018
+Lattice-Based Recurrent Neural Network Encoders for Neural Machine Translation,"J Su, Z Tan, D Xiong, R Ji, X Shi, Y Liu",AAAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12725320580764597995,35,2017
+A Neural Reordering Model for Phrase-based Translation,"P Li, Y Liu, M Sun, T Izuha, D Zhang",COLING 2014,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5600079890667512899,35,2014
+Contrastive Unsupervised Word Alignment with Non-Local Features,"Y Liu, M Sun",AAAI 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4225989016491723740,33,2015
+Joint Decoding with Multiple Translation Models,"Y Liu, H Mi, Y Feng, Q Liu",ACL 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10406422504815729579,33,2009
+Learning to remember translation history with a continuous cache,"Z Tu, Y Liu, S Shi, T Zhang","Transactions of the Association for Computational Linguistics 6, 407-420",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417021458385953863,32,2018
+Dependency Forest for Statistical Machine Translation,"Z Tu, Y Liu, YS Hwang, Q Liu, S Lin",COLING 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9406339407821741928,31,2010
+Internet-oriented Chinese new words detection,"G Zou, Y Liu, Q Liu, Y Meng, H Yu, F Nishino, SY Kang","Journal of Chinese information processing 18 (6), 1-9",,31,2004
+Internet-Oriented Chinese New Words Detection,"G Zou, Y Liu, Q Liu, Y Meng, H Yu, F Nishino, SY Kang","Journal of Chinese information processing 18 (6), 1-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9946479992303912265,31,2004
+Joint Training for Pivot-based Neural Machine Translation,"Y Cheng, Q Yang, Y Liu, M Sun, W Xu",IJCAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11174626133676084798,29,2017
+Lattice-based System Combination for Statistical Machine Translation,"Y Feng, Y Liu, H Mi, Q Liu, Y Lü",EMNLP 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13383800145077809877,29,2009
+Prior Knowledge Integration for Neural Machine Translation using Posterior Regularization,"J Zhang, Y Liu, H Luan, J Xu, M Sun",ACL 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17597412589011276495,27,2017
+Towards Robust Neural Machine Translation,"Y Cheng, Z Tu, F Meng, J Zhai, Y Liu",ACL 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13572592499424174633,26,2018
+Improving the Transformer Translation Model with Document-Level Context,"J Zhang, H Luan, M Sun, FF Zhai, J Xu, M Zhang, Y Liu",EMNLP 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4354196623240525876,24,2018
+THUMT: An Open Source Toolkit for Neural Machine Translation,"J Zhang, Y Ding, S Shen, Y Cheng, M Sun, H Luan, Y Liu",arXiv preprint arXiv:1706.06415,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4801016179752040436,20,2017
+An Efficient Shift-Reduce Decoding Algorithm for Phrased-based Machine Translation,"Y Feng, H Mi, Y Liu, Q Liu",COLING 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16890563253492423176,20,2010
+A Hierarchy-to-Sequence Attentional Neural Machine Translation Model,"J Su, J Zeng, D Xiong, Y Liu, M Wang, J Xie","IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP) 26 (3 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10351991560872956204,19,2018
+Neural Machine Translation with Pivot Languages,"Y Cheng, Y Liu, Q Yang, M Sun, W Xu",arXiv preprint arXiv:1611.04928,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4646372008812061635,19,2016
+Joint Parsing and Translation,"Y Liu, Q Liu","COLING 2010, 707-715",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=693555178916640329,19,2010
+Sub-Sentence Division for Tree-based Machine Translation,"H Xiong, W Xu, H Mi, Y Liu, Q Liu",ACL 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4526123389595592176,19,2009
+Building Earth Mover's Distance on Bilingual Word Embeddings for Machine Translation,"M Zhang, Y Liu, H Luan, M Sun, T Izuha, J Hao",AAAI 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10787724557107708547,18,2016
+Bilingual Correspondence Recursive Autoencoders for Statistical Machine Translation,"J Su, D Xiong, B Zhang, Y Liu, J Yao, M Zhang",EMNLP 2015,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=448300420263487996,788676694828611023",17,2015
+An Extended GHKM Algorithm for Inducing λ-SCFG,"P Li, Y Liu, M Sun",AAAI 2013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13598479252937339433,16,2013
+Combining Multiple Alignments to Improve Machine Translation,"Z Tu, Y Liu, Y an He, J van Genabith, Q Liu, S Lin",COLING 2012,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8626988499438275699,16,2012
+Zero-Resource Neural Machine Translation with Multi-Agent Communication Game,"Y Chen, Y Liu, VOK Li",AAAI 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13902575159717479954,15,2018
+Adjoining Tree-to-String Translation,"Y Liu, Q Liu, Y Lü",ACL 2011,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14502639531156110549,15,2011
+Joint Tokenization and Translation,"X Xiao, Y Liu, YS Hwang, Q Liu, S Lin",COLING 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16324475351872651413,15,2010
+Bilingual Lexicon Induction From Non-Parallel Data With Minimal Supervision,"M Zhang, H Peng, Y Liu, H Luan, M Sun",AAAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6351287463037630922,14,2017
+Exploiting Unlabeled Data for Neural Grammatical Error Detection,"ZR Liu, Y Liu","Journal of Computer Science and Technology 32 (4), 758-767","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=364505654466815967,4478177714648073987",13,2017
+Maximum Expected Likelihood Estimation for Zero-Resource Neural Machine Translation,"H Zheng, Y Cheng, Y Liu",IJCAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8742684674953684271,13,2017
+2005 统计机器翻译研讨班研究报告,徐波， 史晓东， 刘群， 宗成庆， 庞薇， 陈振标， 杨振东， 魏玮， 杜金华， ...,"中文信息学报 20 (5), 1-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=710289013643302935,12,2006
+语言计算的重要国际前沿,孙茂松， 刘挺， 姬东鸿， 穗志方， 赵军， 张钹， 吾守尔· 斯拉木， 俞士汶， ...,"中文信息学报 28 (1), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13149818413207861820,11,2014
+Query Lattice for Translation Retrieval,"M Dong, Y Cheng, Y Liu, J Xu, M Sun, T Izuha, J Hao",COLING 2014,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14150338987785572338,11,2014
+A Context-Aware Topic Model for Statistical Machine Translation,"J Su, D Xiong, Y Liu, X Han, H Lin, J Yao, M Zhang",ACL 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6531798163808842888,10,2015
+Apparatus and method for decoding using joint tokenization and translation,"YS Hwang, SB Kim, CH Yin, X Xiao, Y Liu, Q Liu, S Lin","US Patent 8,543,376",,10,2013
+Apparatus and Method for Decoding using Joint Tokenization and Translation,"YS Hwang, SB Kim, CH Yin, X Xiao, Y Liu, Q Liu, S Lin","US Patent 8,543,376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13839098755838960740,10,2013
+ICT System Description for the 2006 TC-STAR Run# 2 SLT Evaluation,"Z He, Y Liu, D Xiong, H Hou, Q Liu",TC-STAR 2006 Workshop on Speech-to-Speech Translation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8548259684320451894,10,2006
+An EBMT System based on Word Alignment,"H Hou, D Dang, G Zou, H Yu, Y Liu, D Xiong, Q Liu",IWSLT 2004,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13736490100783863655,10,2004
+Fast Generation of Translation Forest for Large-Scale SMT Discriminative Training,"X Xiao, Y Liu, Q Liu, S Lin",EMNLP 2011,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13335061578209626853,8,2011
+Extracting Hierarchical Rules from a Weighted Alignment Matrix,"Z Tu, Y Liu, Q Liu, S Lin",IJCNLP 2011,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1936922076422011636,8,2011
+Multi-Domain Neural Machine Translation with Word-Level Domain Context Discrimination,"J Zeng, J Su, H Wen, Y Liu, J Xie, Y Yin, J Zhao",EMNLP 2018,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8725146157822620202,7,2018
+To Swap or Not to Swap? Exploiting Dependency Word Pairs for Reordering in Statistical Machine Translation,"C Hadiwinoto, Y Liu, HT Ng",AAAI 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7424268390827795108,7,2016
+Iterative Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora,"M Dong, Y Liu, H Luan, M Sun, T Izuha, D Zhang",IJCAI 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11020943381062058010,7,2015
+Learning Lexicalized Reordering Models from Reordering Graphs,"J Su, Y Liu, Y Lü, H Mi, Q Liu",ACL 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12909886334013252746,7,2010
+Design and Construction of HTRDP Corpus Resources for Chinese Language Processing and Intelligent Human-Machine Interaction,"YL Qian, SX Lin, Q Liu, Y Liu, H Liu, Y Xie","Chinese High Technology Letters 15 (1), 107-110","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14330515941186603615,1428291672777090689",7,2005
+Fuzzy Matching in Machine Translation Evaluation,"Y Liu, Q Liu, S Lin","Journal of Chinese Information Processing 3, 007","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16114057342598019931,4914741749903528433",7,2005
+An Introduction to Corpora Resources of 863 Program for Chinese Language Processing and Human-Machine Interaction,"Y Qian, S Lin, Y Zhang, Y Liu, H Liu, Q Liu",IJCNLP 2004,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9476793657522460942,16654899501118171242",7,2004
+Joint POS Tagging and Dependence Parsing With Transition-Based Neural Networks,"L Yang, M Zhang, Y Liu, M Sun, N Yu, G Fu","IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP) 26 (8 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7151274940856906162,6,2018
+神经机器翻译前沿进展,刘洋,"计算机研究与发展, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11607495075203714383,6,2017
+Listwise Ranking Functions for Statistical Machine Translation,"M Zhang, Y Liu, H Luan, M Sun","IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP) 24 (8 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4950366091998694940,6,2016
+Inducing Bilingual Lexica From Non-Parallel Data With Earth Mover’s Distance Regularization,"M Zhang, Y Liu, H Luan, Y Liu, M Sun",COLING 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7442971885961632428,6,2016
+Statistical Machine Translation Method using Dependency Forest,"YS Hwang, SB Kim, S Lin, Z Tu, Y Liu, Q Liu, CH Yin","US Patent App. 13/818,137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12854055062685720131,6,2013
+Unsupervised Discriminative Induction of Synchronous Grammar for Machine Translation,"X Xiao, D Xiong, Y Liu, Q Liu, S Lin",COLING 2012,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=949854410531820735,6,2012
+Left-to-Right Tree-to-String Decoding with Prediction,"Y Feng, Y Liu, Q Liu, T Cohn",EMNLP 2012,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8415428334971313999,6,2012
+Neural Network Methods for Natural Language Processing,"Y Liu, M Zhang","Computational Linguistics 44 (1), 193-195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15769664805064982022,5,2018
+Generalized Agreement for Bidirectional Word Alignment,"C Liu, Y Liu, H Luan, M Sun, H Yu",EMNLP 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16397965814716401886,5,2015
+A Beam Search Algorithm for ITG Word Alignment,"P Li, Y Liu, M Sun",COLING 2012,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7432954864506517333,5,2012
+Dependency-based Bracketing Transduction Grammar for Statistical Machine Translation,"J Su, Y Liu, H Mi, H Zhao, Y Lü, Q Liu",COLING 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9311862721880779073,5,2010
+Effective Constituent Projection across Languages,"W Jiang, Y Lü, Y Liu, Q Liu",COLING 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12437220795084458828,5,2010
+Tree-based and Forest-based Translation,"Y Liu, L Huang",Tutorial Abstracts of ACL 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10854503623263255989,5,2010
+A Joint Introduction to Natural Language Processing and to Deep Learning,"L Deng, Y Liu","Deep Learning in Natural Language Processing, 1-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8617878014653588225,4,2018
+Deep Learning in Machine Translation,"Y Liu, J Zhang","Deep Learning in Natural Language Processing, 147-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4548990052573414292,4,2018
+URL 模式与 HTML 结构相结合的平行网页获取方法,刘 奇， 刘 洋， 孙茂松,"中文信息学报 27 (3), 91-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420508394717437483,4,2013
+THUTR: A Translation Retrieval System,"C Liu, Q Liu, Y Liu, M Sun",COLING 2012,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6097561980930018084,4,2012
+ETS: An Error Tolerable System for Coreference Resolution,"H Xiong, L Song, F Meng, Y Liu, Q Liu, Y Lü","CoNLL 2011, 76-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4795168698092776340,4,2011
+The ICT Statistical Machine Translation Systems for the IWSLT 2009,"H Mi, Y Liu, T Xia, X Xiao, Y Feng, J Xie, H Xiong, Z Tu, D Zheng, Y Lü, ...",IWSLT 2009,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=848742413456726209,4,2009
+机器翻译评测介绍,黄瑾， 刘洋， 刘群,第二届全国少数民族青年自然语言处理学术研讨会,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11378496595089841100,4,2008
+树到串统计翻译模型研究,刘洋,博士学位论文. 中国科学院研究生院,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320519204192950403,4,2007
+The ICT Statistical Machine Translation Systems for IWSLT 2007,"Z He, H Mi, Y Liu, D Xiong, W Luo, Y Huang, Z Ren, Y Lu, Q Liu",IWSLT 2007,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7529022544120359523,4,2007
+2005 年度 863 信息检索评测方法研究和实施,张俊林， 刘洋， 孙乐， 刘群,"中文信息学报 20 (B03), 19-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10110575298877544124,4,2006
+Uyghur Morphological Segmentation with Bidirectional GRU Neural Networks,"A Halidanmu, C Yong, L Yang, S Maosong","Journal of Tsinghua University (Science and Technology) 57 (1), 1-6","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17980172094930044893,11675278512124700946",3,2017
+Learning Distributed Representations of Uyghur Words and Morphemes,"H Abudukelimu, Y Liu, X Chen, M Sun, A Abulizi",CCL/NLP-NABD 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8271947474818543652,3,2015
+A Shift-Reduce Parsing Algorithm for Phrase-based String-to-Dependency Translation,Y Liu,ACL 2013,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18319713080301960618,3,2013
+An Orientation Model for Hierarchical Phrase-based Translation,"X Xiao, J Su, Y Liu, Q Liu, S Lin",IALP 2011,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11047512573431764810,3,2011
+The ICT Statistical Machine Translation System for IWSLT 2010,"H Xiong, J Xie, H Yu, K Liu, W Luo, H Mi, Y Liu, Y Lü, Q Liu",IWSLT 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17572620197511094330,3,2010
+Synopsis alignment: Importing external text information for multi-model movie analysis,"M Li, Y Liu, YD Zhang, SX Lin",PCM 2008,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5894269653885494331,3,2008
+Shared-Private Bilingual Word Embeddings for Neural Machine Translation,"X Liu, DF Wong, Y Liu, LS Chao, T Xiao, J Zhu",ACL 2019,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12146948972852493232,2,2019
+Improving the Robustness of Speech Translation,"X Li, H Xue, W Chen, Y Liu, Y Feng, Q Liu",arXiv preprint arXiv:1811.00728,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17163867042689478662,2,2018
+Consistency-Aware Search for Word Alignment,"S Shen, Y Liu, H Luan, M Sun",EMNLP 2015,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15450073171317097391,2,2015
+Large-scale CCG Induction from the Groningen Meaning Bank,"S Beschke, Y Liu, W Menzel",ACL 2014 Workshop on Semantic Parsing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3447145214593006867,2,2014
+基于对偶分解的词语对齐搜索算法,沈世奇， 刘洋， 孙茂松,"中文信息学报 27 (4), 9-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3557521078501476563,2,2013
+面向层次短语翻译的词汇化调序方法研究,肖欣延， 刘洋， 刘群， 林守勋,"中文信息学报 26 (1), 37-41",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13643090756500222539,2,2012
+Maximum Rank Correlation Training for Statistical Machine Translation,"D Zheng, Y He, Y Liu, Q Liu",MT Summit,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18351518926815492519,2,2011
+Exploiting Reverse Target-Side Contexts for Neural Machine Translation via Asynchronous Bidirectional Decoding,"J Su, X Zhang, Q Lin, Y Qin, J Yao, Y Liu",Artificial Intelligence,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3835652862715719486,1,2019
+Statistical machine translation method using dependency forest,"YS Hwang, SB Kim, S Lin, Z Tu, Y Liu, Q Liu, CH Yin","US Patent 10,303,775","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12084477286142538125,11277878612463339765",1,2019
+Alignment-consistent recursive neural networks for bilingual phrase embeddings,"J Su, B Zhang, D Xiong, Y Liu, M Zhang","Knowledge-Based Systems 156, 1-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10132123385800938422,1,2018
+Error Analysis of Uyghur Name Tagging: Language-specific Techniques and Remaining Challenges,"H Abudukelimu, A Abulizi, B Zhang, X Pan, D Lu, H Ji, Y Liu",Proceedings of the Eleventh International Conference on Language Resources …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13572409297361501864,1,2018
+Neural Parse Combination,"LE Yang, MS Sun, Y Cheng, JC Zhang, ZH Liu, HB Luan, Y Liu","Journal of Computer Science and Technology 32 (4), 749-757",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2549674681776516677,1,2017
+Maximum Reconstruction Estimation for Generative Latent-Variable Models,"Y Cheng, Y Liu, W Xu",AAAI 2017,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6607901764282234781,1,2017
+Agreement-based Learning of Parallel Lexicons and Phrases from Non-Parallel Corpora,"C Liu, Y Liu, H Luan, M Sun, H Yu",ACL 2016,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4180246091331828925,1,2016
+Lattice-based Multi-granularity Name-Entity Machine Transliteration,"H YU, Z TU, Q LIU, Y LIU","Journal of Chinese Information Processing, 4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16280588569865532783,1,2013
+基于多粒度的英汉人名音译,于恒， 凃兆鹏， 刘群， 刘洋,"中文信息学报 27 (4), 16-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8742727292818896857,1,2013
+Forest-Based Semantic Role Labeling,"H Xiong, H Mi, Y Liu, Q Liu",AAAI 2010,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=948621971119531320,1,2010
+The ICT System Description for IWSLT 2008,"Y Liu, Z He, H Mi, Y Huang, Y Feng, W Jiang, Y Lu, Q Liu",IWSLT 2008,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12430544936927963774,1,2008
+Learning to Predict Explainable Plots for Neural Story Generation,"G Chen, Y Liu, H Luan, M Zhang, Q Liu, M Sun",arXiv preprint arXiv:1912.02395,,0,2019
+Latent Attribute Based Hierarchical Decoder for Neural Machine Translation,"X Liu, DF Wong, LS Chao, Y Liu","IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP) 27 …",,0,2019
+Neural Machine Translation with Explicit Phrase Alignment,"J Zhang, H Luan, M Sun, FF Zhai, J Xu, Y Liu",arXiv preprint arXiv:1911.11520,,0,2019
+Exploring Discriminative Word-Level Domain Contexts for Multi-domain Neural Machine Translation,"J Su, J Zeng, J Xie, H Wen, Y Yin, Y Liu",IEEE Transactions on Pattern Analysis and Machine Intelligence,,0,2019
+Iterative Dual Domain Adaptation for Neural Machine Translation,"J Zeng, Y Liu, Y Lu, Y Yin",EMNLP 2019,,0,2019
+Learning to Copy for Automatic Post-Editing,"X Huang, Y Liu, H Luan, J Xu, M Sun",EMNLP 2019,,0,2019
+Improving Back-Translation with Uncertainty-based Confidence Estimation,"S Wang, Y Liu, C Wang, H Luan, M Sun",EMNLP 2019,,0,2019
+Scaling the Training of Recurrent Neural Networks on Sunway TaihuLight Supercomputer,"O Li, W Zhao, X Huang, Y Chen, L Gan, H Yu, J Zhang, Y Liu, H Fu, ...","International Conference on Computational Science, 427-440",,0,2019
+Multi-Round Transfer Learning for Low-Resource NMT Using Multiple High-Resource Languages,"M Maimaiti, Y Liu, H Luan, M Sun",ACM Transactions on Asian and Low-Resource Language Information Processing …,,0,2019
+POS Tag-enhanced Coarse-to-fine Attention for Neural Machine Translation,"Y Yin, J Su, H Wen, J Zeng, Y Liu, Y Chen",ACM Transactions on Asian and Low-Resource Language Information Processing …,,0,2019
+Reducing Word Omission Errors in Neural Machine Translation: A Contrastive Learning Approach,"Z Yang, Y Cheng, Y Liu, M Sun",ACL 2019,,0,2019
+Bilingual lexicon induction from non-parallel corpora,"M ZHANG, Y LIU, M SUN","SCIENTIA SINICA Informationis 48 (5), 564-573",,0,2018
+THUUyMorph: 维吾尔语形态切分语料库,"H Abudukelimu, SUN Maosong, LIU Yang, A Abulizi","中文信息学报 32 (2), 81-86",,0,2018
+Epilogue: Frontiers of NLP in the Deep Learning Era,"L Deng, Y Liu","Deep Learning in Natural Language Processing, 309-326",,0,2018
+神经机器翻译系统在维吾尔语-汉语翻译中的性能对比,"H Abudukelimu, 刘洋, LIU Yang, 孙茂松, SUN Maosong",清华大学学报 (自然科学版),,0,2017
+Optimizing Non-Decomposable Evaluation Metrics for Neural Machine Translation,"S Shen, Y Liu, M Sun","Journal of Computer Science and Technology 32 (4), 796-804",,0,2017
+TsinghuaAligner: A Statistical Bilingual Word Alignment System,Y Liu,http://nlp.csai.tsinghua.edu.cn/~ly/systems/TsinghuaAligner/TsinghuaAligner.pdf,,0,2014
+Graph-based Lexicalized Reordering Models for Statistical Machine Translation,"J Su, Y Liu, Q Liu, H Dong","China Communications 11 (5), 71-82",,0,2014
+Topic-Aware Pivot Language Approach for Statistical Machine Translation,"J Su, X Shi, Y Huang, Y Liu, Q Wu, Y Chen, H Dong","Journal of Zhejiang University SCIENCE C 15 (4), 241-253",,0,2014
+层次短语翻译的神经网络调序模型,李鹏， 刘洋， 孙茂松,"清华大学学报: 自然科学版, 1529-1533",,0,2014
+Minimum Error Rate Training for Bilingual News Alignment,"C Wang, Y Liu, M Sun",CLSW 2013,,0,2013
+Fuzzy Matching for Tree-Based Machine Translation,"H Xiong, Y Liu, Q Liu","Journal of Chinese Information Processing 2, 015",,0,2011
+2011 全国机器翻译研讨会计算所系统描述,刘凯， 王志洋， 于惠， 孙萌， 宋林峰， 李佳正， 何晋一， 孟凡东， 刘洋， ...,机器翻译研究进展——第七届全国机器翻译研讨会论文集,,0,2011
+模糊匹配在树到串翻译模型中的应用,熊皓， 刘洋， 刘群,"中文信息学报 25 (002), 66-71",,0,2011
+Multilingual Machine Translation System,"Y Lü, Y Liu, Q Liu",IUCS 2010,,0,2010
+"Joint Tokenization, Parsing, and Translation",Y Liu,IUCS 2010,,0,2010
+Statistical Translation Model Based On Source Syntax Structure,"Q Liu, Y Liu, H Mi",PACLIC 2010,,0,2010
+The ICT Systems for CWMT 2009,"H Mi, Y Liu, T Xia, Y Feng, X Xiao, J Xie, Z Tu, H Xiong, D Zheng, Y Lü, ...",,,0,2009
+第五届全国机器翻译研讨会 2009 中国机器翻译研讨会计算所系统描述,米海涛， 刘群， 刘洋， 冯洋， 夏天， 肖欣延， 熊皓， 郑达奇， 涂兆鹏， 吕雅娟,,,0,2009
+基于 N-Gram 相似度的开发集选择,郑达奇， 涂兆鹏， 姜文斌， 米海涛， 刘洋， 刘群,CWMT 2009,,0,2009
+中国科学院研究生院博士学位论文,刘洋,,,0,2008
+中科院计算所 CWMT 2008 评测技术报告,刘洋， 米海涛， 冯洋， 夏天， 涂兆鹏， 吕雅娟， 刘群,机器翻译研究进展——第四届全国机器翻译研讨会论文集,,0,2008
+ACL2007 会议观感,刘群， 刘洋,"中文信息学报 21 (5), 136-138",,0,2007
+基模模型 n-best 解算,"Y Huang, Y Lü, Y Liu, Q Liu",JSCL 2007,,0,2007
+基于树到串对齐模板翻译模型的 n-best 解码算法,黄赟， 吕雅娟， 刘洋， 刘群,内容计算的研究与应用前沿——第九届全国计算语言学学术会议论文集,,0,2007
+基于句法的统计机器翻译研究,刘群， 熊德意， 刘洋,"中文信息处理前沿进展—中国中文信息学会二十五周年学术会议论文集, 北京, 416-423",,0,2006
+International Workshop on Spoken Language Translation (IWSLT) 2004,"H Hou, D Dang, G Zou, H Yu, Y Liu, D Xiong, Q Liu",IWSLT 2004,,0,2004

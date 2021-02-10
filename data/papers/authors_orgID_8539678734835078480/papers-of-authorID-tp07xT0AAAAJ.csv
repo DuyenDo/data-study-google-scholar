@@ -1,0 +1,343 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Computer architecture: a quantitative approach,"JL Hennessy, DA Patterson",Elsevier,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1612723352684465362,11412403545776539985",17550,2011
+Computer organization and design MIPS edition: the hardware/software interface,"DA Patterson, JL Hennessy",Newnes,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12989520073059988998,14226915635865573447,17209061124279567031,13262176726579616669,11963045180761489227,1221222557273832227,16760243238843394077",4768,2013
+Memory consistency and event ordering in scalable shared-memory multiprocessors,"K Gharachorloo, D Lenoski, J Laudon, P Gibbons, A Gupta, J Hennessy","ACM SIGARCH Computer Architecture News 18 (2SI), 15-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16432206008232742769,1639,1990
+The stanford dash multiprocessor,"D Lenoski, J Laudon, K Gharachorloo, WD Weber, A Gupta, J Hennessy, ...","Computer 25 (3), 63-79",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9746875445643175785,1336,1992
+The stanford flash multiprocessor,"J Kuskin, D Ofelt, M Heinrich, J Heinlein, R Simoni, K Gharachorloo, ...","ACM SIGARCH Computer Architecture News 22 (2), 302-313",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10127472346294934671,982,1994
+The directory-based cache coherence protocol for the DASH multiprocessor,"D Lenoski, J Laudon, K Gharachorloo, A Gupta, J Hennessy","ACM SIGARCH Computer Architecture News 18 (2SI), 148-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13719027031593814981,907,1990
+An evaluation of directory schemes for cache coherence,"A Agarwal, R Simoni, J Hennessy, M Horowitz","ACM SIGARCH Computer Architecture News 16 (2), 280-298","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4724159478595940888,12429796336343009262",788,1988
+SUIF: An infrastructure for research on parallelizing and optimizing compilers,"RP Wilson, RS French, CS Wilson, SP Amarasinghe, JM Anderson, ...","ACM Sigplan Notices 29 (12), 31-37",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14902992480374495867,701,1994
+The priority-based coloring approach to register allocation,"FC Chow, JL Hennessy","ACM Transactions on Programming Languages and Systems (TOPLAS) 12 (4), 501-536",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13200620068427401920,473,1990
+The physician and sexuality in Victorian America,"JS Haller, RM Haller",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=477131031625965184,430,1995
+An analytical cache model,"A Agarwal, J Hennessy, M Horowitz","ACM Transactions on Computer Systems (TOCS) 7 (2), 184-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2828211832701604499,413,1989
+Cache performance of operating system and multiprogramming workloads,"A Agarwal, J Hennessy, M Horowitz","ACM Transactions on Computer Systems (TOCS) 6 (4), 393-431",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7810097922256249718,350,1988
+Register allocation by priority-based coloring,"F Chow, J Hennessy","ACM Sigplan Notices 19 (6), 222-232",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12280102167644356151,332,1984
+Postpass code optimization of pipeline constraints,"J Hennessy, T Gross",ACM Trans. Program. Lang. Syst.;(United States) 3,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5193889470601100837,314,1983
+"Infrared ellipsometry on semiconductor layer structures: phonons, plasmons, and polaritons",M Schubert,Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5531370884009337929,63158708210632766,6950205684193756629,589318310058301221",312,2004
+Performance evaluation of memory consistency models for shared-memory multiprocessors,"K Gharachorloo, A Gupta, J Hennessy","ACM SIGARCH Computer Architecture News 19 (2), 245-257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15554205335523588480,308,1991
+"Load balancing and data locality in adaptive hierarchical N-body methods: Barnes-Hut, fast multipole, and radiosity","JP Singh, C Holt, T Totsuka, A Gupta, J Hennessy","Journal of Parallel and Distributed Computing 27 (2), 118-141",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10220295468522113467,303,1995
+Two techniques to enhance the performance of memory consistency models,"K Gharachorloo, A Gupta, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6538315777868380457,303,1991
+Efficient and exact data dependence analysis,"DE Maydan, JL Hennessy, MS Lam","ACM SIGPLAN Notices 26 (6), 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11509355685999182735,291,1991
+False sharing and spatial locality in multiprocessor caches,"J Torrellas, HS Lam, JL Hennessy","IEEE Transactions on Computers 43 (6), 651-663","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7540252784816087399,8253261698876779878",284,1994
+VLSI processor architecture,JL Hennessy,"IEEE Transactions on Computers, 1221-1246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4535483347483878732,281,1984
+Comparative evaluation of latency reducing and tolerating techniques,"A Gupta, J Hennessy, K Gharachorloo, T Mowry, WD Weber","ACM SIGARCH Computer Architecture News 19 (3), 254-263",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17158755704529357804,263,1991
+Multiprocessor Simulation and Tracing Using Tango.,"H Davis, SR Goldschmidt, JL Hennessy","ICPP (2) 91, 99-107",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8940488794050291025,259,1991
+The DASH prototype: Logic overhead and performance,"D Lenoski, J Laudon, T Joe, D Nakahira, L Stevens, A Gupta, J Hennessy","IEEE Transactions on Parallel & Distributed Systems, 41-61",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14362699289715238059,255,1993
+The DASH prototype: Implementation and performance,"D Lenoski, J Laudon, T Joe, D Nakahira, L Stevens, A Gupta, J Hennessy","ACM SIGARCH Computer Architecture News 20 (2), 92-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12799258133648512391,250,1992
+Hardware/software tradeoffs for increased performance,"J Hennessy, N Jouppi, F Baskett, T Gross, J Gill","ACM SIGARCH Computer Architecture News 10 (2), 2-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1231444761556830084,12667678861393382241",234,1982
+Compile-time partitioning and scheduling of parallel programs,"V Sarkar, J Hennessy",STANFORD UNIV CA COMPUTER SYSTEMS LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16001036673932528610,208,1987
+Vector microprocessors,"K Asanovic, J Wawrzynek","University of California, Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9708924328703849381,206,1998
+Performance tradeoffs in cache design,"S Przybylski, M Horowitz, J Hennessy",[1988] The 15th Annual International Symposium on Computer Architecture …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8383608973542987014,202,1988
+Symbolic debugging of optimized code,JL Hennessy,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1631314086779554460,194,1979
+Computer technology and architecture: An evolving interaction,"JL Hennessy, NP Jouppi","Computer 24 (9), 18-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17168779753834390951,190,1991
+The future of systems research,J Hennessy,"Computer 32 (8), 27-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4121214512014615820,184,1999
+The performance impact of flexibility in the Stanford FLASH multiprocessor,"M Heinrich, J Kuskin, D Ofelt, J Heinlein, J Baxter, JP Singh, R Simoni, ...","ACM SIGPLAN Notices 29 (11), 274-285",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10306860288229198009,182,1994
+Scaling parallel programs for multiprocessors: Methodology and examples,"JP Singh, JL Hennessy, A Gupta","Computer 26 (7), 42-50",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7606646092188092865,166,1993
+WSCLOCK—a simple and effective algorithm for virtual memory management,"RW Carr, JL Hennessy","ACM SIGOPS Operating Systems Review 15 (5), 87-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17462356990881671784,158,1981
+MIPS: a VLSI processor architecture,"J Hennessy, N Jouppi, F Baskett, J Gill","VLSI Systems and Computations, 337-346",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17742000417958085378,157,1981
+Analysis of cache performance for operating systems and multiprogramming,"A Agarwal, JL Hennessy",Kluwer Academic Publishers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4057174755723299905,151,1989
+FLASH vs.(simulated) FLASH: Closing the simulation loop,"J Gibson, R Kunz, D Ofelt, M Horowitz, J Hennessy, M Heinrich","ACM SIGARCH Computer Architecture News 28 (5), 49-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3079241167588797440,144,2000
+Partitioning parallel programs for macro-dataflow,"V Sarkar, J Hennessy",STANFORD UNIV CA COMPUTER SYSTEMS LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14742314497146767546,137,1986
+Optimizing delayed branches,"TR Gross, JL Hennessy","ACM SIGMICRO Newsletter 13 (4), 114-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8289401182956281914,134,1982
+SoftFLASH: Analyzing the performance of clustered distributed virtual shared memory,"A Erlichson, N Nuckolls, G Chesson, J Hennessy","ACM SIGPLAN Notices 31 (9), 210-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11997038791651802653,132,1996
+The accuracy of trace-driven simulations of multiprocessors,"SR Goldschmidt, JL Hennessy","ACM SIGMETRICS Performance Evaluation Review 21 (1), 146-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11977109210752280051,132,1993
+The performance advantages of integrating block data transfer in cache-coherent multiprocessors,"SC Woo, JP Singh, JL Hennessy","ACM SIGPLAN Notices 29 (11), 219-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10418420794735107724,131,1994
+Organização e Projeto de Computadores: a interface hardware/software,"JL Hennessy, DA Patterson",Elsevier Brasil,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12740777226278248719,8849666533464636493",130,2014
+Programming for different memory consistency models,"K Gharachorloo, SV Adve, A Gupta, JL Hennessy, MD Hill","Journal of parallel and distributed computing 15 (4), 399-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13559791040661671131,130,1992
+Estructura y diseño de computadores: interficie circuitería-programación,"DA Patterson, JL Hennessy",Reverté,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10088363410113171116,10524883862593358805",126,2000
+Characterizing the caching and synchronization performance of a multiprocessor operating system,"J Torrellas, A Gupta, J Hennessy","ACM SIGPLAN Notices 27 (9), 162-174",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12636789900641556148,126,1992
+Retargetable compiler code generation,"M Ganapathi, CN Fischer, JL Hennessy","ACM Computing Surveys (CSUR) 14 (4), 573-592",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10873094136527553327,126,1982
+Arquitetura de computadores: uma abordagem quantitativa,"JL Hennessy, D Patterson",Elsevier Brasil,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2828850946520857392,123,2014
+Sharlit—a tool for building optimizers,"SWK Tjiang, JL Hennessy","ACM SIGPLAN Notices 27 (7), 82-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2992214703731405828,122,1992
+Shared data placement optimizations to reduce multiprocessor cache miss rates,J Torrellas,"Proceedings of the 1990 International Conference on Parallel Processing, II …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11506716788448005365,119,1990
+A parallel adaptive fast multipole method,"JP Singh, C Holt, JL Hennessy, A Gupta",Supercomputing'93: Proceedings of the 1993 ACM/IEEE Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14508451800462121369,116,1993
+Mtool: An integrated system for performance debugging shared memory multiprocessor applications,"AJ Goldberg, JL Hennessy","IEEE Transactions on Parallel and Distributed Systems 4 (1), 28-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3006476551859518764,113,1993
+"MIPS-X: A 20-MIPS peak, 32-bit microprocessor with on-chip cache","M Horowitz, P Chow, D Stark, RT Simoni, A Salz, S Przybylski, ...","IEEE Journal of Solid-State Circuits 22 (5), 790-799",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17394391901823147567,108,1987
+Data locality and load balancing in COOL,"R Chandra, A Gupta, JL Hennessy","ACM SIGPLAN Notices 28 (7), 249-259",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6736908544158260957,103,1993
+Characteristics of performance-optimal multi-level cache hierarchies,"S Przybylski, M Horowitz, J Hennessy","ACM SIGARCH Computer Architecture News 17 (3), 114-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3985550703544538039,102,1989
+COOL: An object-based language for parallel programming,"R Chandra, A Gupta, JL Hennessy","Computer 27 (8), 13-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4303073058827564441,101,1994
+Hiding memory latency using dynamic scheduling in shared-memory multiprocessors,"K Gharachorloo, A Gupta, J Hennessy","ACM SIGARCH Computer Architecture News 20 (2), 22-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3312906778885529501,93,1992
+Implications of hierarchical N-body methods for multiprocessor architectures,"JP Singh, JL Hennessy, A Gupta","ACM Transactions on Computer Systems (TOCS) 13 (2), 141-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15671998921726583328,92,1995
+Design of a high performance VLSI processor,"JL Hennessy, NP Jouppi, S Przybylski, C Rowen, T Gross","Third Caltech Conference on Very Large Scale Integration, 33-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4360449396813869947,91,1983
+"The effects of latency, occupancy, and bandwidth in distributed shared memory multiprocessors","C Holt, M Heinrich, JP Singh, E Rothberg, J Hennessy",Computer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14895325318688105326,88,1995
+MIPS: A microprocessor architecture,"J Hennessy, N Jouppi, S Przybylski, C Rowen, T Gross, F Baskett, J Gill","ACM SIGMICRO Newsletter 13 (4), 17-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16418447250379926569,87,1982
+Computer Organization and Design: The Hardware,"DA Patterson, JL Hennessy, PJ Ashenden",Elsevier Science Limited,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16931288561710469350,85,2007
+An empirical comparison of the kendall square research KSR-1 and stanford dash multiprocessors,"JP Singh, T Joe, A Gupta, JL Hennessy",Supercomputing'93: Proceedings of the 1993 ACM/IEEE Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8747822932367508295,85,1993
+The suif compiler system: a parallelizing and optimizing research compiler,"R Wilson, R French, C Wilson, S Amarasinghe, J Anderson, S Tjiang, ...",Stanford University Technical Report No. CSL-TR-94-620,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16423354625942493687,82,1994
+Tango: A multiprocessor simulation and tracing system,"H Davis, SR Goldschmidt, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7805888243050183397,80,1990
+An empirical investigation of the effectiveness and limitations of automatic parallelization,"JP Singh, JL Hennessy","Shared memory multiprocessing, 203-207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4133486452852556980,76,1992
+Performance debugging shared memory multiprocessor programs with MTOOL,"AJ Goldberg, JL Hennessy",Supercomputing'91: Proceedings of the 1991 ACM/IEEE Conference on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4450699667684001462,75,1991
+Lisp on a reduced-instruction-set processor: Characterization and optimization,"P Steenkiste, J Hennessy","Computer 21 (7), 34-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1060716055571560239,74,1988
+Evaluating the memory overhead required for COMA architectures,"T Joe, JL Hennessy","Proceedings of 21 International Symposium on Computer Architecture, 82-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15946805664061344921,71,1994
+A simple interprocedural register allocation algorithm and its effectiveness for LISP,"PA Steenkiste, JL Hennessy","ACM Transactions on Programming Languages and Systems (TOPLAS) 11 (1), 1-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14363393049312397310,62,1989
+Cache-coherent distributed shared memory: Perspectives on its development and future challenges,"J Hennessy, M Heinrich, A Gupta","Proceedings of the IEEE 87 (3), 418-429",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14889714257781984697,61,1999
+Flexible use of memory for replication/migration in cache-coherent DSM multiprocessors,"V Soundararajan, M Heinrich, B Verghese, K Gharachorloo, A Gupta, ...",Proceedings. 25th Annual International Symposium on Computer Architecture …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12012182557293288137,61,1998
+Organization and VLSI implementation of MIPS,"SA Przybylski, TR Gross, JL Hennessy, NP Jouppi, C Rowen","Journal of VLSI and Computer Systems 1 (2), 170-208",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8585955475496291487,61,1984
+Tags and type checking in LISP: Hardware and software approaches,"P Steenkiste, J Hennessy","ACM SIGPLAN Notices 22 (10), 50-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5324109972522309216,60,1987
+"Finding and exploiting parallelism in an ocean simulation program: experience, results, and implications","JP Singh, JL Hennessy","Journal of Parallel and Distributed Computing 15 (1), 27-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6538979831291655379,59,1992
+COOL: a language for parallel programming,"R Chandra, A Gupta, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15933931012409605980,59,1989
+Efficient performance prediction for modern microprocessors,"D Ofelt, JL Hennessy","ACM SIGMETRICS Performance Evaluation Review 28 (1), 229-239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=547354664019548809,58,2000
+Design of scalable shared-memory multiprocessors: The DASH approach,"D Lenoski, K Gharachorloo, J Laudon, A Gupta, J Hennessy, M Horowitz, ...",Digest of Papers Compcon Spring'90. Thirty-Fifth IEEE Computer Society …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13865856657721233692,58,1990
+Arquitectura de computadores,"JL Hennessy, JM Sanchez",McGraw Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14374499754928145309,57,1993
+Organização e projeto de computadores,"DA Patterson, JL Hennessy",Elsevier,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17021446190592276567,56,2005
+A spectral lower bound technique for the size of decision trees and two-level AND/OR circuits,"Y Brandman, A Orlitsky, J Hennessy","IEEE Transactions on Computers 39 (2), 282-287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2782146143170399207,53,1990
+Backward-compatible computer architecture with extended word size and address space,"EA Killian, TJ Riordan, DL Freitas, AB Dixit, JL Hennessy","US Patent 5,420,992",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14274947513564286071,51,1995
+Competitor analysis and its defenses in the e-marketplace,"YP Sheng, PP Mykytyn Jr, CR Litecky","Communications of the ACM 48 (8), 107-112","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8971574809362480130,2702107568237882989,15603178498204055681,13224132760989092254",49,2005
+Da patterson,"JL Hennessy, D Goldberg",Computer Architecture: A quantitavtive Approach. 2nd edition edition,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16167422758585402844,49,1996
+Organización y diseño de computadores: la interfaz hardware/software,"DA Patterson, JL Hennessy",McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18253732460178465310,49,1994
+Backward-compatible computer architecture with extended word size and address space,"EA Killian, TJ Riordan, DL Freitas, AB Dixit, JL Hennessy","US Patent 5,568,630",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10349417632837333815,48,1996
+Effectiveness of data dependence analysis,"DE Maydan, JL Hennessy, MS Lam","International Journal of Parallel Programming 23 (1), 63-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8531970821032963507,48,1995
+Application and architectural bottlenecks in large scale distributed shared memory machines,"C Holt, JP Singh, J Hennessy","ACM SIGARCH Computer Architecture News 24 (2), 134-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16072073055890331230,47,1996
+Integrating scalar optimization and parallelization,"S Tjiang, M Wolf, M Lam, K Pieper, J Hennessy",International Workshop on Languages and Compilers for Parallel Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10223689930973457865,47,1991
+计算机系统结构——量化研究方法,"JL Hennessy, DA Patterson",北京: 电子工业出版社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17413200302979118570,17723689281775240510,7901300009951864095,12010349877170904085",45,2007
+2020 Visions,"P Norvig, DA Relman, DB Goldstein, DM Kammen, DR Weinberger, ...","Nature 463 (7), 26-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16133985241447249703,43,2010
+"Computer Architecture A Quantitative Approach, 1996","DA Patterson, J Hennessy","Morgan Kauffman,",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11194364826343934123,43,0
+Architecture des ordinateurs,JL Hennessy,International Thomson Publishing France,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4100303666084210,42,1996
+Copy elimination in functional languages,"K Gopinath, JL Hennessy",Proceedings of the 16th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11193826909608201677,42,1989
+Code generation and reorganization in the presence of pipeline constraints,"JL Hennessy, TR Gross",Proceedings of the 9th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12395755464886534131,41,1982
+David A. Patterson,JL Hennessy,Computer architecture: a quantitative approach,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15881924526846157821,40,1996
+Interpreting Memory Addresses,J Hennessy,"Computer Architecture A Quantitative Approach, 95-97",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13243984435570242678,39,0
+Memory consistency and event ordering in scalable shared-memory multiprocessors,"K Gharachorloo, D Lenoski, J Laudon, P Gibbons, A Gupta, J HeMessy","Distributed shared memory: concepts and systems, 84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6508315022338141188,38,1998
+A nationwide parallel computing environment,"K Kennedy, CF Bender, JWD Connolly, JL Hennessy, MK Vernon, ...","Communications of the ACM 40 (11), 62-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12749433604553442844,38,1997
+Microprocessors: from desktops to supercomputers,"F Baskett, JL Hennessy","Science 261 (5123), 864-871",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3936892408449562979,38,1993
+Integrating concurrency and data abstraction in a parallel programming language,"R Chandra, A Gupta, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2966287421145035600,38,1992
+Computer Architecture: A Quantative Approach,DA Patterson,"Morgan Kaufman Publishers, Inc., PO Box",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=96610297800413681,36,1990
+A new golden age for computer architecture.,"JL Hennessy, DA Patterson","Commun. ACM 62 (2), 48-60",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314637356256881234,35,2019
+A quantitative analysis of the performance and scalability of distributed shared memory cache coherence protocols,"M Heinrich, V Soundararajan, J Hennessy, A Gupta","IEEE Transactions on Computers 48 (2), 205-217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432850826848558109,35,1999
+Specifying system requirements for memory consistency models,"K Gharachorloo, SV Adve, A Gupta, JL Hennessy, MD Hill",University of Wisconsin-Madison Department of Computer Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18426321455226556801,33,1993
+"Computer Architecture: A Quantitative Approach, Morgan-Kaufmann","JL Hennessy, DA Patterson","San Francisco 1, 11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10120227965014783963,18343300264496693605,3810219426362767006",32,1996
+Program optimization and exception handling,J Hennessy,Proceedings of the 8th ACM SIGPLAN-SIGACT symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11038329504209274966,31,1981
+Measurement and evaluation of the MIPS architecture and processor,"TR Gross, JL Hennessy, SA Przybylski, C Rowen","ACM Transactions on Computer Systems (TOCS) 6 (3), 229-257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17405014152965555235,30,1988
+An evaluation of a commercial CC-NUMA architecture-the CONVEX exemplar SPP1200,"R Thekkath, AP Singh, JP Singh, S John, J Hennessy","Proceedings 11th International Parallel Processing Symposium, 8-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15377736933474812628,29,1997
+An overview of the SUIF compiler system,"R Wilson, R French, C Wilson, S Amarasinghe, J Anderson, S Tjiang, ...","Unpublished manuscript, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11144927969997955775,29,1995
+Computer Organization and Design: The Hardware,"JL Hennessy, DA Patterson",Kaufmann,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6615825339675947270,28,2012
+The performance advantages of integrating message passing in cache-coherent multiprocessors,"SC Woo, JP Singh, JL Hennessy",Tech. Rep.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16418540853073649051,28,1993
+Characterizing the synchronization behavior of parallel programs,"H Davis, J Hennessy","ACM SIGPLAN Notices 23 (9), 198-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6954826859737207409,28,1988
+"Revision to"" Memory Consistency and Event Ordering in Scalable Shared-memory Multiprocessors""","K Gharachorloo, A Gupta, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11070053346338496503,27,1993
+Implications of hierarchical n-body methods for multiprocessor architecture,"JP Singh, JL Hennessy, A Gupta","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7322296245770332456,27,1992
+The stanford flash multiprocessor,"J Kuskin, D Ofelt, M Heinrich, J Heinlein, R Simoni, K Gharachorloo, ...","Distributed Shared Memory: Concepts and Systems 21, 352",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3016501998119382882,25,1997
+Compile‐time copy elimination,"P Schnorf, M Ganapathi, JL Hennessy","Software: Practice and Experience 23 (11), 1175-1200",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7644857452872511474,25,1993
+Analysis of critical architectural and programming parameters in a hierarchical,"J Torrellas, J Hennessy, T Weil","ACM SIGMETRICS Performance Evaluation Review 18 (1), 163-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10273017103529029017,25,1990
+Estimating the performance advantages of relaxing consistency in a shared memory multiprocessor,"J Torrellas, J Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1455244996152026265,25,1990
+Hardware/software codesign of processors: Concepts and examples,"J Hennessy, M Cheinrich","Hardware/Software Co-Design, 29-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2856114501955390597,24,1996
+LISP on a reduced-instruction-set-processor,"P Steenkiste, J Hennessy",STANFORD UNIV CA COMPUTER SYSTEMS LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1919581097374781753,24,1986
+Rechnerorganisation und-entwurf: die Hardware-Software-Schnittstelle,"DA Patterson, JL Hennessy","Elsevier, Spektrum Akad. Verlag",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9679382068155151389,23,2005
+MTOOL: A Method for Isolating Memory Bottlenecks in Shared Memory Multiprocessor Programs.,"AJ Goldberg, JL Hennessy","ICPP (2), 251-257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1367960721611618286,23,1991
+A 32b microprocessor with on-chip 2Kbyte instruction cache,"M Horowitz, J Hennessy, P Chow, P Gulak, J Acken, A Agarwal, CY Chu, ...",1987 IEEE International Solid-State Circuits Conference. Digest of Technical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12676077296036955762,23,1987
+"Latency, occupancy, and bandwidth in DSM multiprocessors: a performance evaluation","M Chaudhuri, M Heinrich, C Holt, JP Singh, E Rothberg, J Hennessy","IEEE Transactions on Computers 52 (7), 862-880",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14592572055560628118,22,2003
+Information technology for counterterrorism: Immediate actions and future possibilities,"JL Hennessy, DA Patterson, H Lin, National Research Council",Natl Academy Pr,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11538930569009537030,22,2003
+Compilation of the Pascal case statement,"JL Hennessy, N Mendelsohn","Software: Practice and Experience 12 (9), 879-882",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16205103835003083164,21,1982
+Parallelism and representation problems in distributed systems,"MJ Flynn, JL Hennessy","IEEE Transactions on Computers, 1080-1086",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8547804858487145187,20,1980
+"A new golden age for computer architecture: Domain-specific hardware/software co-design, enhanced security, open instruction sets, and agile chip development","JL Hennessy, DA Patterson",Turing Lecture,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13611800487384789775,19,2018
+Computer organization and design: The hardware/software interface,"DA Pattersson, JL Hennessy",MTM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9417241958546890499,19,2014
+Memory hierarchy design,"J Hennessy, D Patterson","Computer Architecture: A Quantitative Approach, 390-525",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16422735978488412723,19,2003
+"Measurement, analysis, and improvement of the cache behavior of shared data in cache coherent multiprocessors","J Torrellas, MS Lam, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8052553419900457479,19,1990
+A simple and efficient implmentation approach for single assignment languages,"K Gharachorloo, V Sarkar, JL Hennessy",Proceedings of the 1988 ACM conference on LISP and functional programming …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10560988117999750424,19,1988
+TOMAL-a high-level programming language for microprocessor process control applications,"RB Kieburtz, JL Hennessy","ACM SIGPLAN Notices 11 (4), 127-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13032595531393236349,19,1976
+"Rechnerarchitektur: Analyse, Entwurf, Implementierung, Bewertung","JL Hennessy, DA Patterson",Springer-Verlag,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6053076229761320485,18,2013
+Computer organization and design,"DA Petterson, JL Hennessy",USA: The Morgan Kaufmann Series in Computer Architecture and Design. ISBN-10,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13236050534541707897,9458355666486269813",18,2008
+Hardware/software co-design of the stanford FLASH multiprocessor,"M Heinrich, D Ofelt, MA Horowitz, J Hennessy","Proceedings of the IEEE 85 (3), 455-466",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9664404075023336520,17,1997
+16 Overview and Status of the Stanford DASH Multiprocessor,"D Lenoski, KG Laudon, WD Weber, A Gupta, J Hennessy","Shared Memory Multiprocessing, 391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9890871750606830929,17,1992
+MTOOL: A method for detecting memory bottlenecks,"A Goldberg, J Hennessy","ACM SIGMETRICS Performance Evaluation Review 19 (1), 210-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18111003420542035531,17,1991
+SLIM: a simulation and implementation language for VLSI microcode,J Hennessy,"ACM SIGMICRO Newsletter 16 (2), 22-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7663445690387815918,17,1985
+计算机组成与设计硬件/软件接口,"DA Patterson, JL Hennessy",机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11838247547011186866,16,2007
+Computer Architecture: A Quantitative Approach,"D Goldberg, K Asanovic, JL Hennessy, DA Patterson",Morgan Kaufmann Publishers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13548652009802546260,16,2003
+High performance microprocessor architectures,"RH Katz, JL Hennessy","International Journal of High Speed Electronics and Systems 1 (01), 1-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13778711037742118467,16,1990
+SWAMI: A flexible logic implementation system,"C Rowen, JL Hennessy","22nd ACM/IEEE Design Automation Conference, 169-175",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5138156050618551500,16,1985
+An interactive graphics system for custom design,"P Carmody, A Barone, J Morrell, A Weiner, J Hennessy","Proceedings of the 17th Design Automation Conference, 430-439",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3648625749864539432,16,1980
+Summary of MIPS instructions,"Stanford University. Computer Systems Laboratory, J Gill, T Gross, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12053002632810159449,15,1983
+The use and abuse of SPEC: An ISCA panel,"D Citron, J Hennessy, D Patterson, GS Sohi",IEEE COMPUTER SOC,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2086159813395502942,14,2003
+Computer arithmetic,D Goldberg,Computer architecture: a quantitative approach,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2751893930404271366,14,1996
+A pipelined 32b NMOS microprocessor,"C Rowen, S Przbylski, N Jouppi, T Gross, J Shott, J Hennessy",1984 IEEE International Solid-State Circuits Conference. Digest of Technical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18157164922736653821,14,1984
+Sufficient system requirements for supporting the PLpc memory model,"SV Adve, K Gharachorloo, A Gupta, JL Hennessy, MD Hill",University of Wisconsin-Madison Department of Computer Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=503180921455441843,13,1993
+コンピュータの構成と設計: ハードウエアとソフトウエアのインタフェース パターソン & ヘネシー 下,成田光彰,日経 BP 社,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8731506420081679014,15702828683304463908",12,2014
+"Computer Organization and Design, Revised","D Patterson, J Hennessy",Morgan Kaufmann,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8377899552623302193,11,2011
+The use and abuse of SPEC: An ISCA panel,"J Hennessy, D Citron, D Patterson, G Sohi","IEEE Micro 23 (4), 73-77",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11044730073566340369,10,2003
+TOMAL: A task-oriented microprocessor Applications language,"JL Hennessy, RB Kieburtz, DR Smith","IEEE Transactions on Industrial Electronics and Control Instrumentation, 283-289",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17317665708006892746,10,1975
+Rechnerorganisation und Rechnerentwurf: Die Hardware/Software-Schnittstelle,"D Patterson, JLR Hennessy",Walter de Gruyter GmbH & Co KG,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=849755193919554542,9,2016
+Information Technology for Counterterrorism: Immediate Actions and Future Possibilities,National Research Council,National Academies Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7045108325235391340,9,2003
+Vector processors,"K Asanovic, J Hennessy, D Patterson","Ph. D. thesis, Computer Science Division, University of California at Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16469870371533671320,9,1998
+Organisation et conception des ordinateurs: l'interface matériel/logiciel,"J Hennessy, DA Patterson, P Klein",Dunod,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15179107888633542059,9,1994
+Data locality and memory system performance in the parallel simulation of ocean eddy currents,"JP Singh, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15737937127103767942,8,1991
+RISC architecture: a perspective on the past and future,JL Hennessy,Proceedings of the decennial Caltech conference on VLSI on Advanced research …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10014565747385401524,8,1989
+Advances in compiler technology,"J Hennessy, M Ganapathi","Annual review of computer science 1 (1), 83-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=826958208045442253,8,1986
+Small shared-memory multiprocessors,"F Baskett, JL Hennessy","Science 231 (4741), 963-967",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13891315006602939915,8,1986
+Register allocation by priority-based coloring,"F Chow, J Hennessy","ACM SIGPLAN Notices 39 (4), 91-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14749037368927807947,7,2004
+Automatic and Explicit Parallelization of an N-body Simulation,"JP Singh, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12126391674595468939,7,1991
+Parallelizing the simulation of ocean eddy currents,"JP Singh, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7813812681126100233,7,1989
+An overview of the MIPS-X-MP project,"JL Hennessy, MA Horowitz","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1332800741683460539,7,1986
+Copy elimination with abstract interpretation,"K Gopinath, JL Hennessy",STANFORD UNIV CA CENTER FOR LARGE SCALE SCIENTIFIC COMPUTATION,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2720478830757170978,6,1987
+The design and implementation of parametric types in Pascal,"J Hennessy, H Elmquist","Software: Practice and Experience 12 (2), 169-184",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9742857628715915084,6,1982
+"ISCA25: Looking backward, looking forward",J Hennessy,Proc. ISCA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5954949221885849461,5,1999
+An applicationdriven evaluation of the convex exemplar spp-1200,"R Thekkath, AP Singh, JP Singh, J Hennessy, S John",Proceedings of the International Parallel Processing Symposium,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4906653029330911241,5,1997
+Fundamentals of computer design,"J Hennessy, D Patterson","Computer Architecture: A Quantitative Approach, 1-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5138083980533606644,5,1996
+Organización y diseño de computadores: la interfaz hardware/software,"JL Hennessy, DA Patterson",McGraw-Hill,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17519288402468486017,5,1995
+The Hardware/Software Interface,"JL Hennessy, DA Patterson","Morgan Kaufmann Publishers, INC., San Mateo, CA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15560109952924623606,5,1993
+Sal: a single assignment language for parallel algorithms,"Stanford University. Center for Large Scale Scientific Computation, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2627749599672100413,5,1983
+The formal definition of a real-time language,"JL Hennessy, RB Kieburtz","Acta Informatica 16 (3), 309-345",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=919535713926717649,5,1981
+A language for microcode description and simulation in VLSI,JL Hennessy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3293221703799564824,5,1980
+Architetture dei Calcolatori-Metodi di Valutazione e Progetto,L Breveglieri,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16700644115530989881,4,1993
+Scalable multiprocessors and the DASH approach (videotape),J Hennessy,University Video Communications,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16790594631035310330,4,1992
+Pascal*: a Pascal based systems programming language,JL Hennessy,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5948840628446683887,4,1980
+"A real-time language for small processors: design, definition, and implementation.",JL Hennessy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551827930105985260,4,1979
+Computer Architecture a Quantitative Approach. 1996,"JL Hennessey, DA Patterson",Morgan Kaufman Publishers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5729270791191026400,4,0
+A Retrospective on “MIPS: A Microprocessor Architecture”,"TR Gross, NP Jouppi, JL Hennessy, S Przybylski, C Rowen","IEEE Computer Society 36 (4), 73-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9188071144236467167,3,2016
+The DASH prototype: implementation and performance,"D Lenoski, J Laudon, T Joe, D Nakahira, L Stevens, A Gupta, J Hennessy","ANNUAL INTERNATIONAL SYMPOSIUM ON COMPUTER ARCHITECTURE 25, 418-429",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16610576510722576391,3,1998
+Struttura e progetto dei calcolatori,"JL Hennessy, DA Patterson",Zanichelli,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12150544756657600909,3,1995
+Computer Organization,"DA Patterson, JL Hennessy",PAGE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5934643331251905432,3,1995
+Architectural convergence and its implications,JL Hennessy,"Developing a computer science agenda for high-performance computing, 72-77",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13458109766149626360,3,1994
+Architectures des ordinateurs: une approche quantitative,JLHETDA Patterson,McGRA W-HILL,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2441385596737465438,3,1992
+A Methodology for Modeling Interprocessor Traffic in Shared Memory Multiprocessors,"Stanford University. Computer Systems Laboratory, J Torrellas, T Weil, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=273386136230571895,3,1989
+On the Spectre and Meltdown Processor Security Vulnerabilities,"MD Hill, J Masters, P Ranganathan, P Turner, JL Hennessy","IEEE Micro 39 (2), 9-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7320852652091221850,2,2019
+An interview with stanford university president john hennessy,D Patterson,"Communications of the ACM 59 (3), 40-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2868251129204065334,2,2016
+Computer Architecture,N Sharma,Laxmi Publications,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5928216257157728187,2,2009
+Computer System and Architecture,"W Stallings, I Englander, D Manolakis, VK Ingle, A Horvath, M Telek, ...",Pearson,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8117433599931142854,2,2006
+Hardware implementation of instruction level parallel architecture incorporating special functional units for image processing algorithms,"M Kannan, SK Srivatsa","Information Technology Journal 5 (3), 416-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18296593732976168856,2,2006
+6.3 Performance of Symmetric Shared-Memory Microprocessors,JL Hennessy,Computer Architecture A Quantitative Approach,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14598110001422610711,2,2003
+Estructura y Diseño de Computadores. Interficie Circuitería/Programación,"JL Hennesy, DA Patterson",Reverté,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3801242864422141306,2,2000
+"Struttura, organizzazione e progetto dei calcolatori: interdipendenza tra hardware e software","DA Patterson, JR Larus, JL Hennessy",Jackson libri,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17140016954030092365,2,1999
+COOL,R Chandra,Parallel Programming Using C++,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3299261824367894888,2,1996
+コンピュータ・アーキテクチャ: 設計・実現・評価の定量的アプローチ,"DA Patterson, JL Hennessy",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6568956036700661650,2,1994
+Trends in processor and system design and the interaction with advanced packaging,JL Hennessy,"Proceedings 1992 IEEE Multi-Chip Module Conference MCMC-92, 1-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11394691361510092129,2,1992
+Computer arithmetic,"JL Hennessy, DA Patterson",Computer Architecture: A Quantitative Approach,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16001818982574061244,2,1990
+Reduced instruction set computer architectures,"P Chow, J Hennessy","Computer architecture, 48-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2914086700165118157,2,1988
+Reverse synthesis compilation for architectural research,"M Ganapathi, J Hennessy, V Sarkar","Computer Systems Laboratory, Departments of Electrical Engineering and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11396478517164377061,2,1984
+SLIM: A language for microcode description and simulation in VLSI,J Hennessy,California Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13601783168644331528,2,1981
+"Common Bonds: MIPS, HPS, Two-Level Branch Prediction, and Compressed Code RISC Processor","O Mutlu, R Belgard, TR Gross, NR Jouppi, JL Hennessy, S Przybylski, ...","IEEE Micro 36 (4), 70-85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10599490180824440202,1,2016
+ヘネシー & パターソン コンピュータアーキテクチャ 定量的アプローチ,"JL Hennessy, DA Patterson",翔泳社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1440773251972044675,1,2014
+Computer Organization and Design: Computer Abstractions and Technology 2. Instructions: Language of the Computer 3. Arithmetic for Computers 4. The Processor 5. Large and Fast …,"DA Patterson, JL Hennessy, PJ Ashenden",Morgan Kaufmann,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11707799265506988279,1,2014
+Studies on the general parallel method to improve the performance of string matching algorithm.,"Z Chen, L Wu, J Ma, K Zheng, H Mei, XY Wang, L Zhang, G Hager, ...","Journal of Software Engineering 9 (2), 37-49",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6567136627731593858,1,2013
+Architettura dei computer: un approccio quantitativo,"DA Patterson, JL Hennessy, DE Goldberg",Jackson libri,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2121417328826604551,1,2001
+Efficient Performance Prediction For Modern Microprocessors.,"JL Hennessy, D Ofelt",ACM SIGMETRICS Performance Evaluation Review 28 (1),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10432680826854308069,1,2000
+The stanford dash multiprocessor,"D Lenoski, J Laudon, K Gharachorloo, WD Weber, A Gupta, J Hennessy, ...","Readings in computer architecture, 583-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3460836122057011851,1,2000
+Retrospective: Evaluation of directory schemes for cache coherence,J Hennessy,25 years of the International Symposia on Computer Architecture (selected …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12863688509436321157,1,1998
+Urdu & I,R Russell,"Center for South Asia, University of Wisconsin–Madison",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10932684220374004689,1,1996
+The computer architecture curriculum at Stanford: challenges and approaches,J Hennessy,"Proceedings of the 1996 workshop on Computer architecture education, 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4836881887037398190,1,1996
+Reducing the cost of branches,"S McFarling, J Hennessy","Instruction-level parallel processors, 117-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3475982917106425337,1,1995
+Big science versus little science—do you have to build it?(panel session),"DR Ditzel, JL Hennessy, B Rudin, AJ Smith, SL Squires, Z Zalcstein","ACM SIGARCH Computer Architecture News 18 (2SI), 136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16015604966537669634,1,1990
+Design and implementation of an optimizing compiler for a single assignment language,"P Schnorf, M Ganapathi, JL Hennessy","Computer Systems Laboratory, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8396468586946950363,1,1990
+VLSI Processor Design Methodology,"JL HENNESSY, SA PRZYBYLSKI","VLSI Electronics Microstructure Science 14, 1-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8855718596388178103,1,1986
+Compile-Time Partitioning and Scheduling of Parallel Programs. Extended Summary,"V Sarkar, J Hennessy",STANFORD UNIV CA COMPUTER SYSTEMS LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2088821295659393303,1,1986
+Automatic compiler code generation,"M Ganapathi, CN Fischer, JL Hennessy",Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17329777589677697576,1,1981
+Axioms for Monitors,"RB Kieburtz, JL Hennessy","Department of Computer Science, State University of New York",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16897744014133422816,1,1977
+Latest News,"JL Hennessy, DA Patterson",Technology,,0,2019
+sitemap indexPopularRandom Home,"JL Hennessy, Z Vranesic, D Turner, R Cumming, J Mallord, Z Structured","Computer 21 (46), 00",,0,2018
+RISC management,L Hoffmann,"Communications of the ACM 61 (6), 104-ff",,0,2018
+Computer Architecture: A Quantitative Approach,"P Prinz, T Crawford, JL Hennessy, DA Patterson",Morgan Kaufmann 8. Textbook,,0,2018
+"“Computer architecture–A quantitative approach”, Morgan Kaufmann/Elsevier Publishers, 2007","JL Hennessey, DA Patterson",BHARATHIDASAN ENGINEERING COLLEGE,,0,2015
+Agradecimentos,"J Hennessy, D Patterson","Arquitetura de Computadores, xi-xiv",,0,2014
+ACM's annual report,A Chesnais,"CoMMuNiCatioNs of tHe aCM 56 (1), 11-15",,0,2013
+Course Information,"D Patterson, J Hennessy, M Kaufmann",Computer,,0,2011
+Konputagailuen arkitektura: hurbilketa kuantitatibo bat,"JL Hennessy, DA Patterson, AC Arpaci-Dusseau",Euskal Herriko Unibertsitatea Argitalpen Zerbitzua= Universidad del Pais …,,0,2009
+"Computer Organization and Design, Revised Printing",JL Hennessy,Morgan Kaufmann,,0,2007
+Computer Architecture,"JY Joshua, DJ Lilja","Handbook of Nature-Inspired and Innovative Computing, 287-314",,0,2006
+La frontera escatológica: vida y muerte en “El hombre muerto” de Horacio Quiroga,IZ Noriega,"Hipertexto 1, 109-115",,0,2005
+"Looking Backward, Thinking Forward: Reflections on 2000-2005 and the Future",JL Hennessy,Stanford University,,0,2005
+Energy-efficient trace reuse cache for embedded processors.,"C Xiangrong, Z Xiaolin, A Efthymiou, JD Garside, A Hossain, DJ Pease, ...","Information Technology Journal 12 (8), 325-329",,0,2004
+"Interview--RISC の父が語る未来 米 Stanford University, President John Hennessy 氏 今こそ大学からブレークスルーを",浅見直樹,"日経エレクトロニクス, 216-218",,0,2002
+Bill Gates in Conversation with Stanford President John Hennessy,"B Gates, JL Hennessy",Stanford video,,0,2002
+ディジタル信号処理向けプロセッサコアの面積/遅延見積り手法,片岡義治， 吉澤大， 戸川望， 柳澤政生， 大附辰夫,"電子情報通信学会技術研究報告. ICD, 集積回路 99 (477), 1-8",,0,1999
+A Directory-Based Scalable General-Purpose Shared-Memory Multiprocessor,"JL Hennessy, MA Horowitz",STANFORD UNIV CA COMPUTER SYSTEMS LAB,,0,1998
+ERRATA FOR SECOND PRINTING,"DA Patterson, JL Hennessy",,,0,1998
+"Urdu, Khurshidul Islam, and I",R Russell,"Center for South Asia, University of Wisconsin–Madison",,0,1998
+Vernon and Larry Smarr,"K Kennedy, CF Bender, JWD Connolly, JL Hennessy","Communications of the ACM 40 (11), 11",,0,1997
+RISC microprocessors,J Hennessy,"IEEE MICRO 16 (6), 27-27",,0,1996
+Computer Architecture: Solutions to Selected Exercises/Thomas E. Willis; Allan D. Knies. L,"DA Patterson, JL Hennessy, TE Willis, AD Knies",Morgan Kaufmann,,0,1996
+Report of the Task Force on the Future of the NSF Supercomputer Centers Program,"AL Bement Jr, PA Kollman, MK Vernon, J Hennessy, AB White Jr, ...",,,0,1995
+Compile-time Partitioning and Scheduling,"V Sarkar, J Hennessy","Scheduling and Load Balancing in Parallel and Distributed Systems 12, 61",,0,1995
+FLASH: Integration of Distributed Shared Memory and Message Passing,"JL Hennessy, MA Horowitz",Contract 1995,,0,1994
+Vektorprozessoren,"JL Hennessy, DA Patterson","Rechnerarchitektur, 350-401",,0,1994
+Grundlagen des Rechnerentwurfs,"JL Hennessy, DA Patterson","Rechnerarchitektur, 2-30",,0,1994
+Befehlssatzentwurf: Alternativen und Prinzipien,"JL Hennessy, DA Patterson","Rechnerarchitektur, 88-137",,0,1994
+Entwicklungsrichtungen,"JL Hennessy, DA Patterson","Rechnerarchitektur, 570-594",,0,1994
+Leistung und Kosten,"JL Hennessy, DA Patterson","Rechnerarchitektur, 32-86",,0,1994
+Pipelining,"JL Hennessy, DA Patterson","Rechnerarchitektur, 250-349",,0,1994
+Befehlssatzbeispiele und Messung der Befehlssatznutzung,"JL Hennessy, DA Patterson","Rechnerarchitektur, 138-197",,0,1994
+Speicherhierarchie-Entwurf,"JL Hennessy, DA Patterson","Rechnerarchitektur, 402-497",,0,1994
+Ein-/Ausgabe,"JL Hennessy, DA Patterson","Rechnerarchitektur, 498-568",,0,1994
+Die Grundlagen der Prozessorimplementierung,"JL Hennessy, DA Patterson","Rechnerarchitektur, 198-248",,0,1994
+Specifying System Requirements for Memory Consistency Models,"A Guptal, JL Hennessyl, MD Hill",,,0,1993
+Sufﬁeient System Requirements for Supporting the PLpc Memory Model,"SV Adve, K Gharachorloo, A Gupta, JL Hennessy, MD Hill",,,0,1993
+A Framework for Controlling Cooperative Agents,"JP Singh, JL Hennessy, A Gupta",,,0,1993
+Comparative evaluation of latency reducing and tolerating techniques (from Computer Architecture News 1991),"A Gupta, J Hennessy, K Gharachorloo, T Mowry","SPIE MILESTONE SERIES MS 79, 684-684",,0,1993
+1 DASH System Overview and Rationale,"D Lenoski, J Laudon, K Gharachorloo, WD Weber, A Gupta, J Hennessy, ...",,,0,1992
+Special issue on memory system architectures for scalable multiprocessors: Guest editors' introduction,"M Dubois, S Thakkar","Journal of Parallel and Distributed Computing 15 (4), 303-304",,0,1992
+What Should the Architecture Be for the Processor Used in a General Purpose Teraflops Computing System?,"HJ Siegel, D Douglas, J Hennessy","COMPUTER ARCHITECTURE NEWS 20, 256-256",,0,1992
+The DASH Prototype: Implementation and Performance,"L Stevens, A Gupta, J Hennessy",,,0,1992
+REPORT DOCUMENTATION PAGE form AporoveG,"SM Multiprocessor, JL Hennessy",Contract 1994,,0,1991
+"Microsupercomputers: Design and implementation. Semi-annual technical report, Oct 90-Mar 91","JL Hennessy, MA Horowitz","Stanford Univ., CA (United States). Computer Systems Lab.",,0,1991
+Microsupercomputers: Design and Implementation,"JL Hennessy, MA Horowitz",STANFORD UNIV CA COMPUTER SYSTEMS LAB,,0,1990
+"FOR FURTHER INFORMATION ON THESE COURSES, WRITE OR PHONE: Joleen Barnhill, Program Manager Western Institute in Computer Science (WICS)","E Horowitz, A Wasserman, Z Manna, A Pneuli, KС Sevcik, ED Lazowska, ...",COMPUTER,,0,1990
+Parallel Processing: You Ain't Seen Nothing Yet! Speaker: HT Kung SESSION 1A. Task Scheduling I (R): Mapping and Scheduling in a Shared Parallel Environment Using Distributed …,"DG Feitelson, L Rudolph, GC Sih, EA Lee, J Ji, M Jeng, R Venkatesh, ...",Parallel Processing 1,,0,1990
+"Microsupercomputers: Design and implementation. Technical progress report, November 1988-March 1989","JL Hennessy, MA Horowitz","Stanford Univ., CA (USA). Computer Systems Lab.",,0,1989
+Challenges in Multiprocessor Architectures,J Hennessy,"Opportunities and Constraints of Parallel Computing, 67-67",,0,1989
+"Research in VLSI computer systems. Progress report, April-October 1987",J Hennessy,"Stanford Univ., CA (USA). Computer Systems Lab.",,0,1987
+"Research in VLSI computer systems(Progress Report, Apr.- Oct. 1987)",J HENNESSY,,,0,1987
+"Research in VLSI(Very Large Scale Integration) systems(Technical Progress Report, Dec. 1986- Mar. 1987)","J HENNESSY, J PLUMMER",,,0,1987
+"Rcpnnicd from Proceedings ofthe IEEE Compcon Spring'82, February 1982. pages 2-7. Copyright t> 1982 by The Institute of Electrical and Electronics Engineers, Inc. The MIPS Machine","J Hennessy, N Jouppi, J Gill, F Baskett, A Strong, T Gross, C Rowen, ...","Computer architecture, Tutorial, 241",,0,1987
+Research in VLSI Systems.,J Hennessy,STANFORD UNIV CA CENTER FOR INTEGRATED SYSTEMS,,0,1986
+"VLSI ELECTRONICS: MICROSTRUCTURE SCIENCE, VOL. 14",JW GANNETT,"VLSI design 14, 81",,0,1986
+"Research in VLSI systems(Technical Progress Report, Apr.- Dec. 1986)",J HENNESSY,,,0,1986
+The Open Channel,"D Patterson, J Hennessy","Computer, 142-143",,0,1985
+"COMPUTERS, COMPLEXITY, AND CONTROVERSY-RESPONSE","D PATTERSON, J HENNESSY","COMPUTER 18 (11), 142-143",,0,1985
+A 20 MIPS Peak Microprocessor with On-Chip Cache,"M Horowitz, JL Hennessy, P Chow, PG Gulak, JM Acken",STANFORD UNIV CA CENTER FOR INTEGRATED SYSTEMS,,0,1984
+COMPUTER SYSTEMS LABORATORY. L 1,"J Hennessy, N Jouppi, F Baskett, T Gross, J Gill, S Przybylski",,,0,1983
+"Research in VLSI(Very Large Scale Integration) systems[Final Report, Mar. 1981- Jun. 1983]","J HENNESSY, T KAILATH",,,0,1983
+Research in VLSI Systems. Heuristic Programming Project and VLSI Theory Project. A Fast Turn Around Facility for Very Large Scale Integration (VLSI),"J Hennessy, R Matthews, J Newkirk, J Shott, J Ullman",STANFORD UNIV CA,,0,1982
+"Research in VLSI systems[Technical Status Report, Mar. 1981- May 1982]","J Hennessy, R MATTHEWS, J Newkirk, T KAILATH",,,0,1982
+COMPUTER SYSTEMS LABORATORY I I,"M Ganapathi, CN Fischer, JL Hennessy",,,0,1981
+Research in VLSI systems design and architecture,"F Baskett, J Clark, J Hennessy, S Owicki, B Reid",Stanford University,,0,1981
+"MIPS: A VLSI Processor Architecture John Hennessy, Norman Jouppl, Forest Baskett, and John Gill Stanford University Departments of Electrical Engineering and Computer Science",J Hennessy,"VLSI systems and computations, 337",,0,1981
+PASCAL and PASCAL* Compiler Systems,"Stanford University. Computer Systems Laboratory, J Hennessy","Computer Systems Laboratory, Stanford University",,0,1979
+"A real-time language or small processors: Design, definition, and implementation[Ph. D. Thesis]",JL HENNESSY,,,0,1977
+COUNTERTERRORISM,"JL Hennessy, DA Patterson, HS Lin",,,0,0
+Computer Organization and Design RISC-V Edition: The Hardware Software Interface (The Morgan Kaufmann,"DA Patterson, JL Hennessy",,,0,0
+CSCE 212: Introduction to Computer Architecture,"J Hennessy, D Patterson",,,0,0
+Teknik Informatika,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+Design of Scalable Shared-Memory Multiprocessors: The DASH Approach,"A Gupta, J Hennessy, M Horowitz, M Lam",,,0,0
+Informatics Science,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+sorek-satu-desa-kelurahan. kpt. co. id Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+universitas-muhammadiyah-surabaya. ptkpt. net Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+Arquitetura e Organização de Computadores,"E Campus, AC LOURENÇO, ÁBE Érica, ME Blücher, JL HENNESSY, ...",,,0,0
+ciracap-kecamatan. kpt. co. id Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+margaluyu-desa-kelurahan. kpt. co. id Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+kelas-karyawan-bali. kurikulum. org 17 Hours Information Services,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+"A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced","J Hennessy, D Patterson",,,0,0
+Hardware/Software Tradeoffs fOr in C reaSeCi Performan Ce,"J Hennessy, N Jouppi, F Baskett, T Gross, J Gill",,,0,0
+www. gajahmada. web. id 17 Hours Information Services,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+Computer Systems Laboratory Stanford University,JL Hennessy,,,0,0
+Computer Organization And Design Patterson Solution Manual,"D Patterson, JL Hennessy",,,0,0
+langgonawe-village. al-ghifari. web. id Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+s2-magister-manajemen-mm. gatotkaca. my. id Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+karier-front-office-l8. serigala. info Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+duta-besar-republik-indonesia-untuk-amerika-wb-49635. teknik-mesin. com Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+Memory Hierarchy,M Palesi,,,0,0
+unkris. download-soalujian. com Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+CENTRO DE CIÊNCIAS TECNOLÓGICAS-CCT,"AC LOURENÇO, ÁBE Érica, ME Blücher, AS TANENBAUM, ...",,,0,0
+kuliah-sore-serang-p2k-mm-unkris. ggindonesia. com Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+panyula-desa-kelurahan. disain. us Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+email: _Hubungi Kami_ _ silahkan klik,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+s1-farmasi. hilmy-aap. com Layanan Informasi 17 Jam,"JL Hennessy, J Etchemendy, S Tree","Origins 1, 1",,0,0
+A probabilistic study of two-level storage,"MF Acevedo, A Agarwal, A Agarwal, M Horowitz, J Hennessy, A Agarwal, ...","tocs 10, 367-374",,0,0
+Hennessy and Patterson have updated the classic!,JL Hennessy,,,0,0
+Implementation Tradeoffs in Distributed Shared Memory Machines,"R Thekkath, AP Singh, JP Singh, S John",,,0,0
+Steering Committee Steering Committee,"JL Gaudiot, J Hennessy, W Hwu, P Stenström, M Valero, U Weiser",,,0,0
+CALL FOR CONTRIBUTIONS,"J Hennessy, R Lee, T Meng",,,0,0
+ual International Symposium on Computer Architecture-ISCA'98,"J Hennessy, D Lee, P Croi, J Lo, L Barro, MES Pc, E Federovsky",,,0,0
+Leland Stanford Junior University,"JL Hennessy, S Cardinal, S Tree",,,0,0
+"High Performance Microprocessor Architectures Randy H. Katz Computer Science Division Electrical Engineering and Computer Science Department University of California, Berkeley",JL Hennessy,,,0,0
+"“Cm: from J}, ﬂu l’StZ ‘I/‘Wﬁxﬂrﬂ _ ﬁat—“guts","S McFarlin, J Hennessy",,,0,0
+The Effects of Latency and Occupancy in Distributed Shared Memory Multiprocessors,"C Holt, M Heinrich, JP Singh, E Rothberg, J Hennessy",,,0,0
+A pipelined 32 b microprocessor with 13 kB of cache memory,"M HOROWITZ, JL HENNESSY, P CHOW, PG GULAK, JM ACKEN, ...",,,0,0
+IEEEI SOFTWARE,"JL BAER, A MUKHERJEE, S FERNBACH, JD SPRAGINS, RM KELLER, ...",,,0,0
+INSTITUTO DE INFORMÁTICA DEPARTAMENTO DE INFORMÁTICA APLICADA,"D PATTERSON, J HENNESSY",,,0,0
+"Orlando, FL 32816","JL BAER, PR MENON, J BUTLER, A MUKHERJEE, S FERNBACH, ...",,,0,0
+ISCA Advisory Committee,"S Eggers, JE Compaq, M Franklin, J Hennessy, Y Patt, D Patterson, ...",,,0,0
+The Directory-Based Cache Coherence Protocol for the DASH Multiprocessor,"A Gupta, J Hennessy",,,0,0
+Data Locality and Load Balancing in,"R Chandra, A Gupta, JL Hennessy",,,0,0
+LETTERS TO iHE EDITOR,"JT Cain, JL Hennessy, D Ogden","IEEE COMPUTER 36849 (205), 8264330",,0,0
+Parallelrechner und wissenschaftliches Rechnen,"JL Hennessy, DA Patterson",,,0,0
+PANEL: Big Science Versus Little Science--Do You Have to Build It?,"DR Ditzel, JL Hennessy, AJ Smith",,,0,0
+A Universal Lower-Bound Technique for the Size of Decision Trees and Two-Level AND/OR Circuits,"Y Brandman, A Orlitsky, J Hennessy",,,0,0
+"arithmetic instructions executed. If successful, these algorithms may cause us to reexamine the issues of cache contents and inter-frame temporal locality in greater detail.","LS Nakahira, A Gupta, J Hennessy",,,0,0
+ANÁLISIS MATEMÁTICO Y ÁLGEBRA,"AS Tanenbaum, P Hall, DA Patterson, JL Hennessy",Ingeniería técnica en Informática de Sistemas,,0,0

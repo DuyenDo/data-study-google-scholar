@@ -1,0 +1,663 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Distributed algorithms,NA Lynch,Elsevier,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12434813201850279000,9480219513996073265",5945,1996
+Impossibility of distributed consensus with one faulty process.,"MJ Fischer, NA Lynch, MS Paterson",Massachusetts Inst of Tech Cambridge lab for Computer Science,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5455544345002484864,3034160311661898916",5129,1982
+"Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services","S Gilbert, N Lynch","Acm Sigact News 33 (2), 51-59",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17914402714677808535,1969,2002
+Consensus in the presence of partial synchrony,"C Dwork, N Lynch, L Stockmeyer","Journal of the ACM (JACM) 35 (2), 288-323",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16245621730371199775,1562,1988
+An introduction to input/output automata,"NA Lynch, MR Tuttle","Laboratory for Computer Science, Massachusetts Institute of Technology",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=474830891056468540,1458,1988
+Hierarchical Correctness Proofs for Distributed Algorithms.,"NA Lynch, MS Tuttle",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6839671866596187881,1066,1987
+Probabilistic simulations for probabilistic processes,"R Segala, N Lynch","Nordic Journal of Computing 2 (2), 250-273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12125867067234309790,533,1995
+A lower bound for the time to assure interactive consistency,"MJ Fischer, NA Lynch",GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15918729798916255163,531,1981
+Forward and backward simulations,"N Lynch, F Vaandrager","Information and Computation 121 (2), 214-233","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9861508770440673605,17744549847617368190",504,1995
+A comparison of polynomial time reducibilities,"RE Ladner, NA Lynch, AL Selman","Theoretical Computer Science 1 (2), 103-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3988575533589751313,503,1975
+Reaching approximate agreement in the presence of faults,"D Dolev, NA Lynch, SS Pinter, EW Stark, WE Weihl","Journal of the ACM (JACM) 33 (3), 499-516",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12878398003754530066,487,1986
+Hybrid i/o automata,"N Lynch, R Segala, F Vaandrager","Information and computation 185 (1), 105-157",,475,2003
+Hybrid i/o automata,"N Lynch, R Segala, F Vaandrager","Information and computation 185 (1), 105-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6563001440400940929,475,2003
+A new fault-tolerant algorithm for clock synchronization,"JL Welch, N Lynch","Information and computation 77 (1), 1-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10428276053031782916,347,1988
+Probabilistic simulations for probabilistic processes,"R Segala, N Lynch","International Conference on Concurrency Theory, 481-496",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14634086757047403729,343,1994
+Distributed computation in dynamic networks,"F Kuhn, N Lynch, R Oshman","Proceedings of the forty-second ACM symposium on Theory of computing, 513-522",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5908991654717211651,329,2010
+Hybrid i/o automata,"N Lynch, R Segala, F Vaandrager, HB Weinberg","International Hybrid Systems Workshop, 496-510",,307,1995
+Hybrid i/o automata,"N Lynch, R Segala, F Vaandrager, HB Weinberg","International Hybrid Systems Workshop, 496-510",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4328184694388641040,307,1995
+An upper and lower bound for clock synchronization,"J Lundelius, N Lynch","Information and control 62 (2-3), 190-204",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7588475089373910260,299,1984
+The theory of timed I/O automata,"DK Kaynar, N Lynch, R Segala, F Vaandrager","Synthesis Lectures on Distributed Computing Theory 1 (1), 1-137",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17964718495637112469,270,2010
+Specifying and using a partitionable group communication service,"A Fekete, N Lynch, A Shvartsman","ACM Transactions on Computer Systems (TOCS) 19 (2), 171-216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7906665697877102594,257,2001
+Multilevel atomicity—a new correctness criterion for database concurrency control,NA Lynch,"ACM Transactions on Database Systems (TODS) 8 (4), 484-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8047951672549051375,257,1983
+Revisiting the Paxos algorithm,"R De Prisco, B Lampson, N Lynch","International Workshop on Distributed Algorithms, 111-125","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5465885118770091369,10426938023349895931",247,1997
+RAMBO: A reconfigurable atomic memory service for dynamic networks,"N Lynch, AA Shvartsman","International Symposium on Distributed Computing, 173-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925254485264963083,241,2002
+Distributed computing: Models and methods,"L Lamport, N Lynch","Formal Models and Semantics, 1157-1199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17072413447685282641,234,1990
+Forward and backward simulations: II. timing-based systems,"N Lynch, F Vaandrager","Information and Computation 128 (1), 1-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8991566780214894793,232,1996
+The Generalized Railroad Crossing: A Case Study in Formal Verification of Real-Time Systems.,"C Heitmeyer, N Lynch",NAVAL RESEARCH LAB WASHINGTON DC,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11221319850241655869,225,1994
+Electing a leader in a synchronous ring,"GN Frederickson, NA Lynch","Journal of the ACM (JACM) 34 (1), 98-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8303037269297959027,213,1987
+A new fault-tolerant algorithm for clock synchronization,"J Lundelius, N Lynch",Proceedings of the third annual ACM symposium on Principles of distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9301789448300882572,201,1984
+Easy impossibility proofs for distributed consensus problems,"MJ Fischer, NA Lynch, M Merritt","Distributed Computing 1 (1), 26-39",,200,1986
+Easy impossibility proofs for distributed consensus problems,"MJ Fischer, NA Lynch, M Merritt","Distributed Computing 1 (1), 26-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6520583182608637570,200,1986
+Cryptographic protocols,"RA DeMillo, NA Lynch, MJ Merritt",Proceedings of the fourteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11471195385416160093,198,1982
+Relativization of questions about log space computability,"RE Ladner, NA Lynch","Mathematical Systems Theory 10 (1), 19-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18167831344634121263,192,1976
+Forward and backward simulations for timing-based systems,"N Lynch, F Vaandrager",Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17407484260844001871,185,1991
+Resource allocation with immunity to limited process failure,"MJ Fischer, NA Lynch, JE Burns, A Borodin","20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 234-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12881595025457617013,171,1979
+GeoQuorums: Implementing Atomic Memory in Mobile ,"S Dolev, S Gilbert, NA Lynch, AA Shvartsman, JL Welch","International Symposium on Distributed Computing, 306-320","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18192224329413051357,3120878856907184273",155,2003
+Liveness in timed and untimed systems,"R Gawlick, R Segala, J Søgaard-Andersen, N Lynch","International Colloquium on Automata, Languages, and Programming, 166-177",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9470593111967001825,149,1994
+An efficient algorithm for Byzantine agreement without authentication,"D Dolev, MJ Fischer, R Fowler, NA Lynch, HR Strong","Information and Control 52 (3), 257-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2734955295556476810,145,1982
+Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts,"NA Lynch, AA Shvartsman",Proceedings of IEEE 27th International Symposium on Fault Tolerant Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6751630800488002017,142,1997
+The BG distributed simulation algorithm,"E Borowsky, E Gafni, N Lynch, S Rajsbaum","Distributed Computing 14 (3), 127-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=113467998024672935,139,2001
+Timed I/O automata: A mathematical framework for modeling and analyzing real-time systems,"DK Kaynar, N Lynch, R Segala, F Vaandrager","RTSS 2003. 24th IEEE Real-Time Systems Symposium, 2003, 166-177",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7520241156355704531,138,2003
+High-level modeling and analysis of the traffic alert and collision avoidance system (TCAS),"C Livadas, J Lygeros, NA Lynch","Proceedings of the IEEE 88 (7), 926-948",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9347101735975263000,138,2000
+Virtual mobile nodes for mobile ad hoc networks,"S Dolev, S Gilbert, NA Lynch, E Schiller, AA Shvartsman, JL Welch","International Symposium on Distributed Computing, 230-244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6292039490409721846,137,2004
+Bounds on the time to reach agreement in the presence of timing uncertainty,"H Attiya, C Dwork, N Lynch, L Stockmeyer","Journal of the ACM 41 (1), 122-152","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13783718470091510823,15628910325251381869",135,1994
+Hybrid I/O automata revisited,"N Lynch, R Segala, F Vaandrager","International Workshop on Hybrid Systems: Computation and Control, 403-417",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=785767992678811809,134,2001
+A proof of the Kahn principle for input/output automata,"NA Lynch, EW Stark","Information and Computation 82 (1), 81-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1983464098178579370,134,1989
+Bounds on shared memory for mutual exclusion,"JE Burns, NA Lynch","Information and Computation 107 (2), 171-184",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=198060289242458247,133,1993
+Using mappings to prove timing properties,"NA Lynch, H Attiya","Distributed Computing 6 (2), 121-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3759011096590166978,133,1992
+Revisiting the Paxos algorithm,"R De Prisco, B Lampson, N Lynch","Distributed Algorithms, 111-125",,132,1997
+On describing the behavior and implementation of distributed systems,"NA Lynch, MJ Fischer","Theoretical Computer Science 13 (1), 17-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12384209671322309452,125,1981
+Eventually-serializable data services,"A Fekete, D Gupta, V Luchangco, N Lynch, A Shvartsman","Theoretical Computer Science 220 (1), 113-156",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3753055320391928108,124,1999
+Global states of a distributed system,"MJ Fischer, ND Griffeth, NA Lynch","IEEE transactions on Software Engineering, 198-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3223138487006949496,123,1982
+A time-space tradeoff for sorting on non-oblivious machines,"A Borodin, MJ Fischer, DG Kirkpatrick, NA Lynch, M Tompa","20th Annual Symposium on Foundations of Computer Science (sfcs 1979), 319-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2908743388563879975,123,1979
+Log space recognition and translation of parenthesis languages,N Lynch,"Journal of the ACM (JACM) 24 (4), 583-590",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=771230464127203796,119,1977
+Gradient clock synchronization,"R Fan, N Lynch","Distributed Computing 18 (4), 255-266",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17480012287465797502,118,2006
+A hundred impossibility proofs for distributed computing,N Lynch,Proceedings of the eighth annual ACM Symposium on Principles of distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9955449805460639544,118,1989
+Model-based software design and validation,"SJ Garland, NA Lynch","US Patent 6,289,502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17575734127963059539,115,2001
+Introduction to the theory of nested transactions,"N Lynch, M Merritt","Theoretical Computer Science 62 (1-2), 123-185",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2545364352636180774,115,1986
+The theory of timed I,"DK Kaynar, N Lynch, R Segala, F Vaandrager","O Automata (Synthesis Lectures in Computer Science), Morgan & Claypool …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17618233851556503723,113,2006
+RAMBO II: Rapidly reconfigurable atomic memory for dynamic networks,S Gilbert,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8706731255104801863,108,2003
+Distributed FIFO allocation of identical resources using small shared space,"MJ Fischer, NA Lynch, JE Burns, A Borodin","ACM Transactions on Programming Languages and Systems (TOPLAS) 11 (1), 90-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7487146661613961442,108,1989
+Easy impossibility proofs for distributed consensus problems,"MJ Fischer, NA Lynch, M Merritt","Fault-tolerant distributed computing, 147-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15595488833375303344,107,1990
+Using I/O automata for developing distributed systems,"SJ Garland, NA Lynch","Foundations of Component-Based Systems 13, 285312",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13813291403203275548,104,2000
+Are wait-free algorithms fast?,"H Attiya, N Lynch, N Shavit","Journal of the ACM (JACM) 41 (4), 725-763",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=38896253686331536,104,1994
+Reliable communication over unreliable channels,"Y Afek, H Attiya, A Fekete, M Fischer, N Lynch, Y Mansour, DW Wang, ...","Journal of the ACM 41 (6), 1267-1297",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=480107034906061700,99,1994
+Atomic data access in distributed hash tables,"N Lynch, D Malkhi, D Ratajczak","International Workshop on Peer-to-Peer Systems, 295-305",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1006842742734858439,95,2002
+Discarding obsolete information in a replicated database system,"SK Sarin, NA Lynch","IEEE Transactions on Software Engineering, 39-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11632151000225022138,95,1987
+Upper bounds for static resource allocation in a distributed system,NA Lynch,"J. Comput. Syst. Sci. 23 (2), 254-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14093659802319074929,95,1981
+The impact of synchronous communication on the problem of electing a leader in a ring,"GN Frederickson, NA Lynch",Proceedings of the sixteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7612448856724699913,93,1984
+Specifications and proofs for Ensemble layers,"J Hickey, N Lynch, R Van Renesse",International Conference on Tools and Algorithms for the Construction and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10879132851946302467,91,1999
+Commutativity-based locking for nested transactions,"A Fekete, N Lynch, M Merritt, W Weihl","Journal of Computer and System Sciences 41 (1), 65-156",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1813260440891096239,91,1990
+On reducibility to complex or sparse sets,N Lynch,"Journal of the ACM (JACM) 22 (3), 341-345",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10160302285192769157,89,1975
+Atomic Transactions: In Concurrent and Distributed Systems,"NA Lynch, M Merritt, W Weihl, A Fekete",Morgan Kaufmann Publishers Inc.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13216882396063131443,88,1993
+Proving time bounds for randomized distributed algorithms,"N Lynch, I Saias, R Segala",arXiv preprint math/9409221,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18266580921532260702,83,1994
+Perspectives on the CAP Theorem,"S Gilbert, N Lynch","Computer 45 (2), 30-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7789679228851840792,82,2012
+Fast allocation of nearby resources in a distributed system,NA Lynch,"Proceedings of the twelfth annual ACM symposium on Theory of computing, 70-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9912941758744621888,82,1980
+Dynamic input/output automata: a formal model for dynamic systems,"PC Attie, NA Lynch","International Conference on Concurrency Theory, 137-151",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16753479878562877744,78,2001
+Efficiency of synchronous versus asynchronous distributed systems,"E Arjomandi, MJ Fischer, NA Lynch","Journal of the ACM (JACM) 30 (3), 449-456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7576206988889350754,77,1983
+"IOA: A Language for Specifying, Programming, and Validating Distributed Systems. Draft","SJ Garland, NA Lynch, M Vaziri","Unpublished manuscript, September","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16879389356929756454,1337910010292495236",74,1997
+On the formal verification of the TCAS conflict resolution algorithms,"J Lygeros, N Lynch","Proceedings of the 36th IEEE Conference on Decision and Control 2, 1829-1834",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10532349049025024711,74,1997
+Concurrent timestamping made simple,"R Gawlick, N Lynch, N Shavit","Israel Symposium on Theory of Computing and Systems, 171-183",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4778794386552050188,74,1992
+"Hybrid Systems: Computation and Control: Third International Workshop, HSCC 2000 Pittsburgh, PA, USA, March 23-25, 2000 Proceedings","N Lynch, B Krogh",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6775248801211633680,71,2007
+Timed virtual stationary automata for mobile networks,"S Dolev, S Gilbert, L Lahiani, N Lynch, T Nolte","International Conference On Principles Of Distributed Systems, 130-145",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11019815844196943598,71,2005
+I/O automata: A model for discrete event systems,N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16461706704738264450,71,1988
+Timing-based mutual exclusion,"N Lynch, N Shavit","[1992] Proceedings Real-Time Systems Symposium, 2-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10680191892338946255,70,1992
+R,"S Gilbert, NA Lynch, AA Shvartsman","Distributed Computing 23 (4), 225-272",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7800308641262792572,69,2010
+Tight bounds for k-set agreement,"S Chaudhuri, M Erlihy, NA Lynch, MR Tuttle","Journal of the ACM (JACM) 47 (5), 912-943",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=244234782170679990,69,2000
+Data requirements for implementation of n-process mutual exclusion using a single shared variable,"JE Burns, P Jackson, NA Lynch, MJ Fischer, GL Peterson","Journal of the ACM (JACM) 29 (1), 183-205",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1787545200366731727,69,1982
+Efficient replication of large data objects,"R Fan, N Lynch","International Symposium on Distributed Computing, 75-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15852414838858264025,68,2003
+Verification of the randomized consensus algorithm of Aspnes and Herlihy: a case study,"A Pogosyants, R Segala, N Lynch","Distributed Computing 13 (3), 155-186",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10625061115922417568,68,2000
+I/O automaton models and proofs for shared-key communication systems,N Lynch,"Proceedings of the 12th IEEE Computer Security Foundations Workshop, 14-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3410759206159812921,67,1999
+Safety verification for automated platoon maneuvers: A case study,"E Dolginova, N Lynch","International Workshop on Hybrid and Real-Time Systems, 154-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11525997079522641219,66,1997
+The impossibility of implementing reliable communication in the face of crashes,"A Fekete, N Lynch, Y Mansour, J Spinelli",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7579088795123240095,66,1991
+Observing branching structure through probabilistic contexts,"N Lynch, R Segala, F Vaandrager","SIAM Journal on Computing 37 (4), 977-1013",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15810845844180176390,65,2007
+Concurrency Control for Resilient Nested Transactions.,NA Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5282903766668425193,65,1983
+High-level modeling and analysis of TCAS,"C Livadas, J Lygeros, NA Lynch","Proceedings 20th IEEE Real-Time Systems Symposium (Cat. No. 99CB37054), 115-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11557648669041411806,64,1999
+Time-bounded task-PIOAs: A framework for analyzing security protocols,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala","International Symposium on Distributed Computing, 238-253",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2738001099327346938,63,2006
+Computer-assisted simulation proofs,"JF Søgaard-Andersen, SJ Garland, JV Guttag, NA Lynch, A Pogosyants","International Conference on Computer Aided Verification, 305-319",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2462823555179787698,63,1993
+Time bounds for real-time process control in the presence of timing uncertainty,"H Attiya, NA Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1997506639659091102,16742128653345944205",62,1989
+Liveness in timed and untimed systems,"R Segala, R Gawlick, J Søgaard-Andersen, N Lynch","Information and Computation 141 (2), 119-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16404124634074375225,61,1998
+A lattice-structured proof technique applied to a minimum spanning tree algorithm,"JL Welch, L Lamport, N Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1062303898149478891,61,1988
+Mutual exclusion using invisible reads and writes,"J Burns, NA Lynch",In Proceedings of the 18th Annual Allerton Conference on Communication …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6679517885635283346,60,1980
+Compositionality for probabilistic automata,"N Lynch, R Segala, F Vaandrager","International Conference on Concurrency Theory, 208-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8940048776566950668,59,2003
+The Byzantine Firing Squad Problem.,"JE Burns, NA Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16771842274780289452,59,1985
+Switched PIOA: Parallel composition via distributed scheduling,"L Cheung, N Lynch, R Segala, F Vaandrager","Theoretical Computer Science 365 (1-2), 83-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18013212188673262292,58,2006
+Implementing sequentially consistent shared objects using broadcast and point-to-point communication,"A Fekete, MF Kaashoek, N Lynch","Journal of the ACM (JACM) 45 (1), 35-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1522745587310364329,58,1998
+"The IOA language and toolset: Support for designing, analyzing, and building distributed systems","SJ Garland, NA Lynch","Technical Report MIT/LCS/TR-762, Laboratory for Computer Science …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4779608275627397898,57,1998
+A dynamic view-oriented group communication service,"R De Prisco, A Fekete, N Lynch, A Shvartsman",Proceedings of the seventeenth annual ACM symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3568552611503483347,56,1998
+A Simple and Efficient Byzantine Generals Algorithm.,"NA Lynch, MJ Fischer, R Fowler",GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2193851488922355135,56,1982
+A hierarchy-based fault-local stabilizing algorithm for tracking in sensor networks,"M Demirbas, A Arora, T Nolte, N Lynch","International Conference on Principles of Distributed Systems, 299-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=249512591391604630,54,2004
+Broadcasting in unreliable radio networks,"F Kuhn, N Lynch, C Newport, R Oshman, A Richa",Proceedings of the 29th ACM SIGACT-SIGOPS symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9386982809059929272,51,2010
+The virtual node layer: A programming abstraction for wireless sensor networks,"M Brown, S Gilbert, N Lynch, C Newport, T Nolte, M Spindel","ACM SIGBED Review 4 (3), 7-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=593076465856415254,51,2007
+Task-structured probabilistic I/O automata,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala","2006 8th International Workshop on Discrete Event Systems, 207-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15168677863625560644,51,2006
+Hybrid i,"N Lynch, R Segala, FW Vaandrager, HB Weinberg",O au,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15007007996668263108,51,2003
+Action transducers and timed automata,"N Lynch, F Vaandrager","Formal Aspects of Computing 8 (5), 499-538",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4003627853638243485,50,1996
+The data link layer: two impossibility results,"N Lynch, Y Mansour, A Fekete",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13253479790375372556,50,1988
+Strings of vehicles: Modeling and safety conditions,"J Lygeros, N Lynch","International Workshop on Hybrid Systems: Computation and Control, 273-288",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=641501864932444760,49,1998
+A tight lower bound for k-set agreement,"S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle","Proceedings of 1993 IEEE 34th Annual Foundations of Computer Science, 206-215",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9850918257018000679,49,1993
+Action transducers and timed automata,"F Vaandrager, N Lynch","International Conference on Concurrency Theory, 436-455",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8572005601841049152,49,1992
+A dynamic primary configuration group communication service,"R De Prisco, A Fekete, N Lynch, A Shvartsman","International Symposium on Distributed Computing, 64-78",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=301796694862410185,48,1999
+Clock synchronization for wireless networks,"R Fan, I Chakraborty, N Lynch","International Conference On Principles Of Distributed Systems, 400-414",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6052611018383778125,46,2004
+Safety verification of model helicopter controller using hybrid Input/Output automata,"S Mitra, Y Wang, N Lynch, E Feron","International Workshop on Hybrid Systems: Computation and Control, 343-358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3113852854656346185,46,2003
+Multicast group communication as a base for a load-balancing replicated data service,"R Khazan, A Fekete, N Lynch","International Symposium on Distributed Computing, 258-272",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10776564575155521821,43,1998
+TIOA user guide and reference manual,SJ Garland,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3806899172766593385,42,2005
+Early-delivery dynamic atomic broadcast,"Z Bar-Joseph, I Keidar, N Lynch","International Symposium on Distributed Computing, 1-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5484812203385853364,42,2002
+Atomic data access in content addressable networks,"N Lynch, D Malkhi, D Ratajczak",In Proceedings of the 1st International Workshop on Peer-to-Peer Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11865416031670049619,42,2002
+Verifying timing properties of concurrent algorithms,"V Luchangco, E Söylemez, S Garland, N Lynch","Formal Description Techniques VII, 259-273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5530073723619122136,42,1995
+The abstract MAC layer,"F Kuhn, N Lynch, C Newport","International Symposium on Distributed Computing, 48-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2564552520369153187,40,2009
+On the weakest failure detector ever,"R Guerraoui, M Herlihy, P Kuznetsov, N Lynch, C Newport","Distributed Computing 21 (5), 353-366",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9864586669063618877,40,2009
+Are wait-free algorithms fast?,"H Attiya, N Lynch, N Shavit",Proceedings [1990] 31st Annual Symposium on Foundations of Computer Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14787809338226576156,40,1990
+Multivalued possibilities mappings,NA Lynch,Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18436938816412450778,40,1989
+Efficient searching using partial ordering,"A Borodin, LJ Guibas, NA Lynch, AC Yao","Information Processing Letters, Vol 12, num 2",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4892732335123413623,40,1981
+Analyzing security protocols using time-bounded task-PIOAs,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala","Discrete Event Dynamic Systems 18 (1), 111-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7227712720154012026,39,2008
+Simulation techniques for proving properties of real-time systems,N Lynch,Workshop/School/Symposium of the REX Project (Research and Education in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15304407022016610598,39,1993
+Nested Transactions and Read/Write Locking.,"A Fekete, N Lynch, M Merritt, W Weihl",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6505962553429787770,39,1987
+An inheritance-based technique for building simulation proofs incrementally,"I Keidar, RI Khazan, N Lynch, A Shvartsman","ACM Transactions on Software Engineering and Methodology (TOSEM) 11 (1), 63-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1147978017174782938,37,2002
+A modular drinking philosophers algorithm,"JL Welch, NA Lynch","Distributed Computing 6 (4), 233-244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1469537906824928417,37,1993
+A theory of timestamp-based concurrency control for nested transactions,"J Aspnes, A Fekete, NA Lynch, M Merritt, WE Weihl",Proceedings of the 14th International Conference on Very Large Data Bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15085411243788830686,37,1988
+On the correctness of orphan elimination algorithms,"M Herlihy, NA Lynch, M Merritt, W Weihl",Massachusetts Institute of Technology. Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11821502510559054001,37,1987
+Heirarchical correctness proofs for distributed algorithms,"MR Tuttle, NA Lynch","Massachusetts Institute of Technology, Dept. of Electrical Engineering and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17316438655314868799,37,1987
+The abstract MAC layer,"F Kuhn, N Lynch, C Newport","Distributed Computing 24 (3-4), 187-206",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9274558682289965168,36,2011
+Self-stabilizing robot formations over unreliable networks,"S Gilbert, N Lynch, S Mitra, T Nolte","ACM Transactions on Autonomous and Adaptive Systems (TAAS) 4 (3), 17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11224166831183627009,36,2009
+Consensus and collision detectors in radio networks,"G Chockler, M Demirbas, S Gilbert, N Lynch, C Newport, T Nolte","Distributed Computing 21 (1), 55-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6162136124240293554,36,2008
+Task allocation in ant colonies,"A Cornejo, A Dornhaus, N Lynch, R Nagpal","International Symposium on Distributed Computing, 46-60",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5183554934976088952,35,2014
+Decomposing broadcast algorithms using abstract MAC layers,"M Khabbazian, DR Kowalski, F Kuhn, N Lynch","Ad Hoc Networks 12, 219-242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7082638800634836632,35,2014
+MAC design for analog network coding,"M Khabbazian, F Kuhn, N Lynch, M Médard, A ParandehGheibi",Proceedings of the 7th ACM ACM SIGACT/SIGMOBILE International Workshop on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14320815460568371315,35,2011
+Safety verification of an aircraft landing protocol: A refinement approach,"S Umeno, N Lynch","International Workshop on Hybrid Systems: Computation and Control, 557-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1500939998233261513,35,2007
+Correctness of vehicle control systems-a case study,"HB Weinberg, N Lynch","17th IEEE Real-Time Systems Symposium, 62-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2920530101998907869,35,1996
+Structuring nreliable radio networks,"K Censor-Hillel, S Gilbert, F Kuhn, N Lynch, C Newport","Distributed computing 27 (1), 1-19",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18162299942013411978,34,2014
+Self-stabilizing mobile node location management and message routing,"S Dolev, L Lahiani, N Lynch, T Nolte","Symposium on Self-Stabilizing Systems, 96-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12490624255302850127,34,2005
+Motion coordination using virtual nodes,"N Lynch, S Mitra, T Nolte","Proceedings of the 44th IEEE Conference on Decision and Control, 2823-2828",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1606022871412841569,33,2005
+Verification of automated vehicle protection systems,"HB Weinberg, N Lynch, N Delisle","International Hybrid Systems Workshop, 101-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14727374678519731523,33,1995
+Trade-offs between selection complexity and performance when searching the plane without communication,"C Lenzen, N Lynch, C Newport, T Radeva",Proceedings of the 2014 ACM symposium on Principles of distributed computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=329668785172323382,32,2014
+On formal modeling of agent computations,"T Araragi, P Attie, I Keidar, K Kogure, V Luchangco, N Lynch, K Mano","International Workshop on Formal Approaches to Agent-Based Systems, 48-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17774405185322516836,32,2000
+Verifying average dwell time of hybrid systems,"S Mitra, D Liberzon, N Lynch","ACM Transactions on Embedded Computing Systems (TECS) 8 (1), 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5369857825635395916,31,2008
+A coded shared atomic memory algorithm for message passing architectures,"VR Cadambe, N Lynch, M Médard, P Musial","Distributed Computing 30 (1), 49-73",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=639703252439589041,30,2017
+An Ω (n log n) lower bound on the cost of mutual exclusion,"R Fan, N Lynch",Proceedings of the twenty-fifth annual ACM symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17260537120800832566,30,2006
+A modular proof of correctness for a network synchronizer,"A Fekete, N Lynch, L Shrira","International Workshop on Distributed Algorithms, 219-256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15620979999813558604,30,1987
+Relativization of the theory of computational complexity,"NA Lynch, AR Meyer, MJ Fischer","Transactions of the American Mathematical Society 220, 243-287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12301829576890652750,30,1976
+"Input/Output automata: Basic, timed, hybrid, probabilistic, dynamic,...",N Lynch,"International Conference on Concurrency Theory, 191-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13646481463633420665,29,2003
+Correctness of communication protocols-a case study,"JF Søgaard-Andersen, NA Lynch, BW Lampson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7170772692303489343,29,1993
+Neighbor discovery in mobile ad hoc networks using an abstract MAC layer,"A Cornejo, N Lynch, S Viqar, JL Welch","2009 47th Annual Allerton Conference on Communication, Control, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7600687338424362815,28,2009
+Reliable distributed computing on unreliable radio channels,"S Dolev, S Gilbert, R Guerraoui, DR Kowalski, C Newport, F Kohn, ...","Proceedings of the 2009 MobiHoc S 3 workshop on MobiHoc S 3, 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10321320283573690398,28,2009
+A virtual node-based tracking algorithm for mobile networks,"T Nolte, N Lynch","27th International Conference on Distributed Computing Systems (ICDCS'07), 1-1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13584914823992126851,28,2007
+Proving safety properties of the steam boiler controller,"G Leeb, N Lynch","Formal Methods for Industrial Applications, 318-338",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14403236429636459824,28,1996
+Correctness of at-most-once message delivery protocols,"BW Lampson, NA Lynch, JF Søgaard-Andersen",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4235525029417272066,28,1994
+Automated implementation of complex distributed algorithms specified in the IOA language,"C Georgiou, N Lynch, P Mavrommatis, JA Tauber","International Journal on Software Tools for Technology Transfer 11 (2), 153-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18133490854336610505,27,2009
+Translating timed I/O automata specifications for theorem proving in PVS,"H Lim, D Kaynar, N Lynch, S Mitra","International Conference on Formal Modeling and Analysis of Timed Systems, 17-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9183997263034869054,27,2005
+Using simulated execution in verifying distributed algorithms,"TN Win, MD Ernst, SJ Garland, D Kırlı, NA Lynch","International journal on software tools for technology transfer 6 (1), 67-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1665437400473560312,27,2004
+A tradeoff between safety and liveness for randomized coordinated attack,"G Varghese, NA Lynch","Information and Computation 128 (1), 57-71","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14981138066366197320,12913354131958707775",27,1996
+Hybrid systems: computation and control,"J Hespanha, A Tiwari",Springer Berlin/Heidelberg.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2114444510936726211,26,2006
+A serialization graph construction for nested transactions,"A Fekete, N Lynch, WE Weihl",Proceedings of the ninth ACM SIGACT-SIGMOD-SIGART symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17781434336441385432,26,1990
+Probabilistic analysis of a network resource allocation algorithm,"NA Lynch, ND Griffeth, MJ Fischer, LJ Guibas","Information and Control 68 (1-3), 47-85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16768963130720641278,26,1986
+Log space machines with multiple oracle tapes,N Lynch,"Theoretical Computer Science 6 (1), 25-39",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4511080097428122046,26,1978
+Keeping mobile robot swarms connected,"A Cornejo, F Kuhn, R Ley-Wild, N Lynch","International Symposium on Distributed Computing, 496-511",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9600688323181354178,25,2009
+A proof of burns n-process mutual exclusion algorithm using abstraction,"HE Jensen, NA Lynch",International Conference on Tools and Algorithms for the Construction and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15730328345387344552,25,1998
+Shared data requirements for implementation of mutual exclusion using a test-and-set primitive,"JE Burns, MJ Fischer, P Jackson, NA Lynch, GL Peterson","Proceedings of the 1978 International Conference on Parallel Processing, 79-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17088955093509034057,25,1978
+Using probabilistic I/O automata to analyze an oblivious transfer protocol,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, R Segala",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6736867178038752913,24,2005
+A theory of atomic transactions,"N Lynch, M Merritt, W Weihl, A Fekete","International Conference on Database Theory, 41-71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2516336744306514439,24,1988
+Proving safety properties of an aircraft landing protocol using I/O Automata and the PVS theorem prover: A case study,"S Umeno, N Lynch","International Symposium on Formal Methods, 64-80",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5962379996186540273,23,2006
+Brief announcement: virtual mobile nodes for mobile ad hoc networks,"S Dolev, S Gilbert, NA Lynch, E Schiller, AA Shvartsman, J Welch",Proceedings of the twenty-third annual ACM symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17299924196314058017,23,2004
+Counting networks are practically linearizable,"N Lynch, N Shavit, A Shvartsman, D Touitou","PODC, 280-289",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5607627303248805532,23,1996
+"Modelling and verification of automated transit systems, using timed automata, invariants and simulations",N Lynch,"International Hybrid Systems Workshop, 449-463",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1292955369464559314,23,1995
+Reconciling the theory and practice of (un) reliable wireless broadcast,"G Chockler, M Demirbas, S Gilbert, N Lynch, C Newport, T Nolte",25th IEEE International Conference on Distributed Computing Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3777607797753432552,22,2005
+Verification of the randomized consensus algorithm of Aspnes and Herlihy: a case study,"A Pogosyants, R Segala, N Lynch",Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3998862939546041761,22,1997
+On the Borowsky-Gafni simulation algorithm,"NA Lynch, S Rajsbaum","ISTCS 96, 4-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4394277435454837943,22,1996
+Leader election using loneliness detection,"M Ghaffari, N Lynch, S Sastry","Distributed Computing 25 (6), 427-450",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4766480999487641326,21,2012
+Bounds on contention management in radio networks,"M Ghaffari, B Haeupler, N Lynch, C Newport","International Symposium on Distributed Computing, 223-237",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18251677499711834889,21,2012
+Fault-tolerance through k-connectivity,"A Cornejo, N Lynch",Workshop on network science and systems issues in multi-robot autonomy: ICRA …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2752896985827711600,21,2010
+Switched probabilistic I/O automata,"L Cheung, N Lynch, R Segala, F Vaandrager","International Colloquium on Theoretical Aspects of Computing, 494-510",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13211252230140757732,21,2004
+Correctness Conditions for Highly Available Replicated Databases.,"N Lynch, B Blaustein, M Siegel",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12876391770980630798,21,1986
+On structure preserving reductions,"N Lynch, RJ Lipton","SIAM Journal on Computing 7 (2), 119-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7840664294532396171,21,1978
+Relativization of the theory of computational complexity.,NA Lynch,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12378076212548474229,21,1972
+The cost of radio network broadcast for different models of unreliable links,"M Ghaffari, N Lynch, C Newport",Proceedings of the 2013 ACM symposium on Principles of distributed computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1507431033821214046,20,2013
+Verifying average dwell time by solving optimization problems,"S Mitra, N Lynch, D Liberzon","International Workshop on Hybrid Systems: Computation and Control, 476-490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18093697100681853033,20,2006
+Computer-assisted verification of an algorithm for concurrent timestamps,"TP Petrov, A Pogosyants, SJ Garland, V Luchangco, NA Lynch","Formal Description Techniques IX, 29-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=159778698625648630,20,1996
+Proving correctness of a vehicle maneuver: Deceleration,"NA Lynch, HB Weinberg","Second European Workshop on Real-Time and Hybrid Systems, 196-203",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16419749550823262980,20,1995
+Computational tradeoffs in biological neural networks: Self-stabilizing winner-take-all networks,"N Lynch, C Musco, M Parter",arXiv preprint arXiv:1610.02084,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13705814575681471250,19,2016
+Dynamic input/output automata: A formal and compositional model for dynamic systems,"PC Attie, NA Lynch","Information and Computation 249, 28-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8472289084625299390,19,2016
+A comparison of simulation techniques and algebraic techniques for verifying concurrent systems,"N Lynch, R Segala","Formal Aspects of Computing 7 (3), 231-265",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5935632044132434358,19,1995
+Engineering the virtual node layer for reactive MANET routing,"J Wu, N Griffeth, C Newport, N Lynch",2011 IEEE 10th International Symposium on Network Computing and Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2353385114786062773,18,2011
+A general characterization of indulgence,"R Guerraoui, N Lynch","ACM Transactions on Autonomous and Adaptive Systems (TAAS) 3 (4), 20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3763159145376396236,18,2008
+Using simulated execution in verifying distributed algorithms,"TN Win, MD Ernst, SJ Garland, D Kýrlý, NA Lynch","International Workshop on Verification, Model Checking, and Abstract …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6830397154488393623,18,2003
+QoS preserving totally ordered multicast,"Z Bar-Joseph, I Keidar, T Anker, N Lynch","5th Int. Conf. On Prin. Of Dist. Sys.(OPODIS), 143-162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6886464783812344474,18,2000
+"A three-level analysis of a simple acceleration maneuver, with uncertainties",N Lynch,"Proceedings of the Third AMAST Workshop on Real-Time Systems, 1-22","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5447452373195756841,9508438877608152178",18,1996
+Approximations to the halting problem,N Lynch,"Journal of Computer and System Sciences 9 (2), 143-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1169203974368848103,18,1974
+Ant-inspired density estimation via random walks,"C Musco, HH Su, N Lynch",Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14947543214386501210,17,2016
+Brief announcement: Hardness of broadcasting in wireless networks with unreliable communication,"F Kuhn, N Lynch, C Newport",Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9774337457260897003,17,2009
+Brief announcement: Virtual stationary automata for mobile networks,"S Dolev, L Lahiani, S Gilbert, N Lynch, T Nolte",Annual ACM Symposium on Principles of Distributed Computing: Proceedings of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17378432956846079261,17,2005
+Distributed Algorithms. c1996,N Lynch,Grafo completo: mensagens podem chegar por qualquer canal de comunicação …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15495882916789383610,17,0
+Multi-message broadcast with abstract mac layers and unreliable links,"M Ghaffari, E Kantor, N Lynch, C Newport",Proceedings of the 2014 ACM symposium on Principles of distributed computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8084343003820615895,16,2014
+Using task-structured probabilistic I/O automata to analyze an oblivious transfer protocol,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13895011204534243546,16,2007
+Hybrid Systems: Computation and Control,"BH Krogh, NA Lynch",Springer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6229506111582747907,16,2000
+A correctness condition for memory shared by byzantine processes,"D Malkhi, M Reiter, N Lynch","Unpublished manuscript, Sept 98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=635363767092498135,16,1998
+Designing algorithms for distributed systems with partially synchronized clocks,"S Chaudhuri, R Gawlick, N Lynch",Proceedings of the twelfth annual ACM symposium on Principles of distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2237754644979993202,16,1993
+A difference in efficiency between synchronous and asynchronous systems,"E Arjomandi, MJ Fischer, NA Lynch",Proceedings of the thirteenth annual ACM symposium on Theory of computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1823418607015917707,16,1981
+A local broadcast layer for the SINR network model,"MM Halldórsson, S Holzer, N Lynch",Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11519451502662036997,15,2015
+Connectivity service for mobile ad-hoc networks,"A Cornejo, N Lynch",2008 Second IEEE International Conference on Self-Adaptive and Self …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6367449749935044334,15,2008
+Specifying and proving properties of timed I/O automata using Tempo,"M Archer, H Lim, N Lynch, S Mitra, S Umeno","Design Automation for Embedded Systems 12 (1-2), 139-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3475289200828775532,15,2008
+Tempo: A toolkit for the timed input/output automata formalism,"NA Lynch, AA Shvartsman",VEROMODO INC BROOKLINE MA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15101458149248283014,15,2008
+Self-stabilization and virtual node layer emulations,"T Nolte, N Lynch","Symposium on Self-Stabilizing Systems, 394-408",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9542906489044925191,15,2007
+Stalk: A self-stabilizing hierarchical tracking service for sensor networks,"M Demirbas, A Arora, T Nolte, N Lynch",Technical Report OSU-CISRC-4/03-TR19 Ohio State University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8104447152543938938,15,2003
+A toolbox for proving and maintaining hybrid specifications,"MS Branicky, E Dolginova, N Lynch","International Hybrid Systems Workshop, 18-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5745360256716529475,15,1996
+The need for headers: An impossibility result for communication over unreliable channels,"A Fekete, N Lynch","International Conference on Concurrency Theory, 199-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9457868783465580673,15,1990
+Modelling shared state in a shared action model,"KJ Goldman, NA Lynch",[1990] Proceedings. Fifth Annual IEEE Symposium on Logic in Computer Science …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4638414338190100744,15,1990
+Size complexity in context-free grammars forms,"S Ginsburg, N Lynch","Journal of the ACM (JACM) 23 (4), 582-598",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5447849334493501843,15,1976
+“Helping”: several formalizations,N Lynch,"The Journal of Symbolic Logic 40 (4), 555-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18066336884759859775,15,1975
+Information-theoretic lower bounds on the storage cost of shared memory emulation,"VR Cadambe, Z Wang, N Lynch",Proceedings of the 2016 ACM Symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4528576979654935743,14,2016
+Distributed Computing,"NA Lynch, AA Shvartsman",Springer-Verlag Berlin Heidelberg,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3307628410225581435,15265623166610238682",14,2010
+Proving atomicity: An assertional approach,"G Chockler, N Lynch, S Mitra, J Tauber","International Symposium on Distributed Computing, 152-168",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3392289442535194364,14,2005
+Compiling IOA without global synchronization,"JA Tauber, NA Lynch, MJ Tsai",Third IEEE International Symposium on Network Computing and Applications …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15670715701298844864,14,2004
+Mechanical translation of I/O automaton specifications into first-order logic,"A Bogdanov, SJ Garland, NA Lynch",International Conference on Formal Techniques for Networked and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15910078837361542682,14,2002
+Chapter on distributed computing,"L Lamport, N Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2362298405480764982,14,1989
+Reliable broadcast in networks with nonprogrammable servers,"H Garcia-Molina, B Kogan, N Lynch","The 8th International Conference on Distributed, 428-437",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15858134844709247886,14,1988
+On the Role of Scheduling in Simulation-Based Security.,"R Canetti, L Cheung, NA Lynch, O Pereira","IACR Cryptology ePrint Archive 2007, 102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3181945703039896610,13,2007
+A reliable broadcast scheme for sensor networks,"C Livadas, NA Lynch",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7728538210806720551,13,2003
+The BG distributed simulation algorithm,"E Borowsky, E Gafni, N Lynch, S Rajsbaum",Submitted for journal publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14443051326602794098,13,1997
+Distributed Systems,NA Lynch,Morgan Kaufmann Publishers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6468992830886541145,13,1996
+Straight-line program length as a parameter for complexity analysis,NA Lynch,"Journal of Computer and System Sciences 21 (3), 251-280",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9670328067804065791,13,1980
+RADON: Repairable atomic data object in networks,"KM Konwar, N Prakash, N Lynch, M Médard",arXiv preprint arXiv:1605.05717,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11201704991430756779,12,2016
+Bounded-contention coding for wireless networks in the high SNR regime,"K Censor-Hillel, B Haeupler, N Lynch, M Médard","International Symposium on Distributed Computing, 91-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5156383585889578525,12,2012
+Modeling computational security in long-lived systems,"R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira","International Conference on Concurrency Theory, 114-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13612017937737145255,12,2008
+Compositional security for task-pioas,"R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira","20th IEEE Computer Security Foundations Symposium (CSF'07), 125-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13326284714255116858,12,2007
+Specifying and proving timing properties with TIOA tools,"D Kaynar, N Lynch, S Mitra",Work in progress session of the 25th IEEE International Real-Time Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11269613658114857344,12,2004
+Decomposing verification of timed I/O automata,"DK Kaynar, N Lynch","Formal Techniques, Modelling and Analysis of Timed and Fault-Tolerant …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8801096454817018754,12,2004
+Communication and data sharing for dynamic distributed systems,"N Lynch, A Shvartsman","Future directions in distributed computing, 62-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1829579874443497815,12,2003
+Hemispherectomy and diaschisis: Rapid improvement in cerebral functions after right hemispherectomy in a six year old child,"A Smith, ML Walker, G Myers","Archives of Clinical Neuropsychology 3 (1), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2176945092789786224,12,1988
+Consensus in the Presence of Partial Synchrony (Preliminary Version).,"C Dwork, N Lynch, L Stockmeyer",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10898263542577750223,12,1984
+An efficient Byzantine agreement without authentication,"D Dolev, MJ Fischer, R Fowler, N Lynch, R Strong",IBM Thomas J. Watson Research Division,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2068683692870678715,12,1982
+Optimal Placement of Identical Resources in a Distributed Network.,"MJ Fischer, ND Griffeth, LJ Guibas, NA Lynch",WASHINGTON UNIV SEATTLE DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8257282238822939095,12,1981
+Distributed house-hunting in ant colonies,"M Ghaffari, C Musco, T Radeva, N Lynch",Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16052237935529095719,11,2015
+Specifying and proving properties of timed I/O automata in the TIOA toolkit,"M Archer, HP Lim, N Lynch, S Mitra, S Umeno",Fourth ACM and IEEE International Conference on Formal Methods and Models …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=929264057797146830,11,2006
+Hybrid I/O Automata,"NA Lynch, R Segala, FW Vaandrager","Nijmegen Institute for Computing and Information Sciences, Faculty of …","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4203195794165663584,15783410996073048574",11,2002
+Timing conditions for linearizability in uniform counting networks,"N Lynch, N Shavit, A Shvartsman, D Touitou","Theoretical Computer Science 220 (1), 67-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5049989970858195304,11,1999
+Distributed algorithms: Lecture notes for 6.852,"NA Lynch, KJ Goldman",Massachusetts Institute of Technology. Laboratory for Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18325540691072463937,11,1989
+Quorum consensus in nested transaction systems,"KJ Goldman, NA Lynch",Proceedings of the sixth annual ACM Symposium on Principles of distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14915670633122238045,11,1987
+Distributed FIFO Allocation of Identical Resources Using Small Shared Space.,"MJ Fischer, NA Lynch, JE Burns, A Borodin",YALE UNIV NEW HAVEN CT DEPT OF COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10506148301553987503,11,1985
+Storage-optimized data-atomic algorithms for handling erasures and errors in distributed storage systems,"KM Konwar, N Prakash, E Kantor, N Lynch, M Médard, AA Schwarzmann",2016 IEEE International Parallel and Distributed Processing Symposium (IPDPS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=226535504912440184,10,2016
+Asynchronous leader election and mis using abstract mac layer,"N Lynch, T Radeva, S Sastry",Proceedings of the 8th International Workshop on Foundations of Mobile …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3390607127542335644,10,2012
+The changing meanings of urban places,"N Lynch, D Ley",Canadian cities in transition: New directions in the twenty-first century 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10529761649775564619,10,2010
+Simulating fixed virtual nodes for adapting wireline protocols to MANET,"J Wu, N Griffeth, N Lynch, C Newport, R Droms",2009 Eighth IEEE International Symposium on Network Computing and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17390353746977708461,10,2009
+Virtual infrastructure for collision-prone wireless networks,"G Chockler, S Gilbert, N Lynch",Proceedings of the twenty-seventh ACM symposium on Principles of distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1270399904627642225,10,2008
+The DHCP failover protocol: A formal perspective,"R Fan, R Droms, N Griffeth, N Lynch",International Conference on Formal Techniques for Networked and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14593525658687820854,10,2007
+Proving approximate implementations for probabilistic I/O automata,"S Mitra, N Lynch","Electronic Notes in Theoretical Computer Science 174 (8), 71-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1724500727627219309,10,2007
+The impossibility of boosting distributed service resilience,"P Attie, R Guerraoui, P Kouznetsov, N Lynch, S Rajsbaum",25th IEEE International Conference on Distributed Computing Systems (ICDCS …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11517360582080141028,10,2005
+Boosting Fault-Tolerance in Asynchronous Message Passing кystems is Impossible,"P Attie, N Lynch, S Rajsbaum",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10090108147138609903,10,2002
+The IOA simulator,"DK Kaynar, A Chefter, L Dean, S Garland, N Lynch, TN Win, ...",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12084676887340107306,10,2002
+Designing a caching-based reliable multicast protocol,"C Livadas, I Keidar, NA Lynch",Proc. International Conference on Dependable Systems and Networks (IEEE/DSN …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13809335669757736890,10,2001
+Relative complexity of algebras,"NA Lynch, EK Blum","Mathematical systems theory 14 (1), 193-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9484248885465497890,10,1981
+A time-space tradeoff for sorting and related non-oblivious computations,"A Borodin, MJ Fischer, DG Kirkpatrick, NA Lynch, M Tompa","ACM SIGACT News 11 (2), 24-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13608850189515167592,10,1979
+Straight-line program length as a parameter for complexity measures,NA Lynch,"Proceedings of the tenth annual ACM symposium on Theory of computing, 150-161",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12944788071507374081,10,1978
+Derivation complexity in context-free grammar forms,"S Ginsburg, N Lynch","SIAM Journal on Computing 6 (1), 123-138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3282521054563737059,10,1977
+NSF workshop on a software research program for the 21 st century,"VR Basili, L Belady, B Boehm, F Brooks, J Browne, R DeMillo, SI Feldman, ...","ACM SIGSOFT Software Engineering Notes 24 (3), 37-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3110617667007101347,9,1999
+Trade-offs between message delivery and quiesce times in connection management protocols,"J Kleinberg, H Attiya, N Lynch",Proceedings Third Israel Symposium on the Theory of Computing and Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11992664889203691257,9,1995
+Quorum consensus in nested-transaction systems,"KJ Goldman, N Lynch","ACM Transactions on Database Systems (TODS) 19 (4), 537-585",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15262469229706812406,9,1994
+A technique for decomposing algorithms which use a single shared variable,"NA Lynch, MJ Fischer","Journal of Computer and System Sciences 27 (3), 350-377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7654232288710535417,9,1983
+A difference in expressive power between flowcharts and recursion schemes,"NA Lynch, EK Blum","Mathematical systems theory 12 (1), 205-211",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14363933047635852298,9,1979
+Efficient reducibility between programming systems (Preliminary Report),"NA Lynch, EK Blum","Proceedings of the ninth annual ACM symposium on Theory of computing, 228-238",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10003465747112424947,9,1977
+A layered architecture for erasure-coded consistent distributed storage,"KM Konwar, N Prakash, N Lynch, M Médard","Proceedings of the ACM Symposium on Principles of Distributed Computing, 63-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3534166355583445420,8,2017
+Neuro-RAM unit with applications to similarity testing and compression in spiking neural networks,"N Lynch, C Musco, M Parter",arXiv preprint arXiv:1706.01382,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=766748580093257583,8,2017
+Brief announcement: beeping a maximal independent set fast,"S Holzer, N Lynch",30th International Symposium on Distributed Computing (DISC),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14955025110873767100,8,2016
+"Implementing atomic memory in dynamic networks, using an aggressive reconfiguration strategy","S Gilbert, N Lynch, A Shvartsman, R II","Tech. Rep., LCS, MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13058166489060630285,8,2003
+Hybrid 1/0 automata,"NA Lynch, R Segala, FW Vaandrager, HB Weinberg","Rep./Centrum voor wiskunde en informatica, Computer science/Dep. of software …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2879854486986394835,8,1995
+Ant-inspired density estimation via random walks,"C Musco, HH Su, NA Lynch","Proceedings of the National Academy of Sciences 114 (40), 10534-10541",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=793642991718213964,7,2017
+Reliably detecting connectivity using local graph traits,"A Cornejo, N Lynch","International Conference On Principles Of Distributed Systems, 87-102",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14959227919622360945,7,2010
+Modeling radio networks,"C Newport, N Lynch","International Conference on Concurrency Theory, 481-495",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11319464648090262166,7,2009
+Automated implementation of complex distributed algorithms specified in the IOA language,"C Georgiou, N Lynch, P Mavrommatis, JA Tauber",In Proceedings of 18th International Conference on Parallel and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11775726297155830860,7,2005
+Brief announcement: Stalk: a self-stabilizing hierarchical tracking service for sensor networks,"M Demirbas, A Arora, T Nolte, N Lynch","PODC 4, 378-378",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18263415263505980481,7,2004
+A formal venture into reliable multicast territory,"C Livadas, NA Lynch",International Conference on Formal Techniques for Networked and Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=842571887259833553,7,2002
+A formal treatment of Lamport’s Paxos algorithm,"R De Prisco, N Lynch, A Shvartsman, N Immorlica, TN Win","Unpublished, October",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4995670658944908290,7,2002
+High-level modeling and analysis of an air-traffic management system,N Lynch,"Hybrid Systems: Computation and Control, 3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16703708192718843542,7,1999
+On the correctness of orphan management algorithms,"M Herlihy, N Lynch, M Merritt, W Weihl","Journal of the ACM (JACM) 39 (4), 881-930",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=838273414515975600,7,1992
+A basic compositional model for spiking neural networks,"N Lynch, C Musco",arXiv preprint arXiv:1808.03884,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17153950336489739521,6,2018
+Spiking neural networks: An algorithmic perspective,"N Lynch, C Musco, M Parter",5th Workshop on Biological Distributed Algorithms (BDA 2017),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10358598005676138242,6,2017
+A (truly) local broadcast layer for unreliable radio networks,"N Lynch, C Newport",Proceedings of the 2015 ACM Symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3348130308239445174,6,2015
+Asynchronous failure detectors,"A Conrejo, N Lynch, S Sastry",Proceedings of the 2012 ACM symposium on Principles of Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=233000900517712408,6,2012
+Self-stabilizing mobile robot formations with virtual nodes,"S Gilbert, N Lynch, S Mitra, T Nolte","Symposium on Self-Stabilizing Systems, 188-202",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3064697881007451381,6,2008
+The Tempo language user guide and reference manual,"NA Lynch, SJ Garland, D Kaynar, L Michel, A Shvartsman",Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7671218302852434339,6,2008
+Using task-structured Probabilistic I/O Automata to analyze cryptographic protocols,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4435148903912149567,6,2006
+Using self-similarity for effecient network testing,"C Djouvas, N Griffeth, N Lynch",Technical report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13780348110799611450,6,2005
+Application of hybrid I/O automata in safety verification of pitch controller for model helicopter system,"S Mitra, Y Wang, N Lynch, E Feron",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7562163324827728246,6,2003
+Forward and backward simulations part I: Untimed systems (replaces TM-486),"N Lynch, F Vaandrager",Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9991117698628310367,6,1994
+Automatic verification of the timing properties of MMT automata,ES Söylemez,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9811439567806245383,6,1994
+Reliable at-most-once message delivery protocols,"B Lampson, N Lynch, J Søgaard-Andersen, B Lampson","Technical Report, MIT Laboratory for Computer Science, to appear",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3617393819298698514,6,1993
+Hybrid atomicity for nested transactions,"A Fekete, N Lynch, WE Weihl","International Conference on Database Theory, 216-230",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1126127925944430127,6,1992
+Comparative complexity of grammar forms,"S Ginsburg, N Lynch","Proceedings of the seventh annual ACM symposium on Theory of computing, 153-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3012159520924991580,6,1975
+"ARES: Adaptive, Reconfigurable, Erasure coded, atomic Storage","V Cadambe, N Nicolaou, KM Konwar, N Prakash, N Lynch, M Médard",arXiv preprint arXiv:1805.03727,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17355131163831144300,5,2018
+Bounded-Contention Coding for the additive network model,"K Censor-Hillel, B Haeupler, N Lynch, M Médard","Distributed Computing 28 (5), 297-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11939090687309611061,5,2015
+The cost of global broadcast using abstract MAC layers,"M Khabbazian, D Kowalski, N Lynch, F Kuhn",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3776384567085588026,5,2010
+Trace-based semantics for probabilistic timed I/O automata,"S Mitra, N Lynch","International Workshop on Hybrid Systems: Computation and Control, 718-722",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9825824263421677864,5,2007
+Testing self-similar networks,"C Djouvas, ND Griffeth, NA Lynch","Electronic Notes in Theoretical Computer Science 164 (4), 67-82",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7865541437571865470,5,2006
+Approximate simulations for task-structured probabilistic I/O automata,"S Mitra, N Lynch",LICS Workshop on Probabilistic Automata and Logics (PAuL06),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14571573577298795721,5,2006
+An Algorithm for an Intermittently Atomic Data Service Based on Group Communication,"R Khazan, N Lynch",Proceedings of the International Workshop on Large-Scale Group Communication …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5692037906853873687,5,2003
+Brief announcement: efficient replication of large data objects,"R Fan, NA Lynch",Proceedings of the twenty-second annual symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2204670494428284601,5,2003
+Synthesis of efficient drinking philosophers algorithms,"JA Welch, NA Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4570312084856505853,5,1989
+Modelling real-time systems,N Lynch,"Foundations of Real-Time Computing Research Initiative, ONR Kickoff Workshop …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9089536264408369719,5,1988
+A General Lower Bound for Electing a Leader in a Ring.,"GN Frederickson, NA Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2276879204319706736,5,1985
+On describing the behaviour and implementation of distributed systems,"MJ Fischer, NA Lynch","Theoretical Computer Science 13, 17-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9201062904480430676,5,1981
+Relative complexity of operations on numeric and bit-string algebras,"N Lynch, EK Blum","Mathematical systems theory 13 (1), 187-207",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14003249632670622541,5,1979
+Atomic Data Access in Content Addressable Networks A Position Paper,"N Lynch, D Malkhi, D Ratajczak",Proceedings of the 1st International Workshop on Peer-to-Peer Systems (IPTPS’02),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7681517691531305,5,0
+Partial reversal acyclicity,"T Radeva, N Lynch",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5172127888492247127,4,2011
+Converting” Space in Toronto: The Adaptive Reuse of the Former Centennial Japanese United Church to the “Church Lofts,N Lynch,The Journal of the Society for the Study of Architecture in Canada,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10767883171620336451,4,2011
+Multichord: A resilient namespace management protocol,"N Lynch, I Stoica",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15005227977945926066,4,2004
+Simulating nondeterministic systems at multiple levels of abstraction,"DK Kaynar, A Chefter, L Dean, SJ Garland, NA Lynch, TN Win, ...",LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5088924938552027218,4,2002
+Conditions for safe deceleration of strings of vehicles,"J Lygeros, N Lynch",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18167515061918508206,4,2000
+Challenges for theory of computing,"A Condon, H Edelsbrunner, EA Emerson, L Fortnow, S Haber, R Karp, ...",Report of a National Science Foundation-sponsored workshop on research in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14403243724654128095,4,1999
+Proving Correctness of a Controller Algorithm for the RAID Level 5 System,"M Vaziri, N Lynch, J Wing",Digest of Papers. Twenty-Eighth Annual International Symposium on Fault …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1657962853707943546,4,1998
+Proving performance properties (even probabilistic ones),N Lynch,"Formal Description Techniques VII, 3-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12384427514296435849,4,1995
+Distributed Algorithms. Fall 1990 Lecture Notes for 6.852,"N Lynch, I Saias","MIT/LCS/RSS 16, Laboratory for Computer Science, MIT, Cambridge, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3697705775799625208,4,1992
+"Nested Transactions, Conflict-Based Locking, and Dynamic Atomicity.","A Fekete, N Lynch, M Merritt, W Weihl",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12092678216790841433,4,1987
+Multilevel atomicity,NA Lynch,Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3517269810044099968,4,1982
+Task-structured probabilistic I/O automata,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala","Journal of Computer and System Sciences 94, 63-97",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=685289765647212864,3,2018
+Costs of task allocation with local feedback: Effects of colony size and extra workers in social insects and other multi-agent systems,"T Radeva, A Dornhaus, N Lynch, R Nagpal, HH Su","PLoS computational biology 13 (12), e1005904",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11442037796655754883,3,2017
+Ant-inspired dynamic task allocation via gossiping,"HH Su, L Su, A Dornhaus, N Lynch","International Symposium on Stabilization, Safety, and Security of …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5068495405393239966,3,2017
+Searching without communicating: tradeoffs between performance and selection complexity,"C Lenzen, N Lynch, C Newport, T Radeva","Distributed Computing 30 (3), 169-191",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=39972572288899296,3,2017
+Firefly synchronization with asynchronous wake-up,"D Alistarh, A Cornejo, M Ghaffari, N Lynch",Workshop on Biological Distributed Algorithms (BDA 2014),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5107416002862907872,3,2014
+"Distributed computing theory: algorithms, impossibility results, models, and proofs",KP Lecture,Symposium on Theory of Computing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6266065373646732656,3,2007
+Distributed Computing (21 conf.),A Pelc,Springer,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8139419987851782528,3,2007
+"Proceedings Third International Workshop on Hybrid Systems: Computation and Control (HSCC 2000), Pittsburgh",NA LYNCH,Lecture Notes in Computer Science 1790,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13122538899064670026,3,2000
+I/O automaton model of operating system primitives,"D Yates, N Lynch, V Luchangco, M Seltzer","Master's thesis, Harvard University and MIT",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16249416378247170938,3,1999
+The IOA language and toolset: Support for mathematics-based distributed programming,"SJ Garland, NA Lynch",Submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4912360869526692305,3,1998
+Upper and lower bounds on the number of faults a system can withstand without repairs,"M Goemans, N Lynch, I Saias","Dependable Computing for Critical Applications 4, 399-409",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2375786650354902393,3,1995
+An automata-theoretic model for UNITY,MF Nour,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5740677154409468762,3,1989
+Multilevel Atomicity-A New Correctness Criterion for Distributed Databases.,NA Lynch,GEORGIA INST OF TECH ATLANTA SCHOOL OF INFORMATION AND COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12535154030523503021,3,1981
+Complexity-class-encoding sets,NA Lynch,"J. Comput. Syst. Sci. 13 (1), 100-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10745196183014689017,3,1976
+Integrating Temporal Information to Spatial Information in a Neural Circuit,"MB Wang, N Lynch",arXiv preprint arXiv:1903.01217,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15241732597993198728,2,2019
+Leader election in SINR model with arbitrary power control,"MM Halldórsson, S Holzer, EA Markatou, N Lynch",Theoretical Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7713778191428575023,2,2019
+Self-stabilizing task allocation in spite of noise,"A Dornhaus, N Lynch, F Mallmann-Trenn, D Pajak, T Radeva",arXiv preprint arXiv:1805.03691,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14296909765510066615,2,2018
+Computing in additive networks with bounded-information codes,"K Censor-Hillel, E Kantor, N Lynch, M Parter","International Symposium on Distributed Computing, 405-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=993824662846640351,2,2015
+Coded emulation of shared atomic memory for message passing architectures,"VR Cadambe, N Lynch, M Médard, P Musial",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13787654037774261925,2,2013
+Altared places: the reuse of urban churches as loft living in the post-secular and post-industrial city,NA Lynch,University of British Columbia,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=622188518966055589,2,2013
+Environment characterization for non-recontaminating frontier-based robotic exploration,"M Volkov, A Cornejo, N Lynch, D Rus",International Conference on Principles and Practice of Multi-Agent Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7817886448935092701,2,2011
+Brief announcement: Partial reversal acyclicity,"T Radeva, N Lynch",In Proceedings of the 30th Annual ACM SIGACT-SIGOPS Symposium on Principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15999124477567350175,2,2011
+Automated Formal Verification of the DHCP Failover Protocol Using Timeout Order Abstraction,"S Umeno, N Lynch",2010 15th IEEE International Conference on Engineering of Complex Computer …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12903907127823260597,2,2010
+"Modeling Computational Security in Long-Lived Systems, Version 2.","R Canetti, L Cheung, DK Kaynar, NA Lynch, O Pereira","IACR Cryptology ePrint Archive 2008, 492",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8552930456483006244,2,2008
+TIOA Tutorial,"SJ Garland, D Kaynar, NA Lynch, JA Tauber, M Vaziri","Computer Science and Artificial Intelligence Laboratory, Massachusetts …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11103009552011844940,2,2005
+Some perspectives on PODC,N Lynch,"Distributed Computing 16 (2-3), 71",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3126099585689850805,2,2003
+"Formal Modeling, Analysis, and Design of Network Protocols—A Case Study in Reliable Multicast","C Livadas, I Keidar, N Lynch","Doctor of Science Thesis, Dept. of Electrical Engineering and Computer Science",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2819378533263702250,2,2003
+A formal model for dynamic computation,"PC Attie, NA Lynch","Tech. report, MIT Lab. for Computer Science. To appear",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12162686176717231082,2,1999
+Mathematical Modelling/Specification/Verification/Performance Analysis/Fault-Tollerance Analysis for Network Services,N Lynch,ARPA Active Nets Workshop,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14736002204592876483,2,1997
+At-most-once message delivery A case study in algorithm verification,"B Lampson, N Lynch, J Søgaard-Andersen","International Conference on Concurrency Theory, 317-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9510243432990123414,2,1992
+Optimal placement of identical resources in a tree,"MJ Fischer, ND Griffeth, L Guibas, NA Lynch","Inf. Comput. 96 (1), 1-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7178482269125822632,2,1992
+Accessibility of values as a determinant of relative complexity in algebras,NA Lynch,"J. Comput. Syst. Sci. 24 (1), 101-113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3756111263548118396,2,1982
+Performance of Distributed and Decentralized Control Models for Fully Distributed Processing Systems. Initial Simulation Studies,"PH Enslow Jr, TG Saponas",GEORGIA INST OF TECH ATLANTA SCHOOL OFINFORMATION AND COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2037063994623826353,2,1981
+Sets that don't help,"N Lynch, A Meyer, M Fischer","Proceedings of the fifth annual ACM symposium on Theory of computing, 130-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9009949926591879820,2,1973
+Learning Hierarchically Structured Concepts,"N Lynch, F Mallmann-Trenn",arXiv preprint arXiv:1909.04559,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8585044431805801008,1,2019
+How to Color a French Flag--Biologically Inspired Algorithms for Scale-Invariant Patterning,"A Ancona, A Bajwa, N Lynch, F Mallmann-Trenn",arXiv preprint arXiv:1905.00342,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2578095037977935744,1,2019
+Winner-Take-All Computation in Spiking Neural Networks,"N Lynch, C Musco, M Parter",arXiv preprint arXiv:1904.12591,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7273394876054371660,1,2019
+Spike-Based Winner-Take-All Computation: Fundamental Limits and Order-Optimal Circuits,"L Su, CJ Chang, N Lynch",arXiv preprint arXiv:1904.10399,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8221804408150524891,1,2019
+"Collaboratively Learning the Best Option on Graphs, Using Bounded Local Memory","L Su, M Zubeldia, N Lynch",Proceedings of the ACM on Measurement and Analysis of Computing Systems 3 (1 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1281021891543792170,1,2019
+Brief Announcement: On Simple Back-Off in Unreliable Radio Networks,"S Gilbert, N Lynch, C Newport, D Pajak",32nd International Symposium on Distributed Computing (DISC 2018),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15861555716259938620,1,2018
+New perspectives on algorithmic robustness inspired by ant colony house-hunting,"T Radeva, C Musco, N Lynch",5th Workshop on Biological Distributed Algorithms (BDA 2017),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6677793798085113028,1,2017
+Beeping a Maximal Independent Set Fast,"S Holzer, N Lynch",arXiv preprint arXiv:1704.07133,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4587653780351902803,1,2017
+An Efficient Communication Abstraction for Dense Wireless Networks,"MM Halldórsson, F Kuhn, N Lynch, C Newport",31st International Symposium on Distributed Computing (DISC 2017),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=957602894838289284,1,2017
+Brief announcement: Distributed task allocation in ant colonies,"A Dornhaus, N Lynch, T Radeva, HH Su",Proceedings of the 29th International Symposium on Distributed Computing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11979115812704415253,1,2015
+Timed and Probabilistic I/O Automata,N Lynch,"2013 28th Annual ACM/IEEE Symposium on Logic in Computer Science, 12-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18174319878402603693,1,2013
+Modeling radio networks,"C Newport, N Lynch","Distributed Computing 24 (2), 101-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12119239779089797104,1,2011
+Distributed computing theory through the ages,N Lynch,2010 IEEE/IFIP International Conference on Dependable Systems&Networks (DSN …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12195282584333323614,12970674986227533414",1,2010
+Self-Stabilizing Message Routing in Mobile ad hoc Networks,"N Lynch, L Lahiani, S Dolev, T Nolte",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9876012790267330355,1,2009
+Modeling bounded computation in long-lived systems,"R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira","Cryptology ePrint Archive, Report 2007/406",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7561644579872911309,1,2007
+A general characterization of indulgence,"R Guerraoui, N Lynch","Symposium on Self-Stabilizing Systems, 16-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14123476369041537187,1,2006
+Probabilistic timed I/O automata with continuous state spaces,"S Mitra, NA Lynch",Preliminary version available at http://theory. lcs. mit. edu/mitras …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=340972649905320217,1,2006
+The TIOA Language Version 0.21,"D Kaynar, N Lynch, S Mitra, S Garland",Unpublished manuscript,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4334218109912994652,1,2005
+Using probabilistic I/O automata to improve the analysis of cryptographic protocols,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala","Ercim News 63, 40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16209025212539016080,1,2005
+Systematic removal of nondeterminism for code generation in i/o automata,"M Vaziri, JA Tauber, MJ Tsai, N Lynch",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8355936032053183131,1,2004
+Fault-Tolerant Distributed Storage,"G Chockler, N Lynch",MIT Computer Science and Artificial Intelligence Laboratory,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=836597169949503731,1,2004
+IOA user guide and reference manual1,"SJ Garland, NA Lynch, JA Tauber, M Vaziri",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1422771366106726987,1,2003
+Timed I/O automata,"NA Lynch, R Segala, F Vaandrager, DK Kaynar",preparation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1747653837122729147,1,2003
+Implementing atomic objects in a dynamic environment,N Lynch,Proceedings of the twentieth annual ACM symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13036798349055264900,1,2001
+"Hybrid Systems: Computation and Control-Third International Workshop, HSCC 2000. Pittsburg, PA, USA, March 2000. Proceedings.","N Lynch, BH Krogh",Lecture Notes in Computer Science 1790,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10591172413299397338,1,2000
+Hybrid atomicity for nested transactions,"A Fekete, N Lynch, WE Weihl","Theoretical computer science 149 (1), 151-178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12731806916293180710,1,1995
+A tight lower bound for processor coordination,"S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle","Responsive Computer Systems: Steps Toward Fault-Tolerant Real-Time Systems, 1-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10214535433307141101,1,1995
+Time Bounds for Real-time Process Control în the Presence of Timing Uncertainty,"NA Lynch, H Attiya",Information and Computation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14418153283845041084,1,1994
+A correctness proof for a network synchronizer,"H Devarajan, A Fekete, N Lynch, L Shrira","Massachusetts Institute of Technology, Dept. of Electrical Engineering and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14552362629525790596,1,1993
+Theory of Real-Time Systems: Project Survey,"H Attiya, NA Lynch",Foundations of Real-Time Computing: Formal Specifications and Methods,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4882612496021392696,1,1991
+Timestamp ordering and nested transactions,JD Aspnes,Massachusetts Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12249707915492358016,1,1987
+Easy Impossibility Proofs for Distributed Consensus Problems,"NA Lynch, M Merritt",Proceedings of the Fourth Annual ACM Symposium on Principles of Distributed …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3288970129722025821,1,1985
+Probabilistic Analysis of a Network Resource Allocation Algorithm.,"NA Lynch, N Griffeth, MJ Fischer, LJ Guibas",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9058856295839772561,1,1985
+Relative complexity of programming systems,NA Lynch,Georgia Institute of Technology,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12946153740630675832,1,1981
+A quantifier characterization for nondeterministic log space,"RJ Lipton, N Lynch","ACM SIGACT News 7 (4), 24-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9169479142079972476,1,1975
+Information and Control,"ER Berlekamp, RL Graham, A Salomaa, SA Cook, R Karp, RI Soare, ...","Coding theory and the Mathieu groups 18, 40-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=114007527456376418,1,1971
+On simple back-off in unreliable radio networks,"S Gilbert, N Lynch, C Newport, D Pajak",Theoretical Computer Science,,0,2019
+2019 Principles of Distributed Computing Doctoral Dissertation Award,"P Jayanti, NA Lynch, B Patt-Shamir, U Schmid",Proceedings of the 2019 ACM Symposium on Principles of Distributed Computing …,,0,2019
+"ARES: Adaptive, Reconfigurable, Erasure Coded, Atomic Storage","N Nicolaou, V Cadambe, N Prakash, K Konwar, M Medard, N Lynch",2019 IEEE 39th International Conference on Distributed Computing Systems …,,0,2019
+How to Color a French Flag,"B Ancona, A Bajwa, N Lynch, F Mallmann-Trenn",International Colloquium on Structural Information and Communication …,,0,2019
+"Ant-inspired density estimation via random walks (vol 114, pg 10534, 2017)","C Musco, HH Su, NA Lynch",PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF …,,0,2019
+Brief Announcement: Integrating Temporal Information to Spatial Information in a Neural Circuit,"N Lynch, MB Wang",33rd International Symposium on Distributed Computing (DISC 2019),,0,2019
+The SNOW Theorem Revisited,"KM Konwar, W Lloyd, H Lu, N Lynch",arXiv preprint arXiv:1811.10577,,0,2018
+Layered Distributed Storage System and Techniques for Edge Computing Systems,"KM Konwar, PN Moorthy, M Medard, NA Lynch","US Patent App. 15/986,202",,0,2018
+Storage-Optimized Data-Atomic Systems and Techniques for Handling Erasures and Errors in Distributed Storage Systems,"M Medard, KM Konwar, PN Moorthy, NA Lynch, E Kantor, ...","US Patent App. 15/838,966",,0,2018
+"Collaboratively Learning the Best Option, Using Bounded Memory","L Su, M Zubeldia, N Lynch",arXiv preprint arXiv:1802.08159,,0,2018
+On Simple Back-Off in Complicated Radio Networks.,"S Gilbert, NA Lynch, C Newport, D Pajak",CoRR,,0,2018
+ANT-INSPIRED DENSITY ESTIMATION VIA RANDOM WALKS,"N Lynch, C Musco, HH Su",,,0,2016
+A Comprehensive Theory of Algorithms for Wireless Networks and Mobile Systems,N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE CAMBRIDGE United States,,0,2016
+Ant-Inspired Density Estimation via Random Walks (Extended Abstact),"C Musco, HH Su, N Lynch",,,0,2016
+Computer-Assisted Verification of an Algorithm for Concurrent,"TP Petrov, A Pogosyants, SJ Garland, V Luchangco, NA Lynch","Formal Description Techniques IX: Theory, application and tools, 29",,0,2016
+Consensus using Asynchronous Failure Detectors,"N Lynch, S Sastry",arXiv preprint arXiv:1502.02538,,0,2015
+Athena lecture: distributed computing theory for wireless networks and mobile systems,NA Lynch,Proceedings of the 2013 ACM symposium on Principles of distributed computing …,,0,2013
+Special issue on DISC 2010,"NA Lynch, AA Shvartsman","Distributed Computing 26 (3), 139-139",,0,2013
+"Soma Chaudhuri, Maurice Herlihy”","NA Lynch, MR Tuttle",Responsive Computer Systems: Steps Toward Fault-Tolerant Real-Time Systems …,,0,2012
+Multiobjective evolutionary algorithms: A comparative case study and the strength pareto approach,"Y Wei, K Sukumar, C Vecchiola, D Karunamoorthy, R Buyya, J Seltzer, ...","Cloud Computing: Methodology, Systems, and Applications 7 (1), 1-1",,0,2012
+K-set Consensus and the Consensus Hierarchy,"S Chaudhuri, J Welch, N Lynch",Morgan & Claypool Publishers,,0,2012
+Reductions and Simulations in Distributed Computing,"S Rajsbaum, C Travers, N Lynch",Morgan & Claypool Publishers,,0,2012
+The impossibility of boosting distributed service resilience,"P Attie, R Guerraoui, P Kuznetsov, N Lynch, S Rajsbaum","Information and Computation 209 (6), 927-950",,0,2011
+Self-adaptive clock synchronization based on clock precision differences,"J Abate, B Abali, CB Stunkel, C Benveniste, H Abdel-Ghaffar, C Adams, ...",Computer Network Time Synchronization: The Network Time Protocol on Earth …,,0,2011
+MR2817182 (2012g: 68020) 68M14 (68M15),"P Attie, R Guerraoui, P Kuznetsov, N Lynch, S Rajsbaum","Inform. and Comput 209 (6), 927-950",,0,2011
+Abstract MAC Layers,N Lynch,,,0,2010
+Keynote:“Distributed computing theory through the ages”,N Lynch,2010 IEEE/IFIP International Conference on Dependable Systems & Networks …,,0,2010
+Broadcasting in Unreliable Radio Networks,"R Oshman, A Richa, C Newport, N Lynch, F Kuhn",,,0,2010
+Broadcasting in Unreliable Radio Networks,"N Lynch, R Oshman, A Richa, C Newport, N Lynch, F Kuhn",MIT-CSAIL-TR-2010-029,,0,2010
+Distinguished Lecture Series,N LYNCH,University Of Oklahoma,,0,2010
+The Cost of Global Broadcast Using Abstract MAC Layers,"N Lynch, F Kuhn, D Kowalski, M Khabbazian",,,0,2010
+Timeout Order Abstraction for Formal Verification of Loosely Synchronized Real-Time Distributed Systems (Draft),"S Umeno, N Lynch",,,0,2010
+"6.045: Automata, Computability, and Complexity Or, Great Ideas in Theoretical Computer Science Spring, 2010",N Lynch,,,0,2010
+Appendices for the Submitted Paper,"S Umeno, N Lynch",,,0,2009
+Distributed Computation in Dynamic Networks,"R Oshman, N Lynch, F Kuhn",,,0,2009
+Brief announcement: minimum spanning trees and cone-based topology control,"A Cornejo, N Lynch",Proceedings of the 28th ACM symposium on Principles of distributed computing …,,0,2009
+Keeping Mobile Robots Connected,"N Lynch, R Ley-Wild, F Kuhn, A Cornejo",,,0,2009
+Modeling Radio Networks,"N Lynch, C Newport",,,0,2009
+The Abstract MAC Layer,"C Newport, N Lynch, F Kuhn",,,0,2009
+Calvin C. Newport,"R Guerraoui, M Herlihy, P Kouznetsov, N Lynch","Education 617, 253-1922",,0,2009
+Timeout Order Abstraction for Time-Parametric Verification of Loosely Synchronized Real-Time Distributed Systems,"S Umeno, N Lynch",Artist Consortium,,0,2009
+Keeping Mobile Robots Connected,"A Cornejo, F Kuhn, R Ley-Wild, N Lynch",,,0,2009
+"An Extensible and Scalable Framework for Formal Modeling, Analysis, and Development of Distributed Systems","NA Lynch, LD Michel, AA Shvartsman",VEROMODO INC BROOKLINE MA,,0,2008
+"Modeling Computational Security in Long-Lived Systems, Version 2","N Lynch, O Pereira, D Kaynar, L Cheung, R Canetti",,,0,2008
+Cooperative Networked Control of Dynamical Peer-to-Peer Vehicle Systems,"GE Dullerud, F Bullo, E Feron, E Frazzoli, PR Kumar, S Lall, D Liberzon, ...",ILLINOIS UNIV CHAMPAIGN,,0,2007
+"Algorithms for Data Sharing, Coordination, and Communication in Dynamic Network Settings",N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,2007
+Fault Tolerant Real-Time Networks,"A Zakhor, T Henzinger, K Trevedi, M Ammar, N Lynch, K Shin",CALIFORNIA UNIV REGENTS BERKELEY,,0,2007
+My Early Days in Distributed Computing Theory: 1979-1982 (DISC 20th Anniversary: Invited Talk),N Lynch,"Lecture Notes in Computer Science 1 (4731), 505-505",,0,2007
+DISC 20th Anniversary: Invited Talk My Early Days in Distributed Computing Theory,N Lynch,"Distributed Computing, 505",,0,2007
+My early days in distributed computing theory: 1979–1982,N Lynch,"International Symposium on Distributed Computing, 579-579",,0,2006
+An ,"N Lynch, R Fan, N Lynch",,,0,2006
+Analyzing Security Protocols using Probabilistic I/O Automata,N Lynch,,,0,2006
+Using Task-Structured PIOAs to Analyze Cryptographic Protocols,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala",,,0,2006
+Formal and computational analysis of cryptographic protocols based on task-PIOAs,"R Canetti, L Cheung, D Kaynar, M Liskov, N Lynch, O Pereira, R Segala",2006 Workshop on Cryptography and Related Mathematics,,0,2006
+A Framework for Modeling and Analyzing Complex Distributed Systems,"NA Lynch, AA Shvartsman",VEROMODO INC BROOKLINE MA,,0,2005
+Self-Stabilizing Mobile Node Location Management and Message,"S Dolev, L Lahiani, N Lynch, T Nolte",MASSACHUSETTS INST OF TECH CAMBRIDGE COMPUTER SCIENCE AND ARTIFICIAL …,,0,2005
+Using Self-Similarity to Increase Network Testing Effectiveness,"C Djouvas, ND Griffeth, NA Lynch",,,0,2005
+Calvin C. Newport,"K Censor-Hillel, S Gilbert, F Kuhn, N Lynch, CN Structuring, A Cornejo","Simulation 81 (4), 307-323",,0,2005
+"6.045 J/18.400 J Automata, Computability, and Complexity, Spring 2005",N Lynch,,,0,2005
+"Building Blocks for High Performance, Fault-Tolerant Distributed Systems",N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,2004
+Control Automata,"L Cheung, N Lynch, R Segala, F Vaandrager",,,0,2004
+Intervention of Uterine Artery Embolism in Treating Hysteromyoma,"Z LIU, L CHEN, C LI","Journal of Linyi Medical College, 25",,0,2004
+Seth Gilbert,NA Lynch,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,,0,2003
+"Working with mike on distributed computing theory, 1978--1992",N Lynch,Proceedings of the twenty-second annual symposium on Principles of …,,0,2003
+"Modeling, Analyzing, and Designing Network Protocols—A Case Study on Retransmission-Based Reliable Multicast Protocols","C Livadas, I Keidar, N Lynch","Doctor of Philosophy Thesis, Dept. of Electrical Engineering and Computer …",,0,2003
+Software assurance.,"N Lynch, S Garland","Technology Review 106 (1), 44-46",,0,2003
+Efficient Replication of Large Data Objects (Brief Announcement),"R Fan, N Lynch",PROCEEDINGS OF THE ANNUAL ACM SYMPOSIUM ON PRINCIPLES OF DISTRIBUTED …,,0,2003
+Part I-Foundations of Distributed Systems: What Do We Still Expect from Theory? 12 Communication and Data Sharing for Dynamic Distributed Systems,"N Lynch, A Shvartsman","Lecture Notes in Computer Science 2584, 62-67",,0,2003
+Working With Mike on Distributed Computing Theory,N Lynch,,,0,2003
+"López-Ortiz, Alejandro, 66","N Lynch, B Awerbuch, Y Bartal, A Fiat, S Jain, M Jantzen, A Kurganskyy, ...","Information and Computation 185, 328",,0,2003
+Verification of an attitude control system,VU Ha,Massachusetts Institute of Technology,,0,2003
+A Dynamic Primary View,"R De Prisco, A Fekete, N Lynch, A Shvartsman",,,0,2002
+On Formal Modeling of Agent Computations,"V Luchangco, N Lynch, K Mano",Formal Approaches to Agent-Based Systems: First International Workshop …,,0,2001
+"Decomposing Large, Complex, Concurrent Systems into Manageable Building Blocks",N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,2001
+"6.852 J/18.437 J Distributed Algorithms, Fall 2001",NA Lynch,,,0,2001
+Stephen J. Garland,N Lynch,"Foundations of Component-Based Systems, 285",,0,2000
+"QoS Preserving Totally Ordered Multicast Ziv Bar-Joseph Lab for Computer Science Massachusetts Institute of Technology Cambridge, MA 02139, USA","T Anker, N Lynch",,,0,2000
+Graph Theory with Applications to Engineering and Computer Science.,"KQ Yan, A Silberschatz, P Galvin, G Gagne, A Silberschatz, P Galvin, ...","Information Technology Journal 3 (3), pp: 469-480-pp: 469-480",,0,2000
+"This document was made by OCR from a scan of the technical report. It has not been edited or proofread and is not meant for human consumption, but only for search engines. To …","R De Prisco, B Lampson, N Lynch","Theoretical Computer Science 243, 35-91",,0,2000
+Tight bounds for k-set agreement,"M Herlihy, NA Lynch, MR Tuttle",Journal of the ACM,,0,2000
+Implicit memory in Alzheimer's disease: literature review and analysis:[a thesis submitted in partial fulfillment of the requirements for the degree of Master of Science in …,NA Lynch,University of Michigan,,0,2000
+DRAFT: PLEASE DO NOT DISTRIBUTE WIDELY,"P Attie, N Lynch",,,0,1999
+Supporting multi-row distributed transactions with global snapshot isolation using bare-bones HBase.,"H Bin, P Yuxing, P Xiaoning, A Adya, A Adya, B Liskov, P O'Neil, ...","Information Technology Journal 12 (24), pp: 67-78",,0,1999
+"Handout 2-Course Reading List-Fall Term 2002 1. Shared memory, known set of participants",N Lynch,"Journal of the ACM 45 (3), 451-500",,0,1998
+A Dynamic View-Oriented Group Communication Service,"RDPA Fekete, N Lynch, A Shvartsman",,,0,1998
+Solutions to Selected Exercises: Distributed Algorithms,"NA Lynch, S Batzoglu, V Bokyo",Morgan Kaufmann,,0,1998
+Information and Computation Author Index,"JA Aslam, M Bezem, G Buntrock, SE Decatur, R Gawlick, K Iwama, ...","Information and Computation 141, 205",,0,1998
+Proving Correctness of a Controller Algorithm for the RAID Level,"M Vaziri, N Lynch",,,0,1997
+Applications of the Theory of Distributed and Real Time Systems to the Development of Large-Scale Timing Based Systems.,N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,1997
+In Memory of Anna Pogosyants,NA Lynch,"Proceedings of the 11th International Workshop on Distributed Algorithms, 20-21",,0,1997
+A Unified Framework for Verification and Complexity Analysis of Real-Time and Distributed Systems,N Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE,,0,1997
+"Applications of the Theory of Distributed and Real Time Systems to the Development of Large-Scale Timing-Based Systems(Progress Report, 1 Oct.- 31 Nov. 1996)",N LYNCH,,,0,1997
+Anya Pogosyants-In memory,N Lynch,"DISTRIBUTED ALGORITHMS, PROCEEDINGS 1320, 20-21",,0,1997
+Robust emulation of shared memory using dynamic quorum-acknowledged broadcasts,NALAA Shvartsman,Digest of Papers: Twenty-Seventh Annual International Symposium on Fault …,,0,1997
+"Modelling and Verification of Automated Transit Systems, Using Timed Automata, Invariants and",N Lynch,"Hybrid Systems III: Verification and Control 3, 449",,0,1996
+"Applications of the Theory of Distributed and Real Time Systems to the Development of Large Scale Timing Based Systems(Quarterly Report, 1 Jul.- 30 Sep. 1996)",N LYNCH,,,0,1996
+"Applications of the theory of distributed and real time systems to the development of large-scale timing based systems(Progress Report, 1 Nov. 1995- 31 Dec. 1995)",N LYNCH,,,0,1996
+CONSTANCE HEITMEYER,N LYNCH,"Formal methods for real-time computing 5, 83",,0,1996
+Information and Computation w Author Index,"J Case, M Changizi, Y Han, D Harel, S Jain, J Kilian, N Lynch, IA Mason, ...","information and computation 128, 139",,0,1996
+Implementing Sequentially Consistant Shared Objects using Broadcast and Point-To-Point Communications,"A Feteke, MF Kaashoek, N Lynch",Massachusetts Institute of Technology,,0,1995
+Organization committee,"P Amer, G Bochmann, T Bolognesi, E Brinksma, A Cavalli, JP Courtiat, ...",Formal Description Techniques VII,,0,1995
+Forvvard and Backvvard Simulations,"N LYNCH, F VAANIDRAGER",,,0,1995
+ACTION TRANSDUCERS AND TIMED AUTOMATA (replaces TM-480),"F Vaandrager, N Lynch",Massachusetts Institute of Technology,,0,1994
+Number of faults a system can withstand without repairs,"M Goemans, N Lynch, I Saias",arXiv preprint math/9409220,,0,1994
+Atomic Transactions for Multiprocessor Programming: A Formal Approach.,NA Lynch,"Specification of Parallel Algorithms, 125-142",,0,1994
+"The generalized railroad crossing: A case study in formal verification of real-time systems(Memorandum Report, Oct. 1992- Sep. 1994)","C HEITMEYER, N LYNCH",,,0,1994
+Correctness of Communication Protocols,"NA Lynch, BW Lampson",,,0,1993
+PROVING PROPERTIES OF,N Lynch,,,0,1993
+"Correctness of Communications Protocols, A case Study","N Lynch, B Lampson",Massachusetts Institute of Technology,,0,1993
+Computer-Assisted Simulation Proofs,"NA Lynch, A Pogosyants","contract 14 (91-J), 1046",,0,1993
+LABORATORY FOR COMPUTER SCIENCE,N Lynch,,,0,1992
+Optimal placement of identical resources...,"MJ Fischer, ND Griffeth, L Guibas, NA Lynch",,,0,1992
+Optimal Placement of ldentical Resources in a Tree* місняві. І Різсник,"ND GRIFFETH, L GUIBAS, NA LYNCH",,,0,1992
+The Subject Index for Volume 96 will appear in the December 1992 issue as part of a cumulative index for the year 1992.,"P BERMAN, HL BUCHANAN, A CONDON, M DOWD, JAN EKMAN, ...",,,0,1992
+An Anlysis of Rabin's Randomized Mutual Exclusion Algorithm: Preliminary Report,"NA Lynch, I Saias",Massachusetts Institute of Technology. Laboratory for Computer Science,,0,1991
+WOMEN IN COMPUTING,"E ARKIN, H ATTIYA, J BARILAN, B BERGER, L BLUM, J BOYAR, ...","COMMUNICATIONS OF THE ACM 34 (8), 15-16",,0,1991
+"16TH INTERNATIONAL-COLLOQUIUM ON AUTOMATA, LANGUAGES AND PROGRAMMING STRESA, ITALY, JULY 11-15, 1989-PREFACE","G AUSIELLO, M DEZANICIANCAGLINI, SR DELLAROCCA","THEORETICAL COMPUTER SCIENCE 83 (1), 1-1",,0,1991
+The Spectrum Simulation System: A Formal Approach to Distributed Algorithm Development Tools,KJ Goldman,,,0,1991
+"RFC 2608 Guttman, E., Perkins, C., Veizades, J., Day, M.,``Service Location Protocol, Version 2''(June 1999).","N Abramson, Y Afek, E Gafni, KC Almeroth, M Backbone, K Almeroth, ...","SIAM Journal on Computing 20 (2), 376-394",,0,1991
+POSSIBILITIES MAPPINGS,NA Lynch,,,0,1990
+A SERIALIZATION GRAPH CONSTRUCTION FOR NESTED TRANSACTIONS,NA Lynch,,,0,1990
+"ABITEBOUL, SERGE, 181","P ATZENI, F BANCILHON, DA BARRINGTON, C BEERI, ME BERMUDEZ, ...","Journal of Computer and System Sciences 41, 468",,0,1990
+Commutativity-Based Locking for Nested,"A FEKETE, N LYNCH, W WEIHL",,,0,1989
+Computing in Anonymous Asynchronous Shared Memory,A Gorbach,,,0,1989
+The Subject Index for Volume 82 will appear in the December 1989 issue as part of a cumulative index for the year 1989.,"J CAI, WP DE ROEVER, A DICKY, RT GERTH, LA HEMACHANDRA, ...","Information and Computation 82, 354",,0,1989
+An Introduction to Input/Output Automata. Revision,"NA Lynch, MR Tuttle",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,1988
+Lattice-structured proof technique applied to a minimum spanning-tree algorithm. Technical report,"JL Welch, L Lamport, N Lynch","Massachusetts Inst. of Tech., Cambridge (USA). Lab. for Computer Science",,0,1988
+A Modular Proof of Correctness for,"A Fekete, N Lynch, L Shrira","Distributed Algorithms: 2nd International Workshop, Amsterdam, The …",,0,1988
+"A Lattice-Structured Proof Technique Applied to a Minimum Spanning Tree Algorithm (Extended Abstract) Jennifer Lundelius Welch Laboratory for Computer Science, Massachusetts …","L Lamport, N Lynch",Proceedings of the Seventh Annual ACM Symposium on Principles of Distributed …,,0,1988
+"Gi89 P. Gibbons, A More Practical PRAM Model,"" Proc. 1989 ACM Symp. on Par-allel Algorithms and Architectures, 158 168, 1989. He88 M. Herlihy, Impossibility and Universal","DSBM Dubois, C Scheurich, F Briggs, FLPM Fischer, N Lynch, ...","Computer 9, 21",,0,1988
+A MODULAR PROOF OF CORRECTNESS FOR A NETWORK SYNCHRONIZER,N Lynch,,,0,1987
+LABORATORY FOR COMPUTER SCIENCE,"M HERLIHY, N LYNCH",,,0,1987
+SQUAD PROBLEM,"JE Burns, NA Lynch",,,0,1987
+Consensus under unreliable transmission.,"A Bar-Noy, D Dlove, C Dwork, HR Strong, M Barborak, M Malek, ...","Information Technology Journal 2 (2), pp: 42-51",,0,1987
+Hierarchical correctness proofs for distributed algorithms(M. S. Thesis),"N LYNCH, M TUTTLE",,,0,1987
+Distributed System Modelling and Analysis.,NA Lynch,MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,1986
+"CAMBRIDGE, MA.","M Herlihy, N Lynch, M Merritt, W Weihl",,,0,1986
+FOR RESILIENT NESTED,NA Lynch,,,0,1986
+Correctness conditions for highly available replicated databases(Interim Report),"N LYNCH, B BLAUSTEIN, M SIEGEL",,,0,1986
+CONSENSUS lN THE PRESENCE OF PARTlAL SYNCHRONY,"C Dwork, N Lynch, L Stockmeyer",,,0,1985
+YALEU/DCS/TR-405,"MJ Fischer, NA Lynch, M Merritt",,,0,1985
+Electing A Leader in a Synchronous Ring. Revision.,"GN Frederickson, NA Lynch",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,1985
+Probabilistic Analysis of a Network Resource Allocation Algorithm. Revision.,"NA Lynch, ND Griffeth, MJ Fischer, LJ Guibas",YALE UNIV NEW HAVEN CT DEPT OF COMPUTER SCIENCE,,0,1985
+Consensus under unreliable transmission.,"SC Wang, O Babaoglu, R Drummond, A Bar-Noy, D Dlove, C Dwork, ...","Journal of Applied Sciences 3 (7), 546-554",,0,1985
+"Probabilistic analysis of a network resource allocation algorithm(Interim Research Report, Apr. 1985)","NA LYNCH, N GRIFFETH, MJ FISCHER, LJ GUIBAS",,,0,1985
+Reaching approximate agreement in the presence of faults(Interim Research Report),"D DOLEV, NA LYNCH, SS PINTER, EW STARK, WE WEIHL",,,0,1985
+"Distributed FIFO allocation of identical resources using small shared space(Technical Report, 1 Apr. 1984- 30 Nov. 1985)","MJ FISCHER, NA LYNCH, JE BURNS, A BORODIN",,,0,1985
+The Impact of Synchronous Communication on the Problem of Electing a Leader in a Ring,"NA Lynch, GN Frederickson",Massachusetts Institute of Technology. Laboratory for Computer Science,,0,1984
+Consensus in the presence of partial synchrony(Preliminary version)[Interim Research Report],"C DWORK, N LYNCH, L STOCKMEYER",,,0,1984
+"HONG, JIA-WEI, 109","DB BENSON, G LONGO, J LUNDELIUS, N LYNCH, H FRIEDMAN, ...","Information and Control 62, 219",,0,1984
+The Colored Ticket Algo rithm,NA Lynch,,,0,1983
+The Colored Ticket Algorithm.,"M Fischer, NA Lynch, J Burns, A Borodin",MASSACHUSETTS INST OF TECH CAMBRIDGE LAB FOR COMPUTER SCIENCE,,0,1983
+1. lnHoducﬁon,NA Lynch,,,0,1983
+"ARBIB, MICHAEL A., 29 ASTESIANO, EGIDIO, 389","G COSTA, MJ FISCHER, BR HODGSON, CF KENT, NA LYNCH","Journal of Computer and System Sciences 27, 449",,0,1983
+"квPокт L0LLLLLLL GGGGGGGG LccL, BEFORE c3""# 3%","MJ Fischer, NA Lynch",,,0,1982
+Multilevel Atomicity-a New Correctness Criterion,NA Lynch,,,0,1982
+GIT-ICS-82/Q2 A SIffŒ AND EFICIENT BÏ2ANTINE GENERALS ALGORITHM t,"NA Lynch, MJ Fischer, R Fowler",,,0,1982
+A simple and efficient Byzantine Generals algorithm[Interim Report],"NA LYNCH, MJ FISCHER, R FOWLER",,,0,1982
+Michael Machtey and Paul Young. ,N Lynch,"The Journal of Symbolic Logic 46 (4), 877-878",,0,1981
+A UhF JENE IN EFFICIENCY Ba-wEa’SYNCHRONOUS N’ID ASYNCFMONOUS SYSTEMS,"E Arjomandi, MJ Fischer, NA Lynch",,,0,1981
+GIT-IC $-8] y05 Multilevel Atomicity-A New Correctness Criterion For Distributed Databases,NA Lynch,,,0,1981
+"Machtey Michael and Young Paul. An introduction to the general theory of algorithms. The computer science library, Theory of computation series. North-Holland, New York, Oxford …",N Lynch,,,0,1981
+"IBARRA, OSCAR H., 220","TP BAKER, A BORODIN, MJ FISCHER, DG KIRKPATRICK, D KOZEN, ...","Journal of Computer and System Sciences 22, 471",,0,1981
+Optimal Resource Placement in a Distributed System.,"MJ Fischer, ND Griffeth, NA Lynch",WASHINGTON UNIV SEATTLE DEPT OF COMPUTER SCIENCE,,0,1980
+Optimal resource placement in a distributed system(extended abstract),"MJ FISCHER, ND GRIFFITH, NA LYNCH",,,0,1980
+Theory of systems of asynchronous parallel processors,NA Lynch,Georgia Institute of Technology,,0,1980
+On Structure Preserving Reductions.,"RJ Lipton, N Lynch",YALE UNIV NEW HAVEN CONN DEPT OF COMPUTER SCIENCE,,0,1976
+"Ausiello Giorgio. Abstract computational complexity and cycling computations. Journal of computer and system sciences, vol. 5, pp. 118–128",N Lynch,,,0,1975
+F. D. Lewis. The enumerability and invariance of complexity classes. ,NA Lynch,"The Journal of Symbolic Logic 39 (2), 349-349",,0,1974
+"Lewis FD. The enumerability and invariance of complexity classes. Journal of computer and system sciences, vol. 5, pp. 286–303",NA Lynch,,,0,1974
+"HEINDEL, LEE E., 109","KAI HWANG, EK BLUM, RV BOOK, SA COOK, RP DALEY, P ELMS, ...",,,0,1974
+negatively.,NA Lynch,"Computational Complexity 7, 77",,0,1973
+7. P. о&аш*^ ь,NA Lynch,MASSACHUSETTS INSTITUTE OF TECHNOLOGY,,0,1972
+Remember the Past and Forget Thresholds,"A Dornhaus, N Leitner, N Lynch, F Mallmann-Trenn, D Pajak",,,0,0
+Verifying Average Dwell Time,"S Mitra, N Lynch, D Liberzon",,,0,0
+GeoQuorums: Implementing Atomic Memory in Ad Hoc Networks Ѓ,"S Dolev, S Gilbert, NA Lynch, AA Shvartsman, JL Welch",,,0,0
+Network-Wide Broadcast,N Lynch,,,0,0
+Location-Free Routing,N Lynch,,,0,0
+1 Last time: Mutual exclusion using Gafni-Bertsekas,N Lynch,,,0,0
+"Medium Access Control, cont’d",N Lynch,,,0,0
+Localization and Rigidity,N Lynch,,,0,0
+Virtual Nodes,N Lynch,,,0,0
+Point-to-point routing,N Lynch,,,0,0
+Costs of Task Allocation with Local Feedback: Effects of Colony Size and Extra Workers,"T Radeva, A Dornhaus, N Lynch, R Nagpal, HH Su",,,0,0
+REPORT DOCUMENTATION PAGE rcrm Joproved,N Lynch,,,0,0
+Computer Corporation of America,N Lynch,,,0,0
+MIT9904-12 Cooperative Computing in Dynamic Environments,"N Lynch, I Keidar",,,0,0
+Coding for Information of Different Versions,"Z Wang, V Cadambe, T Weissman, N Lynch",,,0,0
+The Virtual Node Layer: A Programming Abstraction for,"C Newport, S Gilbert, T Nolte, N Lynch, M Spindel",,,0,0
+"Stttt research was supported in part by the NSF under grants MCS77-02474, MCS77-15628, MCS78-01689 and US Army Research 0ffice Contract","MJ Fischer, NA Lynch, JE Burns, A Borodin",,,0,0
+Program SPAA 2013,"N Lynch, R Kumar, B Moseley, S Vassilvitskii, A Vattani, A Matveev, ...",,,0,0
+Global Infrastructure,N Lynch,,,0,0
+2 Session 1A: Automata Theory and Logics 28 2.1 Reasoning about co–Büchi Tree Automata Salvatore La Torre and Aniello Murano....................... 29 2.2 Switched …,"L Cheung, N Lynch, R Segala, F Vaandrager, M Viswanathan, M Kim, ...",,,0,0
+Perceptual Interfaces,"B Chen, K Jamieson, H Balakrishnan, R Morris, NB Priyantha, ...",,,0,0
+A Tight Lower Bound for k-Set Agreement,"NA Lynch, MR Tuttle",,,0,0
+On the Correctness of Orphan Elimination,"M Herlihy, N Lynch, M Merritt",,,0,0
+Problem Set 2,"PED Demaine, CEL Handout","exchange 672, 6IADC",,0,0
+"Slogan, almost [Vardi]","N Lynch, F Vaandrager",,,0,0
+Research Abstracts-2006,"S Umeno, N Lynch",,,0,0
+Research Abstracts-2006,"A Miu, H Balakrishnan",,,0,0
+A Position Paper,"N Lynch, D Malkhi, D Ratajczak",,,0,0
+GeoQuorums: Implementing Atomic Memory in Mobile Ad Hoc Networks,"S Gilbert, S Dolev, NA Lynch, AA Shvartsman, JL Welch",,,0,0
+Communication à un colloque (Conference Paper),"E Hanert, C Piret",,,0,0
+My Early Days in Distributed Computing Theory,N Lynch,"Distributed Computing, 579",,0,0
+"The papers in this volume were presented at the 27th Annual Symposium on Foundations of Computer Science, held October 27-29, 1986, in Toronto, Ontario, Canada. The symposium …","A Aggarwal, J Hopcroft, R Kannan, CE Leiserson, N Lynch, J Seiferas, ...",,,0,0
+A Unified Framework for Specifying and Proving Atomicity,"G Chockler, N Lynch, S Mitra, J Tauber",,,0,0
+A Tight Lower Bound for/г-Set Agreement,"S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle",,,0,0
+The Virtual Node Infrastructure Approach to Programming Cyber-Physical Systems,"N Lynch, C Newport",,,0,0
+Self-Stabilizing Tracking Service for Sensor Networks,"T Nolte, N Lynch, M Demirbas, A Arora",,,0,0
+"Timed, Hybrid, and Probabilistic I/O Automata","N Lynch, DK Kaynar, R Segala, F Vaandrager",,,0,0
+Cooperative Computing in Dynamic Environments MIT9904-12,"N Lynch, I Keidar",,,0,0
+Language Constructs and Applications for Hybrid Input Output Automata,"S Mitra, N Lynch",,,0,0
+TIOA Modeling Language,"DK Kaynar, N Lynch, S Mitra, C Robson",,,0,0
+Workshop Committee,"K De, K Flanagan, L Kurian, D Kaeli, K Lepak, AMG Maynard, ...",,,0,0
+GLOBAL STATES OF A DISTRIBUTED SYSTEM,"ND Griffeth, NA Lynch",,,0,0
+Paris Toronto,"ER Berlekamp, R Brockett, SA Cook, M Eden, P Elias, H Friedman, ...",,,0,0
+Using Virtual Nodes to Coordinate the Motion of Mobile Nodes,"N Lynch, S Mitra, T Nolte",,,0,0
+Self-Stabilizing Hierarchical Tracking,"T Nolte, M Demirbas, N Lynch, A Arora",,,0,0
+VMNs and Focal Points: Abstractions for Mobile Ad Hoc Networks,"S Dolev, S Gilbert, N Lynch, E Schiller, A Shvartsman, JL Welch",,,0,0
+Commutativity-Based Locking for Nested Transactions,N LYNCH,,,0,0
+"EDITOR"" Albert R. Meyer ADVISORY BOARD","ER Berlekamp, RL Graham, A Salomaa, R Brockett, J Hopcroft, DS Scott, ...",,,0,0
+Distributed Algorithms for Networks of Sensors and Networks of Mobile Devices,N Lynch,,,0,0
+"Timed, Hybrid, and Probabilistic I/O Automata (AKA: The Grand Theory of Everything)","N Lynch, DK Kaynar, P Attie, R Segala, F Vaandrager",,,0,0
+ER Berlekamp H. Friedman A. Salomaa R. Brockett RL Graham DS Scott SA Cook J. Hopcroft R. 1. Soare M. Eden R. Karp BA Trakhtenbrot,"P Elias, MO Rabin, HS Witsenhausen, JL Bentley, AJ Kfoury, ...",,,0,0
+NIII-R0201 February 2002,"N Lynch, R Segala, FW Vaandrager",,,0,0
+Distinguished Chair,"N Lynch, DR Avresky, M Vouk, K Hwang, E Maehle, SJ Geoghegan, ...",,,0,0
+Information and Computation,"ER Berlekamp, SA Cook, P Elias, MJ Fischer, RL Graham, A Salomaa, ...",,,0,0
+NIII-R0437 September 2004,"I Switched Probabilistic, L Cheung, N Lynch, R Segala, F Vaandrager",,,0,0
+Self-Stabilizing Mobile Robot Formations,"S Gilbert, N Lynch, S Mitra, T Nolte",,,0,0
+Physical Layer Characteristics,N Lynch,,,0,0
+Virtually Synchronous Group Communication in WANs,"R Khazan, I Keidar, N Lynch",,,0,0
+Priority Arguments in Complexity Theory,"N Lynch, A Meyer, M Fischer",,,0,0
+Information and Computation,"S Abramsky, K Apt, L Babai, H Barendregt, ER Berlekamp, G Berry, ...",,,0,0
+NCA 2006,"J Anderson, J Arlat, J Bruck, K Birman, A Bode, L Chitkushev, ...",,,0,0
+Program Committees,"B Atkin, J Arlat, M Atighetchi, J Bruck, D Bernholdt, L Bhuyan, K Birman, ...",,,0,0
+Are Wait-Free,"H Attiya, N Lynch, N Shavit","Algorithms, 363-375",,0,0
+Distributed Computation in Dynamic Networks: Technical Report,"F Kuhn, N Lynch, R Oshman",,,0,0
+An Invariant Approach to Stability of Hybrid Systems,"S Mitra, D Liberzon, N Lynch",,,0,0
+CSI-R9907 April 1999,"N Lynch, R Segala, FW Vaandrager, HB Weinberg",,,0,0
+SENSORIO: Verified Code Generation for Sensor Network Applications,"M Demirbas, N Lynch, DK Kaynar",,,0,0
+Rambo: Reconfigurable Atomic Memory for Basic Objects,"G Chockler, S Gilbert, V Gramoli, N Lynch, P Musial, A Shvartsman",,,0,0
+San Diego Orlando New York Austin Boston London Sydney Tokyo Toronto,"ER Berlekamp, RL Graham, R Brockett, J Hopcroft, SA Cook, R Karp, ...",,,0,0
+"The papers in this volume were contributed for presentation at the Eighteenth Annual Symposium on Founda-tions of Computer Science, sponsored by the IEEE Computer Society …","JW Carlyle, CRV Book, J Savage, S Greibach, S Kosaraju, N Lynch, ...",,,0,0
+Early-Delivery Dynamic Atomic Broadcast (Extended Abstract)⋆,"Z Bar-Joseph, I Keidar, N Lynch",,,0,0
+"HSCC 2000: hybrid systems: computation and control(Pittsburgh PA, 23-25 March 2000)","N Lynch, BH Krogh",Lecture notes in computer science,,0,0
+A Virtually Synchronous Group Communication Service for Wide Area Networks.,"R Khazan, I Keidar, N Lynch",,,0,0
+"The conference organizers wish to thank all of those who submitted abstracts for consideration, those colleagues who helped in the evaluation of the many abstracts, the …","RV Book, CP Young, EP Friedman, S Ginsburg, SR Kosaraju, NA Lynch, ...",,,0,0
+A Verification Methodology for IOA programs,"TN Win, M Ernst, S Garland, N Lynch, DK Kaynar",,,0,0
+A Tight Lower Bound for,"S Chaudhuri, M Herlihy, NA Lynch, MR Tuttle",,,0,0
+A Tradeoff Between Safety and Liveness for Randomized,"G Varghese, NA Lynch",,,0,0
+Analysis of Reliable Multicast Protocols,"C Livadas, I Keidar, N Lynch",,,0,0
+CS-R9578 1995,"N Lynch, R Segala, F Vaandrager, HB Weinberg",,,0,0
+Research Abstracts-2007,"M Brown, S Dolev, S Gilbert, L Lahiani, N Lynch, S Mitra, C Newport, ...",,,0,0
+How to Model Bounded Computation in Long-Lived Systems,"R Canetti, L Cheung, D Kaynar, N Lynch, O Pereira",,,0,0
+Distribution and Abstract Types in Emerald,"TE Anderson, BN Bershad, A Fekete, N Lynch, Y Mansour, TYC Woo, ...","Proc.\of the Fifth SIGACT/SIGOPS Conf.\on the 15, 50-57",,0,0
+An author and subject index was compiled for these proceedings by a minor editing of key words and phrases supplied by the authors. Although a computer was used in its …,"JW Carlyle, CRV Book, MJ Fischer, CSL Graham, SA Greibach, RM Karp, ...",,,0,0
+RL Graham J. Hopcroft R. Karp SR Kosaraju,"MO Rabin, P Elias, H Friedman, JL Bentley, G Berry, M Broy, R De Millo, ...",,,0,0
+Communication and Data Sharing for Dynamic Distributed Systems (Overview),"N Lynch, A Shvartsman",,,0,0
+Part ll: timing-based systems,"NA Lynch, FW Vuondruger",,,0,0
+Probabilistic I/O Automata Models,"N Lynch, L Cheung, D Kaynar, R Segala, F Vaandrager",,,0,0
+IOA: A Language and Set of Tools for Developing Reliable Distributed Systems,"S Garland, N Lynch, DK Kaynar, C Robson, JA Tauber",,,0,0

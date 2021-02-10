@@ -1,0 +1,356 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Principles of database systems,JD Ullman,Galgotia publications,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6330373797566968697,5608707471237087923,17979259305608789707,12776344707074103347",8552,1984
+Models and issues in data stream systems,"B Babcock, S Babu, M Datar, R Motwani, J Widom",Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18279471891672000905,3691,2002
+Database systems: the complete book,H Garcia-Molina,Pearson Education India,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10957421177574592156,2158,2008
+SimRank: a measure of structural-context similarity,"G Jeh, J Widom",Proceedings of the eighth ACM SIGKDD international conference on Knowledge …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11780828789765777870,1935,2002
+Dataguides: Enabling query formulation and optimization in semistructured databases,"R Goldman, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1701940952301007499,1909,1997
+The Lorel query language for semistructured data,"S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener","International journal on digital libraries 1 (1), 68-88",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18307266937843629567,1870,1997
+The TSIMMIS project: Integration of heterogenous information sources,"S Chawathe, H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, ...",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9750315667705526577,2715108289819253007,17988744411514418514",1605,1994
+The CQL continuous query language: semantic foundations and query execution,"A Arasu, S Babu, J Widom","The VLDB Journal 15 (2), 121-142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17215743948117955326,1525,2006
+Scaling personalized web search,"G Jeh, J Widom","Proceedings of the 12th international conference on World Wide Web, 271-279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10695381525426900006,1334,2003
+Active database systems: Triggers and rules for advanced database processing,"J Widom, S Ceri",Morgan Kaufmann,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9631661789924999684,1311,1996
+Object exchange across heterogeneous information sources,"Y Papakonstantinou, H Garcia-Molina, J Widom",Proceedings of the eleventh international conference on data engineering …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5330088098971208436,1272,1995
+Stream: The stanford stream data manager,"A Arasu, B Babcock, S Babu, M Datar, K Ito, R Motwani, I Nishizawa, ...","IEEE Data Eng. Bull. 26 (1), 19-26","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12564929514526277428,5800337770897832825,11523599366183011996,8911981637511356059",1171,2003
+The TSIMMIS approach to mediation: Data models and languages,"H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...","Journal of intelligent information systems 8 (2), 117-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2485038387662849139,1164,1997
+Data-Centric Systems and Applications,"MJ Carey, S Ceri, P Bernstein, U Dayal, C Faloutsos, JC Freytag, ...",Italy: Springer,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17862738010580864839,6362232500865163202",1155,2006
+Lore: A database management system for semistructured data,"J McHugh, S Abiteboul, R Goldman, D Quass, J Widom","SIGMOD record 26 (3), 54-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11212383232252179906,1063,1997
+"Query processing, resource management, and approximation in a data stream management system","R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, ...",CIDR,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8115419482584554935,8850334898429884575,9336603047430173103",1031,2003
+Research problems in data warehousing,J Widom,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027282658104616088,1020,1995
+Continuous queries over data streams,"S Babu, J Widom","ACM Sigmod Record 30 (3), 109-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11812084095427300869,986,2001
+Database system implementation,"H Garcia-Molina, JD Ullman, J Widom",Prentice Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9677876879056017009,846,2000
+A first course in database systems,JD Ullman,Pearson Education India,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1152767339865409829,801,1997
+View maintenance in a warehousing environment,"Y Zhuge, H Garcia-Molina, J Hammer, J Widom","ACM SIGMOD Record 24 (2), 316-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16152636680426629253,796,1995
+Change detection in hierarchically structured information,"SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom","Acm Sigmod Record 25 (2), 493-504",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4830567364144464460,718,1996
+"Trio: A system for integrated management of data, accuracy, and lineage",J Widom,Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=686835090543664143,669,2004
+ULDBs: Databases with uncertainty and lineage,"O Benjelloun, AD Sarma, A Halevy, J Widom",Proceedings of the 32nd international conference on Very large data bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12760427008417327956,607,2006
+Adaptive filters for continuous queries over distributed data streams,"C Olston, J Jiang, J Widom",Proceedings of the 2003 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8603160955773638137,594,2003
+Query optimization for XML,"J McHugh, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10610042292054209227,586,1999
+Swoosh: a generic approach to entity resolution,"O Benjelloun, H Garcia-Molina, D Menestrina, Q Su, SE Whang, J Widom",The VLDB Journal—The International Journal on Very Large Data Bases 18 (1 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9531412578494632760,554,2009
+Deriving production rules for incremental view maintenance,"S Ceri, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4499599651466953771,554,1991
+Clustering association rules,"B Lent, A Swami, J Widom","Proceedings 13th International Conference on Data Engineering, 220-231",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12904190648893421367,528,1997
+GPS: a graph processing system,"S Salihoglu, J Widom",Proceedings of the 25th International Conference on Scientific and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11630096339467458395,526,2013
+From semistructured data to XML: Migrating the Lore data model and query language,"R Goldman, J McHugh, J Widom",,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12899404656388967449,3842961280451760664",524,1999
+Deriving production rules for constraint maintenance,"S Ceri, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=149636520986869809,523,1990
+Tracing the lineage of view data in a warehousing environment,"Y Cui, J Widom, JL Wiener","ACM Transactions on Database Systems (TODS) 25 (2), 179-227","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5953719817961561253,5904490484443465735",511,2000
+Exploiting hierarchical domain structure to compute similarity,"P Ganesan, H Garcia-Molina, J Widom","ACM Transactions on Information Systems (TOIS) 21 (1), 64-93",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8504681595136344980,491,2003
+Lineage tracing for general data warehouse transformations,"Y Cui, J Widom",The VLDB Journal—The International Journal on Very Large Data Bases 12 (1 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2163273840161573279,476,2003
+"Trio: A system for data, uncertainty, and lineage","P Agrawal, O Benjelloun, AD Sarma, C Hayworth, S Nabar, T Sugihara, ...",Proc. of VLDB 2006 (demonstration description),"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7836733868135956272,11941670788708435920",475,2006
+Working models for uncertain data,"AD Sarma, O Benjelloun, A Halevy, J Widom","22nd International Conference on Data Engineering (ICDE'06), 7-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4842546402684309046,423,2006
+Set-oriented production rules in relational database systems,"J Widom, SJ Finkelstein","ACM SIGMOD Record 19 (2), 259-270",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6603799874636880929,394,1990
+CQL: A language for continuous queries over streams and relations,"A Arasu, S Babu, J Widom","International Workshop on Database Programming Languages, 1-19","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12005486241361645290,14267588274747315971,16278411489521318614,12576086868318491923",372,2003
+Making views self-maintainable for data warehousing,"D Quass, A Gupta, IS Mumick, J Widom",Fourth International Conference on Parallel and Distributed Information …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8751440352601467374,370,1996
+Teletraffic modeling for personal communications services,"D Lam, DC Cox, J Widom","IEEE communications magazine 35 (2), 79-87",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2476961209199500154,345,1997
+Integrating and accessing heterogeneous information sources in TSIMMIS,"H Garcia-Molina, J Hammer, K Ireland, Y Papakonstantinou, J Ullman, ...","Proceedings of the AAAI Symposium on Information Gathering 3, 61-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10216619265853491119,317,1995
+"Behavior of database production rules: Termination, confluence, and observable determinism","A Aiken, J Widom, JM Hellerstein","ACM SIGMOD Record 21 (2), 59-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15966427785111056152,310,1992
+The Stanford data warehousing project,"J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17349712496720719280,305,1995
+Flexible time management in data stream systems,"U Srivastava, J Widom",Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15564704761549403347,304,2004
+Declarative support for sensor data cleaning,"SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom","International Conference on Pervasive Computing, 83-100",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15601118322806728310,293,2006
+Active database management systems,U Dayal,Proceedings of the Third International Conference on Data and Knowledge …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2115367864940981078,282,1988
+A pipelined framework for online cleaning of sensor data streams,"SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom","22nd International Conference on Data Engineering (ICDE'06), 140-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15010892762364844019,279,2006
+Adaptive ordering of pipelined stream filters,"S Babu, R Motwani, K Munagala, I Nishizawa, J Widom",Proceedings of the 2004 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12793380721648643533,279,2004
+Querying semistructured heterogeneous information,"D Quass, A Rajaraman, Y Sagiv, J Ullman, J Widom","International Conference on Deductive and Object-Oriented Databases, 319-344",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9663482812218930606,275,1995
+Adaptive precision setting for cached approximate values,"C Olston, BT Loo, J Widom","ACM SIGMOD Record 30 (2), 355-366",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18206356296068335836,262,2001
+Data management for XML: Research directions,J Widom,Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3427091079466270527,261,1999
+Towards a streaming SQL standard,"N Jain, S Mishra, A Srinivasan, J Gehrke, J Widom, H Balakrishnan, ...","Proceedings of the VLDB Endowment 1 (2), 1379-1390",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11054003686444717037,260,2008
+Challenges and opportunities with big data,"D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...",A community white paper developed by leading researchers across the United …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6908889725431555609,254,2012
+Operator placement for in-network stream query processing,"U Srivastava, K Munagala, J Widom",Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=456995132181415645,252,2005
+Implementing set-oriented production rules as an extension to Starburst,"J Widom, BG Lindsay, RJ Cochrane",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1704743180117023194,248,1991
+Characterizing memory requirements for queries over continuous data streams,"A Arasu, B Babcock, S Babu, J McAlister, J Widom","ACM Transactions on Database Systems (TODS) 29 (1), 162-194",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1547773120029805053,247,2004
+On-line warehouse view maintenance,"D Quass, J Widom","ACM SIGMOD Record 26 (2), 393-404",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1755390976716183760,240,1997
+Memory-limited execution of windowed stream joins,"U Srivastava, J Widom",Proceedings of the Thirtieth international conference on Very large data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5439468657925594765,232,2004
+Resource sharing in continuous sliding-window aggregates,"A Arasu, J Widom",Proceedings of the Thirtieth international conference on Very large data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13832404233570618312,231,2004
+Query optimization over web services,"U Srivastava, K Munagala, J Widom, R Motwani",Proceedings of the 32nd international conference on Very large data bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3633392858356204802,230,2006
+Crowdscreen: Algorithms for filtering data with humans,"AG Parameswaran, H Garcia-Molina, H Park, N Polyzotis, A Ramesh, ...",Proceedings of the 2012 ACM SIGMOD International Conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6516279727978010634,226,2012
+Databases with uncertainty and lineage,"O Benjelloun, A Das Sarma, A Halevy, M Theobald, J Widom",The VLDB Journal—The International Journal on Very Large Data Bases 17 (2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2580629721581986515,224,2008
+Static analysis techniques for predicting the behavior of active database rules,"A Aiken, JM Hellerstein, J Widom","ACM Transactions on Database Systems (TODS) 20 (1), 3-41",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17351492385617906124,221,1995
+Active database systems,"U Dayal, E Hanson, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6000505220432253347,217,1994
+Practical lineage tracing in data warehouses,"Y Cui, J Widom",Proceedings of 16th International Conference on Data Engineering (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10064765120284419829,214,2000
+The Lowell database research self-assessment,"S Abiteboul, R Agrawal, P Bernstein, M Carey, S Ceri, B Croft, D DeWitt, ...","Communications of the ACM 48 (5), 111-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13781305444159342585,212,2005
+Indexing semistructured data,"J McHugh, J Widom, S Abiteboul, Q Luo, A Rajaraman",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17191256520687723237,205,1998
+Offering a precision-performance tradeoff for aggregation queries over replicated data,"C Olston, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4186121932651138825,200,2000
+Representing and querying changes in semistructured data,"SS Chawathe, S Abiteboul, J Widom","Proceedings 14th International Conference on Data Engineering, 4-13",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13934284403473195132,194,1998
+Constraint checking with partial information,"A Gupta, Y Sagiv, JD Ullman, J Widom",Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8711816520052057586,187,1994
+Stream: The stanford data stream management system,"A Arasu, B Babcock, S Babu, J Cieslewicz, M Datar, K Ito, R Motwani, ...","Data Stream Management, 317-336",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7705596099835537358,177,2016
+An overview of production rules in database systems,"EN Hanson, J Widom","The Knowledge Engineering Review 8 (2), 121-143",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3688094210551877329,177,1993
+Best-effort cache synchronization with source cooperation,"C Olston, J Widom",Proceedings of the 2002 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15258604724654213173,171,2002
+Exploiting k-constraints to reduce memory overhead in continuous queries over data streams,"S Babu, U Srivastava, J Widom","ACM Transactions on Database Systems (TODS) 29 (3), 545-580",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3775242965584486639,168,2004
+Managing semantic heterogeneity with production rules and persistent queues,"S Ceri, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3352886288172867023,165,1993
+Human-assisted graph search: it's okay to ask questions,"A Parameswaran, AD Sarma, H Garcia-Molina, N Polyzotis, J Widom","Proceedings of the VLDB Endowment 4 (5), 267-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16138941718664775272,151,2011
+An algebraic approach to rule analysis in expert database systems,"E Baralis, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10110487481659964216,151,1994
+The starburst active database rule system,J Widom,"IEEE Transactions on Knowledge and Data Engineering 8 (4), 583-595",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1080296606815167535,148,1996
+A system prototype for warehouse view maintenance,"J Wiener, H Gupta, W Labio, Y Zhuge, H Garcia-Molina, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3103518770930787844,145,1995
+Exploiting lineage for confidence computation in uncertain and probabilistic databases,"AD Sarma, M Theobald, J Widom","2008 IEEE 24th International Conference on Data Engineering, 1023-1032",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9937550573358954753,141,2008
+Incremental computation and maintenance of temporal aggregates,"J Yang, J Widom","Proceedings 17th International Conference on Data Engineering, 51-60",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9054022135357495600,139,2001
+WSQ/DSQ: A practical approach for combined querying of databases and the web,"R Goldman, J Widom","ACM SIGMOD Record 29 (2), 285-296",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10381106516792347034,138,2000
+Efficient and flexible location management techniques for wireless communication systems,"J Jannink, D Lam, N Shivakumar, J Widom, DC Cox","Wireless Networks 3 (5), 361-374",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12779388332367961404,136,1997
+Local verification of global integrity constraints in distributed databases,"A Gupta, J Widom","ACM SIGMOD Record 22 (2), 49-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6124645939545883657,134,1993
+Practical applications of triggers and constraints: Success and lingering issues,"S Ceri, R Cochrane, J Widom","VLDB, 10-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3755968462255239938,130,2000
+STREAM: The stanford stream data manager,STREAM Group,"IEEE Data Engineering Bulletin, 26 (1)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=95699641153840334,129,2003
+"Information translation, mediation, and mosaic-based browsing in the TSIMMIS system","J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9017304037952285098,128,1995
+Adaptive caching for continuous queries,"S Babu, K Munagalat, J Widom, R Motwani","21st International Conference on Data Engineering (ICDE'05), 118-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12992176648788520847,127,2005
+Challenges and Opportunities with Big Data. A community white paper developed by leading researchers across the United States,"D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...","Accessed on September 21, 2017","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4640634377300043712,11172230318289976977",124,2012
+Ozone: Integrating structured and semistructured data,"T Lahiri, S Abiteboul, J Widom","International Symposium on Database Programming Languages, 297-323",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6085546134458229583,123,1999
+Approximate dataguides,"R Goldman, J Widom",Proceedings of the Workshop on Query Processing for Semistructured Data and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5592330868166086123,123,1999
+Optimizing graph algorithms on pregel-like systems,"S Salihoglu, J Widom","Proceedings of the VLDB Endowment 7 (7), 577-588",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1911330201935717536,114,2014
+Deco: declarative crowdsourcing,"AG Parameswaran, H Park, H Garcia-Molina, N Polyzotis, J Widom",Proceedings of the 21st ACM international conference on Information and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15914920876841984283,114,2012
+User profile replication for faster location lookup in mobile environments,"N Shivakumar, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9792577471514027522,112,1995
+Indexing relational database content offline for efficient keyword-based search,"Q Su, J Widom",9th International Database Engineering & Application Symposium (IDEAS'05 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1035359049425090323,106,2005
+An algebraic approach to static analysis of active database rules,"E Baralis, J Widom","ACM Transactions on Database Systems (TODS) 25 (3), 269-332",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11436328934747938125,105,2000
+Special issue on materialized views and data warehousing,J Widom,IEEE Bulletin on Data Engineering 18 (2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16829620709633826933,105,1995
+Incremental computation and maintenance of temporal aggregates,"J Yang, J Widom",The VLDB Journal—The International Journal on Very Large Data Bases 12 (3 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6322562676743208044,104,2003
+An introduction to ULDBs and the Trio system,"O Benjelloun, AD Sarma, C Hayworth, J Widom","IEEE Data Engineering Bulletin, March 2006",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14406525725819916185,102,2006
+Performance issues in incremental warehouse maintenance,"W Labio, J Yang, Y Cui, H Garcia-Molina, J Widom",In Proceedings of the 26th International Conference on Very Large Data Bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12243249778093940645,102,1999
+Managing historical semistructured data,"SS Chawathe, S Abiteboul, J Widom","Theory and practice of object systems 5 (3), 143-162",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7722815767116624819,101,1999
+"Per-user profile replication in mobile environments: algorithms, analysis, and simulation results","N Shivakumar, J Jannink, J Widom","Mobile Networks and Applications 2 (2), 129-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8727536163903447517,99,1997
+Provenance for generalized map and reduce workflows,"R Ikeda, H Park, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9821260779880233402,98,2011
+Maintaining temporal views over non-temporal information sources for data warehousing,"J Yang, J Widom","International Conference on Extending Database Technology, 389-403",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11250728572317143219,93,1998
+Trio-One: Layering uncertainty and lineage on a conventional DBMS,"M Mutsuzaki, M Theobald, A De Keijzer, J Widom, P Agrawal, ...","Third Biennial Conference on Innovative Data Systems Research, 269-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5466319479385391852,91,2007
+The WHIPS prototype for data warehouse creation and maintenance,"WJ Labio, Y Zhuge, JL Wiener, H Gupta, H Garcia-Molina, J Widom","ACM SIGMOD Record 26 (2), 557-559",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5527544927684939993,89,1997
+StreaMon: an adaptive engine for stream query processing,"S Babu, J Widom",Proceedings of the 2004 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14233422145589236861,88,2004
+Content-based routing: Different plans for different data,"P Bizarro, S Babu, D DeWitt, J Widom",Proceedings of the 31st international conference on Very large data bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11246616561252186674,86,2005
+The pipelined set cover problem,"K Munagala, S Babu, R Motwani, J Widom","International Conference on Database Theory, 83-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11583094254407273281,85,2005
+Temporal view self-maintenance,"J Yang, J Widom","International Conference on Extending Database Technology, 395-412",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=542359755188901026,85,2000
+Deriving incremental production rules for deductive data,"S Ceri, J Widom","Information Systems 19 (6), 467-490",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9771696344045005902,85,1994
+Deco: A system for declarative crowdsourcing,"H Park, H Garcia-Molina, R Pang, N Polyzotis, A Parameswaran, J Widom","Proceedings of the VLDB Endowment 5 (12), 1990-1993",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=407599552395799529,83,2012
+XML query languages: Experiences and exemplars,"M Fernandez, J Simeon, P Wadler, S Cluet, A Deutsch, D Florescu, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8668291624331081963,83,1999
+Interactive query and search in semistructured databases,"R Goldman, J Widom","International Workshop on the World Wide Web and Databases, 52-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6561809916880686160,82,1998
+Panda: A system for provenance and data,"R Ikeda, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1441376117126316876,81,2010
+Optimization of continuous queries with shared expensive filters,"K Munagala, U Srivastava, J Widom",Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART symposium on …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=100761928644450603,81,2007
+The Beckman report on database research,"D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...","Communications of the ACM 59 (2), 92-99",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11210497915823656950,80,2016
+Synthesizing view definitions from data,"A Das Sarma, A Parameswaran, H Garcia-Molina, J Widom","Proceedings of the 13th International Conference on Database Theory, 89-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15401903302742635646,80,2010
+Ramp: A system for capturing and tracing provenance in mapreduce workflows,"H Park, R Ikeda, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6391254034235316591,73,2011
+A denotational semantics for continuous queries over streams and relations,"A Arasu, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=677702422295275728,73,2004
+Atomicity versus anonymity: Distributed transactions for electronic commerce,"JD Tygar, A Gupta, O Shmueli, J Widom","VLDB 1998, 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4334255469678978514,73,1998
+A denotational semantics for the Starburst production rule language,J Widom,"ACM SIGMOD Record 21 (3), 4-9",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7786806576172099744,72,1992
+Production rules in parallel and distributed database environments,"S Ceri, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12422492550414528174,70,1992
+The STRIP rule system for efficiently maintaining derived data,"B Adelberg, H Garcia-Molina, J Widom","ACM SIGMOD Record 26 (2), 147-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10410181907497894292,69,1997
+Vision paper: enabling privacy for the paranoids,"G Aggarwal, M Bawa, P Ganesan, H Garcia-Molina, K Kenthapadi, ...",Proceedings of the Thirtieth international conference on Very large data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18337427285615389816,68,2004
+"Representing uncertain data: models, properties, and algorithms","AD Sarma, O Benjelloun, A Halevy, S Nabar, J Widom",The VLDB Journal—The International Journal on Very Large Data Bases 18 (5 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13191846852657659880,66,2009
+Better termination analysis for active databases,"E Baralis, S Ceri, J Widom","Rules in database Systems, 163-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9451461611814372571,64,1994
+"The Starburst rule system: Language design, implementation, and applications",J Widom,IEEE Data Engineering Bulletin,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14039981961947955609,64,1992
+Introducción a los Sistemas de Bases de Datos,"JD Ullman, J Widom, EA Miguel",Prentice Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11172665959005883757,63,1999
+A data stream management system for network traffic management,"S Babu, L Subramanian, J Widom",In Proceedings of Workshop on Network-Related Data Management (NRDM 2001),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3837280896708469376,62,2001
+The beckman report on database research,"D Abadi, R Agrawal, A Ailamaki, M Balazinska, PA Bernstein, MJ Carey, ...","ACM SIGMOD Record 43 (3), 61-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12361285005077686934,60,2014
+Crowdfill: collecting structured data from the crowd,"H Park, J Widom",Proceedings of the 2014 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10476560264155788419,60,2014
+Modeling location management in personal communications services,"D Lam, J Jannink, DC Cox, J Widom",Proceedings of ICUPC-5th International Conference on Universal Personal …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7069364005953770385,60,1996
+Computing the median with uncertainty,"T Feder, R Motwani, R Panigrahy, C Olston, J Widom","SIAM Journal on Computing 32 (2), 538-547","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9238892039791592995,4309569369172411260",58,2003
+Implementação de sistemas de banco de dados,"H Garcia-Molina, JD Ullman, J Widom",Campus,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10328451627249580328,56,2001
+Introduction to active database systems,J Widom,Active Database Systems Triggers and Rules For Advanced Database Processing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1372721400081520360,55,1996
+A syntax and semantics for set-oriented production rules in relational database systems,"J Widom, SJ Finkelstein","ACM Sigmod record 18 (3), 36-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14783707867818343710,55,1989
+Integrating heterogeneous databases: lazy or eager?,J Widom,Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17640577052429527931,54,1996
+A temporal-logic based compositional proof system for real-time message passing,"J Hooman, J Widom","International Conference on Parallel Architectures and Languages Europe, 424-441",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3619656968498772115,54,1989
+Whiteboards: A graphical database tool,"J Donahue, J Widom","ACM Transactions on Information Systems (TOIS) 4 (1), 24-41",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12994449194991150816,53,1986
+Simplifying scalable graph processing with a domain-specific language,"S Hong, S Salihoglu, J Widom, K Olukotun",Proceedings of Annual IEEE/ACM International Symposium on Code Generation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8992326248760837873,51,2014
+Making aggregation work in uncertain and probabilistic databases,"R Murthy, R Ikeda, J Widom","IEEE Transactions on knowledge and data engineering 23 (8), 1261-1273",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17918054390529217456,51,2010
+Foundations of uncertain-data integration,"P Agrawal, AD Sarma, J Ullman, J Widom","Proceedings of the VLDB Endowment 3 (1-2), 1080-1090",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3509840666627670471,50,2010
+Query optimization for semistructured data,"J McHugh, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6183289653142678822,50,1997
+Deductive and active databases: Two paradigms or ends of a spectrum?,J Widom,"Rules in database systems, 306-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13374652272744828043,49,1994
+Generic entity resolution in the serf project,"O Benjelloun, H Garcia-Molina, H Kawai, TE Larson, D Menestrina, Q Su, ...","IEEE Data Engineering Bulletin, June 2006 Issue",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7209100676275170969,48,2006
+数据库系统实现,H Garcia-Molina,机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=238507982122454428,48,2001
+Protocols for integrity constraint checking in federated databases,"P Grefen, J Widom","Distributed and Parallel Databases 5 (4), 327-355",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13752454277871689537,48,1997
+Compile-time path expansion in Lore,"J McHugh, J Widom",Workshop on Query Processing for Semistructured Data and Non-Standard Data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3168452079721319347,44,1999
+Optimal crowd-powered rating and filtering algorithms,"A Parameswaran, S Boyd, H Garcia-Molina, A Gupta, N Polyzotis, ...","Proceedings of the VLDB Endowment 7 (9), 685-696",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11153793543102904255,43,2014
+Query optimization over crowdsourced data,"H Park, J Widom","Proceedings of the VLDB Endowment 6 (10), 781-792",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13096404583837295171,43,2013
+A toolkit for constraint management in heterogeneous information systems,"SS Chawathe, H Garcia-Molina, J Widom","Proceedings of the Twelfth International Conference on Data Engineering, 56-65",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16082418163172521643,43,1996
+Podstawowy wykład z systemów baz danych,"JD Ullman, J Widom",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16084256612910436249,42,2000
+Stream: The Stanford stream data manager,"DP Arvind, A Arasu, B Babcock, S Babu, M Datar, K Ito, I Nishizawa, ...",IEEE Data Engineering Bulletin,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2200028749683767144,40,2003
+Rule processing in active database systems,"EN Hanson, J Widom","International journal of expert systems 6 (1), 83-119",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3907005294090022539,39,1993
+Systemy baz danych: Pełny wykład,"H Garcia-Molina, JD Ullman, J Widom",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7680695909011798015,37,2006
+An overview of the deco system: data model and query language; query processing and optimization,"H Park, R Pang, A Parameswaran, H Garcia-Molina, N Polyzotis, J Widom","ACM SIGMOD Record 41 (4), 22-27",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18134870865521354451,36,2013
+"Efficient Monitoring and Querying of Distributed, Dynamic Data via Approximate Replication.","C Olston, J Widom","IEEE Data Eng. Bull. 28 (1), 11-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16402829412264577335,36,2005
+"Understanding workers, developing effective tasks, and enhancing marketplace dynamics: a study of a large crowdsourcing marketplace","A Jain, AD Sarma, A Parameswaran, J Widom","Proceedings of the VLDB Endowment 10 (7), 829-840",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14822309478749356029,35,2017
+Lineage tracing in a data warehousing system,"Y Cui, J Widom",Proceedings of 16th International Conference on Data Engineering (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2953856601185974269,34,2000
+Integrity constraint checking in federated databases,"P Grefen, J Widorn",Proceedings First IFCIS International Conference on Cooperative Information …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=844076121966098455,33,1996
+Research issues in active database systems: Report from the closing panel at RIDE-ADS'94,J Widom,"ACM Sigmod Record 23 (3), 41-43",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17467996360862786091,33,1994
+Approximate replication,CAR Olston,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5856611985333098800,32,2003
+Lore: A Database Management System for XML.,"R Goldman, J McHugh, J Widom","Dr. Dobb's Journal: Software Tools for the Professional Programmer 25 (4), 76-79",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10660336643229053282,32,2000
+Data lineage: A survey,"R Ikeda, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14234206564094820288,31,2009
+Completeness and incompleteness of trace-based network proof systems,"J Widom, D Gries, FB Schneider",Proceedings of the 14th ACM SIGACT-SIGPLAN symposium on Principles of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16598617782818683422,31,1987
+TIP: a temporal extension to Informix,"J Yang, HC Ying, J Widom","ACM SIGMOD Record 29 (2), 596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8067170773379256724,29,2000
+Run-time translation of view tuple deletions using data lineage,"Y Cui, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1309080711627224071,28,2001
+Better static rule analysis for active database systems,"E Baralis, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314764612033112238,28,2000
+Provenance-based refresh in data-oriented workflows,"R Ikeda, S Salihoglu, J Widom",Proceedings of the 20th ACM international conference on Information and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10288600777543268887,27,2011
+Schema design for uncertain databases,"AD Sarma, J Ullman, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1182995821201533552,27,2007
+Implementacja systemów baz danych,"H Garcia-Molina, J Widom, JD Ullman",Wydawnictwa Naukowo-Techniczne,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13117130552418257962,27,2003
+Provenance-based debugging and drill-down in data-oriented workflows,"R Ikeda, J Cho, C Fang, S Salihoglu, S Torikai, J Widom","2012 IEEE 28th International Conference on Data Engineering, 1249-1252",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1742460657823321633,26,2012
+Optimizing branching path expressions,"J McHugh, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13416034975644779743,26,1999
+Origins of the Modern MOOC (xMOOC),"A Ng, J Widom","Hrsg. Fiona M. Hollands, Devayani Tirthali: MOOCs: Expectations and Reality …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7088449491674553008,25,2014
+LIVE: a lineage-supported versioned DBMS,"AD Sarma, M Theobald, J Widom",International Conference on Scientific and Statistical Database Management …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14823609160600299527,25,2010
+Mining the space of graph properties,"G Jeh, J Widom",Proceedings of the tenth ACM SIGKDD international conference on Knowledge …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14937521854515706084,25,2004
+Storing auxiliary data for efficient maintenance and lineage tracing of complex views,"Y Cui, J Widom",In the 2nd International Workshop on Design and Management of Data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3027916786408509291,25,1999
+Using delta relations to optimize condition evaluation in active databases,"E Baralis, J Widom","International Workshop on Rules in Database Systems, 292-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8868997572629546240,25,1995
+HelP: High-level primitives for large-scale graph processing,"S Salihoglu, J Widom","Proceedings of Workshop on GRAph Data management Experiences and Systems, 1-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1685948486928834524,24,2014
+Datasift: An expressive and accurate crowd-powered search toolkit,"A Parameswaran, MH Teh, H Garcia-Molina, J Widom",First AAAI Conference on Human Computation and Crowdsourcing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8539602872646811736,24,2013
+Confidence-aware join algorithms,"P Agrawal, J Widom","2009 IEEE 25th International Conference on Data Engineering, 628-639",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10737359731175755012,24,2009
+Deduction in the Starburst production rule system,J Widom,IBM Thomas J. Watson Research Division,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11569893766006637689,24,1991
+Logical provenance in data-oriented workflows?,"R Ikeda, AD Sarma, J Widom","2013 IEEE 29th International Conference on Data Engineering (ICDE), 877-888",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17391936553444819751,23,2013
+A location management technique to support lifelong numbering in Personal Communications Services,"D Lam, Y Cui, DC Cox, J Widom",GLOBECOM 97. IEEE Global Telecommunications Conference. Conference Record 2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8772880957340591998,23,1997
+Integrating dynamically-fetched external information into a DBMS for semistructured data,"J McHugh, J Widom","ACM SIGMOD Record 26 (4), 24-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561205516125483578,22,1997
+Graft: A debugging tool for apache giraph,"S Salihoglu, J Shin, V Khanna, BQ Truong, J Widom",Proceedings of the 2015 ACM SIGMOD International Conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18312434160779787215,20,2015
+Continuous uncertainty in trio,"P Agrawal, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11284859138620032049,20,2009
+Estimating data stream quality for object-detection applications,"AD Sarma, SR Jeffery, MJ Franklin, J Widom",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=397987659366504625,19,2005
+Efficient PCS call setup protocols,"Y Cui, D Lam, J Widom, DC Cox","Proceedings. IEEE INFOCOM'98, the Conference on Computer Communications …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14358295471991230064,19,1998
+Surpassing humans and computers with JELLYBEAN: Crowd-vision-hybrid counting algorithms,"AD Sarma, A Jain, A Nandi, A Parameswaran, J Widom",Third AAAI Conference on Human Computation and Crowdsourcing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5307331989886903349,18,2015
+数据库系统基础教程,"JD Ullman, J Widom",北京: 清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16468572761265259297,18,1999
+数据库系统基础教程,史嘉权,北京: 清华大学出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11386002089666714224,18,1999
+Trace-based network proof systems: Expressiveness and completeness,"J Widom, D Gries, FB Schneider","ACM Transactions on Programming Languages and Systems (TOPLAS) 14 (3), 396-416","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4329206885347257037,6989582741675736352",18,1992
+Towards globally optimal crowdsourcing quality management: The uniform worker setting,"A Das Sarma, A Parameswaran, J Widom","Proceedings of the 2016 International Conference on Management of Data, 47-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3431512797536933,17,2016
+Constraint management in loosely coupled distributed databases,"S Chawathe, H Garcia-Molina, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=46205944612866831,17,1993
+The stanford data stream management system,J Widom,"believed to be prior to, 24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3357874059362704050,16,2007
+"Where was your data yesterday, and where will it go tomorrow? Data Annotation and Provenance for Scientific Applications","P Buneman, D Maier, J Widom","Proc. 2000 NSF Workshop on Information and Data Management, 10-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15869985455404780680,16,2000
+A location management technique to support lifelong numbering in personal communications services,"D Lam, Y Cui, DC Cox, J Widom","ACM SIGMOBILE Mobile Computing and Communications Review 2 (1), 27-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10411556521633806936,16,1998
+Active database systems,"S Ceri, J Widom, V Vianu, S Ceri, S Abiteboul","Journal of the ACM 35, 70-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4261826914245326443,16,1996
+Flexible constraint management for autonomous distributed databases,"S Chawathe, H Garcia-Molina, J Widom",Data Engineering Bulletin 17 (2),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15932880297755437945,16,1994
+Summarizing and searching sequential semistructured sources,"R Goldman, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11684206167740158136,15,2000
+Querying semistructured heterogeneous information,"D Quass, A Rajaraman, J Ullman, J Widom, Y Sagiv","Journal of Systems Integration 7 (3-4), 381-407",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6949109946964574895,15,1997
+Virtual devices: An extensible architecture for bridging the physical-digital divide,"SR Jeffery, G Alonso, MJ Franklin, W Hong, J Widom",Computer Science,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9385450943481874301,14,2005
+Adatbázisrendszerek: alapvetés,"JD Ullman, J Widom, E Cserges, B Csizmazia, P Gyenizse",Panem,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11825034812763601415,13,1998
+Query processing over crowdsourced data,"H Park, A Parameswaran, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10463420389012471854,12,2012
+Data Management and query processing for semistructured data,"J McHugh, J Widom","PhD thesis, Department of Computer Science, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4398645020758837276,12,2000
+Datasift: a crowd-powered search toolkit,"A Parameswaran, MH Teh, H Garcia-Molina, J Widom",Proceedings of the 2014 ACM SIGMOD International Conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14988428982710039244,11,2014
+Database publication practices,"PA Bernstein, D DeWitt, A Heuer, Z Ives, CS Jensen, H Meyer, MT Özsu, ...",Proceedings of the 31st international conference on Very large data bases …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12598581657909417719,11,2005
+数据库系统全书,"H Garcia-Molina, JD Ullman, J Widom",机械工业出版社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13343620228736040150,11,2003
+Generalized uncertain databases: first steps,"P Agrawal, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223146643551010038,10,2010
+A Unified Approach for Querying Structured Data and XML.,"S Abiteboul, J Widom, T Lahiri",QL,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3818644329057556896,10,1998
+Efficient and complete tests for database integrity constraint checking,"A Gupta, Y Sagiv, JD Ullman, J Widom",International Workshop on Principles and Practice of Constraint Programming …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18293949442537085940,10,1994
+"From 100 Students to 100,000",J Widom,Available: wp. sigmod. org,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13185835424912104834,9,2012
+Monitoring stream properties for continuous query processing,"U Srivastava, S Babu, J Widom",Stanford,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1559588522439355130,9,2003
+Towards special-purpose indexes and statistics for uncertain data,"AD Sarma, P Agrawal, S Nabar, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6855400954640405303,8,2008
+Trio-ER: The Trio system as a workbench for entity-resolution,"P Agrawal, R Ikeda, H Park, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13668237251586516379,7,2009
+Data modifications and versioning in Trio,"AD Sarma, M Theobald, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18095378814357797521,7,2008
+Rethinking the conference reviewing process,"MJ Franklin, J Widom, A Ailamaki, PA Bernstein, D DeWitt, A Halevy, ...",Proceedings of the 2004 ACM SIGMOD international conference on Management of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2047620008885124233,7,2004
+Data Management for User ProFILEs in Wireless Communication Systems,"J Jannink, D Lam, N Shivakumar, J Widom, D Cox",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1580257839486032004,7,1995
+Research issues in data warehousing,J Widom,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=652382052641549454,7,0
+Computing strongly connected components in pregel-like systems,"S Salihoglu, J Widom","Technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745497806081551363,6,2013
+Tips for Writing Technical Papers,J Widom,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4417351807056050632,6,2005
+A rewriting technique for using delta relations to improve condition evaluation in active databases,"E Baralis, J Widom",Technical Report Stan-CS-93-1495,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16039328657861367291,6,1993
+The whips prototype for data warehouse creation and maintenance,"JL Wiener, H Gupta, WJ Labio, Y Zhuge, H Garcia-Molina, J Widom","icde, 589",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16600231332006191146,5,1997
+SIGMOD 96: International Conference on Management of Data,J Widom,Association for Computing Machinery,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7384807106501188770,5,1996
+Systemy baz danych. Kompletny podręcznik. Wydanie II,"H Garcia-Molina, JD Ullman, J Widom",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2759671099076186129,5,1991
+Expressiveness bounds for completeness in trace-based network proof systems,"J Widom, P Panangaden","Colloquium on Trees in Algebra and Programming, 200-214",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14534431387460622084,5,1988
+Crowdfill: A system for collecting structured data from the crowd,"H Park, J Widom","Proceedings of the 23rd International Conference on World Wide Web, 87-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3401439377380092869,4,2014
+Tech Report: Compiling Green-Marl into GPS,"S Hong, S Salihoglu, J Widom, K Olukotun","Technical report, Stanford University, October 2012. http://ppl. stanford …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=970604960065151866,4,2012
+COMM: sesigning a well-founded multimedia ontology for the web. The semantic web,"R Arndt, R Troncy, S Staab, L Hardman, M Vacura","Springer, Berlin","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16948062757721362326,17835921472754480060",4,2008
+"Representing Uncertain Data: Uniqueness, Equivalence, Minimization, and Approximation","AD Sarma, SU Nabar, J Widom",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18101542323456658138,4,2005
+Practical Applications of Constraints and Triggers: Successes and Lingering Issues,"S Ceri, RJ Cochrane, J Widom","VLDB conference, Cairo Egypt, Sept. 2000 (invited paper)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3784081938246546868,4,2000
+Foreword: Special Issue on Active Database Systems,"S Chakravarthy, J Widom","J. Intell. Inf. Syst. 7 (2), 109-110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5456357724530978748,4,1996
+Validating constraints with partial information: Research overview,"J Widom, A Gupta, Y Sagiv, J Ullman",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6352065529836508709,4,1994
+Jellybean: Crowd-powered image counting algorithms,"AD Sarma, A Jain, A Nandi, A Parameswaran, J Widom",HCOMP,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8992988091797394111,3,2015
+XML: Some hyperlinks minus the hype,"P Wadler, P Wadler, P Wadler, BC Pierce, J McHugh, S Abiteboul, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1020143580521973346,3,2005
+Content-based routing for continuous query-optimization,"P Bizarro, S Babu, D DeWitt, J Widom",University of Wisconsin-Madison Department of Computer Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13723951660428164644,3,2004
+Database Systems,"HG Molina, J Ullman, J Widom",The complete Book,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9780147552185561242,3,2002
+Temporal view self-maintenance in a warehousing environment,"J Yang, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4781238782220359840,3,1999
+"Per-user pro le replication in mobile environments: Algorithms, analysis, and simulation results","N Shivakumar, J Jannink, J Widom",Submitted for publication,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15353658240371432684,3,1995
+Globally optimal crowdsourcing quality management,"AD Sarma, A Parameswaran, J Widom",arXiv preprint arXiv:1502.07710,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8483615729650072835,2,2015
+Optimal Worker Quality and Answer Estimates in Crowd-Powered Filtering and Rating,"AD Sarma, A Parameswaran, J Widom",Second AAAI Conference on Human Computation and Crowdsourcing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4272744111036292187,2,2014
+Compiling GreenMarl into GPS,"S Hong, S Salihoglu, J Widom, K Olukotun",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17226853209998187516,2,2012
+Challenges and Opportunities with Big Data 2012-2,"D Agrawal, P Bernstein, E Bertino, S Davidson, U Dayal, M Franklin, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13978437228583846436,2,2011
+Outerjoins in uncertain databases,"R Ikeda, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13026393011926755849,2,2009
+A First Course in Database Systemm (3rd).[M],"JD Ullman, J Widow",Beijing: China Machine Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13929452104127189867,2,2008
+"A system for integrated management of data, accuracy, and lineage",J Widom,"Proc. CIDR, 2005",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10188818357280829974,2,2005
+Approximate caching for continuous queries over distributed data sources,"C Olston, J Widom",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17257276923348553770,2,2002
+Adatbázisrendszerek megvalósítása,"H Garcia-Molina, JD Ullman, J Widom, A Buza, E Cserges, C Hajas",Panem,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2633370250718889000,2,2001
+Information Integration,"JD Ullman, J Widom, H Garcia-Molina","Database System Implementation, Prentice Hall, 595-612",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692809333225976191,2,1999
+Maintaining Temporal Views Over Non-Historical Information Sources for Data Warehousing,"J Yang, J Widom","Technical Report, Computer Science Department, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10229904946512738773,2,1997
+Proceedings of the ACM SIGMOD Conference on Management of Data,"T Zhang, R Ramakrishnon, M Livny","BIRCH: An efficient data clustering method for very large databases, 103-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17061302773848073692,2,1996
+A Warehousing Approach to Data and Knowledge Integration,"H Garcia-Molina, J Widom, J Wiener, W Labio, B Lent, Y Zhuge","Stanford University, Technical Report",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9613359403491048397,2,1995
+Logical Provenance in Data-Oriented Workflows (Long Version),"R Ikeda, AD Sarma, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11267219221285450862,2,0
+A First Course in Database Systems: Pearson New International Edition,J Widom,Pearson Education Limited,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10258229625572854820,1,2013
+3X: A Data Management System for Computational Experiments (Demonstration Proposal),"J Shin, A Paepcke, J Widom",Stanford InfoLab,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=577446043135914399,1,2013
+Podstawowy kurs systemów baz danych,"JD Ullman, J Widom, R Meryk",Helion,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9979905845838488566,1,2011
+Data Modifications and Versioning in Trio,"A Das Sarma, M Theobald, J Widom",Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11073947803961630467,1,2008
+Lav integration of uncertain data,"P Agrawal, AD Sarma, J Ullman, J Widom","Tech. rep. 2008-31, Stanford InfoLab",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5936114139047982728,1,2008
+"Moshe Vardi speaks out on the proof, the whole proof, and nothing but the proof",M Winslett,"ACM SIGMOD Record 35 (1), 56-64",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17629720369977289099,1,2006
+Memory-Limited Execution of Windowed Stream Joins,J Widom,Proc. Of VLDB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9870576905033235313,1,2004
+Efficient and Extensible Keyword Search over Relational Databases,"Q Su, J Widom",Stanford University Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6530025350121184534,1,2003
+MapReduce: Simplified data processing on large clusters.,"H Bin, P Yuxing, R Agrawal, A Somani, Y Xu, DJ Abadi, A Crainiceanu, ...","Information Technology Journal 12 (20), pp: 149-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10736062402859659180,1,2001
+E cient PCS Call Setup Protocols,"Y Cui, D Lam, J Widom, DC Cox","technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15774769794928604964,1,1997
+An Algebraic Approach to Rule Analysis in Expert Database Systems,"E Bar&s, J Widom","Proc. Twentieth Int’J Conf. on Vet-g Large Data Bases, Santiago, Chile",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17714329970326799195,1,1994
+Managing Semantic Heterogeneity with Production Rules and Persistent Queues,"J Widom, S Ceri","Procs. 19th Int. Conference on Very Large Data Bases; Dublin, Ireland",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8162697751174567673,1,1993
+Active Database Rule Systems,J Widom,"3rd Intn'l Conf. on Extending Database Technology, Tutorial 7, Vienna, Austria",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4679500744829055386,1,1992
+Starburst II: the extender strikes back!,"GM Lohman, G Lapis, T Lehman, R Agrawal, R Cochrane, J McPherson, ...","ACM SIGMOD Record 20 (2), 447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12690000974720785339,1,1991
+"Research in database systems: Challenges, principles, prototypes, and results",J Widom,2016 Sixteenth International Conference on Advances in ICT for Emerging …,,0,2016
+The Beckman Report on Database Research,"JM HELLERSTEIN, YE IOANNIDIS, HV JAGADISH, D KOSSMANN, ...",COMMUNICATIONS OF THE ACM 59 (2),,0,2016
+Three Favorite Results,J Widom,Proceedings of the 2015 ACM SIGMOD International Conference on Management of …,,0,2015
+Globally Optimal Crowdsourcing Quality Management: Full technical report.,"AD Sarma, AG Parameswaran, J Widom",CoRR,,0,2015
+Better Termination Analysis for Active,"EBS Ceri, J Widom",Rules in Database Systems: Proceedings of the 1st International Workshop on …,,0,2012
+Two Paradigms or Ends of a Spectrum?,J Widom,Rules in Database Systems: Proceedings of the 1st International Workshop on …,,0,2012
+of (Report) Series: Technical Report/Stanford University,"A Das Sarma, M Theobald, J Widom",Standford University,,0,2010
+Equal Opportunity Support for All,"JD Ullman, J Widom",Communications of the ACM 52 (7),,0,2009
+2007 SIGMOD Edger F. Codd Innovations Award:“Research Principles Revealed”,J Widom,Proceedings of the 2007 ACM SIGMOD international conference on Management of …,,0,2007
+Goal Student Access Code Card for First Course in Database Systems,JD Widom,Prentice Hall,,0,2007
+Foreword to special section on SIGMOD/PODS 2005,"F Afrati, J Widom","ACM Transactions on Database Systems (TODS) 31 (4), 1417-1417",,0,2006
+Uncertainty in Databases,J Widom,,,0,2006
+Proceedings of the ACM SIGMOD International Conference on Management of Data: Foreword,"J Widom, Y Yesha, N Adam, F Özcan, R Chirkova",Proceedings of the ACM SIGMOD International Conference on Management of Data,,0,2005
+This Presentation,"R Motwani, J Widom, A Arasu, B Babcock, S Babu, M Datar, G Manku, ...",,,0,2005
+Content-Based Routing for Continuous,"P Bizarre, S Babu, D DeWitt, J Widom",,,0,2004
+mimm 4^ Cf tí í û Ô Üi© if,"P Bizarro, S Babu, D DeWitt, J Widom",,,0,2004
+Do you know where your data's been?-Tamper-evident database provenance.,"F Wang, X Li, C Li, H Zhao, D Bhagwat, L Chiticariu, WC Tan, ...","Information Technology Journal 12 (23), pp: 900-911",,0,2004
+MapReduce: Simplified data processing on large clusters.,"S Xiaoyan, C Junliang, M Xiangwu, Z Yujie, Y Asano, H Imai, M Toyoda, ...","Information Technology Journal 8 (4), 2163-2170",,0,2004
+The Lowell Database Research Self Assessment,"S Zdonik, J Widom, G Weikum, J Ullman, R Snodgrass, M Stonebraker, ...",,,0,2003
+Data streams: fresh current or stagnant backwater?(panel),"JM Hellerstein, J Widom",Proceedings of the 2002 ACM SIGMOD international conference on Management of …,,0,2002
+Ctree: A compact tree for indexing XML data.,"SC Haw, GSV Radha Krishna Rao, SY Chien, Z Vagena, D Zhang, ...","Journal of Applied Sciences 7 (19), pp: 141-152",,0,2002
+Incremental Computation and Maintenance of Temporal Aggregates (Journal version),"J Yang, J Widom",VLDB Journal,,0,2002
+"Processing Data Streams: Applications, Challenges and Approaches","D Maier, M Franklin, J Gehrke, P Sheshadri, J Widom","PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DATA ENGINEERING, 655-662",,0,2002
+Query Optimization for XML</Title,"J McHugh, J Widom, S Abiteboul, MF Fernandez, D Suciu","Advances in Databases: 18th British National Conference on Databases, BNCOD …",,0,2001
+The R-Tree: An efficient and robust access method for points and rectangles.,"MJ Carey, S Geffner, D Agrawal, AE Abbadi, DK Gifford, P Jouvelot, ...","Information Technology Journal 4 (1), 12-17",,0,2001
+Of XML and databases (panel session): where's the beef?,"J Widom, A Bosworth, B Lindsay, M Stonebraker, D Suciu, ...","ACM SIGMOD Record 29 (2), 576",,0,2000
+Foreword by the VLDB'98 PC Chairmen,"O Shmueli, J Widom","The VLDB Journal 8 (3), 155-155",,0,2000
+Spatial & Temporal Information-Temporal View Self-Maintenance,"J Yang, J Widom","Lecture Notes in Computer Science 1777, 395-412",,0,2000
+Implementing Parameterized Range Types in an Extensible DBMS,"J Yang, J Widom, P Brown",Stanford,,0,2000
+Introducing New Advisory Board and Editorial Board Members,FB Bastani,"IEEE Transactions on Knowledge & Data Engineering, 865-867",,0,1998
+for Data Warehousing,"J Yang, J Widom",Advances in Database Technology-EDBT'98: 6th International Conference on …,,0,1998
+Efficient Management of Active Databases,"JD Ullman, J Widom",STANFORD UNIV CA DEPT OF COMPUTER SCIENCE,,0,1998
+"VLDB: Very Large Data Bases: International Conference: Proceedings, 24th, August 24-27, 1998, New York City","A Gupta, O Shmueli, J Widom",Morgan Kaufmann,,0,1998
+XML Query and transformation language.,"A Bosworth, A Layman, A Ardeleanu, D Schach",QL,,0,1998
+"Reminescences on Influential Papers-R Snodgrass, ed","L Haas, A Mendelzohn, M Ozsoyoglu, J Paredaens, K Ramamntham, ...","SIGMOD RECORD 27, 81-85",,0,1998
+"Proceedings of the Twenty-fourth International Conference on Very Large Databases, New York, NY, USA, 24-27 August, 1998","A Gupta, O Shmueli, J Widom",Morgan Kaufmann Pub,,0,1998
+A Warehousing Approach to Data and Knowledge Integration,J Widom,STANFORD UNIV CA SPONSORED PROJECTS OFFICE,,0,1997
+Evaluating queries with generalized path expressions.,"U Kumar Deb Nath, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, ...","Information Technology Journal 4 (4), 68-88",,0,1997
+Systems Analysis and Design.,"CF Wu, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, C Albrecht, ...","Information Technology Journal 7 (4), 68-88",,0,1997
+Evolving materialized views in data warehouse.,"CA Dhote, MS Ali, E Baralis, S Paraboschi, E Tenientle, JA Blaiseley, ...","Journal of Applied Sciences 9 (3), pp: 488-499",,0,1997
+Structural map: A new index for efficient XML path expression processing.,"SC Haw, CS Lee, S Abiteboul, D Quass, J McHugh, J Widom, JL Wiener, ...","Journal of Applied Sciences 7 (20), 68-88",,0,1997
+"A Warehousing Approach to Data and Knowledge Integration(Final Report, Sep. 1994- Aug. 1996)",J WIDOM,,,0,1997
+Change Management in Heterogeneous Semistructured Databases (Demonstration Description),"S Chawathe, V Gossain, X Liu, J Widom, S Abiteboul",Stanford InfoLab,,0,1997
+ACM SIGMOD Record Volume 25 Issue 1,J Widom,ACM 25 (1),,0,1996
+A Toolkit for Constraint Management in Heterogeneous Information Systems,"SSCH Garcia-Molina, J Widom",Proceedings of the Twelfth International Conference on Data Engineering …,,0,1996
+1.3 Rule Language Design,J WIDOM,ACTIVE DATABASE SYSTEMS,,0,1996
+Database System Concepts.,"N Arman, A Aiken, J Hellerstein, J Widom, N Arman, N Arman, K Berman, ...","Information Technology Journal 6 (2), 3-41",,0,1995
+Rule termination analysis based on petri nets.,"LB hamed, H Belbachir, A Aiken, JM Hellerstein, J Widom, M Atkinson, ...","Journal of Applied Sciences 6 (8), 3-41",,0,1995
+Incremental View Updates in a Warehousing Architecture,"Y Zhuge, H Garcia-Molina, J Hammer, J Widom",,,0,1994
+Peer DB: A P2P-based system for distributed data sharing.,"NS Ougouti, H Belbachir, Y Amghar, NA Benharkat, S Chawathe, ...","Journal of Applied Sciences 10 (22), pp: 7-18",,0,1994
+Improved methods for finding association rules.,"RS Thakur, R Agrawal, R Srikant, R Agrawal, R Srikant, RJ Bayardo, ...","Trends in Applied Sciences Research 1 (4), pp: 478-499",,0,1994
+"Fourth International Workshop on Research Issues in Data Engineering: Active Database Systems: Proceedings, February 14-15, 1994, Houston, Texas","J Widom, S Chakravarthy",IEEE Computer Society Press,,0,1994
+"TRACE-BASED NETWORK PROOF SYSTEMS-EXPRESSIVENESS AND COMPLETENESS (VOL 14, PG 3, 1992)","J WIDOM, D GRIES, FB SCHNEIDER","ACM TRANSACTIONS ON PROGRAMMING LANGUAGES AND SYSTEMS 15 (1), 208-208",,0,1993
+TriGS debugger a tool for debugging active database behavior.,"H Belbachir, NS Ougouti, A Aiken, J Widom, JM Hellerstein, ...","Journal of Applied Sciences 6 (3), pp: 59-68",,0,1992
+Trace-based Network Proof Systems: Expressiveness and Completeness,"D Gries, FB Schneider, J Widom","Cornell University, Department of Computer Science",,0,1989
+Resource Sharing in Continuous Sliding-Window Aggregation,"A Arasu, J Widom",,,0,0
+Data Streams,J Widom,,,0,0
+Following the Formula,J Widom,,,0,0
+2.1 Data Model,"S Abiteboul, J Widom, T Lahiri",,,0,0
+View Maintenance in a Data Warehouse,"Y Zhuge, H Garcia-Molina, J Hammer, J Widom, JL Wiener, ...",,,0,0
+"Helal, A.","K Aberer, G Alonso, B Arpinar, G Aslan, P Attie, T Berkel, E Bertino, ...",,,0,0
+Logical Provenance in Data-Oriented Workflows (Short Version),"R Ikeda, AD Sarma, J Widom",,,0,0
+"The underlying concepts may di er in subtle ways. A payroll database may not regard a retiree as an\employee,"" while the benefits department does. Conversely, the payroll …","H Garcia-Molina, Y Papakonstantinou, D Quass, A Rajaraman, Y Sagiv, ...",,,0,0
+Data Engineering,"A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...",,,0,0
+Data Engineering,"R Ramakrishnan, D Srivastava, G Alonso, A El Abbadi, SS Chawathe, ...",,,0,0
+Data Engineering,"O Benjelloun, AD Sarma, C Hayworth, J Widom","Ann Arbor 1001, 48109",,0,0
+"Computer Science Department Stanford University Stanford, CA 94305 E-mail: joachim@ cs. stanford. edu","J Hammer, H Garcia-Molina, J Widom, W Labio, Y Zhuge",,,0,0
+Data Engineering,"G Alonso, A El Abbadi, SS Chawathe, H Garcia-Molina, J Widom",,,0,0
+Change Detection in,"SS Chawathe, A Rajaraman, H Garcia-Molina, J Widom",,,0,0
+Data Engineering,"H Kawai, TE Larson, D Menestrina, Q Su, S Thavisomboon, J Widom, ...",,,0,0
+"In: Won Kim, editor, Modern Database Systems: The Object Model, Interoperability, and Beyond, Addison-Wesley, Reading, Massachusetts, Sep. 1994","U Dayal, EN Hanson, J Widom",,,0,0
+Data Engineering,"JM Hellerstein, V Paxson, L Peterson, T Roscoe, S Shenker, D Wetherall, ...","Ann Arbor 1001, 48109",,0,0
+Dallan Quass,J Widom,,,0,0
+An Algebraic Approach to Rule Analysis in Expert Database Systems,J Widom,,,0,0
+The Capability Maturity Model [4] is an orderly way for organizations to determine the capabilities of their current processes for developing software and to establish …,"S Chaudhuri, D Kossmann, J Chomicki, H Mannila, L Gravano, ...",,,0,0
+"Welcome to VLDB ‘98! This volume contains the proceedings of the Twenty-Fourth International Conference on Very Large Databases being held in New York City, August 24-27 1998 …","A Biliris, IS Mumick, O Shmueli, J Widom",,,0,0
+Programme Committee Members,"M Adiba, D Agrawal, P Apers, R Baeza-Yates, DB UK, JA Blakeley, ...",,,0,0
+¡¢ stem rotot¢ e for'are1ouse 7ieB D aintenance,"JL Wiener, H Gupta, WJ Labio, Y Zhuge, H Garcia-Molina, J Widom",,,0,0
+Bulletin of the Technical Committee on,"A Gupta, IS Mumick, N Roussopoulos, CM Chen, S Kelley, A Delis, ...",,,0,0
+VLDB Endowment Board of Trustees,"J Mylopoulos, KG Jeffery, S Su, R Agrawal, ML Brodie, MJ Carey, ...",,,0,0
+SimRank: A Measure of Structural-Context Similarity ฃ,"G Jeh, J Widom",,,0,0
+TSIMMIS System,"J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J rey Ullman, ...",,,0,0
+"Wilburt J. Labio, Yue Zhuge, Janet L. Wiener, Himanshu Gupta","H Garcia-Molina, J Widom",,,0,0
+Department and Course Number,"H Garcia-Molina, JD Ullman, J Widom",,,0,0
+"Information Translation, Mediation, and Mosaic-Based Browsing in the","J Hammer, H Garcia-Molina, K Ireland, Y Papakonstantinou, J Ullman, ...",,,0,0

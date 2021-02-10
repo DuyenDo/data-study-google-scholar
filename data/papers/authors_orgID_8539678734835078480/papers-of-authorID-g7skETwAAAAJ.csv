@@ -1,0 +1,517 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+An algorithm for vector quantizer design,"Y Linde, A Buzo, R Gray","IEEE Transactions on communications 28 (1), 84-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3237238377336291662,10215,1980
+Vector quantization and signal compression,"A Gersho, RM Gray",Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3162580002262390955,17811642307671274462",8770,2012
+Vector quantization,R Gray,"IEEE Assp Magazine 1 (2), 4-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4536117107865516798,4040,1984
+Toeplitz and circulant matrices: A review,RM Gray,"Foundations and Trends® in Communications and Information Theory 2 (3), 155-239","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5428250480750272996,16314899795353381794,2539693754641744416",2186,2006
+Quantization,"RM Gray, DL Neuhoff","IEEE transactions on information theory 44 (6), 2325-2383",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3839786264267489665,2020,1998
+Entropy and information theory,RM Gray,Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5223142163611522216,1957,2011
+Project Management: The,"RM Gray, MB Cook, MT Natera, MM Inglis, ML Dodge","Managerial Process”, McGraw-Hill",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3750678534056721807,1310,2008
+Speech coding based upon vector quantization,"A Buzo, A Gray, R Gray, J Markel","IEEE Transactions on Acoustics, Speech, and Signal Processing 28 (5), 562-574",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17472881832423349475,867,1980
+Entropy-constrained vector quantization,"PA Chou, T Lookabaugh, RM Gray","IEEE Transactions on Acoustics, Speech, and Signal Processing 37 (1), 31-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16843440383619707700,771,1989
+On the asymptotic eigenvalue distribution of Toeplitz matrices,R Gray,"IEEE Transactions on Information Theory 18 (6), 725-730",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14248496551285089864,630,1972
+An improvement of the minimum distortion encoding algorithm for vector quantization,"CD Bei, R Gray","IEEE Transactions on communications 33 (10), 1132-1133",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8736897441854106787,608,1985
+Quantization noise spectra,RM Gray,"IEEE Transactions on information theory 36 (6), 1220-1244",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12918889722696351274,568,1990
+Optimal pruning with applications to tree-structured source coding and modeling,"PA Chou, T Lookabaugh, RM Gray","IEEE transactions on information theory 35 (2), 299-315",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1667179995054743413,566,1989
+Distortion measures for speech processing,"R Gray, A Buzo, A Gray, Y Matsuyama","IEEE Transactions on Acoustics, Speech, and Signal Processing 28 (4), 367-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16644524106132510999,470,1980
+"Probability, random processes, and ergodic properties","RM Gray, RM Gray",Springer-Verlag,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=328275916644794964,467,1988
+Oversampled sigma-delta modulation,R Gray,"IEEE Transactions on Communications 35 (5), 481-489",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17675943152006264709,419,1987
+Source coding theory,RM Gray,Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13858986366757771385,415,2012
+Image classification by a two-dimensional hidden Markov model,"J Li, A Najmi, RM Gray","IEEE transactions on signal processing 48 (2), 517-533",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14413803109414355998,391,2000
+Dithered quantizers,"RM Gray, TG Stockham","IEEE Transactions on Information Theory 39 (3), 805-812",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10209783309119909177,370,1993
+"Evaluating quality of compressed medical images: SNR, subjective rating, and diagnostic accuracy","PC Cosman, RM Gray, RA Olshen","Proceedings of the IEEE 82 (6), 919-932",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4820653467930940455,359,1994
+Finite-state vector quantization for waveform coding,"J Foster, R Gray, M Dunham","IEEE Transactions on Information Theory 31 (3), 348-359",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3498333201269616346,337,1985
+Vector quantization of image subbands: A survey,"PC Cosman, RM Gray, M Vetterli","IEEE Transactions on image processing 5 (ARTICLE), 202-225",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6746158479963710463,285,1996
+An introduction to statistical signal processing,"RM Gray, LD Davisson",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10368636629594994162,283,2004
+Unsupervised multiresolution segmentation for images with low depth of field,"JZ Wang, J Li, RM Gray, G Wiederhold","IEEE Transactions on Pattern Analysis and Machine Intelligence 23 (1), 85-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1229603238795715453,257,2001
+Spectral analysis of quantization noise in a single-loop sigma-delta modulator with dc input,RM Gray,"IEEE Transactions on communications 37 (6), 588-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10824347178723809890,253,1989
+High-resolution quantization theory and the vector quantizer advantage,"TD Lookabaugh, RM Gray","IEEE Transactions on Information Theory 35 (5), 1020-1033",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4048684294981783844,244,1989
+A greedy tree growing algorithm for the design of variable rate vector quantizers (image compression),"EA Riskin, RM Gray","IEEE Transactions on Signal Processing 39 (11), 2500-2507",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1223838852952573061,233,1991
+Product code vector quantizers for waveform and voice coding,"ML Sabin, R Gray","IEEE transactions on acoustics, speech, and signal processing 32 (3), 474-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11766512844966647150,227,1984
+The design of joint source and channel trellis waveform coders,"E Ayanoglu, R Gray","IEEE Transactions on Information Theory 33 (6), 855-865",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=912532334520714227,216,1987
+Encoding of correlated observations,"T Flynn, R Gray","IEEE Transactions on Information theory 33 (6), 773-787",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13709316479772758326,210,1987
+Source coding for a simple network,"RM Gray, AD Wyner","Bell System Technical Journal 53 (9), 1681-1721",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15035187148527256890,206,1974
+Quantization for decentralized hypothesis testing under communication constraints,"M Longo, TD Lookabaugh, RM Gray","IEEE Transactions on Information Theory 36 (2), 241-255",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8341115018328346870,200,1990
+Asymptotic performance of block quantizers with difference distortion measures,"Y Yamada, S Tazaki, R Gray","IEEE Transactions on Information Theory 26 (1), 6-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6046686727632839053,187,1980
+Combining image compression and classification using vector quantization,"KL Oehler, RM Gray","IEEE transactions on pattern analysis and machine intelligence 17 (5), 461-473",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16594355572016266221,186,1995
+Multiresolution image classification by hierarchical modeling with two-dimensional hidden Markov models,"J Li, RM Gray, RA Olshen","IEEE transactions on information theory 46 (5), 1826-1841",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4517047771324963271,179,2000
+Using vector quantization for image processing,"PC Cosman, KL Oehler, EA Riskin, RM Gray","Proceedings of the IEEE 81 (9), 1326-1341","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1072744933921525064,4006999701576339006",179,1993
+Vector quantizers and predictive quantizers for Gauss-Markov sources,"R Gray, Y Linde","IEEE Transactions on Communications 30 (2), 381-389",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9478319447038738260,177,1982
+Image retrieval using color histograms generated by Gauss mixture vector quantization,"S Jeong, CS Won, RM Gray","Computer Vision and Image Understanding 94 (1-3), 44-66",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1325292764801974370,171,2004
+Asymptotically mean stationary measures,"RM Gray, JC Kieffer","The Annals of Probability, 962-973",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7683849713482665726,159,1980
+Global convergence and empirical consistency of the generalized Lloyd algorithm,"M Sabin, R Gray","IEEE Transactions on information theory 32 (2), 148-155",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12981998442138417842,155,1986
+Random processes,WC Troy,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14194749368629818973,153,2006
+A generalization of Ornstein's d distance with applications to information theory,"RM Gray, DL Neuhoff, PC Shields","The Annals of Probability, 315-328",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7914529421732930547,150,1975
+Information rates of autoregressive processes,R Gray,"IEEE Transactions on Information Theory 16 (4), 412-421",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10520226960977248770,146,1970
+Gradient algorithms for designing predictive vector quantizers,"PC Chang, R Gray","IEEE transactions on acoustics, speech, and signal processing 34 (4), 679-690",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9101832455277931702,144,1986
+Quantization noise in single-loop sigma-delta modulation with sinusoidal inputs,"RM Gray, W Chou, PW Wong","IEEE Transactions on Communications 37 (9), 956-968",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11130699210394579509,142,1989
+Multistage sigma-delta modulation,"W Chou, PW Wong, RM Gray","IEEE Transactions on Information theory 35 (4), 784-796",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13978798985892805688,141,1989
+Locally optimal block quantizer design,"RM Gray, JC Kieffer, Y Linde","Information and Control 45 (2), 178-198",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13314006613667725316,140,1980
+FIR filters with sigma-delta modulation encoding,"PW Wong, RM Gray","IEEE Transactions on Acoustics, Speech, and Signal Processing 38 (6), 979-990",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11164530960011239408,127,1990
+Dithering and its effects on sigma-delta and multistage sigma-delta modulation,"W Chou, RM Gray","IEEE Transactions on Information Theory 37 (3), 500-513",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9701338959982323077,125,1991
+Kolmogorov's contributions to information theory and algorithmic complexity,"TM Cover, P Gacs, RM Gray",IBM Thomas J. Watson Research Division,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17969061242688615232,124,1989
+An algorithm for the design of labeled-transition finite-state vector quantizers,"M Dunham, R Gray","IEEE transactions on communications 33 (1), 83-89",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12060686612819755210,123,1985
+Vector quantization of speech and speech-like waveforms,"H Abut, R Gray, G Rebolledo","IEEE transactions on acoustics, speech, and signal processing 30 (3), 423-435",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432386830978935137,121,1982
+Fixed rate universal block source coding with a fidelity criterion,"D Neuhoff, R Gray, L Davisson","IEEE Transactions on Information Theory 21 (5), 511-523",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7903016503056783406,121,1975
+The design of trellis waveform coders,"L Stewart, R Gray, Y Linde","IEEE Transactions on Communications 30 (4), 702-710",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=766028614842481574,120,1982
+Multiple local optima in vector quantizers (corresp.),"R Gray, E Karnin","IEEE transactions on Information Theory 28 (2), 256-261",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16969675944147846441,119,1982
+Minimum cross-entropy pattern classification and cluster analysis,"JE Shore, RM Gray","IEEE Transactions on Pattern Analysis and Machine Intelligence, 11-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3255078210259462373,116,1982
+Maximum a posteriori estimation of position in scintillation cameras,"RM Gray, A Macovski","IEEE Transactions on Nuclear Science 23 (1), 849-852",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9404052893954689727,111,1976
+Joint source and noisy channel trellis encoding (Corresp.),"J Dunham, RM Gray","IEEE Transactions on Information Theory 27 (4), 516-519",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1958159488857777051,109,1981
+Context-based multiscale classification of document images using wavelet coefficient distributions,"J Li, RM Gray","IEEE Transactions on Image Processing 9 (9), 1604-1616",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13003430773862085554,107,2000
+A new class of lower bounds to information rates of stationary sources via conditional rate-distortion functions,R Gray,"IEEE Transactions on Information Theory 19 (4), 480-489",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17013366802230434038,107,1973
+Image compression using non-adaptive spatial vector quantization,"RL Baker, RM Gray","Conf. Rec. 16th Asilomar Conf. Circuits Systems and Computers, 55-61",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11717918474298599475,104,1982
+Source coding of the discrete Fourier transform,"W Pearlman, R Gray","IEEE Transactions on information theory 24 (6), 683-692",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10662252696819792891,103,1978
+Rate-distortion speech coding with a minimum discrimination information distortion measure,"R Gray, A Gray, G Rebolledo, J Shore","IEEE Transactions on Information Theory 27 (6), 708-721",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5656684456239536938,102,1981
+Subband-coded image reconstruction for lossy packet networks,"SS Hemami, RM Gray","IEEE Transactions on Image Processing 6 (4), 523-539",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=443484272996900320,101,1997
+Variable rate vector quantization for medical image compression,"EA Riskin, T Lookabaugh, PA Chou, RM Gray","IEEE Transactions on Medical Imaging 9 (3), 290-298",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484247016151778021,101,1990
+Fourier transforms: an introduction for engineers,"RM Gray, JW Goodman",Springer Science & Business Media,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14627026285083075069,5348272585997069463",98,2012
+A unified approach for encoding clean and noisy sources by means of waveform and autoregressive model vector quantization,"Y Ephraim, RM Gray","IEEE Transactions on Information Theory 34 (4), 826-834",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8705206427603905349,98,1988
+Bayes risk weighted vector quantization with posterior estimation for image compression and classification,"KO Perlmutter, SM Perlmutter, RM Gray, RA Olshen, KL Oehler","IEEE Transactions on Image Processing 5 (2), 347-360",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10429834636344904578,97,1996
+Matrix quantizer design for LPC speech using the generalized Llyod algorithm,"C Tsao, R Gray","IEEE transactions on acoustics, speech, and signal processing 33 (3), 537-545",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2619083497009342550,97,1985
+Asymptotic performance of vector quantizers with a perceptual distortion measure,"J Li, N Chaddha, RM Gray","IEEE Transactions on Information Theory 45 (4), 1082-1091",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6164044273025696230,95,1999
+Source coding theorems without the ergodic assumption,"R Gray, L Davisson","IEEE Transactions on Information Theory 20 (4), 502-516",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=383506646433562671,95,1974
+Thoracic CT images: effect of lossy image compression on diagnostic accuracy.,"PC Cosman, HC Davidson, CJ Bergin, CW Tseng, LE Moses, EA Riskin, ...","Radiology 190 (2), 517-524",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15271323625808262027,93,1994
+Sequential product code quantization of digital color image,"JP Allebach, CA Bouman, T Balasubramanian","US Patent 5,544,284",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=553305966513659220,89,1996
+Sliding-block source coding,R Gray,"IEEE Transactions on Information Theory 21 (4), 357-368",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=526839187900061628,89,1975
+"Vector quantization and signal compression, vol. 159","A Gersho, RM Gray",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14374275236701624239,85,2012
+Process definitions of distortion-rate functions and source coding theorems,"R Gray, D Neuhoff, J Omura","IEEE Transactions on Information Theory 21 (5), 524-532",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2039490650132142295,82,1975
+Tree-structured vector quantization of CT chest scans: image quality and diagnostic accuracy,"PC Cosman, C Tseng, RM Gray, RA Olshen, LE Moses, HC Davidson, ...","IEEE Transactions on Medical Imaging 12 (4), 727-739",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16991505336696913897,81,1993
+Differential vector quantization of achromatic imagery,"RL Baker, RM Gray","Proceedings of the International Picture Coding Symposium, 105-106",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11536762356124757691,81,1983
+Image quality in lossy compressed digital mammograms,"SM Perlmutter, PC Cosman, RM Gray, RA Olshen, D Ikeda, CN Adams, ...","Signal processing 59 (2), 189-210",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1063539428360348021,80,1997
+Time-invariant trellis encoding of ergodic discrete-time sources with a fidelity criterion,R Gray,"IEEE Transactions on Information Theory 23 (1), 71-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8471335467547630016,76,1977
+"Variable rate vector quantization for speech, image, and video compression","T Lookabaugh, EA Riskin, PA Chou, RM Gray","IEEE transactions on communications 41 (1), 186-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12110665588732602907,75,1993
+A vector quantization approach to universal noiseless coding and quantization,"PA Chou, M Effros, RM Gray","IEEE Transactions on Information Theory 42 (4), 1109-1138",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=253961762020414690,73,1996
+Lloyd clustering of Gauss mixture models for image compression and classification,"A Aiyer, KP Pyun, Y Huang, DB O’Brien, RM Gray","Signal Processing: Image Communication 20 (5), 459-485",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15432582065895100159,70,2005
+Stochastic image processing,"CS Won, RM Gray",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5457714256617066003,67,2013
+Robustness of estimators on stationary observations,"P Papantoni-Kazakos, RM Gray","The Annals of Probability 7 (6), 989-1002",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12747192368938282615,67,1979
+Toeplitz and circulant matrices,RM Gray,"Information Systems Laboratory, Stanford Electronics Laboratories, Stanford …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4813143318757362595,67,1977
+Mismatch in high-rate entropy-constrained vector quantization,"RM Gray, T Linder","IEEE Transactions on Information Theory 49 (5), 1204-1217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18443217584884413409,66,2003
+Two-stage sigma-delta modulation,"PW Wong, RM Gray","IEEE transactions on acoustics, speech, and signal processing 38 (11), 1937-1952",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3449075308696091485,65,1990
+Automatic object segmentation in images with low depth of field,"CS Won, K Pyun, RM Gray","Proceedings. International Conference on Image Processing 3, 805-808",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8530190239218811866,64,2002
+Text and picture segmentation by the distribution analysis of wavelet coefficients,"J Li, RM Gray",Proceedings 1998 International Conference on Image Processing. ICIP98 (Cat …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15733769404119382007,63,1998
+The ergodic decomposition of stationary discrete random processes,"R Gray, L Davisson","IEEE Transactions on Information Theory 20 (5), 625-636",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10732986061322568243,63,1974
+Conditional rate-distortion theory,RM Gray,STANFORD UNIV CA STANFORD ELECTRONICS LABS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12066309761062513280,61,1972
+Nonblock source coding with a fidelity criterion,"RM Gray, DL Neuhoff, DS Ornstein","The Annals of Probability, 478-491",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11237771653318771421,60,1975
+Image segmentation and compression using hidden Markov models,"J Li, RM Gray",Springer Science & Business Media,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16041420639679990354,59,2012
+Image segmentation using hidden Markov Gauss mixture models,"K Pyun, J Lim, CS Won, RM Gray","IEEE Transactions on Image Processing 16 (7), 1902-1911",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2588836670829312860,58,2007
+Data compression,"LD Davisson, RM Gray","Dowden, Hutchinson and Ross",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17637468032521248458,58,1976
+Rate distortion functions for finite-state finite-alphabet Markov sources,R Gray,"IEEE Transactions on Information Theory 17 (2), 127-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12508277755154860400,57,1971
+Nonparametric supervised learning by linear interpolation with maximum entropy,"MR Gupta, RM Gray, RA Olshen","IEEE Transactions on Pattern Analysis and Machine Intelligence 28 (5), 766-781",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2487633489558388312,55,2006
+Hierarchical vector quantizers with table-lookup encoders,"PC Chang, RM Gray","1985 IEEE International Conference on Communications (ICC, 1453-1456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1366172265023868939,55,1985
+Gauss mixture vector quantization,RM Gray,"2001 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4535380402470489655,53,2001
+Comparison of optimal quantizations of speech reflection coefficients,"A Gray, R Gray, J Markel","IEEE Transactions on Acoustics, Speech, and Signal Processing 25 (1), 9-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11572027849657015274,53,1977
+Variable dimension weighted universal vector quantization and noiseless coding,"M Effros, PA Chou, RM Gray","Proceedings of IEEE Data Compression Conference (DCC'94), 2-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16348787599149827094,52,1994
+Block coding for discrete stationary,"R Gray, D Ornstein","IEEE Transactions on Information theory 25 (3), 292-306",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13418184037615100273,51,1979
+A Lagrangian formulation of Zador's entropy-constrained quantization theorem,"RA Gray, T Linder, J Li","IEEE Transactions on Information Theory 48 (3), 695-707",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2831290128151066071,50,2002
+Entropy and information,RM Gray,"Entropy and information theory, 21-55",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15798391478504164003,47,1990
+Coding of multi-view images for immersive viewing,"X Tong, RM Gray","2000 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7025254099334170349,45,2000
+The design of predictive trellis waveform coders using the generalized Lloyd algorithm,"E Ayanoglu, R Gray","IEEE transactions on communications 34 (11), 1073-1080",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=649762558058038623,44,1986
+Sigma-delta modulation with iid Gaussian inputs,"PW Wong, RM Gray","IEEE Transactions on Information Theory 36 (4), 784-798",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13793985965144976537,42,1990
+Asymptotically optimal quantizers (Corresp.),"R Gray, A Gray","IEEE Transactions on Information Theory 23 (1), 143-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13102737281714695272,42,1977
+Full search and tree searched vector quantization of speech waveforms,"R Gray, H Abut","ICASSP'82. IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18439405786152407214,41,1982
+Toeplitz and circulant matrices: II,RM Gray,"Information Systems Laboratory, Stanford Electronics Laboratories, Stanford …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16579978969148495831,41,1977
+Sliding-block joint source/noisy-channel coding theorems,"R Gray, D Ornstein","IEEE Transactions on Information Theory 22 (6), 682-690",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2751603374513718481,40,1976
+Quantization in task-driven sensing and distributed processing,RM Gray,2006 IEEE International Conference on Acoustics Speech and Signal Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15622161595232538530,39,2006
+Vector quantization and density estimation,"RM Gray, RA Olshen",Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=656501776857731768,39,1997
+Fourier transform vector quantization for speech coding,"PC Chang, R Gray, J May","IEEE transactions on communications 35 (10), 1059-1068",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13397991168346582188,39,1987
+Product code vector quantizers for speech waveform coding,"MJ Sabin, RM Gray","Globecom'82-Global Telecommunications Conference, 1087-1091",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1260558340958090041,37,1982
+Combining image classification and image compression using vector quantization,"KL Oehler, RM Gray","[Proceedings] DCC93: Data Compression Conference, 2-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18103293821384832346,35,1993
+Sigma-delta modulation with leaky integration and constant input,"SJ Park, RM Gray","IEEE transactions on information theory 38 (5), 1512-1533",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2767051696773627970,35,1992
+A fake process approach to data compression,"Y Linde, R Gray","IEEE Transactions on Communications 26 (6), 840-847",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8569127528392775826,35,1978
+Interactive rendering from compressed light fields,"X Tong, RM Gray","IEEE Transactions on Circuits and Systems for Video Technology 13 (11), 1080 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10054264681614990042,34,2003
+"Block synchronization, sliding-block coding, invulnerable sources and zero error codes for discrete noisy channels","RM Gray, DS Ornstein, RL Dobrushin","The Annals of Probability, 639-674",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3378187885670578876,34,1980
+Constrained and recursive hierarchical table-lookup vector quantization,"N Chaddha, PA Chou, RM Gray","Proceedings of Data Compression Conference-DCC'96, 220-229",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8408024256447951112,33,1996
+"Mutual information rate, distortion, and quantization in metric spaces","R Gray, J Kieffer","IEEE Transactions on Information Theory 26 (4), 412-422",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13518806473431315564,33,1980
+Mean-gain-shape vector quantization,"KL Oehler, RM Gray","1993 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9321939118327120826,32,1993
+Asymptotically mean stationary channels,"R Fontana, R Gray, J Kieffer","IEEE Transactions on Information Theory 27 (3), 308-316",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=321540950238689516,32,1981
+Pruned tree-structured vector quantization in image coding,"EA Riskin, EM Daly, RM Gray","International Conference on Acoustics, Speech, and Signal Processing,, 1735-1738",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223449140133580140,31,1989
+"Vector Quantization and Signal Compression, 1992","A Gersho, RM Gray","Springer. Figura 5, 12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9989177564133063020,29,1996
+Real-world image annotation and retrieval: An introduction to the special section,"JZ Wang, D Geman, J Luo, RM Gray","IEEE Transactions on Pattern Analysis and Machine Intelligence 30 (11), 1873 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10582412952846281725,28,2008
+Minimum discrimination information clustering: modeling and quantization with Gauss mixtures,"RM Gray, JC Young, AK Aiyer",Proceedings 2001 International Conference on Image Processing (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12761161771913117882,28,2001
+Hardware realization of waveform vector quantizers,"B Tao, H Abut, R Gray","IEEE Journal on selected areas in Communications 2 (2), 343-352",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14126744360766325712,26,1984
+Quantizer mismatch,"R Gray, L Davisson","IEEE Transactions on Communications 23 (4), 439-443",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4405987285663671409,26,1975
+Medical image compression and vector quantization,"SM Perlmutter, PC Cosman, CW Tseng, RA Olshen, RM Gray, KCP Li, ...","Statistical Science, 30-53",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6963212203908946894,25,1998
+Text segmentation in mixed-mode images using classification trees and transform tree-structured vector quantization,"KO Perlmutter, N Chaddha, JB Buckheit, RM Gray, RA Olshen","1996 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9563404590590292168,25,1996
+Ergodic and information theory,"RM Gray, LD Davisson",Imprint unknown,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9962344644323500711,25,1977
+Cost-sensitive multi-class classification from probability estimates,"DB O'brien, MR Gupta, RM Gray","Proceedings of the 25th international conference on Machine learning, 712-719",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6517829743458666721,24,2008
+Joint image compression and classification with vector quantization and a two dimensional hidden Markov model,"J Li, RM Gray, R Olshen","Proceedings DCC'99 Data Compression Conference (Cat. No. PR00096), 23-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3121714886713761202,24,1999
+Multimode coding: application to CELP,"T Taniguchi, S Unagami, RM Gray","International Conference on Acoustics, Speech, and Signal Processing,, 156-159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9555839881718445032,24,1989
+Topics in the two-dimensional sampling and reconstruction of images,"R Schowengerdt, SK Park, R Gray","Remote Sensing 5 (2), 333-347",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5993647242606849339,24,1984
+Entropy-based distortion measure and bit allocation for wavelet image compression,"T André, M Antonini, M Barlaud, RM Gray","IEEE Transactions on Image Processing 16 (12), 3058-3064",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13999090986000301,23,2007
+Minimum distortion color image retrieval based on Lloyd-clustered Gauss mixtures,"S Jeong, RM Gray","Data Compression Conference, 279-288",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13344518740903634798,23,2005
+Weighted universal image compression,"M Effros, PA Chou, RM Gray","IEEE transactions on image processing 8 (10), 1317-1329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4451919257987987423,23,1999
+Multiresolution object-of-interest detection for images with low depth of field,"J Li, JZ Wang, RM Gray, G Wiederhold",Proceedings 10th International Conference on Image Analysis and Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6523925258199254538,23,1999
+Histogram-based image retrieval using Gauss mixture vector quantization,"S Jeong, CS Won, RM Gray",2003 International Conference on Multimedia and Expo. ICME'03. Proceedings …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17361384059598354954,22,2003
+Evaluating quality and utility of digital mammograms and lossy compressed digital mammograms,"CN Adams, A Aiyer, BJ Betts, J Li, PC Cosman, SM Perlmutter, ...",Proceedings of the Third International Workshop on Digital Mammography …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12894577736758819131,22,1996
+Training sequence size and vector quantizer performance,"PC Cosman, KO Perlmutter, SM Perlmutter, RA Olshen, RM Gray",[1991] Conference Record of the Twenty-Fifth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8999810381381163298,22,1991
+Classification using vector quantization,"KL Oehler, PC Cosman, RM Gray, J May",[1991] Conference Record of the Twenty-Fifth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7024163825288718054,22,1991
+The 1974 origins of VoIP,RM Gray,"IEEE Signal Processing Magazine 22 (4), 87-90",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11041454984980621533,21,2005
+Texture classification based on multiple Gauss mixture vector quantizers,"K Pyun, CS Won, J Lim, RM Gray","Proceedings. IEEE International Conference on Multimedia and Expo 2, 501-504",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7027147916824110613,21,2002
+Speech recognition method using quantised LSP parameters in CELP-type coders,"S HoChoi, H KookKim, H SooLee, RM Gray","Electronics Letters 34 (2), 156-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4098373317683414072,21,1998
+Bayes risk weighted tree-structured vector quantization with posterior estimation,"KO Perlmutter, RM Gray, KL Oehler, RA Olshen","Proceedings of IEEE Data Compression Conference (DCC'94), 274-283",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9204436763131575725,21,1994
+Combined halftoning and entropy-constrained vector quantization,"RA Vander Kam, RM Gray, PA Chou","SID INTERNATIONAL SYMPOSIUM DIGEST OF TECHNICAL PAPERS 24, 223-223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8294676991684118262,21,1993
+Combining vector quantization and histogram equalization,"PC Cosman, RM Gray, EA Riskin","[1991] Proceedings. Data Compression Conference, 113-118","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13980586961025565333,10501504243117586785",21,1991
+Universal tree encoding for speech,"Y Matsuyama, R Gray","IEEE Transactions on Information Theory 27 (1), 31-40",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3414365475602687147,21,1981
+Evaluating quality and utility in digital mammography,"RM Gray, RA Olshen, D Ikeda, PC Cosman, S Perlmutter, C Nash, ...","Proceedings., International Conference on Image Processing 2, 5-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=440151975172153834,20,1995
+Image compression and tree-structured vector quantization,"RM Gray, PC Cosman, EA Riskin","Image and Text Compression, 3-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6378812772520450859,20,1992
+Asymptotic minimum discrimination information measure for asymptotically weakly stationary processes,"Y Ephraim, H Lev-Ari, RM Gray","IEEE Transactions on Information Theory 34 (5), 1033-1040",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4844414095339144637,20,1988
+Improvement of the minimum distortion encoding algorithm for vector quantization.,"CD Bel, RM Gray","IEEE Transactions on Communications 33 (10), 1132-1133",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5664236671537210129,20,1985
+Source coding and speech compression,"RM Gray, A Buzo, Y Matsuyoma, AH Gray Jr, JD Markel",International Foundation for Telemetering,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13507959439367622407,20,1978
+A note on rate-distortion functions for nonstationary Gaussian autoregressive processes,"RM Gray, T Hashimoto","IEEE Transactions on Information Theory 54 (3), 1319-1322",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17444309212462288120,19,2008
+Context based multiscale classification of images,"J Li, RM Gray",Proceedings 1998 International Conference on Image Processing. ICIP98 (Cat …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9642621810898279623,19,1998
+Ergodicity of Markov channels,"R Gray, M Dunham, R Gobbi","IEEE transactions on information theory 33 (5), 656-664",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4660621450575696094,19,1987
+A multirate voice digitizer based upon vector quantization,"G Rebolledo, R Gray, J Burg","IEEE Transactions on Communications 30 (4), 721-727",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11530031368984747935,19,1982
+Frequency-counted measurements and phase locking to noisy oscillators,"R Gray, R Tausworthe","IEEE Transactions on Communication Technology 19 (1), 21-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7020455079829460971,19,1971
+Scalar quantization I: Structure and performance,"A Gersho, RM Gray","Vector quantization and signal compression, 133-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10724455707723189202,18,1992
+Lookahead in growing tree-structured vector quantizers,"EA Riskin, RM Gray","[Proceedings] ICASSP 91: 1991 International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3928301920048203400,18,1991
+Simulation of vector trellis encoding systems,R Gray,"IEEE transactions on communications 34 (3), 214-218",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10700456922608338807,18,1986
+Information rates of stationary ergodic finite-alphabet sources,R Gray,"IEEE Transactions on Information Theory 17 (5), 516-523",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17270292088100248792,18,1971
+JPEG-compliant perceptual coding for a grayscale image printing pipeline,"RA Vander Kam, PW Wong, RM Gray","IEEE transactions on image processing 8 (1), 1-14",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13729904754688977994,17,1999
+Variable-rate source coding theorems for stationary nonergodic sources,"M Effros, PA Chou, RM Gray","IEEE Transactions on information Theory 40 (6), 1920-1925",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2186127008132132620,17,1994
+Incorporating visual factors into vector quantizers for image compression,"RM Gray, PC Cosman, KL Oehler","Digital images and human vision, 35-52",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=94656893282115292,17,1993
+Block source coding theory for asymptotically mean stationary sources,"R Gray, F Saadat","IEEE Transactions on Information Theory 30 (1), 54-68",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=64540358142873184,17,1984
+A two-step speech compression system with vector quantizing,"A Buzo, A Gray, R Gray, J Markel","ICASSP'79. IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16097189603081175586,17,1979
+On unbounded Toeplitz matrices and nonstationary time series with an application to information theory,RM Gray,"Information and Control 24 (2), 181-196",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14720140938794266921,17,1974
+A mathematical theory of data compression?,"RM Gray, LD Davisson","Electronic Sciences Laboratory, University of Southern California",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6313841956726125301,17,1974
+Quantization noise in A/D converters,RM Gray,"Delta-Sigma Data Converter: Theory, Design and Simulation","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9774295005686473099,14548365721018863911",16,1997
+Measurement accuracy as a measure of image quality in compressed MR chest scans,"SM Perlmutter, CW Tseng, PC Cosman, KCP Li, RA Olshen, RM Gray","Proceedings of 1st International Conference on Image Processing 1, 861-865",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8088730986216933590,16,1994
+A comparison of Bayes risk weighted vector quantization with posterior estimation with other VQ-based classifiers,"KO Perlmutter, CL Nash, RM Gray","Proceedings of 1st International Conference on Image Processing 2, 217-221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2163558034967917183,16,1994
+Image reconstruction using vector quantized linear interpolation,"SS Hemami, RM Gray","Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15266684548693184048,16,1994
+Combining tree-structured vector quantization with classification and regression trees,"RM Gray, KL Oehler, KO Perlmutter, RA Ohlsen","Proceedings of 27th Asilomar Conference on Signals, Systems and Computers …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8667084541891147192,16,1993
+Modulo sigma-delta modulation,"W Chou, RM Gray","IEEE transactions on communications 40 (8), 1388-1395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1904970285079009382,16,1992
+Quality evaluation for compressed medical images: Fundamentals,"P Cosman, R Gray, R Olshen","Handbook of Medical Imaging, Processing and Analysis, I. Bankman, Ed. New …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18042765355708598061,15,2000
+Speech coding with dynamic bit allocation (multimode coding),"T Taniguchi, Y Tanaka, RM Gray","Advances in speech coding, 157-166",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10928788642585267752,15,1991
+Rate-distortion theory for ergodic sources with side information (Corresp.),"B Leiner, R Gray","IEEE Transactions on Information Theory 20 (5), 672-675",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17681873706525011058,15,1974
+Linear Predictive Coding and the Internet Protocol,RM Gray,Now Publishers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13526467002685305532,14,2010
+"Quantization, classification, and density estimation for Kohonen's Gaussian mixture","RM Gray, KO Perlmutter, RA Olshen","Proceedings DCC'98 Data Compression Conference (Cat. No. 98TB100225), 63-72",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16683481328211113614,14,1998
+Joint image classification and compression using hierarchical table-lookup vector quantization,"N Chaddha, K Perlmutter, RM Gray","Proceedings of Data Compression Conference-DCC'96, 23-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6131263850302349570,13,1996
+A progressive universal noiseless coder,"M Effros, PA Chou, EA Riskin, RM Gray","IEEE transactions on information theory 40 (1), 108-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11294053098419021974,13,1994
+An algorithm for joint vector quantizer and halftoner design,"RA Vander Kam, PA Chou, EA Riskin, RM Gray",[Proceedings] ICASSP-92: 1992 IEEE International Conference on Acoustics …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11554289124385794803,13,1992
+The effect of lossy compression on diagnostic accuracy of thoracic CT images,"HC Davidson, CJ Bergin, C Tseng, PC Cosman, LE Moses, RA Olshen, ...",77th Scientific Assembly of the Radiological Society of North America …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18082505503365402515,13,1991
+A survey of linear predictive coding: Part I of linear predictive coding and the Internet protocol,RM Gray,"Foundations and Trends® in Signal Processing 3 (3), 153-202","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7406802213553051618,12261837742386552747",12,2010
+Lagrangian vector quantization with combined entropy and codebook size constraints,"RM Gray, T Linder, JT Gill","IEEE Transactions on Information Theory 54 (5), 2220-2242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14127006366546682170,12,2008
+Wavelet video coding with dependent optimization,"KK Lin, RM Gray","IEEE transactions on circuits and systems for video technology 14 (4), 542-553",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16557697130897130655,12,2004
+Analysis and classification of internal pipeline images,"D O'Brien, M Gupta, RM Gray, JK Hagene",Proceedings 2003 International Conference on Image Processing (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7623817424878897632,12,2003
+"Toeplitz and circulant matrices: A review, 2002",RM Gray,URL http://ee. stanford. edu/~ gray/toeplitz. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9854517700613647398,12,2000
+One-pass adaptive universal vector quantization,"M Effros, PA Chou, RM Gray","Proceedings of ICASSP'94. IEEE International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4664477956345596698,12,1994
+Multimode coding: A novel approach to narrow‐and medium‐band coding,"T Taniguchi, S Unagami, RM Gray","The Journal of the Acoustical Society of America 84 (S1), S12-S12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14721805587924451162,12,1988
+Bayes risk weighted vector quantization with CART estimated class posteriors,"KO Perlmutter, RM Gray, RA Olshen, SM Perlmutter","1995 International Conference on Acoustics, Speech, and Signal Processing 4 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4145088832719165896,11,1995
+Bayes risk weighted VQ and learning VQ,"RD Wesel, RM Gray","Proceedings of IEEE Data Compression Conference (DCC'94), 400-409",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9317806014364238029,11,1994
+Spectral Distortion Measures for Speech Compression.,"Y Matsuyama, A Buzo, RM Gray",STANFORD UNIV CALIF STANFORD ELECTRONICS LABS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380813019591992914,11,1978
+A robust hidden markov gauss mixture vector quantizer for a noisy source,"K Pyun, J Lim, RM Gray","IEEE Transactions on Image Processing 18 (7), 1385-1394",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8103613335236121480,10,2009
+A comparison of EM and GMVQ in estimating Gauss mixtures: application to probabilistic image retrieval,"S Jeong, RM Gray","Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9704495615722821398,10,2005
+Evaluation of bayes risk weighted vector quantization with posterior estimation in the detection of lesions in digitized mammograms,"CL Nash, KO Perlmutter, RM Gray","Proceedings of 1994 28th Asilomar Conference on Signals, Systems and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13402366676379709638,10,1994
+Low rate distributed quantization of noisy observations,"RM Gray, S Boyd, T Lookabaugh","Proc. Allerton Conf. Communication, Control and Computing, 354-358",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6206012135615019394,10,1985
+Optimal quantizations of coefficient vectors in LPC speech,"A Buzo, RM Gray, AH Gray Jr, JD Markel","The Journal of the Acoustical Society of America 64 (S1), S159-S159",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9365810802696040789,10,1978
+"Source coding theorems for stationary, continuous-time stochastic processes","MB Pursley, RM Gray","The Annals of Probability 5 (6), 966-986",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=565580603224251175,10,1977
+Optimal one-bit quantization,"A Magnani, A Ghosh, RM Gray","Data Compression Conference, 270-278",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4003942338884996381,9,2005
+A Lagrangian formulation of fixed-rate quantization,RM Gray,"Data Compression Conference, 261-269",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16892010416343380178,9,2005
+Robust image classification based on a non-causal hidden Markov Gauss mixture model,"K Pyun, CS Won, J Lim, RM Gray","Proceedings. International Conference on Image Processing 3, 785-788",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1109669029688950566,9,2002
+Video residual coding using SPIHT and dependent optimization,"KK Lin, RM Gray","Proceedings DCC 2001. Data Compression Conference, 113-122",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7904779807018453323,9,2001
+Richard A,"J Li, RM Gray",Olshen. Multiresolution image classification by hierarchical modeling with …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11367264223718741798,9,2000
+Image classification based on a multiresolution two dimensional hidden Markov model,"J Li, RM Gray",Proceedings 1999 International Conference on Image Processing (Cat …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15822567507791458891,9,1999
+ベクトル量子化と情報圧縮,貞， 古井,コロナ社,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=91538154433943164,9,1998
+Multiresolution tree structured vector quantization,"J Li, N Chaddha, RM Gray","Conference Record of The Thirtieth Asilomar Conference on Signals, Systems …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12432424298030983614,9,1996
+Tree-structured vector quantization with input-weighted distortion measures,"PC Cosman, K Oehler, AA Heaton, RM Gray",Visual Communications and Image Processing'91: Visual Communication 1605 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15718656395361824132,9,1991
+Spellmode recognition based on vector quantization,"S Huang, RM Gray","Speech Communication 7 (1), 41-53",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13099828689221541857,9,1988
+Adaptive vector quantization,A Gersho,"Annales des télécommunications 41 (9-10), 470-480","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5673156716276013503,11768485175133404681",9,1986
+Image compression with a vector speck algorithm,"C Chao, RM Gray",2006 IEEE International Conference on Acoustics Speech and Signal Processing …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12573365712597013852,8,2006
+Image classification using GMM with context information and with a solution of singular covariance problem,"S Yoon, CS Won, K Pyun, RM Gray","Data Compression Conference, 2003. Proceedings. DCC 2003, 457",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5347609942077882361,8,2003
+Gauss mixture quantization: clustering Gauss mixtures,RM Gray,"Nonlinear Estimation and Classification, 189-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14692902446518269904,8,2003
+Analysis of a sigma delta modulator with a multi-level quantizer and single-bit feedback,"SJ Park, RM Gray, W Chou","[Proceedings] ICASSP 91: 1991 International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1643158731946896734,8,1991
+Variable rate vector quantization for medical image compression with applications to progressive transmission,"EA Riskin, T Lookabaugh, PA Chou, RM Gray","Medical Imaging III: Image Capture and Display 1091, 110-120",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5702534414041932910,8,1989
+Voice coding and tree encoding speech compression systems based upon inverse filter matching,"Y Matsuyama, R Gray","IEEE Transactions on Communications 30 (4), 711-720",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5204451043500311410,8,1982
+Advances in data compression,"LD Davisson, RM Gray","Advances in Communication Systems 4, 199-228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6016077772909052161,8,1975
+Entropy-based distortion measure for image coding,"T Andre, M Antonini, M Barlaud, RM Gray","2006 International Conference on Image Processing, 1157-1160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6221528640065591044,7,2006
+Improving classification performance by exploring the role of cost matrices in partitioning the estimated class probability space,"DB O’brien, RM Gray","Proceedings of the ICML Workshop on ROC Analysis in Machine Learning, 79-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7144825736404780028,7,2005
+Fundamentals of vector quantization,RM Gray,Information Systems Laboratory Department of Electrical Engineering [M],https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11448351513663546699,7,2003
+Hidden markov multiresolution texture segmentation using complex wavelets,"JH Won, K Pyun, RM Gray","10th International Conference on Telecommunications, 2003. ICT 2003. 2, 1624 …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15748230969215529157,7,2003
+Interactive view synthesis from compressed light fields,"X Tong, RM Gray",Proceedings 2001 International Conference on Image Processing (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18307354783923131109,7,2001
+Color conversions using maximum entropy estimation,"MR Gupta, RM Gray",Proceedings 2001 International Conference on Image Processing (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=903273609850588020,7,2001
+On Zador's entropy-constrained quantization theorem,"RM Gray, J Li","Proceedings DCC 2001. Data Compression Conference, 3-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11926829402438204112,7,2001
+Compression of light fields using disparity compensation and vector quantization,"X Tong, RM Gray",In Proc. IASTED Conf. Computer Graphics and Imaging,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13455336253825174706,7,1999
+Subband filters optimized for lost coefficient reconstruction,"SS Hemami, RM Gray","IEEE transactions on signal processing 45 (3), 763-767",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=516468097238941644,7,1997
+Finite state hierarchical table-lookup vector quantization for images,"N Chaddha, S Mehrotra, RM Gray","1996 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1224484183240340727,7,1996
+Vector quantization: Clustering and classification trees,"PC Cosman, RM Gray, RA Olshen","Journal of Applied Statistics 21 (1-2), 93-108",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16377094082071918211,7,1994
+Evaluating compressed medical images,"RA Olshen, PC Cosman, C Tseng, C Davidson, L Moses, RM Gray, ...",Stanford University. Division of Biostatistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4447634979972796716,7,1991
+Unbalanced tree-growing algorithms for practical image compression,"KL Oehler, EA Riskin, RM Gray","[Proceedings] ICASSP 91: 1991 International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731664928400466153,7,1991
+Information Sources,RM Gray,"Source Coding Theory, 1-25",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9141875167001503994,7,1990
+An endpoint detector for LPC speech using residual error look-ahead for vector quantization applications,"C Tsao, R Gray","ICASSP'84. IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15808082776596407472,7,1984
+Rate-constrained simulation and source coding iid sources,"MZ Mao, RM Gray, T Linder","IEEE Transactions on Information Theory 57 (7), 4516-4529",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5486840698196800721,6,2011
+Results and conjectures on high rate quantization,"RM Gray, T Linder","Data Compression Conference, 2004. Proceedings. DCC 2004, 3-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13935702195721722894,6,2004
+Rate-distortion optimization for the SPIHT encoder,"KK Lin, RM Gray","Proceedings DCC 2001. Data Compression Conference, 123-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=213378837297731156,6,2001
+Toeplitz and circulant matrices: A review. Information Theory Laboratory,RM Gray,"Stanford Univ., Stanford, CA.[Online]. Available: http://www-isl. stanford …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12581152429428703585,6,2000
+"A fast, table-lookup algorithm for classifying document images","A Aiyer, RM Gray",Proceedings 1999 International Conference on Image Processing (Cat …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13004539428389745013,6,1999
+A low complexity multiresolution approach to image compression using pruned nested tree-structured vector quantization,"SM Perlmutter, RM Gray","Proceedings of 1st International Conference on Image Processing 1, 588-592",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17560913779883860720,6,1994
+Rates of convergence in adaptive universal vector quantization,"M Effros, PA Chou, RM Gray","Proceedings of 1994 IEEE International Symposium on Information Theory, 456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15731730635819319346,6,1994
+Linear Prediction,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 83-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17686409285007706077,6,1992
+Special issue on quantization,RM Gray,"IEEE Transactions on Information Theory 28 (2), 127-128",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10375989515205049616,6,1982
+The maximum mutual information between two random processes,"RM Gray, PC Shields","Information and Control 33 (4), 273-280",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11316846562878082653,6,1977
+A coding theorem for the discrete memoryless broadcast channel,"DL Neuhoff, RM Gray, LD Davisson","Trans. Inform. Theoty 21, 511-528",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1152416950584459067,6,1975
+INFORMATION RATES OF AUTOEGRESSIVE SOURCES.,RM Gray,UNIVERSITY OF SOUTHERN CALIFORNIA LOS ANGELES DEPT OF ELECTRICAL ENGINEERING,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1615326476319135415,6,1969
+Source coding and simulation,RM Gray,"IEEE Information Theory Society Newsletter 58 (4), 1",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12262616142385651025,5,2008
+Gauss mixture model-based classification for sensor networks,"K Ozonat, RM Gray","Data Compression Conference (DCC'06), 322-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15347385067829685874,5,2006
+Foundations and Trends® in Communications and Information Theory,RM Gray,"Foundations and Trends® in Communications and Information Theory 2 (3), 155-239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15164268217548959638,5,2006
+Feature selection based on maximizing separability in gauss mixture model and its application to image classification,"S Yoon, RM Gray","IEEE International Conference on Image Processing 2005 2, II-1198",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1104751620883454865,5,2005
+Mentoring for academic careers in engineering,"E Riskin, M Ostendorf, P Cosman, M Effros, J Li, S Hamami, RM Gray",Mentoring for Academic Careers in Engineering Conference 4,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10725057419742291572,5,2004
+Image classification using adaptive-boosting and tree-structured discriminant vector quantization,"KM Ozonat, RM Gray","Data Compression Conference, 2004. Proceedings. DCC 2004, 556",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17794354217047787793,5,2004
+Reducing bias in supervised learning,"MR Gupta, RM Gray","IEEE Workshop on Statistical Signal Processing, 2003, 482-485",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13532081660275849775,5,2003
+A Lagrangian formulation of high rate quantization,"J Shih, AK Aiyer, RM Gray","2001 IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13123037177471094592,5,2001
+Image and video coding,"B Girod, RM Gray, J Kovacevic, M Vetterli","part of “The past, present, and future of image and multidimensional signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9445169807622336651,5,1998
+Management and lesion detection effects of lossy image compression on digitized mammograms,"BJ Betts, A Aiyer, J Li, D Ikeda, R Birdwell, RM Gray, RA Olshen","Digital Mammography, 449-456",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14974365927400906135,5,1998
+Measuring quality in computer-processed radiological images,"RM Gray, RA Olshen, D Ikeda",Conference Record of The Twenty-Ninth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13511406349564516712,5,1996
+Lossy compression of clustered-dot halftones using sub-cell prediction,"RA Vander Kam, RM Gray","Proceedings DCC'95 Data Compression Conference, 112-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6578318740207791961,5,1995
+JPEG compression for a grayscale printing pipeline,"RA Vander Kam, PW Wong, RM Gray","Still-Image Compression 2418, 229-240",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9669597157952179396,5,1995
+Lossy compression of clustered-dot halftones,"RA Vander Kam, RM Gray","Proceedings of 1st International Conference on Image Processing 3, 836-840",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6216392917958260956,5,1994
+A mean-removed variation of weighted universal vector quantization for image coding,"BD Andrews, M Effros, PA Chou, RM Gray","[Proceedings] DCC93: Data Compression Conference, 302-309",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=550150489940245327,5,1993
+Tree-structured vector quantization with region-based classification,"SM Perlmutter, KO Perlmutter, PC Cosman, EA Riskin, RA Olshen, ...",[1992] Conference Record of the Twenty-Sixth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1581082510799686493,5,1992
+Random Processes and Linear Systems,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 17-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6458853415097545031,5,1992
+Shape-gain matrix quantizers for LPC speech,"C Tsao, R Gray","IEEE transactions on acoustics, speech, and signal processing 34 (6), 1427-1439",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17312218376270074049,5,1986
+Topics in the sampling and reconstruction of two dimensional images,"RA Schowengerdt, SK Park, RT Gray","Int. J. Remote Sensing 5, 333-347",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=218753705384419707,5,1983
+Correction to'Information rates of stationary-ergodic finite-alphabet sources',R Gray,"IEEE Transactions on Information Theory 19 (4), 573-573",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17106521817743010821,5,1973
+Entropy,RM Gray,"Entropy and Information Theory, 61-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2803111529743115280,4,2011
+Bits in asymptotically optimal lossy source codes are asymptotically Bernoulli,"RM Gray, T Linder","2009 Data Compression Conference, 272-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5341554040753017236,4,2009
+Rate-distortion functions for nonstationary Gaussian autoregressive processes,"RM Gray, T Hashimoto","Data Compression Conference (dcc 2008), 53-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6411279547043824774,4,2008
+Toeplitz and circulant matrices: a review. Free book,RM Gray,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10210544287183439446,4,2006
+Classification of features and images using Gauss mixtures with VQ clustering,"YZ Huang, D O'Brien, RM Gray","Data Compression Conference, 2004. Proceedings. DCC 2004, 13-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2332589838883403111,4,2004
+Robust stack-run coding for low bit-rate image transmission over noisy channels,"C Pepin, P Raffy, RM Gray","IEEE Signal Processing Letters 9 (7), 196-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6518860534659339966,4,2002
+Quality evaluation for compressed medical images: Diagnostic Accuracy,"P Cosman, R Gray, R Olshen","Handbook of Medical Imaging, Processing and Analysis, I. Bankman, Ed. New …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16959083757118398062,4,2000
+Quality evaluation for compressed medical images: Statistical issues,"P Cosman, R Gray, R Olshen","Handbook of Medical Imaging, Processing and Analysis, I. Bankman, Ed. New …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5691999350301033058,4,2000
+Maximum entropy classification applied to speech,"M Gupta, MP Friedlander, RM Gray",Conference Record of the Thirty-Fourth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4931976203889920261,4,2000
+Robust stack-run image coding for noisy channels,"P Raffy, C Pepin, RM Gray",Conference Record of the Thirty-Third Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2768316347772228841,4,1999
+Blind denoising using a wavelet coder,"P Raffy, A Najmi, RM Gray",Conference Record of the Thirty-Third Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11339465049596133026,4,1999
+Image quality in digital mammography,"BJ Betts, J Li, PC Cosman, RM Gray",Revision of final report to the Army Medical Research and Material Command …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5349850634813156571,4,1998
+A criterion for model selection using minimum description length,"A Najmi, RA Olshen, RM Gray",Proceedings. Compression and Complexity of SEQUENCES 1997 (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17555641442075085412,4,1997
+Predictive hierarchical table-lookup vector quantization with quadtree encoding,"S Mehrotra, N Chaddha, RM Gray","Proceedings of 3rd IEEE International Conference on Image Processing 3, 407-410",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16820470309212655330,4,1996
+Time domain analysis of sigma delta modulation,"W Chou, TH Meng, RM Gray","International Conference on Acoustics, Speech, and Signal Processing, 1751-1754",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9963363537355143503,4,1990
+An optimized cubic interpolator for image resampling,"RA Schowengerdt, RT Gray, SK Park",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6447355049831725451,4,1984
+Two problems in simultaneous communications,"R Gray, P Bergmans","IEEE Transactions on Communications 21 (6), 763-767",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11196800869554033492,4,1973
+Clustering and finding the number of clusters by unsupervised learning of mixture models using vector quantization,"S Yoon, RM Gray","2007 IEEE International Conference on Acoustics, Speech and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16483544564977507585,3,2007
+Fast Gauss mixture image classification based on the central limit theorem,"KM Ozonat, RM Gray","IEEE 6th Workshop on Multimedia Signal Processing, 2004., 446-449",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8549370380422639515,3,2004
+Relative entropy and quantizer mismatch,"RM Gray, T Linder",Conference Record of the Thirty-Sixth Asilomar Conference on Signals …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9409183053424676026,3,2002
+Toeplitz and Circul (antt Matrices: A review. http,RM Gray,ee. stanford. edu/-gray/toeplitz. pdf,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6328586102536340875,3,2002
+대외의존과 경제구조: 1970 년대 중화학공업과 대외의존도에 관한 실증적 연구,박영구,"한국경제연구 4, 171-192",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5569037659863520747,3,2000
+"Comments on"" analog FIR filters with an oversampled Sigma-Delta modulator","PW Wong, RM Gray",IEEE Transactions on Circuits and Systems II: Analog and Digital Signal …,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13516555064050599818,16595336139314679433",3,1993
+Unbalanced non-binary tree-structured vector quantizers,"TM Schmidl, PC Cosman, RM Gray","Proceedings of 27th Asilomar Conference on Signals, Systems and Computers …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7942964426853314528,3,1993
+Finite—State Vector Quantization,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 519-553",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3614271852384770343,3,1992
+In peace.,P Gray,"Time 136 (16), 84-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16107029654227630312,3,1990
+Evaluation of two-dimensional quantization,"S Tazaki, Y Yamada, RM Gray","Digital signal processing.(A 81-19401 06-63) London and New York, Academic …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=800786965555432422,3,1980
+Bounds on rate-distortion functions for stationary sources and context-dependent fidelity criteria (Corresp.),"B Leiner, R Gray","IEEE Transactions on Information Theory 19 (5), 706-708",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2082481325453156564,3,1973
+Stationary and Trellis Encoding for IID Sources and Simulation,"MZ Mao, RM Gray","2010 Data Compression Conference, 3-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1308988448528589088,2,2010
+An adaptive color image retrieval framework using gauss mixtures,"S Jeong, CS Won, RM Gray","2008 15th IEEE International Conference on Image Processing, 945-948",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7171163147873342325,2,2008
+Vector quantization for image classification with side information for the additive Gaussian noise channels,"KM Ozonat, RM Gray","IEEE International Conference on Image Processing 2005 3, III-185",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17105125247943503365,2,2005
+Gauss mixture image classification for the linear image transforms,"KM Ozonat, RM Gray","Proceedings.(ICASSP'05). IEEE International Conference on Acoustics, Speech …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4854872332714526211,2,2005
+Fast classification using weighted distortion,"A Aiyer, RM Gray",Proceedings 2000 International Conference on Image Processing (Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9874366159297088267,2,2000
+Vector quantization of video with two codebooks,"KK Lin, RM Gray","Proceedings DCC'99 Data Compression Conference (Cat. No. PR00096), 537",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12602482585133989099,2,1999
+"Quantization, Classification, and Density Estimation",RM Gray,"Proc. of IEEE Information Theory Workshop on Detection, Estimation …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6217133591922262823,2,1999
+Information theory: 1948-1998. Special Commemorative Issue,"S Verdú, AD Wyner, J Ziv, AJ Wyner, PC Shields, JA O’Sullivan, ...",IEEE Transactions,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16318250418437517437,2,1998
+Quantization noise is EA AID converters,"R Gray, S Norsworthy, R Schreier, G Temes","Delta-Sigma Data Converters: theory, design, and simulation",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6114553181077762088,2,1997
+Combined compression and segmentation of images,RM Gray,"한국통신학회 워크샵, 3-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15748292453816153520,2,1997
+Universal quantization of parametric sources has redundancy k/2 logn/n,"PA Chou, M Effros, RM Gray","Proceedings of 1995 IEEE International Symposium on Information Theory, 371",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5491403417464135442,2,1995
+Quantization Noise in ΔΣ A/D Converters,"ES Norsworthy, R Schreier, G Temes, RM Gray",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1712595659637730733,2,1995
+Convolution and correlation,"RM Gray, JW Goodman","Fourier Transforms, 251-307",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17292070353724248689,2,1995
+An iterative joint codebook and classifier improvement algorithm for finite-state vector quantization,"KO Perlmutter, SM Perlmutter, M Effros, RM Gray","Proceedings of 1994 28th Asilomar Conference on Signals, Systems and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9649015525366896471,2,1994
+Performance evaluation of greedy search algorithms for image halftoning and compression,"RA Vander Kam, PA Chou, RM Gray","Proceedings of 27th Asilomar Conference on Signals, Systems and Computers …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1246788236446629979,2,1993
+Combined vector quantization and adaptive histogram equalization,"PC Cosman, EA Riskin, RM Gray","Medical Imaging VI: Image Capture, Formatting, and Display 1653, 213-218",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8272460385164451530,2,1992
+Conditional histogram vector quantization for spellmode recognizer,"S Huang, R Gray","ICASSP'87. IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=574776520012514169,2,1987
+Tree-searched block source codes,RM Gray,Proceedings of the 1980 Allerton Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17182251505219768760,2,1980
+Reply to Comments on'Source Coding of the Discrete Fourier Transform',R Gray,"IEEE Transactions on Information Theory 26 (5), 626-626",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5567522214107555096,2,1980
+Optimal' speech compression,"RM Gray, G Rebolledo, AH GRAY","Asilomar Conference on Circuits, Systems, and Computers, 13 th, Pacific …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8032592408143580952,2,1980
+Process distortion measures and applications to stochastic systems,"Y Matsuyama, RM Gray, LA Buzo, I Univsersity","Proceedings, Mathematical Theory of Networks and Systems,"" Western …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6909507431035166560,2,1979
+The Organization of a County School District: a Case Study of a Process of District Consolidation and Administrative Reorganization,RG Gray,"School of Education, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8193646755250293345,2,1958
+On Asymptotically Optimal Stationary Source Codes for IID Sources,"MZ Mao, RM Gray, T Linder","2011 Data Compression Conference, 3-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13008950080182100557,1,2011
+Distortion and Entropy,RM Gray,"Entropy and Information Theory, 147-171",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2981529863983239065,1,2011
+"Pair Processes: Channels, Codes, and Couplings",RM Gray,"Entropy and Information Theory, 21-60",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17190041670084886704,1,2011
+Source Coding Theorems,RM Gray,"Entropy and Information Theory, 295-334",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9742222420998858662,1,2011
+Coding for Noisy Channels,RM Gray,"Entropy and Information Theory, 359-394",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6719887067377397085,1,2011
+Foundations and Trends® in Signal Processing,RM Gray,"Foundations and Trends® in Signal Processing 3 (4), 203-303",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9876329150157506198,1,2010
+Mentoring for Engineering Academia II,"RM Gray, S Hemami, E Riskin, R Ward, S Brainard, P Cosman, ...",Proceedings of a Workshop at the Banff International Research Station Banff …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9797567231962087551,1,2007
+Quantization with joint entropy/memory constraints,"RM Gray, JT Gill","Data Compression Conference (DCC'06), 223-235",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5587552937910260625,1,2006
+Packet speech on the Arpanet: A history of early LPC speech and its accidental impact on the Internet Protocol,RM Gray,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16404542177048708963,1,2006
+Gaussian mixture model classifiers for small objects in images,"DB O'Brien, RM Gray","IEEE International Conference on Image Processing 2005 2, II-850",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10031320743498185222,1,2005
+Optimal quantizer performance and the Wasserstein distortion,"S Matloub, DB O'Brien, RM Gray","Data Compression Conference, 243-250",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8932724620349015778,1,2005
+Statistical Classification,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 5-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7790716114995500390,1,2000
+Vector Quantization,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 17-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15786140177076269448,1,2000
+Spectrum quantisation using two-dimensional multiple type frame segmentation,"Y KeunLee, H SooLee, RM Gray","Electronics Letters 34 (1), 41-42",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1421068031157170952,1,1998
+"Compression and Classification of Digital Mammograms for Storage, Transmission, and Computer Aided Screening.",RM Gray,STANFORD UNIV CA,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15755269749749595134,1,1997
+A Vector Quantization Adaptive Predictive Coder,"HS Lee, RM Gray","TENCON 87-Computers and Communications Technology Toward 2000, 1272-1277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13581672371758783173,1,1997
+Convergence of an iterative design algorithm for JPEG quantization tables,"RA Vander Kam, PW Wong, RM Gray","Proceedings., International Conference on Image Processing 2, 81-84",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1175954149229634845,1,1995
+Vector Quantization and Signal Compression-A. Gersho and RM Gray,N Farvardin,"IEEE TRANSACTIONS ON INFORMATION THEORY IT 40 (1), 287-287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12059912946397663504,1,1994
+A finite-state multiresolution approach to image compression using pruned nested tree-structured vector quantization,"SM Perlmutter, RM Gray","Proceedings of 1994 28th Asilomar Conference on Signals, Systems and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17540447697100392536,1,1994
+Predictive Vector Quantization,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 487-517",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14353296685793496521,1,1992
+Constrained Vector Quantization,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 407-485",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15225398675734761596,1,1992
+Dithered quantizers,"RM Gray, TG Stockham","Proceedings. 1991 IEEE International Symposium on Information Theory, 22-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16664991577658151586,1,1991
+Variable rate vector quantization of images using decision trees,"EA Riskin, RM Gray, RA Olshen","1990 Conference Record Twenty-Fourth Asilomar Conference on Signals, Systems …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3583178330611061285,1,1990
+Data Compression.,RM Gray,STANFORD UNIV CA INFORMATION SYSTEMS LAB,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17728955985866645930,1,1984
+Vector quantization of speech waveforms,"H Abut, R Gray, G Rebolledo","ICASSP'81. IEEE International Conference on Acoustics, Speech, and Signal …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17035365510714337642,1,1981
+The Design of Tree and Trellis Data Compression Systems.,"J Linde, RM Gray",STANFORD UNIV CA STANFORD ELECTRONICS LABS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14690094225823437348,1,1978
+ITOS VHRR on-board data compression study,"RM Gray, LD Davisson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15545976838615137488,1,1975
+OPTIMAL MAGNITUDE-PHASE QUANTIZATION IN COMPUTER HOLOGRAPHY,"WA Pearlman, RM GRAY","JOURNAL OF THE OPTICAL SOCIETY OF AMERICA 64 (10), 1395-1395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10589704312788921816,1,1974
+"Review of'Rate Distortion Theory: A Mathematical Basis for Data Compression'(Berger, T.; 1971)",R Gray,"IEEE Transactions on Information Theory 18 (1), 217-218",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14124096376294403312,1,1972
+Linear Unbiased Restoration of Degraded Images at Low Light Levels,"JF Walkup, RM Gray","JOURNAL OF THE OPTICAL SOCIETY OF AMERICA 62 (11), 1338-1338",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9171831732718311568,1,1972
+A Partial Hstry of Losy Compression.,RM Gray,"DCC, 435",,0,2015
+On the Conditioning of Random Subdictionaries,"K Schnass, A Gersho, RM Gray","Applied Computational Harmonic Analysis, 464-491",,0,2014
+"BJ BETTS"", A. AIYER', J. LI, D. IKEDA2, R. BIRDWELL2","RM GRAY, RA OLSHEN","Digital Mammography: Nijmegen, 1998 13, 449",,0,2012
+"LOSSY COMPRESSION, CLASSIFICATION",RM GRAY,"The Mathematics of Information Coding, Extraction and Distribution 107, 49",,0,2012
+Clustering categorical data based on distance vectors.,"B Abraham, V Paul, NJ Abraham, D Cerra, M Datcu, R Cilibrasi, P Vitanyi, ...","Journal of Applied Sciences 15 (2), 293-302",,0,2012
+Relative Entropy Rates,RM Gray,"Entropy and Information Theory, 265-279",,0,2011
+On Asymptotically Optimal Source Coding and Simulation of Stationary Sources,Z Mao,Stanford University,,0,2011
+Information Rates,RM Gray,"Entropy and Information Theory, 219-236",,0,2011
+The Entropy Ergodic Theorem,RM Gray,"Entropy and Information Theory, 97-115",,0,2011
+Distortion and Approximation,RM Gray,"Entropy and Information Theory, 117-146",,0,2011
+Distortion and Information,RM Gray,"Entropy and Information Theory, 237-263",,0,2011
+Ergodic Theorems for Densities,RM Gray,"Entropy and Information Theory, 281-294",,0,2011
+Properties of Good Source Codes,RM Gray,"Entropy and Information Theory, 335-357",,0,2011
+Relative Entropy,RM Gray,"Entropy and Information Theory, 173-218",,0,2011
+"Subject: Draft Final Corrective Measures Study Proposed Modification to Remedy Corrective Action Consent Agreement P2-03/04-006 PG&E Shell Pond, Bay Point, California","DM Cook, RM Gray, MT Natera",,,0,2010
+"Errata for Probability, Random Processes, and Ergodic Properties",RM Gray,,,0,2010
+Variable-length constrained-storage tree-structured vector quantization.,"ONA AL-Allaf, NA Omaima, C Amerijckx, JD Legat, M Verleysen, ...","Journal of Applied Sciences 11 (17), 1347-1354",,0,2010
+Multi-feature based fire detection in video.,"YC Wen, FX Yu, XL Zhou, ZM Lu, SA Ali, N Sulaiman, A Mustapha, ...","Information Technology Journal 9 (4), 1256-1262",,0,2009
+Averages,RM Gray,"Probability, Random Processes, and Ergodic Properties, 115-155",,0,2009
+Conditional Probability and Expectation,RM Gray,"Probability, Random Processes, and Ergodic Properties, 157-194",,0,2009
+Process Approximation and Metrics,RM Gray,"Probability, Random Processes, and Ergodic Properties, 263-294",,0,2009
+Standard Borel Spaces,RM Gray,"Probability, Random Processes, and Ergodic Properties, 95-113",,0,2009
+Random Processes and Dynamical Systems,RM Gray,"Probability, Random Processes, and Ergodic Properties, 35-59",,0,2009
+Probability Spaces,RM Gray,"Probability, Random Processes, and Ergodic Properties, 1-33",,0,2009
+Standard Alphabets,RM Gray,"Probability, Random Processes, and Ergodic Properties, 61-93",,0,2009
+Ergodic Properties,RM Gray,"Probability, Random Processes, and Ergodic Properties, 195-238",,0,2009
+The Ergodic Decomposition,RM Gray,"Probability, Random Processes, and Ergodic Properties, 295-310",,0,2009
+A covariance adjustment method in compressed domain for noisy image segmentation,"K Pyun, J Lim, RM Gray","2008 15th IEEE International Conference on Image Processing, 2268-2271",,0,2008
+Scalable architecture for word HMM-based speech recognition.,"MZ Ilyas, SA Samad, A Hussain, KA Ishak, SAR Al-Haddad, SA Samad, ...","Information Technology Journal 9 (1), 714-720",,0,2008
+IEEE Information Theory Society Newsletter,RM Gray,,,0,2008
+Entropy and Memory Constrained Vector Quantization with Separability Based Feature Selection,"S Yoon, RM Gray","2006 IEEE International Conference on Multimedia and Expo, 269-272",,0,2006
+DCC 2006,"A Apostolico, M Cohn, M Effros, JE Fowler, V Goyal, RM Gray, S Hemami, ...",,,0,2006
+On Gauss mixture vector quantizers and Gabor wavelet classifiers for texture classification,"K Pyun, J Lim, CS Won, RM Gray","Conference Record of the Thirty-Ninth Asilomar Conference onSignals, Systems …",,0,2005
+Vector quantization for classification in a simple network,"KM Ozonat, RM Gray","Data Compression Conference, 472",,0,2005
+"California Coding: Early LPC Speech in Santa Barbara, Marina del Rey, and Silicon Valley 1966–1982",RM Gray,,,0,2004
+"Wavelet video coding with dependent optimization (vol 14, pg 542, 2004)","KK Lin, RM Gray","IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS FOR VIDEO TECHNOLOGY 14 (8), 1116-1116",,0,2004
+"California Coding: Early LPC Speech in Santa Barbara, Marina del Rey, and Silicon Valley 1967–1982",RM Gray,,,0,2004
+Classiﬁcation of Features and Images using Gauss Mixtures with VQ Clustering,"Y Huang, DB O’Brien, RM Gray","Proceedings, 13",,0,2004
+Block-Wise Markov Models,"CS Won, RM Gray","Stochastic Image Processing, 125-148",,0,2004
+Noncausal Markov Random Fields,"CS Won, RM Gray","Stochastic Image Processing, 11-66",,0,2004
+Causal Markov Random Fields,"CS Won, RM Gray","Stochastic Image Processing, 67-97",,0,2004
+Multiscale Markov Models,"CS Won, RM Gray","Stochastic Image Processing, 99-124",,0,2004
+"2003 IEEE Workshop on Statistical Signal Processing September 28-October 1, 2003","B Girod, S Godsill, RM Gray",,,0,2003
+High rate mismatch in entropy constrained quantization,"RM Gray, T Linder","Data Compression Conference, 2003. Proceedings. DCC 2003, 173-182",,0,2003
+High Rate Quantization Theory or The Other Theory of Source Coding,RM Gray,,,0,2003
+A Subjective Attempt to Measure the Perception of Rhythm in Speech and Identify an Objective Measure to Improve Synthesised Speech Rhythm,R Gray,Unpublished,,0,2003
+An Introduction to Statistical Signal Processing new edition,R Gray,Springer,,0,2002
+TRANSACTIONS ON SIGNAL PROCESSING.,RM Gray,"IEEE TRANSACTIONS ON INFORMATION THEORY 46 (5), 1939",,0,2000
+Joint Compression and Classification,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 103-119",,0,2000
+2-D Multiresolution Hmm,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 71-90",,0,2000
+Testing Models,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 91-102",,0,2000
+Two Dimensional Hidden Markov Model,"J Li, RM Gray","Image Segmentation and Compression Using Hidden Markov Models, 27-70",,0,2000
+SUNDAY EVENING,"M Fleming, M Effros, SD Servetto, VA Vaishampayan, NJA Sloane, J Li, ...",,,0,1999
+"Lossy compression, classification, and regression",RM Gray,"The Mathematics of Information Coding, Extraction and Distribution, 49-71",,0,1999
+Context Based Multiscale Classification of Document Images Based on Wavelet Coefficient Distributions,"J Li, RM Gray",,,0,1998
+Efficient encoding of excitation codes using trained partial algebraic codebook,"YK Lee, HS Lee, RM Gray","IEICE TRANSACTIONS on Information and Systems 81 (6), 612-615",,0,1998
+"Consulting: Real Problems, Real Interactions, Real Outcomes.............. Richard Tweedie 1 (Resources Appendix by Sue Taylor) Estimation of Antigen-Responsive T Cell …","SM Perlmutter, PC Cosman, CW Tseng, RA Olshen, RM Gray, KCP Li, ...",Statistical Science (ISSN 0883-4237) 13 (1),,0,1998
+FIRST DRAFT Quantization,"RM Gray, DL Neuho",,,0,1998
+Medical Image Compression and Vector Quantization,"PC Cosman, SM Perlmutter, CW Tseng, RA Olshen, RM Gray, KCP Li, ...",,,0,1998
+Quantization and classification,RM Gray,"TS. Traitement du signal 15 (6), 513-518",,0,1998
+Special section on biomedical imaging,"B Girod, RM Gray","Signal Processing 59 (2), 137-138",,0,1997
+The Accuracy of Measurements from Medical Images Compressed by Vector Quantization,"SM Perlmutter, PC Cosman, CW Tseng, RA Olshen, RM Gray, KCP Li, ...",,,0,1997
+Application of geodetic dilation for the MRI cerebral images segmentation.,"Z Chalabi, N Berrached, N Kharchouche, A Mojsilovic, MV Popovic, ...","Journal of Applied Sciences 8 (7), 856-866",,0,1997
+Efficient Encoding of Excitation Codes Using Trained Partial Algebraic Codebook,"YK Lee, HS Lee, RM Gray","한국통신학회 워크샵, 268-270",,0,1997
+On The Use of Analysis-by-Synthesis Linear Predictive Coding Parameters for Speech Recognition,"SH Choi, HK Kim, HS Lee, RM Gray","대한전자공학회 워크샵 4, 283-285",,0,1997
+Adaptive coding using finite state hierarchical table lookup vector quantization with variable block sizes,"S Mehrotra, N Chaddha, RM Gray","Conference Record of The Thirtieth Asilomar Conference on Signals, Systems …",,0,1996
+LOSSY COMPRESSED MEDICAL IMAGES AND MEASUREMENT ACCURACY,"SMPPC COSMAN, CWENTRA OLSHEN, RM GRAY, KCPLICJ BERGIN",,,0,1996
+Predictive vector quantization with ridge regression,"CL Nash, RA Olshen, RM Gray","Proceedings of Data Compression Conference-DCC'96, 310-319",,0,1996
+Lossy Compressed Medical Images and Measurement Accuracy,"Stanford University. Division of Biostatistics, SM Perlmutter, PC Cosman, ...",,,0,1996
+Adaptive Predictive Table-Lookup Hierarchical Vector Quantization with Quadtree Encoding,"S Mehrotra, N Chaddha, RM Gray",,,0,1996
+Basic Concepts in Information Theory and Coding: The Adventures of Secret Agent 00111,RM Gray,"American Scientist 83 (6), 584-585",,0,1995
+Basic Properties,"RM Gray, JW Goodman","Fourier Transforms, 161-215",,0,1995
+Signals and Systems,"RM Gray, JW Goodman","Fourier Transforms, 1-51",,0,1995
+Generalized Transforms and Functions,"RM Gray, JW Goodman","Fourier Transforms, 217-250",,0,1995
+Fourier Inversion,"RM Gray, JW Goodman","Fourier Transforms, 115-160",,0,1995
+Memoryless Nonlinearities,"RM Gray, JW Goodman","Fourier Transforms, 333-345",,0,1995
+JPEG compression for a grayscale printing pipeline [2418-25],"RA Vander Kam, PW Wong, RM Gray","PROCEEDINGS-SPIE THE INTERNATIONAL SOCIETY FOR OPTICAL ENGINEERING, 229-229",,0,1995
+Two Dimensional Fourier Analysis,"RM Gray, JW Goodman","Fourier Transforms, 309-332",,0,1995
+Bayes risk-weighted vector quantization,RM Gray,"Proceedings of 1994 Workshop on Information Theory and Statistics, 3",,0,1994
+DEVELOPMENT OF PHARMACEUTICAL FORMULATIONS FOR THERAPEUTIC ANTIBODIES,"K IQBAL, S BEGUM, SA PARK, R GRAY, P PINE, RZ JIN, NA GUZMAN","ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 207, 176-BIOT",,0,1994
+Variable-Rate Source Coding Theorems for Stationary Nonergodic,"M Effros, RM Gray",Proceedings,,0,1994
+"Probability, Random Processes, and Ergodic Properties","RM Gray, PC Shields","SIAM Review 36 (1), 143-144",,0,1994
+Non-US data compression and coding research. FASAC Technical Assessment Report,"RM Gray, M Cohn, LW Craver, A Gersho, T Lookabaugh, F Pollara, ...","Science Applications International Corp., San Diego, CA (United States)",,0,1993
+"Data Compression Conference (DCC'93)(Sponsored by the IEEE Computer Society TCCC in Cooperation with NASA/CESDIS) Snowbird, Utah March 30-April 1, 1993","A Apostolico, R Baker, A Blumer, A Bookstein, M Cohn, T Cover, R Gray, ...",,,0,1993
+"AR Barron, L. Gyorfi, and EC van der Meulen D. M. Goblirsch and N. Farvardin","PV Kumar, VK Wei, L Knockaert, W Greblicki, S Shamai, S Verdic, SJ Park, ...",,,0,1992
+Tree-Structured Vector Quantization with Region-Based Classiﬁcation,"SMPKO Perlmutter, PCCEA Riskinl, RA Olsheni, RM Gray",Conference record of the Twenty-sixth Asilomar Conference on Signals …,,0,1992
+Tree-Structured Vector Quantization with Region-Based,"RA Olshen, RM Gray",Conference Record of the Twenty-sixth Asilomar Conference on Signals …,,0,1992
+Training Sequence Size and Vector Quantizer Performance,"PCC Keren, PSM Perlmutter, RA Olshen, RM Gray","Conference Record 1000, 434",,0,1992
+The JPEG still picture compression standard.,"N Venkateswaran, YVR Rao, M Antonini, M Barlaud, P Mathieu, ...","Information Technology Journal 6 (1), 205-220",,0,1992
+Tree-Structured Vector Quantization with Region-Based Classification,"RA Olshen, RM Gray","Asilomar Conference on Signals, Systems & Computers 1, 691",,0,1992
+Scalar Quantization II: Optimality and Design,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 173-202",,0,1992
+Predictive Quantization,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 203-223",,0,1992
+Bit Allocation and Transform Coding,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 225-257",,0,1992
+Tree and Trellis Encoding,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 555-586",,0,1992
+Vector Quantization II: Optimality and Design,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 345-405",,0,1992
+Entropy Coding,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 259-305",,0,1992
+Variable Rate Vector Quantization,"A Gersho, RM Gray","Vector Quantization and Signal Compression, 631-689",,0,1992
+"Reprinted with permission from IEEEASSP Magazine, Vol. 1 (2), pp. 4-29 (April 1984).© 1984 IEEE.",RM Gray,"Selected Papers on Image Coding and Compression 48, 383",,0,1992
+Analysis Of/spl Sigma//spl Delta/Modulator With Leaky Integrator With DC Input,"SJ Park, RM Gray","Proceedings. 1991 IEEE International Symposium on Information Theory, 119-119",,0,1991
+A Comparison Of Growing And Pruning Balanced And Unbalanced Tree-structured Vector Quantizers,"EA Riskin, RM Gray","Proceedings. 1991 IEEE International Symposium on Information Theory, 249-249",,0,1991
+"Data Compression Conference (DCC'91)(Sponsored by the IEEE Computer Society) Snowbird, Utah April 8-11, 1991","A Blumer, R Capocelli, J Cleary, I Daubechies, R Gray, D Hirschberg, ...",,,0,1991
+Image compression,RM Gray,"[1991] Proceedings. Data Compression Conference, 474-475",,0,1991
+Implementation of covert communication based on steganography.,"J Liu, Z Lu, G Danezis, D Kirovski, H Malvar, L Diez-Del-Rio, ...","Information Technology Journal 8 (8), pp: 354-368-pp: 354-368",,0,1991
+THE ANNALS,AN Kolmogorov,The Annals of Statistics (ISSN 0090-5364) 18 (3),,0,1990
+Coding for noisy channels,RM Gray,"Entropy and Information Theory, 277-313",,0,1990
+Information Rates II,RM Gray,"Entropy and Information Theory, 135-148",,0,1990
+Distortion,RM Gray,"Entropy and Information Theory, 217-239",,0,1990
+Channels and Codes,RM Gray,"Entropy and Information Theory, 181-215",,0,1990
+Uniform Quantization Noise,RM Gray,"Source Coding Theory, 137-175",,0,1990
+High Rate Quantization,RM Gray,"Source Coding Theory, 115-136",,0,1990
+Rate-Distortion Functions,RM Gray,"Source Coding Theory, 81-113",,0,1990
+Distortion-Rate Theory,RM Gray,"Source Coding Theory, 53-79",,0,1990
+"Codes, Distortion, and Information",RM Gray,"Source Coding Theory, 27-52",,0,1990
+Kolmogorov's Contributions to Information Theory and Algorithmic,RM Gray,,,0,1989
+Tree-structured vector quantization for progressive transmission image coding,"RM Gray, EA Riskin","Advances in communications and signal processing, 142-150",,0,1989
+Probability and Random Processes,RM Gray,"Probability, Random Processes, and Ergodic Properties, 1-31",,0,1988
+Process Metrics and the Ergodic Decomposition,RM Gray,"Probability, Random Processes, and Ergodic Properties, 244-283",,0,1988
+Borel Spaces and Polish Alphabets,RM Gray,"Probability, Random Processes, and Ergodic Properties, 66-91",,0,1988
+Ergodic Theorems,RM Gray,"Probability, Random Processes, and Ergodic Properties, 216-243",,0,1988
+Vector quantization for speech coding and recognition,RM Gray,"The Journal of the Acoustical Society of America 80 (S1), S34-S34",,0,1986
+Ergodic theory,RM Gray,"Proceedings of the IEEE 74 (2), 380-380",,0,1986
+An Overview of Matrix Quantizer Design using the Generalized Lloyd Algorithm,"C Tsao, RM Gray","MILCOM 1985-IEEE Military Communications Conference 3, 614-619",,0,1985
+"Review of'Ergodic Theory'(Peterson, K.; 1983)",R Gray,"IEEE Transactions on Information Theory 31 (1), 110-110",,0,1985
+IEEE Transactions on Information Theory Volume 30 Issue 2,RM Gray,IEEE Press 30 (2),,0,1984
+Fuzzy co-clustering of documents and keywords.,"P Shanmugapriya, Y Venkataramani, RM Gray, J He, L Liu, G Palm, ...","Journal of Applied Sciences 15 (2), 4-29",,0,1984
+Lossless image coding using conditional entropy constrained vector quantization.,"J Xu, H Jiang, Z Li, RM Gray, M Deering, C Touma, C Gotsman, G Taubin, ...","Information Technology Journal 10 (4), 4-29",,0,1984
+"Data compression[Final Technical Report, 1 Sep. 1980- 31 Jan. 1984]",RM GRAY,,,0,1984
+"IEEE TRANSACTIONS ON INFORMAToN THEORv, voL. 3s, No. 1, ANUA y 1992 165","M Longo, TD Lookabaugh, RM Gray","sensors 17, 501-510",,0,1981
+Joint source and noisy channel trellis encoding(Corresp.),R Gray,"IEEE Transactions on Information Theory 27 (4), 516-519",,0,1981
+Asymptotically Mean Stationary Sources and Channels,"RM Gray, JC Kieffer, RJ Fontana","Advances in Communications, 16-21",,0,1980
+THE ANNALS,"P Papantoni-Kazakos, RM Gray",The Annals of Probability 7 (6),,0,1979
+Data Compression Algorithms,RM Gray,STANFORD UNIV CA STANFORD ELECTRONICS LABS,,0,1979
+An image hashing scheme based on mean-removed vector quantization for multiple purposes.,"ML Lv, ZM Lu, E Delp, O Mitchell, J Dittmann, A Steinmetz, R Steinmetz, ...","Information Technology Journal 10 (1), 1335-1342",,0,1979
+Optimal Data Compression Algorithms.,"RM Gray, ME Hellman",STANFORD UNIV CALIF DEPT OF ELECTRICAL ENGINEERING,,0,1978
+"SPECTRAL, I) ISTORTION MEASURES F () IR SPEECH COMPRESSION","Y Matsuyama, A Buzo, RM Gray",,,0,1978
+"Spectral distortion measures for speech compression[Technical Report, 1 May 1973- 30 Apr. 1978]","Y MATSUYAMA, A BUZO, RM GRAY",,,0,1978
+"Optimal data compression algorithms[Final Report, 1 May 1973- 30 Apr. 1978. Ph. D. Thesis]","RM GRAY, ME HELLMAN",,,0,1978
+Second Order Moments and Prediction for Doubly-Reflected Symmetric Independent Increment Processes,"RM Gray, LD Davisson","SIAM Journal on Applied Mathematics 33 (4), 559-567",,0,1977
+Copyright© 7975 by the Institute of Mathematical Statistics Reprinted from Ann. Probl 3 (3): 478-491 (1975) NONBLOCK SOURCE CODING WITH A FIDELITY CRITERION1,"RM Gray, DL Neuhoff, DS Ornstein","Ergodic and information theory 19, 340",,0,1977
+"Stanford University, Universiy of Michigan and University of Toledo Ornstein's^ distance between finite alphabet discrete-time random pro-cesses is generalized in a natural way …","RM Gray, DL Neuhoff, PC Shields","Ergodic and information theory 19, 326",,0,1977
+"COLLOQUIA MATHEMATICA SOCIETATIS JANOS BOLYAI 1 «. TOPICS IN INFORMATION THEORY, KESZTHELY (HUNGARY), l» 75.","SB BLOCK, TS CODING, RM GRAY","Topics in information theory, 255",,0,1977
+"Review of'Communication Systems: An Introduction to Signals and Noise in Electrical Communication'(Carlson, AB; 1975)",R Gray,"IEEE Transactions on Information Theory 22 (3), 382-383",,0,1976
+ITOS VHRR on-board data compression study[Final Report],"RM GRAY, LD DAVISSON",,,0,1975
+Source coding ergodic theory research seminar: lecture note,RM Gray,,,0,1974
+How Mutually Informative Can Two Random Processes Be?,"RM GRAY, PC SHIELDS","Proceedings: August 1974, 11",,0,1974
+Rate-distortion theory for ergodic sources with side information(Corresp.),R Gray,"IEEE Transactions on Information Theory 20 (5), 672-675",,0,1974
+Bounds on rate-distortion functions for stationary sources and context-dependent fidelity criteria(Corresp.),R Gray,"IEEE Transactions on Information Theory 19 (5), 706-708",,0,1973
+Signal and Image Processing Institute,RM Gray,,,0,1969
+"Information rates of autoregressive sources Interim technical report(Information rates on autoregressive sources, rate distortion functions)",RM GRAY,,,0,1969
+Missing!,R Gay,,,0,0
+ICIP ‘95 Technical Program Committee,"J Aggarwal, M Ali, JP Allebach, R Ansari, JK Antonio, J Biemond, ...",,,0,0
+EFFICIENT ENCODINGm op EXCITATION CODEs USING TRAINED PARTIAL ALGEBRAIC CODEBOOE,UTPA CODEBOOE,,,0,0
+Stationary Codes,S meets Ornstein,,,0,0
+"James A. Storer, Brandeis University (DCC Chair) Michael W. Marcellin, University of Arizona (Committee Chair) Henrique Malvar, Microsoft (Submissions Chair) James E. Fowler …","A Apostolico, A Bilgin, CD Creusere, H Feng, V Goyal, RM Gray, ...",,,0,0
+L. Zheng and DNC Tse Diversity and Multiplexing: A Fundamental Tradeoff in Multiple-Antenna Channels 1073 H. El Gamal and MO Damen Universal Space–Time Coding 1097 MJ …,"M Gastpar, B Rimoldi, M Vetterli, RJ Barron, B Chen, GW Wornell, ...",,,0,0
+K. Laroia Precoding,"PA Chou, M Effros, RM Gray, P Knagenhjelm, E Agrell, R Zamir, M Feder",,,0,0
+Image Classification Based on a Multiresolution Two Dimensional,"HM Model, J Li, RM Gray",,,0,0
+Combining Vector Quantization and Histogram Equalization,"PCCEA Riskin, RM Gray",,,0,0
+DISTANCE MEASURES ON CLASSES OF RANDOM PROCESSES WITH APPLICATIONS TO SOURCE CODING,"RM Gray, DL Neuhoff, LD Davisson",Proceedings of the... Annual Princeton Conference on Information Sciences …,,0,0
+A Subspace Approach for Enhancing Speech Corrupted by Colored Noise.................. Y. Hu and PC Loizou 204 Signal Processing Theory and Methods Large Simulation of …,"S Yoon, I Song, CH Park, C Pépin, P Raffy, RM Gray, M Zhao, ...",,,0,0
+Claude E. Shannon Award lecture,RM Gray,,,0,0
+"Information Systems Laboratory, EE Dept. Stanford University, CA 94305 jiali@ isl. stanford. edu, zaalim@ leland. stanford. edu","J Li, A Najmi, RM Gray",,,0,0
+Giovanni Motta-Qualcomm Inc.,"A Apostolico, A Bilgin, CD Creusere, H Feng, JE Fowler, V Goyal, ...",,,0,0
+DCC 2012,"JA Storer, MW Marcellin, H Malvar, JE Fowler, A Apostolico, A Bilgin, ...",,,0,0
+Quantization with Lagrangian Distortion Measures,RM Gray,,,0,0
+Amy Heard Letters from the Gilded Age,RM Gray,,,0,0

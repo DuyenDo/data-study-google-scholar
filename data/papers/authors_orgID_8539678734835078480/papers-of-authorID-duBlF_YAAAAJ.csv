@@ -1,0 +1,486 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+An introduction to the bootstrap,"B Efron, RJ Tibshirani",CRC press,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14105551085632142720,12807164049193453966,12178345031269564678,14290814929655465764,8126787819050552249,1956086597065961532",42247,1994
+Bootstrap methods: another look at the jackknife,B Efron,"Breakthroughs in statistics, 569-593",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17404696390119795632,18693,1992
+"The jackknife, the bootstrap, and other resampling plans",B Efron,Siam,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12577715532718471799,16492601861716743293,7399374011548766604",10170,1982
+Least angle regression,"B Efron, T Hastie, I Johnstone, R Tibshirani","The Annals of statistics 32 (2), 407-499",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13118771729780068256,8951,2004
+"Bootstrap methods for standard errors, confidence intervals, and other measures of statistical accuracy","B Efron, R Tibshirani","Statistical science, 54-75","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10942358870726911931,3260620233562422312",6037,1986
+"A leisurely look at the bootstrap, the jackknife, and cross-validation","B Efron, G Gong","The American Statistician 37 (1), 36-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2684794930944220606,3782,1983
+Better bootstrap confidence intervals,B Efron,"Journal of the American statistical Association 82 (397), 171-185",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15329092696534849672,3319,1987
+The Dantzig selector: Statistical estimation when p is much larger than n,"E Candes, T Tao","The annals of Statistics 35 (6), 2313-2351",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9582013477817269729,3246,2007
+Estimating the error rate of a prediction rule: improvement on cross-validation,B Efron,"Journal of the American statistical association 78 (382), 316-331",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=335454011178377283,2584,1983
+Empirical Bayes analysis of a microarray experiment,"B Efron, R Tibshirani, JD Storey, V Tusher","Journal of the American statistical association 96 (456), 1151-1160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12957342521212088130,1894,2001
+Improvements on cross-validation: the 632+ bootstrap method,"B Efron, R Tibshirani","Journal of the American Statistical Association 92 (438), 548-560",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6667128380268251923,1619,1997
+Bootstrap confidence intervals,"TJ DiCiccio, B Efron","Statistical science, 189-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5230915487276474183,1550,1996
+"Nonparametric estimates of standard error: the jackknife, the bootstrap and other methods",B Efron,"Biometrika 68 (3), 589-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8034891392951809655,1414,1981
+Computer-intensive methods in statistics,"P Diaconis, B Efron","Scientific American 248 (5), 116-131",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14558347648956197403,1406,1983
+Transcriptional adaptation of Mycobacterium tuberculosis within macrophages: insights into the phagosomal environment,"D Schnappinger, S Ehrt, MI Voskuil, Y Liu, JA Mangan, IM Monahan, ...","Journal of Experimental Medicine 198 (5), 693-704",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13080501969059635393,1398,2003
+The efficiency of Cox's likelihood function for censored data,B Efron,"Journal of the American statistical Association 72 (359), 557-565",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8586014667339753569,1386,1977
+The jackknife estimate of variance,"B Efron, C Stein","The Annals of Statistics, 586-596",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10251928269572971701,1262,1981
+Statistical data analysis in the computer age,"B Efron, R Tibshirani","Science 253 (5018), 390-395",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10840666570809183865,1258,1991
+Stein's estimation rule and its competitors—an empirical Bayes approach,"B Efron, C Morris","Journal of the American Statistical Association 68 (341), 117-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13380939255114796941,1110,1973
+The two sample problem with censored data,B Efron,Proceedings of the fifth Berkeley symposium on mathematical statistics and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6026810609485699496,1054,1967
+Computers and the theory of statistics: thinking the unthinkable,B Efron,"SIAM review 21 (4), 460-480",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6372383399838473277,1018,1979
+Large-scale simultaneous hypothesis testing: the choice of a null hypothesis,B Efron,"Journal of the American Statistical Association 99 (465), 96-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12609720132594358075,976,2004
+Assessing the accuracy of the maximum likelihood estimator: Observed versus expected Fisher information,"B Efron, DV Hinkley","Biometrika 65 (3), 457-483","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12495322129527919865,2816176213247596968,8952760444623419604",974,1978
+Data analysis using Stein's estimator and its generalizations,"B Efron, C Morris","Journal of the American Statistical Association 70 (350), 311-319",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6208261065379644186,972,1975
+On testing the significance of sets of genes,"B Efron, R Tibshirani","The annals of applied statistics 1 (1), 107-129",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8473589954514653110,845,2007
+"Large-scale inference: empirical Bayes methods for estimation, testing, and prediction",B Efron,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2135207906239046712,834,2012
+Nonparametric standard errors and confidence intervals,B Efron,"canadian Journal of Statistics 9 (2), 139-158",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10723372386757931175,833,1981
+Bootstrap confidence levels for phylogenetic trees,"B Efron, E Halloran, S Holmes","Proceedings of the National Academy of Sciences 93 (23), 13429-13429",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15398207120961797728,829,1996
+Forcing a sequential experiment to be balanced,B Efron,"Biometrika 58 (3), 403-417",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14491981092598989360,823,1971
+"Logistic regression, survival analysis, and the Kaplan-Meier curve",B Efron,"Journal of the American statistical Association 83 (402), 414-425",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3985503266236778601,819,1988
+Defining the curvature of a statistical problem (with applications to second order efficiency),B Efron,"The Annals of Statistics 3 (6), 1189-1242",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10491466423952347822,798,1975
+Censored data and the bootstrap,B Efron,"Journal of the American Statistical Association 76 (374), 312-319",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7259578994686727498,751,1981
+The efficiency of logistic regression compared to normal discriminant analysis,B Efron,"Journal of the American Statistical Association 70 (352), 892-898",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1490854990568412735,739,1975
+Empirical Bayes methods and false discovery rates for microarrays,"B Efron, R Tibshirani","Genetic epidemiology 23 (1), 70-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14838053806391749154,720,2002
+Stein's paradox in statistics,"B Efron, C Morris","Scientific American 236 (5), 119-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15522340668028971336,712,1977
+How biased is the apparent error rate of a prediction rule?,B Efron,"Journal of the American statistical Association 81 (394), 461-470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4002000703530675456,668,1986
+Ecological effects of an insect introduced for the biological control of weeds,"SM Louda, D Kendall, J Connor, D Simberloff","Science 277 (5329), 1088-1090",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12137992133233533659,559,1997
+Estimating the number of unseen species: How many words did Shakespeare know?,"B Efron, R Thisted","Biometrika 63 (3), 435-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4735532889738315978,538,1976
+"Missing data, imputation, and the bootstrap",B Efron,"Journal of the American Statistical Association 89 (426), 463-475",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17954711559835571103,481,1994
+Double exponential families and their use in generalized linear regression,B Efron,"Journal of the American Statistical Association 81 (395), 709-721",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9772729360291445965,472,1986
+Why isn't everyone a Bayesian?,B Efron,"The American Statistician 40 (1), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17532081153678067678,447,1986
+The estimation of prediction error: covariance penalties and cross-validation,B Efron,"Journal of the American Statistical Association 99 (467), 619-632",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5284686865091351969,437,2004
+Computer age statistical inference,"B Efron, T Hastie",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14080312884412862535,423,2016
+Correlation and large-scale simultaneous significance testing,B Efron,"Journal of the American Statistical Association 102 (477), 93-103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14380399754712292837,408,2007
+Limiting the risk of Bayes and empirical Bayes estimators—Part II: The empirical Bayes case,"B Efron, C Morris","Journal of the American Statistical Association 67 (337), 130-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15149228702211306142,405,1972
+A predictive morphometric model for the obstructive sleep apnea syndrome,"CA Kushida, B Efron, C Guilleminault","Annals of Internal Medicine 127 (8_Part_1), 581-587",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9527848669365128643,398,1997
+Bootstrap confidence intervals for a class of parametric problems,B Efron,"Biometrika 72 (1), 45-58",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9310347384817236113,389,1985
+"Microarrays, empirical Bayes and the two-groups model",B Efron,"Statistical science 23 (1), 1-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13169596913067281596,384,2008
+Regression and ANOVA with zero-one data: Measures of residual variation,B Efron,"Journal of the American Statistical Association 73 (361), 113-121",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1467854931719881856,384,1978
+Compliance as an explanatory variable in clinical trials,"B Efron, D Feldman","Journal of the American Statistical Association 86 (413), 9-17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=53546462234917542,367,1991
+Impact of HIV-1 subtype and antiretroviral therapy on protease and reverse transcriptase genotype: results of a global collaboration,"R Kantor, DA Katzenstein, B Efron, AP Carvalho, B Wynhoven, P Cane, ...","PLoS medicine 2 (4), e112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14717039624283314003,362,2005
+"Size, power and false discovery rates",B Efron,"The Annals of Statistics 35 (4), 1351-1377",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4820963555217555954,353,2007
+The effect of high-dose saquinavir on viral load and CD4+ T-cell counts in HIV-infected patients,"JM Schapiro, MA Winters, F Stewart, B Efron, J Norris, MJ Kozal, ...","Annals of Internal Medicine 124 (12), 1039-1050",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15389881306081611233,328,1996
+Infectious complications among 620 consecutive heart transplant patients at Stanford University Medical Center,"JG Montoya, LF Giraldo, B Efron, EB Stinson, P Gamberg, S Hunt, ...","Clinical infectious diseases 33 (5), 629-640",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9869685522368365582,306,2001
+The geometry of exponential families,B Efron,"The Annals of Statistics 6 (2), 362-376",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17205446143036450441,304,1978
+The convex hull of a random set of points,B Efron,"Biometrika 52 (3-4), 331-343","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17304085200011474923,3568853996722213415",303,1965
+RA Fisher in the 21st century,B Efron,"Statistical Science, 95-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11531716775813033665,282,1998
+Testing for independence in a two-way table: new interpretations of the chi-square statistic,"P Diaconis, B Efron","The Annals of Statistics, 845-874",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3698576799445235114,270,1985
+Limiting the risk of Bayes and empirical Bayes estimators—part I: the Bayes case,"B Efron, C Morris","Journal of the American Statistical Association 66 (336), 807-815",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12687089696329791866,259,1971
+Empirical Bayes on vector observations: An extension of Stein's method,"B Efron, C Morris","Biometrika 59 (2), 335-347",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14957110345342856692,255,1972
+HIV-1 genotypic resistance patterns predict response to saquinavir–ritonavir therapy in patients in whom previous protease inhibitor therapy had failed,"AR Zolopa, RW Shafer, A Warford, JG Montoya, P Hsu, D Katzenstein, ...","Annals of internal medicine 131 (11), 813",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7491920789887220809,251,1999
+Student's t-test under symmetry conditions,B Efron,"Journal of the American Statistical Association 64 (328), 1278-1302",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9138341312633096936,241,1969
+More efficient bootstrap computations,B Efron,"Journal of the American Statistical Association 85 (409), 79-89",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2946437043855412861,239,1990
+Jackknife‐after‐bootstrap standard errors and influence functions,B Efron,Journal of the Royal Statistical Society: Series B (Methodological) 54 (1 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7839028447231926277,238,1992
+Families of minimax estimators of the mean of a multivariate normal distribution,"B Efron, C Morris","The Annals of Statistics, 11-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1931827992194832806,232,1976
+Regression percentiles using asymmetric squared error loss,B Efron,"Statistica Sinica, 93-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8021607804244375918,228,1991
+Estimation and accuracy after model selection,B Efron,"Journal of the American Statistical Association 109 (507), 991-1007",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18038074662747917897,223,2014
+"Bayesians, frequentists, and scientists",B Efron,"Journal of the American Statistical Association 100 (469), 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13971659133977115058,222,2005
+Combining possibly related estimation problems,"B Efron, C Morris",Journal of the Royal Statistical Society: Series B (Methodological) 35 (3 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10878896924982061071,222,1973
+Confidence intervals for random forests: The jackknife and the infinitesimal jackknife,"S Wager, T Hastie, B Efron","The Journal of Machine Learning Research 15 (1), 1625-1651",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8253092049328534436,218,2014
+Second thoughts on the bootstrap,B Efron,"Statistical Science 18 (2), 135-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16616853322362311290,215,2003
+Did Shakespeare write a newly-discovered poem?,"R Thisted, B Efron","Biometrika 74 (3), 445-455",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16812601454441282818,208,1987
+Multivariate empirical Bayes and estimation of covariance matrices,"B Efron, C Morris","The Annals of Statistics 4 (1), 22-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16226588309926326887,203,1976
+"tibshirani, RJ 1993. An introduction to the bootstrap",B Efron,Monographs on statistics and Applied Probability 57,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17564814837607771525,12177879761496146665,12908547159555525477",194,84
+"The jackknife, the bootstrap and other resampling plans, Philadelphia",B Efron,Society for Industrial and applied Mathematics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2718860815680173904,192,1982
+Beyond tqm,L Harvey,"Quality in Higher Education 1 (2), 123-146","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7901588887041416343,4583017173627042521,3568447419662641781",191,1995
+Cross-validation and the bootstrap: Estimating the error rate of a prediction rule,"B Efron, RJ Tibshirani","Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6556407668958278763,177,1995
+Using specially designed exponential families for density estimation,"B Efron, R Tibshirani","The Annals of Statistics 24 (6), 2431-2461",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3056468800933745065,175,1996
+A simple test of independence for truncated data with applications to redshift surveys,"B Efron, V Petrosian","The Astrophysical Journal 399, 345-352",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3116132785023243658,172,1992
+An introduction to the bootstrap,RW Johnson,"Teaching Statistics 23 (2), 49-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12860050761793044694,169,2001
+"Robbins, empirical Bayes and microarrays",B Efron,"The annals of Statistics 31 (2), 366-378",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16573895714795779561,166,2003
+Empirical Bayes methods for combining likelihoods,B Efron,"Journal of the American Statistical Association 91 (434), 538-550",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5351215144783879566,166,1996
+Bootstrap confidence intervals: good or bad?,B Efron,"Psychological bulletin 104 (2), 293",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8182245145578866530,165,1988
+The bootstrap method for assessing statistical accuracy,"B Efron, R Tibshirani","Behaviormetrika 12 (17), 1-35",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12780833094411373809,165,1985
+"lars: Least angle regression, lasso and forward stagewise","T Hastie, B Efron",R package version 0.9-8,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11036782534221373347,13428529961174243217",163,2011
+The bootstrap and modern statistics,B Efron,"Journal of the American Statistical Association 95 (452), 1293-1296",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7131785056656007020,159,2000
+Maximum likelihood and decision theory,B Efron,"The annals of Statistics, 340-356",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7951594180463287253,151,1982
+Formalized data snooping based on generalized error rates,"JP Romano, AM Shaikh, M Wolf","Econometric Theory 24 (2), 404-447",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10433071398328440280,150,2008
+The problem of regions,"B Efron, R Tibshirani","The Annals of Statistics 26 (5), 1687-1718",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5119490356167354033,150,1998
+Nonparametric methods for doubly truncated data,"B Efron, V Petrosian","Journal of the American Statistical Association 94 (447), 824-834",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16455248516014783807,149,1999
+Pre-validation and inference in microarrays,"RJ Tibshirani, B Efron",Statistical applications in genetics and molecular biology 1 (1),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10198228784581697423,148,2002
+Bayes and likelihood calculations from confidence intervals,B Efron,"Biometrika 80 (1), 3-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18065110430531297928,143,1993
+A Cox regression model for the relative mortality and its application to diabetes mellitus survival data,"PK Andersen, K Borch-Johnsen, T Deckert, A Green, P Hougaard, ...","Biometrics, 921-932",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14482057906521614261,143,1985
+Biased versus unbiased estimation,B Efron,"Advances in Mathematics 16 (3), 259-277",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16811851047994748146,141,1975
+Bayes' theorem in the 21st century,B Efron,"Science 340 (6137), 1177-1178",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14308191220806165198,134,2013
+Local false discovery rates,B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1997075432544045226,131,2005
+Prognostic indicators of laparotomy findings in clinical stage I-II supradiaphragmatic Hodgkin's disease.,"MH Leibenhaut, RT Hoppe, B Efron, J Halpern, T Nelsen, SA Rosenberg","Journal of Clinical Oncology 7 (1), 81-91",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5604367938804956589,128,1989
+Fisher's information in terms of the hazard rate,"B Efron, IM Johnstone","The Annals of Statistics 18 (1), 38-62",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5711869807352573546,125,1990
+More accurate confidence intervals in exponential families,"T Diciccio, B Efron","Biometrika 79 (2), 231-245",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4347709580408294355,123,1992
+Tweedie’s formula and selection bias,B Efron,"Journal of the American Statistical Association 106 (496), 1602-1614",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2633968055846641947,116,2011
+Tibshirani (1993),B Efron,An introduction to the bootstrap 57,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7546159121740637000,113,86
+Microarrays and their use in a comparative experiment,"B Elton, R Tibshirani, V Goss, G Chu, SG Chu",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3345988627342851413,112,2000
+Simultaneous inference: When should hypothesis testing problems be combined?,B Efron,"The annals of applied statistics 2 (1), 197-223",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1473805674886037829,106,2008
+Orcadian Rhythms and Enhanced Athletic Performance in the National Football League,"RS Smith, C Guilleminault, B Efron","Sleep 20 (5), 362-365",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1825300785540821126,106,1997
+Empirical Bayes estimates for large-scale prediction problems,B Efron,"Journal of the American Statistical Association 104 (487), 1015-1028",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15313654424297857578,104,2009
+16th Report,WHO Expert Committee on Drug Dependence,WHO,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2779284708188818963,8740567678421738286,13442177276233990746,18301400409241276940",103,1969
+The Annals of Statistics,"B Efron, C Stein","Bootstrap method: another look at the jackknife 7, 1-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15834928590350159061,100,1979
+Dynamic Bayesian forecasting of presidential elections in the states,DA Linzer,"Journal of the American Statistical Association 108 (501), 124-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5071215109316073626,99,2013
+Correlated z-values and the accuracy of large-scale statistical estimates,B Efron,"Journal of the American Statistical Association 105 (491), 1042-1055","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11920890078187627070,9670297540946101577",98,2010
+Increasing properties of Pólya frequency function,B Efron,"The Annals of Mathematical Statistics, 272-279",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=119705347090624498,97,1965
+RJ 1993 An Introduction to the Bootstrap,"BT Efron, R Tibshirani",Monographs on Statistics and Applied Probability 57,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10047136636410731310,94,1981
+Signature patterns of gene expression in mouse atherosclerosis and their correlation to human coronary disease,"R Tabibiazar, RA Wagner, EA Ashley, JY King, R Ferrara, JM Spin, ...","Physiological genomics 22 (2), 213-226",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10673506457023557748,93,2005
+Controversies in the foundations of statistics,B Efron,"The American Mathematical Monthly 85 (4), 231-246",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13129283591482622312,92,1978
+Didanosine resistance in HIV-infected patients switched from zidovudine to didanosine monotherapy,"MJ Kozal, K Kroodsma, MA Winters, RW Shafer, B Efron, DA Katzenstein, ...","Annals of internal medicine 121 (4), 263-268",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7973167472154771707,91,1994
+Transformation theory: How normal is a family of distributions?,B Efron,"The Annals of Statistics, 323-339",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13470056772814511716,91,1982
+Computer-intensive methods in statistical regression,B Efron,"Siam Review 30 (3), 421-449",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13590250504069836210,84,1988
+"Microarrays empirical bayes methods, and false discovery rates","B Efron, JD Storey, R Tibshirani","Department of Statistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4709990028085830662,81,2001
+The ‘miss rate’for the analysis of gene expression data,"J Taylor, R Tibshirani, B Efron","Biostatistics 6 (1), 111-117",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15487161842380666163,80,2005
+Comparing non-nested linear models,B Efron,"Journal of the American Statistical Association 79 (388), 791-803",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6698699107262388993,79,1984
+"The jackknife, the bootstrap, and other resampling plans, CBMS-NSF Reg",B Efron,"Conf. Ser. Appl. Math 38, 92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=114994788279824420,74,1982
+Discussion: The Dantzig selector: Statistical estimation when p is much larger than n,"B Efron, T Hastie, R Tibshirani","The Annals of Statistics 35 (6), 2358-2364",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16286048225265085805,69,2007
+Application of the bootstrap statistical method to the tau-decay-mode problem,"KG Hayes, ML Perl, B Efron","Physical Review D 39 (1), 274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16717494290181389033,68,1989
+Six questions raised by the bootstrap,B Efron,"Exploring the limits of bootstrap, 99-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8177594596879828973,67,1992
+Bayesian inference and the parametric bootstrap,B Efron,"The annals of applied statistics 6 (4), 1971",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17862969013773354731,66,2012
+"An Introduction to the Bootstrap, volume 57 of","B Efron, RJ Tibshirani","Monographs on Statistics and applied probability, 17",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13954368180296358582,65,1993
+Clinical resistance patterns and responses to two sequential protease inhibitor regimens in saquinavir and reverse transcriptase inhibitor—experienced persons,"J Lawrence, J Schapiro, M Winters, J Montoya, A Zolopa, R Pesano, ...","The Journal of infectious diseases 179 (6), 1356-1364",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=371997674435157707,62,1999
+Permutation tests,"B Efron, RJ Tibshirani","An introduction to the bootstrap, 202-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18135854603504747623,61,1993
+Studies on toxoplasmosis in El Savador prevalence and incidence of toxoplasmosis as measured by the Sabin-Feldman dye test,"JS Remington, B Efron, E Cavanaugh, HJ Simon, A Trejos",Transactions of the Royal Society of Tropical Medicine and Hygiene 64 (2 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16839663477315857521,61,1970
+Scales of evidence for model selection: Fisher versus Jeffreys,"B Efron, A Gous, RE Kass, GS Datta, P Lahiri","Lecture Notes-Monograph Series, 208-256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13604669145405704676,58,2001
+Computer intensive methods in statistics,"B Efron, P Diaconis","Scientific American 248 (5), 116-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10652761808518350762,58,1983
+Volume of,B Efron,"The jackknife, the bootstrap, and other resampling plans 38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3391577358321599549,58,1982
+"The bootstrap, jacknife and other resampling plans",B Efron,Philadelphia: sIAM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1410556586234651501,58,1982
+1993,"B Efron, RJ Tibshirani",An introduction to the bootstrap,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18091352501641349195,58,0
+Chapman & Hall,"B Efron, RJ Tibshirani",New York,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10123814901891298774,57,1993
+Randomizing and balancing a complicated sequential experiment,B Efron,"Biostatistics Casebook, 19-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10114144152783884047,56,1980
+Monographs on statistics and applied probability,"DR Cox, DV Hinkley, D Rubin, BW Silverman",Chapman & Hall,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15359032237412671832,54,1984
+Are a set of microarrays independent of each other?,B Efron,"The annals of applied statistics 3 (3), 922",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1429173510970774455,53,2009
+Poisson overdispersion estimates based on the method of asymmetric maximum likelihood,B Efron,"Journal of the American Statistical Association 87 (417), 98-107",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12319919845760090777,52,1992
+The length heuristic for simultaneous hypothesis tests,B Efron,"Biometrika 84 (1), 143-157",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4297311205255336043,50,1997
+Biostatistics casebook,RG Miller,John Wiley & Sons,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=624448603112639342,49,1980
+Effect of perioperative gabapentin on postoperative pain resolution and opioid cessation in a mixed surgical cohort: a randomized clinical trial,"J Hah, SC Mackey, P Schmidt, R McCue, K Humphreys, J Trafton, B Efron, ...","JAMA surgery 153 (4), 303-311",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13034737865218271643,48,2018
+Does an observed sequence of numbers follow a simple rule?(Another look at Bode's law),B Efron,"Journal of the American Statistical Association 66 (335), 552-559","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=908089921003517324,16370965111125593411",48,1971
+Number of lymph nodes removed and survival after gastric cancer resection: an analysis from the US Gastric Cancer Collaborative,"S Gholami, L Janson, DJ Worhunsky, TB Tran, MH Squires III, LX Jin, ...","Journal of the American College of Surgeons 221 (2), 291-299",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6120536792512658635,47,2015
+The future of indirect evidence,B Efron,Statistical science: a review journal of the Institute of Mathematical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=167452555318192593,45,2010
+The bootstrap and markov-chain monte carlo,B Efron,"Journal of biopharmaceutical statistics 21 (6), 1052-1062",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=326957930865943385,44,2011
+Selection criteria for scatterplot smoothers,B Efron,"The Annals of Statistics 29 (2), 470-505",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3433988039361600247,44,2001
+Mouse strain–specific differences in vascular wall gene expression and their relationship to vascular disease,"R Tabibiazar, RA Wagner, JM Spin, EA Ashley, B Narasimhan, EM Rubin, ...","Arteriosclerosis, thrombosis, and vascular biology 25 (2), 302-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15652396755208471313,42,2005
+How broad is the class of normal scale mixtures?,"B Efron, RA Olshen","The Annals of Statistics 6 (5), 1159-1164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15215642874458170372,42,1978
+Resampling methods of estimation,"B Efron, D Rogosa, R Tibshirani",Elsevier,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1226700058549701703,40,2015
+"A 250-year argument: Belief, behavior, and the bootstrap",B Efron,"Bulletin of the American Mathematical Society 50 (1), 129-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16790208902289852276,40,2013
+Imprecision of creatinine-based GFR estimates in uninephric kidney donors,"JC Tan, B Ho, S Busque, K Blouch, G Derby, B Efron, BD Myers","Clinical Journal of the American Society of Nephrology 5 (3), 497-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18245751523725496188,40,2010
+The electromagnetic field of a vertical dipole on the dielectric-coated imperfect conductor,"HQ Zhang, K Li, WY Pan","Journal of Electromagnetic Waves and Applications 18 (10), 1305-1320","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16998019894662799861,3656981078024648415",40,2004
+"Thejackknife, thebootstrapandotherresamplingplans",B Efron,"SIAM, Philadelphia",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16620934028551606468,40,1982
+Risk for retinitis in patients with AIDS can be assessed by quantitation of threshold levels of cytomegalovirus DNA burden in blood,"L Rasmussen, D Zipeto, RA Wolitz, A Dowling, B Efron, TC Merigan","Journal of Infectious Diseases 176 (5), 1146-1155",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5330052458350015092,39,1997
+Empirical Bayes deconvolution estimates,B Efron,"Biometrika 103 (1), 1-20",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4289924811859871793,38,2016
+Smoothers and the ,"SC Kou, B Efron","Journal of the American Statistical Association 97 (459), 766-782",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5436520647526775350,38,2002
+CBMS-NSF regional conference series in applied mathematics,B Efron,Philadelphia: Society for Industrial and Applied Mathematics (SIAM),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4499399858397544964,38,1982
+Large deviations theory in exponential families,"B Efron, D Traux","The Annals of Mathematical Statistics 39 (5), 1402-1424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6222374307497419887,38,1968
+Geometrical probability and random points on a hypersphere,"TM Cover, B Efron","The Annals of Mathematical Statistics, 213-220",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9679801941301803767,38,1967
+Nonconventional Methods of Multivariate Statistical Analysis,B Efron,"Financy i Statistika, Moscow",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7482087483213893357,37,1988
+Frequentist accuracy of Bayesian estimates,B Efron,Journal of the Royal Statistical Society: Series B (Statistical Methodology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6116230799846382824,36,2015
+Netradicionnyje metody mnogomernogo statističeskogo analiza: sbornik statej,B Efron,Finansy i statistika,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2636376883736292239,36,1988
+"Large-scale inference, volume 1 of Institute of Mathematical Statistics (IMS) Monographs",B Efron,"Cambridge University Press, Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11484831955706186643,35,2010
+Cross-validation and other estimates of prediction error,"B Efron, RJ Tibshirani","An introduction to the bootstrap, 237-257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13425000700952994591,35,1993
+The impact of circadian misalignment on athletic performance in professional football players,"RS Smith, B Efron, CD Mah, A Malhotra","Sleep 36 (12), 1999-2001",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7091162463241942321,34,2013
+locfdr: Computes local false discovery rates,"B Efron, B Turnbull, B Narasimhan","R package version 1, 1-7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4518233620148179617,34,2011
+Efficiency of linear estimators under heavy-tailedness: convolutions of α-symmetric distributions,R Ibragimov,"Econometric Theory 23 (3), 501-517",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10201078293783379405,34,2007
+"Discussion: jackknife, bootstrap and other resampling methods in regression analysis",B Efron,"The Annals of Statistics 14 (4), 1301-1304",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9420901757470044594,33,1986
+Hotelling's T2 test under symmetry conditions,"ML Eaton, B Efron","Journal of the American Statistical Association 65 (330), 702-711",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11380805857213808909,33,1970
+Two modeling strategies for empirical Bayes estimation,B Efron,Statistical science: a review journal of the Institute of Mathematical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10233543381853019096,32,2014
+"Discussion on maximum likelihood from incomplete data via the EM algorithm (by A. Dempster, N. Liard, and D. Rubin)",B Efron,"Journal of the Royal Statistical Society, 1-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1758608081440600023,31,1977
+Prediction of early progression in recently diagnosed IgA nephropathy,"KV Lemley, RA Lafayette, G Derby, KL Blouch, L Anderson, B Efron, ...","Nephrology Dialysis Transplantation 23 (1), 213-222",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6491125226704236902,30,2007
+Survival analysis of the gamma-ray burst data,"B Efron, V Petrosian","Journal of the American Statistical Association 89 (426), 452-462",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=225605638443718126,29,1994
+Nontraditional methods of multidimensional statistical analysis,B Efron,Abstract of Papers,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1104525116782748520,28,1988
+Minimum volume confidence regions for a multivariate normal mean vector,B Efron,Journal of the Royal Statistical Society: Series B (Statistical Methodology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15484866030554796725,27,2006
+Modern science and the Bayesian-frequentist controversy,B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15213278201889492896,27,2005
+The two‐way proportional hazards model,B Efron,Journal of the Royal Statistical Society: Series B (Statistical Methodology …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8982817935326964876,27,2002
+Anomaly detection in images with smooth background via smooth-sparse decomposition,"H Yan, K Paynabar, J Shi","Technometrics 59 (1), 102-114",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11661380924222040107,25,2017
+Selection and estimation for large-scale simultaneous inference,B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4140505214140587619,24,2004
+The future of statistics,B Efron,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15582418042233218554,23,2009
+Bradley Efron: A conversation with good friends,"S Holmes, C Morris, R Tibshirani, B Efron","Statistical Science, 268-281",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16762298341696069879,23,2003
+Improving the usual estimator of a normal covariance matrix,"C Stein, B Efron, C Morris",Stanford University. Department of Statistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11812302242682793726,23,1972
+Effect of therapeutic immunization with recombinant gp160 HIV-1 vaccine on HIV-1 proviral DNA and plasma RNA: relationship to cellular immune responses,"SK Kundu, D Katzenstein, FT Valentine, C Spino, B Efron, TC Merigan","JAIDS Journal of Acquired Immune Deficiency Syndromes 15 (4), 269-274",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2201412350565656632,22,1997
+[Statistical Modeling: The Two Cultures]: Comment,B Efron,"Statistical Science 16 (3), 218-219","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10772200177445592491,2025316863119678863",21,2001
+On the correlation of angular position with time of occurrence of gamma-ray bursts,"V Petrosian, B Efron","The Astrophysical Journal 441, L37-L38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6577993093738843642,21,1995
+"Jackknife, bootstrap and other resampling methods in regression-analysis-discussion",B Efron,"Annals of Statistics 14 (4), 1301-1304",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=723454863998253790,21,1986
+False discovery rates and copy number variation,"B Efron, NR Zhang","Biometrika 98 (2), 251-271",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=905529551131070105,20,2011
+The available information for invariant tests of a unit root,P Marsh,"Econometric Theory 23 (4), 686-710",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16699894675782973201,20,2007
+The statistical century,B Efron,American Statistical Association,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10189214071085669975,20,2001
+Estimates of bias,"B Efron, RJ Tibshirani","An introduction to the bootstrap, 124-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142946670442201238,20,1993
+Anti-HER2 scFv-directed extracellular vesicle-mediated mRNA-based gene delivery inhibits growth of HER2-positive human breast tumor xenografts by prodrug activation,"JH Wang, AV Forterre, J Zhao, DO Frimannsson, A Delcayre, TJ Antes, ...","Molecular cancer therapeutics 17 (5), 1133-1142",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4698189801550988996,19,2018
+The 1977 RIETZ lecture,B Efron,"The Annals of Statistics 7 (1), 1-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4877348872868990698,18,1979
+Adaptive randomization biased coin design: Experience in a cooperative group clinical trial,"JF Hannigan, MM Koretz, E McGuigan, B Efron, BW Brown","Controlled Clinical Trials 1 (2), 175",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16139459535303206722,17,1980
+Le bootstrap et ses applications: Discrimination & régression,"B Efron, E Jolivet, R Hordan, ...",Cisia,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11793521770196326683,16,1995
+The power of the likelihood ratio test,B Efron,"The Annals of Mathematical Statistics 38 (3), 802-806",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15232123842598617960,16,1967
+A SiZer analysis of IP Flow start times,"JS Marron, F Hernandez-Campos, FD Smith","Lecture Notes-Monograph Series, 87-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11852640492247642917,15,2004
+Three Examples of Computer—Intensive Statistical Inference,B Efron,"Compstat, 423-431",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12504885024237648799,15,1988
+Probabilistic-geometric theorems arising from the analysis of contingency tables,"P Diaconis, B Efron","Contributions to the theory and application of statistics, 103-125",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3290686903484686889,15,1987
+[Why Isn't Everyone a Bayesian?]: Reply,B Efron,"The American Statistician 40 (1), 11-11","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10780380296070355046,17237126520709067380,7625837651412456920",15,1986
+Resistance mutations to zidovudine and saquinavir in patients receiving zidovudine plus saquinavir or zidovudine and zalcitabine plus saquinavir in AIDS clinical trials group 229,"JM Schapiro, J Lawrence, R Speck, MA Winters, B Efron, RW Coombs, ...","The Journal of infectious diseases 179 (1), 249-253",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8713911700530725680,14,1999
+Improvement in treatment abandonment in pediatric patients with cancer in Guatemala,"E Alvarez, M Seppa, S Rivas, L Fuentes, P Valverde, ...","Pediatric blood & cancer 64 (10), e26560",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11744070474788557187,13,2017
+Computer‐Intensive Statistical Methods,"B Efron, R Tibshirani",Wiley StatsRef: Statistics Reference Online,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=75015282618627682,13,2014
+Testing isotropy versus clustering of Gamma-Ray bursts,"B Efron, V Petrosian","The Astrophysical Journal 449, 216",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3329381502788500559,13,1995
+Hypothesis testing with the bootstrap,"B Efron, RJ Tibshirani","An introduction to the bootstrap, 220-236",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7630954067496373194,13,1993
+"Bayesians, frequentists, and physicists",B Efron,"PHYSTAT2003: Statistical Problems in Particle Physics, Astrophysics, and …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1111284692898460113,12,2003
+Empirical Bayes confidence intervals based on bootstrap samples: Comment,B Efron,"Journal of the American Statistical Association 82 (399), 754-754","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17260022350870192227,7151389263385100528,8149227438968686563",12,1987
+"Nonparametric estimates of standard error: the jackknife, the bootstrap, and other methods",B Efron,CA: Stanford Univ,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17696135710494711527,12,1980
+Statistical thinking for 21st century scientists,"DR Cox, B Efron","Science advances 3 (6), e1700768",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1350701959065709032,11,2017
+"Empirical Bayes modeling, computation and accuracy",B Efron,"Division of Biostatistics, STANFORD University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4957915619901227889,10,2013
+Doing thousands of hypothesis tests at the same time,B Efron,"Metron-International Journal of Statistics 65 (1), 3-21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3998397293716275010,10,2007
+"A comparison of phenotypic, genotypic and clinical/treatment history predictors of virological response to saquinavir/ritonavir salvage therapy in a clinic-based cohort","AR Zolopa, K Hertogs, R Shafer, P Dehertogh, V De Vroey, B Efron, ...","Antivir Ther 4 (suppl 1), 47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=861396115852441010,10,1999
+Jackknife-After-Bootstrap Standard Errors and Influence Functions,B Efron,Technical,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17983388244803752276,10,1990
+How biased is the apparent error rate of a logistic regression?,B Efron,"Journal of the American Statistical Association 81, 461-470",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17611247135293362998,10,1986
+CBMS-NSF Regional Conference Series in Applied Mathematics,"L Lovász, J Cushing, TG Kurtz, B Fornberg, N Flyer, S Winograd, G Salton, ...",SIAM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10241386118579948516,9,1986
+Move,BJ Peterson,Arizona State University,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3162849735566912362,14361272208134930413",8,2013
+Model Selection Estimation and Bootstrap Smoothing,B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12696798618205171467,8,2012
+Strong language on black swans,A Brown,"The American Statistician 61 (3), 195-197","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=324448077541033894,16311330360122711019",8,2007
+RA Fisher in the 21st Century I,B Efron,"Statistics for the 21st Century, 25-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=673121393778571055,8,2000
+[Why Isn't Everyone a Bayesian?]: Comment,H Chernoff,"The American Statistician 40 (1), 5-6",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15466712937340363277,8,1986
+Optimum evasion versus systematic search,B Efron,"Journal of the Society for Industrial and Applied Mathematics 12 (2), 450-457",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13565835360402871293,8,1964
+"Confidence Distribution, the Frequentist Distribution Estimator of a Parameter: A Review Discussions",B Efron,"International Statistical Review 81 (1), 41-42","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12460819023416673678,8074003718642272427",7,2013
+Comment on “Correlated z-values and the accuracy of large-scale statistical estimates” by Bradley Efron,A Schwartzman,"Journal of the American Statistical Association 105 (491), 1059","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6078163186368534014,14093758233345896843",7,2010
+R.. Tibshirani. Least angle regression,"B Efron, T Hastie, I Johnstone","Technical report, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=730804510990351968,7,2002
+Introduction to James and Stein (1961) estimation with quadratic loss,B Efron,"Breakthroughs in statistics, 437-442",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15645383568364745507,7,1992
+Allogeneic hematopoietic cell transplantation after failed autologous transplant for lymphoma using TLI and anti-thymocyte globulin conditioning,"AR Rezvani, AS Kanate, B Efron, S Chhabra, HE Kohrt, JA Shizuru, ...","Bone marrow transplantation 50 (10), 1286",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1016307433932936147,6,2015
+President’s corner: Life in a random universe,B Efron,"AMSTAT-News, December, 2-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1928783039453426332,6,2004
+Reply to: L. Breiman. Two cultures in statistical modeling. With discussion,B Efron,Statistical Science 16 (3),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9262414516853221601,6,2001
+Bayesian and frequentist model selection,"B Efron, A Gous","Stanford University, Division of Biostatistics",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4831695188204758500,6,1997
+Regression models,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 105-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5728291523147634891,6,1993
+Better approximate confidence intervals in exponential families,"T DiCiccio, B Efron",Stanford University. Division of Biostatistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13830343674352241968,6,1990
+Model selection and the bootstrap,B Efron,"Mathematical Social Sciences 5 (2), 236-236",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17231920222389052204,6,1983
+Exploring the influence of several factors on a set of censored data,S Leurgans,Biostatistics casebook. NY: John Wiley and Sons,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6724564724508665989,6,1980
+Outcomes following cardiac catheterization after congenital heart surgery,"SL Siehr, MH Martin, D Axelrod, B Efron, L Peng, SJ Roth, S Perry, ...","Catheterization and Cardiovascular Interventions 84 (4), 622-628",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6697040899400601759,5,2014
+WHO Technical Report Series,WHO FAO,"Geneva, Switzerland: World Health Organization","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1862976444994874257,16656234566415447045",5,2003
+"Statistics in the 20th century, and the 21st",B Efron,na,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=244661331137910276,5,2001
+Unconventional Methods for Multidimensional Statistical Analysis [Russian translation],B Efron,"Finansy i Statistika, Moscow",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13310658598939105951,5,1988
+Statistical theory and the computer,"B Efron, G Gong",Computer Science and Statistics: Proceedings of the 13th Symposium on the …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18020213114929002502,5,1981
+Discussion on the paper by Professor Dempster et al,B Efron,"Journal of the Royal Statistical Society, Ser. B 39, 29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4147454827864227752,5,1977
+"Bayes, Oracle Bayes and Empirical Bayes",B Efron,"Statistical Science 34 (2), 177-201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4429635871397784848,4,2019
+Curvature and inference for maximum likelihood estimates,B Efron,"The Annals of Statistics 46 (4), 1664-1692",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5499892792153233496,4,2018
+The Bayes deconvolution problem,B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17180610020206690532,4,2014
+Lars,"T Hastie, B Efron",R package,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10685002599370717343,4,2011
+Estimating separately personal exposure to ambient and nonambient particulate matter for epidemiology and risk assessment: why and how.,"MG Apte, AS Lefohn","Journal of the Air & Waste Management Association (1995) 51 (3), 322; author …","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14673062674520551462,18030276621726122899",4,2001
+Smoothers and the cost of model selection,B Efron,"Stanford University, Division of Biostatistics",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9506002820425027401,4,2000
+"Spurious Appearance of Mosaicism in Three Generations in One Family with a 3/b Translocation, 2: Statistical Model of the Chromosomal Abnormality","B Efron, RG Miller, BW Brown",Stanford University. Department of Statistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5369412847340513123,4,1971
+Problems in Probability of a Geometric Nature,B Efron,STANFORD UNIV CALIF,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1712420744170686451,4,1964
+Proteomic analysis of monolayer-integrated proteins on lipid droplets identifies amphipathic interfacial α-helical membrane anchors,"CI Pataki, J Rodrigues, L Zhang, J Qian, B Efron, T Hastie, JE Elias, ...","Proceedings of the National Academy of Sciences 115 (35), E8172-E8180",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1351493875145735526,3,2018
+Small-volume injections: evaluation of volume administration deviation from intended injection volumes,"MK Muffly, MI Chen, RE Claure, DR Drover, B Efron, WL Fitch, ...","Anesthesia & Analgesia 125 (4), 1192-1199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12245258588926519341,3,2017
+A G-modeling Program for Deconvolution and Empirical Bayes Estimation,"B Narasimhan, B Efron","Department of Statistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3696353323172470030,3,2016
+Natural exponential families,CN Morris,Wiley StatsRef: Statistics Reference Online,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6517092345279341588,9503645521875674088",3,2014
+Package ‘lars’,"T Hastie, B Efron, MT Hastie",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13917458184014582907,3,2013
+Adaptive estimators of a mean matrix: total least squares versus total shrinkage,R Beran,"Econometric Theory 24 (2), 448-471",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6143516257779355880,3,2008
+"Rejoinder: Microarrays, Empirical Bayes and the Two-Groups Model",B Efron,"Statistical Science 23 (1), 45-47",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3367826202884786131,3,2008
+"J, Bradley E",T DiCiccio,"Bootstrap confidence interval. Stat Sci 11 (3), 189-228","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2379054808030232166,6362028713856105269",3,1996
+[Bootstrap: More than a Stab in the Dark?]: Comment,B Efron,"Statistical Science 9 (3), 396-398",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14812345114803303288,3,1994
+Comment-Bootstrap: More than a Stab in the Dark?,B Efron,"Statistical Science 9 (3), 396-397",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10106053205875292932,3,1994
+Confidence intervals based on bootstrap “tables”,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 153-167",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8554519913823316092,3,1993
+Efficient bootstrap computations,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 338-357",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2578321499496358861,3,1993
+Multivariate analysis in the computer age,B Efron,"Multivariate Analysis: Future Directions 2, 451-471",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2016521336842720167,3,1993
+Some estimates for continuous data dependence and uniqueness results in linear thermoviscoelasticity,S Chiriţǎ,"Journal of thermal stresses 14 (4), 541-562",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1377708039073613791,3,1991
+Overdispersion Estimates Based on the Method of Asymmetric Maximum Likelihood,B Efron,Stanford University. Division of Biostatistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11316484720338748458,3,1989
+Discussion: theoretical comparison of bootstrap confidence intervals,B Efron,"The Annals of Statistics 16 (3), 969-972",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6405090542416835362,3,1988
+"Logistic regression, survival analysis, and the","KM Curve, B Efron",Journal of the American Statistical Association 83 (402),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=777272606623170355,3,1988
+Which of two measurements is better,B Efron,"Biostatistics Casebook Miller RG, Brown BW, Moses LE (Eds) New York: Wiley …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7840732402928504908,3,1980
+A distance theorem for exponential families,B Efron,"Proba. and Math. Stat 1 (1), 95-98",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1131327491901216977,3,1980
+Simultaneous Estimation of Parameters.,"B Efron, CN Morris",Rand Corporation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9745547667466822591,3,1972
+Student's t-test under non-normal conditions,B Efron,HARVARD UNIV CAMBRIDGE MA DEPT OF STATISTICS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16069627480806026416,3,1968
+Note on decision procedures for finite decision problems under complete ignorance,B Efron,"The Annals of Mathematical Statistics, 691-697",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15101897595184225903,3,1965
+An Introduction to the Bootstrap (Monograph on Statistics and Applied Probability). 1993,"B Efron, RJ Tibshirani",New York: Chapman & Hall View Article,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11187993881151687232,3,0
+A generalized Rasch model for manifest predictors A generalized Rasch model for manifest predictors,"CD Desjardins, O Bulut, TA Ackerman, MJ Gierl, CM Walker, RJ Adams, ...","Handbook of Educational Measurement and Psychometrics Using R 22 (3), 1-29",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14926742263430067877,2,2018
+Improvement of abandonment of therapy in pediatric patients with cancer in Guatemala,"E Alvarez, M Seppa, K Messacar, J Kurap, EA Sweet-Cordero, S Rivas, ...","Journal of Global Oncology 2 (3_suppl), 76s-76s",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1177292600517611927,2,2016
+Exploring value in congenital heart disease: an evaluation of inpatient admissions,"AY Shin, Z Hu, B Jin, S Lal, DN Rosenthal, B Efron, PJ Sharek, ...","Congenital heart disease 10 (6), E278-E287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14954454140046515738,2,2015
+locfdr Vignette Complete Help Documentation Including Usage Tips and Simulation Example,"B Efron, BB Turnbull, B Narasimhan",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8105867149509703245,2,2015
+Row and column correlations:(are a set of microarrays independent of each other?),B Efron,"Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16853202142009957286,2,2008
+The lars Package,"T Hastie, B Efron, MT Hastie",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8834106121040504529,2,2007
+"Size, power, and false discovery rates (2006)",B Efron,"Statistics Department, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12467293476976985488,2,2004
+Statistics as a unified discipline,B Efron,"Amstat News 319, 2-3",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7776254226913677126,2,2004
+But what do statisticians do?,B Efron,President’s Corner,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13646185704092188361,2,2004
+"RA Fisher in the 21"" Century",B Efron,"Statistics for the 21, 109-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4260827584808909254,2,2000
+A survey of bootstrap confidence intervals,"TJ DiCiccio, B Efron","Division of Biostatistics, Stanford University",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9242522347732442709,2,1995
+Statistics in the 21st century,B Efron,"Statistics and Computing 3 (4), 188-190",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6418225584391819777,2,1993
+Some results relevant to choice of sum and sum-of-product algorithms,"RA Thisted, M Abramowitz, IA Stegun, M Aitkin, G Tunnicliffe Wilson, ...","Elements of Statistical Computing: Numerical Computation 22 (2), 1-32",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=820204469329071956,2,1988
+International Symposium on Hodgkin's Disease. Session 6. Survival data and prognosis. Invited discussion: Forcing a sequential experiment to be balanced.,B Efron,"National Cancer Institute monograph 36, 571-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8281835697341549720,2,1973
+Simultaneous Estimation of Parameters,"C Morris, B Efron",RAND CORP SANTA MONICA CALIF,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1252861116004760774,2,1972
+Diskussion zu [27],BG Efron,"J. Allergy 7, 249",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4577610798441462170,2,1936
+"Prediction, Estimation, and Attribution",B Efron,Recorded address to the 2019 World Statistics Congress held in Kuala Lumpur …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12967168549866602319,1,2019
+SPECIAL SECTION IN MEMORY OF STEPHEN E. FIENBERG (1942-2016) AOAS EDITOR-IN-CHIEF 2013-2015,"T Gneiting, J Asher, A Carriquiry, R Davis, AP Dawid, B Efron, ...","ANNALS OF APPLIED STATISTICS 12 (2), III-X",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4490933904009075085,1,2018
+Regularization and variable selection via the elastic net,"Y Lee, L Rönnegård, M Noh, A Agresti, M Alam, L Rönnegård, X Shen, ...","Data Analysis Using Hierarchical Generalized Linear Models With R 112, 1-18",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6983331455753740158,1,2017
+A Statistically Significant Future for Bayes' Rule—Response,B Efron,"Science 341 (6144), 343-343",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9545266922560322863,1,2013
+Bayesian computation and the parametric bootstrap,B Efron,Working Paper,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17093833968137105698,1,2011
+A Two-Hundred-and-Fifty-Year Argument,B Efron,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10872058652732915519,1,2011
+The science of Bradley Efron: selected papers,CN Morris,Springer,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17548152639785688003,14438154373296318079",1,2008
+False discovery rates for evaluating information retrieval systems,"M Efron, B Efron",Under review,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17024071807173261822,1,2008
+Comment-Statistical Modeling: The Two Cultures,B Efron,"Statistical Science 16 (3), 218-219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14383383275647297432,1,2001
+Mi-croarrays and their use in a comparative experiment. Tech-nical Report 2000-37B,"B Efron, R Tibshirani, V Goss, G Chu",Stanford University. Available at http://www-stat stanford. edu/research,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6083412493356514242,1,2001
+Empirical bayes and the james-stein estimator,B Efron,Univ. Lect,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4243156018815266287,1,2000
+The philosophy of statistics-Comments,"P Armitage, MJR Healy, DR Cox, J Nelder, AP Dawid, JFC Kingman, ...","JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES D-THE STATISTICIAN 49, 319-337",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12875148851623266360,1,2000
+The Determination of Correlation and Distribution Functions for Multiply Truncated Data,"V Petrosian, A Maloney, B Efron","Bulletin of the American Astronomical Society 30, 831",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3664615667353634469,1,1998
+Standard errors and estimated standard errors,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 39-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3041710757524544487,1,1993
+The accuracy of a sample mean,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 10-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15703638896190408519,1,1993
+Discussion and further topics,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 392-397",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3464955237373650587,1,1993
+Random samples and probabilities,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 17-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9623825815244281867,1,1993
+More complicated data structures,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 86-104",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4444236181876399150,1,1993
+Permutation Tests of Independence for Truncated Data with Applications to Redshift Surveys,"B Efron, V PETROSIAN",Technical Report,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4261672509320354292,1,1992
+Regression with qualitative and quantitative variables: an alternating least-squares method with optimal scaling features,"TJ Hastie, RJ Tibshirani, TJ Hastie, RJ Tibshirani, TJ Hastie, RJ Tibshirani, ...","Generalized Additive Models 16 (C15), 1-8",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7900038063077681240,1,1990
+Discussion: An Ancillarity Paradox which Appears in Multiple Linear Regression,B Efron,"The Annals of Statistics 18 (2), 502-503",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17268678941423294105,1,1990
+"COMPUTER-INTENSIVE STATISTICAL-INFERENCE-A CITATION CLASSIC COMMENTARY ON BOOTSTRAP METHODS-ANOTHER LOOK AT THE JACKKNIFE BY EFRON, B.",B EFRON,"CURRENT CONTENTS/PHYSICAL CHEMICAL & EARTH SCIENCES, 16-16",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14739684142114888923,1,1989
+Jerzy Neyman,B EFRON,"Science 220 (4599), 827-828",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9687837607149930948,1,1983
+"Biostatistics Casebook, 2","J Hyde, S Leurgans, RG Miller, BW Brown, B Efron, MSJ Hu",Stanford University. Division of Biostatistics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2990184692277535988,1,1978
+Conditional Variance of the Maximum Likelihood Estimator,"Stanford University. Department of Statistics, B Efron, D Hinkley",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12369296308237624601,1,1977
+"Comments on the paper by Dawid, Stone and Zidek (1973)",B Efron,"JR Statist. Soc. B 35, 219",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=715051515441119233,1,1973
+Forcing a sequential experiment to be balanced,B Efron,"NATIONAL CANCER INSTITUTE MONOGRAPHS, 571-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17379869470863967605,1,1973
+"Comments on"" The Inference and Decision Models of Statistics.""","Stanford University. Department of Statistics, B Efron",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14616011092649746646,1,1969
+Linear Statistical Inference and its Applications.,B Efron,"Journal of the American Statistical Association 62 (317), 290-291",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18131656940517661235,1,1967
+THE DIVISION OF SPACE BY HYPERPLANES WITH APPLICATIONS TO GEOMETRICAL PROBABILITY.,"T Cover, B Efron",STANFORD UNIV CALIF DEPT OF STATISTICS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3766256720631341241,1,1965
+Standard particle swarm optimisation 2011 at CEC-2013: A baseline for future PSO improvements,"SD Mohanty, TW Anderson, M Birattari, M Dorigo, S Boixo, TF Rønnow, ...","Swarm Intelligence Methods for Statistical Regression 1 (3), xi-xiii",,0,2019
+"Rejoinder: Bayes, Oracle Bayes, and Empirical Bayes",B Efron,A Kernel Regression Procedure in the 3D Shape Space with an Application to …,,0,2019
+Package ‘GSA’,"B Efron, R Tibshirani, MR Tibshirani",,,0,2019
+Selection without replacement from within strata with probability proportional to size,"A Chaudhuri, AK Adhikary, A Chaudhuri, K Vijayan, SGP Ajgaonkar, ...","Survey Sampling 52 (3), xv-xvi",,0,2019
+Smooth non-parametric receiver operating characteristic (ROC) curves for continuous diagnostic tests,"A Vexler, J Yu, G Adimari, M Chiogna, N Altman, C Léger, JN Arvesen, ...","Empirical Likelihood Methods in Biomedicine and Health 22 (2), xiii-xv",,0,2019
+The Automatic Construction of Bootstrap Confidence Intervals,"B Efron, B Narasimhan",,,0,2018
+Congratulatory message,B Efron,"Information Geometry 1 (1), 9-9",,0,2018
+Quantile regression for interval censored data,"M van Kreveld, K Bogaerts, A Komárek, E Lesaffre, K Bogaerts, ...",Survival Analysis with Interval-Censored Data: A Practical Approach with …,,0,2018
+Spectral analysis of non-stationary time series,"S Efromovich, O Aalen, O Borgan, H Gjessing, S Adak, P Addison, J Allen, ...",Missing and Modified Data in Nonparametric Estimation: With R Examples 93 (1 …,,0,2018
+The mystery of missing heritability: Genetic interactions create phantom heritability,"RM Pfeiffer, MH Gail, O Aalen, O Aalen, O Borgan, H Gjessing, OO Aalen, ...",Absolute Risk: Methods and Applications in Clinical Management and Public …,,0,2018
+Statistical power analysis for growth curve models using SAS,"G Ralitza, A Agresti, A Agresti, C Ahn, M Heo, S Zhang, PD Allison, ...",Statistical Methods in Psychiatry and Related Fields: Longitudinal …,,0,2018
+Has Competition Lowered Prices?,"S Folland, AC Goodman, M Stano, R Aaberge, HJ Aaron, TA Abbott, ...","The Economics of Health and Health Care 94 (6), xxiii-xxvi",,0,2017
+Confidence interval estimation under inverse sampling,"MW Fagerland, S Lydersen, P Laake, MW Fagerland, S Lydersen, ...","Statistical Analysis of Contingency Tables 50 (50), 1-30",,0,2017
+"Charles Stein, 1920–2016",B Efron,Journal of the Royal Statistical Society: Series A (Statistics in Society …,,0,2017
+A Randomized Trial of Perioperative Gabapentin to Promote Pain Resolution and Opioid Cessation in a Mixed Surgical Cohort,"J Hah, S Mackey, B Efron, R Mccue, S Goodman, C Curtin, I Carroll","ANESTHESIA AND ANALGESIA 124, 813-817",,0,2017
+Semiparametric inference in generalized mixed effects models,"J Jiang, J Jiang, J Jiang, CE McCulloch, SR Searle, JM Neuhaus, ...","Asymptotic Analysis of Mixed Effects Models: Theory, Applications, and Open …",,0,2017
+The R function for obtaining the empirical likelihood ratio confidence interval estimation of best linear combinations of biomarkers,"A Vexler, AD Hutson, X Chen, A Airola, T Pahikkala, W Waegeman, ...","Statistical Testing Strategies in the Health Sciences 55 (4), 1-23",,0,2016
+Improving Mantel-Haenszel DIF estimation through Bayesian updating,"RJ Adams, M Wilson, W Wang, A Agresti, BA Coull, LS Aiken, SG West, ...","Bayesian Psychometric Modeling 21 (1), 1-1",,0,2016
+Package ‘locfdr’,"B Efron, B Turnbull, B Narasimhan, K Strimmer",,,0,2015
+IMPROVEMENT OF ABANDONMENT AND REFUSAL OF THERAPY IN PEDIATRIC PATIENTS WITH CANCER IN GUATEMALA AT UNIDAD NACIONAL DE ONCOLOGIA PEDIATRICA (UNOP),"E Alvarez, M Seppa, K Messacar, J Kurap, E Sweet-Cordero, S Rivas, ...","PEDIATRIC BLOOD & CANCER 61, S190-S190",,0,2014
+A Bayesian Nonparametric Modeling Framework for Developmental Toxicity Studies Rejoinder,B Efron,"JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION 109 (507), 1021-1022",,0,2014
+Thirteen rules,B Efron,"I The history of COPSS, 621",,0,2014
+Outcomes After Non-Myeloablative Allogeneic Hematopoietic Cell Transplantation with Total Lymphoid Irradiation and Anti-Thymocyte Globulin in Lymphoid Malignancies After Failed …,"AS Kanate, B Efron, S Chhabra, H Kohrt, JA Shizuru, GG Laport, ...","Biology of Blood and Marrow Transplantation 19 (2), S154-S155",,0,2013
+MATHEMATICAL PERSPECTIVES,B EFRON,"AMERICAN MATHEMATICAL SOCIETY 50 (1), 129-146",,0,2013
+Event history analysis: its contribution to modeling and causal inference,"WAV Clark, FM Dieleman, WAV Clark, FM Dieleman, PD Allison, ...","Households and Housing 7 (12), xix-xxii",,0,2012
+"Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction",P Westfall,"Journal of the American Statistical Association 106 (496), 1643-1644",,0,2011
+A Mixture Model Approach to Empirical Bayes Testing and Estimation,O Muralidharan,Stanford University,,0,2011
+Learning From the Experiences of Others,B Efron,Georgia Institute of Technology,,0,2010
+Correlated z-Values and the Accuracy of Large-Scale Statistical Estimates Rejoinder,B Efron,"JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION 105 (491), 1067-1069",,0,2010
+False discovery rates and the James-Stein estimator,B Efron,"Statistica Sinica 18 (3), 805-810",,0,2008
+The Science of Bradley Efron: Selected Papers,"B Efron, CN Morris, R Tibshirani",Springer,,0,2008
+"Bayesians, empirical Bayesians and Frequentists",B Efron,,,0,2007
+The locfdr Package,"B Efron, BB Turnbull, B Narasimhan, MB Efron",,,0,2007
+[Tukey's Paper after 40 Years]: Discussion,B Efron,"Technometrics 48 (3), 330-332",,0,2006
+Signature patterns of gene expression in mouse,"R Tibshirani, PS Tsao, B Efron, T Quertermous, R Ferrara, JM Spin, ...","Physiol Genomics 23 (2), 119-124",,0,2005
+Computes local false discovery rates,"B Efron, B Narasimhan",,,0,2005
+Division of Biostatistics Stanford University,B Efron,,,0,2005
+"贝叶斯学派统计学家, 频率学派统计学家和科学家",B Efron,统计与信息论坛 20 (4),,0,2005
+An introduction to rights.,D Darby,"ETHICS 115 (4), 812-816",,0,2005
+grant 8R01 EB002784-28 and by National Science Foundation grant DMS-0072360,B Efron,,,0,2003
+Reliability confidence intervals for ceramic components as obtained from bootstrap methods and neural networks.,"SMH Mojtahedi, SM Mousavi, A Aminian, Y Ait-Sahalia, J Duarte, ...","Journal of Applied Sciences 9 (1), 9-47",,0,2003
+RANTES gene transfected dendritic cells increase HIV specific immune responses.,"S Kundu-Raychaudhuri, A Song, A Krensky, B Efron, T Merigan, ...","CLINICAL IMMUNOLOGY 103 (3), S79-S80",,0,2002
+Pascal and Francis Bibliographic Databases,J Perrin,"Neuro-chirurgie (Paris) 48 (2-3), 2",,0,2002
+Smoothers and the C,"SC Kou, B Efron",,,0,2002
+Longitudinal data analysis: Some of the statistical issues arising in the analysis of perinatal mortality.,"MR Zadkarami, A Agresti, LM Ainsworth, CB Dean, M Aitkin, DA Anderson, ...","Journal of Applied Sciences 8 (17), Pages: 710-Pages: 710",,0,2002
+"Index of authors, volume 64, 2002","NM Adams, CC Holmes, R Anbazhagan, G Parmigiani, C Andrieu, ...",,,0,2002
+Theory and Methods of Statistics,GEBG Casella,"Statistics in the 21st Century, 288-507",,0,2001
+"Rejoinder to Discussions by RE Kass, GS Datta and P. Lahiri","B Efron, A Gous","Model selection, 254-256",,0,2001
+"fi"""" ﬁ2&&&;;; ofHealth; B¢ th=¢ g §§ ;’Mi § ﬁ A to A»'eeeeeeeeeeeeee J",B Efron,"JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION 95 (452), 1293-1296",,0,2000
+Department of Statistics Stanford University,B EFRON,,,0,1999
+Concise Communications-Resistance Mutations to Zidovudine and Saquinavir in Patients Receiving Zidovudine plus Saquinavir or Zidovudine and Zalcitabine plus Saquinavir in AIDS …,"JM Schapiro, J Lawrence, R Speck, MA Winters, B Efron, RW Coombs, ...","Journal of Infectious Diseases 179 (1), 249-253",,0,1999
+Computer-Intensive Hypothesis Testing,B Efron,"Quantitative Research Methods in the Social Sciences, 354",,0,1999
+[RA Fisher in the 21st Century]: Rejoinder,B Efron,"Statistical Science 13 (2), 121-122",,0,1998
+On Characterization of Linear Admissible Estimators of a Result Due to CR Rao,"MHJ Gruber, LC Adkins, LC Adkins, RC Hill, LC Adkins, RC Hill, ...",Improving Efficiency by Shrinkage: The James-Stein and Ridge Regression …,,0,1998
+Discurso de investidura como Doctor Honoris Causa del Profesor Doctor D. Bradley Efron,B Efron,,,0,1998
+"BE PRQTEQTTED BY QOPYMGHT LAW (TITLE 17, U.-S. CUB-E)","B Efron, R Tibshirani","J AM STAT ASSOC 92 (438), 548-560",,0,1997
+"Report No. 193, Division of Biostatistics, Stanford University.'","B Efron, A Gous",,,0,1997
+"DIVISION OF BIOSTATISTICS STANFORD UNIVERSITY STANFORD, CALIFORNIA","B EFRON, R TIBSHIRANI",,,0,1997
+Comments on ‘Extracorporeal circulation in neonatal respiratory failure: A prospective randomized study’by RH Bartlett,"R Richard, R Richard, FJ Anscombe, P Armitage, P Armitage, G Berry, ...","Statistical Evidence: A likelihood paradigm 26 (2), 1-34",,0,1997
+Bootstrap methods: Another look at the jackknife.,"H Midi, ZH Zamzuri, J Berkowitz, L Kilian, PJ Bickel, DA Freedman, ...","Journal of Applied Sciences 10 (18), pp: 28-48-pp: 28-48",,0,1997
+Biostatistical science as a discipline: a look into the future,"BS Yandell, A Agresti, JC Baskerville, DM Bates, DG Watts, RA Becker, ...","Practical Data Analysis for Designed Experiments 35, 1-46",,0,1997
+Asymptotic normality of the ‘synthetic data’regression estimator for censored survival data,"J Fan, I Gijbels, OO Aalen, OO Aalen, F Abramovich, DM Steinberg, ...","Local Polynomial Modelling and Its Applications 3 (12), 1-12",,0,1996
+Correlated binary regression using a quadratic exponential model,"D Hand, M Crowder, D Hand, M Crowder, D Hand, M Crowder, A Agresti, ...","Practical Longitudinal Data Analysis 8, 1-12",,0,1996
+Rejoinder-Empirical Bayes Methods for Combining Likelihoods,B Efron,"Journal of the American Statistical Association 91 (434), 538-565",,0,1996
+"NQTICE: THIS MATERIAL MAY BE PRGTECTED BY COPYRIGHT LAW (TITLE 17, us. com)","B Efron, R Tibshirani","ANNALS OF STATISTICS 24 (6), 2431-2461",,0,1996
+Comments on “bootstrapping time series models”,B Efron,"Econometric Reviews 15 (2), 159-164",,0,1996
+Bootstrap Conﬁdence Levels For Phylogenetic Trees,"B Efron, E Halloran, S Holmes",,,0,1995
+BOOTSTRAP CONFIDENCE IN TERVALS,"TJ DICICCIO, B EFRON",,,0,1995
+"STANFORD, CALIFORNIA",B Efron,,,0,1995
+Correlated binary responses using a quadratic exponential model,"M Davidian, DM Giltinan, T Amemiya, NS Aziz, JG Gambertoglio, ET Lin, ...","Nonlinear Models for Repeated Measurement Data 68 (11), 1-15",,0,1995
+AND I VA]-IE PETROSIANI,B EFRON,,,0,1995
+An Introduction to the Bootstrap,A Kimber,Journal of the Royal Statistical Society: Series D (The Statistician) 43 (4 …,,0,1994
+Using Survival Analysis Techniques in the Analysis of the Gamma-ray Burst Data,"B Efron, V Petrosian",Stanford University. Division of Biostatistics,,0,1994
+PREPARED UNDER THE AUSPICES OF NATIONAL SCIENCE FOUNDATION GRANT DMS92—04864,"B EFRON, V PETROSIAN",,,0,1994
+TESTING FOR CLUSTERS IN THE GAMMA-RAY-‘BURST DATA BY,"B Efron, V Petrosian",,,0,1994
+Distribution of peak counts of gamma‐rays bursts,"V Petrosian, WJ Azzam, B Efron","AIP Conference Proceedings 280 (1), 754-760",,0,1993
+The empirical distribution function and the plug-in principle,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 31-38",,0,1993
+Bootstrap standard errors: some examples,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 60-85",,0,1993
+Further topics in bootstrap confidence intervals,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 321-337",,0,1993
+Approximate likelihoods,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 358-371",,0,1993
+Assessing the error in bootstrap estimates,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 271-282",,0,1993
+An overview of nonparametric and parametric inference,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 296-320",,0,1993
+A geometrical representation for the bootstrap and jackknife,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 283-295",,0,1993
+Adaptive estimation and calibration,"B Efron, RJ Tibshirani","An Introduction to the Bootstrap, 258-270",,0,1993
+Prepared Under the Auspicesy,"B Efron, V Petrosian",,,0,1992
+VAHE PETROSIAN1,B EFRON,"THE ASTROPHYSICAL JOURNAL 399, 345-352",,0,1992
+"MISSING DATA,. IMPUTATION, AND ГНЕ BOOTSTRAP",B EFRON,,,0,1992
+With Applications to Redshift Surveys,"B Efron, V Petrosian",,,0,1992
+に関する ,B Efron,"数理解析研究所講究録 777, 139-146",,0,1992
+"STANFORD, CALIFORNIA","T DICICCIO, B EFRON",,,0,1991
+Complete sufficiency and maximum likelihood estimation for the two-parameter negative binomial distribution.,"MF Al-Khasawneh, SE Ahmed, SE Ahmed, M Al-Saleh, F Al-Batainah, ...","Asian Journal of Mathematics & Statistics 3 (1), 233-237",,0,1991
+"NOTE€ E: THIS MAY BE PROTECTED BY COPYRIGHT LAW (TITLE 17, US CQDE)","B EFRON, R TIBSHIRANI","SCIENCE 253 (50l8), 390-395",,0,1991
+SIX QUESTIONS RAISED BY THE,B EFRON,,,0,1990
+"THE ANNALS, SSN","DJ Berger, DG Casella, DJB Copas, DB Efron, DDAS Fraser, N Reíd, ...",The Annals of Statistics (ISSN 0090-5364) 18 (2),,0,1990
+Efficient computing of regression diagnostics.,"BA Syaiba, M Habshah, EJ Bedrick, JR Hill, BW Brown, RG Miller, B Efron, ...","Journal of Applied Sciences 10 (23), 815-827",,0,1990
+Reviewers for controlled clinical trials,"NK Aaronson, F Adkinson Jr, S Agras, P Armitage, M Austin, ...","Controlled Clinical Trials 11, 451-452",,0,1990
+A';—OO’§§ I ‘?{9&% ASTXI § ? I) 6gRD ERRORS,B EFRON,,,0,1990
+[The Unity and Diversity of Probability]: Comment,B Efron,"Statistical Science 5 (4), 450-450",,0,1990
+TECHNICAL REPORT NO. 128 JANUARY 1989,B EFRON,,,0,1989
+High breakdown point and high efficiency robust estimation for regression,"RJ Carroll, D Ruppert, L Abramowitz, K Singh, T Amemiya, T Amemiya, ...","Transfor mation and Weighting in Regression 13 (26), 1-8",,0,1988
+PUBLIC HEALTH SERVICE GRANT 5 ROI GM21215-13,B EFRON,,,0,1988
+Pascal and Francis Bibliographic Databases,L BODIN,"Plasma physics and controlled fusion 30 (14), 1991-2102",,0,1988
+these colleagues whos ity and effectiveness of our Journal. uri,"KR Aggarwal, K Alam, RL Andrews, S Andriole, JF Angers, R Arnab, ...","Journal of Statistical Planning and Inference 20, 237-238",,0,1988
+"What the hands reveal about the brain: H. Poizner, ES Klima and U. Bellugi,(A bradford book-MIT Press, London and Cambridge, MA, 1987) pp. xvii+ 236,£ 22.50",B Woll,"Biological Psychology 25 (3), 280-282",,0,1987
+Expression of the ,"P McCullagh, P McCullagh, M Aigner, SI Amari, SI Amari, M Kumon, ...","Tensor Methods in Statistics 1 (3), 1-23",,0,1987
+THE BAYESIANS REAL DILEMMA-REPLY,B EFRON,"AMERICAN STATISTICIAN 40 (4), 331-331",,0,1986
+6 SSTSS,"R THISTED, B EFRON",,,0,1986
+TECHNICAL REPORT NO. 107'AUGUST 1985,B EFRON,,,0,1985
+HON BIASED IS THE APPARENT ERROR RATE OF A LOGISTIC REGRESSION?,B EFRON,,,0,1985
+"THE ANNALS, SSNI009MM4","DN Breslow, D Moore, DJM Dickey, DSE Fienberg, DIJ Good, ...",,,0,1985
+PREPARED UNDER THE AUSPICES OF> NATIONAL SCIENCE FOUNDATION GRANT Mcsso-2ueu9,B EFRON,,,0,1984
+On the theory of screening for chronic diseases,"DR Cox, D Oakes, O Aalen, O Aalen, M Aitkin, M Aitkin, D Clayton, ...","Analysis of Survival Data 3, 1-12",,0,1984
+Neyman--From Life,B Efron,"Science 220 (4599), 827-828",,0,1983
+"A LeMiréíy ïook ät flie bootstrap, the Jackknife, and Cross-Validation","B EFRON, G GONG",The American Statistician 37 (1),,0,1983
+NOTICE: THIS MATERIAL MAY BE PROTECTED BY C ()? YRI? GH-IT LAW (TITLE 17 U S€ ODE),B EFRON,"AMERICAN STATISTICIAN 37 (1), 36-48",,0,1983
+TECHNICAL REPORT NO. 78 May 1982,B EFRON,,,0,1982
+Biostatistics Casebook,C White,"American Scientist 69 (3), 337-338",,0,1981
+"THE JACKKNIFE, THE B00TSTRAP, AND 0THER RESAMPLING PLANS",B EFRON,,,0,1980
+ﬁnal; C EBpL § nL N,B EFRON,,,0,1980
+"Department of Statistics Stanford University Stanford, California","B Efron, R TIBSHIRANI",,,0,1980
+"pivisión or IosAscs sano uvEs s ANFoRD, cALIFORNIA",B EFRON,,,0,1980
+Discussion of professor Berkson's paper,"JK Ghosh, L Le Cam, J Pfanzagl, CR Rao, B Efron","Annals of Statistics 8 (3), 469-485",,0,1980
+TECHNICAL REPORT NO. 115 JUNE 1978,B EFRON,,,0,1978
+Conditional Variance of the Maximum Likelihood Estimator,"D Hinkley, B Efron",University of Minnesota,,0,1977
+advanced) stage of the disease.,B Efron,"BIOSTATISTICS CASE BOOK, VOLUME ONE, 21",,0,1976
+Annotaded biostatistics bibliography,BW Brown,,,0,1976
+Stanford University and The Rand Corporation The problem of estimating several normal mean vectors in an empiri,"B EFRON, C MORRIS","The Annals of Statistics 4 (1), 22-32",,0,1976
+"Biostatistics Case Book, 1","S Wong, R Wolfe, BW Brown, B Efron, J Hyde",Stanford University. Division of Biostatistics,,0,1976
+Annotated Biostatistics Bibliography,"B Efron, BW Brown, RG Miller",Stanford University. Division of Biostatistics,,0,1976
+THE ANNALS,"B Efron, C Morris, RA Maronna, D Birkes, Y Dodge, J Seely, M Jirina",The Annals of Statistics 4 (1),,0,1976
+"TECHNICAL REPORT N00 15 NOVEMBER 24, 1975",B EFRON,,,0,1975
+"TECHNICAL REPORT NO. 54 MARCH 12, 1974",B EFRON,,,0,1974
+METHODOLOGY OF SIMULTANEOUS ESTIMATION,"B EFRON, C MORRIS","BIOMETRICS 30 (2), 378-378",,0,1974
+1. A BAYESIAN DERIVATION OF THE JAMES-STEIN ESTIMATOR,"B EFRON, C MORRIS","JASA 68 (341), 117",,0,1973
+AMERICAN STATISTICAL ASSOCIATION,"TF Cargill, GC Raviser, TP Líanos, GC Rausser, DG Morrison, B O'Neill, ...",JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION 67 (337),,0,1972
+Simultaneous estimation of parameters(Simultaneous estimation of parameters),"B EFRON, C MORRIS",,,0,1972
+Limiting the Risk of Bayes and Empirical Bayes Estimators: The Empirical Bayes Case,"B Efron, CN Morris",Rand,,0,1971
+The Emipiral Bayes Case,"B Efron, C Morris",Rand Corporation,,0,1971
+‘PREPARED UNDER THE AUSPICES _ ‘OF. NATIONAL SCIENCE FOUNDATION GRANT GP-15909,"BE BALANCED, B EFRON",,,0,1970
+On the identifiability of finite mixtures,"JS Maritz, T Lwin, J Aitchison, JA Aitchison, IR Dunsmore, C Atwood, ...","Empirical Bayes Methods 26, ix-x",,0,1970
+Tests of significance for 2× 2 contingency tables (with discussion),"DR Cox, EJ Snell, DR Cox, EJ Snell, DR Cox, EJ Snell, DR Cox, EJ Snell, ...","Analysis of Binary Data 49, 1-25",,0,1970
+"STANFORD, CALIFORNIA","DANOSOF NUMBERS, FAS RULE, B EFRON",,,0,1969
+NATIONAL SCIENCE F0UNDATI0N GRANT N0. GP-6681,"ML EATON, B EFRON",,,0,1968
+"Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at","M Dole, FR Wilson, WP Fife","Chem. Lett 3, 297",,0,1967
+GAUSSIAN DISTRIBUTIONS FOR RANDOM LINES PLANES AND HYPERPLANES,B EFRON,"ANNALS OF MATHEMATICAL STATISTICS 37 (3), 769-&",,0,1966
+The division of space by hyperplanes with applications to geometrical probability(Division of Euclidean space by hyperplanes with applications to geometrical probability),"T COVER, B EFRON",,,0,1965
+GEOMETRICAL PROPERTIES OF SOLUTIONS OF LINEAR INEQUALITIES (PRELIMINARY REPORT),"TM COVER, B EFRON","ANNALS OF MATHEMATICAL STATISTICS 36 (1), 363-&",,0,1965
+Pascal and Francis Bibliographic Databases,"B EFRON, RJ TIBSHIRANI",,,0,0
+Pascal and Francis Bibliographic Databases,RB HARMON,,,0,0
+"Green, PJ, 186 Greenwood, M., 139 Haberman, S., 173, 186 Halley, E., 50 Hannan, EJ, 99","OO Aalen, H Akaike, E Arjas, WG Bailey, I Balevich, S Baxter, RE Beard, ...",,,0,0
+Bayes’ Theorem in the Twenty-First Century,B Efron,,,0,0
+Monitoring HIV-1 Resistance across the Globe,"R Kantor, DA Katzenstein, B Efron, AP Carvalho, B Wynhoven",,,0,0
+"stable nuclear deterrence can be maintained. While several models suggest some of these conditions, none to my knowledge integrate and distinguish all conditions in an …",B Efron,,,0,0
+"A Leisurely Look at the Bootstrap, the Jackknife, and","B EFRON, G GONG",,,0,0
+La paradoja de Stein 1 en estadística,"B Efron, C Morris",,,0,0
+Foundations of Statistics Seminar Series,B Efron,,,0,0
+STATISTICS COLLOQUIUM,B Efron,,,0,0
+Empirical Bayes Deconvolution Problem,B Efron,,,0,0
+R Programming for Chihara and Hesterberg's Mathematical Statistics with Resampling and R,"B Efron, RJ Tibshirani",,,0,0
+Three 2nd Thoughts on Empirical Bayes Inference,B Efron,,,0,0
+Astroinformatics: A 21st Century Approach to Astronomy,"J Bloom, K Borne, R Brunner, N Butler, DF Chernoff, B Connolly, ...",,,0,0
+Acknowledgement of referees’ services,"JL Batun, R Berger, P Burman, R Carroll, C Cheng, DR Cox, ...",,,0,0
+Bayes and Empirical Bayes Information (Learning from the experience of others),B Efron,,,0,0
+CERN Document Server,"KS Cranmer, K Cranmer, B Efron, P Stark, F Terranova, ...",,,0,0
+Supplementary Materials for False Discovery Rates and Copy Number Variation,"B Efron, N Zhang",,,0,0
+"Baseball, Shakespeare, and Modern Statistical Theory",B Efron,,,0,0
+Bootstrap Methods and the Accuracy of Large-Scale Estimators,B Efron,,,0,0
+Is a Set of Genes “Enriched”?,B Efron,,,0,0
+"Correlation, z-Values, and the Accuracy of Large-Scale Estimators",B Efron,,,0,0
+Large-Scale Prediction Problems,B Efron,,,0,0

@@ -1,0 +1,367 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+A first course in the numerical analysis of differential equations,A Iserles,Cambridge university press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13722322665399822475,1551,2009
+Geometry and topology for mesh generation,H Edelsbrunner,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2538875695702528240,799,2001
+Lie-group methods,"A Iserles, HZ Munthe-Kaas, SP Nørsett, A Zanna","Acta numerica 9, 215-365",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6058546748896305913,770,2000
+Topology for computing,AJ Zomorodian,Cambridge university press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8739164068443642053,423,2005
+Efficient quadrature of highly oscillatory integrals using derivatives,"A Iserles, SP Nørsett","Proceedings of the Royal Society A: Mathematical, Physical and Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13571316549477380730,324,2005
+On the generalized pantograph functional-differential equation,A Iserles,"European Journal of Applied Mathematics 4 (1), 1-38",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1609863947139373629,315,1993
+On the solution of linear differential equations in Lie groups,"A Iserles, SP Nørsett",Philosophical Transactions of the Royal Society of London. Series A …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12370838278482107622,312,1999
+On polynomials orthogonal with respect to certain Sobolev inner products,"A Iserles, PE Koch, SP Nørsett, JM Sanz-Serna","Journal of Approximation Theory 65 (2), 151-175",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18349675439006570217,217,1991
+On quadrature methods for highly oscillatory integrals and their implementation,"A Iserles, SP Nørsett","BIT Numerical Mathematics 44 (4), 755-772",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11583389623947774839,180,2004
+On the numerical quadrature of highly‐oscillating integrals I: Fourier transforms,A Iserles,"IMA Journal of Numerical Analysis 24 (3), 365-391",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18122713692448628673,158,2004
+Geometric integration: numerical solution of differential equations on manifolds,"CJ Budd, A Iserles",Philosophical Transactions of the Royal Society of London. Series A …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11110046631964400664,152,1999
+Numerical solution of isospectral flows,"M Calvo, A Iserles, A Zanna","Mathematics of computation 66 (220), 1461-1486",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9472214426169336794,138,1997
+On the implementation of the method of Magnus series for linear differential equations,"A Iserles, A Marthinsen, SP Nørsett","BIT Numerical Mathematics 39 (2), 281-304",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12951298894279285112,122,1999
+Stability of the discretized pantograph differential equation,"M Buhmann, A Iserles","Mathematics of Computation 60 (202), 575-589",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6622448110184057827,121,1993
+On the theory of parallel Runge—Kutta methods,"A Iserles, SP Nørsett","IMA Journal of numerical Analysis 10 (4), 463-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5980138836194320396,120,1990
+Generalized leapfrog methods,A Iserles,"IMA Journal of Numerical Analysis 6 (4), 381-392",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3130237386226182087,115,1986
+On the global error of discretization methods for highly-oscillatory ordinary differential equations,A Iserles,"BIT Numerical Mathematics 42 (3), 561-599",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12764361341046373861,111,2002
+Approximating the exponential from a Lie algebra to a Lie group,"E Celledoni, A Iserles","Mathematics of Computation 69 (232), 1457-1480",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17180828387420124058,110,2000
+Methods for the approximation of the matrix exponential in a Lie‐algebraic setting,"E Celledoni, A Iserles","IMA Journal of Numerical Analysis 21 (2), 463-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1030664791303530729,106,2001
+The optimal accuracy of difference schemes,"A Iserles, G Strang","Transactions of the American Mathematical Society 277 (2), 779-803",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3334341741118956320,104,1983
+Stability and dynamics of numerical methods for nonlinear ordinary differential equations,A Iserles,"IMA journal of numerical analysis 10 (1), 1-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4235668185111359,99,1990
+Order Stars: Theory and Applications,"A Iserles, SP Norsett",CRC Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11302023631125094570,93,1991
+The pantograph equation in the complex plane,"G Derfel, A Iserles","Journal of Mathematical Analysis and Applications 213 (1), 117-132",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11794920251462526390,91,1997
+Solving linear ordinary differential equations by exponentials of iterated commutators,A Iserles,"Numerische Mathematik 45 (2), 183-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13866819771366218024,86,1984
+Arbitrary-order trigonometric Fourier collocation methods for multi-frequency oscillatory systems,"B Wang, A Iserles, X Wu","Foundations of Computational Mathematics 16 (1), 151-181",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7855110751594504260,83,2016
+A unified approach to spurious solutions introduced by time discretisation. Part I: Basic theory,"A Iserles, AT Peplow, AM Stuart","SIAM journal on numerical analysis 28 (6), 1723-1751","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15212687866353087446,7476882102780927358",83,1991
+On the numerical quadrature of highly-oscillating integrals II: Irregular oscillators,A Iserles,"IMA journal of numerical analysis 25 (1), 25-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6124950231922281225,82,2005
+On neutral functional–differential equations with proportional delays,"A Iserles, Y Liu","Journal of Mathematical Analysis and Applications 207 (1), 73-95",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1698183626005978423,82,1997
+Spirals: from Theodorus to chaos,"PJ Davis, W Gautschi, A Iserles",AK Peters Ltd,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8023217434265284116,82,1993
+From high oscillation to rapid approximation I: Modified Fourier expansions,"A Iserles, SP Nørsett","IMA Journal of Numerical analysis 28 (4), 862-887",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9531581208575468627,80,2008
+Numerical approximation of the solutions of delay differential equations on an infinite interval using piecewise constant arguments,"KL Cooke, I Györi","Computers & Mathematics with Applications 28 (1-3), 81-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14177507772468910415,80,1994
+Quadrature methods for multivariate highly oscillatory integrals using derivatives,"A Iserles, S Nørsett","Mathematics of computation 75 (255), 1233-1258",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5420043292291931284,72,2006
+Highly oscillatory quadrature: The story so far,"A Iserles, SP Nørsett, S Olver","Numerical mathematics and advanced applications, 97-118",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14647140380152006588,71,2006
+"Think globally, act locally: solving highly-oscillatory ordinary differential equations",A Iserles,"Applied Numerical Mathematics 43 (1-2), 145-160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5517743639962178794,71,2002
+Time symmetry and high-order Magnus methods,"A Iserles, SP Nørsett, AF Rasmussen","Applied numerical mathematics 39 (3-4), 379-401",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15661993605786421583,62,2001
+On Cayley-transform methods for the discretization of Lie-group equations,A Iserles,"Foundations of Computational Mathematics 1 (2), 129-160",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17999741159874494760,62,2001
+Explicit Magnus expansions for nonlinear equations,"F Casas, A Iserles","Journal of Physics A: Mathematical and General 39 (19), 5445",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17645104635590858933,61,2006
+Exact and discretized stability of the pantograph equation,A Iserles,"Applied numerical mathematics 24 (2), 295-308",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6150746641025186899,60,1997
+Numerical analysis of delay differential equations with variable delays,A Iserles,"University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9681816388291175397,59,1993
+On the dynamics of a discretized neutral equation,"MD Buhmann, A Iserles","IMA journal of numerical analysis 12 (3), 339-363",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17065572240573410553,57,1992
+Stability and Asymptotic Stability of Functional‐Differential Equations,"A Iserles, J Terjéki","Journal of the London Mathematical Society 51 (3), 559-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9860060330435910013,55,1995
+Expansions that grow on trees,A Iserles,"University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2660716070554673824,50,2002
+Orthogonality and approximation in a Sobolev space,"A Iserles, JM Sanz-Serna, PE Koch, SP Nørsett","Algorithms for Approximation II, 117-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6333378894935106068,50,1990
+On pantograph integro-differential equations,"A Iserles, Y Liu","The Journal of Integral Equations and Applications, 213-237",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8244733023453499402,49,1994
+On the theory of biorthogonal polynomials,"A Iserles, SP Nørsett","Transactions of the American Mathematical Society 306 (2), 455-474",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14355934118343842845,49,1988
+Efficient computation of the matrix exponential by generalized polar decompositions,"A Iserles, A Zanna","SIAM journal on numerical analysis 42 (5), 2218-2256",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1603188125880508908,46,2005
+Preserving algebraic invariants with Runge–Kutta methods,"A Iserles, A Zanna","Journal of computational and applied mathematics 125 (1-2), 69-81",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7411711555709234757,46,2000
+On the method of Neumann series for highly oscillatory equations,A Iserles,"Bit Numerical Mathematics 44 (3), 473-488",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10935340705236452252,44,2004
+Equilibria of Runge-Kutta methods,"E Hairer, A Iserles, JM Sanz-Serna","Numerische Mathematik 58 (1), 243-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15437713707071367288,44,1990
+Effective approximation for the semiclassical Schrödinger equation,"P Bader, A Iserles, K Kropielnicka, P Singh","Foundations of Computational Mathematics 14 (4), 689-720",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9158017367058303302,43,2014
+GniCodes—Matlab programs for geometric numerical integration,"E Hairer, M Hairer","Frontiers in numerical analysis, 199-240","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11863243689686092784,10145959912347415616",43,2003
+How large is the exponential of a banded matrix,A Iserles,"New Zealand J. Math 29 (177192), 56",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10283256037840545318,41,2000
+Highly oscillatory problems,"B Engquist, A Fokas, E Hairer, A Iserles",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11652512109408462766,39,2009
+B-series methods cannot be volume-preserving,"A Iserles, GRW Quispel, PSP Tse","BIT Numerical Mathematics 47 (2), 351-378",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3942309022856170846,39,2007
+Qualitative numerical analysis of ordinary differential equations,"A Iserles, A Zanna",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3620042008243926012,39,1995
+Runge-Kutta methods for orthogonal and isospectral flows,"MP Calvo, A Iserles, A Zanna","Applied numerical mathematics 22 (1-3), 153-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9140337561885118290,38,1996
+Reconstruction algorithm for single photon emission computed tomography and its numerical implementation,"AS Fokas, A Iserles, V Marinakis","Journal of the Royal Society Interface 3 (6), 45-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=893839095818639541,37,2005
+A fast and simple algorithm for the computation of Legendre coefficients,A Iserles,"Numerische Mathematik 117 (3), 529-553",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13862602368504948198,35,2011
+From high oscillation to rapid approximation III: Multivariate expansions,"A Iserles, SP Nørsett","IMA journal of numerical analysis 29 (4), 882-916",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=518300557381851119,35,2009
+On nonlinear delay differential equations,A Iserles,"Transactions of the American Mathematical Society 344 (1), 441-477",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18001543031944400843,35,1994
+Order stars and a saturation theorem for first-order hyperbolics,A Iserles,"IMA Journal of Numerical Analysis 2 (1), 49-61",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=843279844178514836,34,1982
+On second-order differential equations with highly oscillatory forcing terms,"M Condon, A Deano, A Iserles","Proceedings of the Royal Society A: Mathematical, Physical and Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8697104453551223396,32,2010
+On highly oscillatory problems arising in electronic engineering,"M Condon, A Deaño, A Iserles","ESAIM: Mathematical Modelling and Numerical Analysis 43 (4), 785-804",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18201943142610380494,32,2009
+Embedding of delay equations into an infinite-dimensional ODE system,"A Feldstein, A Iserles, D Levin","Journal of Differential Equations 117 (1), 127-150",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=289346503858233395,31,1995
+Runge–Kutta methods for neutral differential equations,"A Iserles, SP Nørsett","Contributions In Numercial Mathematics 2, 85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14599232888607791939,30,1993
+On the discretization of double-bracket flows,A Iserles,"Foundations of Computational Mathematics 2 (3), 305-329",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5781591947577309767,29,2002
+On the solution of linear differential equations in Lie groups,"A Iserles, SP Nørsett",SCAN-9704062,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17871969632612529152,29,1997
+Zeros of expansions in orthogonal polynomials,"A Iserles, EB Saff","Mathematical Proceedings of the Cambridge Philosophical Society 105 (3), 559-573",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2925411410670708570,28,1989
+On the foundations of computational mathematics,"BJC Baxter, A Iserles","Handbook of numerical analysis 11, 3-34","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14221696484706646198,2308280311014704171",27,2003
+Efficient Runge–Kutta methods for Hamiltonian equations,"A Iserles, ...",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16484563072263275126,27,1990
+From high oscillation to rapid approximation IV: Accelerating convergence,"D Huybrechs, A Iserles","IMA Journal of Numerical Analysis 31 (2), 442-468",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4162353384788828152,26,2011
+On the computation of highly oscillatory multivariate integrals with stationary points,"A Iserles, SP Nørsett","BIT Numerical Mathematics 46 (3), 549-566",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9970164293770321923,26,2006
+On an isospectral Lie–Poisson system and its Lie algebra,"AM Bloch, A Iserles","Foundations of Computational Mathematics 6 (1), 121-144",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5145118735025961365,26,2006
+A first course in the numerical analysis of differential equations,A Iserles,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14365449871505530210,26,1996
+Runge–Kutta methods on manifolds,"M Calvo, A Iserles, A Zanna","Numerical Analysis: AR Mitchell 75th Birthday Volume, 57-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6201354930344717900,26,1996
+On transformations and zeros of polynomials,"A Iserles, SP Nørsett, EB Saff","Rocky Mountain Journal of Mathematics 21 (1), 331-357",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13084744056874193674,26,1991
+Zeros of transformed polynomials,"A Iserles, SP Nørsett","SIAM Journal on Mathematical Analysis 21 (2), 483-509",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14548901461819469599,26,1990
+On the A-acceptability of rational approximations that interpolate the exponential function,"A Iserles, MJD Powell","IMA Journal of Numerical Analysis 1 (3), 241-251",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12253773388389521990,26,1981
+Efficient methods for linear Schrödinger equation in the semiclassical regime with time-dependent potential,"P Bader, A Iserles, K Kropielnicka, P Singh","Proceedings of the Royal Society A: Mathematical, Physical and Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10332897548697637383,25,2016
+The spectral problem for a class of highly oscillatory Fredholm integral operators,"H Brunner, A Iserles, SP Nørsett","IMA journal of numerical analysis 30 (1), 108-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18250903546370953594,24,2010
+On orthogonal polynomials transformed by the QR algorithm,"MD Buhmann, A Iserles","Journal of computational and applied mathematics 43 (1-2), 117-134",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15435908408639128529,24,1992
+The computation of the spectra of highly oscillatory Fredholm integral operators,"H Brunner, A Iserles, SP Nørsett","The Journal of Integral Equations and Applications, 467-519",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=227335440425915178,23,2011
+Runge-Kutta methods for quadratic ordinary differential equations,"A Iserles, G Ramaswami, M Sofroniou","BIT Numerical Mathematics 38 (2), 315-346",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8507817765195135455,22,1998
+Numerical methods on (and off) manifolds,A Iserles,"Foundations of Computational Mathematics, 180-189",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7023737730980212846,22,1997
+Beyond the classical theory of computational ordinary differential equations,A Iserles,UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15341217773637317938,22,1996
+Unified approach to spurious solutions introduced by time discretization Part II: BDF-like methods,"A Iserles, AM Stuart","IMA journal of numerical analysis 12 (4), 487-502",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15731441345884098148,22,1992
+Computing highly oscillatory integrals,"A Deaño, D Huybrechs, A Iserles",Society for Industrial and Applied Mathematics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2156646232644225650,21,2017
+The State of the art in numerical analysis: based on the proceedings of a joint IMA/SIAM conference on the state of the art in numerical analysis held in Cambridge in April 1986,"A Iserles, MJD Powell","Oxford University Press, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9514412904556179063,21,1987
+On the generalized Padé approximations to the exponential function,A Iserles,"SIAM Journal on Numerical Analysis 16 (4), 631-636",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15701831816414612818,21,1979
+The asymptotic behaviour of certain difference equations with proportional delays,A Iserles,"Computers & Mathematics with Applications 28 (1-3), 141-152",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2177064128644517632,20,1994
+Numerical analysis of functional equations with a variable delay,"MD Buhmann, A Iserles","University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16741047670783263282,20,1991
+Barriers to stability,"G Strang, A Iserles","SIAM journal on numerical analysis 20 (6), 1251-1257",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5640742572104869135,20,1983
+Explicit adaptive symplectic integrators for solving Hamiltonian systems,"S Blanes, A Iserles","Celestial Mechanics and Dynamical Astronomy 114 (3), 297-317",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13520223591483672088,19,2012
+On systems of differential equations with extrinsic oscillation,"M Condon, A Deaño, A Iserles","Discrete and Continuous Dynamical Systems (DCDS-A) 28 (4), 1345-1367",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17718470564596031905,19,2010
+Integro-differential equations and generalized hypergeometric functions,"A Iserles, Y Liu","Journal of Mathematical Analysis and Applications 208 (2), 404-424",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1833686215750635779,19,1997
+The Dynamics of Numerics and the Numerics of Dynamics: Based on the Proceedings of a Conference on Dynamics of Numerics and Numerics of Dynamics Organized by the Institute of …,"DS Broomhead, A Iserles","Oxford University Press, USA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14765587209347119538,18,1992
+Remarks of the behaviour of zeros of best approximating polynomials and rational functions,"HP Blatt, A Iserles, EB Saff","Algorithms for approximation, 437-445",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16714575714202689930,18,1987
+Rational Interpolation to \exp(-x) with Application to Certain Stiff Systems,A Iserles,"SIAM Journal on Numerical Analysis 18 (1), 1-12",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6771895116214030980,18,1981
+Symmetric and arbitrarily high-order Birkhoff–Hermite time integrators and their long-time behaviour for solving nonlinear Klein–Gordon equations,"C Liu, A Iserles, X Wu","Journal of Computational Physics 356, 1-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12023502959273732649,17,2018
+On the singular values and eigenvalues of the Fox–Li and related operators,"A Böttcher, H Brunner, A Iserles, SP Nørsett","New York J. Math 16, 539-561",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15223582266286059436,17,2010
+Complexity theory for Lie-group solvers,"E Celledoni, A Iserles, SP Nørsett, B Orel","journal of complexity 18 (1), 242-286",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16640067349691769863,17,2002
+Conservative methods for the Toda lattice equations,"MP Calvo, A Iserles, A Zanna","IMA journal of numerical analysis 19 (4), 509-523",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4839018501657458772,17,1999
+Approximately preserving symmetries in the numerical integration of ordinary differential equations,"A Iserles, R McLACHLAN, A Zanna","European Journal of Applied Mathematics 10 (5), 419-445",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5641129274327088191,17,1999
+Multistep methods on manifolds,A Iserles,"University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10637312029858643530,17,1997
+A proof of the first Dahlquist barrier by order stars,"A Iserles, SP Nørsett","BIT Numerical Mathematics 24 (4), 529-537",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7086660818570513792,17,1984
+Quadrature methods for stiff ordinary differential systems,A Iserles,"Mathematics of Computation 36 (153), 171-182",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5686305365090543266,17,1981
+Asymptotic expansion and quadrature of composite highly oscillatory integrals,"A Iserles, D Levin","Mathematics of Computation 80 (273), 279-296",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13246249035406689523,16,2011
+Commutators of skew-symmetric matrices,"AM Bloch, A Iserles","International Journal of Bifurcation and Chaos 15 (03), 793-801",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7830500256080234910,16,2005
+Global bounds on numerical error for ordinary differential equations,"A Iserles, G Söderlind","Journal of Complexity 9 (1), 97-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2568815494782573462,16,1993
+Two-step methods and bi-orthogonality,"A Iserles, SP Nørsett","mathematics of computation 49 (180), 543-552",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16694164140257124464,16,1987
+On numerical methods for highly oscillatory problems in circuit simulation,"M Condon, A Deaño, A Iserles, K Maczyński, T Xu",COMPEL-The international journal for computation and mathematics in …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14893494643185402546,15,2009
+A class of integrable flows on the space of symmetric matrices,"AM Bloch, V Brînzănescu, A Iserles, JE Marsden, TS Ratiu","Communications in Mathematical Physics 290 (2), 399-435",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15895250027815331402,15,2009
+Open problems in the computational solution of Volterra functional equations with highly oscillatory kernels,"H Brunner, A Iserles, S Nørsett","Isaac Newton Institute, HOP",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2413304942080251141,15,2007
+"Insights, Not Just Numbers",A Iserles,"Proceedings of the 15th IMACS World Congress vol. II, Wissenschaft & Technik",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=493030551819116556,15,1997
+Order stars and rational approximants to exp (z),"A Iserles, SP Nørsett","Applied numerical mathematics 5 (1-2), 63-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17001437186261882894,15,1989
+Bi-orthogonal polynomials,"A Iserles, SP Nørsett","Polynômes Orthogonaux et Applications, 92-100","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4347125364452641872,16737124312999423043,1210570032038546263",15,1985
+𝐴-stability and dominating pairs,A Iserles,"Mathematics of Computation 32 (141), 19-33",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14933343554758577939,15,1978
+A MAGNUS EXPANSION FOR THE EQUATION Y′= AY–YB,A Iserles,"Journal of Computational Mathematics, 15-26",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16953835357837615756,14,2001
+Approximation theory and optimization: tributes to MJD Powell,"MD Buhmann, MJD Powell, MD Buhmann, A Iserles",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1864150341159011881,14,1997
+"Order stars, approximations and finite differences I. The general theory of order stars",A Iserles,"SIAM journal on mathematical analysis 16 (3), 559-576",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6628548316048582555,14,1985
+From high oscillation to rapid approximation V: The equilateral triangle,"D Huybrechs, A Iserles, SP Nørsett","IMA journal of numerical analysis 31 (3), 755-785",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4403476647344914158,13,2011
+From high oscillation to rapid approximation II: Expansions in polyharmonic eigenfunctions,"A Iserles, SP Nørsett","Technical Report 2006/NA07, University of Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7380584521834315872,13,2006
+On approximation by exponentials,"BJC Baxter, A Iserles",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10501930262792247691,13,1996
+Stability and accuracy of semi-discretized finite difference methods,"A Iserles, RA Williamson","IMA Journal of Numerical Analysis 4 (3), 289-307",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11980149663989591031,13,1984
+On the optimality of double-bracket flows,"AM Bloch, A Iserles",International Journal of Mathematics and Mathematical Sciences 2004 (62 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14255508701123984420,12,2004
+Composite exponential approximations,A Iserles,"Mathematics of Computation 38 (157), 99-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15135979705330611464,12,1982
+On skew-symmetric differentiation matrices,A Iserles,"IMA Journal of Numerical Analysis 34 (2), 435-451",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=383722019377926102,11,2013
+On rapid computation of expansions in ultraspherical polynomials,"MJ Cantero, A Iserles","SIAM Journal on Numerical Analysis 50 (1), 307-327",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7679814122708983107,11,2012
+Spectral theory of large Wiener–Hopf operators with complex-symmetric kernels and rational symbols,"A Böttcher, S Grudsky, A Iserles","Mathematical Proceedings of the Cambridge Philosophical Society 151 (1), 161-191",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1498746242251965875,11,2011
+Semi-explicit methods for isospectral flows,"MP Calvo, A Iserles, A Zanna","Advances in Computational Mathematics 14 (1), 1-24",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16385919604326715484,11,2001
+On the iterative solution of differential and integral equations using secant updating techniques,A Griewank,"The State of the Art in Numerical Analysis, 299-324",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6264725598465106418,11,1987
+Composite methods for numerical solution of stiff systems of ODE’s,A Iserles,"SIAM journal on numerical analysis 21 (2), 340-351",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1768133222796222806,11,1984
+Generalized order star theory,A Iserles,"Padé Approximation and its Applications Amsterdam 1980, 228-238",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=20357218973502421,11,1981
+Why geometric integration?,"A Iserles, GRW Quispel",arXiv preprint arXiv:1602.07755,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15412793105511627860,16289470127975959817",10,2016
+Foundations of computational mathematics,DVI Suli,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15183054502766271911,10,2001
+Linear ODEs in Lie groups,"A Iserles, SP Nørsett, EC Ew, A Iserles, SP Nrsett",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10915323507252164139,10,1997
+Christoffel-Darboux-type formulae and a recurrence for biorthogonal polynomials,"A Iserles, SP Nørsett","Constructive Approximation 5 (1), 437-453",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6256027783247868008,10,1989
+Nonlinear stability and asymptotics of ODE solvers,A Iserles,"Numerical Mathematics Singapore 1988, 225-236",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2209408271019051143,10,1988
+Bi-orthogonality in rational approximation,"A Iserles, EB Saff","Journal of Computational and Applied Mathematics 19 (1), 47-54",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13745092828660511639,10,1987
+"Order Stars, Approximations and Finite Differences. III Finite Differences for u_t=ωu_xx",A Iserles,"SIAM journal on mathematical analysis 16 (5), 1020-1033",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11196099471550705190,10,1985
+Magnus--Lanczos Methods with Simplified Commutators for the Schrödinger Equation with a Time-Dependent Potential,"A Iserles, K Kropielnicka, P Singh","SIAM Journal on Numerical Analysis 56 (3), 1547-1569",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17236292118937937431,9,2018
+On the discretisation of the semiclassical Schrödinger equation with time-dependent potential,"A Iserles, K Kropielnicka, P Singh","Cambridge Numerical Analysis Report NA2015/02. Cambridge, UK: Cambridge …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18211891832392672422,9,2015
+Magnus expansions and beyond,A Iserles,"Combinatorics and Physics. Contemporary Mathematics 539, 171-186",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18297310878422240707,9,2008
+A class of integrable geodesic flows on the symplectic group and the symmetric matrices,"AM Bloch, A Iserles, JE Marsden, TS Ratiu",arXiv preprint math-ph/0512093,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11238035667083962966,9,2005
+On the numerical analysis of rapid oscillation,A Iserles,"Group theory and numerical analysis 39, 149-163",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14366012744321788450,9,2005
+Brief introduction to Lie-group methods,A Iserles,Collected Lectures on the Preservation of Stability Under Discretization …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9041581074982419255,9,2002
+On neutral functional-differential equations with proportional delays,"A Iserles, Y Liu","University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6358646545793364663,9,1993
+Stability and dynamics of numerical methods for nonlinear ordinary differential equations,A Iserles,University of Cambridge. Department of Applied Mathematics and Theoretical …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7783211632358972286,9,1988
+Bi-orthogonality and zeros of transformed polynomials,"A Iserles, SP Nørsett","Journal of Computational and Applied Mathematics 19 (1), 39-45",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1807327679428538738,9,1987
+Functional fitting–new family of schemes for integration of stiff ODE,A Iserles,"Mathematics of Computation 31 (137), 112-123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13549436608004477670,9,1977
+Numerical stability in the presence of variable coefficients,"E Hairer, A Iserles","Foundations of Computational Mathematics 16 (3), 751-777",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13503211416115716929,8,2016
+Numerical solution of Sturm–Liouville problems via Fer streamers,"AGCP Ramos, A Iserles","Numerische Mathematik 131 (3), 541-565",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11198333011545929366,8,2015
+Semi-explicit methods for isospectral ows,"MP Calvo, A Iserles, A Zanna",preparation,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7269723595137161549,8,1997
+Complex dynamics of convergence acceleration,A Iserles,"IMA journal of numerical analysis 11 (2), 205-240",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9675213918137890689,8,1991
+A note on Padé approximations and generalized hypergeometric functions,A Iserles,"BIT Numerical Mathematics 19 (4), 543-545",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18346074777953556799,8,1979
+The kissing polynomials and their Hankel determinants,"A Deano, D Huybrechs, A Iserles",arXiv preprint arXiv:1504.07297,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10387652500506823804,7,2015
+First-order trace formulae for the iterates of the Fox–Li operator,"A Böttcher, S Grudsky, D Huybrechs, A Iserles","A Panorama of Modern Operator Theory and Related Topics, 207-224",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1107757155082784344,7,2012
+Acta Numerica 2005,A Iserles,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7118238510494015334,7,2005
+Equilibria of Runge-Kutta methods,"E Hairer, A Iserles, JM Sanz-Serna","University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12532844519702989847,7,1989
+On the ,A Iserles,"SIAM Journal on Mathematical Analysis 10 (5), 1002-1007",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4591707964190426875,7,1979
+On the,A Iserles,"BIT Numerical Mathematics 18 (2), 157-169",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14286200675230366746,7,1978
+The unified method in polygonal domains via the explicit Fourier transform of Legendre polynomials,"AS Fokas, A Iserles, SA Smitheman","Unified Transforms (eds. AS Fokas and B. Pelloni)(SIAM, Philadelphia, PA, 2014)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8691248305322736168,6,2014
+Texts in Applied Mathematics,"PA Davidson, MJ Ablowitz, SH Davis, EJ Hinch, A Iserles",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1822019196262980688,6,2011
+Multistep methods on manifolds,A Iserles,"IMA journal of numerical analysis 21 (1), 407-419",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=724521269468134528,6,2001
+On the dimension of certain graded Lie algebras arising in geometric integration of differential equations,"A Iserles, A Zanna","LMS Journal of Computation and Mathematics 3, 44-75",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12774062428182134868,6,2000
+Geometric integration: Numerical solution of differential equations on manifolds,"CJ Budd, A Iserles",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16681217488785610744,6,1998
+"A scalpel, not a sledgehammer'Qualitative approach to numerical mathematics","A Iserles, A Zanna",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8818284161196564463,6,1996
+Dynamics of numerics,A Iserles,"Bulletin of the Institute of Mathematics and Its Applications 30 (7), 106-115",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11924668579330675072,6,1994
+Embedding of delay equations into an infinite-dimensional ODE system,"A Feldstein, A Iserles, D Levin","University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8235027099126446855,6,1991
+"Order Stars, Approximations and Finite Differences II. Theorems in Approximation Theory",A Iserles,"SIAM journal on mathematical analysis 16 (4), 785-802",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7982042009934573521,6,1985
+On multivalued exponential approximations,A Iserles,"SIAM Journal on Numerical Analysis 18 (3), 480-499",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2064343379917120982,6,1981
+Two-step numerical methods for parabolic differential equations,A Iserles,"BIT Numerical Mathematics 21 (1), 80-96",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12122840674540195787,6,1981
+The joy and pain of skew symmetry,A Iserles,"Foundations of Computational Mathematics 16 (6), 1607-1630",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7935201951098273252,5,2016
+Asymptotic solvers for ordinary differential equations with multiple frequencies,"M Condon, A Deaño, J Gao, A Iserles","Science China Mathematics 58 (11), 2279-2300","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10962996894172741743,7667714910839623928",5,2015
+Efficient computation of delay differential equations with highly oscillatory terms,"M Condon, A Deaño, A Iserles, K Kropielnicka","ESAIM: Mathematical Modelling and Numerical Analysis 46 (6), 1407-1420",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11514197098169006965,5,2012
+The Fox–Li operator as a test and a spur for Wiener–Hopf theory,"A Böttcher, S Grudsky, A Iserles","Essays in Mathematics and its Applications, 37-48",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11511889637906022844,5,2012
+Effective approximation for linear time-dependent Schrödinger equation,"A Iserles, K Kropielnicka","Technical Report NA2011/15, University of Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16902394794183560095,5,2011
+On asymptotic-numerical solvers for differential equations with highly oscillatory forcing terms,"M Condon, A Deano, A Iserles",DAMTP Tech. Rep. 2009/NA05,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17661849311333489993,5,2009
+Numerical analysis in Lie groups,A Iserles,"LONDON MATHEMATICAL SOCIETY LECTURE NOTE SERIES, 105-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=508816068726146029,5,2001
+Approximately preserving symmetries in numerical integration,"A Iserles, R McLachlan, A Zanna",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5829760176919241238,5,1997
+", by W. H. Press, B. P. Flannery, S. A. Teukolsky and W. T. Vetterling. Pp 735. £27·50. 1988. ISBN 0-521 …",A Iserles,"The Mathematical Gazette 73 (464), 167-170",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16190848846685077073,5,1989
+Order stars and stability barriers,A Iserles,"Numerical Analysis, 78-111",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7784217797070821138,5,1986
+", by M. K. Jain. Pp 698. £17·95. 1984. ISBN 0-85226-432-1 (Wiley Eastern)",A Iserles,"The Mathematical Gazette 69 (449), 236-237",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15318360472170740764,5,1985
+Frequency fitting of rational approximations to the exponential functions,"A Iserles, SP Nørsett","mathematics of computation 40 (162), 547-559",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1052598460731556764,5,1983
+Orthogonal systems with a skew-symmetric differentiation matrix,"A Iserles, M Webb","Foundations of Computational Mathematics 19 (6), 1191-1221",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13339838847756113525,4,2019
+Asymptotic solvers for second-order differential equation systems with multiple frequencies,"M Condon, A Deaño, J Gao, A Iserles","Calcolo 51 (1), 109-139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5462507655609785442,4,2014
+Dirichlet series for dynamical systems of first-order ordinary differential equations,"B Wang, A Iserles","Discrete & Continuous Dynamical Systems-B 19 (1), 281-298",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13271844125724164081,4,2014
+Three stories of high oscillation,A Iserles,"Bull. EMS 87, 18-23",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2745772475621527158,4,2013
+Effective approximation for the linear time-dependent Schrödinger equation,"P Bader, A Iserles, K Kropielnicka, P Singh","Technical Report NA2012/05, DAMTP, University of Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1264007002984448816,4,2012
+From high oscillation to rapid approximation II: expansions in Birkhoff series,"B Adcock, A Iserles, SP Nørsett","IMA Journal of Numerical Analysis 32 (1), 105-140",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4935736253124344731,4,2012
+Asymptotic solvers for oscillatory systems of differential equations,"M Condon, A Deaño, A Iserles","SeMA Journal 53 (1), 79-101",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12783432972014942197,4,2011
+Blood transfusion requirements for patients with sarcomas undergoing combined radio-and chemotherapy,"KR Sherbourne, HM Earl, L Whitehead, SJ Jefferies, NG Burnet","Sarcoma 9 (3-4), 119-125","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4434504728605822765,8353606003097418173",4,2005
+Matrix preconditioning techniques and applications,"C Ke, MJ Ablowitz, PJ Olver, SH Davis, A Iserles, J Ockendon, EJ Hinch",Cambridge Univ. Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4018599670936905837,4,2005
+Reconstruction algorithms for positron emission tomography and single photon emission computed tomography and their numerical implementation,"AS Fokas, A Iserles, V Marinakis",arXiv preprint physics/0412030,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2598894369970091921,4,2004
+Reversibility and high-order Magnus methods,"A Iserles, SP Nørsett, AF Rasmussen",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7705810108654710979,4,1998
+Biorthogonal polynomials in numerical ODEs,"A Iserles, SP Nørsett",P00013850 93 (1),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16903604327107456179,4,1993
+Solving Schrödinger equation in semiclassical regime with highly oscillatory time-dependent potentials,"A Iserles, K Kropielnicka, P Singh","Journal of Computational Physics 376, 564-584",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15169312445803801091,3,2019
+Error analysis of the extended Filon-type method for highly oscillatory integrals,"J Gao, A Iserles","Research in the Mathematical Sciences 4 (1), 21",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10238390571377968596,3,2017
+"Banded, stable, skew-symmetric differentiation matrices of high order","E Hairer, A Iserles","IMA Journal of Numerical Analysis 37 (3), 1087-1103",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1550008245032359666,3,2016
+From orthogonal polynomials on the unit circle to functional equations via generating functions,"M Cantero, A Iserles","Transactions of the American Mathematical Society 368 (6), 4027-4063",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13965552092852048588,3,2016
+Differential equations with general highly oscillatory forcing terms,"M Condon, A Iserles, SP Nørsett","Proceedings of the Royal Society A: Mathematical, Physical and Engineering …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14003833196136458857,3,2014
+Highly oscillatory diffusion-type equations,"SÜ Altınbaşak, M Condon, A Deano, A Iserles","Journal of Computational Mathematics, 549-572",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17833626789563402088,3,2013
+On a curious q-hypergeometric identity,"MJ Cantero, A Iserles","Nonlinear Analysis, 121-126",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3599068634638251459,3,2012
+Group theory and numerical analysis,P Winternitz,American Mathematical Soc.,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11046073198302087784,3,2005
+Aspects of generalized double bracket flows,"AM Bloch, A Iserles","Proc. Centre de Recherche Montreal, AMS, 65-76",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14207104443893011685,3,2005
+Numerical Analysis–Lecture 11,A Iserles,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11880922901474720585,3,2004
+Cambridge monographs on mechanics,"MS Howe, MJ Ablowitz, SH Davis, EJ Hinch, A Iserles, J Ockendon, ...",Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13694529949112849762,3,1998
+On zeros of Hankel determinants with iterated polynomial entries,"A Iserles, EB Saff, X Liu","IMA journal of numerical analysis 12 (3), 387-403",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10978951475342727258,3,1992
+Methods for best approximation and regression problems,GA Watson,University of Dundee. Department of Mathematical Sciences,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14730765979421675439,3,1986
+Rational approximations to the exponential function with two complex conjugate interpolation points,"E Hairer, A Iserles, SP Nørsett","SIAM journal on mathematical analysis 16 (4), 814-821",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17470980273282661142,3,1985
+A family of orthogonal rational functions and other orthogonal systems with a skew-Hermitian differentiation matrix,"A Iserles, M Webb",arXiv preprint arXiv:1911.08917,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11242831367643430977,18353539467361968438",2,2019
+Fast computation of orthogonal systems with a skew-symmetric differentiation matrix,"A Iserles, M Webb",arXiv preprint arXiv:1911.05583,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18365537842164168812,2,2019
+Applications of Magnus expansions and pseudospectra to Markov processes,"A Iserles, S MacNamara","European Journal of Applied Mathematics 30 (2), 400-425",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9289699968428266388,2,2019
+Compact schemes for laser–matter interaction in Schrödinger equation based on effective splittings of Magnus expansion,"A Iserles, K Kropielnicka, P Singh","Computer Physics Communications 234, 195-201",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13436622288020225657,2,2019
+A generalization of Filon–Clenshaw–Curtis quadrature for highly oscillatory integrals,"J Gao, A Iserles","BIT Numerical Mathematics 57 (4), 943-961",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10651887509616884352,2,2017
+Magnus expansions and pseudospectra of master equations,"A Iserles, S MacNamara",arXiv preprint arXiv:1701.02522,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2703486183057574580,2,2017
+"Efficient methods for time-dependence in semiclassical Schr\"" odinger equations","P Bader, A Iserles, K Kropielnicka, P Singh",arXiv preprint arXiv:1602.03581,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2869980924862035491,2,2016
+Highly oscillatory quadrature and its applications,"A Iserles, S Norsett",CAMBRIDGE UNIV (UNITED KINGDOM) DEPT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9618459806767890003,2,2005
+Lie groups and the computation of invariants,A Iserles,UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1855352280560207783,2,1998
+Acta Numerica 1994,A Iserles,Cambridge University Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10687260733768934001,2,1994
+Characterization of all zero-mapping transformations of a given form,"A Iserles, S Noersett, ...","University of Cambridge, Department of Applied Mathematics and Theoretical …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6494157844116341391,2,1994
+From Schrödinger spectra to orthogonal polynomials via a functional equation,A Iserles,Approximation and Computation: A Festschrift in Honor of Walter Gautschi …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6216354457546115231,2,1994
+Rational approximants and numerical methods for initial-value problems,A Iserles,"Physica D: Nonlinear Phenomena 60 (1-4), 280-292",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6028528061448388354,2,1992
+Dynamical systems and nonlinear stability theory for numerical ODEs,A Iserles,"Numerical Treatment of Differential Equations, Halle 1987",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3592719704771651266,2,1987
+Error control of rational approximations to the exponential function,"A Iserles, SP Nørsett","Constructive Approximation 2 (1), 41-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7908936676264398062,2,1986
+Multistep discretization of linear hyperbolic equations,A Iserles,"IMA journal of numerical analysis 6 (3), 293-307",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15979914711093606151,2,1986
+Order stars and the structure of Padé tableaux,A Iserles,"Padé Approximation and its Applications Bad Honnef 1983, 166-175",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11415839958093096133,2,1984
+"Order stars, contractivity and a pick-type theorem",A Iserles,"Rational Approximation and Interpolation, 117-124",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8655578616566358996,2,1984
+Rational approximations to the exponential function with two complex conjugate interpolation points,"A Iserles, SP Nørsett",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12751514536730054478,2,1982
+"T. LINDENSTROM, AND J. SIGH. 1999. Partial cross protection against Ichthyophthirius multifiliis in Gyrodactylus derjavini immunized rainbow trout",K Buchmann,"Journal of Helminthology 73, 189-195",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5338465353127456536,2,0
+Solving the wave equation with multifrequency oscillations,"M Condon, A Iserles, K Kropielnicka, P Singh","Journal of Computational Dynamics 6 (2), 239",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=605287791233012176,1,2019
+An Adaptive Filon Algorithm for Highly Oscillatory Integrals,"J Gao, A Iserles",Contemporary Computational Mathematics-A Celebration of the 80th Birthday of …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15923958705180340544,1,2018
+Commutator-free Magnus-Lanczos methods for the linear Schrödinger equation,"A Iserles, K Kropielnicka, P Singh",Submitted,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18182025395704337348,1,2017
+On asymptotic expansion solvers for highly oscillatory semi-explicit DAEs,"M Condon, J Gao, A Iserles","Discrete & Continuous Dynamical Systems-A 36 (9), 4813-4837",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=323991506632341102,1,2016
+On expansions in orthogonal polynomials,"MJ Cantero, A Iserles","Advances in Computational Mathematics 38 (1), 35-61",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17575937809060261128,1,2013
+Simulation of memristors in presence of high-frequency forcing function,"M Condon, A Deaño, A Iserles","Electronics letters 48 (12), 684-686",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15396793658685168518,1,2012
+Orthogonal polynomials on the unit circle and functional differential equations,"MJ Cantero, A Iserles","Technical Report 2011/08, DAMTP, University of Cambridge",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6472497698439243801,1,2012
+Existence Results for Extended General Nonconvex Quasi-variational Inequalities,"MA Noor, KI Noor, E Al-Said","Nonlinear Analysis, 503-512",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8078455551564853553,1,2012
+Simulation technique for RF oscillators,"M Condon, A Deano, A Iserles","Electronics letters 47 (13), 740-742",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15804456530484823235,1,2011
+Cambridge Monographs on Applied and Computational Mathematics,"PG Ciarlet, A Iserles, RV Kohn, MH Wright",Simulating Hamltonian Dynamics,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9657361379969792119,1,2004
+On the spectra of certain matrices generated by involutory automorphisms,"A Iserles, A Zanna","SIAM journal on matrix analysis and applications 25 (4), 1110-1123",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10798390140057911015,1,2004
+Optimality of double bracket and generalized double bracket flows,"AM Bloch, A Iserles",42nd IEEE International Conference on Decision and Control (IEEE Cat. No …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5379220105665360246,1,2003
+Featured Review: Stephen Smale: The Mathematician Who Broke the Dimension Barrier,A Iserles,"SIAM Review 42 (4), 739-745",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14428090488107960630,1,2000
+On the numerical analysis of rapidly oscillating problems,A Iserles,UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2625397602752796794,1,2000
+Explicit representations of biorthogonal polynomials,"A Iserles, SP Nørsett","Numerical Algorithms 10 (1), 51-67",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6188490428282075770,1,1995
+", by G. Hämmerlin and K.-H. Hoffmann. Pp 422. DM74. 1991. ISBN 3-540-97494-6 (Springer)",A Iserles,"The Mathematical Gazette 78 (481), 91-92",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1061768040924389574,1,1994
+A constructive approach to the Schröder equation,A Iserles,"Journal of computational and applied mathematics 46 (1-2), 301-314",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8006554473093677104,1,1993
+Parallel Runge-Kutta methods,"A Iserles, SP Noersett","INSTITUTE OF MATHEMATICS AND ITS APPLICATIONS CONFERENCE SERIES 39 (1), 385-385",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8844203944671155122,1,1992
+", by G. Nürnberger Pp 243. DM74. 1989. ISBN 3-540-51618-2 (Springer)",A Iserles,"The Mathematical Gazette 75 (472), 252-254",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10205795549796895246,1,1991
+A-Acceptability of derivatives of rational approximations to exp (z),"A Iserles, SP Nørsett","Journal of approximation theory 43 (4), 327-337",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13935829190958752628,1,1985
+A-acceptable exponentially fitted combinations of three Padé approximations,A Iserles,"Journal of Computational and Applied Mathematics 4 (2), 143-146",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6996726537327210224,1,1978
+Spectral computation of highly oscillatory integral equations in laser theory,"J Gao, M Condon, A Iserles",Journal of Computational Physics,,0,2019
+Quadrature methods for highly oscillatory singular integrals.,"J GAO, M CONDON, A ISERLES, BD Gilvey, J Trevelyan",Journal of computational mathematics.,,0,2019
+"Compact schemes for laser-matter interaction in Schr\"" odinger equation","A Iserles, K Kropielnicka, P Singh",arXiv preprint arXiv:1805.09163,,0,2018
+Michael JD Powell. 29 July 1936—19 April 2015,"MD Buhmann, R Fletcher, A Iserles, P Toint","Biographical Memoirs of Fellows of the Royal Society, 341-366",,0,2018
+"Magnus-Zassenhaus methods for the semiclassical Schr\"" odinger equation with oscillatory time-dependent potentials","A Iserles, K Kropielnicka, P Singh",arXiv preprint arXiv:1801.06912,,0,2018
+Time-domain modelling of interconnects with highly oscillatory sources,"M Condon, A Iserles",COMPEL-The international journal for computation and mathematics in …,,0,2018
+Michael James David Powell: 29 July 1936-19 April 2015,"M Buhmann, R Fletcher, A Iserles, P Toint",Biogr. Mems Fell R. Soc.(London) 64,,0,2018
+"Banded, skew-symmetric differentiation matrices of high order","E Hairer, A Iserles","AIP Conference Proceedings 1863 (1), 020002",,0,2017
+14th OPSFA,"J Breuer, S Corteel, D Gomez-Ullate, E Hubert, A Iserles, A Its, A Kuijlaars, ...",,,0,2017
+Fast expansion on the real line,"H Dietert, A Iserles",,,0,2017
+Why Transactions of Mathematics and its Applications?,A Iserles,Transactions of Mathematics and its Applications 1 (1),,0,2017
+Simulation of nonlinear systems subject to modulated chirp signals,"M Condon, A Iserles",COMPEL: The International Journal for Computation and Mathematics in …,,0,2015
+Chapter 7: Numerical Methods for Elliptic Problems,"AS Fokas, A Iserles, SA Smitheman",Unified Transform for Boundary Value Problems: Applications and Advances …,,0,2014
+Mathematics of Information–The Second Industrial Revolution,"A Iserles, CB Schönlieb","Mathematics TODAY, 212",,0,2014
+Computing the Schr odinger equation with no fear of commutators,A Iserles,"European Congress of Mathematics Kraków, 2–7 July, 2012, 361-374",,0,2014
+Numerical stability in the presence of variable coefficients,A Iserles,,,0,2013
+Mathematics of Information,"A Iserles, CB Schönlieb",,,0,2013
+Invited plenary talks and lectures.,"CE Buono, L Lopez, T Politi, LP Mertz, P Rentrop, AI Hochbruck, C Lubich",Workshop Algebraic Combinatorics and Numerical Analysis,,0,2012
+MR2977611 01A70,RJ Marsden,"Notices Amer. Math. Soc 59 (6), 758-775.1088",,0,2012
+Encyclopedia of Applied and Computational Mathematics: A Springer Live Reference,"B Engquist, TF Chan, W Cook, E Hairer, J Håstad, A Iserles, ...",Springer-Verlag Berlin Heidelberg,,0,2011
+We believe that open discussion facilitates the production of knowledge. CELJ will function as a forum for the multitude of voices on the many and diverse legal issues. Editors …,N Colneric,,,0,2011
+Measures related to metric complexity,"V Afraimovich, L Glebsky, R Vazquez","Discrete & Continuous Dynamical Systems-A 28 (4), 1299",,0,2010
+A First Course in the Numerical Analysis of Differential Equations,RJ LeVeque,"SIAM review 52 (1), 199",,0,2010
+Acta Numerica 2003,"F Brezzi, JC Butcher, GH Golub, A Iserles",Cambridge University Press,,0,2010
+On the singular values of the Fox–Li operator,"H BRUNNER, A ISERLES, SP NØRSETT",,,0,2009
+Dedication Michael JD Powell,"A Iserles, ML Overton","IMA JOURNAL OF NUMERICAL ANALYSIS 28 (4), 647-648",,0,2008
+IMA Journal of,"A Iserles, E Süli",,,0,2008
+Quelques aspects géométriques en théorie des coques et en intégration numérique des systèmes hamiltoniens.,P Chartier,Université de Rennes 1,,0,2007
+A Course in Mathematical Biology: Quantitative Modeling with Mathematical and Computational Methods,LJS Allen,"SIAM Review 49 (2), 329-331",,0,2007
+"Featured Review: The Art of Computer Programming, Vol. 4. Generating All Trees: History of Combinatorial Generation",A Iserles,"SIAM Review 49 (2), 327-329",,0,2007
+Change of editorship,"A Iserles, ML Overton, E Süli","IMA Journal of Numerical Analysis 27 (1), i-i",,0,2007
+Cambridge CB2 1ST,A Iserles,"Pade Approximation and its Applications, Amsterdam 1980: Proceedings of a …",,0,2006
+"Organised by A. Iserles, SP Norsett",A Iserles,"SIAM J. Numer. Anal 44, 53",,0,2006
+Special issue dedicated to Michael JD Powell,"R DeVore, A Iserles, M Todd","Foundations of Computational Mathematics 3 (2), 111-111",,0,2003
+"Golic, Jovan Dj., 356","X Guiqiao, M Al-Baali, P Alevizos, E Allgower, A Ben-Hur, KH Borgwardt, ...","Journal of Complexity 18, 1037-1038",,0,2002
+"Barrio, R. and JM Peña, Numerical","S Börm, W Hackbusch, SC Brenner, JL Castellanos, S Gómez, V Guerra, ...","Applied Numerical Mathematics 43, 501-502",,0,2002
+Reviews and Descriptions of Tables and Books,CW Shu,"Mathematics of Computation 71 (239), 1329-1334",,0,2002
+Themes in geometric integration-Foreword,"A Iserles, SP Norsett","APPLIED NUMERICAL MATHEMATICS 39 (3-4), 239-244",,0,2001
+"Acta Numerica 2001 Cambridge University Press, Cambridge, 2001",A Iserles,Numerical Algorithms 27 (4),,0,2001
+"Applications of radial basis functions: Sobolev-orthogonal functions, radial basis functions and spectral methods","MD Buhmann, A Iserles, SP Norsett",JUSTUS-LIEBIG-UNIV GIESSEN (GERMANY) MATHEMATICS INST,,0,2001
+Optimal acceleration of convergence,"A Iserles, X Liu","Methods and Applications of Analysis 8 (1), 15-32",,0,2001
+Themes in geometric integration,"SP NØRSETT, A ISERLES",Applied numerical mathematics 39 (3-4),,0,2001
+"Arena, D., see Spitaleri, RM (2) 181–189","G Beckett, JA Mackenzie, AC Berti, AS Ranga, S Blanes, F Casas, J Ros, ...","Applied Numerical Mathematics 39, 461-462",,0,2001
+Reviews and Descriptions of Tables and Books-6,"CJ Budd, A Iserles","Mathematics of Computation 70 (235), 1335",,0,2001
+A Magnus Expansion for the Equation Y1,A Iserles,"University of Cambridge, Department of Applied Mathematics and Theoretical …",,0,2000
+Reviews and Descriptions of Tables and Books,"LN Trefethen, D Bau III, A Iserles, ED Goede, F Paris, J Canas","Mathematics of Computation 68 (225), 453",,0,1999
+REVIEWS AND DESCRIPTIONS OF TABLES AND BOOKS,"GW Stewart, T King, Y Achdou, F Stenger","Math. Comp 68, 453-459",,0,1999
+MATHEMATICS-Foundations of Computational Mathematics,A Iserles,Mathematics Today-Bulletin of the Institute of Mathematics and its …,,0,1999
+"Determinants and their Applications in Mathematical Physics Springer, Berlin, 1998 This is a unique book. Determinants can have a life outside of matrix theory and, after …","MD BUHMANN, A ISERLES","Numerical Algorithms 20, 101-105",,0,1999
+DAMTP 1997/NA9 May 1997,"A Iserles, SP Nłrsett",,,0,1997
+Biorthogonal polynomials and zero-mapping transformations,"A Iserles, SP Nørsett","Computers & Mathematics with Applications 33 (1-2), 129-143",,0,1997
+A First Course in the Numerical Analysis of Differential Equations,"J Guckenheimer, A Iserles","American Journal of Physics 65 (2), 162",,0,1997
+UNIVERSITY OF CAMBRIDGE Numerical Analysis Reports Conservative methods for the Toda lattice,"EC Ew, MP Calvo, A Iserles, A Zanna",,,0,1996
+Integro-differential equations and generalized hypergeometric functions,"A Iserles, Y Liu","Zeitschrift für angewandte Mathematik und Mechanik 76, 253-256",,0,1996
+Semi-explicit methods for isospectral flows,"M Paz Calvo, A Iserles, A Zanna",UNIVERSITY OF CAMBRIDGE DEPARTMENT OF APPLIED MATHEMATICS AND THEORETICAL …,,0,1996
+Embedding of Delay Equations into an Infinite-Dimensional O DE System,"A HELISTEIN, A ISERLES, D LEVIN",,,0,1995
+Convergence acceleration as a dynamical system,A Iserles,"Applied numerical mathematics 15 (2), 101-121",,0,1994
+", by W. Hackbusch. Pp 311 DM128. 1992. ISBN 3-540-54822-y (Springer)",A Iserles,"The Mathematical Gazette 78 (482), 230-232",,0,1994
+Polynomials orthogonal in a Sobolev space,"A Iserles, L Littlejohn","LECTURE NOTES IN MATHEMATICS-SPRINGER VERLAG-, 190-190",,0,1994
+FOR HAMILTONIAN EQUATIONS,A Iserles,"Advances On Computer Mathematics And Its Applications, 107",,0,1993
+The Editorial Board of the IMA Journal of Numerical Analysis is most grateful to the following people for their advice on papers that were considered for publication during the …,"JM AITCHISON, M AL, S AMINI, AL ANDREW, M ARIOLI, PJ ASTON, ...","IMA Journal of Numerical Analysis 13, 609-610",,0,1993
+The advection equation,"A Iserles, SP Nørsett","Order Stars, 120-154",,0,1991
+Contractive approximation,"A Iserles, SP Nørsett","Order Stars, 193-206",,0,1991
+General Order Stars,"A Iserles, SP Nørsett","Order Stars, 9-27",,0,1991
+Padé approximants,"A Iserles, SP Nørsett","Order Stars, 177-192",,0,1991
+Open problems,"A Iserles, SP Nørsett","Order Stars, 207-227",,0,1991
+Multistep methods,"A Iserles, SP Nørsett","Order Stars, 92-119",,0,1991
+A-acceptability barriers,"A Iserles, SP Nørsett","Order Stars, 50-91",,0,1991
+The diffusion equation,"A Iserles, SP Nørsett","Order Stars, 155-176",,0,1991
+Rational Approximants to the Exponential,"A Iserles, SP Nørsett","Order Stars, 28-49",,0,1991
+", edited by J. C. Diaz. Pp 368. $102. 1989. ISBN 0-8247-8122-8 (Marcel Dekker)",A Iserles,"The Mathematical Gazette 74 (469), 324-325",,0,1990
+", by G. H. Golub and C. F. Van Loan. Pp 642. £38. 1989. ISBN 0-8018-3772-3 (John Hopkins Press)",A Iserles,"The Mathematical Gazette 74 (469), 322-324",,0,1990
+Dynamic Fracture Mechanics. Cambridge Monographs on Mechanics and Applied Mathematics,"MJ Ablowitz, SH Davis, EJ Hinch, A Iserles, J Ockendon, PJ Olver",Cambridge University Press,,0,1990
+The Editorial Board of the IMA Journal of Numerical Analysis is most grateful to the following people for their advice on papers that were considered for publication in Volume 9.,"JM AITCHISON, S RMCS, P ALFELD, M ARIOU, F Cerfacs, JW BARRETT, ...","IMA Journal of Numerical Analysis 9, 589-590",,0,1989
+On Certain Polynomials and Determinants Arising in Complex Dynamics,"A Iserles, ...","University of Cambridge, Department of Applied Mathematics and Theoretical …",,0,1989
+", by D. W. Jordan and P. Smith. Pp 381. £14·50 (paperback), £27·50 (hardback). 1987. ISBN 0-19-859657-X …",A Iserles,"The Mathematical Gazette 72 (460), 155-156",,0,1988
+Error control of rational approximation with a matrix argument,A Iserles,"Algorithms for approximation, 293-305",,0,1987
+"), by G. D. Smith. Pp 337. £20·00 (hardback), £10·95 (paperback). 1985 …",A Iserles,"The Mathematical Gazette 70 (454), 330-332",,0,1986
+The Editorial Board of the IMA Journal of Numerical Analysis is most grateful to the following individuals for their advice on papers that were considered for publication in …,"R ANSORGE, JW BARRETT, DA BRANNAN, M BRANNIGAN, F BREZZI, ...","IMA Journal of Numerical Analysis 3, 505-506",,0,1983
+Efficient Two-Step Numerical Methods for Parabolic Differential Equations,A Iserles,"North-Holland Mathematics Studies 47, 319-326",,0,1981
+A NOTE ON PADE APPROXIMATIONS AND GENERALIZED HYPERGEOMETRIC FUNCTIONS,"I ARIEH, A ISERLES",,,0,1979
+CIAM J NUMERICAL ANALYSIS,A ISERLES,SIAM Journal on Numerical Analysis: A Publication of the Society of …,,0,1979
+A Transformation of the Dependent Variables and the Numerical Solution of Stiff Systems,A Iserles,Ben Gurion University of the Negev,,0,1977
+FUNCTIONAL FITTING-NEW FAMILY OF SCHEMES FOR INTEGRATION OF STIFF ODES,A ISERLES,"NOTICES OF THE AMERICAN MATHEMATICAL SOCIETY 23 (2), A286-A286",,0,1976
+Optimal Selection of Fitting Parameter and Optimal Linear Decomposition for Stiff ODE,A Iserles,Ben Gurion University of the Negev,,0,1976
+CAMBRIDGE MONOGRAPHS ON APPLIED AND COMPUTATIONAL MATHEMATICS,"MJ ABLOWITZ, SH DAVIS, EJ HINCH, A ISERLES, J OCKENDON, ...",,,0,0
+Cambridge Texts in Applied Mathematics,"MJ SEWELL, PG DRAZIN, RS JOHNSON, JM OTTINO, PG CIARLET, ...",,,0,0
+Reconstruction algorithm for single photon emission,"AS Fokas, A Iserles, V Marinakis",,,0,0
+Please visit the journal’s Website at www. imajna. oxfordjournals. org,"MH GUTKNECHT, BN PARLETT, D HUYBRECHS, A ISERLES, ...",,,0,0
+Numerical analysis and orthogonal polynomials CHAPTER 2: Orthogonal expansions,A Iserles,,,0,0
+"Forum of Mathematics, Pi and Forum of Mathematics, Sigma are an exciting new development in journal publishing. Together they offer fully open access publication combined with …","D Arnold, H Cohn, I Daubechies, S Donaldson, D Gaitsgory, T Gowers, ...",,,0,0
+Harald Niederreiter,"JY Cai, R Cools, F Cucker, S Dahlke, JP Dedieu, S Heinrich, P Hertling, ...",,,0,0
+Workshop A5 Geometric Integration and Computational Mechanics,A Iserles,"FOCM 2017 Book of abstracts, 53",,0,0
+"Symmetries  of  Differential  Equations:  Frames,  Invariants  and  Applications","I Anderson, J Ball, M Boutin, M Fels, A González-López, D Holm, E Hubert, ...",,,0,0
+Symmetric and arbitrarily high-order time-stepping methods for solving nonlinear Klein–Gordon equations,"C Liu, A Iserles, X Wu",,,0,0
+NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET,"A Iserles, SP Nørsett",,,0,0
+SPECIAL VOLUME: FOUNDATIONS OF COMPUTATIONAL MATHEMATICS,A Iserles,,,0,0
+Some remarks on the paper „On a curious q-hypergeometric identity”,"MJ Cantero, A Iserles",,,0,0
+Asymptotic Solvers for Highly Oscillatory Semi-explicit DAEs,"M Condon, J Gao, A Iserles",,,0,0
+Expansion of ODEs forced by irregular highly oscillatory terms with stationary points,A Iserles,,,0,0
+Harald Niederreiter,"JY Cai, F Cucker, JP Dedieu, R DeVore, S Heinrich, FJ Hickernell, ...",,,0,0
+Henryk Wozniakowski,"H Niederreiter, JY Cai, F Cucker, JP Dedieu, R DeVore, S Heinrich, ...",,,0,0
+By Jes us MF Castillo and Wo ciech Okrasinski... 191,"MA Golberg, A Iserles, Y Liu, BG Sloss, WF Blyth",,,0,0
+Cambridge Texts in Applied Mathematics,"A ISERLES, RE O'MALLEY, RS JOHNSON, C CERCIGNANI, PE HYDON, ...",,,0,0
+"Department of Applied Mathematics and Theoretical Physics, University of Cambridge, Silver Street, Cambridge CB3 9EW",A Iserles,,,0,0
+Combinatorics and Control 2010,"P CARTIER, F CASAS, E CELLEDONI, F CHAPOTON, P CHARTIER, ...",,,0,0
+TuM02-1,"AM Bloch, A Iserles",,,0,0
+"MARIPAZ CALVO Departamento de Matem atica Aplicada y Computaci on Universidad de Valladolid Valladolid, Spain E-mail: Maripaz@ mac. cie. uva. es","A ISERLES, A ZANNA",,,0,0
+1 Linear ordinary differential equations,A Iserles,,,0,0
+HOW TO WRITE A PAPER?,A Iserles,,,0,0
+Numerical Solution of Differential Equations (L24),A Iserles,"Mathematical Tripos Part III Lecture Courses in 2003-2004, 70",,0,0
+ARISING IN GEOMETRIC INTEGRATION OF DIFFERENTIAL EQUATIONS,"A ISERLES, A ZANNA","LMS J. Comput. Math 1, 32",,0,0
+1 The Need for Numerical Computation,"SC Brent, I Du_, D Estep, J Giudice, G Golub, N Gould, T Gowers, ...",,,0,0
+A Magnus expansion for the equation,A Iserles,,,0,0
+60. Numerical methods for differential equations in Lie groups.............,A Iserles,"Faculty of Mathematics Part III Essays: 2006-2007, 44",,0,0

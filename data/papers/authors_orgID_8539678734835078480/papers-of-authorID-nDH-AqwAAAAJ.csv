@@ -1,0 +1,182 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+Tcl und Tk: Entwicklung grafischer Benutzerschnittstellen für das X Window System,JK Ousterhout,Pearson Deutschland GmbH,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11889363046596205159,3849,1995
+The design and implementation of a log-structured file system,"M Rosenblum, JK Ousterhout","ACM Transactions on Computer Systems (TOCS) 10 (1), 26-52","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17350290548879842724,9286720307203687003",3111,1992
+Caching in the Sprite network file system,"MN Nelson, BB Welch, JK Ousterhout","ACM Transactions on Computer Systems (TOCS) 6 (1), 134-154",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14813037785929493171,1586,1988
+In search of an understandable consensus algorithm,"D Ongaro, J Ousterhout","2014 {USENIX} Annual Technical Conference ({USENIX}{ATC} 14), 305-319","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12646889551697084617,15141061938475263862",1075,2014
+Scripting: Higher level programming for the 21st century,JK Ousterhout,"Computer 31 (3), 23-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4793805797662885374,1072,1998
+Measurements of a distributed file system,"MG Baker, JH Hartman, MD Kupfer, KW Shirriff, JK Ousterhout","ACM SIGOPS Operating Systems Review 25 (5), 198-212",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7874303365010128374,824,1991
+The Sprite network operating system,"JK Ousterhout, AR Cherenson, F Douglis, MN Nelson, BB Welch","Computer 21 (2), 23-36",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17142691790282210637,806,1988
+A trace-driven analysis of the UNIX 4.2 BSD file system,"JK Ousterhout, H Da Costa, D Harrison, JA Kunze, M Kupfer, ...",CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2332885172415706257,801,1985
+Scheduling Techniques for Concurrebt Systems.,JK Ousterhout,"ICDCS 82, 22-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6603588046728339399,774,1982
+Transparent process migration: Design alternatives and the Sprite implementation,"F Douglis, J Ousterhout","Software: Practice and Experience 21 (8), 757-785",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7849249873927354107,723,1991
+The Zebra striped network file system,"JH Hartman, JK Ousterhout","ACM SIGOPS Operating Systems Review 27 (5), 29-43","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5724742755348240681,7733913276184772374",671,1994
+Why aren’t operating systems getting faster as fast as hardware,J Ousterhout,In Summer USENIX’90,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14911897005751556331,639,1990
+The case for RAMClouds: scalable high-performance storage entirely in DRAM,"J Ousterhout, P Agrawal, D Erickson, C Kozyrakis, J Leverich, D Mazières, ...","ACM SIGOPS Operating Systems Review 43 (4), 92-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6913523241804369970,595,2010
+Tcl: An embeddable command language,JK Ousterhout,"University of California, Berkeley, Computer Science Division",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6279416880057759786,590,1989
+Beating the I/O bottleneck: A case for log-structured file systems,"J Ousterhout, F Douglis","ACM SIGOPS Operating Systems Review 23 (1), 11-28",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1584778069297957507,504,1989
+Disk scheduling revisited,"M Seltzer, P Chen, J Ousterhout","Proceedings of the winter 1990 USENIX technical conference, 313-323",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2262830572150042018,411,1990
+The LFS storage manager,"M Rosenblum, JK Ousterhout",Proceedings of the 1990 Summer Usenix,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2193862599371943739,385,1990
+The Design of XPRS.,"M Stonebraker, RH Katz, DA Patterson, JK Ousterhout","VLDB, 318-330",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3963718676548817197,373,1988
+The magic VLSI layout system,"JK Ousterhout, GT Hamachi, RN Mayo, WS Scott, GS Taylor","IEEE Design & Test of Computers 2 (1), 19-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17074656431542751902,373,1985
+Fast crash recovery in RAMCloud,"D Ongaro, SM Rumble, R Stutsman, J Ousterhout, M Rosenblum",Proceedings of the Twenty-Third ACM Symposium on Operating Systems …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17537838880003828414,360,2011
+Corner stitching: A data-structuring technique for VLSI layout tools,JK Ousterhout,IEEE Transactions on Computer-Aided Design of Integrated Circuits and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13256527665628162871,351,1984
+Why threads are a bad idea (for most purposes),J Ousterhout,Presentation given at the 1996 Usenix Annual Technical Conference 5,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16127579927328368947,348,1996
+"Non-volatile memory for fast, reliable file systems","M Baker, S Asami, E Deprit, J Ousterhout, MI Seltzer","ASPLOS 92, 10-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4929460366502057807,338,1992
+A switch-level timing verifier for digital MOS VLSI,JK Ousterhout,IEEE transactions on computer-aided design of integrated circuits and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6311559929195898952,282,1985
+An X11 Toolkit Based on the Tcl Language.,JK Ousterhout,"USENIX Winter, 105-116",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13118437103435385231,252,1991
+Medusa: an experiment in distributed operating system structure,"JK Ousterhout, DA Scelza, PS Sindhu","Communications of the ACM 23 (2), 92-105",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3912376255292585043,225,1980
+Design decisions in SPUR,"M Hill, S Eggers, J Larus, G Taylor, G Adams, BK Bose, G Gibson, ...","Computer 19 (11), 8-22",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1611201450509504587,207,1986
+Process migration in the Sprite operating system,F Douglis,CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15979076622544828602,206,1987
+The magazine archive includes every article published in Communications of the ACM for over the past 50 years.,"J Ousterhout, P Agrawal, D Erickson, C Kozyrakis, J Leverich, D Mazières, ...","Communications of the ACM 54 (7), 121-130",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12852982987215487963,195,2011
+Crystal: A timing analyzer for nMOS VLSI circuits,JK Ousterhout,"Third Caltech Conference on Very Large Scale Integration, 57-69",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3780844039864486777,179,1983
+It's Time for Low Latency.,"SM Rumble, D Ongaro, R Stutsman, M Rosenblum, JK Ousterhout","HotOS 13, 11-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18360861659641859649,172,2011
+The RAMCloud storage system,"J Ousterhout, A Gopalan, A Gupta, A Kejriwal, C Lee, B Montazeri, ...","ACM Transactions on Computer Systems (TOCS) 33 (3), 7",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15754405687028247503,171,2015
+An Introduction to TCL and TK,JK Ousterhout,Addison-Wesley Publishing,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4255801920832734647,171,1993
+The safe-tcl security model,"JK Ousterhout, JY Levy, BB Welch","Mobile Agents and Security, 217-234",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4114625081064682913,157,1998
+Multi-microprocessors: An overview and working example,"SH Fuller, JK Ousterhout, L Raskin, PI Rubinfeld, PJ Sindhu, RJ Swan","Proceedings of the IEEE 66 (2), 216-228",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12747261995815484075,151,1978
+Switch-level delay models for digital MOS VLSI,JK Ousterhout,"21st Design Automation Conference Proceedings, 542-548",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9015985092938135350,145,1984
+Pseudo devices: User-level extensions to the Sprite file system,"BB Welch, JK Ousterhout",CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11853778598814526442,125,1988
+Log-structured memory for DRAM-based storage,"SM Rumble, A Kejriwal, J Ousterhout",Proceedings of the 12th {USENIX} Conference on File and Storage Technologies …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9015493212410373924,121,2014
+Prefix tables: A simple mechanism for locating files in a distributed system,"B Welch, J Ousterhout",CALIFORNIA UNIV BERKELEY DEPT OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10049194861608838319,115,1985
+Copysets: Reducing the frequency of data loss in cloud storage,"A Cidon, S Rumble, R Stutsman, S Katti, J Ousterhout, M Rosenblum",Presented as part of the 2013 {USENIX} Annual Technical Conference ({USENIX …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5814698094269914127,111,2013
+Performance consequences of parity placement in disk arrays,"EK Lee, RH Katz","ACM SIGARCH Computer Architecture News 19 (2), 190-199",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4054812843905212282,111,1991
+The implementation of the Cm* multi-microprocessor,"RJ Swan, A Bechtolsheim, KW Lai, JK Ousterhout","Proceedings of the June 13-16, 1977, national computer conference, 645-655",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16491173402276815620,108,1977
+Pseudo-file-systems,"BB Welch, JK Ousterhout",CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15140651501530401192,99,1989
+Magic's circuit extractor,"WS Scott, JK Ousterhout","IEEE Design & Test of Computers 3 (1), 24-34",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11885774534713804929,96,1986
+Caesar: An Interactive Editor for VLSI Layout.,JK Ousterhout,"COMPCON, 300-301",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=630543065204912884,95,1982
+Performance Measurements of a Multiprocessor Sprite Kernel.,"JH Hartman, JK Ousterhout","USENIX Summer, 279-288","https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1198746341451138031,6069743902403837457",94,1990
+A switchbox router with obstacle avoidance,"GT Hamachi, JK Ousterhout","21st Design Automation Conference Proceedings, 173-179",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17611103547875063416,80,1984
+Magic's incremental design-rule checker,"GS Taylor, JK Ousterhout","21st Design Automation Conference Proceedings, 160-165",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4779718837315564822,72,1984
+C Comparison of Two Distributed Systems: Amoeba and Sprite,"F Douglis, JK Ousterhout, MF Kaashoek, AS Tanenbaum","Computing Systems Journal 4 (Fall), 353-384",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3718634256326980993,71,1991
+System and method for supplementing program builds with file usage information,"J Ousterhout, S Delmas, J Grahm-Cumming, JE Melski, U Muzaffar, ...","US Patent 7,168,064",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10456842774828376631,66,2007
+Caching in the Sprite network file system,"M Nelson, B Welch, J Ousterhout","ACM SIGOPS Operating Systems Review 21 (5), 3-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16092178008438008251,61,1987
+1986 VLSI tools: Still more works by the original artists,"WS Scott, RN Mayo, G Hamachi, JK Ousterhout",University of California at Berkeley,"https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8190884611441461006,14916158156776924853",61,1985
+Architecture and method for executing program builds,"J Ousterhout, S Delmas, J Graham-Cumming, JE Melski, U Muzaffar, ...","US Patent 7,676,788",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18179403222030330052,58,2010
+"Methods, apparatus and computer programs for scheduling storage requests","S Ghosal, R Jain, A Verma","US Patent 7,277,984",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13153723595517093690,57,2007
+The safe-tcl security model,"JY Levy, JK Ousterhout, BB Welch","Sun Microsystems, Inc.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1144080776229864747,56,1997
+SPUR: a VLSI multiprocessor workstation,"MD Hill, SJ Eggers, JR Larus, GS Taylor, GD Adams, BK Bose, GA Gibson, ...",University of California,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10008333037956271624,56,1985
+Free software needs profit,J Ousterhout,"Communications of the ACM 42 (4), 44-44",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16191911748436018216,54,1999
+Availability in the Sprite distributed file system,"M Baker, J Ousterhout","Proceedings of the 4th workshop on ACM SIGOPS European workshop, 1-4",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11706888061142981407,54,1990
+Lyra: A new approach to geometric layout rule checking,"MH Arnold, JK Ousterhout","Proceedings of the 19th Design Automation Conference, 530-536",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18056772564320118081,52,1982
+Implementing linearizability at large scale and low latency,"C Lee, SJ Park, A Kejriwal, S Matsushita, J Ousterhout","Proceedings of the 25th Symposium on Operating Systems Principles, 71-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10335675995107616016,51,2015
+Log-structured file systems,"F Douglis, J Ousterhout",Digest of Papers. COMPCON Spring 89. Thirty-Fourth IEEE Computer Society …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5293060513288564594,51,1989
+"Non-lethal, rapidly deployed vehicle immobilizer","JN Ousterhout, JP Marcotullio, DA Edmonds, RL Hoskins","US Patent 6,312,188",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=348318848242375412,46,2001
+Homa: A receiver-driven low-latency transport protocol using network priorities,"B Montazeri, Y Li, M Alizadeh, J Ousterhout",Proceedings of the 2018 Conference of the ACM Special Interest Group on Data …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6128095119233723282,44,2018
+System and method for intelligently distributing source files within a distributed program build architecture,"J Ousterhout, S Delmas, JE Melski, S Stanton, S Tamhankar","US Patent 7,539,976",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4862823207905647196,43,2009
+Plowing: Interactive stretching and compaction in magic,"WS Scott, JK Ousterhout","Proceedings of the 21st Design Automation Conference, 166-172",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=821575134527204903,40,1984
+A trace-driven analysis of name and attribute caching in a distributed system,"KW Shirriff, JK Ousterhout","Computer Science Division (EECS), University of California",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2768976044730287201,34,1992
+Tcl/Tk Tools,"M Harrison, A Brighton, D Clarke, C Crowley, M Diekhans, S Greenberg, ...","O'Reilly & Associates, Inc.",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14999812997714995619,33,1997
+Safe Tcl: A toolbox for constructing electronic meeting places,"J Levy, JK Ousterhout","The First USENIX Workshop on Electronic Commerce, 133-135",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17556302953875817511,33,1995
+{SLIK}: Scalable Low-Latency Indexes for a Key-Value Store,"A Kejriwal, A Gopalan, A Gupta, Z Jia, S Yang, J Ousterhout","2016 {USENIX} Annual Technical Conference ({USENIX}{ATC} 16), 57-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5355271817326644025,30,2016
+System and method for processing recursive invocations within a program build,"U Muzaffar, S Delmas, J Graham-Cumming, JE Melski, J Ousterhout, ...","US Patent 7,263,695",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12633676036912465890,28,2007
+"Robo-line storage: low latency, high capacity storage systems over geographically distributed networks","RH Katz, TE Anderson, JK Ousterhout, DA Patterson",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=566901139757064633,26,1991
+A project on high performance I/0 subsystems,RH Katz,"ACM SIGARCH Computer Architecture News 17 (5), 24-31",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12381626643732689022,26,1989
+Scripts and agents: The new software high ground,JK Ousterhout,Invited Talk at the Winter 1995 USENIX Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13441407861526087612,25,1995
+The user interface and implementation of an IC layout editor,JK Ousterhout,IEEE transactions on computer-aided design of integrated circuits and …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1491914367119399593,24,1984
+PARTITIONING AND COOPERATION IN A DISTRIBUTED MULTIPROCESSOR OPERATING SYSTEM: MEDUSA.,JK Ousterhout,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17000878401104250261,24,1981
+Copy-on-write for Sprite,M Nelson,"Proceedings of USENIX Summer Conference, 1988",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16999659226058790958,23,1988
+Using crystal for timing analysis,J Ousterhout,"Electrical Engineering and Computer Sciences, University of California at …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8501111327661873949,23,1987
+Pictures with parentheses: Combining graphics and procedures in a VLSI layout tool,"RN Mayo, JK Ousterhout","Proceedings of the 20th Design Automation Conference, 270-276",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1281198796124887057,23,1983
+System and method for file caching in a distributed program build environment,"J Ousterhout, S Delmas, J Graham-Cumming, JE Melski, U Muzaffar, ...","US Patent 7,086,063",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9824823387253423312,21,2006
+Transparent process migration for personal workstations,"F Douglis, J Ousterhout",CALIFORNIA UNIV BERKELEY COMPUTER SCIENCE DIV,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15514290456841184844,21,1989
+Arachne: core-aware thread management,"H Qin, Q Li, J Speiser, P Kraft, J Ousterhout",13th {USENIX} Symposium on Operating Systems Design and Implementation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16770319321764317530,20,2018
+MinCopysets: Derandomizing replication in cloud storage,"A Cidon, R Stutsman, S Rumble, S Katti, J Ousterhout, M Rosenblum","Proc. 10th USENIX Symp. NSDI, 1-5",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18160423655272068944,20,2013
+Conflict detection and correction in a program build environment,"S Stanton, S Delmas, J Graham-Cumming, JE Melski, U Muzaffar, ...","US Patent 7,395,529",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18414721146532242954,17,2008
+Medusa: a distributed operating system,JK Ousterhout,UMI Research Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16223445274606306192,17,1981
+Vehicle capture barrier,"JN Ousterhout, KL Tacke","US Patent 6,896,443",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3910669072980864371,15,2005
+The role of distributed state,JK Ousterhout,"CMU Computer Science: a 25th Anniversary Commemorative, 199-217",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8438860548874450171,15,1991
+Sprite position statement: Use distributed state for failure recovery,"B Welch, M Baker, F Douglis, J Hartman, M Rosenblum, J Ousterhout","Proceedings of the Second Workshop on Workstation Operating Systems, 130-133",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4232306324892813556,13,1989
+A collection of papers on magic,"JK Ousterhout, GT Hamachi, RN Mayo, WS Scott, GS Taylor",University of California at Berkeley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=206690838321541295,13,1983
+"Experience with rules-based programming for distributed, concurrent, fault-tolerant code","R Stutsman, C Lee, J Ousterhout","2015 {USENIX} Annual Technical Conference ({USENIX}{ATC} 15), 17-30",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8053102303464410775,12,2015
+Sawmill: A High-Bandwidth Logging File System.,"K Shirriff, JK Ousterhout","USENIX Summer, 125-136",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16527571603787327054,11,1994
+Tcl/Tk Engineering Manual,JK Ousterhout,Sun Microsystems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8172377388333766223,11,1994
+Process migration in Sprite: A status report,"F Douglis, J Ousterhout",IEEE Comp. Soc. Techn. Comm. on Oper. Syst. and Appl. Env. Newsletter 3 (1 …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=637215841768925206,11,1989
+Measurements of a VLSI Design,"JK Ousterhout, DM Ungar","Proceedings of the 19th Design Automation Conference, 903-908",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5816811330156020309,11,1982
+Process automation system and method employing multi-stage report generation,"J Ousterhout, A Wallgren, S Tamhankar, S Stanton, U Muzaffar","US Patent 8,042,089",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3560549472982398678,10,2011
+Managing state for ajax-driven web components,"J Ousterhout, E Stratmann","USENIX Conference on Web Application Development, 73-85",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8380277046511043498,10,2010
+"Tcl und Tk, Entwicklung grafischer Benutzerschnittestellen für das X Window System",JK Ousterhout,Addison-Wesley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=480811188702796046,10,1995
+Magic's obstacle-avoiding global router,"GT Hamachi, JK Ousterhout","Proc. of 1985 Chapel Hill VLSI Conference, 145-164",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4973709161759258759,10,1985
+Tcl and the Tk toolkit. 1994,JK Ousterhout,"Reading, MA",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7881288791497343815,10,0
+"Toward common patterns for distributed, concurrent, fault-tolerant code","R Stutsman, J Ousterhout",Presented as part of the 14th Workshop on Hot Topics in Operating Systems,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7963907559810968557,9,2013
+Tcl,"JK Ousterhout, K Jones",Tk http://tcl. activestate. com/software/tcltk,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2167368707422817254,9,1994
+"Is scale your enemy, or is scale your friend?: technical perspective",J Ousterhout,"Communications of the ACM 54 (7), 110-110",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6836267013901053221,8,2011
+Integrating long polling with an MVC framework,"E Stratmann, J Ousterhout, S Madan","Proceedings of the 2nd USENIX conference on Web application development, 10-10",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5465923263598203418,8,2011
+Transparent process migration: design alternatives and the sprite implementation,"F Douglis, J Ousterhout","Mobility, 56-86",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17479600406964790109,8,1999
+Software [r] evolution: A roundtable,KL Kroeker,"Computer, 48-57",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11874699342384889817,8,1999
+Raft consensus algorithm,"D Ongaro, J Ousterhout",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10426314222041026529,7,2015
+Fiz: A component framework for web applications,J Ousterhout,Stanford CSD Technical Report. http://www. stanford. edu/ouster/cgibin …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17942101685777057224,7,2009
+Tcl-A Universal Scripting Language,J Ousterhout,lecture at MIT,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14065015944945524213,7,1995
+Beating the I/O bottleneck: A case for logstructured files systems,"F Douglis, JK Ousterhout","Technical Report UCB/CSD 88/467, University of California, Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14477134275074065048,7,1988
+Magic Maintainer’s Manual# 2: The Technology File,"W Scott, J Ousterhout",see [141),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4283910697546956570,7,1985
+Power Generation Using Simultaneous Capture of Solar Photovoltaic and Solar Thermal Energy.,"JN Ousterhout, D Olson","Journal of Technology, Management & Applied Engineering 29 (2)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3413280008371606325,6,2013
+TCL-Tool Command Language,J Ousterhout,URL: http://www. tcl. tk,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7303977987520866620,6,1988
+Always measure one level deeper,J Ousterhout,"Communications of the ACM 61 (7), 74-83",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1229101970192085267,5,2018
+Prefix Tables: A Simple Mechanism for Locating Files,"BB Welch, JK Ousterhout",University of California at Berkeley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1634685586502102944,5,1985
+Integrating long polling with an mvc web framework,"E Stratmann, J Ousterhout, S Madan","2nd USENIX conference on Web application development, 113",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8699177240876079233,4,2011
+Hypergraphics and hypertext in Tk,J Ousterhout,"The X resource, 113-127",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6985145462597225262,4,1993
+Exploiting commutativity for practical fast replication,"SJ Park, J Ousterhout",16th {USENIX} Symposium on Networked Systems Design and Implementation …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3451458773692631815,3,2019
+Extensibility in Tcl.,J Ousterhout,"Dr. Dobb's Journal: Software Tools for the Professional Programmer 24 (6), 64-70",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12718881815717327409,3,1999
+1983 VLSI Tools: Selected Works by the Original Artists,"RN Mayo, JK Ousterhout, WS Scott",University of California,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14126348942734553075,3,1983
+MORE ON EXPERIMENTAL COMPUTER-SCIENCE AND FUNDING,JK Ousterhout,"Communications of the ACM 24 (8), 546-546",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13036631279662738487,3,1981
+RAMCloud: Scalable high-performance storage entirely in DRAM,J Ousterhout,HPTS,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14936656279330105598,2,2009
+Integration: A new style of programming,JK Ousterhout,"Computer 32 (5), 53-53",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14105109275593334896,2,1999
+Sprite engineering manual,JK Ousterhout,"University of California, Berkeley, Computer Science Division",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9641584901491738747,2,1989
+Magic Tutorial# 6: Design-Rule Checking,J Ousterhout,see [141). Dracula IC Layout Verification System User’s Reference Manual …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=520422948615195250,2,1986
+Medusa,JK Ousterhout,UMI Research Press,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1904214506957917314,2,1981
+Sun Microsystems Laboratories,"JY Levy, L Demailly, JK Ousterhout, BB Welch",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8353695909160460750,2,0
+Writing Tcl-Based Applications In C,J Ousterhout,"Vortrag, Folienkopien via FTP erh altlich",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13903692895973121194,2,0
+An Introduction To Writing Tcl Scripts,J Ousterhout,"Vortrag, Folienkopien via FTP erh altlich",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12709211936144808979,2,0
+A Case for Log-Structured File Systems,"M Rosenblum, JK Ousterhout","Proceedings of the Thirteenth Symposium on Operating Systems Principles, 1-15",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1561886408321097879,2,0
+Building User Interfaces With Tcl and Tk,J Ousterhout,"Vortrag, Folienkopien via FTP erh altlich",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10686826791419933470,2,0
+Writing A New Widget Class Using C and Tk,J Ousterhout,"Vortrag, Folienkopien via FTP erh altlich",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4102236292104935042,2,0
+Tcl and Tk: A Programming System for X11 User Interfaces,J Ousterhout,"Vortrag, Folienkopien via FTP erh altlich",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1204720617711167749,2,0
+NanoLog: a nanosecond scale logging system,"S Yang, SJ Park, J Ousterhout","2018 {USENIX} Annual Technical Conference ({USENIX}{ATC} 18), 335-350",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8286375432318360843,1,2018
+Using Influence to Understand Complex Systems,AJ Oliner,Stanford University,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2885737672409446911,1,2011
+El mago,M Scott,Roca editorial,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6961843412542054508,1,2011
+10-20x Faster Software Builds,J Ousterhout,USENIX ATC,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15119594314702833647,1,2005
+A brief retrospective on the sprite network operating system,J Ousterhout,Acessado em novembro de,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14676436704182336979,1,2003
+The state of Tcl,J Ousterhout,"Performance Computing 17 (9), 43-50",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=198259022957838929,1,1999
+Zebra: A striped network file system,"JK Ousterhout, JH Hartman","tech. rep., UC Berkeley",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13058933799119437648,1,1992
+"Push Technology, Not Abstractions",J Ousterhout,"ACM SIGOPS Operating Systems Review 26 (1), 7-11",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12154974039194025370,1,1992
+"Rob-line Storage: Low Latency, High Capacity","RH Katz, TE Anderson, JK Ousterhout, DA Patterson",University of California at Berkeley,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8111777539785987629,1,1991
+1986 VLSI Tools: Still More Works by the Original Artists,"JK Ousterhout, RN Mayo, WS Scott","Computer Science Division, EECS Department, University of California",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7460636363769605685,1,1986
+The User Interface and Implementation of Caesar,JK Ousterhout,"Computer Science Division (EECS), University of California",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8015894366659818429,1,1983
+Partitioning and Cooperation in a Distributed Multiprocessor Operating System,JK OUSTERHOUT,"Medusa, Technical Report CMU-CS-80-112",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7487870651338541439,1,1980
+Medusa: An experiment in distributed operating system structure (Summary),"JK Ousterhout, DA Scelza, PS Sindhu",Proceedings of the seventh ACM symposium on Operating systems principles …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=798341320087677836,1,1979
+A Comparison of Logging and Clustering,"J Ousterhout, H Balakrishnan, K Bostic, J Chang, S McMains, ...","Computer Science Department, University of California, Berkeley (March 1994)",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8138126056970411693,1,0
+RAMCloud: A Low-Latency Datacenter Storage System,J Ousterhout,Exascale Radio Astronomy 2,,0,2014
+Process automation system and method employing property attachment techniques,"J Ousterhout, A Wallgren, S Tamhankar, S Stanton, U Muzaffar","US Patent 7,886,265",,0,2011
+"Technical Perspective Is Scale Your Enemy, Or Is Scale Your Friend?",J Ousterhout,Communications of the ACM 54 (7),,0,2011
+Process automation system and method having a hierarchical architecture with multiple tiers,"J Ousterhout, A Wallgren, S Tamhankar, S Stanton, U Muzaffar","US Patent 7,725,524",,0,2010
+Scriptics connect,"E Melski, S Stanton, J Ousterhout","Proceedings of the 7th conference on USENIX Tcl/Tk-Volume 7, 11-11",,0,2000
+Scriptics Connect Eric Melski Scriptics Corporation ericm@ scriptics. com,"S Stanton, J Ousterhout",,,0,2000
+What's New With Tcl?-Evolving features in Tcl make it an ideal partner for Java.,JK Ousterhout,"Unix Review 15 (11), 43-46",,0,1997
+"Gigabit testbed research project. Final report, August 1, 1992--December 31, 1994","D Ferrari, R Katz, J Ousterhout","California Univ., Berkeley, CA (United States). Computer Science Div.",,0,1995
+"Gigabit testbed research project(Final Report, 1 Aug. 1992- 31 Dec. 1994)","D FERRARI, R KATZ, J OUSTERHOUT",,,0,1995
+The Sequoia 2000 Technical Report Archive,"R Katz, CB Storage, T Anderson, J Ousterhout, D Patterson, J Chen, ...","University of California, Berkeley",,0,1993
+"Diskless supercomputers: Scalable, reliable I/O for the Tera-Op technology base","RH Katz, JK Ousterhout, DA Patterson",,,0,1993
+"Diskless supercomputers: Scalable, reliable I/O for the Tera-Op technology base(Final Report)","R KATZ, J OUSTERHOUT, D PATTERSON",,,0,1993
+Local Networks For Future Requirements,C Hamacher,"INFOR: Information Systems and Operational Research 26 (4), 299-315",,0,1988
+Processor scheduling in shared memory multiprocessors.,"MM Rashid, DL Black, M Seltzer, P Chen, J Ousterhout, HM Shamim, ...","Journal of Applied Sciences 6 (9), 123-126",,0,1985
+Crystal: A Tuning Analyzer for nMOS VLSl Circuits,JK Ousterhout,,,0,1983
+Circuit Timing,"JK Ousterhout, NP Jouppi, OSC by Retiming","Third Caltech Conference on Very Large Scale Integration, 55",,0,1983
+VLSI tools and architectures: Putting the new technology to work,J Ousterhout,"Proceedings of the 1983 computer science conference, 25-30",,0,1983
+Partitoning and cooperation in a distributed multiprocessor operation system: Medusa,JK Ousterhout,Carnegie-Mellon University,,0,1980
+Partitioning and cooperation in a distributed multiprocessor operating system: Medusa[Ph. D. Thesis],JK OUSTERHOUT,,,0,1980
+"Page d'aide sur l'homonymie Pour les articles homonymes, voir Tcl.","J Ousterhout, TC Team",,,0,0
+A Comparison of Two Distributed Systems: Amoeba and Sprite UTo appear in Computing Systems.] Fred Douglis* douglis@ mitl. com,JK Ousterhout,,,0,0
+Managing,JK Ousterhout,,,0,0
+A Switchbox Router with Obstacle,"GT Hamachi, JK Ousterhout",,,0,0
+définition-tool command language,"J Ousterhout, TC Team",,,0,0
+Magic Tutorial# 7: Netlists and Routing,J Ousterhout,,,0,0
+to the Sprite File System,"BB Welch, JK Ousterhout",,,0,0
+Magic Tutorial# 9: Format Conversion for CIF and Calma,J Ousterhout,,,0,0
+Optimizing Program Performance,JK Ousterhout,,,0,0
+help promote,"R Stutsman, C Lee, J Ousterhout",,,0,0
+to the Sprite File System,JK Ousterhout,,,0,0
+"New York, New York, July 1995","J Levy, J Ousterhout",,,0,0
+System overview,"M Hill, S Eggers, J Larus, G Taylor, G Adams, BK Bose, RK Hodges, ...",,,0,0
+PARALLEL SCRIPTING FOR APPLICATIONS AT THE PETASCALE AND BEYOND,J Ousterhout,,,0,0
+"Perl/Tk Reference Guide Revision 402.003. 0 c 1989, 1997","L Wall, J Ousterhout, N Ing-Simmons, J Vromans, P Raines, J Tranter, ...",,,0,0
+BEST PAPER AWARDS,"G Dupenloup, L Steinberg, TM Mitchell, JK Ousterhout, SK Jain, ...",,,0,0
+"Computer Science Division Department of Electrical Engineering and Computer Sciences University of California Berkeley, CA 94720","F Douglis, J Ousterhout",,,0,0

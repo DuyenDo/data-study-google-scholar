@@ -1,0 +1,25 @@
+Title,Authors,Platform,Cited_url,Cited_count,Year
+A {NICE} Way to Test OpenFlow Applications,"M Canini, D Venzano, P Perešíni, D Kostić, J Rexford",Presented as part of the 9th {USENIX} Symposium on Networked Systems Design …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6491651514277542279,566,2012
+A SOFT way for openflow switch interoperability testing,"M Kuzniar, P Peresini, M Canini, D Venzano, D Kostic",Proceedings of the 8th international conference on Emerging networking …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2537193731062930153,125,2012
+Automating the testing of OpenFlow applications,"M Canini, D Kostic, J Rexford, D Venzano",The 1st International Workshop on Rigorous Protocol Engineering (WRiPE),https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18376709407631590654,35,2011
+Toward online testing of federated and heterogeneous distributed systems,"M Canini, V Jovanovic, D Venzano, B Spasojevic, O Crameri, D Kostic",Proceedings of The 2011 USENIX Annual Technical Conference,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7279801868743922973,15,2011
+A Measurement Study of Data-Intensive Network Traffic Patterns in a Private Cloud,"D Venzano, P Michiardi",6th IEEE/ACM International Conference on Utility and Cloud Computing (UCC …,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16559085089222824518,11,2013
+Experimental performance evaluation of cloud-based analytics-as-a-service,"F Pace, M Milanesio, D Venzano, D Carra, P Michiardi","2016 IEEE 9th International Conference on Cloud Computing (CLOUD), 196-203",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=638542496002692622,9,2016
+Flexible scheduling of distributed analytic applications,"F Pace, D Venzano, D Carra, P Michiardi","2017 17th IEEE/ACM International Symposium on Cluster, Cloud and Grid …",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14767008928636229490,7,2017
+Too Big to Eat: Boosting Analytics Data Ingestion from Object Stores with Scoop,"Y Moatti, E Rom, R Gracia-Tinedo, D Naor, D Chen, J Sampe, ...","2017 IEEE 33rd International Conference on Data Engineering (ICDE), 309-320",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6551418029347561721,6,2017
+Checking for Insidious Faults in Deployed Federated and Heterogeneous Distributed Systems,"M Canini, V Jovanovic, D Venzano, G Kumar, D Novakovic, D Kostic",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13059165689925130966,5,2011
+Online testing of federated and heterogeneous distributed systems,"M Canini, V Jovanovic, D Venzano, D Novakovic, D Kostic",Demo and poster at the 2011 ACM SIGCOMM,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11509729993141783847,5,2011
+ANICEWaytoTest OpenFlowApplications,"M Canini, D Venzano, D Kostić, J Rexford",,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15305528794607632100,3,2012
+A Data-Driven Approach to Dynamically Adjust Resource Allocation for Compute Clusters,"F Pace, D Milios, D Carra, D Venzano, P Michiardi",arXiv preprint arXiv:1807.00368,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13051068672757687907,2,2018
+System for the creation and configuration of a network of devices,"D Venzano, A Ubertelli","US Patent App. 12/994,139",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6257708316628288083,2,2011
+Network performance measurements of data-intensive applications in a private cloud,"D Venzano, P Michiardi","Eurecom, Tech. Rep. RR-13-287",https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13523957605806189654,1,2013
+libFB,D Venzano,,https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10773309986653653014,1,0
+A Flexible Heuristic to Schedule Distributed Analytic Applications in Compute Clusters,"F Pace, D Venzano, D Carra, P Michiardi",IEEE Transactions on Cloud Computing,,0,2019
+Data-Driven Resource Shaping for Compute Clusters,"F Pace, D Milios, D Carra, D Venzano, P Michiardi","Proceedings of the ACM Symposium on Cloud Computing, 527-527",,0,2018
+On the impact of virtualization on the I/O performance of analytic workloads,"SH Ha, D Venzano, P Brown, P Michiardi",2016 2nd International Conference on Cloud Computing Technologies and …,,0,2016
+"Cluster-wide Scheduling of Flexible, Distributed Analytic Applications","F Pace, D Venzano, D Carra, P Michiardi",arXiv preprint arXiv: XXXX. XXXXX,,0,2016
+Systematically testing OpenFlow controller applications,"P Perešíni, M Kuźniar, M Canini, D Venzano, D Kostić, J Rexford","Computer Networks 92, 270-286",,0,2015
+Peer-to-peer network technology applied to the harbour environment,"G Dodero, V Gianuzzi, D Venzano, F Giacalone, F Parodi","Factory Communication Systems, 2006 IEEE International Workshop on, 410-414",,0,2006
+usenix conference policies,H Kim,,,0,0
+A NICE Way to Test OpenFlow Applications EPFL Technical Report EPFL-REPORT-169211,"M Canini, D Venzano, P Perešıni, D Kostic, J Rexford",,,0,0
+Reducing Latency in MANET File Access,"G Dodero, V Gianuzzi, D Venzano",,,0,0
