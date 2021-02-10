@@ -1,0 +1,997 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index,infield_pubs_count,infield_est_cits,infield_h_index
+2811773958,Ma Shentong,,wireless_randoms,152,158,0,0,0,0,0,0,5,5,2,1,1
+2857989069,Zhu Qilong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2598698851,郑骁能,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2244336415,Zhang Yun,Guangdong University of Technology,wireless_randoms,25,53,3,4,0,0,4,0,5,5,1,6,1
+2851404663,Yuan Hui,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2698729373,Lijun Sun,Henan University of Technology,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2724726012,黄国林,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2935248527,Urano Takashi,TDK,wireless_randoms,4,5,0,0,0,0,0,0,2,2,1,0,0
+2846704416,Deng Wei,,wireless_randoms,49,28,0,0,0,0,0,0,3,3,4,1,1
+2147353884,Axel Buerkle,Karlsruhe Institute of Technology,wireless_randoms,10,389,2,3,0,27,238,0,8,8,1,8,1
+2779600175,마사오 아라카와,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2652591526,Koichi Gyoda,Shibaura Institute of Technology,wireless_randoms,53,610,5,18,0,1,266,0,8,8,6,27,3
+2825261381,Li Lijuan,,wireless_randoms,7,9,0,0,0,0,0,0,2,2,3,6,2
+2528575145,Eric Johnson,BlackBerry Limited,wireless_randoms,32,505,0,0,0,0,0,0,10,10,5,113,5
+1276434180,Francisco Saez de Adana,University of Alcalá,wireless_randoms,21,65,13,4,2,55,2,0,4,4,1,0,0
+2351800560,Dong Sheng,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2862438448,Zhu Feng,,wireless_randoms,3,10,0,0,1,0,0,0,1,1,1,1,1
+2147982296,Sabih ur Rehman,Charles Sturt University,wireless_randoms,38,193,17,16,0,33,32,0,5,5,3,11,2
+2960565191,Zhang Jiangtao,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2844513219,Xiao Linfen,,wireless_randoms,7,7,0,0,0,0,0,0,2,2,1,1,1
+2997356990,Uno Shintaro,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2933632281,Yao Guoliang,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+1976277857,Guy Leduc,University of Liège,wireless_randoms,163,1601,33,52,1,525,684,13,20,20,2,27,2
+2563847637,Shulian Zhang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2926105474,Xie Yangteng,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,5,0,0
+2926307820,Kim Beom Jin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2869253843,Qin Fei,,wireless_randoms,7,4,0,0,0,0,0,0,1,1,1,0,0
+2938814705,R·戈德雷奇,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2855891165,Xiao Junling,,wireless_randoms,4,2,0,0,0,0,0,0,1,1,2,2,1
+2923991492,Xu Feidong,,wireless_randoms,6,9,0,0,0,0,0,0,2,2,2,0,0
+2751193982,Li Yang,,wireless_randoms,83,47,2,0,0,0,0,0,4,4,2,0,0
+2816198442,Lee Jung-Ho,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2823791551,Miura Keisuke,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2859675984,Cui Lichao,,wireless_randoms,6,2,0,0,0,0,0,0,1,1,1,0,0
+2631778961,Jun Hui Zheng,Pingdingshan University,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+1582935579,Nikolajs Bogdanovs Toms Dorins,,wireless_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2848878373,Yu Yue,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2919486860,I. Behloul,École Normale Supérieure,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2875188371,Jay Y Chang,,wireless_randoms,8,8,0,0,0,0,0,0,2,2,2,4,1
+2938366198,Masatoshi Suzuki,Toshiba,wireless_randoms,5,11,1,0,0,1,0,0,2,2,1,5,1
+2859127422,Tao Xinping,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,1,1,1
+2827292251,Guo Li,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2002217923,Scott Petronis,John L. Scott,wireless_randoms,4,417,0,0,0,0,0,0,2,2,1,273,1
+2460278099,D. Zogogianni,,wireless_randoms,2,1,0,1,0,0,0,0,1,1,1,0,0
+2838665076,Shi Lei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2927545080,Yang Lihong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2304395213,Ki-Jin Kim,KAIST,wireless_randoms,38,621,18,14,0,538,80,0,9,9,1,0,0
+2836149995,Wang Jihua,,wireless_randoms,7,13,0,0,0,0,0,0,2,2,1,4,1
+2293184702,Edward J. Franckowiak,,wireless_randoms,1,16,0,0,0,0,0,0,1,1,1,16,1
+2832227420,Hwang Hyeon Bae,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2142604291,Chung-Kuo Chang,Ohio State University,wireless_randoms,3,100,1,2,0,1,99,0,2,2,2,12,1
+2600190396,Otto Flach,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2875103476,Wang Jue,,wireless_randoms,13,53,0,0,0,0,0,0,4,4,1,2,1
+2964196955,A. J. Sguarezi Filho,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2834682451,Yuhao Du,,wireless_randoms,9,19,0,0,0,0,0,0,3,3,1,2,1
+2752384595,Huang Vincent,Ericsson,wireless_randoms,11,5,0,0,0,0,0,0,1,1,1,3,1
+2962488513,Bai Lu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2730579893,S·K·马哈文,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2760744523,和明 安藤,,wireless_randoms,16,22,0,0,0,0,0,0,3,3,1,2,1
+2863933032,An Shukai,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2692647585,Ali Bahramiazar,,wireless_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+2872612935,Ju Mancheng,,wireless_randoms,12,23,0,0,0,0,0,0,3,3,1,2,1
+2734446506,Paulo Valente Klaine,University of Glasgow,wireless_randoms,17,156,4,7,1,148,8,141,2,2,1,1,1
+2772238221,Priyam Pradhan,,wireless_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2875305323,Wang Yu,Samsung,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2500865294,Peter Skov,Nokia Networks,wireless_randoms,64,612,0,10,0,0,159,0,15,15,5,43,3
+2689798927,Ying Chen,Electric Power Research Institute,wireless_randoms,4,2,3,0,0,0,0,0,1,1,2,0,0
+2777005946,董永健,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2849848716,Fu Ruibiao,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2832906578,Sui Jiangyu,,wireless_randoms,16,14,0,0,0,0,0,0,2,2,1,1,1
+2967046344,Yi Runhua,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2871812459,Lyu Zhiyou,,wireless_randoms,3,2,0,0,0,0,0,0,1,1,1,0,0
+2588911467,Shunichi Nagamatsu,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2594963211,C·帕特里克,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2288399310,Gao Huijun,Harbin Institute of Technology,wireless_randoms,203,467,17,7,0,67,24,0,11,11,1,1,1
+2973614291,Toshiyasu Tanaka,,wireless_randoms,5,16,0,2,0,0,2,0,3,3,1,6,1
+2966654865,Jingwen Zhang,Nanjing University of Posts and Telecommunications,wireless_randoms,4,0,0,3,0,0,0,0,0,0,1,0,0
+2124680691,Ely Rabin,New York Institute of Technology College of Osteopathic Medicine,wireless_randoms,17,832,15,1,0,828,4,0,10,10,1,4,1
+2971236529,Quanfeng Chen,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2037959222,A. Muqattash,University of Arizona,wireless_randoms,18,1751,5,11,0,724,1023,0,12,12,3,4,1
+2856161203,Yoon Tai Ho,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2526927851,James L Lansford,,wireless_randoms,1,26,0,0,0,0,0,0,1,1,1,26,1
+2973258242,U. Pfeiffer,IBM,wireless_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+2825738842,Zhao Xiangmo,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2639998036,G.G. Yates,,wireless_randoms,1,11,1,0,0,11,0,0,1,1,1,11,1
+2842190737,Park En Jeong,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2766016483,金泰勋,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2125813985,Hangshin Cho,LG Electronics,wireless_randoms,3,8,0,0,0,0,0,0,2,2,1,2,1
+2691978864,Diane Newton,,wireless_randoms,21,108,0,0,0,0,0,0,1,1,1,0,0
+2988647263,P. Brooks,,wireless_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2845245721,Li Yuxuan,,wireless_randoms,41,12,0,0,0,0,0,0,2,2,5,0,0
+2826621723,Tetsuya Sasaki,,wireless_randoms,7,65,0,0,0,0,0,0,2,2,3,65,2
+2156499088,Jari Olavi Lindholm,Nokia Networks,wireless_randoms,17,270,0,1,0,0,65,0,7,7,1,5,1
+2699348990,Smita Narendra Pathak,,wireless_randoms,2,5,0,1,0,0,5,0,1,1,1,5,1
+2269593881,Stanley J. Wolfson,,wireless_randoms,3,3,0,0,0,0,0,0,1,1,1,3,1
+2842238057,Gang Cao,,wireless_randoms,7,13,0,0,0,0,0,0,2,2,1,7,1
+2133857637,Eung-Pyo Hong Ki-Tae Nam,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2608035048,A. Lebedev,National Technical University,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2704620339,Christopher Haslett,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2463567470,M. Sadasiva,,wireless_randoms,2,1,1,0,0,1,0,0,1,1,1,0,0
+2860771620,Morita Masao,,wireless_randoms,3,6,0,0,0,0,0,0,2,2,1,0,0
+2605994366,Manisha Sonawane,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2756469057,Zhi Wang,Zhejiang University,wireless_randoms,168,2700,50,109,4,1076,1578,223,25,24,21,451,8
+2841495712,Gao Qixue,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,1,1,1
+2101829663,Thomas B. Ragsdale,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2936175253,Raman Poruri,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2832761828,Yu Wenjin,,wireless_randoms,3,5,0,0,0,0,0,0,1,1,1,3,1
+277345331,William Lewis Sked,Princeton University,wireless_randoms,2,87,0,0,0,0,0,0,2,2,2,87,2
+2529783743,Mengmeng He,Chinese Ministry of Education,wireless_randoms,2,4,0,2,0,0,4,0,2,2,1,2,1
+2814622551,Pengjian Wu,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2014202141,Tyler Gleghorn,Microsoft,wireless_randoms,5,81,0,1,0,0,7,0,5,5,1,6,1
+2840514627,Lee Sang Uk,Electronics and Telecommunications Research Institute,wireless_randoms,78,83,0,0,1,0,0,0,3,3,6,3,1
+2654285080,T. Waldron,,wireless_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2760144069,T.H. Ning,IBM,wireless_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2940774129,Mohd Izuddin Zakaria,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2937963004,吴俊宇,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2861629244,Yang Ting,,wireless_randoms,11,0,0,0,0,0,0,0,0,0,2,0,0
+2839950600,Du Leilei,,wireless_randoms,25,85,0,0,0,0,0,0,5,5,1,2,1
+2817937877,Wang Jun,,wireless_randoms,3,2,0,0,0,0,0,0,1,1,1,0,0
+2163134888,Mingze Zhang,National University of Singapore,wireless_randoms,5,48,1,4,0,2,46,0,4,4,1,8,1
+2440454821,YU Xin-hua,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2780191939,Dongfang Wang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2677668604,M·吉德伦德,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2940456664,Peter D. Karabinis,,wireless_randoms,1,193,0,0,0,0,0,0,1,1,1,193,1
+2227132766,Ngoc Nguyen Minh Khanh,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2157336578,Varad Seshadri,,wireless_randoms,11,473,0,0,0,0,0,0,4,4,4,353,3
+2922965398,隋毅,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2468578855,Frank Höwing,"WABCO Holdings, Inc.",wireless_randoms,4,4,0,0,0,0,0,0,1,1,1,0,0
+2041833027,Marc Bechler,Braunschweig University of Technology,wireless_randoms,10,785,1,3,0,3,458,0,5,5,1,5,1
+2968916037,Tong Yongjun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2181880160,A. Manikandan,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2924553936,曹青山,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2914491744,A. Sagahyroon,American University of Sharjah,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2820022277,Gu Rong,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2952477257,Junwei Yang,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2968995604,Guan Zhenmin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2102122065,M. K. Khaw,Multimedia University,wireless_randoms,17,148,10,6,0,115,33,0,6,6,1,0,0
+2767805869,Gu Zhanbin,,wireless_randoms,23,15,0,1,0,0,0,0,2,2,1,3,1
+2691071400,V. Mottaghitalab,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2855560887,Rupp Markus,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2929846452,Liu Yufu,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,1,0,0
+2872511435,Wang Zhifei,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2900794890,Jiahe Zhang,Chinese Academy of Sciences,wireless_randoms,5,3,4,0,0,3,0,0,1,1,1,0,0
+2663405557,F. Gil-Castieira,University of Vigo,wireless_randoms,1,5,0,1,0,0,5,0,1,1,1,5,1
+2940729482,Yi-Chi Lin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2102825212,Alan P. Molloy,"National University of Ireland, Galway",wireless_randoms,6,148,3,1,0,147,0,0,2,2,1,0,0
+2226880802,Ali Rahmati,North Carolina State University,wireless_randoms,20,300,6,9,2,245,30,175,8,8,4,3,1
+2961736950,Eicher Brian W,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2872623642,Shiu Da-Shan,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2817096551,Wang Yingshu,,wireless_randoms,5,4,0,0,0,0,0,0,1,1,1,0,0
+2126602641,Mi-Young Park,Pusan National University,wireless_randoms,15,52,5,9,0,25,27,0,5,5,4,12,2
+2674011097,LU Yunting,Shenzhen Institute of Information Technology,wireless_randoms,3,0,3,0,0,0,0,0,0,0,1,0,0
+2928729956,Han Chunguang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2870469481,Mo Shijun,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2154396415,Feng Qian,Intel,wireless_randoms,16,239,0,0,0,0,0,0,8,8,3,20,2
+2994194850,Guo Mingjun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2962515180,Yu Yi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2394352434,Chen Guo-hua,Chongqing University,wireless_randoms,3,1,2,0,0,1,0,0,1,1,1,0,0
+2096043542,Mark N. Fullerton,Intel,wireless_randoms,15,340,0,0,0,0,0,0,8,8,2,73,2
+2745970469,闫丁川,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,2,0,0
+2855078595,Shengqi Lu,,wireless_randoms,4,34,0,0,0,0,0,0,2,2,2,32,2
+2186648382,Y. M. Patil,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2875228979,Kind Thomas,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2967650836,Szymanik Colleen,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2683401187,Qin Kai-xian,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2656427386,Hongjie Li,,wireless_randoms,12,222,12,0,0,222,0,0,7,7,1,4,1
+2168511982,N. Kachouri,,wireless_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2962138096,Yang Xin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2851125274,Pengbo Zhang,,wireless_randoms,3,9,0,0,0,0,0,0,1,1,3,9,1
+2908348240,허정훈,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2640862424,Huli Shi,Beijing University of Posts and Telecommunications,wireless_randoms,12,31,0,0,0,0,0,0,3,3,5,7,2
+2877493544,Hongyuan Wen,,wireless_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+2786388800,申晓义,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2988577957,Nakabayashi Masahiro,Denso,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2803623017,福田 真二,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+950506715,Indu Ramamurthi,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2875980160,Dong Qingfeng,,wireless_randoms,14,2,0,0,0,0,0,0,1,1,1,2,1
+2043656706,Valerie L. Doran,,wireless_randoms,3,22,0,0,0,0,0,0,2,2,1,16,1
+2756284896,ラウティラ ヘイキ,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,0,0
+2625813956,李浙英,,wireless_randoms,8,0,0,0,0,0,0,0,0,0,1,0,0
+2833378017,Kim In Lyunk,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2839297841,Lai Zhenhai,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2669413574,Darryl D. Puckett,Texas A&M University System,wireless_randoms,2,29,0,0,0,0,0,0,2,2,2,29,2
+2118447020,Geoffrey Dowd,Adobe Systems,wireless_randoms,18,172,0,0,0,0,0,0,8,8,1,2,1
+2823434838,Zhang Jin,,wireless_randoms,10,4,0,0,0,0,0,0,1,1,2,0,0
+2229693276,Ştefan Gunǎ,University of Trento,wireless_randoms,2,134,1,1,0,134,0,0,1,1,2,134,1
+2786968687,王东来,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2004459564,Dina Tarek,,wireless_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2812908649,Chen Yaping,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2961311487,Jiao Qiyi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2305725164,Nan Zou,Prairie View A&M University,wireless_randoms,4,12,0,4,0,0,12,0,2,2,1,5,1
+2975609015,Guan Lei,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2816952783,Zhang Yujie,,wireless_randoms,2,5,0,0,0,0,0,0,1,1,2,5,1
+2630124132,R. K. Shastri,,wireless_randoms,1,17,1,0,0,17,0,0,1,1,1,17,1
+2227675546,Gao Lipeng,Harbin Engineering University,wireless_randoms,49,25,7,7,0,2,4,0,3,3,5,7,1
+2867560590,Kim Kap Soo,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2840560253,Chen Xianzhuang,,wireless_randoms,4,6,0,0,0,0,0,0,2,2,2,6,2
+2814157843,Wang Guowei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2910459116,S. L. Abdul Haleem,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2868081466,Nakayama Hiroyuki,,wireless_randoms,4,6,0,0,0,0,0,0,2,2,1,2,1
+2081066750,Robert A. Johnigan,Oceaneering International,wireless_randoms,6,21,0,0,0,0,0,0,2,2,1,1,1
+2960632192,Choi Seungju,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2524174040,Zhuang Du,Dalian University of Technology,wireless_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2812004895,Lee Seung Yeop,,wireless_randoms,31,9,0,0,0,0,0,0,2,2,1,0,0
+2744953160,Wang Yu,,wireless_randoms,11,6,0,0,0,0,0,0,1,1,2,1,1
+2771877211,Zonghao Ma,Zhengzhou University,wireless_randoms,2,1,0,2,0,0,1,0,1,1,2,1,1
+2809196947,S. Li,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2739547866,权度熏,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2679122291,Ali Mokh,University of Rennes,wireless_randoms,9,22,3,3,0,11,10,0,3,3,1,0,0
+2865123587,Yan Jingfang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2751692043,Liang Jin,,wireless_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2814979886,Yu Fangbin,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2930565161,Guo Li,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2819340809,Kim Hak Yong,,wireless_randoms,46,173,0,0,0,0,0,0,6,6,1,0,0
+2846251283,Zhang Jiayao,,wireless_randoms,1,6,0,0,0,0,0,0,1,1,1,6,1
+2878206555,Kim In Seon,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2839943835,Koak Dong Eun,,wireless_randoms,5,1,0,0,0,0,0,0,1,1,4,1,1
+2815372480,Li Zhiwen,,wireless_randoms,1,18,0,0,0,0,0,0,1,1,1,18,1
+2777590439,王子庆,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2267449518,Bo-Chiang Wang,,wireless_randoms,1,23,0,0,0,0,0,0,1,1,1,23,1
+2737698200,E. Cruz,Ericsson,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2834463206,Li Anguo,,wireless_randoms,11,8,0,0,0,0,0,0,2,2,2,0,0
+2434257180,Hao Jin,"InterDigital, Inc.",wireless_randoms,19,689,3,8,0,333,196,0,11,11,3,53,3
+2820696392,Zheng Yongfa,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2935311474,Lin Hong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2438518272,M. Basha,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2628449563,문건우,,wireless_randoms,67,4,0,0,0,0,0,0,2,2,1,0,0
+2476986524,Lei Tao,Beijing University of Posts and Telecommunications,wireless_randoms,20,63,3,0,0,9,0,0,5,5,8,12,2
+2849069138,Siyang Liu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2933162113,周良华,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2973376325,Qingxue Pan,,wireless_randoms,1,63,0,1,0,0,63,0,1,1,1,63,1
+2933066373,周启华,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2867555833,Jiachun Lin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2844834904,Shen Yanping,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2832299559,Gao Fuqian,,wireless_randoms,13,5,0,0,0,0,0,0,1,1,3,1,1
+1979706000,Bin Lian,Intel,wireless_randoms,20,387,0,1,0,0,5,0,7,7,1,5,1
+2670319328,M.Kemal Kiymik,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2745646925,Gao Qiubin,China Mobile,wireless_randoms,406,645,0,0,0,0,0,0,12,12,26,97,5
+2403446664,Megan D. Kostick,IBM,wireless_randoms,2,7,0,0,0,0,0,0,1,1,1,7,1
+2705517399,Qingan Rong,Huawei,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2776037694,ロベール、レネ,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2678323882,Donald R. Stephens,,wireless_randoms,1,56,0,0,0,0,0,0,1,1,1,56,1
+2879334566,Zhang Tao,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2751914940,Митчелл Стефен Пэнтер,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2859098320,Chen Yu,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2759969600,T.J.梅吉亚斯斯托特,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2882467909,Yingjiang Zhang,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2626369710,A·加拉瓦利亚,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2844729624,Huang Jilong,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2770510821,Brian Trammell,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2274853314,Eric Castelli,Hanoi University of Science and Technology,wireless_randoms,102,994,14,48,1,186,620,36,15,15,1,0,0
+957304972,ZHANGZu-fan,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+1637864132,Wiklom Teerapabkajorndet,Prince of Songkla University,wireless_randoms,5,9,1,4,0,0,9,0,2,2,1,0,0
+2824891577,Wang Wenjie,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2865395333,Gu Xiaoyan,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2835914529,Chu Yaling,,wireless_randoms,1,18,0,0,0,0,0,0,1,1,1,18,1
+2754489162,한민석,,wireless_randoms,13,0,0,0,0,0,0,0,0,0,10,0,0
+2327742813,Sumiya Akhter,,wireless_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2982259661,フェダー，ペレッツ，モシュ,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2565809578,Zhiqiang Qin,,wireless_randoms,6,30,5,1,0,27,3,0,3,3,1,2,1
+2928871905,罗华平,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2840053338,Yuanfa Zhan,,wireless_randoms,2,7,0,0,0,0,0,0,2,2,1,4,1
+2778599249,대니 모세,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2878806930,Harada Hiroshi,,wireless_randoms,22,18,20,0,0,18,0,0,2,2,1,0,0
+2821165406,Wang Suqing,,wireless_randoms,2,2,0,0,0,0,0,0,1,1,2,2,1
+2338537280,Eitan Babcock,,wireless_randoms,2,51,0,0,0,0,0,0,2,2,2,51,2
+2101945663,Moussa Mansour,Harvard University,wireless_randoms,198,20003,186,1,0,19916,8,0,43,43,2,0,0
+2643728626,Suk-un Kim,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2602194871,朱晓峰,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2832703433,Zhong Jidong,,wireless_randoms,19,7,0,0,0,0,0,0,1,1,4,1,1
+2583938221,Shane A Gallagher,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2486715203,P. Gazzerro,Qualcomm,wireless_randoms,3,100,0,3,0,0,100,0,3,3,1,67,1
+2776963841,孟繁鼎,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2758089882,马少峰,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2166508618,Young Jin Yang,Jeju National University,wireless_randoms,14,97,12,1,0,97,0,0,6,6,1,0,0
+2979868646,Mohamed Kamoun,Motorola,wireless_randoms,2,23,0,0,0,0,0,0,2,2,1,10,1
+2927187446,Duan Jianwei,,wireless_randoms,15,0,0,0,0,0,0,0,0,0,2,0,0
+2823473222,Hui Ge,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2761879181,Steve John Kimminau,Rolf C. Hagen Group,wireless_randoms,1,33,0,0,0,0,0,0,1,1,1,33,1
+2828238123,Liu Guangwen,,wireless_randoms,7,4,0,0,0,0,0,0,1,1,2,2,1
+2602270210,顾燕,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2785555985,鹿仓义一,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2633501369,Pangwei Wang,North China University of Technology,wireless_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2602586373,占奇志,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2495369888,G. Bhaskar,,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2818316157,Hu Zhongyuan,,wireless_randoms,10,12,0,0,0,0,0,0,2,2,2,0,0
+2558830185,Dongyu Liu,Inner Mongolia University,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2868872995,Xu Liping,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2869693247,Wang Haichao,,wireless_randoms,4,4,0,0,0,0,0,0,1,1,1,3,1
+2826732212,Liren Ye,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+1993621536,Ricardo A. Chavez-Perez,Ensenada Center for Scientific Research and Higher Education,wireless_randoms,15,40,9,5,0,39,1,0,3,3,1,24,1
+2999647283,Kawther Hassine,École Normale Supérieure,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2803241065,江口正,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2591793871,Ayesha Bint Saleem,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2817356743,Zhu Congmin Tian,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2923671295,张介豪,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2849107697,Inoue Keisuke,Yazaki,wireless_randoms,11,18,0,0,0,0,0,0,2,2,1,6,1
+2338488938,Fredrik Gessler,,wireless_randoms,9,322,1,1,0,268,26,0,5,5,8,322,5
+2733372154,Ye Hongna,,wireless_randoms,12,12,0,0,0,0,0,0,2,2,1,5,1
+2898934333,Vineet Richcharia Dr.Manish Shrivastava,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2905934472,佳秀 松田,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2871700416,Xing Wu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2692758370,Craig R. Schwarze,,wireless_randoms,9,22,5,0,0,18,0,0,3,3,1,1,1
+2816407691,Bing Chen,,wireless_randoms,14,67,0,0,0,0,0,0,5,5,2,3,1
+2606446220,Zhang Lina,Inner Mongolia Agricultural University,wireless_randoms,6,4,1,0,0,0,0,0,1,1,3,4,1
+2830853145,Peichuan Cheng,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2749566598,Tang Ying,,wireless_randoms,48,40,1,0,0,0,0,0,3,3,1,0,0
+2927131459,Shi Haitao,,wireless_randoms,17,9,0,0,0,0,0,0,2,2,5,6,2
+2874274594,Haiyan Chen,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+216183462,Ludwig Hiebinger,,wireless_randoms,1,12,1,0,0,12,0,0,1,1,1,12,1
+2998599506,G SeddikKarim,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2843518534,Choe Tae Seong,,wireless_randoms,1,8,0,0,0,0,0,0,1,1,1,8,1
+2763942515,正利 塩内,,wireless_randoms,7,34,0,0,0,0,0,0,3,3,2,14,1
+353779957,Richard W. Pazzi,University of Ontario Institute of Technology,wireless_randoms,117,2020,29,78,1,915,1082,21,22,22,20,287,8
+2986507156,Gao Hongbo,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2923498735,ジアンフェン ワン,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2868443673,Li Jianhua,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2675576243,S. Sharma,George Mason University,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2503833115,Kuilin Tao,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2754223867,판구오핑,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,1,0,0
+2828464186,Jinding Lai,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2941517360,김해연,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2945639321,Furuichi Masahiro,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2881309949,Li Yunsheng,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2888108083,Isaac Kaminer,,wireless_randoms,3,12,1,0,0,5,0,0,2,2,1,6,1
+2745169181,Shi Liuyang,,wireless_randoms,10,5,0,0,0,0,0,0,1,1,4,2,1
+2846994765,Song Zijuan,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2616763699,袁永平,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2958544861,Lauritsen Henrik,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2632412730,詹姆斯·S·马林,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2970013438,Weimin Li,Shanghai University,wireless_randoms,46,108,17,25,0,82,21,0,6,6,1,0,0
+2843516522,Kai Xu,,wireless_randoms,3,14,0,0,0,0,0,0,3,3,2,11,2
+2928327940,Jiang Wen,,wireless_randoms,15,0,0,0,0,0,0,0,0,0,1,0,0
+2926523702,Li Juan,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2923057558,보제마 에르드만,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2994315709,Kouichi Sakurai Yoshiaki Hori,,wireless_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2856124773,S. Reynolds,Georgia Institute of Technology,wireless_randoms,1,20,0,1,0,0,20,0,1,1,1,20,1
+2819135769,Zhao Baoquan,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2168016913,Gerd vom Bögel,,wireless_randoms,19,20,1,3,0,0,6,0,2,2,1,2,1
+1997956882,Mikael Cederlöf,,wireless_randoms,3,3,0,0,0,0,0,0,1,1,1,3,1
+2582518481,杰弗瑞·艾伦·格林波尔格,,wireless_randoms,9,0,0,0,0,0,0,0,0,0,2,0,0
+2854773785,He Wenli,,wireless_randoms,10,13,0,0,0,0,0,0,2,2,2,4,2
+2102597909,Nidal Kamel,Universiti Teknologi Petronas,wireless_randoms,179,1127,51,90,3,697,320,118,15,15,5,7,2
+2879949431,Si Yunhong,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2812231427,Kim Hyun Suk,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2882255613,Zhao Yanbo,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2844133431,Zhang Hao,,wireless_randoms,15,44,0,0,0,0,0,0,4,4,1,0,0
+2522013668,Villasenor John,"University of California, Berkeley",wireless_randoms,11,4,0,0,0,0,0,0,2,2,1,0,0
+2121542553,Mohan Natarajan,,wireless_randoms,9,593,0,0,0,0,0,0,5,5,4,73,3
+2765248543,Rajarshi Gupta,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2588253781,Tai-ho Choi,Samsung,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2974458063,M. Potter,University of Manitoba,wireless_randoms,2,3,1,1,0,0,3,0,1,1,1,3,1
+2597945697,Tamura Hiroshi,,wireless_randoms,10,0,0,0,0,0,0,0,0,0,4,0,0
+2869798381,Min Wu,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2825810729,Nakano Masanori,,wireless_randoms,1,10,0,0,0,0,0,0,1,1,1,10,1
+2630713713,곽준호,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2776586025,阿玛德·霍什内维斯,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2665714018,Yi Xie,National University of Defense Technology,wireless_randoms,9,23,2,5,0,4,7,0,3,3,1,9,1
+2865495521,Suzuki Hiromasa,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,2,3,1
+2928952242,Tirpak Christopher Boyd,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2849625983,Shimin Li,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2084673021,Angelo Freni,University of Florence,wireless_randoms,169,1544,67,79,4,1192,139,4,19,19,1,0,0
+2680691212,Li Xia Wang,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2818779071,Toriumi Khirosi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2995278184,J. A. Ratcliffe,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2249638266,Arno Hietanen,,wireless_randoms,2,99,0,0,0,0,0,0,1,1,2,99,1
+2826119021,Yu Xiaohua,,wireless_randoms,2,13,0,0,0,0,0,0,1,1,1,1,1
+2774035984,Abrar I. Soudgar,"Walchand College of Engineering, Sangli",wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2932767191,Kenneth D. West,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2631819104,N·E·坦尼,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,2,0,0
+2823887311,Yonggang Duan,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2855272693,Behera Manas,Intel,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2759302904,Moon Kee Jang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2839414832,Jinglun Li,,wireless_randoms,6,5,0,0,0,0,0,0,2,2,1,2,1
+2298115021,Le Wang,Aalto University,wireless_randoms,16,140,2,8,0,24,112,0,6,6,4,88,3
+2874104004,Chao Pengjun,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,2,1
+2294014577,Weifeng Liu,Xidian University,wireless_randoms,15,69,7,1,0,34,0,0,6,6,1,15,1
+2744795352,Li Guofu,,wireless_randoms,4,2,0,0,0,0,0,0,1,1,1,0,0
+2877030319,Qiulin Liu,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2758125236,梁冰,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2736771716,黄新波,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2938856861,Rajiv Laroia,,wireless_randoms,1,32,0,0,0,0,0,0,1,1,1,32,1
+2782691642,Fitri Noviani,,wireless_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2762155469,Olivier Marce,Bell Labs,wireless_randoms,16,16,1,5,0,0,14,0,2,2,3,4,1
+2784450344,充 織田,,wireless_randoms,11,27,0,0,0,0,0,0,2,2,1,0,0
+2814824970,Huang Xuee,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2035732942,Stephen A Hopper,Motorola,wireless_randoms,1,10,0,0,0,0,0,0,1,1,1,10,1
+2843660072,Lee Yong Joo,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2962301515,Yu Liqiang,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2933349656,Zhang Chenchen,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2570656040,Sinh V. B. Nguyen,Duy Tan University,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2828855278,Jian Xiao,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2626675700,Steve Wenner,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2753734752,Zisimopoulous Haris,,wireless_randoms,3,1,0,0,0,0,0,0,1,1,1,1,1
+2859671992,Chen Chia Yu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2562460678,M. Ito,,wireless_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+2814127682,Chandrika,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+3000531243,A. L. Imoize,University of Lagos,wireless_randoms,3,0,3,0,0,0,0,0,0,0,1,0,0
+2873960559,Qiang Gang,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2674061365,Wu Yang,Harbin Engineering University,wireless_randoms,34,124,16,10,1,71,45,1,6,6,7,77,4
+2779604752,최세헌,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2932730130,Fujiki Hiroyuki,Toshiba,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2828025039,Pu Wenhu,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2970072872,Babajide Akinjobi,,wireless_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+1971030276,Ahmed Toaha Mobashsher,University of Queensland,wireless_randoms,85,1258,50,22,2,1118,108,90,18,18,2,4,1
+1982155655,Thomas Adler,San Diego State University,wireless_randoms,61,1628,34,0,6,1308,0,276,16,15,1,0,0
+2145009917,Ming U. Chang,,wireless_randoms,54,853,0,0,0,0,0,0,16,16,3,95,2
+2926430802,伊藤重夫,,wireless_randoms,3,4,0,0,0,0,0,0,1,1,1,1,1
+2924315077,敦 篠崎,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2823000063,Feng Gang,,wireless_randoms,10,4,0,0,0,0,0,0,1,1,1,0,0
+2814604598,Wang Yuan,Huawei,wireless_randoms,28,6,0,0,0,0,0,0,1,1,3,1,1
+1209162357,Hend Liouane,École Normale Supérieure,wireless_randoms,6,6,2,4,0,0,6,0,2,2,1,0,0
+2836081673,Xia Bo,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2569913493,Sean C. Nash,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+1972379056,Nidhi Rajak,,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2830511279,Zhang Songsong,,wireless_randoms,3,13,0,0,0,0,0,0,2,2,1,5,1
+2868667538,Li Ning,,wireless_randoms,3,4,0,0,0,0,0,0,1,1,2,4,1
+2476823379,MA Qing-hua,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2925832355,Li Ping,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2966728052,Knode Galen,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2828159486,Wallace Mark,,wireless_randoms,57,18,0,0,0,0,0,0,2,2,1,0,0
+2879743913,Lu Zhenwei,,wireless_randoms,12,8,0,0,0,0,0,0,2,2,1,0,0
+2872945643,Wang Dexu,,wireless_randoms,162,17,0,0,0,0,0,0,2,2,1,0,0
+2436347794,Tain-Wen Suen,South Korean Ministry of National Defence,wireless_randoms,8,68,0,0,0,0,0,0,4,4,3,36,2
+2708552360,Karan Bhatnagar,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2776043180,지 바오웨이,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2896916457,Shu-ming Liu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2838211544,Zhang Yi,,wireless_randoms,12,13,0,0,0,0,0,0,2,2,3,0,0
+2866872286,Ruan Qiang,,wireless_randoms,6,6,0,0,0,0,0,0,2,2,1,0,0
+2824908493,Li Jingqiang,,wireless_randoms,12,23,0,0,0,0,0,0,2,2,4,18,2
+2927064025,叶军,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2878960262,Yang Feng,,wireless_randoms,2,2,0,0,0,0,0,0,1,1,1,0,0
+2016298108,Ratan Das,Central Scientific Instruments Organisation,wireless_randoms,5,4,2,1,0,4,0,0,1,1,1,0,0
+2398158288,D. C. Greetham,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2848345203,Lee Seung Jae,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,4,0,0
+2833169705,Huang Xianshuai,,wireless_randoms,8,23,0,0,0,0,0,0,3,3,1,2,1
+2862655738,Zhu Lei,,wireless_randoms,26,67,0,0,0,0,0,0,4,4,6,30,3
+2845922532,Liu Mige,,wireless_randoms,3,10,0,0,0,0,0,0,2,2,1,8,1
+2583256476,Aditya Ahuja,Indian Institute of Technology Delhi,wireless_randoms,6,23,1,3,0,20,1,0,2,2,1,1,1
+2666137223,S. Lechago,Polytechnic University of Valencia,wireless_randoms,13,71,11,1,0,69,2,0,5,5,2,28,1
+2123688926,Arturo Mediano,University of Zaragoza,wireless_randoms,72,2078,30,36,1,1883,193,0,21,21,1,2,1
+2773239509,智彦 長楽,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2647614192,M. Khan,Newcastle University,wireless_randoms,1,7,1,0,1,7,0,7,1,0,1,7,1
+2874496354,Fan Jiangbo,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,1,0,0
+2927852793,Kim Joon Kee,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2751612220,大卫·菲利普·霍尔,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,3,0,0
+2925400420,Li Keqin,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2307866438,Zhao Yi,Shenyang Institute of Engineering,wireless_randoms,12,19,0,2,0,0,2,0,3,3,2,0,0
+2873644553,Huh Hyeong Jun,POSCO,wireless_randoms,53,32,0,0,0,0,0,0,2,2,1,0,0
+2171652005,Serge Smirnov,Microsoft,wireless_randoms,35,1233,1,0,0,0,0,0,14,14,1,148,1
+2856541348,Katsumata Naoaki,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2115290179,Chiuk Song,KAIST,wireless_randoms,36,270,8,26,0,175,94,0,8,8,4,1,1
+2965213034,Paulo Rodrigues Amaral,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2824957548,Fujita Yohei,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2636995067,郑镇赫,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2516196659,Ankit Prasad,Bharath University,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2878065902,Li Jie,,wireless_randoms,3,5,0,0,0,0,0,0,2,2,1,3,1
+2909207148,Hongbo Luo,Huazhong Agricultural University,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2242225548,Gang Niu,,wireless_randoms,3,7,0,0,0,0,0,0,2,2,2,7,2
+2977120907,Liu Shilin,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,1,0,0
+2874328654,Ahn Seong-Jin,,wireless_randoms,3,5,0,0,0,0,0,0,1,1,1,0,0
+2222292355,Gursharanjeet Singh,Lovely Professional University,wireless_randoms,5,1,5,0,1,1,0,0,1,1,1,0,0
+2926778014,李玉刚,,wireless_randoms,11,0,0,0,0,0,0,0,0,0,1,0,0
+2460480957,Richard Warnick,,wireless_randoms,2,14,0,0,0,0,0,0,1,1,1,14,1
+2242453584,邹定超,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2817325185,Zhang Yinhu,,wireless_randoms,1,9,0,0,0,0,0,0,1,1,1,9,1
+2959405692,Zheng Zizhe,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2661433137,Ke Wen Xia,Hebei University of Technology,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2697267729,Pekka Saavalainen,,wireless_randoms,1,6,0,0,0,0,0,0,1,1,1,6,1
+2654841490,Junjie Chen,Southeast University,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2135851181,Robert J. Wood,Harvard University,wireless_randoms,389,21144,161,156,7,13900,5666,114,77,77,5,168,4
+2882374030,Chan Hin Leung Norman,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2822402555,Lin Zhiying,,wireless_randoms,19,13,0,0,0,0,0,0,2,2,4,2,1
+2635478254,Hui Lan,,wireless_randoms,7,129,0,5,0,0,6,0,3,3,1,0,0
+2824236749,Liu Yong,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2828258299,Xiaoxiang Chen,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2850628870,Hu Zhengdong,,wireless_randoms,84,76,0,0,0,0,0,0,4,4,3,7,2
+14851416,Géza Kolumbán,Pázmány Péter Catholic University,wireless_randoms,71,2776,22,23,0,2235,230,0,17,17,4,240,3
+2813721023,Kwon Heog Chul,,wireless_randoms,8,11,0,0,0,0,0,0,2,2,2,2,1
+2819597008,Kim Deoksang,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2258507845,Andrew Adams,Broadcom,wireless_randoms,12,87,3,5,0,29,33,0,6,6,1,6,1
+2339704223,Hananeh Esmailbeigi,University of Illinois at Chicago,wireless_randoms,6,2,3,3,0,2,0,0,1,1,2,0,0
+2675233075,Dattatray S Bade,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2297058006,Daniel C. Kong,Apple Inc.,wireless_randoms,1,19,0,0,0,0,0,0,1,1,1,19,1
+2957973227,Fang Yicheng,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2102809323,Kohta Kido,National Presto Industries,wireless_randoms,4,8,3,0,0,7,0,0,2,2,2,2,1
+2770364121,Ruslan Meleshchenko,,wireless_randoms,13,8,11,0,0,8,0,0,2,2,1,0,0
+2930928506,Cui Wei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2925787686,Wu Wei,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2876017360,Wu Congren,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2706862302,Chao-Xin Wang,Dalian University of Technology,wireless_randoms,2,1,0,1,0,0,0,0,1,1,1,0,0
+2851041525,Xu Hongwei,,wireless_randoms,27,30,0,0,0,0,0,0,3,3,9,10,2
+2703189694,Hang Zhang,,wireless_randoms,6,50,5,1,0,30,20,0,5,5,1,5,1
+2720818508,Zhu Wen-jin,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2828975067,Watanabe Masaki,,wireless_randoms,3,13,0,0,0,0,0,0,2,2,1,0,0
+2878507782,Shen Ning,,wireless_randoms,4,13,0,0,0,0,0,0,2,2,3,10,2
+2964749996,Weiheng Jiang,,wireless_randoms,1,25,0,0,0,0,0,0,1,1,0,0,0
+2859003528,Cao Hailang,,wireless_randoms,10,5,0,0,0,0,0,0,1,1,1,0,0
+2964908690,S. Sucipto,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2656345847,Wang Guang-xing,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2931603702,Hayakawa Ryo,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2834029023,Park Jong Jin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2934859075,Gao Lei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2266653901,Farooq S. Hussain,Kyocera,wireless_randoms,1,85,0,0,0,0,0,0,1,1,1,85,1
+2818248136,Jianjun Qin,,wireless_randoms,2,10,0,0,0,0,0,0,2,2,1,4,1
+2639565955,Xiaoxuan Ma,Beijing University of Civil Engineering and Architecture,wireless_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2812038222,Li Ming,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2847332450,Jian Zhaoheng Zhang,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2816966673,Wang Mingxing,,wireless_randoms,13,14,0,0,0,0,0,0,2,2,3,0,0
+2932999431,吕雪峰,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2759427361,金永根,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2302354903,Li Su,Apple Inc.,wireless_randoms,13,102,0,0,0,0,0,0,7,7,2,12,2
+2760448426,数矢 加藤,,wireless_randoms,7,2,0,0,0,0,0,0,1,1,4,0,0
+2854850741,Lee Yeong Jae,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,1,1
+2729794783,D·J·朱里安,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2875809736,Li Jiangchen,,wireless_randoms,2,10,0,0,0,0,0,0,2,2,1,6,1
+2232273840,Anton V. Jivetiev,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2796719684,珍妮弗·利斯,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2304880836,Yutaka Hayama,Fujitsu,wireless_randoms,5,15,0,0,0,0,0,0,2,2,1,0,0
+2966444187,Zhang Jianfu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2997769640,Lutful Kader Msbah,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2210951440,Jerzy W. Miernik,"Cisco Systems, Inc.",wireless_randoms,13,442,0,0,0,0,0,0,8,8,4,71,3
+2054214986,Matteo Giuberti,Xsens,wireless_randoms,20,135,10,8,0,104,30,0,8,8,3,22,2
+1997484786,Charles E. Garrott,,wireless_randoms,4,24,0,0,0,0,0,0,2,2,1,12,1
+2912654589,Ping Qian,Chongqing University of Posts and Telecommunications,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2853750051,Zeng Biqing,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2814741832,He Baisheng,,wireless_randoms,24,5,0,0,0,0,0,0,2,2,6,0,0
+1833266249,Yasuhiro Tatsukami,Osaka Institute of Technology,wireless_randoms,5,6,0,3,0,0,6,0,2,2,5,6,2
+2859530592,Zhou Jun,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2856279054,Hou Dongping,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2932002587,ヨン チョイ、ウー,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2874525516,Bae Beom Sik,,wireless_randoms,74,140,0,0,0,0,0,0,5,5,14,37,4
+2856311051,Mun Sun Ju,,wireless_randoms,2,2,0,0,0,0,0,0,1,1,1,1,1
+2851735794,Zhu Huijun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2861734099,Xiaojun Yu,,wireless_randoms,1,11,0,0,0,0,0,0,1,1,1,11,1
+2903518874,II James M. Mathewson,IBM,wireless_randoms,5,615,0,0,0,0,0,0,5,5,1,186,1
+2872674583,Qing Huazhong,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2835138360,Xiaoqing Ma,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2082769644,Avinash G. Keskar,Visvesvaraya National Institute of Technology,wireless_randoms,87,149,19,49,0,34,99,0,6,6,4,8,2
+2832856925,Maenozono Sumio,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2666434717,Han Jin Seok,Seoul National University,wireless_randoms,8,3,0,0,0,0,0,0,1,1,2,2,1
+2781719983,クリスター サンドベルイ,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2825563046,Kim Geun Hyung,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2839788990,Matsui Sumiyuki,,wireless_randoms,7,7,0,0,0,0,0,0,2,2,1,1,1
+2858642700,Zhang Bin,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,2,1,1
+2940155460,颜红方,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2967960224,Yuan Guohui,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2777052182,浩 山野,,wireless_randoms,7,14,0,0,0,0,0,0,2,2,1,0,0
+2846651348,Han Jianhui,,wireless_randoms,5,1,0,0,0,0,0,0,1,1,2,0,0
+2924583731,Tembisa Ngqondi,,wireless_randoms,4,1,0,1,0,0,0,0,1,1,1,1,1
+2834067564,Liu Fei,,wireless_randoms,364,929,0,0,0,0,0,0,13,13,9,11,2
+2866922156,Yongfeng Cai,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2974407180,Nathan Wells,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2756754246,袁明明,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2745825446,Ko Kang-Ho,Samsung,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2926180016,真 鳥越,,wireless_randoms,39,223,0,0,0,0,0,0,9,9,1,0,0
+2183954196,A. Mohsin Khan,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2015610502,William N. Furman,Harris Corporation,wireless_randoms,84,558,0,8,0,0,12,0,13,13,12,63,5
+2648561315,Jia Jian-bo,China University of Petroleum,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2613118173,Kelvin Chelli,Saarland University,wireless_randoms,9,36,0,8,0,0,36,0,4,4,2,1,1
+2860931539,Zhu Fangyin,,wireless_randoms,4,6,0,0,0,0,0,0,2,2,1,1,1
+2587142291,Chien-Kuang Fan Chiang,HTC,wireless_randoms,1,38,0,0,0,0,0,0,1,1,1,38,1
+2835079999,Zheng Liangjian,,wireless_randoms,22,54,0,0,0,0,0,0,5,5,3,6,2
+2698910471,Xiang Jun Yang,Tsinghua University,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2499984622,Sidharth R. Sibal,Verizon Communications,wireless_randoms,2,7,0,0,0,0,0,0,2,2,1,2,1
+2846704132,Ouyang Guang,,wireless_randoms,7,25,0,0,0,0,0,0,4,4,1,1,1
+2848334870,Zukun Liu,,wireless_randoms,9,4,0,0,0,0,0,0,1,1,2,2,1
+2931424227,Ni Mingyi,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2584080189,Guofeng Yang,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+332610410,凯文·奥尼尔,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2597477494,Bhawna Sharma,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2856748660,Liu Jiancheng,,wireless_randoms,43,32,0,0,0,0,0,0,3,3,3,7,2
+2293717227,Robert T. Johnk,National Institute of Standards and Technology,wireless_randoms,84,924,4,35,1,152,197,4,10,10,3,27,2
+2125958747,Leonard J. Cimini,University of Delaware,wireless_randoms,222,22178,77,119,7,12562,8373,3246,58,55,30,898,14
+2483037307,Mehmet Toycan,Cyprus International University,wireless_randoms,39,115,15,19,2,60,52,7,6,6,8,22,3
+2961430253,Gu Cong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2775671594,李磊,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2824651306,Cao Yang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2883378729,Yu Zhang,Guilin University of Technology,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2819301176,Gao Jun,,wireless_randoms,2,2,0,0,0,0,0,0,1,1,2,2,1
+2876066639,Wang Kairui,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,1,1
+2927348753,Choi Su Mo,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2751334801,谢尔比·K·斯塔克斯,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2115705827,Jr-Yi Shen,Apple Inc.,wireless_randoms,6,409,0,0,0,0,0,0,4,4,2,224,2
+2060064680,Craig A. McNeely,Wilmington University,wireless_randoms,17,809,0,0,0,0,0,0,6,6,1,130,1
+2774540899,Hiroshi Osawa,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2528155667,Shariq Hussain,,wireless_randoms,15,84,0,0,0,0,0,0,5,5,1,6,1
+2834843919,Li Zhiqiang,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2649972374,A. Dinesh Kumar,Australian National Drag Racing Association,wireless_randoms,6,8,1,3,0,0,8,0,2,2,1,4,1
+2827383175,Qipan Lai,,wireless_randoms,2,11,0,0,0,0,0,0,1,1,1,1,1
+2879461321,Yu Feng,,wireless_randoms,5,21,0,0,0,0,0,0,2,2,3,5,2
+2961924969,Wu Fengbo,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2629122728,景文鹏,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2850061886,Zhongji Hu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2079295120,Hooman Samani,National Taipei University,wireless_randoms,56,463,12,35,1,173,233,2,13,13,4,33,2
+2783282891,"Miranda, Heinz, A.",,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2771815458,王百超,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,2,0,0
+2754560142,寿朗 中尾,,wireless_randoms,5,22,0,0,0,0,0,0,2,2,1,17,1
+2841237617,Zhijun Li,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2907948327,Andi Hidayat,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2514793971,Manjunath M. Prabhu,,wireless_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+2568282496,John Contreras,Western Digital,wireless_randoms,58,189,5,0,0,13,0,0,7,7,2,4,1
+2934343355,Hwang In June,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2910944624,Zhaoping Zeng,,wireless_randoms,2,3,2,0,0,3,0,0,1,1,2,3,1
+2821715534,Ryu Yon Choru,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2996196466,정춘길,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2781403832,Benoît Ponsard,University of Grenoble,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2933615752,江浩,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2590347358,J·S·哈波,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2628912682,蔡志军,,wireless_randoms,25,0,0,0,0,0,0,0,0,0,8,0,0
+2917600599,Yamasaki Takeo,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2551882815,Toshiya Tamura,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2819232574,Shao Jie,,wireless_randoms,11,2,0,0,0,0,0,0,1,1,1,1,1
+2944574261,T. G. Serikov,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2506623288,Rahul S. Singh,AmeriCorps VISTA,wireless_randoms,2,1,0,2,0,0,1,0,1,1,1,0,0
+2103452638,S. Sarkar,"University of California, Davis",wireless_randoms,29,1380,9,14,0,915,424,0,15,15,13,779,12
+2839970410,Kim Jin Hong,,wireless_randoms,37,45,0,0,0,0,0,0,3,3,1,0,0
+2651275122,Chen Yanping,Harbin University of Commerce,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2814206328,Yang Yung-Shu,,wireless_randoms,10,7,0,0,0,0,0,0,2,2,1,0,0
+2978369703,Mohammad Taufan Asri Zaen,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2776614353,程鹏,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2783929615,吕博雅,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2821278027,Zeng Fuchang,,wireless_randoms,2,4,0,0,0,0,0,0,1,1,2,4,1
+2847731702,Pan Tao,,wireless_randoms,3,3,0,0,0,0,0,0,1,1,1,1,1
+2934191992,Wei Caixia,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2936749819,Zhang Min,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2832416889,Suzuki Tsuneo,,wireless_randoms,21,41,0,0,0,0,0,0,4,4,1,4,1
+2255966387,Terrence J. Mccarthy,"AT&T Teleholdings, Inc.",wireless_randoms,3,369,0,0,0,0,0,0,2,2,2,369,2
+2486707721,Koyel Datta Gupta,Jamia Millia Islamia,wireless_randoms,2,7,1,1,0,5,2,0,2,2,1,5,1
+2852439263,Sheng Qiang,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2224373019,Jayaram Natarajan,Georgia Institute of Technology,wireless_randoms,9,15,0,7,0,0,15,0,3,3,3,5,1
+2942730430,José Fernández,Spanish National Research Council,wireless_randoms,263,4599,213,1,0,4535,0,0,35,35,1,1,1
+2816232944,Yonghui Liu,,wireless_randoms,25,123,0,0,0,0,0,0,6,6,7,28,3
+2850327169,Dong Le,,wireless_randoms,4,1,0,0,0,0,0,0,1,1,1,1,1
+2771263778,Ping Zhang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2973697283,Brenda Hemmelman,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2853431650,Li Shiqin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2128340160,Michiharu Nakamura,Fujitsu,wireless_randoms,27,195,1,1,0,3,7,0,7,7,1,12,1
+2966125090,Zhou Qing,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2875662167,Zhang Xing,,wireless_randoms,6,12,0,0,0,0,0,0,2,2,3,8,2
+2749714934,Wang Yuanyuan,,wireless_randoms,15,8,0,0,0,0,0,0,2,2,2,1,1
+2433251723,Mihail Garevski,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2925525476,李杉格,,wireless_randoms,8,0,0,0,0,0,0,0,0,0,1,0,0
+2711100505,W-C Chen,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2640962350,Tian Hui-juan,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2923481515,克里斯托弗·迈克尔·布林克,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2504427047,Keith Schaub,,wireless_randoms,2,28,0,0,0,0,0,0,2,2,1,8,1
+2927638036,高江丽,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2835512860,Park Young Cheol,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2845317408,Yang Qiang,,wireless_randoms,3,7,0,0,0,0,0,0,2,2,1,2,1
+2881664992,Zhang Jingjie,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2850648936,Han Minqiang,,wireless_randoms,14,12,0,0,0,0,0,0,2,2,2,2,1
+2599412568,王洪寅,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2932760981,罗际炜,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2707294585,Ebenezer Esenogho,University of KwaZulu-Natal,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2882323840,Chen Feng,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2811817429,Sun Qixiang,,wireless_randoms,208,7,0,0,0,0,0,0,1,1,2,1,1
+2866437874,Dimaggio Luke,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2852177529,Ulupinar Fatikh,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2930682991,Xie Xingrong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2581624714,Yan Luo,Peking University,wireless_randoms,3,0,1,1,0,0,0,0,0,0,1,0,0
+2602053809,Xiaolong Huang,Qualcomm,wireless_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+2868535789,Xu Wei,,wireless_randoms,21,14,0,0,0,0,0,0,2,2,4,1,1
+2875068170,Xu Zhenfeng,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2167513046,James O'Donnell,University College Dublin,wireless_randoms,74,1129,33,2,0,828,8,0,13,13,1,7,1
+2707996235,Joakim Sandberg,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2489109249,Shi Cha,Guilin University of Electronic Technology,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2814418669,Wang Jingxia,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2228027411,Fayette W. Shaw,University of Washington,wireless_randoms,2,8,1,1,0,1,7,0,1,1,1,7,1
+2877006159,Liu Yibing,,wireless_randoms,4,3,0,0,0,0,0,0,1,1,1,1,1
+2971218032,Leilei Pan,Shandong jianzhu university 山東建築大學,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2911524503,Shiokawa Shigeki,,wireless_randoms,5,1,0,0,0,0,0,0,1,1,2,0,0
+2843234329,Zhou Haijun,,wireless_randoms,61,50,0,0,0,0,0,0,4,4,3,15,1
+2547334672,Jeffrey Anderson,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2866946640,Kim Yeong Jun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2931616456,Kordik Michael,Goodrich Corporation,wireless_randoms,7,0,0,0,0,0,0,0,0,0,1,0,0
+2817088515,Wang Jing,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2867584854,Gao Xiangyang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2995925222,H.H. Ali,,wireless_randoms,2,1,0,2,0,0,1,0,1,1,1,0,0
+2756486064,贺强,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2632955637,Daoqu Geng,Chongqing University of Posts and Telecommunications,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+1407654875,Bruno Barberi Gnecco,University of São Paulo,wireless_randoms,13,49,4,9,0,13,36,0,5,5,1,12,1
+2860394136,Kobayashi Masayuki,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2959013013,Wang Su,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2837593602,Choi Kwang Hyun,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2819006835,Thompson Nathan F,General Motors,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2705074613,Jordan M. Roderick,,wireless_randoms,1,9,0,0,0,0,0,0,1,1,1,9,1
+2868836011,Qiu Wanming,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2838120281,Kou Zhihao,,wireless_randoms,3,1,0,0,0,0,0,0,1,1,1,1,1
+2875870382,Lai Shaojun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2152067185,Jing-Shiun Lin,National Cheng Kung University,wireless_randoms,17,59,3,14,0,21,38,0,4,4,1,8,1
+2850089147,Sharaga Avishay,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2825003148,Zhang Juan,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+1695091425,Andreas Köpf,Siemens,wireless_randoms,53,136,0,1,0,0,8,0,7,7,2,9,1
+2850230200,Xu Shuaifei,,wireless_randoms,25,6,0,0,0,0,0,0,1,1,3,0,0
+2811791886,Wang Zhuqiang,,wireless_randoms,5,4,0,0,0,0,0,0,1,1,1,1,1
+2223846338,Joseph Wade Luciano,Lexmark,wireless_randoms,4,28,0,0,0,0,0,0,2,2,1,9,1
+2137471083,Aymen Omri,Qatar University,wireless_randoms,47,170,14,30,0,73,86,0,8,8,17,35,3
+2817056094,Seo Bong Gyun,,wireless_randoms,6,1,0,0,0,0,0,0,1,1,1,0,0
+2869546598,Wu Qiling,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2828943791,Park Hae Sung,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2934509225,Ammerlaan David,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2960756447,Dong Xue,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2708154785,Amit Chaturvedi,,wireless_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2825782846,Meng Bei,,wireless_randoms,2,5,0,0,0,0,0,0,1,1,1,4,1
+2860497597,Fan Rui,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2779185863,Takashi Saito,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2938047899,소함 브이. 쉬스,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2931824355,Xing Qian,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2928166267,Lei Ping,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2845152154,Lee Jun Ho,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2854178895,Huang Xianglong,,wireless_randoms,5,3,0,0,0,0,0,0,1,1,1,0,0
+2819968543,Yu Kang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2817061897,Pu Weixin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2683250227,Meei-Ling Hung,,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2776271151,Pierre Vandergheynst,IBM,wireless_randoms,3,99,0,0,0,0,0,0,3,3,1,27,1
+2824378392,Liu Yongquan,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2822627726,Wen Xiangming,,wireless_randoms,5,15,0,0,0,0,0,0,3,3,1,3,1
+2868755390,Liu Jianwu,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2403100888,Dragan Milicev,University of Belgrade,wireless_randoms,27,230,15,9,1,166,30,1,6,6,1,13,1
+2925656379,Luan Hui,,wireless_randoms,1,87,0,0,0,0,0,0,1,1,1,87,1
+2197003573,Mark Allen Woodmansee,General Electric,wireless_randoms,19,230,5,0,0,46,0,0,8,8,1,0,0
+2515910129,Carl Frederick Gordon,Royal Dutch Shell,wireless_randoms,46,0,0,0,0,0,0,0,0,0,2,0,0
+2964914522,Liu Shengyi,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2928465859,Huang Congtao,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2224314725,Jin Ye,Peking University,wireless_randoms,2,3,0,1,0,0,3,0,1,1,1,3,1
+2877075740,Yufan Tan,,wireless_randoms,3,23,0,0,0,0,0,0,3,3,1,15,1
+2865744797,Zhang Jinzhu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2818043574,Lee Sang Hoon,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2877927208,Nian Guangyue,,wireless_randoms,3,2,0,0,0,0,0,0,1,1,1,2,1
+2925561829,梁丽华,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2550204025,Mathias Hjorth Laursen,Aalborg University,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2661647727,Je-Yu Tsai,National Taiwan University,wireless_randoms,3,24,1,2,0,11,13,0,2,2,2,13,2
+2822632312,Tuo Huafu,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2934667475,데이비드 안소니 무치,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2822424152,Jiang Hongguang,,wireless_randoms,7,10,0,0,0,0,0,0,2,2,2,4,1
+2009187460,Mahmoud Alayesh,University of New Mexico,wireless_randoms,7,21,1,6,0,8,13,0,2,2,2,6,1
+2850538175,Wang Ying,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2228490783,Wen bin Zou,,wireless_randoms,2,10,0,2,0,0,10,0,2,2,1,8,1
+2886866882,Shi Tongyi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2995100153,Dongtian Liang,Beijing University of Posts and Telecommunications,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2431981524,WU Xiao-guang,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2489666295,Shiang-Rung Ye,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2956204335,Hiraike Yoshiha,,wireless_randoms,19,11,0,0,0,0,0,0,2,2,1,2,1
+2155708131,Ran Margalit,,wireless_randoms,1,102,0,0,0,0,0,0,1,1,1,102,1
+2101328567,Sun Xiaoying,Tsinghua University,wireless_randoms,17,81,2,2,0,16,32,0,4,4,3,12,2
+2861241744,라이 칸 레웅,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2982914662,Titus Lo,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2595999541,T·R·怀特,,wireless_randoms,4,6,0,0,0,0,0,0,1,1,1,0,0
+272185039,Stavros A. Papathanassiou,National Technical University of Athens,wireless_randoms,125,5654,63,34,5,4477,558,268,29,28,1,10,1
+2785691622,彭胜利,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2530345598,Rohit Kumar,Chandigarh University,wireless_randoms,14,15,6,3,0,8,3,0,2,2,2,2,1
+2427470594,S. Nandakumar,VIT University,wireless_randoms,4,10,3,1,0,9,1,0,2,2,1,2,1
+2836890536,Mao Chuanfeng,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2830916703,Liu Haodong,Huawei,wireless_randoms,10,8,0,0,0,0,0,0,2,2,1,0,0
+2927998139,Chen Dehong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2655913769,G. Calcagnini,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2988303519,Jiang Xiaoming,,wireless_randoms,10,17,0,0,0,0,0,0,2,2,2,4,2
+2833241829,Yin Cunze,,wireless_randoms,27,3,0,0,0,0,0,0,1,1,1,0,0
+2985986699,Yanpei Yu,,wireless_randoms,5,15,0,0,0,0,0,0,2,2,1,5,1
+2698968771,Baoyun Wang,Nanjing University of Posts and Telecommunications,wireless_randoms,1,57,1,0,0,57,0,0,1,1,1,57,1
+2961425218,Xie Jianqin,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2977300847,Jia-Shi Lin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2790479726,加藤登,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2215793498,Yuan Sun,MediaTek,wireless_randoms,6,35,0,1,0,0,19,0,4,4,1,1,1
+2311567681,Danny S.H. Lung,Ericsson,wireless_randoms,3,100,0,0,0,0,0,0,1,1,1,100,1
+2812569081,Blondel Andre,,wireless_randoms,96,33,0,0,0,0,0,0,4,4,1,0,0
+1970181310,Zair Abdelouahab,Federal University of Maranhão,wireless_randoms,38,123,8,10,0,20,40,0,5,5,2,6,2
+2198820163,Koshiro Matsumoto,,wireless_randoms,5,48,0,0,0,0,0,0,4,4,1,0,0
+2835785658,Zhang Haobing,,wireless_randoms,14,2,0,0,2,0,0,1,1,1,2,1,1
+2839245420,Li Chen,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2152436810,Juan Hang,Shanghai Second Polytechnic University,wireless_randoms,11,2,2,8,0,0,2,0,1,1,2,1,1
+2814625023,Jiang Chunxia,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,1,0,0
+2992235816,Sun Kim Yong,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2940147638,Kazuyuki Yasukawa,,wireless_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+2097530829,Toshiaki Miyazaki,University of Aizu,wireless_randoms,163,1259,46,89,2,455,559,21,15,15,13,150,6
+2813283109,Jiang Jiazhi,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2089071321,Duarte Raposo,University of Coimbra,wireless_randoms,21,43,4,13,1,22,21,0,4,4,2,2,1
+2243961822,Imen Ben,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2923208048,克雷格·柏纳特,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2121523130,Thomas Kent Hein,John Deere,wireless_randoms,3,113,0,0,0,0,0,0,3,3,1,20,1
+2837680625,Xin Lan,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2008108772,Jyotiprakash Lakra,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2834161275,Fei Sun,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2976569926,Liu Wen,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2703026744,W. Zenko,,wireless_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+1918367169,Peng Guo-jun,Jimei University,wireless_randoms,22,29,11,8,0,5,17,0,4,4,1,1,1
+2871769350,Dai Juan,,wireless_randoms,42,10,0,0,0,0,0,0,2,2,13,4,2
+2817710877,Hao Xiaofei,,wireless_randoms,1,13,0,0,0,0,0,0,1,1,1,13,1
+2884107572,Shariati Alireza,Islamic Azad University,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2761483581,Martin Cave,Brunel University London,wireless_randoms,53,608,38,0,0,484,0,0,13,13,2,17,1
+1973483152,Tomas Nylander,Ericsson,wireless_randoms,244,6240,0,0,0,0,0,0,36,36,24,458,11
+2865177236,Zheng Tao,,wireless_randoms,21,16,0,0,1,0,0,0,2,2,2,0,0
+2768279250,董艳唯,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2582514784,Danhong Han,Peking University,wireless_randoms,9,28,8,0,0,27,0,0,3,3,1,1,1
+2580289386,萨米尔·维尔马尼,,wireless_randoms,10,0,0,0,0,0,0,0,0,0,4,0,0
+2244863596,Günter Marent,,wireless_randoms,42,35,0,0,0,0,0,0,4,4,1,0,0
+2882673081,Youmai Zhu,,wireless_randoms,2,7,0,0,0,0,0,0,2,2,2,7,2
+2103670453,M. Scales,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2967925813,Waleed Kh. Alzubaidi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2140707109,Kwan-Jun Jo,Korea Maritime and Ocean University,wireless_randoms,20,20,13,0,0,17,0,0,2,2,1,1,1
+2820762496,Takayama So,,wireless_randoms,12,11,0,0,0,0,0,0,2,2,1,0,0
+2479074800,B. Geil,,wireless_randoms,1,0,0,0,1,0,0,0,0,0,1,0,0
+2959287323,Ki Sang Choi,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2828414803,Zhang Chunsong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2494939782,Roberto Rossi,University of Pavia,wireless_randoms,23,157,4,9,0,54,71,0,8,8,1,29,1
+2837871806,Liu Jianyong,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2702550113,Peter Kamarchik,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2227819497,Ricardo Goncalves,University of Aveiro,wireless_randoms,51,468,16,32,3,309,100,242,9,8,13,267,5
+2673246354,Rahela Tabassum,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2853475017,Shuo Jin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2981847043,Chen Hu,Tsinghua University,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2566837301,Christopher Gary Herbert,,wireless_randoms,2,72,0,0,0,0,0,0,2,2,1,62,1
+2757579544,雷中定,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,2,0,0
+2790700946,Qu Jun,,wireless_randoms,8,16,1,0,0,1,0,0,2,2,3,6,2
+2736329745,唐岚,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2997052886,F. D’Agostino,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2208118639,Arye Rosen,Drexel University,wireless_randoms,144,6682,41,33,6,1109,298,60,30,30,8,202,6
+2709636621,Fang Xuguan,,wireless_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2842201139,Yeon Hae Dong,,wireless_randoms,11,23,0,0,0,0,0,0,3,3,2,7,2
+1964472844,Sandro Carbonari,Marche Polytechnic University,wireless_randoms,97,388,31,6,1,378,3,0,10,10,1,2,1
+2878752983,Lee Jung Han,,wireless_randoms,3,3,0,0,0,0,0,0,1,1,3,3,1
+2869460162,Yeung,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2158209147,Hong-Seok Choi,KAIST,wireless_randoms,11,46,7,1,0,10,0,0,3,3,2,3,1
+2758153716,山田升平,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2750507092,Chen Sheng,,wireless_randoms,31,4,0,0,0,0,0,0,1,1,3,0,0
+2872051144,Ren Youzhou,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2879239829,Zhou Fengwei,,wireless_randoms,13,16,0,0,0,0,0,0,2,2,3,1,1
+2991912263,Zhou Xiangyu,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2932996926,Olsson Hjalmar,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2930034706,Lin Wei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2822686161,Jiade Li,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2735206320,알렉산더 말체프,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2138753656,Mauro Marini,National Research Council,wireless_randoms,207,2397,143,9,3,2213,62,8,24,24,1,0,0
+2827486871,Wei Rui,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2824085341,Lai Fenyang,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2109657872,Eui Sung Jung,Kyungpook National University,wireless_randoms,19,24,13,5,0,21,3,0,2,2,1,1,1
+2815920941,Shen Jieheng,,wireless_randoms,19,0,0,0,0,0,0,0,0,0,1,0,0
+2752557532,Hu Yazhao,,wireless_randoms,11,9,0,0,1,0,0,0,2,2,1,0,0
+2868475755,Chen Yong,,wireless_randoms,3,1,0,0,0,0,0,0,1,1,1,1,1
+2846331975,Zhang Qiang,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2850351001,Namuduri Chandra S,General Motors,wireless_randoms,93,35,0,0,0,0,0,0,3,3,1,0,0
+2934366312,둥샨 바오,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2104013273,Yan-Ping Huang,University of Washington,wireless_randoms,60,1190,48,4,0,1173,3,0,19,19,2,4,1
+2818998431,Gong Jiankui,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,2,0,0
+2858915933,Wang Zhijun,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2974456094,T. Ito,,wireless_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2416203737,Tom Hampton,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2895320170,Yonghao Duan,Nanjing University of Posts and Telecommunications,wireless_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2880696478,Xiangchao Chen,,wireless_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2736713167,ペドロ ピー ナシメント,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2831423556,Wang Lu,,wireless_randoms,18,6,0,0,0,0,0,0,2,2,2,2,1
+2846350189,Oh Cheol Gyun,,wireless_randoms,8,16,0,0,0,0,0,0,3,3,1,1,1
+2976779181,Ariga Naoto,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2887835579,博音 安達,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2825676090,Xu Gang,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,1,0,0
+2105410329,Bradley C. Squires,Oshkosh Corporation,wireless_randoms,30,2861,0,0,0,0,0,0,17,17,4,1102,4
+2619464164,Ximin Liu,Chinese Academy of Sciences,wireless_randoms,6,25,5,0,0,23,0,0,3,3,1,0,0
+2112243331,Biju Thomas,,wireless_randoms,1,109,0,0,0,0,0,0,1,1,1,109,1
+2815977060,Yang Yulong,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2709119231,Edwin Mantiply,Federal Communications Commission,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2561233502,Sun Chunying,Samsung,wireless_randoms,27,150,0,0,0,0,0,0,6,6,2,1,1
+2874779192,Wu Shangkai,,wireless_randoms,80,45,0,0,0,0,0,0,3,3,1,0,0
+2959159529,Yang Wenjin,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2821123128,Zhang Hongcai,,wireless_randoms,2,10,0,0,0,0,0,0,2,2,1,6,1
+2579612374,Y. H. Cho,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2567177142,Sang-Rok Moon,Electronics and Telecommunications Research Institute,wireless_randoms,8,6,5,3,0,6,0,0,1,1,1,0,0
+2778373779,Тим Уилльямс (Us),,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2821199267,Fan Xin,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2862498015,He Wenjie,,wireless_randoms,11,7,0,0,0,0,0,0,1,1,1,1,1
+2865224946,He Wang,,wireless_randoms,5,19,0,0,0,0,0,0,3,3,1,5,1
+2306178148,D.L. Noneaker,Clemson University,wireless_randoms,47,224,13,30,0,74,147,0,8,8,5,20,3
+2231298662,Bradley Dahlquist,University of Washington,wireless_randoms,1,113,0,1,0,0,113,0,1,1,1,113,1
+2776912011,潘学明,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2849301424,Wang Xu,,wireless_randoms,6,3,0,0,0,0,0,0,1,1,2,0,0
+2956568474,Sun Jingyu,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2780802166,グリックステイン，ロバート・エス,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2281120250,Diego Sánchez de Rivera,Technical University of Madrid,wireless_randoms,27,92,4,18,0,15,67,0,5,5,3,11,2
+2892530016,曾庆平,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2880099031,He Huang,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2931551618,Yin Rong,,wireless_randoms,6,1,0,0,0,0,0,0,1,1,2,0,0
+2844355701,Zhao Pengcheng,,wireless_randoms,6,6,0,0,0,0,0,0,2,2,3,5,2
+2515221193,Dinesh Kumar Arora,BlackBerry Limited,wireless_randoms,30,606,0,0,0,0,0,0,10,10,10,145,7
+2811578508,Guikai Liu,,wireless_randoms,3,19,0,0,0,0,0,0,3,3,3,19,3
+2878714259,Yong Hyung Seok,,wireless_randoms,9,1,0,0,0,0,0,0,1,1,1,0,0
+2752402212,Abdallah Sabry,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2762743655,Suman Banerjee,Wisconsin Alumni Research Foundation,wireless_randoms,17,136,0,0,0,0,0,0,6,6,4,23,3
+2651430450,Cao Jian-xue,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2052737633,Jerry Ellig,George Washington University,wireless_randoms,56,220,27,0,0,173,0,0,9,9,2,1,1
+2815792449,Zhang Jianghai,,wireless_randoms,11,8,0,0,0,0,0,0,2,2,2,1,1
+2115174210,Qirong Tang,Tongji University,wireless_randoms,32,59,9,19,0,30,23,0,4,4,1,0,0
+2521962005,Christopher McRaild,,wireless_randoms,1,59,0,0,0,0,0,0,1,1,1,59,1
+2663364906,Yongchun Tian,,wireless_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2722121767,Chuanda Qi,Xinyang Normal University,wireless_randoms,11,17,9,0,1,17,0,4,3,3,1,4,1
+2957477294,Jiang Fan,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2527513974,刘颖,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2376681585,Wang Yan-hui,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2938457413,J·L·米尔斯,Ericsson,wireless_randoms,1,56,0,0,0,0,0,0,1,1,1,56,1
+2405146709,H.S. Matthews,,wireless_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2560965823,Mattias Andersson,Ericsson,wireless_randoms,13,58,1,0,1,9,0,9,4,3,5,48,3
+2974410585,M. Shimozawa,Mitsubishi,wireless_randoms,21,314,1,17,0,0,235,0,11,11,2,20,2
+2825186863,Ceng Zhanhui,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2941211648,陈浚,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2238789751,Mohamed Elkhouly,Bosch,wireless_randoms,38,272,12,23,0,127,143,0,10,10,1,2,1
+2612425150,R.B.Sarooraj,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2921791047,Ci-Hang Jin,University of Fribourg,wireless_randoms,9,456,3,2,0,445,5,0,4,4,1,1,1
+2824477709,Lee Chul Woo,,wireless_randoms,5,5,0,0,0,0,0,0,1,1,2,4,1
+2059039208,Pavlo Bykovyy,Ternopil National Economic University,wireless_randoms,28,50,1,18,0,4,36,0,4,4,1,0,0
+2150713527,Tianbao Zhang,Shanghai University,wireless_randoms,3,10,0,2,0,0,10,0,2,2,1,0,0
+2998567973,AnjumFarooq,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2559610739,Luis Antonio Mariscal Rico,,wireless_randoms,4,3,3,0,0,3,0,0,1,1,2,3,1
+2203347319,Walter. Guy Scott,,wireless_randoms,1,22,0,0,0,0,0,0,1,1,1,22,1
+2870229985,Lee Yong U,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2885560948,GunJin Yun,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2879505446,Li Ru,,wireless_randoms,6,1,0,0,0,0,0,0,1,1,1,0,0
+2878203825,Yang Li,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2412511228,Yonghe Liu,Texas Instruments,wireless_randoms,1,56,0,0,0,0,0,0,1,1,1,56,1
+2637620421,이수영,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,0,0
+2144771214,Soon Sub Sim,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2643580575,尹汝骏,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+2130632019,Sucharita Jena,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2938796030,크리스토프 로에,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2932908012,Shi Zhong-Ren,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2120062962,Roger J. Chapman,Ohio State University,wireless_randoms,27,243,1,1,0,183,2,0,4,4,1,1,1
+2287990294,Shahbaz Khan,"University of Engineering and Technology, Peshawar",wireless_randoms,36,113,11,12,2,20,91,1,5,5,4,28,2
+2718487653,Yanli Pei,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2873234038,Fei Zou,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2861218748,Wang Xiaochun,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2437803665,Yao Liang,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2872083041,Shuai Jiahui,,wireless_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2821472356,Guo Qingxiao,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2698518735,Ade Syaheda Wani Marzuki,,wireless_randoms,2,7,1,1,1,5,2,5,2,1,1,2,1
+2634571751,홍석기,,wireless_randoms,12,0,0,0,0,0,0,0,0,0,1,0,0
+2832157433,Noda Masaki,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2765167598,赵国如,,wireless_randoms,10,0,0,0,0,0,0,0,0,0,4,0,0
+2698121630,Ninad K. Mishra,,wireless_randoms,4,7,1,3,0,0,7,0,1,1,1,7,1
+2931312787,Shen Xuefeng,,wireless_randoms,10,0,0,0,0,0,0,0,0,0,1,0,0
+2845664403,Douseki Takakuni,,wireless_randoms,2,6,0,0,0,0,0,0,2,2,1,4,1
+2812972591,Chang Qiyun,,wireless_randoms,3,30,0,0,0,0,0,0,2,2,2,16,2
+2632681636,Gurminder Kaur,,wireless_randoms,1,2,1,0,1,2,0,2,1,0,1,2,1
+2697509609,Hiram McCall,,wireless_randoms,1,199,0,0,0,0,0,0,1,1,1,199,1
+2610890249,N·阿波罗,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2872827252,Liao Yun Song,,wireless_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2923145041,马楚欣,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2864068396,Zhijiang Xu,,wireless_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2281085171,John Charles May,Qualcomm,wireless_randoms,1,27,0,0,0,0,0,0,1,1,1,27,1
+2925335268,코지로 하마베,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2185643043,Hiral Patel,,wireless_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2974703110,Yousif Al-Mashhadany Beza Getu,,wireless_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+2829667747,Kang Qinghua,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2746243021,Liu Yuqiang,,wireless_randoms,140,99,1,0,0,0,0,0,4,4,1,0,0
+2933904726,Yigal Leiba,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2820458980,Xiuzhen Que,,wireless_randoms,3,9,0,0,0,0,0,0,1,1,1,0,0
+2928015973,Li Mingming,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2743164206,Song Yanbin,,wireless_randoms,32,9,0,1,0,0,0,0,2,2,4,2,1
+1978879651,Deepak Somasundaram,,wireless_randoms,2,10,0,0,0,0,0,0,1,1,1,1,1
+2861923750,Douseki Takakuni,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2814551949,Feng Yu,,wireless_randoms,2,5,0,0,0,0,0,0,2,2,1,2,1
+2221392162,Hong Zhai,Philips,wireless_randoms,7,83,0,0,0,0,0,0,5,5,1,5,1
+2923189576,小林康宏,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2653566580,Guoqing Li,,wireless_randoms,19,205,0,0,0,0,0,0,8,8,3,6,1
+2857862034,Hong Ren,,wireless_randoms,2,3,0,0,0,0,0,0,1,1,1,1,1
+2840650338,Lefebvre William,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2138749076,Mincheng Zhao,Beijing University of Posts and Telecommunications,wireless_randoms,9,129,3,4,0,83,34,0,6,6,3,36,3
+2779033646,王文博,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2926557356,Zheng Jianping,,wireless_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2826112419,Min Sung Hoon,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2771967599,黄圭盛,,wireless_randoms,4,0,0,0,0,0,0,0,0,0,2,0,0
+2794185437,Li Zerui,,wireless_randoms,3,3,0,0,0,0,0,0,1,1,1,2,1
+2116420436,Shigeto Suzuki,,wireless_randoms,21,99,0,0,0,0,0,0,6,6,4,12,2
+2777513800,Chaosong Li,Southeast University,wireless_randoms,3,4,2,1,0,4,0,0,1,1,1,3,1
+2571902964,丁美玲,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2336552916,Ulises Olvera-Hernandez,Ericsson,wireless_randoms,8,575,0,0,0,0,0,0,4,4,1,338,1
+2736375632,栄信 伊藤,,wireless_randoms,42,62,0,0,0,0,0,0,4,4,1,0,0
+2964292721,Edward J. Dohring,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2419844133,T. Zervos,University of Patras,wireless_randoms,40,196,8,27,1,108,82,1,7,7,1,4,1
+2575242432,Matthew Smith,University of Oxford,wireless_randoms,24,883,5,12,0,755,120,0,9,9,3,5,2
+2091338686,Shen-Li Fu,I-Shou University,wireless_randoms,103,478,48,39,0,414,57,0,11,11,1,2,1
+2099871699,Hong Dae Sik,,wireless_randoms,23,36,1,0,0,0,0,0,3,3,1,0,0
+2291735983,Hyuksoo Chang,LG Electronics,wireless_randoms,3,60,0,0,0,0,0,0,3,3,2,56,2
+2553122061,Hanaki Akihito,NTT DoCoMo,wireless_randoms,17,5,0,0,0,0,0,0,2,2,2,0,0
+2859107028,Zheng Pengfei,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,2,0,0
+2600592906,Xue Portland Yang,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,2,0,0
+2823039698,Takano Kyoichi,,wireless_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2097858417,Bi Zhao,King's College London,wireless_randoms,6,18,1,4,0,2,16,0,2,2,2,1,1
+2967100529,Jo A Rreum,,wireless_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2851535566,Alanen Olli,Nokia,wireless_randoms,15,0,0,0,0,0,0,0,0,0,7,0,0
+2577780589,P. Hartmann,,wireless_randoms,1,20,1,0,1,20,0,20,1,0,1,20,1
+2957146236,Wang Fubin,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2705001837,F. Svelto,,wireless_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2779914781,Asiya Khan,,wireless_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2068934239,Christian Ploninger,Siemens,wireless_randoms,11,19,0,1,0,0,8,0,3,3,1,8,1
+2785731268,梁志科,,wireless_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2844354054,Zhang Sen,,wireless_randoms,6,9,0,0,0,0,0,0,2,2,1,6,1
+2602314292,赵铭雨,,wireless_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2649602079,곽경섭,,wireless_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0

@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+2137729922,Katherine L. Hall,Marin Software,208,25119,94,1,h_index,89,19977,76
+1818389174,Paul Marinier,"InterDigital, Inc.",482,17849,78,2,h_index,222,11936,67
+2590004626,Stephen E. Terry,"InterDigital, Inc.",611,17510,82,3,h_index,210,10768,66
+40544600,Marin Soljacic,Massachusetts Institute of Technology,595,52689,127,4,h_index,67,20723,65
+2938676999,Morris P. Kesler,Marin Software,87,19476,71,5,h_index,69,17652,65
+2136057724,Junyi Li,Qualcomm,984,22174,79,6,h_index,352,13283,61
+2413204075,Rui Zhang,National University of Singapore,809,42212,99,7,h_index,250,19977,58
+2027441700,Diana Pani,"InterDigital, Inc.",339,11999,70,8,h_index,172,8124,57
+2482278969,Rajiv Laroia,Qualcomm,291,17378,71,9,h_index,146,8943,57
+714037112,Konrad J. Kulikowski,Marin Software,67,14779,55,10,h_index,60,14082,53
+2403298526,Theodore S. Rappaport,New York University,442,80577,108,11,h_index,138,24939,53
+2004282689,Andre B. Kurs,Marin Software,87,12965,58,12,h_index,63,10751,51
+2121781610,Peter S. Wang,"InterDigital, Inc.",184,8391,60,13,h_index,89,6300,51
+2195743696,Guodong Zhang,"InterDigital, Inc.",350,12503,68,14,h_index,143,7522,51
+2143330613,Christopher R. Cave,"InterDigital, Inc.",359,9906,62,15,h_index,166,5864,50
+37595673,Ian F. Akyildiz,Georgia Institute of Technology,575,106548,120,16,h_index,150,50415,49
+84958792,Jeyhan Karaoguz,Broadcom,723,20849,77,17,h_index,156,6968,47
+2089602345,Peter Gaal,Qualcomm,1366,20481,75,18,h_index,368,6787,45
+2125050856,Xuemin Shen,University of Waterloo,1067,39185,102,19,h_index,178,8181,45
+2197148994,Ulises Olvera-Hernandez,"InterDigital, Inc.",203,8092,58,20,h_index,100,6265,45
+656047448,Andreas F. Molisch,University of Southern California,736,46498,96,21,h_index,161,13307,44
+2076972962,Juan Montojo,Qualcomm,767,20770,79,22,h_index,186,6062,44
+2093492707,Andrew J. Campanella,Marin Software,59,11927,48,23,h_index,50,11224,44
+2116008403,Zhu Han,University of Houston,1059,36142,98,24,h_index,266,11767,43
+703410400,Lajos Hanzo,University of Southampton,2128,45609,87,25,h_index,240,12532,42
+2911227669,Aristeidis Karalis,Marin Software,72,11011,44,26,h_index,50,9717,41
+60615692,Georgios B. Giannakis,University of Minnesota,1171,74469,140,27,h_index,129,10586,40
+2091397280,Aristeidis Karalis,Massachusetts Institute of Technology,71,23815,55,28,h_index,40,14919,39
+2952783946,Merouane Debbah,Huawei,692,26106,80,29,h_index,160,7655,38
+1909747623,Ekram Hossain,University of Manitoba,576,27550,89,30,h_index,157,7294,37
+2019924074,Alexei Gorokhov,Qualcomm,636,12998,70,31,h_index,114,4343,37
+2098642314,Mani Srivastava,"University of California, Los Angeles",562,53491,104,32,h_index,92,12591,35
+2099026309,Durga Prasad Malladi,Qualcomm,784,23278,85,33,h_index,173,6857,35
+2112975235,Nigel P. Cook,Qualcomm,87,15927,41,34,h_index,40,13236,35
+2574815858,Samir S. Soliman,Qualcomm,341,10794,60,35,h_index,106,5445,35
+688402840,Victor C. M. Leung,University of British Columbia,1399,30677,84,36,h_index,237,5439,34
+2170308935,Robert T. Love,Motorola,331,12773,70,37,h_index,70,4882,34
+2285045589,Benoit Pelletier,"InterDigital, Inc.",176,5780,42,38,h_index,86,4597,34
+2462088444,Dusit Niyato,Nanyang Technological University,628,27946,80,39,h_index,182,9365,34
+1912065089,Michael A. Leabman,,69,8295,34,40,h_index,57,8042,33
+2114827527,Gregory Scott Brewer,,68,8295,34,41,h_index,56,8042,33
+2117411198,Naga Bhushan,Qualcomm,589,15207,65,42,h_index,146,5349,33
+2122965979,Tao Luo,Qualcomm,560,12988,61,43,h_index,249,4919,33
+2125725262,Jin Wang,"InterDigital, Inc.",171,7404,52,44,h_index,65,4583,33
+2597257100,Marian Rudolf,"InterDigital, Inc.",311,10580,57,45,h_index,129,5534,33
+1980208480,Shankar Somasundaram,"InterDigital, Inc.",149,5954,41,46,h_index,74,4624,32
+2029230138,H. Vincent Poor,Princeton University,1339,39885,83,47,h_index,188,6910,32
+2064177907,Mohammed Sammour,"InterDigital, Inc.",140,6208,47,48,h_index,64,3955,32
+2131510330,Wanshi Chen,Qualcomm,1090,16358,68,49,h_index,332,5622,32
+2255186276,Janet A. Stern-Berkowitz,"InterDigital, Inc.",171,6808,45,50,h_index,75,4489,32
+2482558687,Qian Zhang,Hong Kong University of Science and Technology,672,22918,80,51,h_index,127,5357,32
+2080311033,Ravi Palanki,Qualcomm,439,12279,67,52,h_index,91,3241,31
+2110324308,Jerome P. Lynch,University of Michigan,288,8776,45,53,h_index,129,6085,31
+2130996983,Yunhao Liu,Michigan State University,530,32331,81,54,h_index,83,12552,31
+2307889842,Aamod Khandekar,Qualcomm,575,13341,67,55,h_index,82,3142,31
+2696869083,Walid Saad,Virginia Tech,400,13328,55,56,h_index,165,6700,31
+2113576682,Hsiao-Hwa Chen,National Cheng Kung University,559,17101,73,57,h_index,117,3486,30
+2138115455,Sanjiv Nanda,Qualcomm,290,12930,66,58,h_index,59,3053,30
+2302839145,Tom Richardson,Qualcomm,296,30161,65,59,h_index,97,4376,30
+2567820109,Athanasios V. Vasilakos,Luleå University of Technology,790,37129,109,60,h_index,86,4933,30
+194212017,Dina Katabi,Massachusetts Institute of Technology,207,28057,71,61,h_index,61,5967,29
+223307443,Gregory J. Pottie,"University of California, Los Angeles",223,21557,52,62,h_index,68,8185,29
+718206360,Ahmadreza Rofougaran,Broadcom,774,22586,76,63,h_index,140,4118,29
+1835413171,Alexander Reznik,"InterDigital, Inc.",284,8535,54,64,h_index,91,3845,29
+1874432589,Petar Popovski,Aalborg University,505,13530,48,65,h_index,175,5210,29
+2025025405,Muhammad Kazmi,Ericsson,580,9477,59,66,h_index,175,3052,29
+2098310896,James D. Bennett,Broadcom,393,14637,67,67,h_index,77,4761,29
+2117581506,Gavin Bernard Horn,Qualcomm,561,9563,59,68,h_index,106,2666,29
+2121277316,Zhiguo Ding,University of Manchester,487,17745,67,69,h_index,119,4893,29
+2465043653,Moe Z. Win,Massachusetts Institute of Technology,510,38487,88,70,h_index,111,8177,29
+2472343218,Robert W. Heath,University of Texas at Austin,869,62903,121,71,h_index,99,9194,29
+563121846,Mario Gerla,"University of California, Los Angeles",1042,65803,119,72,h_index,108,6487,28
+1711300654,Eric R. Giler,Marin Software,37,6758,30,73,h_index,31,6016,28
+2029673242,Lukas Sieber,Qualcomm,84,12316,33,74,h_index,36,10177,28
+2129529273,Harald Haas,University of Edinburgh,694,29629,83,75,h_index,145,9930,28
+2133670393,Sung-Hyuk Shin,"InterDigital, Inc.",218,6953,44,76,h_index,60,3826,28
+2154841660,Joshua R. Smith,University of Washington,189,14914,64,77,h_index,70,7493,28
+2155339785,Chiu Ngo,Samsung,190,4450,34,78,h_index,99,2799,28
+2438364369,Aleksandar Damnjanovic,Qualcomm,524,10934,56,79,h_index,149,5204,28
+2498327254,Ghyslain Pelletier,"InterDigital, Inc.",95,7808,43,80,h_index,46,4908,28
+2565893456,Jean-Louis Gauvreau,"InterDigital, Inc.",118,7504,53,81,h_index,50,4263,28
+143197385,Jan M. Rabaey,"University of California, Berkeley",494,53471,87,82,h_index,105,7456,27
+1578959811,Jelena Damnjanovic,Qualcomm,295,6124,40,83,h_index,74,2028,27
+1964334804,Stephen A. Sprigg,Qualcomm,175,5820,39,84,h_index,64,3953,27
+1975689112,Michele Zorzi,University of Padua,726,27918,77,85,h_index,134,5033,27
+1990504404,Anantha P. Chandrakasan,Massachusetts Institute of Technology,543,93067,118,86,h_index,65,20528,27
+2049700031,Mehdi Bennis,University of Oulu,270,9385,50,87,h_index,98,4069,27
+2111415347,Xiang-Yang Li,University of Science and Technology of China,634,23250,83,88,h_index,93,3556,27
+2114712605,David A. Schatz,Marin Software,36,6360,27,89,h_index,29,6355,27
+2127141629,Yongbin Wei,Qualcomm,658,12277,57,90,h_index,164,3349,27
+2131748517,Geoffrey Ye Li,Georgia Institute of Technology,364,17060,58,91,h_index,93,7229,27
+2134356441,Jeffrey H. Reed,Virginia Tech,390,16970,59,92,h_index,105,6932,27
+2140585849,Hanspeter Widmer,Qualcomm,46,11591,32,93,h_index,32,9244,27
+2145429009,Santosh Paul Abraham,Qualcomm,509,6797,44,94,h_index,164,2611,27
+2162629570,Harkirat Singh,Samsung,146,3941,32,95,h_index,66,2172,27
+2198301200,Arogyaswami Paulraj,Stanford University,482,50332,108,96,h_index,69,13280,27
+586802063,Philip J. Pietraski,"InterDigital, Inc.",170,6363,39,97,h_index,57,3841,26
+1643717603,Hemanth Sampath,Qualcomm,417,7785,53,98,h_index,136,2951,26
+1987177115,Frank A. Lane,Qualcomm,162,3740,31,99,h_index,55,2816,26
+2092550336,Paramvir Bahl,Microsoft,167,43739,82,100,h_index,37,8036,26

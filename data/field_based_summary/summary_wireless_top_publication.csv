@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+2839455278,Kim Jae Hyung,,2525,1270,9,1,pubs_count,785,267,5
+2864428513,Kwon Bong Ki,,1681,837,7,2,pubs_count,668,199,4
+2089602345,Peter Gaal,Qualcomm,1366,20481,75,3,pubs_count,368,6787,45
+2136057724,Junyi Li,Qualcomm,984,22174,79,4,pubs_count,352,13283,61
+2864125654,Hong Jong Cheol,,1709,1451,10,5,pubs_count,351,238,5
+2131510330,Wanshi Chen,Qualcomm,1090,16358,68,6,pubs_count,332,5622,32
+2116008403,Zhu Han,University of Houston,1059,36142,98,7,pubs_count,266,11767,43
+2413204075,Rui Zhang,National University of Singapore,809,42212,99,8,pubs_count,250,19977,58
+2122965979,Tao Luo,Qualcomm,560,12988,61,9,pubs_count,249,4919,33
+2846741292,Luo Tao,Qualcomm,725,288,6,10,pubs_count,249,125,4
+2747349469,Chen Wanshi,Qualcomm,823,271,5,11,pubs_count,243,131,4
+703410400,Lajos Hanzo,University of Southampton,2128,45609,87,12,pubs_count,240,12532,42
+688402840,Victor C. M. Leung,University of British Columbia,1399,30677,84,13,pubs_count,237,5439,34
+1818389174,Paul Marinier,"InterDigital, Inc.",482,17849,78,14,pubs_count,222,11936,67
+2512463499,Gaal Peter,Qualcomm,786,279,6,15,pubs_count,211,115,5
+2590004626,Stephen E. Terry,"InterDigital, Inc.",611,17510,82,16,pubs_count,210,10768,66
+1976698169,Mohamed-Slim Alouini,King Abdullah University of Science and Technology,1553,54285,86,17,pubs_count,209,2892,22
+2472457481,Hao Xu,Qualcomm,444,7342,42,18,pubs_count,201,2790,24
+2220394469,Ramjee Prasad,Aarhus University,1050,29455,59,19,pubs_count,192,11028,21
+2029230138,H. Vincent Poor,Princeton University,1339,39885,83,20,pubs_count,188,6910,32
+2076972962,Juan Montojo,Qualcomm,767,20770,79,21,pubs_count,186,6062,44
+2753975774,Li Junyi,Qualcomm,523,203,6,22,pubs_count,185,98,5
+2528981021,Simone Merlin,Qualcomm,453,4443,34,23,pubs_count,184,2196,24
+2462088444,Dusit Niyato,Nanyang Technological University,628,27946,80,24,pubs_count,182,9365,34
+275101596,Manos M. Tentzeris,Georgia Institute of Technology,758,14362,64,25,pubs_count,178,2965,23
+2125050856,Xuemin Shen,University of Waterloo,1067,39185,102,26,pubs_count,178,8181,45
+1874432589,Petar Popovski,Aalborg University,505,13530,48,27,pubs_count,175,5210,29
+2025025405,Muhammad Kazmi,Ericsson,580,9477,59,28,pubs_count,175,3052,29
+2099026309,Durga Prasad Malladi,Qualcomm,784,23278,85,29,pubs_count,173,6857,35
+2027441700,Diana Pani,"InterDigital, Inc.",339,11999,70,30,pubs_count,172,8124,57
+2143330613,Christopher R. Cave,"InterDigital, Inc.",359,9906,62,31,pubs_count,166,5864,50
+2696869083,Walid Saad,Virginia Tech,400,13328,55,32,pubs_count,165,6700,31
+2127141629,Yongbin Wei,Qualcomm,658,12277,57,33,pubs_count,164,3349,27
+2145429009,Santosh Paul Abraham,Qualcomm,509,6797,44,34,pubs_count,164,2611,27
+656047448,Andreas F. Molisch,University of Southern California,736,46498,96,35,pubs_count,161,13307,44
+2952783946,Merouane Debbah,Huawei,692,26106,80,36,pubs_count,160,7655,38
+1909747623,Ekram Hossain,University of Manitoba,576,27550,89,37,pubs_count,157,7294,37
+84958792,Jeyhan Karaoguz,Broadcom,723,20849,77,38,pubs_count,156,6968,47
+2426390967,Ji Tingfang,Qualcomm,506,4069,30,39,pubs_count,155,914,16
+2505396565,George Cherian,Qualcomm,444,4433,31,40,pubs_count,151,1562,21
+37595673,Ian F. Akyildiz,Georgia Institute of Technology,575,106548,120,41,pubs_count,150,50415,49
+2438364369,Aleksandar Damnjanovic,Qualcomm,524,10934,56,42,pubs_count,149,5204,28
+2843282468,Sun Jing,Qualcomm,339,159,4,43,pubs_count,148,86,4
+2117411198,Naga Bhushan,Qualcomm,589,15207,65,44,pubs_count,146,5349,33
+2482278969,Rajiv Laroia,Qualcomm,291,17378,71,45,pubs_count,146,8943,57
+2929962570,Park Kyungmin,,149,35,2,46,pubs_count,146,35,2
+2019662662,Zhangdui Zhong,Beijing Jiaotong University,563,6089,34,47,pubs_count,145,2129,19
+2129529273,Harald Haas,University of Edinburgh,694,29629,83,48,pubs_count,145,9930,28
+2612540110,Carlos Cordeiro,Intel,369,8335,33,49,pubs_count,145,5143,24
+2195743696,Guodong Zhang,"InterDigital, Inc.",350,12503,68,50,pubs_count,143,7522,51
+2836340522,Babaei Alireza,,159,79,4,51,pubs_count,143,64,4
+2100846796,Tom Chin,Qualcomm,474,2636,21,52,pubs_count,142,910,13
+718206360,Ahmadreza Rofougaran,Broadcom,774,22586,76,53,pubs_count,140,4118,29
+2872692003,Dinan Esmael,,153,43,3,54,pubs_count,140,38,3
+2042571885,Ingrid Moerman,Ghent University,618,11474,40,55,pubs_count,138,3864,17
+2403298526,Theodore S. Rappaport,New York University,442,80577,108,56,pubs_count,138,24939,53
+2108912406,Wout Joseph,Ghent University,633,6538,39,57,pubs_count,137,1665,20
+1643717603,Hemanth Sampath,Qualcomm,417,7785,53,58,pubs_count,136,2951,26
+2093473277,Kyung Sup Kwak,Inha University,760,9224,32,59,pubs_count,136,4167,19
+1975689112,Michele Zorzi,University of Padua,726,27918,77,60,pubs_count,134,5033,27
+2156575750,Muhammad Imran,COMSATS Institute of Information Technology,1483,20128,71,61,pubs_count,134,2213,19
+296576950,Leonard Barolli,Fukuoka Institute of Technology,1107,8010,43,62,pubs_count,133,1045,18
+60615692,Georgios B. Giannakis,University of Minnesota,1171,74469,140,63,pubs_count,129,10586,40
+2110324308,Jerome P. Lynch,University of Michigan,288,8776,45,64,pubs_count,129,6085,31
+2597257100,Marian Rudolf,"InterDigital, Inc.",311,10580,57,65,pubs_count,129,5534,33
+349968709,Khaled Ben Letaief,Hong Kong University of Science and Technology,659,22757,75,66,pubs_count,127,3234,24
+2482558687,Qian Zhang,Hong Kong University of Science and Technology,672,22918,80,67,pubs_count,127,5357,32
+2099002134,Dong In Kim,Sungkyunkwan University,376,10186,49,68,pubs_count,125,4565,25
+2925352230,Du Guangdong,,864,178,4,69,pubs_count,125,16,1
+2182456253,Ryuji Kohno,Yokohama National University,705,9281,36,70,pubs_count,124,2595,17
+2175451560,Xinzhou Wu,Qualcomm,318,6014,36,71,pubs_count,122,2766,23
+2507278112,Zhang Xiaoxia,Qualcomm,345,117,4,72,pubs_count,122,47,3
+2159109792,Robert J. Stacey,Intel,245,2191,21,73,pubs_count,121,931,15
+2184435702,Gerhard Fettweis,Dresden University of Technology,1034,26815,69,74,pubs_count,121,7405,21
+2878410299,Zhu Feng,,252,749,11,75,pubs_count,121,324,8
+2109386830,Mohsen Guizani,Qatar University,776,17540,65,76,pubs_count,120,2644,23
+2830554956,Yu Jianmei,,249,745,11,77,pubs_count,120,323,8
+2121277316,Zhiguo Ding,University of Manchester,487,17745,67,78,pubs_count,119,4893,29
+2813254525,Zhu Junling,,238,740,11,79,pubs_count,118,322,8
+2851879799,Zhu Jungang,,241,741,11,80,pubs_count,118,322,8
+2113576682,Hsiao-Hwa Chen,National Cheng Kung University,559,17101,73,81,pubs_count,117,3486,30
+2927804488,Jeon Hyoungsuk,,121,14,2,82,pubs_count,116,14,2
+36717893,George K. Karagiannidis,Aristotle University of Thessaloniki,543,16909,71,83,pubs_count,115,2115,21
+2019924074,Alexei Gorokhov,Qualcomm,636,12998,70,84,pubs_count,114,4343,37
+2105027195,Xi Zhang,Texas A&M University,560,19151,75,85,pubs_count,114,2833,21
+2216523791,Zhihua Wang,Tsinghua University,862,4605,25,86,pubs_count,114,811,12
+2852860035,Kazmi Muhammad,Ericsson,267,77,4,87,pubs_count,113,48,3
+2866962378,Lin Guijiang,,137,88,4,88,pubs_count,113,63,4
+732137985,Siddharth S. Oroskar,Sprint Corporation,262,726,10,89,pubs_count,112,294,8
+2255324983,Bengt Lindoff,Ericsson,611,7540,46,90,pubs_count,112,1612,20
+2306621260,Azzedine Boukerche,University of Ottawa,885,15223,63,91,pubs_count,112,1843,18
+120883154,Leena Ukkonen,Tampere University of Technology,326,4277,33,92,pubs_count,111,845,16
+1986597048,Luc Martens,Ghent University,861,11172,58,93,pubs_count,111,1554,20
+2465043653,Moe Z. Win,Massachusetts Institute of Technology,510,38487,88,94,pubs_count,111,8177,29
+2575990668,Akihiko Nishio,Panasonic,546,5886,36,95,pubs_count,111,1507,20
+16476870,Iana Siomina,Ericsson,260,5636,41,96,pubs_count,109,2362,25
+563121846,Mario Gerla,"University of California, Los Angeles",1042,65803,119,97,pubs_count,108,6487,28
+2882635503,Da Silva Icaro L J,Ericsson,184,181,4,98,pubs_count,108,34,3
+2476647734,Terry Stephen E,"InterDigital, Inc.",546,103,3,99,pubs_count,107,59,3
+135837979,Halim Yanikomeroglu,Carleton University,428,12660,46,100,pubs_count,106,5788,25

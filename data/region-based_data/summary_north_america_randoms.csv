@@ -1,0 +1,999 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index
+2789349870,J. N. Pompeo,University of Pennsylvania,north_america_randoms,2,17,2,0,0,17,0,0,2,2
+2260956797,Deborah Widdowson,"University of California, Berkeley",north_america_randoms,1,29,1,0,0,29,0,0,1,1
+2530155444,W. T. Rockihold,Purdue University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2762124978,Michael C. Slack,George Washington University,north_america_randoms,3,18,3,0,0,18,0,0,2,2
+2578126745,Betty C. Irwin,Johns Hopkins University,north_america_randoms,4,60,2,0,0,49,0,0,3,3
+2324093474,M. Stȩślicka,University of Waterloo,north_america_randoms,1,29,1,0,0,29,0,0,1,1
+2949886587,P. Soffitta,Columbia University,north_america_randoms,191,3974,70,1,1,3606,0,0,21,21
+2649207892,X. Chen,University of Michigan,north_america_randoms,3,26,2,0,0,24,0,0,2,2
+2565962526,Maria Lopez de Murphy,Pennsylvania State University,north_america_randoms,2,3,1,0,0,3,0,0,1,1
+2170878292,S. Karthik,Purdue University,north_america_randoms,2,4,1,0,0,4,0,0,1,1
+2556838824,Steve Viger,Michigan State University,north_america_randoms,1,57,1,0,0,57,0,0,1,1
+2486992808,Jerry D. Richard,Massachusetts Institute of Technology,north_america_randoms,1,5,0,1,0,0,5,0,1,1
+2126850107,A. M. Reece,University of Florida,north_america_randoms,1,21,1,0,0,21,0,0,1,1
+2703993061,D.J. Mellor,University of Illinois at Urbana–Champaign,north_america_randoms,6,31,2,0,0,31,0,0,1,1
+2479886372,Nancy Sims,University of Michigan,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2690523216,R. P. Hammond,McMaster University,north_america_randoms,2,86,2,0,0,86,0,0,2,2
+1980161786,Frances C. Womack,Vanderbilt University,north_america_randoms,9,712,8,0,0,712,0,0,6,6
+2752838686,Yu-Ling Chang,"University of California, Berkeley",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2328043759,Youngxin Zhao,University of Illinois at Chicago,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2131281135,J.N. Miller,Duke University,north_america_randoms,3,13,2,0,0,13,0,0,1,1
+2893282930,Kazuaki Monde,University of Michigan,north_america_randoms,3,63,3,0,0,63,0,0,2,2
+2899181247,M. J. ShoupIII,University of Rochester,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2163382506,Heemin Yoo,University of Arizona,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2656102503,Peter Chiang,University of Michigan,north_america_randoms,1,65,1,0,0,65,0,0,1,1
+681388842,Cornelius Y. Taabazuing,University of Massachusetts Amherst,north_america_randoms,11,90,7,0,0,90,0,0,4,4
+2896609075,Elaine F. Reed,"University of California, Berkeley",north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2652013909,E. Egaña,Harvard University,north_america_randoms,2,22,2,0,0,22,0,0,2,2
+2297343472,Catherine Duff,University of Toronto,north_america_randoms,20,2899,19,0,0,2898,0,0,14,14
+2274746380,Gordon Molhoj,University of Victoria,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2073528912,Moxun Tang,Michigan State University,north_america_randoms,11,64,10,0,0,64,0,0,5,5
+2789491072,Se Hyung Park,University of British Columbia,north_america_randoms,2,196,2,0,0,196,0,0,1,1
+2883175861,Zachary Hickey,Queen's University,north_america_randoms,3,0,2,0,0,0,0,0,0,0
+2699117039,Elena Malova,University of British Columbia,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2419928487,Natalie Warner,Princeton University,north_america_randoms,1,332,1,0,0,332,0,0,1,1
+2588508597,Lucy Davidson,Emory University,north_america_randoms,4,182,3,0,0,153,0,0,3,3
+2560536127,Jane L. Traweek,Duke University,north_america_randoms,1,62,1,0,0,62,0,0,1,1
+2579852726,Amit Goel,University of Washington,north_america_randoms,4,146,4,0,0,146,0,0,2,2
+2575303819,Hae June Lee,"University of California, Berkeley",north_america_randoms,2,19,2,0,0,19,0,0,2,2
+2568522483,R. V. Brown,George Washington University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2149829082,David B. Haughey,University of Minnesota,north_america_randoms,7,79,7,0,0,79,0,0,3,3
+2645079211,K. L. Kruithoff,University of Massachusetts Amherst,north_america_randoms,2,422,2,0,0,422,0,0,2,2
+2135764413,Kee Warner,University of Colorado Boulder,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2669859860,Donna Li,Boston University,north_america_randoms,1,21,1,0,0,21,0,0,1,1
+2886496365,Tyler Pirlot,University of Calgary,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2804316111,Suhrata Verma,McMaster University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2560867806,C. M. Kochunny,University of Minnesota,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2402596562,Hans Soddemann,Massachusetts Institute of Technology,north_america_randoms,4,8,0,0,0,0,0,0,2,2
+2306478043,Andrea L. Lazar,University of North Carolina at Chapel Hill,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2638490310,W.H. Christiansen,University of Washington,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+2100923053,Amy A. Hawley,University of Wisconsin-Madison,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2146990886,Seth A. Vaccaro,University of Southern California,north_america_randoms,5,145,5,0,0,145,0,0,3,3
+2321652449,E. R. Elbel,University of Kansas,north_america_randoms,1,8,0,0,0,0,0,0,1,1
+2555955824,June M Uyehara,Purdue University,north_america_randoms,1,6,2,0,0,6,0,0,1,1
+2461082599,Stephanie M. Hayne,University of Saskatchewan,north_america_randoms,7,79,6,0,0,79,0,0,5,5
+2604785233,B A Koblin,University of Massachusetts Amherst,north_america_randoms,1,52,1,0,0,52,0,0,1,1
+2915529901,Chau Vo,Stanford University,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2742023842,Kinon,Duke University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2637674950,C. Landis,University of Washington,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2615195779,Valerie Ward,University of Waterloo,north_america_randoms,5,10,4,0,0,10,0,0,1,1
+178213310,Marc A. Hillmyer,University of Minnesota,north_america_randoms,519,34121,439,1,0,33552,3,0,101,101
+1916678658,Jennifer Dyl,Brown University,north_america_randoms,8,202,7,0,0,199,0,0,7,7
+2980448696,Vivek Vanaharam,Michigan State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+743960150,Nissa Kreidler,"University of California, Los Angeles",north_america_randoms,2,122,2,0,0,122,0,0,2,2
+2636440184,H. J. S. Fernando,Arizona State University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2501837306,T.W. Nee,University of Arizona,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2795964359,Douglas H. Mendel join(,"University of California, Los Angeles",north_america_randoms,2,0,1,0,0,0,0,0,0,0
+2808994647,Yan Wang,"University of Maryland, College Park",north_america_randoms,2,8,2,0,0,8,0,0,1,1
+2970619387,S. Nair,New York University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2307690696,Devin M. Rourke,University of Colorado Boulder,north_america_randoms,18,242,11,2,0,235,1,0,5,5
+2672292431,R.A. Schapery,University of Texas at Austin,north_america_randoms,9,1247,9,0,0,1247,0,0,6,6
+2189255779,Jamie F. Olson,Carnegie Mellon University,north_america_randoms,6,27,1,2,0,10,9,0,3,3
+2484076285,Y.S. Kim,University of Illinois at Chicago,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2973042819,I. Chakaberia,University of Kansas,north_america_randoms,5,822,0,0,0,0,0,0,0,0
+2673063450,T R Chivers,Michigan State University,north_america_randoms,1,15,1,0,0,15,0,0,1,1
+2047186273,S.T. Tuohy,Massachusetts Institute of Technology,north_america_randoms,16,233,9,4,0,192,20,0,8,8
+2618582039,Eun Y. Lee,Washington University in St. Louis,north_america_randoms,4,95,4,0,1,95,0,23,3,2
+2625715012,Patricia M LoRusso,Johns Hopkins University,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2242761476,Bridget C. Griffith,Yale University,north_america_randoms,2,69,2,0,0,69,0,0,2,2
+2232501031,Roshan J. Jachuck,Rensselaer Polytechnic Institute,north_america_randoms,2,18,2,0,0,18,0,0,2,2
+2791012500,Glenn James,"University of California, Berkeley",north_america_randoms,3,1,3,0,0,1,0,0,1,1
+2100801220,William S. Hatcher,Laval University,north_america_randoms,27,36,19,0,0,36,0,0,3,3
+2696880078,Jian Hong,University of Wisconsin-Madison,north_america_randoms,5,59,3,0,0,59,0,0,3,3
+2721325264,L. Jackson,North Carolina State University,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2650667059,Kelly A. Keenan,"University of California, Los Angeles",north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2702251791,A. J. Cooper,University of Western Ontario,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2920151428,Rosalind Parry,Princeton University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2684786632,E. H. Rubin,Washington University in St. Louis,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2971317323,Suryansh Saxena,Carnegie Mellon University,north_america_randoms,2,0,0,2,0,0,0,0,0,0
+2720935904,Corey Largman,Massachusetts Institute of Technology,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2440230898,Kelly M. Doran,New York University,north_america_randoms,55,658,44,0,1,656,0,0,12,12
+1971362520,Deepti Nene,University of Florida,north_america_randoms,1,8,0,0,0,0,0,0,1,1
+2941740768,Steven Rogers,University of Florida,north_america_randoms,1,18,1,0,0,18,0,0,1,1
+2133236372,Xing Hui Guo,Northeastern University,north_america_randoms,2,12,2,0,0,12,0,0,1,1
+2516583798,D. D. Reynolds,University of Iowa,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2165859897,Patrick J. Gannon,University of Pennsylvania,north_america_randoms,8,460,7,0,0,459,0,0,6,6
+2402421217,M. Dhanani,University of Florida,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2103160504,Donald E. Mitchell,Dalhousie University,north_america_randoms,100,4346,90,0,0,4316,0,0,37,37
+2723584725,F.E. Guthrie,North Carolina State University,north_america_randoms,1,5,0,0,0,0,0,0,1,1
+2488388107,Eva Kristof,University of Western Ontario,north_america_randoms,3,62,3,0,0,62,0,0,3,3
+2118719922,Masami Kihara,Harvard University,north_america_randoms,3,0,3,0,0,0,0,0,0,0
+2235429580,Marie Lin,Vanderbilt University,north_america_randoms,1,4,0,0,0,0,0,0,1,1
+64382872,Marilyn J. Bain-Ackerman,Colorado State University,north_america_randoms,2,26,2,0,0,26,0,0,2,2
+2564806420,Hee-Jung Song,"University of Maryland, College Park",north_america_randoms,5,3,5,0,0,3,0,0,1,1
+349927734,Katherine R. Zodrow,Rice University,north_america_randoms,21,2102,16,0,0,1930,0,0,14,14
+2408749971,Timra Gilson,Johns Hopkins University,north_america_randoms,4,105,4,0,0,105,0,0,3,3
+2545422524,Yi Huang,University of Chicago,north_america_randoms,8,6,0,5,0,0,5,0,1,1
+2555697947,D. Liu,George Washington University,north_america_randoms,1,209,1,0,0,209,0,0,1,1
+2634768901,Li Wang,Vanderbilt University,north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2803918641,L. Xie,University of Toronto,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2297846551,Aravindha R. Antoniswamy,University of Texas at Austin,north_america_randoms,13,56,6,0,0,49,0,0,4,4
+304609952,Alan B. Bolten,University of Florida,north_america_randoms,167,10798,150,0,0,9724,0,0,56,56
+2940113601,H. Li,"University of California, San Diego",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2467227971,Lionel Fraser,Harvard University,north_america_randoms,4,114,4,0,0,114,0,0,4,4
+2996666909,Amos Song,Vanderbilt University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+1832058867,Ilaaf Darrat,University of Michigan,north_america_randoms,3,7,3,0,0,7,0,0,1,1
+2152641811,C. L. Chien,Johns Hopkins University,north_america_randoms,83,2426,79,0,0,2423,0,0,20,20
+2899822408,N.N. Hikoyeda,Stanford University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2576147161,K. M. Funk,University of Wisconsin-Madison,north_america_randoms,3,11,3,0,0,11,0,0,2,2
+2308150194,Nelia Mann,University of Chicago,north_america_randoms,3,131,1,0,0,90,0,0,3,3
+2695545103,TeYu Chien,Northwestern University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2094773471,Richard G. Pozen,University of Miami,north_america_randoms,10,281,10,0,0,281,0,0,6,6
+2984306078,Miss Kathryn M. Denize,University of Ottawa,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2609480228,Kaihong Wang,University of Florida,north_america_randoms,3,283,3,0,0,283,0,0,3,3
+2804026597,Aaron James Ristow,Cornell University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2509895346,Timothy Folta,Virginia Tech,north_america_randoms,1,912,1,0,0,912,0,0,1,1
+2674409919,T. M. Cormier,Vanderbilt University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2494983843,Kevin Zhao,University of Illinois at Urbana–Champaign,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2313547202,Chris Wells,Vanderbilt University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2903244703,Zhang Hong-ge,Northeastern University,north_america_randoms,2,1,1,0,0,0,0,0,1,1
+2264696560,Mark Stakhiv,University of Michigan,north_america_randoms,5,30,2,0,0,30,0,0,2,2
+2680824663,Maurice Lee,University of Arizona,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2824596170,† Zhen-He Wang,"University of California, Los Angeles",north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2986722416,Arthur J. Riopelle,University of Wisconsin-Madison,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+733722025,Nathaniel K. Szymczak,University of Michigan,north_america_randoms,44,1384,42,0,0,1384,0,0,20,20
+2581908156,Jawad Kiani,University of Pittsburgh,north_america_randoms,3,3,3,0,0,3,0,0,1,1
+2557421785,Jeanne Feuerstein,University of Colorado Denver,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2342869203,Joshua Spector,University of Miami,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2642685345,John W. Wilks,Cornell University,north_america_randoms,6,248,6,0,0,248,0,0,4,4
+2136451396,D. B. Trust,University of Kansas,north_america_randoms,2,33,2,0,0,33,0,0,2,2
+2533058470,Christopher Reed Martin,Pennsylvania State University,north_america_randoms,11,7,3,1,0,4,1,0,1,1
+2956599467,Steven L. Elmlinger,Cornell University,north_america_randoms,4,1,2,2,0,1,0,0,1,1
+2566155796,Emmanuel G. Balcos,University of Minnesota,north_america_randoms,14,820,14,0,0,820,0,0,13,13
+2161124142,Carina Hernandez,New York University,north_america_randoms,10,48,9,0,0,48,0,0,3,3
+2668883136,S.K. Sehgal,Columbia University,north_america_randoms,2,289,2,0,0,289,0,0,2,2
+2603538930,William McGehee,North Carolina State University,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+1963947718,Sean E. Pechon,Tulane University,north_america_randoms,2,33,2,0,0,33,0,0,2,2
+2764081850,Elda Perlino,University of Massachusetts Amherst,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2660885276,Aleks Papo,University of Waterloo,north_america_randoms,1,1,0,1,0,0,1,0,1,1
+2765055655,Yibiao Pan,University of Pittsburgh,north_america_randoms,1,8,0,0,0,0,0,0,1,1
+2307895281,Peng Zhang,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2678469893,Jan Karl Warzelhan,Princeton University,north_america_randoms,1,26,0,1,0,0,26,0,1,1
+2497453775,Sony Shrestha,Pennsylvania State University,north_america_randoms,38,795,28,1,1,795,0,28,16,15
+2722317043,Elizabeth M Cummings,University of Massachusetts Amherst,north_america_randoms,1,13,1,0,0,13,0,0,1,1
+2643829029,B. Larsen,University of Iowa,north_america_randoms,2,28,2,0,0,28,0,0,2,2
+2789154070,Robert P. Murphy,Stanford University,north_america_randoms,1,31,1,0,0,31,0,0,1,1
+2290286308,Tianjun Ye,Georgia Institute of Technology,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2066091872,Alan Huett,Harvard University,north_america_randoms,30,4132,28,0,0,4132,0,0,17,17
+2679996435,Patricia Neal,"University of California, San Diego",north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2139716560,K. Schmitt,University of Southern California,north_america_randoms,8,2676,8,0,0,2676,0,0,7,7
+2112627602,Jaret Matthews,California Institute of Technology,north_america_randoms,21,527,6,3,0,462,21,0,9,9
+2184754578,J.H. Dark,University of Toronto,north_america_randoms,2,32,2,0,0,32,0,0,2,2
+2809099996,Kaitlyn P. Martin,Vanderbilt University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2718565878,Arthur E. Appleton,University of Pennsylvania,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2496357084,William E. Hall,Columbia University,north_america_randoms,3,142,3,0,0,142,0,0,3,3
+2416475445,Carter,"University of California, Santa Barbara",north_america_randoms,1,1,0,1,0,0,1,0,1,1
+2652458879,Clarice J. Kestenbaum,Columbia University,north_america_randoms,24,1155,23,0,0,1155,0,0,6,6
+2642957897,E. A. Rosenberg,University of Washington,north_america_randoms,1,23,1,0,0,23,0,0,1,1
+2998434126,Yunlong Tang,"University of California, Berkeley",north_america_randoms,4,12,4,0,0,12,0,0,2,2
+2609215202,Zubair Anwar,Massachusetts Institute of Technology,north_america_randoms,2,4,2,0,0,4,0,0,2,2
+2662784037,Callis G. Morrill,"University of California, Berkeley",north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2797775854,Charles W. Johnson,University of Tennessee,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2560073526,Andrew N. Hashikawa,University of Michigan,north_america_randoms,31,50,30,0,2,50,0,0,5,5
+2653496032,Christopher M. Nguyen,McGill University,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2660835851,Khadijeh Najafi,Georgetown University,north_america_randoms,2,10,2,0,0,10,0,0,1,1
+2762250055,Hailing Su,"University of California, Irvine",north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2644536252,J.E. Thomas,University of Iowa,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2927337836,Ju Tongzhong,Emory University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2104899175,Sona Young,University of Chicago,north_america_randoms,3,22,2,0,0,21,0,0,2,2
+2986837929,Gold Mh,Northwestern University,north_america_randoms,2,16,2,0,0,16,0,0,2,2
+2170029923,A. B. Carroll,University of Illinois at Urbana–Champaign,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2439942674,Jae Hyung Robert,Harvard University,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2051889801,Adam C. Gusse,University of Wisconsin-Madison,north_america_randoms,5,111,5,0,0,111,0,0,5,5
+2514208656,Aaron Wernham,Columbia University,north_america_randoms,1,83,1,0,0,83,0,0,1,1
+2716124218,Manoj M. Neriamparampil,Northwestern University,north_america_randoms,1,75,1,0,0,75,0,0,1,1
+2584328002,Thien-Kim Le,Emory University,north_america_randoms,1,5,2,0,0,5,0,0,1,1
+2780783386,D.O. Riska,Michigan State University,north_america_randoms,3,5,3,0,0,5,0,0,2,2
+2110527979,James B. Sheehy,Pennsylvania State University,north_america_randoms,9,483,7,0,0,450,0,0,8,8
+2600402728,Luis Alvarez-Castro,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2980806806,Yu-Chyuan Su,"University of California, Los Angeles",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2478154117,Paul Crispen,University of Rochester,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2999523425,Martina Francis,University of Arizona,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2716336562,A.D. Courtemanche,University of British Columbia,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2684500302,K. Kandarpa,Pennsylvania State University,north_america_randoms,1,53,1,0,0,53,0,0,1,1
+2042766024,Greg E. Aniol,"University of California, Riverside",north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2894213455,Michael J. Kelley,"University of California, San Diego",north_america_randoms,3,34,3,0,0,34,0,0,3,3
+2715629138,H. N. Benson,University of Minnesota,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2651573065,R. Latt,McGill University,north_america_randoms,3,38,3,0,0,38,0,0,3,3
+2709187876,L. J. Bukowiecki,Laval University,north_america_randoms,1,29,1,0,0,29,0,0,1,1
+1577872667,Douglas A. Oursler,Johns Hopkins University,north_america_randoms,10,196,5,0,0,53,0,0,5,5
+1273346100,Imtiaz A Mehkri,University at Buffalo,north_america_randoms,1,6,1,0,1,6,0,6,1,0
+2688702778,Helen Francis-Lang,"University of California, San Diego",north_america_randoms,6,78,2,0,0,1,0,0,3,3
+2689268413,Carrie Lynn Pfaff,University of Michigan,north_america_randoms,2,100,2,0,0,100,0,0,2,2
+2567283555,Rommelyn Conde,Virginia Tech,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2032233010,Cynthia H. Canan,Ohio State University,north_america_randoms,5,56,4,0,0,56,0,0,4,4
+2609411330,E. G. Puszkin,Yeshiva University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2146130162,S. Zhang,Ohio State University,north_america_randoms,6,550,6,0,0,550,0,0,4,4
+2635571738,Jeffery B. Maxson,University of Minnesota,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2481681143,Moulay Sadiki,Johns Hopkins University,north_america_randoms,12,64,10,0,0,58,0,0,4,4
+249598048,Supannika Koolmanojwong,University of Southern California,north_america_randoms,27,215,6,11,0,28,137,0,8,8
+2608204674,H. H. Feder,Rutgers University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2620302551,Daling Zhu,Yale University,north_america_randoms,9,187,9,0,1,187,0,1,6,6
+2666608616,Karen Brenner,New York University,north_america_randoms,3,1,0,0,0,0,0,0,1,1
+2272451304,John Jeffrey Damasco,University of Illinois at Urbana–Champaign,north_america_randoms,8,9,7,0,0,9,0,0,1,1
+361096495,J. Gregory Vermeychuk,Princeton University,north_america_randoms,3,6,3,0,0,6,0,0,1,1
+2472966359,John P. Woloch,Colorado State University,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2682699885,O. H. Scherbaum,"University of California, Los Angeles",north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2651234750,P. W. Flanigan,Ohio State University,north_america_randoms,2,9,2,0,0,9,0,0,2,2
+1990424417,Eric M. Lind,University of Minnesota,north_america_randoms,44,2537,42,0,0,2536,0,0,19,19
+2541914071,John S. Schieffelin,Tulane University,north_america_randoms,53,7100,46,0,0,2097,0,0,18,18
+2645082274,Ina Choi,Michigan State University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2581105521,N.K. Sherman,Queen's University,north_america_randoms,2,7,2,0,0,7,0,0,1,1
+2427316360,Tamara S Cox,University of Texas at Austin,north_america_randoms,2,436,2,0,0,436,0,0,2,2
+2647068547,A. Vernekar,University of Pennsylvania,north_america_randoms,2,19,2,0,0,19,0,0,1,1
+2648629708,A. Boudreau,University of Wisconsin-Madison,north_america_randoms,2,63,2,0,0,63,0,0,2,2
+2651465605,W.J. Hickey,University of Wisconsin-Madison,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2709728196,G. A. Coulman,Michigan State University,north_america_randoms,1,1,0,1,0,0,1,0,1,1
+2173735036,Arya Soman,Harvard University,north_america_randoms,1,51,1,0,0,51,0,0,1,1
+2761685957,Itsik Ben-Dor,Georgetown University,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2742985305,Madeleins Oeetreicher,Northwestern University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2646208513,Dao Min Zhou,University of Southern California,north_america_randoms,2,138,2,0,0,138,0,0,2,2
+2670594807,Shenquan Wang,Northeastern University,north_america_randoms,1,5,0,1,0,0,5,0,1,1
+2546541625,Sagit Betser,"University of California, Davis",north_america_randoms,2,3,1,0,0,2,0,0,1,1
+2669451767,Michael C. Gong,Ohio State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2430424908,L.M. Chen,University of Chicago,north_america_randoms,4,114,4,0,1,114,0,0,3,3
+2152580847,Roberta Freeman,"University of California, Los Angeles",north_america_randoms,15,3571,15,0,0,3571,0,0,15,15
+2064508490,Laura E. Hirshfield,University of Illinois at Chicago,north_america_randoms,29,285,19,2,0,276,0,0,7,7
+2973640770,BullockLinda,University of Virginia,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2283445665,Babak Eshaghian,"University of California, Irvine",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2578233710,N Sims,Harvard University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2660985745,Lyn M. Wancket,University of Illinois at Urbana–Champaign,north_america_randoms,1,18,1,0,0,18,0,0,1,1
+2104437890,Tae-Hwan Yu,Massachusetts Institute of Technology,north_america_randoms,3,61,3,0,0,61,0,0,1,1
+1967759024,Raffaella D’Auria,"University of California, Los Angeles",north_america_randoms,9,223,9,0,0,223,0,0,6,6
+2604501762,Giuseppina Valle,University of Texas at Austin,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2484291312,Don K. Hutchens,University of Rochester,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2584999426,Reilly K. Curtin,University of Massachusetts Amherst,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2942006575,Jane E. Schneiderman,University of Toronto,north_america_randoms,3,8,3,0,0,8,0,0,1,1
+2112769920,J.W. Bonz,Yale University,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2637849900,Jean-Pierre Felber,Harvard University,north_america_randoms,1,27,1,0,0,27,0,0,1,1
+2522388938,Block Gd,University of Virginia,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2630837903,Mai Tu,University of Virginia,north_america_randoms,1,263,1,0,0,263,0,0,1,1
+2782266653,E. J. Lovett,University of Michigan,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2607827243,S.R. Smith,University of Connecticut,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2157853353,Niti Goel,Duke University,north_america_randoms,80,2097,76,0,1,2016,0,24,20,19
+2595635660,H. Gerhardt,Stanford University,north_america_randoms,12,47,11,0,0,45,0,0,5,5
+2943832031,P. A. McHale,Duke University,north_america_randoms,30,1353,30,0,0,1285,0,0,16,16
+2490686675,Ian C. McDowell,Duke University,north_america_randoms,20,474,14,0,0,442,0,0,10,10
+2663413127,James A. Halikas,Washington University in St. Louis,north_america_randoms,15,1344,15,0,2,1344,0,80,11,9
+2224684925,Deborah S. Lindner,Northwestern University,north_america_randoms,5,66,4,0,0,66,0,0,1,1
+2140437826,Michael Gabriel,University of Illinois at Urbana–Champaign,north_america_randoms,79,4278,67,3,0,2937,8,0,31,31
+2669131008,A. B. Lamb,Virginia Tech,north_america_randoms,1,21,1,0,0,21,0,0,1,1
+2067567806,George B. Hughes-Strange,Washington University in St. Louis,north_america_randoms,2,47,2,0,0,47,0,0,2,2
+2508516730,J. Z. Villanueva,University of Miami,north_america_randoms,1,23,1,0,0,23,0,0,1,1
+2113983846,Patrice C. Roy,Dalhousie University,north_america_randoms,26,265,7,11,0,100,77,0,7,7
+2303147275,S. Pfieffer,University of Pennsylvania,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2441406522,Jorg P. Rachen,Pennsylvania State University,north_america_randoms,5,742,3,0,0,739,0,0,3,3
+2342246346,Joshua Schelegel,Purdue University,north_america_randoms,1,5,0,0,0,0,0,0,1,1
+2266514766,Yuchao Jiang,University of North Carolina at Chapel Hill,north_america_randoms,22,353,17,0,0,345,0,0,7,7
+2161896468,E. De Las Casas,University of Minnesota,north_america_randoms,4,96,4,0,0,96,0,0,3,3
+450210551,Laura Chyu,Northwestern University,north_america_randoms,15,736,14,0,3,679,0,392,10,7
+2322016617,Shaphard Wolf,Arizona State University,north_america_randoms,1,310,1,0,0,310,0,0,1,1
+2909785832,RajAnita,"University of California, San Diego",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+117836282,Pascal Stuelsatz,University of Washington,north_america_randoms,9,146,9,0,0,146,0,0,6,6
+2494207939,H. Holtzer,New York University,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2603205430,Aashrith Saraswathibhatla,University of Wisconsin-Madison,north_america_randoms,5,1,4,0,0,1,0,0,1,1
+2543513079,V. N. Carrasco,University of North Carolina at Chapel Hill,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2974121474,D. G. Brooks,Arizona State University,north_america_randoms,1,70,1,0,0,70,0,0,1,1
+2675886023,M.R. Salem,University of Chicago,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2001729255,Michael Saganich,New York University,north_america_randoms,6,1862,6,0,0,1862,0,0,6,6
+2557953937,Anne Marie Herman,University of Iowa,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2105141498,Amanda Froehlich Chow,University of Saskatchewan,north_america_randoms,11,47,11,0,0,47,0,0,4,4
+2149046924,Margaret H. Trussell,University of Iowa,north_america_randoms,2,32,2,0,0,32,0,0,2,2
+2475870368,K. Daley,"University of California, Berkeley",north_america_randoms,2,16,1,0,0,16,0,0,1,1
+2666427986,R. K. MacCrone,Rensselaer Polytechnic Institute,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2165722316,Gerald W. Lott,Michigan State University,north_america_randoms,1,115,1,0,0,115,0,0,1,1
+2953739522,F. Giordano,University of Illinois at Urbana–Champaign,north_america_randoms,48,1378,43,0,0,952,0,0,16,16
+2315595714,Jeremy V. Oria,"University of California, Los Angeles",north_america_randoms,3,72,3,0,0,72,0,0,3,3
+2324726540,Katherine VanKessel,University of Washington,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2164409123,Robert L. Tate,Rutgers University,north_america_randoms,102,1911,100,0,0,1910,0,0,19,19
+2052868851,Gary H. Posner,Johns Hopkins University,north_america_randoms,413,18770,337,0,0,18265,0,0,71,71
+2326940838,S. McMenamin,"University of Maryland, College Park",north_america_randoms,1,30,1,0,0,30,0,0,1,1
+2572879795,Maria Rieders,Northwestern University,north_america_randoms,1,3,0,0,0,0,0,0,1,1
+2087786851,Ela Dhanak,Harvard University,north_america_randoms,5,134,5,0,0,134,0,0,3,3
+2797453278,Xiaojue Wang,Rutgers University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2048118725,D.A. Viberg,University of Calgary,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2704706719,F.S. Chuang,University of Florida,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2653047855,David G. Sawutz,Harvard University,north_america_randoms,7,61,6,0,0,60,0,0,4,4
+2397904245,E. V. DeBUYSSCHER,North Carolina State University,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2288885169,Ira Nightingale,University of Toronto,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2685010041,H. M. Bacchus,University of Toronto,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2646212273,J. E. Merwin,Rice University,north_america_randoms,1,374,0,0,0,0,0,0,1,1
+2741599992,S. Belforte,University of Toronto,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2597246952,Zhao Ma,Washington University in St. Louis,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2683336180,Michael D. Menning,Massachusetts Institute of Technology,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2765105424,Kate E. Schwetye,Washington University in St. Louis,north_america_randoms,3,275,2,1,0,274,1,0,1,1
+2909538241,Swager Timothy Manning,Massachusetts Institute of Technology,north_america_randoms,2,2,0,0,0,0,0,0,1,1
+2905170130,B Parchment,Washington State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2677233657,Richard M. Heath,Colorado State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2131388818,Steve Mcmaster,University of Illinois at Urbana–Champaign,north_america_randoms,10,76,1,0,0,68,0,0,2,2
+2308216675,E. Lazzari,"University of California, San Diego",north_america_randoms,41,200,22,0,0,200,0,0,7,7
+2311679074,Venkata R. Vepachedu,Pennsylvania State University,north_america_randoms,6,50,4,0,0,50,0,0,4,4
+2955299492,Francisco Díaz,Columbia University,north_america_randoms,5,485,6,0,0,485,0,0,5,5
+2337015820,Martha Poon,New York University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2614448546,Jim M. Davis,University of Utah,north_america_randoms,1,29,1,0,0,29,0,0,1,1
+2990881878,Susan OʼBrien,"University of California, Irvine",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2706167743,Stephen N. Griffin,Georgia Institute of Technology,north_america_randoms,1,11,0,1,0,0,8,0,2,2
+278277476,Maksim Mezhericher,Princeton University,north_america_randoms,28,808,25,0,0,806,0,0,15,15
+2291357412,IIan Weiss,Purdue University,north_america_randoms,1,2,0,1,0,0,2,0,1,1
+2014062524,Alexander Hümmer,Case Western Reserve University,north_america_randoms,3,77,3,0,0,77,0,0,3,3
+2945524217,Yi Wang,Rutgers University,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2660544980,Bruce R. Barker,University of Washington,north_america_randoms,1,13,1,0,0,13,0,0,1,1
+1971542498,Annette M. Seilie,University of Washington,north_america_randoms,16,202,16,0,0,202,0,0,7,7
+2762913120,Ying Chen,University of Tennessee,north_america_randoms,1,17,0,0,0,0,0,0,1,1
+2972249232,John J. Gilman,"University of California, Berkeley",north_america_randoms,1,28,0,0,0,0,0,0,1,1
+2911641228,Ahmed Jorge,University of Pittsburgh,north_america_randoms,6,7,6,0,0,7,0,0,2,2
+2275126085,Jostine Fei Ho,University of Texas at Austin,north_america_randoms,4,6,2,0,0,3,0,0,2,2
+2562096751,Crystal S. Sierra,Duke University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2579870581,Raymond DeVries,"University of California, Berkeley",north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2935594230,A. Mandal,University of Saskatchewan,north_america_randoms,2,5,2,0,0,5,0,0,1,1
+1987027681,Vasundhra Bahl,"University of California, Riverside",north_america_randoms,8,660,8,0,0,660,0,0,7,7
+2153567478,Daniel Wei,Illinois Institute of Technology,north_america_randoms,3,33,2,1,0,31,2,0,2,2
+1167734690,Helen P. Cathro,University of Virginia,north_america_randoms,62,3020,57,0,0,3020,0,0,19,19
+2514590182,Bastian Rühle,"University of California, Los Angeles",north_america_randoms,1,58,1,0,0,58,0,0,1,1
+2160126486,Kaeling Tan,Harvard University,north_america_randoms,4,195,4,0,0,195,0,0,4,4
+2970259096,Y. Jin,Boston University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2664899591,Stevenson S,Case Western Reserve University,north_america_randoms,1,94,1,0,0,94,0,0,1,1
+2935829451,Philip G. Rees,Duke University,north_america_randoms,4,160,3,0,0,159,0,0,3,3
+2443316339,K. W. Wong,University of Kansas,north_america_randoms,13,600,13,0,0,600,0,0,8,8
+2610306499,Nina H. Bjarnason,University of Southern California,north_america_randoms,5,2359,6,0,1,2359,0,0,2,2
+2313080509,Zhigang Zhou,University of Pittsburgh,north_america_randoms,1,148,1,0,0,148,0,0,1,1
+219603314,Silvana Grbesic,University of Illinois at Chicago,north_america_randoms,5,388,5,0,0,388,0,0,5,5
+2784549991,ZisserHoward,"University of California, Santa Barbara",north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2715570931,S. M. Rogstad,University of Massachusetts Amherst,north_america_randoms,1,30,1,0,0,30,0,0,1,1
+2126587653,C. Hsia,Ohio State University,north_america_randoms,2,160,2,0,0,160,0,0,2,2
+2982411589,Suvankar Pal,University of Utah,north_america_randoms,2,112,2,0,0,112,0,0,2,2
+2999142145,Xinyi Li,Pennsylvania State University,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2304257648,John Allan Sullivan,Colorado State University,north_america_randoms,1,9,1,0,0,9,0,0,1,1
+1999782438,Walter Bradley,Johns Hopkins University,north_america_randoms,3,148,3,0,0,148,0,0,3,3
+2115295987,Le Xuan Truong Nguyen,Stanford University,north_america_randoms,7,139,7,0,0,139,0,0,6,6
+2197036889,Penny Edgell Becker,Cornell University,north_america_randoms,15,1747,14,1,0,858,889,0,6,6
+2167769954,Paul H. Shield,University of Pittsburgh,north_america_randoms,2,27,2,0,0,27,0,0,2,2
+2101047964,Baosheng Li,University of Connecticut,north_america_randoms,20,2043,4,6,0,1341,348,0,13,13
+2681325666,Andrew Kull,Washington University in St. Louis,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2993870357,J. C. Davis,Ohio State University,north_america_randoms,12,2228,11,0,0,2218,0,0,10,10
+2202962106,Steve C. Dopkins,George Washington University,north_america_randoms,2,212,2,0,0,212,0,0,2,2
+2565302665,Ishan Gupta,Massachusetts Institute of Technology,north_america_randoms,3,1,1,0,0,1,0,0,1,1
+2559441013,B.C. Grant,Massachusetts Institute of Technology,north_america_randoms,1,414,1,0,0,414,0,0,1,1
+1969092452,Jon N. Kott,University of Washington,north_america_randoms,25,401,24,0,0,401,0,0,9,9
+2711497491,Sooyoung Kim,Rutgers University,north_america_randoms,8,124,4,1,0,109,15,0,4,4
+2116427562,B. Stephenson,University of Minnesota,north_america_randoms,15,370,13,0,0,358,0,0,7,7
+2583717450,S. C. Wang,Columbia University,north_america_randoms,3,142,3,0,0,142,0,0,3,3
+2136287711,Joseph W. Clark,Arizona State University,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2985707516,Amy E. Zimmerman,University of Chicago,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2942989840,Michael W. Otto,Boston University,north_america_randoms,6,488,6,0,0,486,0,0,6,6
+2180247463,B. Ellis,University of Texas at Austin,north_america_randoms,1,22,1,0,0,22,0,0,1,1
+2764240944,K.O.H. Ziock,University of Virginia,north_america_randoms,8,78,8,0,0,78,0,0,5,5
+2657049033,P. Masiakowski,Stanford University,north_america_randoms,1,27,1,0,0,27,0,0,1,1
+2972717653,Feng Zhao,Washington State University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2713511006,A.L. Comfort,New York University,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+2304167133,Chris Buckley,Cornell University,north_america_randoms,83,26578,18,46,0,14288,11525,0,45,45
+2721273403,A. R. Rao,Purdue University,north_america_randoms,1,58,1,0,0,58,0,0,1,1
+2809098105,Han Kyoung Choi,University of Michigan,north_america_randoms,2,8,2,0,0,8,0,0,1,1
+2060682219,Brian B. Burroughs,Harvard University,north_america_randoms,1,27,1,0,0,27,0,0,1,1
+715205429,Lawrence Scahill,Emory University,north_america_randoms,338,26473,312,0,4,26003,0,221,85,84
+2577828622,Wilhelmina M. Messmer,University of Illinois at Urbana–Champaign,north_america_randoms,1,111,1,0,0,111,0,0,1,1
+2120423130,George Wolf,Massachusetts Institute of Technology,north_america_randoms,68,1637,57,0,0,1524,0,0,20,20
+2660503134,Leslie M. Smith,"University of California, Berkeley",north_america_randoms,3,7,3,0,0,7,0,0,2,2
+2417143689,D. E. Hutcheon,University of Toronto,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2107510288,Justin Beauchamp,Michigan State University,north_america_randoms,4,11,3,0,0,11,0,0,2,2
+2655083455,Joan Lee,Ohio State University,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2639273481,D. H. Kohan,University of Michigan,north_america_randoms,1,86,1,0,0,86,0,0,1,1
+2723344277,R.J. Steffan,Princeton University,north_america_randoms,1,26,1,0,0,26,0,0,1,1
+2640933128,Edward T. Anderson,Stanford University,north_america_randoms,2,76,2,0,0,76,0,0,2,2
+212902068,Chrysanthi Kotampasi,University of Arizona,north_america_randoms,3,24,3,0,0,24,0,0,2,2
+2471890354,Nicholas S. Buckley,California Institute of Technology,north_america_randoms,8,646,8,0,0,646,0,0,7,7
+2152198732,Krista Sweet,Dalhousie University,north_america_randoms,1,6,1,0,1,6,0,6,1,0
+2680600816,T.A. Horbett,University of Washington,north_america_randoms,1,87,1,0,0,87,0,0,1,1
+2107778579,Yan Yuan,Yale University,north_america_randoms,13,748,3,0,0,552,0,0,5,5
+2612481121,Knut Ketterer,"University of California, Irvine",north_america_randoms,2,161,2,0,0,161,0,0,2,2
+2645891198,Laila L. Hlass,Tulane University,north_america_randoms,4,1,4,0,0,1,0,0,1,1
+2662805888,John B. Goetsch,Yale University,north_america_randoms,5,55,5,0,0,55,0,0,3,3
+2514929755,L. Kluberg,Princeton University,north_america_randoms,9,779,9,0,0,779,0,0,9,9
+2935973928,Soong Td,Cornell University,north_america_randoms,1,63,1,0,0,63,0,0,1,1
+2659417240,D.L Hemming,University of Arizona,north_america_randoms,1,21,1,0,0,21,0,0,1,1
+2578882502,Jonathan M. Kayne,University of Pennsylvania,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2473305713,Vyacheslav Y. Morozov,University of Ottawa,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2897763909,Atsushi Sato,Columbia University,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2763976033,Jean G. Orelien,University of North Carolina at Chapel Hill,north_america_randoms,1,99,1,0,0,99,0,0,1,1
+1846111628,Helen E. Burston,University of British Columbia,north_america_randoms,5,331,5,0,0,331,0,0,4,4
+2010348985,Joy A. Learman,University of Texas at Austin,north_america_randoms,5,18,3,0,0,17,0,0,3,3
+2564531492,Jessica B. Voytek,"University of California, Berkeley",north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2778857739,Monica D. Kohler,California Institute of Technology,north_america_randoms,85,1362,48,0,0,1326,0,0,18,18
+2168494420,Jason L. Davis,McGill University,north_america_randoms,4,61,3,0,0,60,0,0,3,3
+2621522249,Katherine Carson,Harvard University,north_america_randoms,1,221,1,0,0,221,0,0,1,1
+2788355984,Hwakyu Kim,Boston University,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2228786990,Randy Pollack,Harvard University,north_america_randoms,21,670,8,9,0,172,495,0,12,12
+2698438456,J. William Gaynor,University of Michigan,north_america_randoms,28,589,19,0,0,581,0,0,12,12
+2985250735,Franklin G. Monzon,California Institute of Technology,north_america_randoms,1,19,0,0,0,0,0,0,1,1
+1876769881,Alok Vedvyas,New York University,north_america_randoms,8,224,7,0,0,224,0,0,2,2
+2628537673,M. D. Poulik,University of Toronto,north_america_randoms,4,2872,4,0,0,2872,0,0,4,4
+2535363166,Lisa Dearmas,University of Miami,north_america_randoms,1,107,1,0,0,107,0,0,1,1
+2667969008,Steven M. Debol,University of Minnesota,north_america_randoms,4,172,4,0,0,172,0,0,3,3
+2045271214,Sumeet K. Syan,University of Toronto,north_america_randoms,1,30,1,0,0,30,0,0,1,1
+2201113154,Timothy J. Carbary,Michigan State University,north_america_randoms,6,170,6,0,0,170,0,0,5,5
+2975610901,Chris Kovach,University of Colorado Denver,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2125621260,Donna Carr,"University of Maryland, College Park",north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2335247509,Erin Hutteman,University of Rochester,north_america_randoms,5,0,5,0,0,0,0,0,0,0
+2652764603,J Yun,Case Western Reserve University,north_america_randoms,1,185,1,0,0,185,0,0,1,1
+2851683412,Kimbro Kevin Sean,Emory University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2981483007,Yoram Selzer,Pennsylvania State University,north_america_randoms,2,76,1,0,0,76,0,0,1,1
+2646093177,Athanasios G. Papathanasiou,North Carolina State University,north_america_randoms,1,63,1,0,0,63,0,0,1,1
+2055463147,Marcia Trapé-Cardoso,University of Connecticut,north_america_randoms,4,94,4,0,0,94,0,0,4,4
+2548419372,Maksym Marek,University of Rochester,north_america_randoms,2,14,1,0,0,14,0,0,1,1
+2706329774,Aparna Krishnamurthy,North Carolina State University,north_america_randoms,2,22,2,0,0,22,0,0,2,2
+1990522940,Mark A. Nakasone,"University of Maryland, College Park",north_america_randoms,14,256,11,0,0,256,0,0,9,9
+2721681758,T.L Zhang,"University of California, Los Angeles",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2663857821,Maureen E. Lundt,Tufts University,north_america_randoms,3,34,3,0,0,34,0,0,2,2
+2890622501,J. Hwang,Florida State University,north_america_randoms,1,57,1,0,0,57,0,0,1,1
+2026810844,David G. Overdier,University of Illinois at Chicago,north_america_randoms,8,1914,8,0,0,1914,0,0,8,8
+2857979048,CD Pardos,Northeastern University,north_america_randoms,1,16,0,0,0,0,0,0,0,0
+2609110753,Simon C. Schlachter,University of Illinois at Urbana–Champaign,north_america_randoms,5,284,5,0,0,284,0,0,5,5
+1976102356,John M. Fairbrother,Université de Montréal,north_america_randoms,164,6563,128,0,0,6533,0,0,42,42
+2505275374,Lauren Bowers,Georgia Institute of Technology,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2106123184,Lawrence Willes,"University of California, San Diego",north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2555407069,Stella Chai,Purdue University,north_america_randoms,1,63,1,0,0,63,0,0,1,1
+2702404505,J. M. A. Bohnen,University of Toronto,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2773602163,George H. Bresnick,University of Chicago,north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2900753612,Arlett Carmona,Boston University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2212445952,A.H. Mcleod,McGill University,north_america_randoms,4,80,4,0,0,80,0,0,4,4
+2438815472,Hye-Joo Yoon,California Institute of Technology,north_america_randoms,2,159,2,0,0,159,0,0,2,2
+2648278028,Lu Zhang,Pennsylvania State University,north_america_randoms,3,227,1,2,0,188,39,0,2,2
+196000978,Joseph R. Carlise,Georgia Institute of Technology,north_america_randoms,10,249,7,0,0,245,0,0,4,4
+2974385183,S. Soni,Georgia Institute of Technology,north_america_randoms,1,27,1,0,0,27,0,0,1,1
+2474279701,Elizabeth Griffiths,University at Buffalo,north_america_randoms,7,164,6,0,0,164,0,0,5,5
+2674576138,T.-K. Ma,University of Washington,north_america_randoms,1,75,1,0,0,75,0,0,1,1
+2616541329,R. Michael Borland,Harvard University,north_america_randoms,2,40,1,0,0,24,0,0,2,2
+2088465212,M. J. Petrash,Washington University in St. Louis,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2683599797,D. S. Walters,University of Illinois at Urbana–Champaign,north_america_randoms,1,29,1,0,0,29,0,0,1,1
+2846521586,T. Ohta,Case Western Reserve University,north_america_randoms,3,449,3,0,0,449,0,0,3,3
+2968925600,Morteza Hajati,Dalhousie University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2213023177,Mohammed Emehdi Atef,Université de Montréal,north_america_randoms,4,49,4,0,0,49,0,0,3,3
+2403259850,Ellen Vi-Leun Do,Georgia Institute of Technology,north_america_randoms,1,6,0,1,0,0,6,0,1,1
+2486689657,Matthew Wright,University of Victoria,north_america_randoms,2,28,0,1,0,0,22,0,2,2
+2225038475,Delgado Troncoso,University of Pittsburgh,north_america_randoms,5,0,0,0,0,0,0,0,0,0
+2071974426,Angela Greco,New York University,north_america_randoms,110,7889,104,0,0,7877,0,0,43,43
+2039172359,Courtney P. Orsbon,University of Chicago,north_america_randoms,8,255,8,0,0,255,0,0,4,4
+2216325387,Bryan West Lafayette Whitson,Purdue University,north_america_randoms,3,0,0,0,0,0,0,0,0,0
+1975480917,R. Tilley,Texas A&M University,north_america_randoms,7,83,7,0,0,83,0,0,6,6
+1985878410,Brooks Brodrick,University of Virginia,north_america_randoms,7,60,7,0,0,60,0,0,3,3
+2616085780,M. J. Evanich,University of Illinois at Chicago,north_america_randoms,1,21,1,0,0,21,0,0,1,1
+2808663952,Jatinder Singh Sandhu,Ohio State University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2155841540,George D. Maynard,Ohio State University,north_america_randoms,13,201,10,0,0,201,0,0,8,8
+2428718787,Luciano Javier Venezia,University of Arizona,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+1826529028,Michael Antin,"University of California, Berkeley",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2950240226,Charles G. Macias,Harvard University,north_america_randoms,8,56,5,0,0,55,0,0,2,2
+2898682925,Bilal Shaikh,Rutgers University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+846140964,Rachelle Gajadhar,Johns Hopkins University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2252773245,William E. Pedersen,University of Minnesota,north_america_randoms,3,87,2,0,0,87,0,0,2,2
+2565876845,Bin Zhang,Massachusetts Institute of Technology,north_america_randoms,95,2880,81,0,1,2812,0,3,24,24
+2553299633,Cheahuychou Mao,Massachusetts Institute of Technology,north_america_randoms,1,24,1,0,0,24,0,0,1,1
+2705653982,Jeffrey J. Meyer,University of Chicago,north_america_randoms,1,106,1,0,0,106,0,0,1,1
+2483478047,Yi-Ling Lu,University of Massachusetts Amherst,north_america_randoms,5,114,5,0,0,114,0,0,4,4
+2936823899,F. C. Sze,Michigan State University,north_america_randoms,4,13,2,2,0,13,0,0,2,2
+2599904793,Judith Ann Harris,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2645628999,X Ysern,Johns Hopkins University,north_america_randoms,1,124,1,0,0,124,0,0,1,1
+2508913240,Hansa Kundra,University of Illinois at Chicago,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2891295064,Paul Davis Jenkins,University of Illinois at Chicago,north_america_randoms,1,6,0,0,0,0,0,0,1,1
+2890909854,R. A. Blanchette,Washington State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2643753576,G. Reichel-Dolmatoff,"University of California, Los Angeles",north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2052647628,Jeffrey S. Vipperman,University of Pittsburgh,north_america_randoms,118,1192,71,3,4,970,14,13,17,17
+2963475326,Nobuyuki Nakajima,Yale University,north_america_randoms,4,192,2,0,0,175,0,0,3,3
+1970275498,B.J. Eigl,University of British Columbia,north_america_randoms,32,322,31,0,2,322,0,10,6,6
+2662264028,Mary Beth Coates,Queen's University,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2287623558,James R. McDonald,"University of California, Los Angeles",north_america_randoms,3,11,3,0,0,11,0,0,2,2
+2807702553,Lorraine F. Garg,Harvard University,north_america_randoms,4,1,3,0,0,1,0,0,1,1
+2541636074,Lawrence R. Wilhoit,"University of California, Davis",north_america_randoms,4,561,3,0,0,560,0,0,3,3
+2677307436,Xiaowei Wang,Washington University in St. Louis,north_america_randoms,8,5082,2,4,0,30,24,0,5,5
+2548968561,Peter S. Lee,Virginia Tech,north_america_randoms,2,2,0,1,0,0,1,0,1,1
+2945436904,Savanthi Murthy,Georgia Institute of Technology,north_america_randoms,1,2,0,1,0,0,2,0,1,1
+2736139676,Edward P. Dworkin,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2141737720,Aude Castel,University of Tennessee,north_america_randoms,5,83,5,0,0,83,0,0,3,3
+2985066488,Sara A. Hashway,University of Colorado Boulder,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2499271041,Donald A. Jordan,University of Wisconsin-Madison,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2583997991,D. R. Yingst,University of Southern California,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2795377175,Tianyu Yan,Pennsylvania State University,north_america_randoms,3,20,3,0,0,20,0,0,3,3
+2678276897,Eric D. Gyllenhaal,University of Chicago,north_america_randoms,3,125,3,0,0,125,0,0,3,3
+2254901779,Fanny V. Santiago-Saavedra,Ohio State University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2161484162,Tyler J. W. Robinson,University of Toronto,north_america_randoms,4,187,4,0,0,187,0,0,4,4
+2313628682,Denise Sharon,Tulane University,north_america_randoms,21,1760,17,0,0,1760,0,0,6,6
+2728678410,E. D. Crawford,Indiana University Bloomington,north_america_randoms,1,441,2,0,0,441,0,0,2,2
+2113237831,Chris Sollitto,Carnegie Mellon University,north_america_randoms,2,423,1,0,0,204,0,0,2,2
+2481324897,Dan Kitei,University of Connecticut,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+1966637822,Amna I. Dermish,University of Utah,north_america_randoms,20,207,16,0,0,207,0,0,6,6
+2781144292,Andrew A. Jacono,Yeshiva University,north_america_randoms,5,582,3,0,0,582,0,0,3,3
+2652995791,Vikki Stefans,University of Michigan,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2344955515,Nathaniel G. Bailey,University of Michigan,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2633426346,H.T. Sawhill,Massachusetts Institute of Technology,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2201396575,Ryan Holzman,University of Colorado Boulder,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2973452902,J.M. Holtzman,Rutgers University,north_america_randoms,3,43,0,3,0,0,43,0,2,2
+2671094582,Robert P. Matsen,"University of California, Berkeley",north_america_randoms,1,50,1,0,0,50,0,0,1,1
+684421696,Rex N. MacAlpin,"University of California, Los Angeles",north_america_randoms,51,2402,53,0,0,2402,0,0,20,20
+2633991436,Katalin Baksa,Harvard University,north_america_randoms,3,289,3,0,0,289,0,0,3,3
+1987272343,Mike Stanbrough,Massachusetts Institute of Technology,north_america_randoms,3,257,3,0,0,257,0,0,3,3
+2591688902,R. Grindley,University of Toronto,north_america_randoms,7,106,0,3,0,0,105,0,3,3
+2305014557,G. W. Cole,"University of California, Irvine",north_america_randoms,1,26,1,0,0,26,0,0,1,1
+2230850306,Dunsmore,Purdue University,north_america_randoms,1,32,1,0,0,32,0,0,1,1
+2607727430,J. Jayaraj,Simon Fraser University,north_america_randoms,26,1286,22,0,0,1248,0,0,18,18
+2735923428,Siyuan Luo,University of Minnesota,north_america_randoms,3,7,2,0,0,7,0,0,1,1
+309612788,Sulli J. Popilkis,Columbia University,north_america_randoms,2,108,2,0,0,108,0,0,2,2
+2244439537,Vida Praitis,University of Chicago,north_america_randoms,2,1085,2,0,0,1085,0,0,2,2
+2055680451,Wally Welker,University of Wisconsin-Madison,north_america_randoms,34,3500,30,0,1,2859,0,22,22,21
+1988865894,Wouter Pos,Harvard University,north_america_randoms,26,866,18,0,0,866,0,0,12,12
+2765441614,Ecenur Ustun,Massachusetts Institute of Technology,north_america_randoms,1,3,0,0,0,0,0,0,1,1
+1254470274,Walter Reisner,McGill University,north_america_randoms,104,2877,86,0,0,2852,0,0,18,18
+2156588791,Meiyan Li,Virginia Tech,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2942749315,Andrew N Dates,Harvard University,north_america_randoms,2,2,1,0,0,2,0,0,1,1
+2704492787,A. R. Blackman,Simon Fraser University,north_america_randoms,1,17,1,0,0,17,0,0,1,1
+2523904230,David K. Watson,Rutgers University,north_america_randoms,2,78,2,0,0,78,0,0,2,2
+2779496429,Filip Baert,University of Chicago,north_america_randoms,2,29,2,0,0,29,0,0,2,2
+2273667246,Melinda C. Dobbs,Emory University,north_america_randoms,2,23,2,0,0,23,0,0,1,1
+2603261911,L. Kaufman,University of Alberta,north_america_randoms,2,21,2,0,0,21,0,0,2,2
+2776778658,Russell B. Hawkins,University of Florida,north_america_randoms,21,55,20,0,0,53,0,0,3,3
+2188455519,K. Davidson,Michigan State University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2605727395,E.S. Delzell,Duke University,north_america_randoms,1,24,1,0,0,24,0,0,1,1
+2659622785,B. T. Chao,University of Illinois at Urbana–Champaign,north_america_randoms,1,10,0,0,0,0,0,0,1,1
+2326969261,Charles McCurry,"University of California, Berkeley",north_america_randoms,3,0,3,0,0,0,0,0,0,0
+2423046567,Michael J. Lewis,University of Illinois at Urbana–Champaign,north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2145127287,Deborah M. Little,Texas A&M University,north_america_randoms,60,3073,58,0,0,3073,0,0,20,20
+2432688946,Yingying Wang,University of Illinois at Urbana–Champaign,north_america_randoms,2,3,2,0,0,3,0,0,1,1
+2703164587,John Koukoutsis,McGill University,north_america_randoms,1,284,1,0,0,284,0,0,1,1
+2560221513,Yongqi Yan,"University of California, San Diego",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+1971108765,Anthony M. Yurchak,University at Buffalo,north_america_randoms,18,1547,17,0,0,1540,0,0,14,14
+2398598602,Vicki L. Bailey,University of Pennsylvania,north_america_randoms,2,147,2,0,0,147,0,0,2,2
+2124662283,E. Caroline Wylie,Princeton University,north_america_randoms,28,136,23,0,1,132,0,0,8,8
+2694984727,Sang Boo Nam,Rutgers University,north_america_randoms,2,9,2,0,0,9,0,0,1,1
+2700893043,Melinda McCalla,Ohio State University,north_america_randoms,1,143,1,0,0,143,0,0,1,1
+2974308619,T.A. Schreyer,Stanford University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2598146632,A.D. Sutherland,University of Florida,north_america_randoms,4,11,4,0,0,11,0,0,2,2
+2337259840,J. Weisgarber,University of Alberta,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2550386459,Ed Crossman,Arizona State University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2226457436,Adam W. Caccavale,Duke University,north_america_randoms,2,6,0,0,0,0,0,0,1,1
+2693812543,Andrew Hawryshkewich,Simon Fraser University,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2153389428,Jeffrey T. Fields,University of Connecticut,north_america_randoms,3,25,3,0,0,25,0,0,2,2
+2159836270,Me Fernand Morin,Laval University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+1977769573,P. Miljanich,"University of California, Berkeley",north_america_randoms,20,722,20,0,0,722,0,0,13,13
+2159154704,Junmook Park,"University of California, Los Angeles",north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2114723230,Kelly M. Burkett,University of Ottawa,north_america_randoms,25,761,22,0,0,754,0,0,9,9
+2637371294,D. G. Malkin,University of Toronto,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2289843487,Peter G. Shifrin,University of Michigan,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+2758360716,Christina L. Rush,University of Colorado Denver,north_america_randoms,5,7,4,0,0,7,0,0,2,2
+2688853336,Gang Zheng,University of Toronto,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2697790344,Tina M. Myers,University of Florida,north_america_randoms,2,119,2,0,0,119,0,0,2,2
+2324649836,Rishi Robert Sekar,Emory University,north_america_randoms,13,13,13,0,0,13,0,0,2,2
+220428051,Philip M. Toleikis,University of British Columbia,north_america_randoms,96,7129,6,0,0,485,0,0,32,32
+2607650529,Travis Walkowiak,Michigan State University,north_america_randoms,2,141,2,0,0,141,0,0,2,2
+276974613,Thomas Draschil,Rutgers University,north_america_randoms,3,9,3,0,0,9,0,0,2,2
+2139341377,Y. Imamura,University of Florida,north_america_randoms,2,12,2,0,0,12,0,0,2,2
+2722631109,Anthony C. Hirst,University of Wisconsin-Madison,north_america_randoms,1,58,1,0,0,58,0,0,1,1
+2707530373,K. Piekarski,University of Waterloo,north_america_randoms,1,60,1,0,0,60,0,0,1,1
+2654791999,J.F. Penza,Dartmouth College,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2804769854,K. Michael Kniffin,Ohio State University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2791916579,Vidya Arole,Ohio State University,north_america_randoms,7,14,5,0,0,12,0,0,2,2
+2632606963,Ion Bogdan Vasi,Rutgers University,north_america_randoms,1,15,1,0,0,15,0,0,1,1
+2803308362,T.R. Parsons,University of British Columbia,north_america_randoms,6,158,6,0,0,158,0,0,3,3
+2974558584,Stephen Paul Krosner,Georgia Institute of Technology,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2764993401,G. Swanson,University of Michigan,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2024517952,Joseph C. Canvin,University of Rochester,north_america_randoms,1,15,0,0,0,0,0,0,1,1
+2305251400,Joseph P. McCain,Harvard University,north_america_randoms,46,869,41,0,0,869,0,0,12,12
+2677802252,I. W. Fong,University of Toronto,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2098633605,Robert Hogan,Purdue University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2629016222,R. F. Johnson,"University of California, San Diego",north_america_randoms,2,206,2,0,0,206,0,0,2,2
+2075503808,D.A. Bromley,Yale University,north_america_randoms,145,1618,116,0,0,1557,0,0,21,21
+2108602878,Birgit Henriksen,Harvard University,north_america_randoms,1,155,1,0,0,155,0,0,1,1
+2997873463,D. Gabric,University of Waterloo,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+661079165,T. Haelen,University of Rochester,north_america_randoms,9,448,6,0,0,429,0,0,6,6
+2973438645,I. Rubin,"University of California, Los Angeles",north_america_randoms,1,27,0,1,0,0,27,0,1,1
+2686553613,Andrew Hessel,University of Ottawa,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2534924235,T. L. Phillips,Johns Hopkins University,north_america_randoms,1,33,1,0,0,33,0,0,1,1
+2528025520,Ravnyago Sergiy,"University of California, Santa Cruz",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2615331350,Mary Jo Finney,University of Michigan,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2937124031,Tuto Nakamura,"University of California, Berkeley",north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2580810998,C.M. Dodd,University of Alberta,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2113826097,Chelsea M. Hull,Pennsylvania State University,north_america_randoms,6,69,6,0,0,69,0,0,5,5
+2890862708,Myron G. Chapman,"University of California, Los Angeles",north_america_randoms,1,99,1,0,0,99,0,0,1,1
+2778295096,Ann A. Jones,University of Colorado Denver,north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2000469156,Deborah L. Cresswell,Arizona State University,north_america_randoms,2,15,2,0,0,15,0,0,2,2
+2591737007,Dmitry Nemirovsky,Vanderbilt University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2181006064,Rai Farrelly,University of Utah,north_america_randoms,1,17,1,0,0,17,0,0,1,1
+2787684739,Lyall A. Gorenstein,University of Toronto,north_america_randoms,3,99,3,0,0,99,0,0,2,2
+2989332199,Emma Gentile,New York University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2650183232,Deborah Pringnitz,University of Wisconsin-Madison,north_america_randoms,1,28,1,0,0,28,0,0,1,1
+2640872929,T. Breza,Ohio State University,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2982517048,Haoyu Fang,New York University,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2722287090,W.G. Trapp,University of British Columbia,north_america_randoms,2,9,2,0,0,9,0,0,2,2
+2869556960,V. Klemas,"University of Maryland, College Park",north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2586616670,Tyana Rudolfsen,University of Alberta,north_america_randoms,4,7,4,0,0,7,0,0,2,2
+2763857899,Jayson M. Rieger,Emory University,north_america_randoms,1,6,0,0,0,0,0,0,1,1
+2150355747,Daniel Montiel,Princeton University,north_america_randoms,10,433,10,0,0,433,0,0,7,7
+2311467809,Robert A. Carr,Johns Hopkins University,north_america_randoms,5,271,4,0,0,271,0,0,3,3
+2117486953,Elizabeth R. Blyth,University of North Carolina at Chapel Hill,north_america_randoms,3,304,3,0,0,304,0,0,2,2
+2636494205,R. L. Kirlin,University of Victoria,north_america_randoms,2,8,0,2,0,0,8,0,1,1
+2671378908,高永涛,University of Kansas,north_america_randoms,2,1,1,0,0,1,0,0,1,1
+2567063463,Shannon C. Mitchell,University of North Carolina at Chapel Hill,north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2322420218,D. F. Smith,Cornell University,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2687557202,T. Nihei,University of Alberta,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2410302947,Mary Elizabeth Carlton,University of Pittsburgh,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2060486368,Bernhard Fassl,University of Utah,north_america_randoms,33,232,27,2,0,215,16,0,8,8
+2611290772,Alyssa Elman,Cornell University,north_america_randoms,12,4,12,0,0,4,0,0,1,1
+2245258842,Stephen D. West,University of Washington,north_america_randoms,26,518,23,0,1,515,0,8,11,11
+2475305921,Paul C. Royce,Case Western Reserve University,north_america_randoms,6,167,6,0,0,167,0,0,6,6
+2179580082,Isaac Klein,Michigan State University,north_america_randoms,3,252,3,0,0,252,0,0,3,3
+2660115586,‡ Jason Mueller-Neuhaus,Dalhousie University,north_america_randoms,2,174,1,0,0,172,0,0,2,2
+2669791090,J.I. Routh,University of Iowa,north_america_randoms,1,30,1,0,0,30,0,0,1,1
+2598254528,G. Gauthier,Laval University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2121034592,Hedwig Kohn,Duke University,north_america_randoms,7,293,6,0,0,293,0,0,5,5
+2124790925,Albertoni Alejandro,University of Texas at Austin,north_america_randoms,1,8,0,0,0,0,0,0,1,1
+2961658492,Wenzheng Kuang,University of Notre Dame,north_america_randoms,2,3,2,0,0,3,0,0,1,1
+1982718720,Marina Berdichevsky,"University of California, Berkeley",north_america_randoms,1,72,1,0,0,72,0,0,1,1
+2767065210,G. Corsan,Rutgers University,north_america_randoms,1,73,1,0,0,73,0,0,1,1
+2716201956,Sheldon J. Israel,University of Minnesota,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2705467572,G.P. Xue,Texas A&M University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2947550782,Sterling Tran,University of Virginia,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2882735153,Raymond Petryshyn,George Washington University,north_america_randoms,11,108,10,0,0,97,0,0,7,7
+2974632722,D. Sherrer,University of Colorado Boulder,north_america_randoms,1,1,0,1,0,0,1,0,1,1
+2551961059,Lisbeth Dyer,Rutgers University,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2667506056,Kris D. Gillespie,University of British Columbia,north_america_randoms,2,6,2,0,0,6,0,0,1,1
+2499846969,P. M. Sherman,Johns Hopkins University,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2163804352,Tadashi Kawaguchi,Massachusetts Institute of Technology,north_america_randoms,3,20,2,0,0,20,0,0,2,2
+2949716314,H. S. Shapiro,University of Michigan,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2802822480,Nir Kossovsky,New York University,north_america_randoms,1,54,1,0,0,54,0,0,1,1
+2911359853,B. Roitman-Johnson,University of Minnesota,north_america_randoms,6,380,5,0,0,380,0,0,4,4
+2719889680,R. J. Rossiter,University of Western Ontario,north_america_randoms,5,81,5,0,0,81,0,0,5,5
+2790259879,Nicole R. Scalise,"University of Maryland, College Park",north_america_randoms,7,16,5,0,0,7,0,0,2,2
+2602001948,Aloys Hüttermann,University of Wisconsin-Madison,north_america_randoms,4,69,4,0,0,69,0,0,4,4
+2530675412,Donald R. Campbell,University of Alberta,north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2965106454,Aitong Li,Columbia University,north_america_randoms,2,0,0,0,0,0,0,0,0,0
+2974527011,Che-Bing Liu,University of Illinois at Urbana–Champaign,north_america_randoms,1,16,0,1,0,0,16,0,1,1
+2973715357,F. Steele,University of Iowa,north_america_randoms,1,6,0,1,0,0,6,0,1,1
+2309786503,Tim Costigan,Ohio State University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2593637301,C. Tyler Pannell,University of Tennessee,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2648125290,D. B. Stoltz,Dalhousie University,north_america_randoms,1,139,1,0,0,139,0,0,1,1
+2475896700,Herbert J. Gans,Washington University in St. Louis,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2635388988,K.S. Hall,Vanderbilt University,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2614131092,Ruby A,University of Illinois at Chicago,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2555626701,P. Nepali,Tufts University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2808061974,Orval Lee Ulry,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2661764993,Yi Han Liu,Northeastern University,north_america_randoms,2,2,2,0,0,2,0,0,1,1
+2125066239,D. Nishioka,Stanford University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2720746709,J. L. Beal,Ohio State University,north_america_randoms,1,24,0,0,0,0,0,0,1,1
+1672383657,Michael A. Epting,University of Pennsylvania,north_america_randoms,6,38,6,0,0,38,0,0,3,3
+2439998605,R. R. Sutil,University of Florida,north_america_randoms,1,120,1,1,1,113,7,113,2,1
+2656120529,J. Manfreda,Johns Hopkins University,north_america_randoms,1,2511,1,0,0,2511,0,0,1,1
+2773615498,Matthew Ehrenburg,Johns Hopkins University,north_america_randoms,2,4,2,0,0,4,0,0,1,1
+2479897348,Claudia M. Pagliaro,Michigan State University,north_america_randoms,18,360,15,0,3,360,0,142,10,8
+2439595308,Y. K. Wang,Yale University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2780214837,M. R. Villagarcia,North Carolina State University,north_america_randoms,1,202,1,0,0,202,0,0,1,1
+2557494335,Hesham Eldeeb,University of Miami,north_america_randoms,3,14,3,0,0,14,0,0,2,2
+2004402387,Chester Fitchett,University of Calgary,north_america_randoms,2,758,0,1,0,0,745,0,2,2
+2572190154,Mark E. Brauner,Ohio State University,north_america_randoms,2,12,2,0,0,12,0,0,1,1
+2436207982,K. P. Stewart,"University of Maryland, College Park",north_america_randoms,2,6,2,0,0,6,0,0,1,1
+2618352882,Xin Chen,Dartmouth College,north_america_randoms,4,76,1,0,0,76,0,0,1,1
+2722762230,Lene V. Hau,Harvard University,north_america_randoms,3,11,1,1,0,11,0,0,1,1
+2688294285,Siyuan Yin,University of Massachusetts Amherst,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2673331373,C.-S. Lai,Michigan State University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2672316255,Roger Morgan,Boston University,north_america_randoms,1,18,1,0,0,18,0,0,1,1
+2643322015,B. A. Finstead,"University of California, Los Angeles",north_america_randoms,2,26,2,0,0,26,0,0,2,2
+2572852203,Jayaraman Rajaram,Northwestern University,north_america_randoms,5,77,5,0,0,77,0,0,4,4
+2223620114,Rafael Lozano,Georgia Institute of Technology,north_america_randoms,2,4,0,0,0,0,0,0,1,1
+2636332039,C.A. Pearson,University of Arizona,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2021615660,W. C. Pacey,University of Alberta,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2596248471,Gretchen Quinones,University of Michigan,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2196178956,S. de Montbrun,University of Toronto,north_america_randoms,3,20,3,0,0,20,0,0,2,2
+2232548074,Xuefei Guan,Princeton University,north_america_randoms,43,425,22,0,0,355,0,0,11,11
+2124955836,Josephine R. Deeks,University of Ottawa,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2508080926,Mohammed Yosri,University of Michigan,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2312136111,Richard T. Jones,University of Illinois at Urbana–Champaign,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2119024000,Warren F. Kimball,Rutgers University,north_america_randoms,69,266,38,0,0,124,0,0,6,6
+2676787071,Yongwang Kang,University of Alberta,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2120840885,Laura E. Donaldson,Cornell University,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+2630064601,Rom Colindres,University of North Carolina at Chapel Hill,north_america_randoms,1,93,1,0,1,93,0,93,1,0
+2550771317,Sameer S. Aidoor,University of Colorado Boulder,north_america_randoms,2,12,2,0,0,12,0,0,1,1
+2216575088,Harsh Mathur,Case Western Reserve University,north_america_randoms,59,1210,39,2,1,578,1,3,13,13
+2884259873,Wolfgang E. Krumbein,Massachusetts Institute of Technology,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2692702847,G. Webb,Texas A&M University,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2099228508,Jacob Mu,University of Pennsylvania,north_america_randoms,13,477,11,0,0,458,0,0,9,9
+2127339111,Cunxian S. Song,University of Michigan,north_america_randoms,4,23,0,0,0,0,0,0,1,1
+2647752933,Masaro Kaji,Case Western Reserve University,north_america_randoms,2,247,2,0,0,247,0,0,2,2
+2956956070,Yamanaka Sachiko,"University of California, Berkeley",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2905412882,Zeynep Basgöze,"University of California, Berkeley",north_america_randoms,2,2,2,0,0,2,0,0,1,1
+2704151127,C. M. Ryan,Johns Hopkins University,north_america_randoms,3,1,3,0,0,1,0,0,1,1
+2629644311,J. G. Trupkiewicz,"University of California, Davis",north_america_randoms,3,145,3,0,0,145,0,0,3,3
+2124330895,Johan Chu,California Institute of Technology,north_america_randoms,2,45,2,0,0,45,0,0,2,2
+2522996857,Khoa Tran,University of Calgary,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2984781391,Tyler Hr,Harvard University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2790068732,Dheeraj R. Devarampally,Rutgers University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2637212062,K.A. Koshkarian,University of Illinois at Urbana–Champaign,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2308913136,Eric Bonet,University of Kansas,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2762376921,Lynn E. DeLisi,Columbia University,north_america_randoms,1,3,0,0,0,0,0,0,1,1
+2987326375,Sanjay Basu,University of North Carolina at Chapel Hill,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2579758597,Ben J. Miller,University of Florida,north_america_randoms,1,85,1,0,0,85,0,0,1,1
+2514225759,Herman Kan,University of Illinois at Chicago,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2035465700,L E Sommerville,University of Minnesota,north_america_randoms,2,20,2,0,0,20,0,0,2,2
+2519637419,Cheryl Whistle,University of Utah,north_america_randoms,1,583,0,0,0,0,0,0,0,0
+2677856497,Kate Elias,University of Washington,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2572446502,Nicholas Torok,University of Illinois at Urbana–Champaign,north_america_randoms,3,23,3,0,0,23,0,0,3,3
+2541239651,Adam Szajman,University of Arizona,north_america_randoms,2,0,2,0,0,0,0,0,0,0
+310624395,Leila Ghadbeigi,University of Utah,north_america_randoms,15,225,11,1,0,218,2,0,6,6
+2640556906,X. Chen,University of Chicago,north_america_randoms,2,769,2,0,0,769,0,0,2,2
+2714471311,Ting H. Hsiao,University of Minnesota,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2969164383,Jason Wei,New York University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2618872354,G Otto,Ohio State University,north_america_randoms,1,210,1,0,0,210,0,0,1,1
+2762748742,Charles Hicks,Cornell University,north_america_randoms,1,184,1,0,0,184,0,0,1,1
+2671099143,A.E. Dugan,Pennsylvania State University,north_america_randoms,2,127,2,0,0,127,0,0,2,2
+2516919310,Kevin E. Villani,University of Southern California,north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2696842686,Ya-Mei Hu,Ohio State University,north_america_randoms,1,4,1,0,0,4,0,0,1,1
+2071617234,Sonia Rivest,Laval University,north_america_randoms,15,769,8,0,0,638,0,0,9,9
+2623267014,Jagmohan Hood,University of Pennsylvania,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2893262779,R. Houghton,Columbia University,north_america_randoms,1,60,1,0,0,60,0,0,1,1
+2643736411,C. Vanderstraeten,Carnegie Mellon University,north_america_randoms,1,26,1,0,0,26,0,0,1,1
+2989593651,Bing Fu,Cornell University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2149422831,Shannon R. Alford,Virginia Tech,north_america_randoms,3,159,3,0,0,159,0,0,2,2
+2690861440,M. J. W. Rodwell,"University of California, Santa Barbara",north_america_randoms,1,2,0,1,0,0,2,0,1,1
+2680317025,H. K. Liu,California Institute of Technology,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2571873446,Jack S. Wiley,University of Minnesota,north_america_randoms,2,77,2,0,0,77,0,0,2,2
+2762550779,Camille Houle,Laval University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2555488783,Francis P. DeMaio,McMaster University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+209835316,B. Minaei-Bigdoli,Michigan State University,north_america_randoms,2,11,0,2,0,0,11,0,2,2
+2113250404,Vanessa Sloan Morgan,Queen's University,north_america_randoms,6,16,5,0,0,16,0,0,2,2
+2890238016,Anastasiya Moiseyenko,Rutgers University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2964378726,Ritu Nayar,Washington University in St. Louis,north_america_randoms,6,186,6,0,1,186,0,4,4,4
+2683129056,Lin Zhong,Rice University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2499813908,Mingqui Liu,Arizona State University,north_america_randoms,4,57,3,0,0,57,0,0,3,3
+2647978471,Xianfeng Hu,Michigan State University,north_america_randoms,2,5,1,0,0,5,0,0,1,1
+2255436434,H.-H.Y. Kim,University of Illinois at Urbana–Champaign,north_america_randoms,3,161,3,0,0,161,0,0,3,3
+2070767116,M. P. Godsay,Queen's University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2939299046,Chong S. Rim,"University of Maryland, College Park",north_america_randoms,1,95,1,0,0,95,0,0,1,1
+2311891134,S. Narasimha,Georgia Institute of Technology,north_america_randoms,14,219,5,4,0,105,92,0,9,9
+1943509702,Therese S. Gibler,Washington University in St. Louis,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2571155013,Tara E. Crawford,University of Ottawa,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2477662132,A. V. Pshezhetsky,Université de Montréal,north_america_randoms,5,106,5,0,0,106,0,0,3,3
+2640973871,Josephine Accaputo,University of Toronto,north_america_randoms,1,78,1,0,0,78,0,0,1,1
+2012930558,Y. H. Zou,Harvard University,north_america_randoms,2,15,2,0,0,15,0,0,2,2
+2062520262,R. G. Butz,North Carolina State University,north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2625324215,Denver Peeper Burns,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+1982211716,Christopher P. Golembeski,University of Michigan,north_america_randoms,4,254,4,0,0,254,0,0,3,3
+2399100000,Ruth A. Martin,University of Washington,north_america_randoms,22,217,13,0,1,217,0,28,8,8
+1789938691,Robert D. Lousenberg,University of Toronto,north_america_randoms,6,74,4,0,0,41,0,0,5,5
+2683223338,Paul Bessler,University of Toronto,north_america_randoms,3,2,3,0,0,2,0,0,1,1
+2596249418,Cassandra Nickles,Northeastern University,north_america_randoms,4,0,3,0,0,0,0,0,0,0
+2712243639,Chu Kwan Lau,"University of California, Los Angeles",north_america_randoms,1,20,1,0,0,20,0,0,1,1
+2903863396,Anna Su,University of Toronto,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2399390112,Fuqiang Geng,Vanderbilt University,north_america_randoms,7,492,6,0,0,480,0,0,7,7
+2614545402,A.J. Hendron,University of Illinois at Urbana–Champaign,north_america_randoms,1,279,0,0,0,0,0,0,1,1
+2310238956,Ted J. Case,"University of California, Los Angeles",north_america_randoms,3,194,3,0,0,194,0,0,3,3
+2128453602,Daniel L. Shafer,University of Michigan,north_america_randoms,13,393,10,0,2,393,0,14,8,7
+2785979734,Paul D. Taylor,University of Colorado Boulder,north_america_randoms,1,133,1,0,0,133,0,0,1,1
+2108505888,Yong-Geun Ha,Washington State University,north_america_randoms,2,90,1,0,0,76,0,0,2,2
+2685745620,A. K. W. Brownell,University of Calgary,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2975698902,L. R. Khundkar,California Institute of Technology,north_america_randoms,1,19,0,0,0,0,0,0,1,1
+2518410670,Robert J. Macblane,University of Rochester,north_america_randoms,3,6,0,0,0,0,0,0,1,1
+2136418711,David S. Warner,Duke University,north_america_randoms,481,18670,464,0,11,18614,0,136,84,84
+2552694708,Kevin Luo,Carnegie Mellon University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2631923632,P.L. Kelley,Tufts University,north_america_randoms,1,7,1,0,0,7,0,0,1,1
+2987735118,Melissa P. Free,"University of Maryland, College Park",north_america_randoms,5,533,3,0,0,451,0,0,4,4
+2553139605,C.J. Tai Udovicic,University of Toronto,north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2636992838,Many Fung,University of Toronto,north_america_randoms,2,12,2,0,0,12,0,0,1,1
+2286127044,Martha Stefaniak,University of Pennsylvania,north_america_randoms,3,114,3,0,0,114,0,0,3,3
+2637142430,Provost Pj,Michigan State University,north_america_randoms,2,33,2,0,0,33,0,0,2,2
+2472429040,Jeff Phan,Columbia University,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2984144924,David Paige,"University of California, Berkeley",north_america_randoms,1,12,0,0,0,0,0,0,1,1
+2485180360,Farkhad Muratkhodjaev,University of British Columbia,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2583000977,Miguel Esteves,Harvard University,north_america_randoms,3,158,3,0,0,158,0,0,2,2
+2677837993,Yuha Jung,Pennsylvania State University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2936575633,G Zassenhaus,Cornell University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2655102351,R.S. Windeler,"University of California, Los Angeles",north_america_randoms,1,13,1,0,0,13,0,0,1,1
+2911702666,Lishi Zhang,"University of California, Irvine",north_america_randoms,2,2,2,0,0,2,0,0,1,1
+2918794608,Laura Kuhl,Northeastern University,north_america_randoms,4,7,3,0,0,7,0,0,1,1
+2647676265,D.R. Kaufman,"University of California, Berkeley",north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2005229535,Ciprian M. Bosoi,Université de Montréal,north_america_randoms,4,327,4,0,0,327,0,0,4,4
+2583277355,Wallace A. Carter,New York University,north_america_randoms,23,621,19,0,0,620,0,0,12,12
+2399835561,Sophie Presseau,Laval University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2126211034,D. Sauter,New York University,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2432940619,Narsingh Bahadur Singh,"University of Maryland, Baltimore County",north_america_randoms,43,123,13,0,0,90,0,0,4,4
+2429532880,James T. Campanelli,University of Illinois at Urbana–Champaign,north_america_randoms,6,402,6,0,0,402,0,0,6,6
+2308595835,Jing Sun,Rensselaer Polytechnic Institute,north_america_randoms,3,9,1,2,0,6,3,0,2,2
+2868297457,Schneider Jf,Washington University in St. Louis,north_america_randoms,1,8,1,0,0,8,0,0,1,1
+2514518936,M. O'Leary,University of Wisconsin-Madison,north_america_randoms,1,52,1,0,0,52,0,0,1,1
+2503264449,Chien Ping Tai,Harvard University,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2974514308,L.F. Eastman,Cornell University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2539459636,Michael R. Ryan,University of Tennessee,north_america_randoms,7,30,7,0,0,30,0,0,3,3
+2153483222,Trina Eden,University of Iowa,north_america_randoms,8,38,8,0,0,38,0,0,2,2
+2973078067,Peng Peng,Ohio State University,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2406722496,Yung C. Cheng,Brown University,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2789681623,Griffin Ess,"University of Maryland, College Park",north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2898678277,L StredneyDonald,Ohio State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+1899045589,Laura Anne Lowery,Boston College,north_america_randoms,36,1533,34,0,0,1532,0,0,15,15
+2625245515,William Casey Howell,"University of Maryland, College Park",north_america_randoms,3,28,2,0,0,22,0,0,2,2
+2510835382,Judy Winglee,Duke University,north_america_randoms,2,125,2,0,0,125,0,0,2,2
+2558190798,Luisa Balasta,New York University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2043945692,Joe Hermolin,University of Wisconsin-Madison,north_america_randoms,10,715,10,0,0,715,0,0,9,9
+2096062902,Cydney C. Bagne,University of Minnesota,north_america_randoms,1,33,1,0,0,33,0,0,1,1
+2760896657,A. Robison,University of Utah,north_america_randoms,1,22,0,0,0,0,0,0,1,1
+2785234418,Judith L. Elvart,University of Illinois at Urbana–Champaign,north_america_randoms,1,18,1,0,0,18,0,0,1,1
+2155436207,Reyna M. Durón,"University of California, Los Angeles",north_america_randoms,33,1244,31,0,1,1244,0,0,13,13
+2555438954,Kenneth W. Waters,"University of California, Davis",north_america_randoms,1,7,0,1,0,0,7,0,1,1
+2147655153,C. G. Coleman,University of Michigan,north_america_randoms,2,95,2,0,0,95,0,0,2,2
+2530060939,Marvin H. Bennett,University of Pittsburgh,north_america_randoms,15,977,15,0,0,977,0,0,11,11
+2098923536,Emily E. Bernstein,Harvard University,north_america_randoms,30,550,29,0,0,550,0,0,11,11
+2533753363,D. Binkley,Colorado State University,north_america_randoms,1,93,1,0,0,93,0,0,1,1
+2583975280,Thomas J. Stoffel,University of Iowa,north_america_randoms,3,234,3,0,0,234,0,0,2,2
+2974502834,S. J. Frasier,University of Massachusetts Amherst,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2123163253,Yanjun Lou,Case Western Reserve University,north_america_randoms,2,98,0,2,0,0,98,0,1,1
+2983373008,Hao Shen,Johns Hopkins University,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+2290856619,Tina A. Chang,University of Washington,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+1976980107,Aleksandr Pasechnik,Georgetown University,north_america_randoms,7,9,6,0,0,5,0,0,2,2
+2663310044,Jack Shaw,Columbia University,north_america_randoms,1,14,1,0,0,14,0,0,1,1
+2760935283,David J. Kupfer,University of Pittsburgh,north_america_randoms,7,449,7,0,0,449,0,0,6,6
+2545022296,A. Wade,Emory University,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2713024717,Yan-Jun Qiu,Duke University,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2346569426,Ronald D. Gregor,Dalhousie University,north_america_randoms,22,5018,18,0,1,5016,0,30,11,11
+2699724360,N.J. Hoff,Stanford University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2289822926,Edward D. Rosenthal,Harvard University,north_america_randoms,2,21,2,0,0,21,0,0,2,2
+2576346519,Kerri Shaw,Cornell University,north_america_randoms,1,24,1,0,0,24,0,0,1,1
+2711717529,B. Sverdlov,University of Illinois at Urbana–Champaign,north_america_randoms,1,83,0,0,0,0,0,0,1,1
+2950248870,Sabine Wurmehl,Ohio State University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2581712042,Loria J. Olivier,"University of California, San Diego",north_america_randoms,1,25,1,0,0,25,0,0,1,1
+2649810473,Avas B. Hamon,Virginia Tech,north_america_randoms,1,15,1,0,0,15,0,0,1,1
+2332053435,Bruce King,University of Iowa,north_america_randoms,85,541,67,0,0,221,0,0,12,12
+2100748693,Joanne Halsey,Stanford University,north_america_randoms,30,2699,30,0,0,2699,0,0,18,18
+2744924171,Eric J. Linnell,University of Wisconsin-Madison,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2944347185,BiXia Shen,University of Western Ontario,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2537577270,Amanda R. Lindsay,"University of California, Davis",north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2112347232,Jon BrodziakJ. Brodziak,"University of California, Davis",north_america_randoms,4,102,4,0,0,102,0,0,4,4
+2790912822,Amanda K. West,Boston University,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2593684295,W. Lu,Princeton University,north_america_randoms,1,9,0,0,0,0,0,0,1,1
+2959230416,Raymond A. Yagle,University of Michigan,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2279348030,Leo d'Espaux,Cornell University,north_america_randoms,1,372,1,0,0,372,0,0,1,1
+2940410095,Kenya Suzuki,Harvard University,north_america_randoms,2,20,2,0,0,20,0,0,2,2
+2778979744,S. Guedaoura,Laval University,north_america_randoms,1,1,1,0,0,1,0,0,1,1
+2765321765,Niran Argintaru,University of Toronto,north_america_randoms,5,9,4,0,1,5,0,0,2,2
+2851539139,H. Avakian,University of Pennsylvania,north_america_randoms,1,9,1,0,0,9,0,0,1,1
+2093751557,C. Vinten-Johansen,Pennsylvania State University,north_america_randoms,1,110,1,0,0,110,0,0,1,1
+2705483521,M. Midzor,California Institute of Technology,north_america_randoms,9,159,3,0,0,137,0,0,4,4
+2338533298,Sheila Jasanoff,Harvard University,north_america_randoms,203,20845,126,0,0,9426,0,0,55,55
+2603526952,Chao Sun,Cornell University,north_america_randoms,7,33,8,0,0,33,0,0,3,3
+2491267474,Collin van Uchelen,University of British Columbia,north_america_randoms,1,14,0,0,0,0,0,0,1,1
+2427336324,Louis P. Pertschuk,New York University,north_america_randoms,1,29,1,0,0,29,0,0,1,1
+2551681990,Robert Morsighe,Duke University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2681237490,H.R. Hiddleston,University of Texas at Austin,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+1853399717,Claudine Baudoux,Queen's University,north_america_randoms,6,19,5,0,0,16,0,0,3,3
+2593307037,Timothy Gray,University of Illinois at Chicago,north_america_randoms,2,74,2,0,0,74,0,0,2,2
+2462948409,W. A. Hiltner,Case Western Reserve University,north_america_randoms,3,40,3,0,0,40,0,0,3,3
+391691564,Emmanuel Stip,Université de Montréal,north_america_randoms,363,9538,346,0,0,9518,0,0,56,56
+2974596473,G. Banavar,University of Utah,north_america_randoms,1,2,0,1,0,0,2,0,1,1
+2579382494,Oana David,"University of California, Berkeley",north_america_randoms,3,3,1,0,0,0,0,0,1,1
+2465573723,Koushi Nakano,University of Pittsburgh,north_america_randoms,9,85,6,0,0,79,0,0,4,4
+2605801591,Narsing R. Thummala,Yeshiva University,north_america_randoms,2,433,2,0,0,433,0,0,2,2
+2779502723,D.K. Schroder,Arizona State University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2654537115,J.S. Willcox,Massachusetts Institute of Technology,north_america_randoms,3,188,1,2,3,95,93,188,3,0
+2655548325,A.S. Azari,"University of California, Davis",north_america_randoms,2,41,2,0,0,41,0,0,2,2
+2618280400,Pamela Austin Thompson,Dartmouth College,north_america_randoms,4,14,3,0,0,13,0,0,3,3
+2705327297,Priscilla Schuster Keswani,Princeton University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2427558739,Wei Huang,University of Arizona,north_america_randoms,1,12,1,1,0,12,0,0,1,1
+2561816887,Jaehyung Kim,Massachusetts Institute of Technology,north_america_randoms,2,31,2,0,0,31,0,0,2,2
+1947041195,Yvonne Mery,University of Arizona,north_america_randoms,13,167,6,0,2,165,0,3,5,5
+2776408986,Fazal Ahmad,University of Miami,north_america_randoms,20,165,18,0,0,165,0,0,7,7
+2638524193,A. Kilert,Stanford University,north_america_randoms,2,9,2,0,0,9,0,0,2,2
+2387448081,Liu Jia-hu,Northeastern University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2611175469,Betty F. Maskewitz,Washington University in St. Louis,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2021336129,Paul Mounsey,University of North Carolina at Chapel Hill,north_america_randoms,6,8,5,0,0,8,0,0,2,2
+2622375052,Nancy L. Lin,University of Washington,north_america_randoms,25,2340,18,0,0,2337,0,0,16,16
+2632904821,Pang-Yen Fan,Duke University,north_america_randoms,3,99,3,0,0,99,0,0,3,3
+2105204249,J. Vides,University of Southern California,north_america_randoms,3,56,3,0,0,56,0,0,3,3
+2488381976,Kaplan David,McGill University,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2611731645,V. Nicolas,Massachusetts Institute of Technology,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2622554737,Christian Gerlach,University of Pittsburgh,north_america_randoms,3,0,3,0,0,0,0,0,0,0
+2679771490,Jingang Zhao,Ohio State University,north_america_randoms,1,60,1,0,0,60,0,0,1,1
+1976712058,Craig S. Norbutt,University of Pittsburgh,north_america_randoms,4,37,4,0,0,37,0,0,2,2
+2613526788,Wonik Choi,Ohio State University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2572704313,JÃ³hanna K. Birnir,"University of Maryland, College Park",north_america_randoms,2,32,2,0,0,32,0,0,2,2
+1204947707,Eric Hoddes,University of Colorado Denver,north_america_randoms,2,19,2,0,0,19,0,0,2,2
+2792117981,Ibrahim Kassas,New York University,north_america_randoms,3,3,3,0,0,3,0,0,1,1
+2587885208,David Fraser,Northwestern University,north_america_randoms,1,25,1,0,0,25,0,0,1,1
+2113420739,Sheri Carlino,University of Arizona,north_america_randoms,3,23,3,0,0,23,0,0,2,2
+2789468084,Yuting Liu,Yale University,north_america_randoms,9,35,9,0,0,35,0,0,3,3
+2681317115,Arnold M. Ludwig,Brown University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2738867768,Mat Evans,Arizona State University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2681091845,Guo-fu Hu,Harvard University,north_america_randoms,1,15,1,0,0,15,0,0,1,1
+909428595,Giovanna Butticè,Northwestern University,north_america_randoms,3,292,3,0,0,292,0,0,3,3
+2776304579,Mark A. Dombroski,Northeastern University,north_america_randoms,3,114,3,0,0,114,0,0,2,2
+2687012709,Joungwon Alexander Kim,Harvard University,north_america_randoms,2,7,2,0,0,7,0,0,1,1
+2317262166,Chaplain John Ehman,University of Pennsylvania,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+585511152,M. Hembruch,University of Waterloo,north_america_randoms,1,4,0,1,0,0,4,0,1,1
+2682023674,Shona Robinson,University of Toronto,north_america_randoms,1,19,1,0,0,19,0,0,1,1
+2131122453,Cathy Coolbaugh Lester,University of Rochester,north_america_randoms,6,217,5,0,0,216,0,0,5,5
+2754900864,Bin Zhang,Northeastern University,north_america_randoms,1,2,0,1,0,0,2,0,1,1
+1762052672,Heidi Schearer,University of Iowa,north_america_randoms,1,229,1,0,0,229,0,0,1,1
+2169308559,Olga Idriss Davis,Arizona State University,north_america_randoms,4,56,4,0,0,56,0,0,3,3
+2980828838,Navraj S Lally,"University of California, San Diego",north_america_randoms,2,0,2,0,0,0,0,0,0,0
+2124256238,Craig E. Cole,University of Michigan,north_america_randoms,46,433,46,0,0,433,0,0,8,8
+2136175379,Constance R. Sutton,New York University,north_america_randoms,14,295,10,0,0,163,0,0,6,6
+2225179729,Zhao Wenbin,Northeastern University,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2651748805,E. Marschall,"University of California, Santa Barbara",north_america_randoms,2,11,2,0,0,11,0,0,1,1
+2974374119,Jacquelyn Chyu,University of Colorado Denver,north_america_randoms,1,163,1,0,0,163,0,0,1,1
+2955764318,L.D. Asico,George Washington University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2428658870,Richard T. Jones,University of Rochester,north_america_randoms,8,541,8,0,0,541,0,0,7,7
+2675669888,B. Dabbs,University of Tennessee,north_america_randoms,1,12,1,0,0,12,0,0,1,1
+2806429410,Ya-Xian Wang,Washington University in St. Louis,north_america_randoms,1,120,1,0,0,120,0,0,1,1
+2778499071,R. J. Taylor,Ohio State University,north_america_randoms,1,82,1,0,0,82,0,0,1,1
+2482412673,Bippan Singh Sangha,Northwestern University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2397177481,Thomas A. Mcavinney,University of Rochester,north_america_randoms,1,3,0,0,0,0,0,0,1,1
+2025492318,Jacques Hacquebord,University of Washington,north_america_randoms,6,155,6,0,0,155,0,0,6,6
+2893864926,Yeong L. Ha,University of Wisconsin-Madison,north_america_randoms,10,4838,6,0,0,4691,0,0,9,9
+2584640881,R. P. Smith,Dartmouth College,north_america_randoms,1,80,1,0,0,80,0,0,1,1
+2166232081,Kyugon Cho,Rutgers University,north_america_randoms,5,65,2,1,0,64,0,0,2,2
+2952584346,Eileen P. Scully,Massachusetts Institute of Technology,north_america_randoms,3,121,4,0,0,121,0,0,3,3
+2967803440,Alexander Bakay,Stanford University,north_america_randoms,2,0,0,0,0,0,0,0,0,0
+2353372015,Scott R. Nichols,Brown University,north_america_randoms,1,71,1,0,0,71,0,0,1,1
+2683337991,Qinghua He,University of Texas at Austin,north_america_randoms,2,11,1,0,0,8,0,0,2,2
+1969539654,E. Gath,Massachusetts Institute of Technology,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2566143681,Alois F. Scharli,University of Pittsburgh,north_america_randoms,4,429,4,0,0,429,0,0,4,4
+1978618970,Brendan Parent,New York University,north_america_randoms,31,117,29,0,0,117,0,0,5,5
+2025001445,F.Eugene DeBons,Purdue University,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2322242769,Lauren Halatek,California Institute of Technology,north_america_randoms,2,31,0,0,0,0,0,0,1,1
+2667494372,Ravin Davidoff,Boston University,north_america_randoms,102,9812,94,0,0,9736,0,0,31,31
+2693381710,Ciyou Zhu,Northwestern University,north_america_randoms,1,6,1,0,0,6,0,0,1,1
+2121935396,Helmut Berger,Massachusetts Institute of Technology,north_america_randoms,10,41,0,0,0,0,0,0,4,4
+2208252658,Alfred P. Sanfilippo,Johns Hopkins University,north_america_randoms,2,26,0,0,0,0,0,0,2,2
+2046625022,Benjamin M. Krawczyk,University of Iowa,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2912356705,Sungho Choi,Pennsylvania State University,north_america_randoms,3,13,1,0,0,9,0,0,2,2
+2627491808,B. Fischl,Harvard University,north_america_randoms,1,6,0,0,0,0,0,0,1,1
+2991683298,Francis Joel Smith,University of Colorado Denver,north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2434657191,Roberto Garcia,Stony Brook University,north_america_randoms,1,26,1,0,0,26,0,0,1,1
+2973748059,Steven B. Boswell,Harvard University,north_america_randoms,1,52,1,0,0,52,0,0,1,1
+2902311828,G. R. Bonneaud,Stanford University,north_america_randoms,25,286,25,0,0,286,0,0,11,11
+2429267620,Karrie W. Wheatley,University of Texas at Austin,north_america_randoms,4,234,4,0,0,234,0,0,2,2
+2637074633,Kristen A. Lennon,"University of California, Riverside",north_america_randoms,1,130,1,0,0,130,0,0,1,1
+2584723016,Betty L. Cabrera,Northwestern University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+576257487,Mohammed S. Hashem M. Mehany,Colorado State University,north_america_randoms,17,20,12,0,1,19,0,6,3,3
+2555805574,T.E. Sheeja,Cornell University,north_america_randoms,1,33,1,0,0,33,0,0,1,1
+2125227648,Marcia Yonemoto,University of Colorado Boulder,north_america_randoms,11,67,6,0,0,43,0,0,4,4
+2679467674,Diane Bulot,Laval University,north_america_randoms,2,1,2,0,0,1,0,0,1,1
+1996307761,Yannick Beauséjour,Université de Montréal,north_america_randoms,3,15,3,0,0,15,0,0,2,2
+1997103832,Geraldine Daumerie,Boston University,north_america_randoms,3,64,3,0,0,64,0,0,3,3
+2104124312,Jiankun Tong,University of Chicago,north_america_randoms,12,616,9,3,0,616,0,0,7,7
+2989004480,Bradley Eugene Bishop,University of Illinois at Urbana–Champaign,north_america_randoms,3,119,1,1,0,110,5,0,3,3
+1973437552,Sam Kalb,Queen's University,north_america_randoms,1,3,1,0,0,3,0,0,1,1
+2147666567,Bradley J. Snyder,"University of California, Los Angeles",north_america_randoms,20,357,20,0,0,357,0,0,6,6
+2183226553,Lauren E. Musu-Gillette,"University of Maryland, College Park",north_america_randoms,4,132,4,0,0,132,0,0,4,4
+2867570925,Pablo Buitron de la Vega,Boston University,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2029267141,David L. Abt,Brown University,north_america_randoms,18,1295,10,0,0,1294,0,0,9,9
+2690368512,Deborah Goodwyn,Emory University,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2409896573,Ivan T. Budiarso,Purdue University,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2973727541,S.M. Fakhraie,University of Toronto,north_america_randoms,3,5,1,2,0,3,2,0,1,1
+2552286665,Peter J. Elliott,"University of California, San Diego",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2149197036,Josh Bukowski,"University of California, Davis",north_america_randoms,1,0,1,0,0,0,0,0,0,0
+2658240770,P. K. Chatterjee,Princeton University,north_america_randoms,1,65,1,0,0,65,0,0,1,1
+2116843429,John E. Smith,Yale University,north_america_randoms,35,350,28,0,0,103,0,0,8,8
+2642399901,Stephanie Ross,University of Arizona,north_america_randoms,1,10,1,0,0,10,0,0,1,1
+2985245234,John E. Morley,University of Iowa,north_america_randoms,2,156,1,0,0,156,0,0,1,1
+2665583848,Jianzhong Qian,Virginia Tech,north_america_randoms,1,2,1,0,0,2,0,0,1,1
+2227656661,Ana DeJesus-Acosta,Johns Hopkins University,north_america_randoms,1,16,1,0,0,16,0,0,1,1
+2643018896,Leland H. Carlson,Northwestern University,north_america_randoms,2,3,2,0,0,3,0,0,1,1
+2971627745,Xiaofu Ma,Virginia Tech,north_america_randoms,1,2,0,0,0,0,0,0,1,1
+2399618413,Jessica Ramirez,"University of California, Los Angeles",north_america_randoms,1,5,1,0,0,5,0,0,1,1
+2145511529,Karen Hoyt,University of Iowa,north_america_randoms,1,0,0,0,0,0,0,0,0,0
+2306344037,Olivier Hartung,Laval University,north_america_randoms,72,1356,64,0,0,1348,0,0,17,17
+2561288342,M. Meyer,University of Rochester,north_america_randoms,1,18,1,0,0,18,0,0,1,1
+2991262904,Alexander Province,University of Illinois at Urbana–Champaign,north_america_randoms,1,0,0,1,0,0,0,0,0,0
+2835812638,Battistini Bruno Joseph,Laval University,north_america_randoms,2,0,0,0,0,0,0,0,0,0
+2490877512,Minsung Kwon,University of Michigan,north_america_randoms,1,11,1,0,0,11,0,0,1,1
+2897584939,Ornella Pellerito,University of Toronto,north_america_randoms,3,6,3,0,0,6,0,0,2,2
+2152856580,Jean Dominique Delcroix,Stanford University,north_america_randoms,3,703,3,0,0,703,0,0,3,3
+2604500445,R. M. Hauptmann,University of Florida,north_america_randoms,4,502,3,0,0,502,0,0,3,3
+2903153122,Sunil Kumar,University of North Carolina at Chapel Hill,north_america_randoms,9,27,6,0,0,22,0,0,3,3
+2898924218,Erica Maffei,Université de Montréal,north_america_randoms,80,229,39,0,0,191,0,0,9,9
+2883817909,I Cohen,Northwestern University,north_america_randoms,1,1,0,0,0,0,0,0,1,1
+2667310518,Winston J. Brill,University of Illinois at Urbana–Champaign,north_america_randoms,3,38,3,0,0,38,0,0,3,3
+2242351837,Stroud-Schmink F Agnes,California Institute of Technology,north_america_randoms,1,90,0,0,0,0,0,0,1,1
+2809728314,Ceire A. Hay,University of Pennsylvania,north_america_randoms,2,69,2,0,0,69,0,0,1,1
+2891646483,Kurtis R. Cruz,University of Washington,north_america_randoms,3,11,3,0,0,11,0,0,1,1
+2749925509,Jason E. Imbriglio,Boston College,north_america_randoms,5,455,5,0,0,454,0,0,5,5
+2646763523,S. Yurgenson,Harvard University,north_america_randoms,2,9,2,0,0,4,0,0,2,2
+2302660742,Stuart M. Flechner,University of Texas at Austin,north_america_randoms,56,1636,36,0,0,1318,0,0,21,21
+2741536568,J.A.Gordan Culham,University of British Columbia,north_america_randoms,1,24,1,0,0,24,0,0,1,1
+2733851206,Don Kanel,University of Wisconsin-Madison,north_america_randoms,5,20,3,0,0,17,0,0,2,2
+2636205003,Prabhaker Baliga,University of Michigan,north_america_randoms,1,51,1,0,0,51,0,0,1,1
+2057066021,Debarshi Mustafi,Case Western Reserve University,north_america_randoms,25,643,25,0,0,643,0,0,11,11
+2230005974,Josh Oros,University of Michigan,north_america_randoms,1,2,0,1,0,0,2,0,1,1

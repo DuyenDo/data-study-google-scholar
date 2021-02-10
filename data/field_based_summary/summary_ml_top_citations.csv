@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+2022407533,Vladimir Vapnik,Columbia University,118,246953,64,1,est_cits,66,215219,41
+161269817,Yoshua Bengio,Université de Montréal,668,267611,155,2,est_cits,540,181043,129
+563069026,Geoffrey E. Hinton,Google,360,346236,142,3,est_cits,201,171099,96
+2102678951,David E. Goldberg,University of Illinois at Urbana–Champaign,503,162517,115,4,est_cits,222,126208,69
+215131072,Ilya Sutskever,OpenAI,91,157126,58,5,est_cits,80,111845,44
+2024132491,Kenneth P. Burnham,Colorado State University,155,158436,71,6,est_cits,15,106104,13
+2129530653,David R. Anderson,Colorado State University,176,147733,64,7,est_cits,17,106066,12
+2435751034,Michael I. Jordan,"University of California, Berkeley",719,170600,153,8,est_cits,296,98382,97
+2104401652,Andrew Y. Ng,Stanford University,246,130182,118,9,est_cits,127,95509,88
+2252586558,Lotfi A. Zadeh,"University of California, Berkeley",310,251069,101,10,est_cits,87,95354,32
+2905022738,Goldberg,,1,90529,1,11,est_cits,1,90529,1
+297432538,Bernhard Schölkopf,Max Planck Society,950,138185,134,12,est_cits,364,87288,98
+2157233933,Christopher M. Bishop,Microsoft,185,96674,61,13,est_cits,64,84673,34
+2168176072,Chih-Jen Lin,National Taiwan University,159,91625,61,14,est_cits,87,84378,42
+1171453863,Alex Krizhevsky,Google,15,102380,15,15,est_cits,7,79602,7
+303610751,Russell C. Eberhart,Indiana University – Purdue University Indianapolis,89,118171,32,16,est_cits,30,78409,16
+2150011549,Kalyanmoy Deb,Michigan State University,639,158200,113,17,est_cits,212,73997,61
+1972291593,Alexander J. Smola,Amazon.com,361,106886,112,18,est_cits,214,73704,86
+2185363493,James Kennedy,Bureau of Labor Statistics,51,106076,27,19,est_cits,25,73433,14
+2200192130,Jian Sun,Xi'an Jiaotong University,281,123542,101,20,est_cits,66,69497,42
+278177626,Robert E. Schapire,Microsoft,194,100515,79,21,est_cits,124,68426,54
+2164292938,Kaiming He,Facebook,66,106646,62,22,est_cits,40,67349,31
+2053214915,Yann LeCun,New York University,301,135616,107,23,est_cits,167,65660,71
+2165714491,Eibe Frank,University of Waikato,136,87803,57,24,est_cits,94,62853,44
+2091981773,Marco Dorigo,Université libre de Bruxelles,1606,125929,118,25,est_cits,114,62715,48
+2469405535,Andrew Zisserman,University of Oxford,648,193637,161,26,est_cits,130,61504,56
+2289542319,David M. Blei,Columbia University,269,82058,81,27,est_cits,180,60948,60
+331124168,Christian Szegedy,Google,44,62319,26,28,est_cits,31,60486,21
+2104328312,David G. Lowe,University of British Columbia,102,101928,51,29,est_cits,20,59417,14
+245171893,Thorsten Joachims,Cornell University,182,70018,64,30,est_cits,122,59129,48
+2163446563,Ian H. Witten,University of Waikato,455,110510,81,31,est_cits,68,58453,26
+2119543935,Shaoqing Ren,University of Science and Technology of China,15,68256,15,32,est_cits,12,56988,12
+317508920,Daniel Kahneman,Princeton University,241,355708,130,33,est_cits,2,56558,2
+2117668619,Amos Tversky,Stanford University,213,269229,102,34,est_cits,2,56558,2
+2126237948,Mark A. Hall,University of Waikato,53,76441,32,35,est_cits,47,55654,29
+2141382980,Francisco Herrera,University of Granada,930,77039,139,36,est_cits,591,55190,115
+2120464764,Richard S. Sutton,University of Alberta,200,69086,65,37,est_cits,133,55072,52
+2031945151,Ruslan Salakhutdinov,Carnegie Mellon University,227,71097,77,38,est_cits,209,54898,68
+2111521723,George E. P. Box,University of Wisconsin-Madison,342,157096,88,39,est_cits,11,54302,4
+2131293038,Andrew McCallum,University of Massachusetts Amherst,336,66112,96,40,est_cits,203,52964,76
+2121616191,Gwilym M. Jenkins,Imperial College London,31,53860,8,41,est_cits,2,52442,2
+2895256545,Chih-Chung Chang,National Taiwan University,6,52081,6,42,est_cits,5,51769,5
+2499063207,Xiangyu Zhang,Xi'an Jiaotong University,34,55962,28,43,est_cits,20,50387,16
+2429370538,Jeffrey Dean,Google,227,128931,80,44,est_cits,38,50286,24
+712415982,Léon Bottou,Facebook,151,75158,57,45,est_cits,72,49886,39
+2149153931,Christopher D. Manning,Stanford University,387,113692,114,46,est_cits,161,49831,70
+2569376642,Leo Breiman,"University of California, Berkeley",78,143973,38,47,est_cits,8,46226,5
+2328522601,Aaron Courville,Université de Montréal,171,75069,69,48,est_cits,156,46006,59
+2097546270,Jimmy Ba,University of Toronto,41,46715,22,49,est_cits,40,45902,17
+2174985400,Trevor Darrell,"University of California, Berkeley",474,107119,125,50,est_cits,227,44776,81
+2148425697,Carl Edward Rasmussen,University of Cambridge,121,48149,51,51,est_cits,68,44499,37
+1822555116,Ian Goodfellow,Google,95,71210,61,52,est_cits,97,43965,57
+2121939561,Jiawei Han,University of Illinois at Urbana–Champaign,1063,174743,170,53,est_cits,347,43896,98
+2473549963,Ross Girshick,Facebook,86,93505,72,54,est_cits,68,43478,45
+2640717343,J.-S.R. Jang,National Tsing Hua University,22,43806,17,55,est_cits,13,43348,12
+1984838606,Li Fei-Fei,Stanford University,290,82530,95,56,est_cits,145,43329,60
+2134830209,Corinna Cortes,Google,114,47965,41,57,est_cits,73,43165,30
+2058584252,Jason Weston,Facebook,175,62747,87,58,est_cits,123,42857,70
+2021686850,Yoav Freund,"University of California, San Diego",123,54569,51,59,est_cits,66,41965,28
+2166320536,Rob Fergus,Facebook,117,60748,68,60,est_cits,75,40836,43
+2787075046,Simon Haykin,,1,40362,1,61,est_cits,1,40362,1
+2175835430,Sameer Agarwal,Google,46,46806,23,62,est_cits,6,40153,5
+1997216218,Andrew G. Barto,University of Massachusetts Amherst,203,59396,73,63,est_cits,97,40057,44
+2055604604,Diederik P. Kingma,University of Amsterdam,14,45953,14,64,est_cits,14,40025,13
+2116333191,Jürgen Schmidhuber,Dalle Molle Institute for Artificial Intelligence Research,365,73840,84,65,est_cits,226,40005,68
+2120996014,Amrit Pratap,California Institute of Technology,10,45290,8,66,est_cits,4,39575,3
+1208012566,T. Meyarivan,Indian Institute of Technology Kanpur,3,44942,3,67,est_cits,1,39541,1
+2162010601,Anil K. Jain,Michigan State University,882,215190,186,68,est_cits,131,38949,60
+2286237009,Zhi-Hua Zhou,Nanjing University,527,45717,100,69,est_cits,386,38943,85
+2114683746,Christopher K. I. Williams,University of Edinburgh,192,44003,53,70,est_cits,100,38902,37
+2308824398,Dumitru Erhan,Google,46,41704,34,71,est_cits,50,38180,28
+79893321,Klaus Krippendorff,University of Pennsylvania,143,80041,33,72,est_cits,5,37531,4
+73615348,Ron Kohavi,Microsoft,96,42522,55,73,est_cits,37,37284,32
+2248165042,Judea Pearl,"University of California, Los Angeles",397,90442,91,74,est_cits,151,37271,48
+2115970221,Guang-Bin Huang,Nanyang Technological University,205,40213,65,75,est_cits,141,36930,59
+2021640924,David Heckerman,Microsoft,426,67363,116,76,est_cits,169,36217,59
+2125104194,Philip S. Yu,University of Illinois at Chicago,1680,107659,155,77,est_cits,527,36019,84
+2106268727,Xin Yao,Southern University and A&M College,1008,50650,101,78,est_cits,394,35674,82
+2063782688,Isabelle Guyon,Université Paris-Saclay,250,53497,61,79,est_cits,122,35657,35
+617670330,Zoubin Ghahramani,University of Cambridge,406,54200,101,80,est_cits,254,35645,74
+2109031554,Qiang Yang,Harbin Institute of Technology,993,55417,107,81,est_cits,364,35460,77
+2022840042,Vincent Vanhoucke,Google,62,51717,36,82,est_cits,18,34013,16
+2167404190,Daphne Koller,Stanford University,318,68564,128,83,est_cits,159,33917,80
+2215287472,John Shawe-Taylor,University College London,504,59843,70,84,est_cits,220,33867,51
+2012736320,Klaus-Robert Müller,Technical University of Berlin,799,70129,112,85,est_cits,263,33672,74
+292626543,Tomas Mikolov,Facebook,58,54976,41,86,est_cits,41,33438,25
+2102002796,Yangqing Jia,Facebook,50,43761,30,87,est_cits,36,33316,23
+2462121670,Kyunghyun Cho,New York University,225,43583,58,88,est_cits,150,33152,44
+1994222016,Greg S. Corrado,Google,62,44929,28,89,est_cits,22,32968,16
+1919135125,Hans-Peter Kriegel,Ludwig Maximilian University of Munich,439,66861,94,90,est_cits,107,32958,47
+1976640904,John Lafferty,Yale University,152,50143,74,91,est_cits,62,32506,39
+2169012919,Pedro Domingos,University of Washington,195,41822,80,92,est_cits,142,32414,62
+2569648598,J. R. Quinlan,University of Sydney,17,33390,15,93,est_cits,16,32124,13
+699740264,Robert P. W. Duin,Delft University of Technology,316,48340,70,94,est_cits,118,31762,37
+2116712232,Alex Graves,Google,86,47517,60,95,est_cits,62,31754,41
+2292250447,Yoram Singer,Google,86,33564,51,96,est_cits,76,31642,40
+2079978182,Nir Friedman,Hebrew University of Jerusalem,225,66316,92,97,est_cits,99,31349,50
+2108025540,Pietro Perona,California Institute of Technology,378,86685,98,98,est_cits,103,31130,39
+1964982643,Richard Socher,Salesforce.com,128,49899,47,99,est_cits,99,31110,40
+160031478,Thomas G. Dietterich,Oregon State University,251,36911,69,100,est_cits,173,30364,57

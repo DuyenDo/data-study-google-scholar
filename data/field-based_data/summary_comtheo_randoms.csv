@@ -1,0 +1,999 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index,infield_pubs_count,infield_est_cits,infield_h_index
+2101230262,Gerard Salton,Cornell University,comtheo_randoms,213,66487,107,55,0,31431,5403,0,65,65,1,0,0
+2930259996,Zhou Zhijie,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2624112070,Акатова Наталия Геннадьевна,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2505018274,Dae-Young Kim,,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2985414628,Frederick W. Haberman,,comtheo_randoms,3,4,3,0,0,4,0,0,1,1,1,0,0
+2924492714,Ae Ri Lee,Sangmyung University,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2241434928,Gabriel Cristóbal,Spanish National Research Council,comtheo_randoms,168,2576,80,40,2,1965,399,27,21,21,1,28,1
+2670373614,Chua Siew Keng,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2422072249,Li Zhi,Communication University of China,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2420472513,S. B. Weinstein,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2658813361,Ольга Юрьевна Гукосьянц,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2099107005,F. Perrier,Stanford University,comtheo_randoms,65,3334,64,0,0,3334,0,0,26,26,1,0,0
+2005896322,Florence M. Rollwagen,Uniformed Services University of the Health Sciences,comtheo_randoms,28,618,25,0,0,618,0,0,12,12,1,53,1
+2343754153,Melissa L Carrion,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2906656945,Владимир Панфёров,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2980747125,Ерофеева Мария Александровна,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2717327340,Sarah Thorngate,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2239006376,Donald L. Snyder,,comtheo_randoms,1,24,0,0,0,0,0,0,1,1,1,24,1
+2587083842,P. Mark Fackler,,comtheo_randoms,4,14,0,0,0,0,0,0,2,2,3,7,1
+2951996112,Chris Roberts,University of Alabama,comtheo_randoms,16,113,12,0,0,98,0,0,5,5,1,2,1
+2944302109,Zhihua Zhang,Peking University,comtheo_randoms,608,53888,218,63,0,14460,1009,0,68,68,1,0,0
+2726800223,Harold Borko,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+802859682,Frank R. Baumgartner,University of North Carolina at Chapel Hill,comtheo_randoms,197,24712,85,1,3,7519,1,193,48,47,1,1,1
+2475769036,Fan Long,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2065434358,Stephen Edward Stockwell,Griffith University,comtheo_randoms,70,169,29,0,1,42,0,0,5,5,2,0,0
+2798122592,Jeff Purdue,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2616894280,Achyut Aryal,,comtheo_randoms,5,2,5,0,0,2,0,0,1,1,1,0,0
+2137225207,Melissa Tate,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2951322864,Цветкова Ольга Леонидовна,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2595277131,Nancy Weiner,,comtheo_randoms,337,0,0,0,0,0,0,0,0,0,6,0,0
+2954957135,G. Larry Bretthorst,,comtheo_randoms,29,68,0,0,0,0,0,0,2,2,1,0,0
+2423889311,Liu Jing,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2157422222,Mikael Sternad,Uppsala University,comtheo_randoms,146,2737,31,48,2,1166,1058,171,23,22,1,0,0
+2396702917,Costas N. Georghiades,Texas A&M University,comtheo_randoms,213,5780,86,101,1,4398,1140,0,36,36,1,0,0
+2125528825,Sean P. Meyn,University of Florida,comtheo_randoms,276,17595,94,118,1,7360,2007,9,54,54,1,4,1
+2550427641,Jenny Schroeder,University of Arizona,comtheo_randoms,5,260,1,3,0,232,23,0,4,4,1,7,1
+320773650,Nir Sochen,Tel Aviv University,comtheo_randoms,191,7009,103,52,0,5591,1035,0,36,36,4,30,3
+2726574097,Toshio Ohno,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2656314318,T. Assefi,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2425531989,D.A. Bell,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2716500937,Bo Vestergaard,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+660302860,W. Maitland,University of Glasgow,comtheo_randoms,94,3760,88,0,0,3751,0,0,22,22,1,0,0
+2780622909,Akira Ishimaru,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2801102630,Robert César André,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+163014821,Gert Pfurtscheller,Graz University of Technology,comtheo_randoms,545,68292,396,58,0,58122,6119,0,121,121,1,169,1
+2596661892,S. Dugeay,Imperial College London,comtheo_randoms,46,4107,45,0,0,4107,0,0,24,24,1,0,0
+2152490370,Alwyn Kotze,Leeds Teaching Hospitals NHS Trust,comtheo_randoms,11,139,7,1,0,132,7,0,5,5,1,0,0
+1419305698,Sharon Poggenpohl,Illinois Institute of Technology,comtheo_randoms,36,106,34,1,0,70,9,0,5,5,1,0,0
+2185616223,Olga Konstantinovna Andryuchshenko,,comtheo_randoms,4,1,2,0,0,1,0,0,1,1,1,0,0
+2781289163,Saskia Witteborn,University of Washington,comtheo_randoms,1,25,1,0,0,25,0,0,1,1,1,25,1
+2543963080,Leon Miller,Tallinn University,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2719450436,A.J. Jerri,Clarkson College,comtheo_randoms,1,1982,0,0,0,0,0,0,1,1,1,1982,1
+2526145074,Anna Gerber,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2728885891,W. Mayeda,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2733846948,Cecelia Fresh,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2437923917,Lynette L-Y Lim,University of Reading,comtheo_randoms,3,29,3,0,0,29,0,0,2,2,1,1,1
+2475215423,Sexton Adams,University of North Texas,comtheo_randoms,3,11,2,0,0,11,0,0,2,2,1,5,1
+2185552503,L Lorri,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2999581166,A. A. Fomin,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2605647468,J. C. Hoagland,Douglas Aircraft Company,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+1632078743,Yutaka Jitsumatsu,Kyushu University,comtheo_randoms,72,174,15,49,0,31,136,0,7,7,1,0,0
+2699713622,Daniel Glover,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2688961627,Zhao Rui-qin,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2001402608,Loren R. Borland,"University of California, San Francisco",comtheo_randoms,3,5,3,0,0,5,0,0,2,2,1,0,0
+2424157912,Anne Gregory,University of Huddersfield,comtheo_randoms,61,625,32,0,0,560,0,0,13,13,1,24,1
+202593445,Mitsuru Higuchi Yanaze,University of São Paulo,comtheo_randoms,9,13,5,1,0,9,3,0,2,2,1,0,0
+2637498031,Manli Wu,University of Science and Technology of China,comtheo_randoms,9,2,2,7,0,0,2,0,1,1,2,0,0
+2115774424,James Price Dillard,Pennsylvania State University,comtheo_randoms,129,9884,98,0,0,8841,0,0,49,49,3,9,1
+1410695759,Steven D. Seilheimer,Niagara University,comtheo_randoms,6,19,4,1,0,19,0,0,3,3,1,0,0
+1971633640,Anthony Dudo,University of Texas at Austin,comtheo_randoms,39,1037,27,0,0,1018,0,0,14,14,1,5,1
+2004582966,Gerard T. Kyle,Texas A&M University,comtheo_randoms,128,7221,87,0,1,7132,0,6,30,30,1,2,1
+192141652,Simin Nadjm-Tehrani,Linköping University,comtheo_randoms,155,3072,31,81,1,608,2165,3,21,21,1,0,0
+2783942628,R. Edwards,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2148313296,Renee A. Meyers,University of Wisconsin–Milwaukee,comtheo_randoms,40,940,32,0,1,864,0,3,15,15,1,2,1
+2516856299,Rulliyanti Puspowardhani,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2224959688,Zrinka Puljiz,University of Texas at Austin,comtheo_randoms,4,27,1,3,0,16,11,0,2,2,1,16,1
+2796968430,Yanqiu Liu,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2496802840,Xu Xie,Jiangnan University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2153120307,Student Nr,,comtheo_randoms,1,31,0,0,1,0,0,31,1,0,1,31,1
+2702944765,Bryant York,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2730418979,Yu-Huai Li,University of Science and Technology of China,comtheo_randoms,27,1077,19,4,0,1038,32,0,11,11,1,17,1
+2086959977,Ara Darzi,Imperial College London,comtheo_randoms,1490,56519,1309,62,15,54679,1506,239,124,124,1,27,1
+2051517779,Luigi Rolandi,CERN,comtheo_randoms,237,31879,213,1,1,31431,0,0,51,51,0,0,0
+2594781716,Marcelo Deiro Prates da Silveira,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2576623115,E.P. Boyer,,comtheo_randoms,1,15,1,0,0,15,0,0,1,1,1,15,1
+80020923,Kenneth K. Sereno,University of Southern California,comtheo_randoms,11,225,7,0,0,110,0,0,8,8,1,61,1
+2993281371,Emmanuel C. Eze,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2152965546,Aydin Sezgin,Ruhr University Bochum,comtheo_randoms,226,2123,44,136,1,629,1013,10,24,24,1,0,0
+55853780,Jonathan Anderlucci,Sapienza University of Rome,comtheo_randoms,6,26,3,0,0,24,0,0,3,3,1,7,1
+2549246576,John Walsh,University of South Florida,comtheo_randoms,2953,27599,1764,3,9,15589,4,5,67,67,0,0,0
+2726351591,D. Middleton,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2057598208,Felix Münch,Queensland University of Technology,comtheo_randoms,11,37,1,1,0,9,3,0,3,3,1,0,0
+1992055963,John T. Korinek,University of Texas at Austin,comtheo_randoms,2,24,2,0,0,24,0,0,2,2,1,19,1
+2923796564,Aidinil Zetra,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+750129565,Dmitry Kurakin,National Research University – Higher School of Economics,comtheo_randoms,10,15,7,0,0,14,0,0,2,2,1,0,0
+2005070101,Didier Rappin,Total S.A.,comtheo_randoms,17,47,8,0,0,44,0,0,3,3,1,0,0
+2403270337,Savio Felix Mota,Unifor,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2713704299,Clyde W. Hart,University of Chicago,comtheo_randoms,4,1,4,0,0,1,0,0,1,1,1,0,0
+2320483369,Hugh Dalziel Duncan,Southern Illinois University Carbondale,comtheo_randoms,12,986,9,0,0,352,0,0,5,5,1,342,1
+2352715591,Song Xing-min,Hunan Women's University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2422086791,Don F. Faules,University of Utah,comtheo_randoms,5,28,4,0,0,9,0,0,3,3,1,0,0
+2289090009,Moden dan Komunikasi,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2576871225,Craig Whittaker,,comtheo_randoms,2,2,2,0,0,2,0,0,1,1,1,2,1
+2588884128,Paul Webb,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2775588345,Suleida Alexandra Guaño Anguieta,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2928592100,Wang Hongpeng,,comtheo_randoms,5,1,0,0,0,0,0,0,1,1,1,0,0
+2031122343,Elizabeth A. Suter,University of Denver,comtheo_randoms,30,846,24,0,0,740,0,0,15,15,2,104,2
+2697008636,나민구,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2127228346,Huihui Li,University of Central Florida,comtheo_randoms,5,8,1,3,0,0,8,0,2,2,1,0,0
+2961935918,Payal Mehra,,comtheo_randoms,2,1,2,0,0,1,0,0,1,1,1,1,1
+2103984086,Jiacun Wang,Monmouth University,comtheo_randoms,96,1380,24,52,0,255,511,0,13,13,1,0,0
+2122938083,Matthew H. Barton,Southern Utah University,comtheo_randoms,11,192,7,0,0,191,0,0,3,3,1,0,0
+2884700085,Nasif Imtiaz,North Carolina State University,comtheo_randoms,6,20,0,4,0,0,10,0,3,3,1,1,1
+2289481748,Adil Salih,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2517521713,Boris Brandhoff,University of Bonn,comtheo_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2262909319,Bent Sørensen,Roskilde University,comtheo_randoms,539,2848,183,2,1,1823,2,0,26,26,1,2,1
+2578105434,G. Shepherd,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2484948593,T. E. Pinelli,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2173173413,Rosemary J. Avery,Cornell University,comtheo_randoms,67,1603,59,0,1,1591,0,58,19,18,1,2,1
+24758616,William B. Gudykunst,"California State University, Fullerton",comtheo_randoms,92,12552,65,0,0,6344,0,0,47,47,3,878,3
+2548794986,van Törne J,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2093097121,Fredrik Rusek,Lund University,comtheo_randoms,160,8739,48,78,4,6593,1429,5247,29,27,1,305,1
+2083019262,Marco Colombetti,Polytechnic University of Milan,comtheo_randoms,114,3451,42,39,0,1695,1262,0,25,25,2,81,2
+2194053156,Kris J. Hoang,University of Alabama,comtheo_randoms,11,103,4,0,0,88,0,0,2,2,1,0,0
+2264947980,D. Widloêcher,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2765531328,M. J. Cody,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2712696487,Yogesh Kumar Gupta,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2975454490,J. K. Clemens,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2303400971,Louise Bøttcher,Aarhus University,comtheo_randoms,25,354,11,0,0,351,0,0,7,7,1,0,0
+1811547485,Aryati Prasetyarini,,comtheo_randoms,9,4,3,0,0,4,0,0,1,1,1,0,0
+2781552454,Panigrahi Saswat,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2619139253,Eiji Okamoto,University of Wisconsin-Madison,comtheo_randoms,11,119,1,4,0,0,113,0,4,4,1,94,1
+2098162021,Jessica L. Shulman,,comtheo_randoms,2,10,2,0,0,10,0,0,2,2,2,10,2
+1648544670,Lobna Mohsin Abdel Fattah el-Hakim,Ain Shams University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2662565869,Ekaterina V. Polyanskaya,Tomsk State University,comtheo_randoms,3,1,2,0,0,1,0,0,1,1,1,1,1
+2168271369,Brent M. Wren,University of Alabama in Huntsville,comtheo_randoms,17,746,16,0,1,746,0,2,8,8,1,118,1
+2483435252,LI Shu-jun,Changchun University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2983715206,Alberto Solana-Ortega,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2719620686,M. Buck,Daimler AG,comtheo_randoms,1,19,0,0,0,0,0,0,1,1,1,19,1
+294027130,Zoran Hadzi-Velkov,Aristotle University of Thessaloniki,comtheo_randoms,80,1066,28,37,0,543,483,0,15,15,3,48,3
+2963546501,Nil Redón Orriols,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2278762458,Craig Donald Ashbourne,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2666302695,Cyril M Harris,Columbia University,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2121826239,Emile A. Hendriks,Delft University of Technology,comtheo_randoms,85,477,22,38,0,166,232,0,12,12,1,1,1
+2072899792,Richard B. Beeby,University of the West of Scotland,comtheo_randoms,8,93,2,1,0,81,0,0,4,4,1,0,0
+2146797363,Robbert-Jan Beun,Utrecht University,comtheo_randoms,95,1045,31,21,0,565,315,0,18,18,2,45,2
+211839207,Robert Hecht-Nielsen,"University of California, San Diego",comtheo_randoms,25,2249,11,2,0,2003,10,0,10,10,1,20,1
+2176485704,Michelle Scollo,City University of New York,comtheo_randoms,1,68,1,0,0,68,0,0,1,1,1,68,1
+2717228841,Noah Arceneaux,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2820798543,Zhanglong Nie,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2618208442,Carlos González Domínguez,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2946095604,Kasmaini Kasmaini,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2742706246,Sudhanshu Shekhar Jamuar,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2147094705,Mathias Johansson,Uppsala University,comtheo_randoms,13,187,3,2,0,26,89,0,6,6,1,0,0
+2656866452,LIsa Koep,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2112761015,Claus Unger,FernUniversität Hagen,comtheo_randoms,29,245,4,6,0,64,107,0,7,7,1,28,1
+2278236367,Wolfgang Frindte,University of Jena,comtheo_randoms,47,317,10,0,0,228,0,0,9,9,1,6,1
+2646758390,D. Vuysje,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2249507431,Fei Guo,Beijing Institute of Clothing Technology,comtheo_randoms,8,3,3,1,0,0,0,0,1,1,1,0,0
+2108248172,Josep Rifà,Autonomous University of Barcelona,comtheo_randoms,102,1076,71,7,0,1029,19,0,16,16,1,0,0
+2967185558,Alizé A. Rogge,Humboldt University of Berlin,comtheo_randoms,3,1,3,0,0,1,0,0,1,1,1,0,0
+2045371069,Adrian Bangerter,University of Neuchâtel,comtheo_randoms,94,2731,65,0,0,2375,0,0,23,23,1,4,1
+2228431769,Daniel Bofill,,comtheo_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2943244891,Dj Candlin,University of Edinburgh,comtheo_randoms,190,9091,172,0,0,7563,0,0,29,29,1,0,0
+2668179517,LI Ren-zeng,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2067510447,Carolyn J. Huie,,comtheo_randoms,2,85,2,0,0,85,0,0,1,1,1,1,1
+2100052106,Erik G. Larsson,Linköping University,comtheo_randoms,1020,40941,422,301,19,31879,4701,11184,92,88,2,1313,1
+2559910052,Halima Shehu,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2337377369,Jonathan Rodríguez Jaime,Politécnico Grancolombiano,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+758742079,Todd Kelshaw,Montclair State University,comtheo_randoms,8,497,3,0,0,468,0,0,5,5,1,2,1
+2160147814,Sarah Heckman,North Carolina State University,comtheo_randoms,43,404,4,31,1,113,268,27,7,6,1,5,1
+2440163239,Donald N. Dedmon,Colorado State University,comtheo_randoms,5,17,5,0,0,17,0,0,2,2,2,15,2
+2277336666,Dionysis Panos,,comtheo_randoms,6,2,2,0,0,2,0,0,1,1,1,1,1
+114740537,Arumugam Nallanathan,Queen Mary University of London,comtheo_randoms,510,10242,220,239,8,7801,1989,645,57,55,2,20,1
+2768392491,T Craig Robert,,comtheo_randoms,1,12,0,0,0,0,0,0,1,1,1,12,1
+2250463376,Erdal Panayirci,Kadir Has University,comtheo_randoms,199,2551,76,85,2,2189,291,55,20,20,1,4,1
+2111440408,Jan Zöllner,Dresden University of Technology,comtheo_randoms,6,239,2,2,0,12,223,0,3,3,1,221,1
+2600613809,James Flynn,"California State University, Northridge",comtheo_randoms,4,33,0,2,0,0,30,0,2,2,1,30,1
+2337151059,F. Pewa-Mora,ENVIRON,comtheo_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2571761384,Bernhard Fresacher,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2191141437,Jeffrey Braithwaite,Macquarie University,comtheo_randoms,552,11054,404,4,26,10420,14,424,60,58,1,23,1
+2103259435,George B. Parrent,,comtheo_randoms,35,369,7,0,0,238,0,0,7,7,1,0,0
+2567609559,R. D. Shelton,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2166784176,Roger A. Kendall,"University of California, Los Angeles",comtheo_randoms,32,825,29,0,0,733,0,0,11,11,1,201,1
+2033678142,Claus-Peter Schnorr,Goethe University Frankfurt,comtheo_randoms,107,11992,47,41,2,7679,3788,6,30,30,1,14,1
+2326753392,Cristin A. Compton,University of Missouri,comtheo_randoms,1,8,1,0,0,8,0,0,1,1,1,8,1
+2642818565,Liao Jun-qing,,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2408812684,Sun Lin,Tianjin Normal University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2329952504,D.A. Zogas,University of Patras,comtheo_randoms,19,719,10,8,0,642,77,0,10,10,1,0,0
+2686732113,I.D. Nussey,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2231548683,Emily Widen,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2581765422,M. Corden,Florida State University,comtheo_randoms,309,19646,289,0,0,19616,0,0,58,58,1,0,0
+2323544445,Yu.A. Shreǐder,,comtheo_randoms,1,16,1,0,0,16,0,0,1,1,1,16,1
+2101754449,Anske F. Grobler,University of Pretoria,comtheo_randoms,26,132,15,0,4,118,0,9,5,5,2,11,2
+2515258779,Marc Krautzberger,University of St. Gallen,comtheo_randoms,13,0,0,0,0,0,0,0,0,0,1,0,0
+2947620393,Darwin Joaquín,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2099015460,Mirela Teodorescu,University of Craiova,comtheo_randoms,58,344,33,2,0,316,4,0,11,11,5,41,3
+2082236061,Norma Presmeg,Illinois State University,comtheo_randoms,34,385,15,0,0,321,0,0,9,9,1,5,1
+190640936,Edward A. Glowatski,,comtheo_randoms,4,6,3,0,0,4,0,0,2,2,1,3,1
+629109020,Fred Wester,Radboud University Nijmegen,comtheo_randoms,97,617,37,0,1,505,0,0,13,13,2,16,2
+2713017905,Liang Liang,University of Science and Technology of China,comtheo_randoms,26,84,9,17,0,67,17,0,6,6,2,0,0
+2611139418,Ahmad Saber,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2244948532,Hideaki Ishii,Tokyo Institute of Technology,comtheo_randoms,206,4558,105,82,2,3376,802,78,32,31,3,2,1
+2670056037,Patricia A. Stokowski,,comtheo_randoms,2,4,2,0,0,4,0,0,1,1,1,3,1
+2985510828,Marsha L. Bayless,,comtheo_randoms,3,84,3,0,0,84,0,0,3,3,1,62,1
+718902765,Miquel de Moragas i Spà,Autonomous University of Barcelona,comtheo_randoms,38,142,13,0,0,4,0,0,4,4,1,0,0
+2619040910,Kenji Takahara,Fukuoka Institute of Technology,comtheo_randoms,11,16,10,1,0,15,1,0,2,2,1,2,1
+1991690665,Antti Ahonen,Helsinki University of Technology,comtheo_randoms,93,3459,52,2,0,3173,129,0,26,26,1,16,1
+2661582688,Y. Furkan Sen,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2661207814,Robert L. Chapman,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2928317231,Dadik Purnomo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2336300452,Huan W. Linnan,,comtheo_randoms,1,130,1,0,0,130,0,0,1,1,1,130,1
+1481189836,H. Meinhard,CERN,comtheo_randoms,64,493,51,1,0,441,3,0,10,10,1,0,0
+2132729374,Shelley B. Brundage,George Washington University,comtheo_randoms,22,149,21,0,0,147,0,0,7,7,1,16,1
+2120730051,Les Sternberg,,comtheo_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2103007379,Ray Charron,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2090163193,Stephen A. Rains,University of Arizona,comtheo_randoms,77,3644,65,1,1,3632,0,228,24,23,1,113,1
+2914454131,Dana Thompson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2523053325,Anna Rogala,Poznań University of Economics,comtheo_randoms,31,34,1,0,0,3,0,0,3,3,1,0,0
+2602229987,Yasuhiro Utsumi,Mie University,comtheo_randoms,66,1460,55,1,0,1459,0,0,15,15,1,1,1
+1708628443,Gordon M. Burghardt,University of Tennessee,comtheo_randoms,266,10435,216,0,0,7308,0,0,59,59,1,1,1
+2114011247,Yi Liu,"University of Maryland, College Park",comtheo_randoms,72,1907,64,1,0,1891,2,0,25,25,1,13,1
+2165009701,John L. Sherry,Michigan State University,comtheo_randoms,29,5397,20,0,0,4339,0,0,15,15,1,112,1
+2189603529,Bachelor Thesis,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2479117011,Denise Nelson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2685019098,HE Li-dong,Dali University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+1685280044,Hannes Rieser,Bielefeld University,comtheo_randoms,56,504,10,3,0,127,14,0,10,10,1,1,1
+2271601855,James V. Krogmeier,Purdue University,comtheo_randoms,175,2305,50,67,2,1790,356,18,19,19,3,36,3
+2893870413,Emma Kostiainen,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2687127320,N. Leung,University of Michigan,comtheo_randoms,2,1,0,1,0,0,1,0,1,1,1,1,1
+2639212321,G. Zemor,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2686011632,D. F. Mix,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2680134119,Zhao Hua,Nanjing Normal University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2109553496,Maria Clara Jobst de Aquino,,comtheo_randoms,4,1,0,0,0,0,0,0,1,1,1,0,0
+2168643862,Donna R. Pawlowski,Creighton University,comtheo_randoms,17,284,12,0,0,275,0,0,7,7,1,0,0
+2133935477,Kittie W. Watson,Tulane University,comtheo_randoms,20,294,14,0,0,258,0,0,9,9,1,12,1
+2166345598,Christina Stoica,University of Duisburg-Essen,comtheo_randoms,8,19,5,2,0,14,4,0,2,2,1,2,1
+2664094879,C Sánchez,University of San Francisco,comtheo_randoms,10,86,5,0,0,82,0,0,5,5,1,13,1
+2842508401,R. C. Jared,Lawrence Berkeley National Laboratory,comtheo_randoms,106,12097,35,0,0,5546,0,0,13,13,1,0,0
+682785234,Maryanne Wanca-Thibault,University of Colorado Colorado Springs,comtheo_randoms,1,15,1,0,0,15,0,0,1,1,1,15,1
+2971533741,Nur-E Arefin,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2972403046,Maureen Perry,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1631282096,William L. Ditto,North Carolina State University,comtheo_randoms,191,9940,123,17,1,9444,34,0,44,44,1,75,1
+2695747213,Pla Foreign,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2181572383,Investigaciones Científicas,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2656132040,Godwin C. Chu,,comtheo_randoms,1,17,0,0,0,0,0,0,1,1,1,17,1
+2952143079,C.B. Tompkins,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1202256390,Jennifer Bayzick,Ursinus College,comtheo_randoms,3,123,1,0,0,97,0,0,2,2,1,97,1
+2290295929,Akisato Kimura,Nippon Telegraph and Telephone,comtheo_randoms,80,863,18,43,2,196,614,62,15,14,2,0,0
+2617494189,Tina Novak,,comtheo_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2975646821,S. Samsam-Bakhtiary,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2784555455,Gusti Ayu Made Disia Purpitadewi,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1441030914,Yariv Tsfati,University of Haifa,comtheo_randoms,78,3121,50,0,2,3043,0,60,25,24,2,274,2
+2066063678,R. Dell'Orso,Scuola Normale Superiore di Pisa,comtheo_randoms,1599,101704,261,8,0,8242,76,0,39,39,1,0,0
+113721321,Dariush Divsalar,California Institute of Technology,comtheo_randoms,244,19513,50,116,2,7919,6161,69,60,59,4,106,2
+2805992916,Martin Wood,RMIT University,comtheo_randoms,179,3562,128,0,0,3275,0,0,23,23,1,21,1
+2976014601,George A. Barnett,University of California,comtheo_randoms,13,131,11,0,0,129,0,0,6,6,1,10,1
+2642993806,L. Brooks Hill,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+229763418,Kim White-Mills,,comtheo_randoms,2,6,2,0,0,6,0,0,1,1,1,6,1
+2627155743,Shivon Hess,,comtheo_randoms,337,0,0,0,3,0,0,0,0,0,1,0,0
+243434809,Gerhard Luhn,Dresden University of Technology,comtheo_randoms,3,17,3,0,0,17,0,0,3,3,1,4,1
+2132692035,William E. Ryan,University of Arizona,comtheo_randoms,131,4869,42,61,1,2237,1135,102,29,29,1,0,0
+2999474073,M. H. Davis,,comtheo_randoms,1,11,0,0,0,0,0,0,1,1,1,11,1
+2222344861,Белобородов Дмитрий Владимирович,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2320288171,Robert S. Goyer,Purdue University,comtheo_randoms,4,5,4,0,0,5,0,0,1,1,1,4,1
+2096496685,Suzanne Kurtz,Washington State University,comtheo_randoms,42,4169,23,0,0,1298,0,0,13,13,1,2,1
+2407407801,Hussein Alnuweiri,Texas A&M University at Qatar,comtheo_randoms,214,2269,64,124,2,1417,588,150,24,24,1,0,0
+2747819690,Brett Spencer,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2578676356,이주엽,,comtheo_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2798280777,Michael Nelson,University of Chicago,comtheo_randoms,30,2236,28,0,0,2228,0,0,17,17,1,12,1
+2040814604,R. Settles,Max Planck Society,comtheo_randoms,396,13479,355,1,0,12146,15,0,58,58,1,0,0
+2553374214,James R. Taylor,International Communication Association,comtheo_randoms,1,72,1,0,0,72,0,0,1,1,1,72,1
+2987439898,James H. Conley,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2383511403,Xong Bao-jin,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2109559093,Elebeoba May,Sandia National Laboratories,comtheo_randoms,25,221,7,5,1,172,18,9,7,6,1,1,1
+2793501076,Van Trees,,comtheo_randoms,1,499,0,0,0,0,0,0,1,1,1,499,1
+2722462115,Дубровская Ольга Николаевна,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2259701418,A Morch,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2978223818,Denise Nelson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2691432520,Barbara A. Sypniewska,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2768710538,Rev. George R.,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2364897039,Ding Zhiyuan,Zhejiang University,comtheo_randoms,3,1,2,0,0,0,0,0,1,1,1,0,0
+675137120,Pavlos Moraitis,Paris Descartes University,comtheo_randoms,88,1612,13,42,0,267,1040,0,18,18,3,90,3
+2414470986,Abreu Lemos,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2101944200,Mats Bergman,University of Helsinki,comtheo_randoms,22,94,16,0,0,63,0,0,6,6,2,16,1
+2168400216,M. I. Martínez,Benemérita Universidad Autónoma de Puebla,comtheo_randoms,1838,28638,710,0,0,2916,0,0,25,25,1,0,0
+2742633553,Zou Hongsen,,comtheo_randoms,99,67,0,1,0,0,0,0,3,3,1,0,0
+2892894633,Yoshitaka Miike,,comtheo_randoms,1,32,0,0,0,0,0,0,1,1,1,32,1
+2389368667,S.J. Patton,Imperial College London,comtheo_randoms,244,4929,199,0,0,4079,0,0,28,28,1,0,0
+2648840596,F. Reza,,comtheo_randoms,1,16,1,0,0,16,0,0,1,1,1,16,1
+2104297841,Graham W. Scott,University of Hull,comtheo_randoms,51,586,46,0,0,569,0,0,11,11,1,15,1
+609606984,Jm Scarr,University of Glasgow,comtheo_randoms,320,10852,299,0,0,10821,0,0,44,44,1,0,0
+2709086026,이란표,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2528605610,Benjamin Pfaff,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2342646194,John E. Buckley,University of Tennessee,comtheo_randoms,4,24,4,0,0,24,0,0,2,2,1,4,1
+2754064787,Alban Duverdier,Centre National D'Etudes Spatiales,comtheo_randoms,27,44,0,7,0,0,18,0,5,5,1,0,0
+2151586790,Marla Royne Stafford,University of Memphis,comtheo_randoms,43,4677,38,1,0,4666,3,0,22,22,2,96,2
+2639190888,Pablo Gómez-Domínguez,Pompeu Fabra University,comtheo_randoms,3,1,2,0,0,1,0,0,1,1,1,0,0
+2660479117,H.M.F. Marynissen,Cranfield University,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2438765664,Liu Yan-hua,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2138439475,Reynolds Farley,University of Michigan,comtheo_randoms,120,9584,86,0,1,7955,0,1,33,33,1,0,0
+2705692134,张达政,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2624822123,Zhou Hui-chao,,comtheo_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2719622489,Esteban Torres Castaños,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2151147878,Dioney Moreira Gomes,University of Brasília,comtheo_randoms,10,1,2,0,0,0,0,0,1,1,1,0,0
+2019216634,Caroline Haythornthwaite,Syracuse University,comtheo_randoms,145,15515,50,28,2,12930,688,21,38,38,1,1638,1
+2596976760,Craig Birsching,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2977458249,Guang Yu,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2513256763,N. V. Savischenko,Saint Petersburg State University,comtheo_randoms,2,11,2,0,0,11,0,0,2,2,2,11,2
+2973838026,Corey Manders,University of Toronto,comtheo_randoms,6,36,0,5,0,0,36,0,2,2,1,2,1
+2722032494,Teng Huan,Sichuan University,comtheo_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2919098269,Benjamin Allen Morton,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2805382105,W. Barnett Pearce,,comtheo_randoms,3,18,0,0,0,0,0,0,2,2,1,14,1
+2324340144,Lucia Santaella,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2631209446,장석현,,comtheo_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2468547943,José R. Goris,Andrews University,comtheo_randoms,9,680,6,0,0,680,0,0,5,5,3,0,0
+1962216382,Gergana Todorova,University of Miami,comtheo_randoms,44,2703,15,0,0,2648,0,0,9,9,1,0,0
+2936314131,Park Yoon Woo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2535628877,Escalante Cadena,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2274676113,Syed Arabi Syed Abdullah Idid,International Islamic University Malaysia,comtheo_randoms,76,35,18,0,1,14,0,5,3,2,1,1,1
+2664509165,Griselda Noémie Drouet,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2711626283,Ming-Yuan Hu,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2626803889,Ajaegbu Chigozirim,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2259538074,Yun Q. Shi,New Jersey Institute of Technology,comtheo_randoms,232,12235,65,148,2,5219,5672,579,60,58,1,69,1
+2794839397,Anthony Wachs,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2654874302,Лавренченко Сергей Александрович,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2682756646,LI Tong-sheng,Northwest University (United States),comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2183047192,Stefan Artmann,University of Jena,comtheo_randoms,21,61,6,1,0,29,0,0,4,4,1,6,1
+2622830132,Лукьянова Наталия Александровна,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2307385199,Robert H. Woods,Spring Arbor University,comtheo_randoms,26,407,10,0,1,297,0,104,5,4,1,0,0
+2036137081,Maria-Cruz Villa-Uriol,University of Sheffield,comtheo_randoms,35,578,18,8,0,512,45,0,12,12,1,1,1
+2064378854,Hazael Jiménez Amador,University of Oviedo,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+1764812502,Steven A. McCornack,Michigan State University,comtheo_randoms,21,2232,20,0,0,2231,0,0,14,14,2,339,1
+2347112633,Mark Ward,,comtheo_randoms,2,4,2,0,0,4,0,0,1,1,2,4,1
+1892604368,Hardeep Singh Anant,"Panjab University, Chandigarh",comtheo_randoms,5,4,0,0,0,0,0,0,2,2,1,0,0
+2721596952,David Paterno,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2631472502,Rasco Hartig-Perschke,Hamburg University of Technology,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2285434599,Carlos del Valle Rojas,,comtheo_randoms,2,4,1,0,0,2,0,0,2,2,1,2,1
+2102906057,Kathleen Ann Heiden,Iowa State University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2185995038,Y. V. Lo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+967663098,Omer Dickstein,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+649364785,Nathalie A. Cabrol,Search for extraterrestrial intelligence,comtheo_randoms,178,6553,90,9,7,5907,408,17,39,39,1,17,1
+2477940553,Tim Wharton,University of Brighton,comtheo_randoms,27,718,11,0,0,563,0,0,5,5,1,3,1
+2690825762,Kenneth B Perlmutter,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+171646288,Omar Shehryar,Montana State University,comtheo_randoms,9,217,9,0,0,217,0,0,5,5,1,0,0
+2483359009,John Bowman Thomas,,comtheo_randoms,3,267,0,0,0,0,0,0,3,3,1,220,1
+2120632357,Andrew J. Cannon,Flinders University,comtheo_randoms,9,9,3,0,0,1,0,0,2,2,1,1,1
+2083535139,Hugo Gabriel Eyherabide,Helsinki Institute for Information Technology,comtheo_randoms,8,110,7,0,0,109,0,0,5,5,1,0,0
+274365032,Steeve Zozor,Centre national de la recherche scientifique,comtheo_randoms,113,1155,39,13,0,1084,31,0,16,16,1,2,1
+2159552940,Andrea Cooper,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2099307905,Seunghyeon Hwang,Syracuse University,comtheo_randoms,10,107,5,6,0,92,15,0,5,5,1,55,1
+2722990646,Hans-Georg Werner,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2576262414,Peng Bin,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2973870936,G. Caire,,comtheo_randoms,1,18,1,0,0,18,0,0,1,1,1,18,1
+2496679960,Christina Slade,Bath Spa University,comtheo_randoms,194,259,24,0,0,155,0,0,7,7,1,1,1
+2416590918,Maureen Green,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2655663232,Vincent Blok,,comtheo_randoms,7,2,3,0,0,2,0,0,1,1,1,0,0
+2132284269,Ronald C. Arnett,Duquesne University,comtheo_randoms,64,784,36,0,0,371,0,0,14,14,3,8,1
+2896637455,Maureen Wieland,Purdue University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2901601829,Yovanca Natalia Pradipta Puteri,Satya Wacana Christian University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2579357624,Robert Marley,University of Tampa,comtheo_randoms,16,10,9,0,0,7,0,0,2,2,1,2,1
+2097131302,Seok Kang,University of Texas at San Antonio,comtheo_randoms,46,823,31,0,0,809,0,0,10,10,1,84,1
+2645116209,Gerard Allwein,,comtheo_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2628874821,J. Ryerson,,comtheo_randoms,14,0,0,0,0,0,0,0,0,0,3,0,0
+2593327025,Sherry L. Barr,Princeton University,comtheo_randoms,2,9,1,0,0,3,0,0,2,2,1,6,1
+2990040522,Ruesch J,,comtheo_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+384499075,R. Malayan,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1541377664,Ulf Liszkowski,University of Hamburg,comtheo_randoms,102,4679,47,1,0,4298,0,0,22,22,1,22,1
+2154366596,José Hoover Vanegas,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+2698079599,Jeanette Bopry,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2076522775,Stefanie M. Helmer,Leibniz Association,comtheo_randoms,32,217,22,0,4,204,0,10,6,6,1,0,0
+1979121023,Priscilla F. Grissom,North Carolina State University,comtheo_randoms,5,51,3,0,0,49,0,0,3,3,1,19,1
+2915544787,G. Selvaggi,University of Bari,comtheo_randoms,1774,108640,387,1,0,12684,0,0,59,59,1,0,0
+2611981644,Загидуллина Марина Викторовна,,comtheo_randoms,28,0,0,0,0,0,0,0,0,0,1,0,0
+2007160667,Nicholas E. Hagemeier,East Tennessee State University,comtheo_randoms,135,298,54,0,1,297,0,1,11,11,1,0,0
+2299388862,Абрамов Александр Петрович,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2617284174,Fitrian Resmala P,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2421681863,Antonio Mauricio Ferreira Leite Miranda de Sá,Federal University of Rio de Janeiro,comtheo_randoms,45,232,29,5,0,200,10,0,10,10,1,3,1
+330253016,Patrice M. Buzzanell,University of South Florida,comtheo_randoms,203,3448,88,10,0,3116,7,0,26,26,2,2,1
+2177757545,Allan R. Broadhurst,University of Connecticut,comtheo_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+2651943286,Wensheng Zhang,Shandong University,comtheo_randoms,59,402,25,33,2,345,57,84,8,6,1,1,1
+2622591652,E. V. Tolstolutskaya,,comtheo_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2700188644,Jessica J. Eckstein,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2510603890,Ekaterina Yumkina,,comtheo_randoms,4,1,2,0,0,0,0,0,1,1,1,0,0
+1853476546,Seri Wongmonta,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1968190849,F. Combley,University of Sheffield,comtheo_randoms,449,26294,414,1,0,24595,4,0,65,65,1,0,0
+143071620,Florence L. Stahura,,comtheo_randoms,33,1061,27,1,0,1037,5,0,16,16,1,114,1
+1997726331,Justin D. Weisz,IBM,comtheo_randoms,52,337,2,15,0,1,237,0,8,8,1,6,1
+1982116827,Krishna P. Gummadi,Max Planck Society,comtheo_randoms,165,24000,10,115,0,637,23053,0,50,50,1,0,0
+2126263344,Maged Elkashlan,Queen Mary University of London,comtheo_randoms,236,8543,121,90,14,7309,731,2076,47,42,2,20,1
+2660613771,Nicholas Garnham,,comtheo_randoms,3,111,3,0,0,111,0,0,3,3,1,96,1
+24178802,Janet Beavin Bavelas,University of Victoria,comtheo_randoms,74,6580,50,2,0,3827,0,0,26,26,1,1,1
+2141516653,Allison Eden,Michigan State University,comtheo_randoms,64,1345,34,0,0,1314,0,0,13,13,1,1,1
+2989464249,Hornung R,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2301149204,Snezana Mirascieva,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2984414685,Elizabeth A More,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2256115744,Laura Reissner,,comtheo_randoms,13,9,0,0,0,0,0,0,2,2,1,2,1
+2994839708,B. A. Panov,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2170659199,Andreas Nürnberger,Otto-von-Guericke University Magdeburg,comtheo_randoms,256,3616,24,119,5,1348,1303,1116,22,21,1,5,1
+2294183192,Leonardo Chiariglione,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2974476719,Zsolt Öry,Siemens,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2382537427,Zhang Shu-kui,Technology College,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2705650433,党静萍,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2981265580,Ils Umuc,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2653257180,Eric W. (Walter) Rothenbuhler,,comtheo_randoms,1,211,0,0,0,0,0,0,1,1,1,211,1
+2493680683,Maudie L. Graham,University of Wisconsin–Milwaukee,comtheo_randoms,4,111,4,0,0,111,0,0,4,4,1,18,1
+2130684954,Kathleen Glenister Roberts,Duquesne University,comtheo_randoms,14,57,8,0,0,30,0,0,5,5,2,11,1
+2148091075,Magnus Hultén,Linköping University,comtheo_randoms,51,469,19,0,2,407,0,6,7,7,1,1,1
+2103420606,Kenneth P. Adler,University of Chicago,comtheo_randoms,4,9,4,0,0,9,0,0,1,1,1,0,0
+2974405063,Johanna Fawkes,Leeds Beckett University,comtheo_randoms,4,50,3,0,0,50,0,0,3,3,1,24,1
+1620309520,Elena Ilina,Royal Institute of Technology,comtheo_randoms,5,3,5,0,0,3,0,0,1,1,1,1,1
+2799569495,Безгодов Дмитрий Николаевич,,comtheo_randoms,8,0,0,0,0,0,0,0,0,0,1,0,0
+1969708757,Elizabeth J. Van Every,Université de Montréal,comtheo_randoms,9,1084,2,0,0,4,0,0,4,4,1,675,1
+2984483312,Peterson T,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2640095734,Richard Hatch,Science Research Associates,comtheo_randoms,2,5,2,0,0,5,0,0,1,1,1,5,1
+2021182864,Gregory Kabatianskii,Russian Academy of Sciences,comtheo_randoms,10,539,2,5,0,145,272,0,8,8,1,73,1
+2907146865,Amy Lippo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1983827262,Roger Forty,CERN,comtheo_randoms,2176,44221,1705,1,0,34928,3,0,105,105,1,0,0
+2661879475,Mario Plenković,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2902626417,Amy Lippo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2943312159,Abel Chen Wei,Chu Hai College of Higher Education,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2353946621,Zhao Guo-xi,Anshan Normal University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2636493490,Koubun Wakashima,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2641576008,Kuan Quan Wang,Harbin Institute of Technology,comtheo_randoms,5,2,5,0,0,2,0,0,1,1,1,0,0
+2131076141,Henri Maitre,École Normale Supérieure,comtheo_randoms,100,2990,38,15,1,1782,300,1,22,22,1,16,1
+2499283356,L. Edna Rogers,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2666409714,David Cook,,comtheo_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2091480921,Dariusz W. Szczepanik,Jagiellonian University,comtheo_randoms,28,296,28,0,0,296,0,0,12,12,1,7,1
+2998703016,J. Suares,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2034073365,T.G. Hodgkinson,BT Group,comtheo_randoms,29,730,22,6,0,676,36,0,14,14,1,10,1
+2398093578,E. Colin Cherry,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2687215041,Ben Sheppard,,comtheo_randoms,2,81,0,0,0,0,0,0,2,2,1,73,1
+2996178185,P. F. Poliakov,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2511797499,Christine S. Davis,University of North Carolina at Charlotte,comtheo_randoms,61,697,22,0,0,549,0,0,7,7,2,3,1
+2077589118,Raymond L. Gorden,Antioch College,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2635887034,Gwiyeoroo Ahn,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2673449095,LI Chuan-wu,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2127573250,Eleanor Sandry,Curtin University,comtheo_randoms,19,48,5,0,0,20,0,0,3,3,6,32,2
+2280175321,George S. Tombras,National and Kapodistrian University of Athens,comtheo_randoms,101,752,46,32,0,628,62,0,15,15,1,0,0
+2490748148,J. Patrick Fitch,University of California,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2423711632,Keith Oatley,University of Toronto,comtheo_randoms,163,13239,125,0,0,10354,0,0,33,33,1,294,1
+2502021111,Ling Xi,Central South University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2636709350,Ben Krueger,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2735653312,Розенберг Наталья Владимировна,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1987215117,Jaakko Hintikka,Boston University,comtheo_randoms,442,15057,184,1,0,4209,28,0,59,59,1,95,1
+2665607129,Therese Johansson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2163133682,Phan-Minh Nguyen,Stanford University,comtheo_randoms,9,263,5,3,0,160,41,0,8,8,1,28,1
+2469719676,Ronald E. Foust,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2973328925,C. Weber,,comtheo_randoms,1,9,1,0,0,9,0,0,1,1,1,9,1
+2608749159,Ralph Frasca,,comtheo_randoms,3,0,3,0,0,0,0,0,0,0,1,0,0
+2779129125,Jessica H Huss,University of Kassel,comtheo_randoms,6,15,5,0,0,15,0,0,3,3,1,7,1
+2169296842,Timothy J. Brennan,"University of Maryland, Baltimore County",comtheo_randoms,145,1552,79,0,1,1137,0,10,16,16,1,8,1
+2787663259,S. L. Cartwright,Rutherford Appleton Laboratory,comtheo_randoms,207,4001,162,0,0,3409,0,0,18,18,1,0,0
+2156914654,José Marques de Melo,University of São Paulo,comtheo_randoms,17,39,10,0,0,39,0,0,3,3,1,24,1
+2513959985,Lyudmila Pochebut,,comtheo_randoms,2,1,0,0,0,0,0,0,1,1,1,0,0
+2167436247,Justin Mary,Claremont Graduate University,comtheo_randoms,10,87,2,7,0,31,54,0,5,5,1,18,1
+2766107835,Kaarle Nordenstreng,,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2941732818,Jean-Paul Watson,United States Environmental Protection Agency,comtheo_randoms,47,206,1,0,0,75,0,0,7,7,1,5,1
+2138726797,Elizabeth E. Graham,Ohio University,comtheo_randoms,43,1337,20,0,0,1326,0,0,13,13,2,112,2
+2747026197,Akira Ishimaru,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2893871724,Philip Alford,University of Bedfordshire,comtheo_randoms,3,32,1,2,0,28,4,0,2,2,1,2,1
+2228219052,Gerald M. Phillips,Pennsylvania State University,comtheo_randoms,51,973,41,0,0,930,0,0,13,13,1,7,1
+2183678658,G. Ungerbock,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2142623676,Janusz Mrozek,Jagiellonian University,comtheo_randoms,32,1171,32,0,0,1171,0,0,15,15,1,7,1
+2892498157,Alexander Kozin,University of Sussex,comtheo_randoms,14,5,6,0,0,5,0,0,1,1,1,0,0
+2504030203,John H. Hamer,,comtheo_randoms,5,5,5,0,0,5,0,0,1,1,1,3,1
+2996261129,J. A. Bucklew,,comtheo_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2257653794,W. Richard Whitaker,,comtheo_randoms,18,14,0,0,0,0,0,0,1,1,1,0,0
+2582076281,Rafael Grohmann,Faculdade Cásper Líbero,comtheo_randoms,13,0,4,0,0,0,0,0,0,0,1,0,0
+2478798922,D. J. Krieger,,comtheo_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+2641444506,Noboru Tanaka,Gifu University,comtheo_randoms,7,0,2,0,0,0,0,0,0,0,1,0,0
+2941631258,Hannes Risken,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2352190846,KE Zhuo-ying,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2171443568,Robert M. Hayes,"University of California, Los Angeles",comtheo_randoms,36,297,26,9,2,167,129,19,6,5,2,110,1
+2636731578,M. Kutter,,comtheo_randoms,1,18,1,0,1,18,0,18,1,0,1,18,1
+2513342341,Volkan Yuncu,,comtheo_randoms,5,0,3,0,1,0,0,0,0,0,1,0,0
+2618178220,Peter Gardner,University of Leeds,comtheo_randoms,65,1855,52,3,0,1826,16,0,18,18,1,0,0
+2692366548,I.F. Blake,Jet Propulsion Laboratory,comtheo_randoms,1,6,0,0,0,0,0,0,1,1,1,6,1
+1975579869,Margaret H. DeFleur,Syracuse University,comtheo_randoms,10,349,6,0,0,308,0,0,7,7,1,22,1
+2658779179,Toufiq Ahmed,Chittagong University of Engineering & Technology,comtheo_randoms,3,0,0,2,0,0,0,0,0,0,1,0,0
+2260230227,Richard L. Conville,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2577256014,FU Zhi-yi,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2066944320,Liv Tveit Walseth,University of Bergen,comtheo_randoms,6,81,6,0,0,81,0,0,5,5,1,10,1
+2390474064,Chen Jin-sheng,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2141934489,E. A. Feukeu,Tshwane University of Technology,comtheo_randoms,17,46,8,8,0,23,23,0,4,4,3,13,2
+2904404216,Emil Jesman Sunde,University of Rhode Island,comtheo_randoms,1,0,1,0,1,0,0,0,0,0,1,0,0
+2995304887,JuheeHahn,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2308608303,Douglas E. Appelt,SRI International,comtheo_randoms,52,7165,8,27,0,2266,1645,0,28,28,1,1,1
+2250319874,Jayan Chirayath Kurian,RMIT International University,comtheo_randoms,14,46,4,5,0,26,16,0,3,3,1,0,0
+233636626,Frank Gronwald,University of Siegen,comtheo_randoms,80,907,29,21,0,495,34,0,14,14,1,2,1
+2431142204,R. M. K. Wagner,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2585865342,V. Biloveski,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2706398529,AI Jian-a,Agricultural & Applied Economics Association,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+565292815,Heinz Steinbring,University of Duisburg-Essen,comtheo_randoms,84,1267,20,0,0,654,0,0,16,16,1,0,0
+2675369104,Holly Morganelli,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2916569524,Luis Fernandez,University of Barcelona,comtheo_randoms,20,163,14,1,0,158,0,0,6,6,1,1,1
+2345961217,Margaret Grace Andrea,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2108168676,Sebastián Villa,University of Los Andes,comtheo_randoms,12,55,4,0,0,38,0,0,5,5,1,6,1
+2480953859,Sergio Gomes da Silva,Federal University of Rio de Janeiro,comtheo_randoms,7,11,1,0,0,9,0,0,2,2,1,0,0
+1980551179,Richard Bellman,University of Southern California,comtheo_randoms,600,56347,417,3,5,24196,16,134,78,78,1,16,1
+2153162466,Michael W. Kramer,University of Oklahoma,comtheo_randoms,92,2742,62,0,0,2366,0,0,22,22,2,105,2
+2644725504,Judith Anderson,University of Rhode Island,comtheo_randoms,3,17,3,0,0,17,0,0,2,2,1,13,1
+2986667175,Estika Wida,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2137442479,Nurrist Surayya Ulfa,,comtheo_randoms,21,0,0,0,0,0,0,0,0,0,1,0,0
+2637307069,QU Tiehua,Northeast Normal University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2225830458,Christiane L. Kameni Ngassa,Thales Communications,comtheo_randoms,13,107,3,7,0,31,76,0,4,4,1,51,1
+2656442456,Holly Morganelli,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1985107232,G. Fouque,École Polytechnique,comtheo_randoms,120,12137,110,1,0,11369,1,0,34,34,1,0,0
+2631933422,Chia-Ying Li,National Taichung University of Science and Technology,comtheo_randoms,2,6,2,0,0,6,0,0,1,1,1,5,1
+2723845223,Robert Engberg,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2118637756,Jiahua Chen,University of British Columbia,comtheo_randoms,111,5226,91,0,10,4749,0,704,30,28,2,6,1
+2652047961,Eugene J. Ferrari,,comtheo_randoms,2,5,0,0,0,0,0,0,1,1,1,1,1
+2808319481,Yixiao Wang,Cornell University,comtheo_randoms,8,5,0,6,0,0,4,0,1,1,3,0,0
+2713060947,J. W. Layland,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2343251105,Erin de la Mare,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2152066875,Brian K. Boyd,City University of Hong Kong,comtheo_randoms,60,10370,40,0,0,10122,0,0,29,29,1,545,1
+2806055156,Andrew Potter,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2604365889,David Jayne,University of Leeds,comtheo_randoms,4,7,0,1,0,0,7,0,1,1,1,0,0
+2122361979,Saleem H. Ali,University of Delaware,comtheo_randoms,206,5027,86,0,1,3499,0,267,22,21,1,8,1
+2104867395,Haidar Ali,"Government College University, Faisalabad",comtheo_randoms,16,148,9,0,0,139,0,0,5,5,1,3,1
+2004261629,Jean-Marc Andreoli,Xerox,comtheo_randoms,76,1913,12,27,1,664,376,4,20,20,1,4,1
+2642585297,Yao Yun,Shenyang University,comtheo_randoms,4,0,4,0,0,0,0,0,0,0,1,0,0
+115521103,Kate Magsamen-Conrad,Bowling Green State University,comtheo_randoms,36,558,25,0,0,544,0,0,12,12,1,80,1
+2745575209,赵祎,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2144151823,Jeffrey T. Hancock,Stanford University,comtheo_randoms,162,12730,66,51,3,8745,3334,6,48,48,1,1,1
+2390668062,Wang Jun-chao,Tsinghua University,comtheo_randoms,4,0,4,0,0,0,0,0,0,0,1,0,0
+2974762176,Allyson D. Adrian,,comtheo_randoms,1,75,1,0,0,75,0,0,1,1,1,75,1
+2621972120,Daniel J. Klein,"University of California, Santa Barbara",comtheo_randoms,43,1838,28,14,1,1126,705,22,20,20,1,54,1
+2233365195,Stuart A. Kurtz,University of Chicago,comtheo_randoms,51,1540,20,23,0,875,477,0,19,19,1,0,0
+17935254,Tamir Sheafer,Hebrew University of Jerusalem,comtheo_randoms,72,3724,44,1,0,3699,1,0,21,21,1,186,1
+2523012528,Rizka Amalia Putri,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+256468453,Iwan Triyuwono,University of Brawijaya,comtheo_randoms,41,19,17,0,0,6,0,0,3,3,1,1,1
+1270489289,Maria K. Venetis,Purdue University,comtheo_randoms,31,508,24,0,0,500,0,0,10,10,2,80,1
+2421337337,Xu Jian,Shanghai University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2158578300,Allen S. Lee,Virginia Commonwealth University,comtheo_randoms,103,13412,52,29,1,10693,457,10,25,25,1,1038,1
+2676839083,Jun-Dong Cho,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2802333986,E. Ezhova,North-Caucasus Federal University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2751063616,Bernhard Mühlherr,University of Giessen,comtheo_randoms,47,414,32,0,0,301,0,0,13,13,1,17,1
+2418919841,Kristen Welsh,,comtheo_randoms,7,1,0,0,0,0,0,0,1,1,1,0,0
+2157773992,C. Grupen,University of Siegen,comtheo_randoms,538,16884,422,0,0,15563,0,0,61,61,1,0,0
+2678027071,J. C. Lindenlaub,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2934321398,Sarah Hamdar,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2346193372,Elissa A. Adame,Arizona State University,comtheo_randoms,8,9,7,0,0,9,0,0,2,2,1,0,0
+260582945,Eric Dacheux,Blaise Pascal University,comtheo_randoms,93,95,37,0,0,48,0,0,4,4,1,0,0
+359447312,F. Prulhiere,Blaise Pascal University,comtheo_randoms,97,6092,94,0,0,6091,0,0,29,29,1,0,0
+2127798501,Cayley Guimarães,Federal University of Paraná,comtheo_randoms,28,71,5,17,0,6,65,0,6,6,1,1,1
+2623215201,Lacouture Cotes,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1273800634,Vassilis Moustakis,Technical University of Crete,comtheo_randoms,110,2263,64,24,3,2043,119,16,19,19,1,1,1
+1400986009,Patrick Burkart,Texas A&M University,comtheo_randoms,34,732,17,0,0,363,0,0,11,11,1,0,0
+2296848936,Gina Calia-Lotz,,comtheo_randoms,237,0,0,0,0,0,0,0,0,0,3,0,0
+2056937161,Noshir Contractor,Northwestern University,comtheo_randoms,246,16028,89,65,1,11256,840,11,44,44,3,2726,2
+2228729161,Mi-Jeong Kim,Sejong University,comtheo_randoms,27,220,18,7,0,209,11,0,6,6,1,0,0
+2994013058,Betteke van Ruler,University of Amsterdam,comtheo_randoms,13,859,11,0,0,733,0,0,11,11,3,108,3
+2169871300,Lili Kang,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2363868583,Chen Li-dan,Renmin University of China,comtheo_randoms,19,1,19,0,0,1,0,0,1,1,1,0,0
+2156328386,Matthias Rose,Humboldt University of Berlin,comtheo_randoms,268,9110,250,0,1,9084,0,1,37,37,1,0,0
+2973724097,D. Sakrison,,comtheo_randoms,1,30,1,0,0,30,0,0,1,1,1,30,1
+2768954018,J. Nugent,,comtheo_randoms,1,23,0,0,0,0,0,0,1,1,1,23,1
+2160970222,Zhuojun Zhuang,Shanghai Jiao Tong University,comtheo_randoms,16,63,5,10,0,17,46,0,5,5,1,1,1
+2922573184,М.М. Каинова,,comtheo_randoms,5,0,1,0,0,0,0,0,0,0,1,0,0
+2722840571,Danielle Halliwell,,comtheo_randoms,1,14,1,0,0,14,0,0,1,1,1,14,1
+385752723,Graeme D. Ruxton,University of St Andrews,comtheo_randoms,446,18189,363,1,1,14179,62,2,70,70,2,10,2
+2724162605,Adri A Casamitjana,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2625422055,Basanti Pradhan,,comtheo_randoms,19,0,0,0,0,0,0,0,0,0,1,0,0
+2473127050,Robert N. St,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2636855415,Saul Shapiro,,comtheo_randoms,1,0,1,1,0,0,0,0,0,0,2,0,0
+2995786759,Larry L. Barker,Auburn University,comtheo_randoms,14,262,13,0,0,234,0,0,8,8,1,0,0
+2476525448,Robert M. Smith,Wichita State University,comtheo_randoms,5,7,4,0,0,7,0,0,2,2,1,1,1
+1374858025,Zehra Altinay,Near East University,comtheo_randoms,69,188,47,5,0,178,0,0,7,7,1,0,0
+2169891866,Haibo Du,Hefei University of Technology,comtheo_randoms,109,3976,73,32,1,3773,174,0,29,29,1,0,0
+2254800126,Elise Sugarman,Stanford University,comtheo_randoms,2,21,2,0,0,21,0,0,2,2,1,7,1
+2102653216,Martin Zwick,Portland State University,comtheo_randoms,92,867,39,13,0,715,29,0,13,13,1,0,0
+2863283302,W. Chen,University of Wisconsin-Madison,comtheo_randoms,60,1913,55,0,0,1913,0,0,18,18,1,0,0
+2900789924,Hi Lee Sang,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2660474750,Pamela K. Lake,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2003856456,Jesse G. Delia,University of Illinois at Urbana–Champaign,comtheo_randoms,37,2488,32,0,0,2380,0,0,21,21,1,19,1
+2300811881,Горбачева Ольга Николаевна,,comtheo_randoms,6,0,0,0,0,0,0,0,0,0,1,0,0
+340118294,Roman F. Nalewajski,Jagiellonian University,comtheo_randoms,198,5429,148,0,0,4796,0,0,32,32,8,306,7
+2632000933,YU Jian-hui,Putian University,comtheo_randoms,3,1,3,0,0,1,0,0,1,1,1,0,0
+2948931186,Matilda Larsson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2236369427,Carlos J. Costa,University of Lisbon,comtheo_randoms,288,1779,55,85,2,821,279,7,19,19,3,3,1
+2730188708,Cyntia Bella Praditta,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2118201721,Daniel Zeng,Chinese Academy of Sciences,comtheo_randoms,312,6361,95,162,4,4403,1667,6,31,31,1,7,1
+2944245912,Elizabeth H. Lazzara,Wichita State University,comtheo_randoms,14,1,0,0,0,0,0,0,1,1,1,0,0
+2585738406,Alexander Lyon,State University of New York at Brockport,comtheo_randoms,8,47,7,0,0,47,0,0,5,5,1,11,1
+2329821893,Chae-Bong Lim,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2143946457,Autumn Edwards,Western Michigan University,comtheo_randoms,31,506,18,8,0,495,6,0,8,8,2,7,1
+2664593556,Gordan Gulan,,comtheo_randoms,3,2,0,3,0,0,2,0,1,1,2,2,1
+2115851291,Kenneth E. Andersen,,comtheo_randoms,1,24,0,0,0,0,0,0,1,1,1,24,1
+2983566474,N. Sourlas,,comtheo_randoms,1,57,1,0,0,57,0,0,1,1,1,57,1
+2683589996,Marek Hetmański,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2665701163,H. H. Pattee,,comtheo_randoms,1,10,1,0,0,10,0,0,1,1,1,10,1
+2122352801,M. Chen,University of Arizona,comtheo_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2645886928,D. Gabor,Imperial College London,comtheo_randoms,1,56,1,0,1,56,0,56,1,0,1,56,1
+2995798055,Wen Xu,Huawei,comtheo_randoms,4,13,2,1,0,7,2,0,3,3,1,1,1
+2105045791,Suzanne Pingree,University of Wisconsin-Madison,comtheo_randoms,94,5909,77,3,1,5440,144,0,39,39,1,1,1
+2997486898,G. S. Nakhmanson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2689196036,Ricardo Baeza Yates,,comtheo_randoms,1,27,0,0,0,0,0,0,1,1,1,27,1
+2391310796,Peng We,Lanzhou University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2612795710,"Jason B. McConnell, Jd, PhD Candidate",,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2974340435,A. Gottschalk,University of Pennsylvania,comtheo_randoms,1,9,0,1,0,0,9,0,1,1,1,9,1
+2462199899,Jean-Claude Montret,Blaise Pascal University,comtheo_randoms,280,9618,245,0,0,9591,0,0,54,54,1,0,0
+2702742378,Il-Hyun Jo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2643187600,R. W. Sutton,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2885421169,Loyd Tinarwo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2864850957,Yu Xu,University of Science and Technology of China,comtheo_randoms,18,559,11,0,0,549,0,0,5,5,1,17,1
+2669865882,Holly Morganelli,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2666084721,Dong Kui,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2082707716,Laura Chamberlain,Aston University,comtheo_randoms,21,1311,11,0,0,1233,0,0,9,9,1,1,1
+2461403037,José Luiz Aidar Prado,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2675532572,Richard Bellman,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+309600227,Takis Mathiopolous,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2708514216,Anthony S. Rausch,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1915903445,Jan Servaes,,comtheo_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+2123981907,David C. Sullivan,"University of California, San Francisco",comtheo_randoms,4,82,4,0,0,82,0,0,4,4,1,17,1
+2511140476,John A. Fortunato,Fordham University,comtheo_randoms,23,176,15,0,0,167,0,0,6,6,1,8,1
+2345813865,Joanne L. Cattafesta,,comtheo_randoms,1,18,1,0,0,18,0,0,1,1,1,18,1
+2950672306,Mi Parsons,University of Edinburgh,comtheo_randoms,150,3556,142,0,0,3547,0,0,22,22,1,0,0
+2660519414,Yi Xian Yang,Beijing University of Posts and Telecommunications,comtheo_randoms,2,10,2,0,0,10,0,0,2,2,1,2,1
+2900785673,Dewi Kartika Sari,Satya Wacana Christian University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2013526578,Edvin Schei,University of Bergen,comtheo_randoms,89,398,82,0,0,390,0,0,11,11,1,10,1
+2631584176,A. Schief,,comtheo_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+2948133381,Dong Yue,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2660537154,Calvin N. Mooers,,comtheo_randoms,15,335,9,5,1,316,19,13,6,5,1,131,1
+2747998579,Sara Sharun,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2037263982,Keqin Feng,Tsinghua University,comtheo_randoms,54,1636,40,3,0,1304,283,0,17,17,3,15,2
+2104353229,R. Alemany,CERN,comtheo_randoms,253,2972,230,0,0,2936,0,0,24,24,1,0,0
+2170715384,Sudarsan V. S. Ranganathan,"University of California, Los Angeles",comtheo_randoms,21,77,4,12,0,13,47,0,5,5,1,0,0
+2135965522,T. Bernhardt,Durham University,comtheo_randoms,1,15,1,0,0,15,0,0,1,1,1,15,1
+2145538250,James W. Tankard,,comtheo_randoms,5,1064,0,0,0,0,0,0,3,3,2,1036,2
+2588595035,Efe Sevin,University of Fribourg,comtheo_randoms,34,284,14,1,0,269,6,0,7,7,1,0,0
+2859331385,William J. McGuire,,comtheo_randoms,1,16,1,0,0,16,0,0,1,1,1,16,1
+2916510682,Antonio Pedro Aguiar,University of Porto,comtheo_randoms,39,425,23,5,0,326,48,0,12,12,1,0,0
+2116836259,Svenja Simon,University of Konstanz,comtheo_randoms,21,213,13,2,0,147,44,0,10,10,1,0,0
+2421390897,A. G. Bose,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,2,0,0
+1967034565,Desi Dwi Prianti,,comtheo_randoms,5,0,1,0,0,0,0,0,0,0,2,0,0
+2715819528,L.R. Abramson,Columbia University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2161226064,Hao-jie Lin,Shanghai University,comtheo_randoms,4,14,0,2,0,0,13,0,1,1,1,1,1
+1134814703,Jeffrey W. Godden,"Albany Molecular Research, Inc.",comtheo_randoms,36,1117,32,1,0,1110,5,0,18,18,2,126,2
+2423619164,A. M. Bush,,comtheo_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2250648103,Hülya Eraslan,Rice University,comtheo_randoms,30,1053,17,0,0,1015,0,0,10,10,1,1,1
+2290017669,R. B. Kieburtz,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2973668219,Frans Louis Henri Marie Stumpers,,comtheo_randoms,1,9,1,0,0,8,0,0,1,1,2,9,1
+1941580188,Thomas D. Parsons,University of North Texas,comtheo_randoms,200,6751,98,38,0,5203,885,0,39,39,1,0,0
+2107534861,E. Barbiero,,comtheo_randoms,20,27,17,0,0,27,0,0,2,2,1,0,0
+2231394236,Xing Tongchao,,comtheo_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2571849605,I. A. Richards,University of Cambridge,comtheo_randoms,85,9871,16,0,0,794,0,0,16,16,1,0,0
+2724954838,Colleen Garside,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2710088124,Allenna Leonard,,comtheo_randoms,2,52,2,0,0,52,0,0,1,1,1,52,1
+2902909470,A Azari,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2420476190,Carlton M. Caves,University of New Mexico,comtheo_randoms,190,23834,153,8,0,23397,5,0,62,62,1,3,1
+392560331,Ed McLuskie,,comtheo_randoms,7,7,7,0,0,7,0,0,2,2,3,2,1
+2974836214,R. Esposito,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2667370188,William F. Eadie,,comtheo_randoms,1,9,1,0,0,9,0,0,1,1,1,9,1
+256396728,Simbayi Yafele,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2996577011,E. R. Miliutin,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2974975645,N. Doniy,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+777830168,Teofil N. Canji,University of Windsor,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2746237024,J. B. Cain,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2465534557,David S. Kaufer,Carnegie Mellon University,comtheo_randoms,95,2775,50,11,0,1405,948,0,21,21,1,125,1
+2236262924,Michael Schmitt,Heidelberg University,comtheo_randoms,1753,17885,1201,1,0,10642,0,0,59,59,1,0,0
+2153623353,V. Umapathi Reddy,Indian Institute of Science,comtheo_randoms,3,22,3,0,0,22,0,0,2,2,1,1,1
+2656774200,Andrzej Adamski,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2810176408,Ana Thereza Nogueira Soares,University of Brasília,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2810364934,Rob Anderson,Saint Louis University,comtheo_randoms,25,831,7,0,0,206,0,0,11,11,2,148,2
+2628174612,Barbara Bren,,comtheo_randoms,157,0,0,0,1,0,0,0,0,0,2,0,0
+2608517981,J. Marshall Unger,Ohio State University,comtheo_randoms,39,397,27,0,0,212,0,0,11,11,1,51,1
+2141870308,Santiago Marco,University of Barcelona,comtheo_randoms,240,3732,143,38,0,3337,313,0,29,29,1,1,1
+3000124865,S.V. Sleptsova,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2079224382,Nathaniel A. Eiseman,Harvard University,comtheo_randoms,6,152,6,0,0,152,0,0,4,4,1,1,1
+2946895146,Ranni Zhang,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2278428722,Satoshi Obana,Tokyo Institute of Technology,comtheo_randoms,6,113,2,4,0,4,109,0,4,4,1,22,1
+2671121274,Dorothy Carner,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2062107818,Julia Peltason,Bielefeld University,comtheo_randoms,18,187,2,9,1,16,159,11,8,7,1,1,1
+2724055968,Huey-Dong Wu,National Taiwan University,comtheo_randoms,19,134,4,14,0,83,51,0,6,6,1,8,1
+2111571836,Susan E. Parker,Tufts University,comtheo_randoms,12,2,12,0,0,2,0,0,1,1,1,0,0
+2767147116,Jinmi Lezama,,comtheo_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2688192967,Pan Hong-yue,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2607568923,Joel G. Smith,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2121487027,Robert Stanley Svob,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2169795820,J. Carr,Aix-Marseille University,comtheo_randoms,251,6946,221,0,1,6705,0,91,36,35,1,0,0
+2985382526,Pere Julià,,comtheo_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2531761406,Denise de Oliveira De Rocchi,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2636466845,Jiyeon Yang,,comtheo_randoms,8,2,8,0,0,2,0,0,1,1,1,1,1
+2421690265,J. Lesh,,comtheo_randoms,11,4,0,0,0,0,0,0,1,1,2,1,1
+2642606140,Warren Sandmann,,comtheo_randoms,4,1,4,0,0,1,0,0,1,1,1,0,0
+2233998967,John T. Gullahorn,Michigan State University,comtheo_randoms,16,982,8,1,1,950,6,10,8,7,1,0,0
+2103583403,Natalie Pennington,University of Kansas,comtheo_randoms,14,318,10,0,0,312,0,0,5,5,1,0,0
+2742322629,刘郅轩,,comtheo_randoms,4,0,0,0,0,0,0,0,0,0,2,0,0
+2341788993,Steve Lee Short,,comtheo_randoms,1,10,0,0,0,0,0,0,1,1,1,10,1
+2525537535,Peter M. Elias,Massachusetts Institute of Technology,comtheo_randoms,151,11833,134,0,0,10371,0,0,56,56,1,64,1
+2171129383,Graham Alsop,Kingston University,comtheo_randoms,37,76,5,1,0,41,4,0,5,5,1,2,1
+1817801860,Salma Monani,Gettysburg College,comtheo_randoms,34,234,17,0,0,139,0,0,6,6,1,4,1
+2911633829,Ф И Шарков,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2613978395,J. Kelsev,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2432184465,Peng Ji,Guangxi University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2124786480,Hugh W. Baxter,Boston University,comtheo_randoms,22,442,13,0,0,321,0,0,5,5,1,0,0
+2645096981,N. Blachman,,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2592166759,Ranjani L. Rao,Purdue University,comtheo_randoms,3,4,3,0,0,4,0,0,1,1,1,1,1
+2115286833,Barbara Davies,University of Ottawa,comtheo_randoms,90,2406,79,0,2,2330,0,21,24,24,1,19,1
+2522643973,W. A. Atherton,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1410711472,Zeljko Jericevic,University of Rijeka,comtheo_randoms,13,11,0,12,0,0,9,0,2,2,1,2,1
+2767034711,Елена Владимировна Фидченко,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2703075037,I.P. Kaminow,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1931511623,Alfredo De Santis,University of Salerno,comtheo_randoms,189,12225,91,87,0,7057,3861,0,46,46,4,873,4
+1981881973,Thomas Weissinger,University of Illinois at Urbana–Champaign,comtheo_randoms,9,52,9,0,0,52,0,0,5,5,1,8,1
+2628000972,Sarah Rowe,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2519992154,Penny A. Pasque,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1978774424,Michael Ruffner,Rutgers University,comtheo_randoms,2,3,2,0,0,3,0,0,1,1,1,2,1
+2551507263,Mohammad Ali Alaeddini,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2365864473,Zhou Da-yong,Jilin University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2191955108,E. Vance Wilson,Arizona State University,comtheo_randoms,71,1676,34,24,4,1521,65,14,17,17,1,18,1
+2601864179,Robert P. Snow,,comtheo_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2154704186,Robert Porter,Ulster University,comtheo_randoms,33,60,12,0,0,32,0,0,5,5,1,9,1
+2626170488,Dorothy U McCabe,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2521514199,Jung-Hoon Lee,Yonsei University,comtheo_randoms,83,1353,51,13,0,1210,111,0,14,14,1,21,1
+2664263250,Daniel Chornet-Roses,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+1990547515,Clyde Hendrick,Kent State University,comtheo_randoms,61,871,48,0,0,850,0,0,15,15,1,13,1
+2108534987,Rahul Jain,University of Southern California,comtheo_randoms,120,2310,29,56,0,1491,324,0,19,19,1,0,0
+2092067955,Sergei K. Turitsyn,Aston University,comtheo_randoms,681,11855,333,216,0,10177,1239,0,61,61,1,1,1
+1984197768,Keith Earle,"University at Albany, SUNY",comtheo_randoms,20,215,14,0,0,156,0,0,5,5,1,5,1
+2905598042,John Mulligan,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2481776872,Ronald L. Jackson,,comtheo_randoms,1,17,0,0,0,0,0,0,1,1,1,17,1
+2763497952,Feng Liu,Xi'an Jiaotong University,comtheo_randoms,4,4,2,2,0,2,2,0,2,2,1,0,0
+2607898545,Solomon W. Golomb,,comtheo_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2126812694,Stephen D. Perry,Illinois State University,comtheo_randoms,38,296,37,0,0,264,0,0,7,7,1,32,1
+2111783205,Anthony Pym,University of Melbourne,comtheo_randoms,142,6688,78,0,1,1916,0,25,24,23,1,74,1
+2232883134,Patricia Wright,Medical Research Council,comtheo_randoms,33,1082,28,2,1,948,105,135,15,14,1,32,1
+1965104080,Ahmet Gokceoglu,Tampere University of Technology,comtheo_randoms,19,211,8,7,0,153,31,0,9,9,1,22,1
+2348460462,V. González,Technical University of Madrid,comtheo_randoms,6,11,3,2,0,11,0,0,2,2,1,5,1
+1972049170,Wen-Guey Tzeng,National Chiao Tung University,comtheo_randoms,86,3479,43,35,0,2344,1122,0,25,25,1,51,1
+2101353441,Robert E. Kinzly,Calspan Corporation,comtheo_randoms,11,108,9,0,0,107,0,0,5,5,1,1,1
+2351742084,Zheng Ling-qian,University of Languages and International Studies,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2225523181,Mao Xinrong,Xi'an University of Science and Technology,comtheo_randoms,3,1,2,1,0,1,0,0,1,1,1,0,0
+944269554,Oliver Boyd-Barrett,Bowling Green State University,comtheo_randoms,98,1613,57,0,0,242,0,0,15,15,1,0,0
+2637873062,Gilberto Carrijo,,comtheo_randoms,2,4,0,1,0,0,0,0,1,1,1,4,1
+2698154933,Yang Zhaofeng,,comtheo_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+94547207,Masato Aketagawa,Nagaoka University of Technology,comtheo_randoms,78,315,54,2,0,307,1,0,11,11,1,2,1
+2104578957,Nilanjan De,Calcutta Institute of Engineering and Management,comtheo_randoms,45,220,21,0,0,157,0,0,9,9,1,1,1
+2909204512,Congying Cao,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2279461427,Helen Dorothy Cairns,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2649463952,Heath V. Tuttle,,comtheo_randoms,1,20,1,0,0,20,0,0,1,1,1,20,1
+2631319268,А. А. Колобова,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2578249969,Elizabeth A. Suter,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+571381288,Brian H. Spitzberg,San Diego State University,comtheo_randoms,140,9535,75,2,0,6205,6,0,43,43,1,277,1
+2102167397,Anna Banks,University of Idaho,comtheo_randoms,13,160,10,0,0,89,0,0,4,4,1,7,1
+2044019651,Florian Arendt,University of Vienna,comtheo_randoms,82,364,62,0,2,354,0,5,10,10,1,6,1
+2156059754,David Schiff,Queen Mary University of London,comtheo_randoms,51,1544,28,0,0,156,0,0,9,9,1,5,1
+2615834151,Rinie Schenck,,comtheo_randoms,1,30,0,0,0,0,0,0,1,1,1,30,1
+2665521329,E. O. Turner,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2309478536,Jane Weston,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2997341258,Дьяченко Ирина Александровна,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2023111390,Sue Eckstein,Brighton and Sussex Medical School,comtheo_randoms,12,26,12,0,0,26,0,0,2,2,1,0,0
+2048242842,Peter Seele,University of Lugano,comtheo_randoms,127,727,49,0,0,670,0,0,12,12,1,82,1
+2630766919,F. E. Jones,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2978807286,Arthur P. Bochner,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2571905936,Y. Ikeda,,comtheo_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+2806122462,Abdelkrim Bourouihiya,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2357233657,Cao Xiaojie,Renmin University of China,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2529213072,Shamsuri Saad,Universiti Teknikal Malaysia Melaka,comtheo_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2047078541,Wolfgang Nedobity,Infoterm,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2995654279,A. Ia. Klementenko,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2300663108,Geovania de Lima Pimenta,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2129790613,Matheson Russell,University of Auckland,comtheo_randoms,13,281,7,0,0,153,0,0,3,3,1,143,1
+2581914133,Michelle R. Munson,New York University,comtheo_randoms,78,2300,64,0,0,2297,0,0,19,19,1,10,1
+2702156003,D. Gabor,,comtheo_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+2342860276,Emerson Murphy-Hill,North Carolina State University,comtheo_randoms,131,3696,15,87,2,992,2513,61,24,24,2,8,2
+2974508090,M. Stecher,,comtheo_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2367716546,Nan Chang-se,Shaanxi Normal University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2689714644,Susan M. Asch,,comtheo_randoms,1,10,1,0,0,10,0,0,1,1,1,10,1
+2716971293,C. A. Vargas,Universidad Autónoma Metropolitana,comtheo_randoms,7,28,2,5,0,0,28,0,3,3,1,11,1
+2378720099,Liang Y,China West Normal University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2144952448,Chung-Wei Lin,National Taiwan University,comtheo_randoms,76,710,17,41,0,164,389,0,12,12,2,0,0
+2340190172,Bastos Moraes,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2141327253,S. J. Mason,,comtheo_randoms,35,312,0,0,0,0,0,0,3,3,1,1,1
+2641858952,J. Costas,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1254743588,Daniel Lieman,University of Missouri,comtheo_randoms,17,317,10,3,0,256,13,0,8,8,1,6,1
+2606744638,Marina Plati,,comtheo_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2164320421,William John Selig,Marshall Space Flight Center,comtheo_randoms,5,8,1,2,0,1,5,0,2,2,1,0,0
+2533985762,M. E. Vanvalkenburg,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2081631084,Josef Pieprzyk,Polish Academy of Sciences,comtheo_randoms,349,7322,158,170,2,1865,4043,9,33,33,1,15,1
+2102836777,Joyce O. Beckett,Virginia Commonwealth University,comtheo_randoms,11,358,10,0,0,358,0,0,8,8,1,11,1
+2558100862,Jana Heiss,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2006444992,Nigel J. Jamieson,University of Otago,comtheo_randoms,12,6,12,0,0,6,0,0,1,1,1,1,1
+1989569963,Titus Barik,North Carolina State University,comtheo_randoms,24,145,1,21,0,4,127,0,7,7,1,3,1
+1050902620,Fadilla Purwitasari,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2343570564,Estika Rahmadhany,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2902456646,Congying Guan,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2346149877,Hans Toch,State University of New York System,comtheo_randoms,183,3613,79,0,2,1175,0,5,27,27,1,2,1
+2343415868,Rachel L. DiCioccio,,comtheo_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2508610494,Philippe Blache,Aix-Marseille University,comtheo_randoms,164,2615,60,42,0,1971,301,0,22,22,1,6,1
+2317903618,Joseph R. Pisani,,comtheo_randoms,4,3,4,0,0,3,0,0,1,1,1,0,0
+2610262025,Vaca Rosero,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2166751411,Ronald W Greene,University of Minnesota,comtheo_randoms,55,1047,23,0,0,960,0,0,12,12,1,0,0
+2163087605,William H. Meyer,University of Delaware,comtheo_randoms,7,209,7,0,0,209,0,0,4,4,1,21,1
+2097625090,Niloy Ganguly,Indian Institute of Technology Kharagpur,comtheo_randoms,282,3841,70,169,2,1036,2488,82,25,24,1,0,0
+2632537760,Pan Fu-cheng,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2955362566,Emile McAnany,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2167639061,Akira Ishimaru,University of Washington,comtheo_randoms,353,16997,188,64,0,7801,372,0,55,55,1,3,1
+2965683809,A. Salwan,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2997681061,M. I. Kontorovich,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2235142715,Richard D. Gitlin,University of South Florida,comtheo_randoms,244,11422,64,92,5,6354,1545,161,55,54,1,0,0
+2623967285,Ashleigh M. Day,Wayne State University,comtheo_randoms,8,8,4,0,0,7,0,0,1,1,1,0,0
+2546061663,Shu-Hua Chien,National Taichung University of Science and Technology,comtheo_randoms,12,125,7,3,0,121,4,0,6,6,1,8,1
+2148311955,Feifei Gao,Tsinghua University,comtheo_randoms,374,7358,178,164,4,6310,966,78,46,45,3,164,2
+2506509096,Daniel B. Rodriguez,Northwestern University,comtheo_randoms,54,156,25,0,0,104,0,0,8,8,2,14,2
+1976812423,A. Edward Foote,University of Southern Mississippi,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2973479308,真 鶴木,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2286310360,Stephen Kline,,comtheo_randoms,1,355,0,0,0,0,0,0,1,1,1,355,1
+2652675433,Jin Ou,Central South University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+130540031,Firoz Kaderali,FernUniversität Hagen,comtheo_randoms,21,137,4,3,0,60,40,0,5,5,1,28,1
+2336843387,Alejandra Garcia-Vargas,,comtheo_randoms,4,1,0,0,0,0,0,0,1,1,1,0,0
+2575404457,Argyro Mavridaki,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1964189860,Uma Narula,,comtheo_randoms,3,18,0,0,0,0,0,0,2,2,1,14,1
+2160140738,Christine Moseley,University of Texas at San Antonio,comtheo_randoms,51,1140,34,0,3,1121,0,0,13,13,1,5,1
+2442659593,Wan Jiang-song,University of Electronic Science and Technology of China,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2678754022,Kazuya Hara,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2305125477,Christoph Classen,,comtheo_randoms,2,3,2,0,0,3,0,0,1,1,1,3,1
+2255221014,Harald von. Gottberg,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2892216014,David K. Perry,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+57671197,Janez Žerovnik,University of Ljubljana,comtheo_randoms,99,728,68,12,0,630,61,0,16,16,1,0,0
+2186623703,Gulnara Seilbekovna Suyunova,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2471088500,Lydia Sánchez,University of Barcelona,comtheo_randoms,54,12,11,0,0,9,0,0,2,2,1,0,0
+197342315,Muhammad Fauzi Jumingan,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2155587871,Susan L. Bradbury,Iowa State University,comtheo_randoms,10,57,9,0,0,57,0,0,5,5,1,0,0
+2691932985,Ren Yan-ling,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2727120187,Acsw Nancy Boyd Webb Dsw,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+213692743,Jody Hoffer Gittell,Brandeis University,comtheo_randoms,76,5575,39,0,0,4837,0,0,26,26,1,7,1
+2661083428,Song Guo-min,,comtheo_randoms,2,0,2,0,2,0,0,0,0,0,1,0,0
+2330678079,Xu Source Bingli,The Chinese University of Hong Kong,comtheo_randoms,2,1,1,0,0,1,0,0,1,1,1,0,0
+2375086774,V. F. Kravchenko,Russian Academy of Sciences,comtheo_randoms,123,278,93,9,0,239,22,0,8,8,1,0,0
+2589760843,Краснопеева Екатерина Сергеевна,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2133621043,Susanne Janssen,Erasmus University Rotterdam,comtheo_randoms,58,874,31,0,0,705,0,0,13,13,1,13,1
+2627259775,Dimitar Trendafilov,New Bulgarian University,comtheo_randoms,9,1,2,0,0,0,0,0,1,1,1,1,1
+2576730484,J. Liu,,comtheo_randoms,1,24,1,0,0,24,0,0,1,1,1,24,1
+2231228621,L.F. Thompson,University of Sheffield,comtheo_randoms,456,21711,383,1,1,19580,11,2,70,70,1,0,0
+1971128479,C. B. Feldman,,comtheo_randoms,1,31,1,0,0,31,0,0,1,1,1,31,1
+2136308685,Keith Evan Green,Cornell University,comtheo_randoms,78,214,10,37,1,70,125,1,7,7,2,0,0
+2687308808,Ren Bo,Shenyang Ligong University,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2727636268,Rie Fuse,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2435327962,James H. McDonald,University of Texas at San Antonio,comtheo_randoms,49,377,40,0,0,358,0,0,10,10,1,20,1
+2494458187,G. A. Swanson,College of Business Administration,comtheo_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+397026114,R. W. Clifft,Rutherford Appleton Laboratory,comtheo_randoms,629,67522,446,0,1,49603,0,0,72,72,1,0,0
+2399564004,C.K.Swapna,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2669340778,Michael M. Ndonye,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2492308247,Richard E. Bellman,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2694660226,N.I. Pilipchuk,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2789906826,Yu-Luen Chen,National Taipei University of Education,comtheo_randoms,1,8,1,0,0,8,0,0,1,1,1,8,1
+2601589766,Bertram Scheufele,,comtheo_randoms,2,260,2,0,0,260,0,0,2,2,1,160,1
+2095767952,Sara Trulsson,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1982934913,Robert Phaal,University of Cambridge,comtheo_randoms,210,6303,88,41,0,5194,401,0,32,32,1,21,1
+2944828983,N A Orlova,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2766111849,Esin Özdemir,Delft University of Technology,comtheo_randoms,2,9,2,0,0,9,0,0,2,2,1,5,1
+2962321505,M.Ikom,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+1967664693,Emanuele Goldoni,University of Pavia,comtheo_randoms,25,347,4,11,0,9,304,0,7,7,2,8,2
+2111530663,Michael C. Frank,Stanford University,comtheo_randoms,248,8690,150,13,0,8133,111,0,31,31,2,26,2
+2663512173,Wang Fang,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2363110531,Zhu Chuan-peng,Shaanxi University of Technology,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2633449914,Lorena Gómez-Puertas,Pompeu Fabra University,comtheo_randoms,8,4,5,0,0,3,0,0,1,1,2,1,1
+2901004496,Yusuke Nagata,Nagaoka University of Technology,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2698416428,Nelly Mäekivi,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1992395136,Robert N. Bostrom,University of Kentucky,comtheo_randoms,27,470,27,0,0,470,0,0,11,11,1,23,1
+2986768995,Kenneth D. Frandsen,,comtheo_randoms,1,10,1,0,0,10,0,0,1,1,1,10,1
+2125877644,Jonathan Brun,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2611787847,Ана Елаковић-Ненадовић,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1208512212,Lars Skyttner,Military Academy,comtheo_randoms,10,62,10,0,0,62,0,0,4,4,2,11,2
+2786376680,Chang Liu,Fordham University,comtheo_randoms,1,19,1,0,0,19,0,0,1,1,1,19,1
+2769505367,George Kent,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2976483606,A. E. Roland,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2531106928,Denisse Mayarí,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2667240182,Lucia Santaella,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2499545279,Hilmi Demir,Bilkent University,comtheo_randoms,11,18,5,0,0,6,0,0,3,3,1,1,1
+2562187952,Noah Franken,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+821140788,Kristen Woyach,"University of California, Berkeley",comtheo_randoms,14,413,3,7,2,237,90,80,8,7,2,158,1
+2133980946,Alan D. Baddeley,University of York,comtheo_randoms,461,148239,362,0,0,96226,0,0,144,144,1,69,1
+2641383040,Ya-Juan Gao,Guangzhou University,comtheo_randoms,2,2,0,2,0,0,2,0,1,1,1,2,1
+2142906368,Jide Johnson,,comtheo_randoms,2,2,2,0,0,2,0,0,1,1,1,0,0
+2099399453,D. E. Jaffe,"University of California, San Diego",comtheo_randoms,252,2361,214,0,0,2135,0,0,18,18,1,0,0
+2119855119,Ryan Carlson,Carnegie Mellon University,comtheo_randoms,6,165,1,5,0,115,50,0,5,5,1,28,1
+2800484746,Herman Louis Beyer,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2956756597,Huang Yuanjing,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1892259612,Sorin A. Huss,Technische Universität Darmstadt,comtheo_randoms,239,1303,18,102,0,130,874,0,17,17,2,6,1
+77385146,Arie W. Kruglanski,"University of Maryland, College Park",comtheo_randoms,401,44910,273,0,0,34146,0,0,91,91,1,16,1
+2251756781,Rob Heyman,Vrije Universiteit Brussel,comtheo_randoms,20,58,4,1,0,28,5,0,5,5,1,1,1
+2133561207,Harry C. Andrews,University of Southern California,comtheo_randoms,26,1785,19,2,2,1021,1,86,13,12,1,10,1
+2984921414,Sigrid Luchtenberg,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2735917465,A. Dinesh Kumar,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2664400296,Rosemary Day,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2309279135,Cecilia Dias Flores,Universidade Federal de Ciências da Saúde de Porto Alegre,comtheo_randoms,69,244,16,20,0,136,80,0,7,7,2,13,2
+2581764798,Renai Ellison,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2994098449,G. V. Kulikov,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2368086730,Dou Xiao-yan,Southwest University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2233438499,Jiali Lin,National Science Foundation,comtheo_randoms,313,11721,287,0,0,11551,0,0,49,49,1,0,0
+2154402649,Feniosky Peña-Mora,Columbia University,comtheo_randoms,176,4915,106,11,1,4242,154,17,34,34,1,23,1
+2761627180,Weisson Nemalceff,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2323714074,Fernando Ferrara,,comtheo_randoms,1,16,1,0,0,16,0,0,1,1,1,16,1
+2046788017,Lan. Wu Sau,University of Wisconsin-Madison,comtheo_randoms,14,1139,14,0,0,1139,0,0,8,8,1,0,0
+2100190783,Juan Carlos Arias,Pontifical Xavierian University,comtheo_randoms,7,0,2,0,0,0,0,0,0,0,1,0,0
+2694064553,C. A. Pleasance,,comtheo_randoms,3,0,0,0,0,0,0,0,0,0,1,0,0
+2776385686,Eric Werner,University of Hamburg,comtheo_randoms,3,73,0,2,0,0,72,0,2,2,2,72,2
+2638205234,Edward L. O'neill,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2624097994,Lawrence Grossberg,University of North Carolina at Chapel Hill,comtheo_randoms,124,9508,62,1,1,5463,0,2,29,29,3,33,3
+2115752352,Ke Yi,Hong Kong University of Science and Technology,comtheo_randoms,102,5246,34,79,0,1270,3619,0,39,39,1,150,1
+2116552142,Victor Filippovich Kravchenko,Bauman Moscow State Technical University,comtheo_randoms,78,103,50,21,0,68,29,0,6,6,1,1,1
+2359219553,Guo Xiao-ya,Far Eastern University,comtheo_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2779072379,Alberto Pérez-Cervera,Polytechnic University of Catalonia,comtheo_randoms,7,6,4,0,0,2,0,0,2,2,2,0,0
+2890467086,Georgia Bedford,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2670366623,Huseyin Kocak,Pamukkale University,comtheo_randoms,6,7,5,0,0,7,0,0,2,2,1,1,1
+2750580995,Jacob Galindo,,comtheo_randoms,598,0,0,0,3,0,0,0,0,0,7,0,0
+2106655828,Francisco Rego,University of Lisbon,comtheo_randoms,172,3249,75,1,1,2628,0,1,26,26,1,0,0
+2263691009,Mairead McCoy,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2129538575,Edward H. Wagner,Group Health Cooperative,comtheo_randoms,239,47967,222,1,6,45869,4,832,81,79,1,0,0
+2302839145,Tom Richardson,Qualcomm,comtheo_randoms,296,30250,33,18,3,18374,985,999,65,64,1,2099,1
+2964690543,Ștefan Vlăduțescu,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2990894243,Gusti Komang Permana,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+701411872,Harold J. Kushner,Brown University,comtheo_randoms,246,17307,130,26,2,5117,49,70,42,41,4,8,2
+2595317680,Haengjin Choe,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2664949251,Magdalena Zalewska,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2056695050,Karin Dokken,University of Oslo,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2887415855,Amy Lippo,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2666983391,Diederick Raven,,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2221893520,A. Berkley Driessel,,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2366820671,Tian Yi-gui,Sichuan University,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2687132422,P. G. Rothe,,comtheo_randoms,1,21,1,0,0,21,0,0,1,1,1,21,1
+2197933296,Meier,McKinsey & Company,comtheo_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2116455976,Anish Mathew Kurien,Tshwane University of Technology,comtheo_randoms,64,488,28,27,2,227,231,127,9,9,3,13,2
+2051090661,M. T. Lizisova,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2573522253,Narin Karadas,Ludwig Maximilian University of Munich,comtheo_randoms,3,7,3,0,0,7,0,0,1,1,1,6,1
+2078337828,John Lamberth,University of Oklahoma,comtheo_randoms,18,755,15,0,0,755,0,0,9,9,1,4,1
+2610618572,В.О. Демкова,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2713179135,P.B. Fellgett,University of Reading,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2973673221,J. Ziv,Bell Labs,comtheo_randoms,2,50,2,0,0,50,0,0,2,2,1,31,1
+2565548273,Jona Beysens,Katholieke Universiteit Leuven,comtheo_randoms,7,8,1,6,1,3,5,3,2,2,1,3,1
+566173167,Ulrika Rönnholm,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2252892333,Dennis S. Mileti,University of Colorado Boulder,comtheo_randoms,57,5839,36,0,1,1597,0,8,23,23,1,136,1
+190600044,Oren Livio,University of Haifa,comtheo_randoms,21,278,14,0,0,269,0,0,5,5,1,3,1
+2329601479,Joan Latchaw,,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2714136679,Willard J. Pierson,New York University,comtheo_randoms,16,1233,7,0,0,323,0,0,11,11,1,15,1
+2113035392,Brian Cozen,"University of Nevada, Las Vegas",comtheo_randoms,9,45,7,0,0,45,0,0,5,5,2,22,2
+2797154112,Lara Aparecida de Freitas,Universidade Federal de Alfenas,comtheo_randoms,7,0,1,0,0,0,0,0,0,0,2,0,0
+508631850,Sennur Ulukus,"University of Maryland, College Park",comtheo_randoms,329,12989,106,188,2,9081,3129,262,54,54,1,71,1
+2145923232,Mika Nakano,,comtheo_randoms,3,6,2,0,0,6,0,0,2,2,1,2,1
+1603362062,H. Videau,École Polytechnique,comtheo_randoms,396,14062,359,0,0,12279,0,0,59,59,1,0,0
+2657923300,Michael B. Hinner,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2340804668,Stephanie Burnip,,comtheo_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2152254705,Brian J. Thompson,University of Rochester,comtheo_randoms,126,515,98,0,0,445,0,0,9,9,2,1,1
+2899718478,Eleonora Dubicki,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2984024020,Eric McLuhan,,comtheo_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2641112277,А. Домбровска,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2799024039,Jimmy Soni,,comtheo_randoms,3,13,1,0,0,0,0,0,1,1,1,0,0
+2964544287,Общие социальные науки,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2101103150,Robyn Penman,University of Wollongong,comtheo_randoms,5,25,4,0,0,15,0,0,3,3,2,0,0
+409435997,L. Bosisio,University of Trieste,comtheo_randoms,2118,38651,679,47,0,19165,348,0,60,60,1,0,0
+2679209717,Susan Z. Swan,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+1997783739,O. Braun,Heidelberg University,comtheo_randoms,169,8026,158,0,0,8017,0,0,32,32,1,0,0
+371035616,Stephen Thielke,University of Washington,comtheo_randoms,122,1872,105,5,1,1823,26,6,19,19,1,30,1
+2180403822,D. Dutta Majumder,Indian Statistical Institute,comtheo_randoms,111,1634,80,18,0,1221,149,0,16,16,1,0,0
+2983324213,Denis McQuail,,comtheo_randoms,1,145,0,0,0,0,0,0,1,1,1,145,1
+2598074665,Kristóf Nyíri,Budapest University of Technology and Economics,comtheo_randoms,4,8,2,0,0,8,0,0,2,2,1,4,1
+2084616816,Ghosheh Abed Hodtani,Ferdowsi University of Mashhad,comtheo_randoms,136,346,50,55,0,166,146,0,9,9,2,1,1
+2995962423,Iu. G. Sosulin,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2209328693,Masatsugu Tsuji,Kobe International University,comtheo_randoms,131,435,35,19,2,217,45,4,11,11,1,0,0
+2904298653,Чекушкина Елена Николаевна,,comtheo_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2477515809,Tatyana Yevgenyevna Telyatnik,Kuban State University,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2662185991,JS Rishante,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2995222809,S. E. Fedorov,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2127014942,V. Chiarella,Politehnica University of Bucharest,comtheo_randoms,701,32238,584,0,0,29083,0,0,71,71,1,0,0
+2657343665,Goesta H. Granlund,,comtheo_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+1992123601,Keith Saint,University of Alabama,comtheo_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2322312001,David H. Li,,comtheo_randoms,1,13,1,0,0,13,0,0,1,1,1,13,1
+2140524081,Anuj K. Pradhan,University of Michigan,comtheo_randoms,66,1047,29,2,0,811,17,0,17,17,1,1,1
+133372335,Thomas Lowrie,University of Canberra,comtheo_randoms,159,1022,81,0,1,682,0,7,16,16,2,3,1
+2247248564,Claude E. Shannon,Massachusetts Institute of Technology,comtheo_randoms,56,159187,31,2,3,96964,1,2409,32,30,4,58282,4
+2748378593,W. R. Bechtold,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+727983973,Roseli Figaro,University of São Paulo,comtheo_randoms,37,20,7,1,0,18,0,0,2,2,1,11,1
+2673775767,H. Platzer,,comtheo_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1884734508,Tibor Tauzin,Central European University,comtheo_randoms,11,115,10,0,0,115,0,0,4,4,1,6,1
+2147022443,Susan Michie,University College London,comtheo_randoms,769,59781,518,2,35,55821,12,708,96,94,1,0,0
+2283605718,Leahkim Gannett,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+108301282,Åsa Boholm,University of Gothenburg,comtheo_randoms,31,1217,20,0,0,1189,0,0,11,11,1,20,1
+2498110294,Raymond Trevor Bradley,,comtheo_randoms,1,9,0,0,0,0,0,0,1,1,1,9,1
+2952519663,Frederic Guerrero-Solé,,comtheo_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2509185067,Jasmine R. Linabary,Emporia State University,comtheo_randoms,16,21,14,0,0,21,0,0,3,3,1,1,1
+2601203475,William Leiss,Simon Fraser University,comtheo_randoms,4,11,4,0,0,11,0,0,2,2,1,2,1
+2159720087,Karen Tracy,University of Colorado Boulder,comtheo_randoms,96,5003,62,0,0,3241,0,0,30,30,1,384,1
+1969002197,Eura Jung,University of Southern Mississippi,comtheo_randoms,9,812,8,0,0,812,0,0,7,7,3,533,3
+2492077183,Michael Huspek,California State University San Marcos,comtheo_randoms,15,211,15,0,0,211,0,0,7,7,1,8,1
+668927819,Clifford G. Christians,University of Illinois at Urbana–Champaign,comtheo_randoms,102,3593,54,0,0,783,0,0,20,20,2,0,0
+2129907589,Randolph T. Barker,Virginia Commonwealth University,comtheo_randoms,47,946,44,0,1,945,0,3,14,14,1,9,1
+2158044552,Jaakko Kujala,University of Oulu,comtheo_randoms,83,2672,50,0,1,2521,0,17,24,24,1,0,0
+168135479,Nattanun Siricharoen,Huachiew Chalermprakiet University,comtheo_randoms,4,4,3,1,0,2,2,0,1,1,1,1,1
+2712296687,Seymour Sargent,,comtheo_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2687402318,Peter A. Corning,,comtheo_randoms,6,175,6,0,0,175,0,0,4,4,1,23,1
+2117659082,Lun Huang,Illinois Institute of Technology,comtheo_randoms,13,24,1,8,0,5,15,0,3,3,2,9,2
+2599257426,Melissa Jones,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+83063916,Robert J. McEliece,California Institute of Technology,comtheo_randoms,197,14764,55,49,0,8800,1171,0,46,46,1,0,0
+2584626062,Abdul Qudair Baig,COMSATS Institute of Information Technology,comtheo_randoms,53,411,43,1,0,392,2,0,11,11,1,3,1
+2761725699,Paul Balahur,,comtheo_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0

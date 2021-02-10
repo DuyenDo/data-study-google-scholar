@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+37595673,Ian F. Akyildiz,Georgia Institute of Technology,575,106548,120,1,est_cits,150,50415,49
+2144315049,Weilian Su,Naval Postgraduate School,32,32802,11,2,est_cits,6,31824,4
+241019275,Erdal Cayirci,University of Stavanger,70,33532,17,3,est_cits,7,31805,4
+104377568,Yogesh Sankarasubramaniam,Hewlett-Packard,31,33620,10,4,est_cits,2,31789,2
+1998464616,Hari Balakrishnan,Massachusetts Institute of Technology,274,142352,114,5,est_cits,36,25711,24
+2403298526,Theodore S. Rappaport,New York University,442,80577,108,6,est_cits,138,24939,53
+40544600,Marin Soljacic,Massachusetts Institute of Technology,595,52689,127,7,est_cits,67,20723,65
+1990504404,Anantha P. Chandrakasan,Massachusetts Institute of Technology,543,93067,118,8,est_cits,65,20528,27
+2223058999,David Tse,Stanford University,321,72827,83,9,est_cits,53,20274,16
+2127250160,Deborah Estrin,Cornell University,618,121597,130,10,est_cits,75,20073,24
+2137729922,Katherine L. Hall,Marin Software,208,25119,94,11,est_cits,89,19977,76
+2413204075,Rui Zhang,National University of Singapore,809,42212,99,12,est_cits,250,19977,58
+77487822,Allen Taflove,Northwestern University,305,40889,68,13,est_cits,4,19644,2
+2938676999,Morris P. Kesler,Marin Software,87,19476,71,14,est_cits,69,17652,65
+2205751461,Wendi Heinzelman,University of Rochester,204,49681,52,15,est_cits,24,15384,11
+2091397280,Aristeidis Karalis,Massachusetts Institute of Technology,71,23815,55,16,est_cits,40,14919,39
+348251026,David Culler,"University of California, Berkeley",399,103683,120,17,est_cits,44,14110,18
+714037112,Konrad J. Kulikowski,Marin Software,67,14779,55,18,est_cits,60,14082,53
+656047448,Andreas F. Molisch,University of Southern California,736,46498,96,19,est_cits,161,13307,44
+2136057724,Junyi Li,Qualcomm,984,22174,79,20,est_cits,352,13283,61
+2198301200,Arogyaswami Paulraj,Stanford University,482,50332,108,21,est_cits,69,13280,27
+2112975235,Nigel P. Cook,Qualcomm,87,15927,41,22,est_cits,40,13236,35
+2098642314,Mani Srivastava,"University of California, Los Angeles",562,53491,104,23,est_cits,92,12591,35
+2130996983,Yunhao Liu,Michigan State University,530,32331,81,24,est_cits,83,12552,31
+703410400,Lajos Hanzo,University of Southampton,2128,45609,87,25,est_cits,240,12532,42
+2147669519,Pramod Viswanath,University of Illinois at Urbana–Champaign,200,24606,42,26,est_cits,29,12378,8
+1818389174,Paul Marinier,"InterDigital, Inc.",482,17849,78,27,est_cits,222,11936,67
+2116008403,Zhu Han,University of Houston,1059,36142,98,28,est_cits,266,11767,43
+2093492707,Andrew J. Campanella,Marin Software,59,11927,48,29,est_cits,50,11224,44
+2220394469,Ramjee Prasad,Aarhus University,1050,29455,59,30,est_cits,192,11028,21
+2590004626,Stephen E. Terry,"InterDigital, Inc.",611,17510,82,31,est_cits,210,10768,66
+2004282689,Andre B. Kurs,Marin Software,87,12965,58,32,est_cits,63,10751,51
+60615692,Georgios B. Giannakis,University of Minnesota,1171,74469,140,33,est_cits,129,10586,40
+272814634,John Heidemann,Information Sciences Institute,265,49784,73,34,est_cits,19,10405,12
+2152349593,Ying-Chang Liang,University of Electronic Science and Technology of China,573,30692,82,35,est_cits,79,10393,24
+2029673242,Lukas Sieber,Qualcomm,84,12316,33,36,est_cits,36,10177,28
+2102043890,Ramesh Govindan,University of Southern California,355,55592,94,37,est_cits,44,10151,18
+2129529273,Harald Haas,University of Edinburgh,694,29629,83,38,est_cits,145,9930,28
+2188159618,Reinaldo A. Valenzuela,Bell Labs,213,29169,58,39,est_cits,39,9875,18
+2160119116,Kyle Jamieson,Princeton University,75,13051,27,40,est_cits,29,9833,16
+2911227669,Aristeidis Karalis,Marin Software,72,11011,44,41,est_cits,50,9717,41
+2335990857,John D. Joannopoulos,Massachusetts Institute of Technology,941,122678,155,42,est_cits,19,9427,19
+2112752255,Robert Morris,Massachusetts Institute of Technology,126,81056,66,43,est_cits,6,9412,5
+2462088444,Dusit Niyato,Nanyang Technological University,628,27946,80,44,est_cits,182,9365,34
+2140585849,Hanspeter Widmer,Qualcomm,46,11591,32,45,est_cits,32,9244,27
+2472343218,Robert W. Heath,University of Texas at Austin,869,62903,121,46,est_cits,99,9194,29
+2058905646,Robert Szewczyk,"University of California, Berkeley",21,32661,15,47,est_cits,4,9152,3
+2482278969,Rajiv Laroia,Qualcomm,291,17378,71,48,est_cits,146,8943,57
+2025344509,Marimuthu Palaniswami,University of Melbourne,552,21285,57,49,est_cits,15,8789,7
+737083156,Rajkumar Buyya,University of Melbourne,870,90788,133,50,est_cits,5,8678,5
+2311203648,Gerard J. Foschini,Bell Labs,104,32884,51,51,est_cits,15,8584,11
+2135854099,Lionel M. Ni,University of Macau,472,34960,82,52,est_cits,46,8572,20
+2125438455,Biswanath Mukherjee,"University of California, Davis",718,51107,95,53,est_cits,28,8536,15
+2038968579,Jayavardhana Gubbi,University of Melbourne,64,10288,15,54,est_cits,1,8351,1
+2950343322,Slaven Marusic,University of Melbourne,23,9607,10,55,est_cits,1,8351,1
+223307443,Gregory J. Pottie,"University of California, Los Angeles",223,21557,52,56,est_cits,68,8185,29
+2125050856,Xuemin Shen,University of Waterloo,1067,39185,102,57,est_cits,178,8181,45
+2465043653,Moe Z. Win,Massachusetts Institute of Technology,510,38487,88,58,est_cits,111,8177,29
+2027441700,Diana Pani,"InterDigital, Inc.",339,11999,70,59,est_cits,172,8124,57
+2030977062,John A. Stankovic,University of Virginia,528,58857,118,60,est_cits,43,8043,20
+1912065089,Michael A. Leabman,,69,8295,34,61,est_cits,57,8042,33
+2114827527,Gregory Scott Brewer,,68,8295,34,62,est_cits,56,8042,33
+2092550336,Paramvir Bahl,Microsoft,167,43739,82,63,est_cits,37,8036,26
+2035660623,Dipak Ghosal,"University of California, Davis",172,12334,29,64,est_cits,24,8028,13
+2779717527,Rohit U. Nabar,Stanford University,51,14926,32,65,est_cits,5,7900,5
+2137498110,Kiyoto Shibuya,Sony Computer Entertainment,7,7873,2,66,est_cits,1,7870,1
+2198423587,Toshiyuki Kurosaki,Sony Computer Entertainment,5,7885,3,67,est_cits,1,7870,1
+2823913779,Gen Kudo,Sony Computer Entertainment,1,7870,1,68,est_cits,1,7870,1
+2880707828,Hideki Tanabe,Sony Computer Entertainment,1,7870,1,69,est_cits,1,7870,1
+2952783946,Merouane Debbah,Huawei,692,26106,80,70,est_cits,160,7655,38
+2139913828,Samuel Madden,Massachusetts Institute of Technology,284,48742,85,71,est_cits,9,7631,8
+2195743696,Guodong Zhang,"InterDigital, Inc.",350,12503,68,72,est_cits,143,7522,51
+2154841660,Joshua R. Smith,University of Washington,189,14914,64,73,est_cits,70,7493,28
+143197385,Jan M. Rabaey,"University of California, Berkeley",494,53471,87,74,est_cits,105,7456,27
+2973246860,G.D. Golden,Bell Labs,3,8880,3,75,est_cits,2,7409,2
+2184435702,Gerhard Fettweis,Dresden University of Technology,1034,26815,69,76,est_cits,121,7405,21
+2141789269,Huseyin Arslan,University of South Florida,477,14435,51,77,est_cits,93,7347,20
+1909747623,Ekram Hossain,University of Manitoba,576,27550,89,78,est_cits,157,7294,37
+2161437500,Anh Tuan Hoang,"Agency for Science, Technology and Research",65,9070,23,79,est_cits,14,7269,7
+2155341971,Jennifer Yick,"University of California, Davis",9,7472,6,80,est_cits,2,7255,2
+2131748517,Geoffrey Ye Li,Georgia Institute of Technology,364,17060,58,81,est_cits,93,7229,27
+2172130004,Yonghong Zeng,"Agency for Science, Technology and Research",107,12978,30,82,est_cits,14,7201,8
+270568614,Gordon L. Stuber,Georgia Institute of Technology,291,20331,60,83,est_cits,18,6993,9
+2213385919,Adrian Perrig,ETH Zurich,333,70936,93,84,est_cits,8,6987,6
+84958792,Jeyhan Karaoguz,Broadcom,723,20849,77,85,est_cits,156,6968,47
+2134356441,Jeffrey H. Reed,Virginia Tech,390,16970,59,86,est_cits,105,6932,27
+2029230138,H. Vincent Poor,Princeton University,1339,39885,83,87,est_cits,188,6910,32
+2173411392,Richard van Nee,Qualcomm,21,7190,10,88,est_cits,8,6872,6
+2099026309,Durga Prasad Malladi,Qualcomm,784,23278,85,89,est_cits,173,6857,35
+2089602345,Peter Gaal,Qualcomm,1366,20481,75,90,est_cits,368,6787,45
+2149657484,Matt Welsh,Harvard University,121,30066,59,91,est_cits,13,6762,11
+166913908,Hamid Jafarkhani,"University of California, Irvine",337,24882,48,92,est_cits,63,6743,17
+2696869083,Walid Saad,Virginia Tech,400,13328,55,93,est_cits,165,6700,31
+2152257598,Abhishek Patil,Sony Broadcast & Professional Research Laboratories,63,7763,23,94,est_cits,14,6586,9
+2163562115,Jian-Ming Jin,University of Illinois at Urbana–Champaign,568,21499,63,95,est_cits,5,6577,4
+2146372645,Yu-Chee Tseng,National Chiao Tung University,401,32264,68,96,est_cits,62,6504,23
+418583657,Vahid Tarokh,Duke University,418,42023,72,97,est_cits,62,6503,24
+563121846,Mario Gerla,"University of California, Los Angeles",1042,65803,119,98,est_cits,108,6487,28
+2789723096,Andre B. Kurs,Massachusetts Institute of Technology,38,14475,33,99,est_cits,23,6401,21
+2123885042,Yiu Cho Lau,Michigan State University,1,6365,1,100,est_cits,2,6365,2

@@ -1,0 +1,999 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index
+2306406627,Hua-Jie Wang,Shanghai Jiao Tong University,asia_randoms,11,881,11,0,0,881,0,0,8,8
+2433054378,Wei Fang,Xi'an Jiaotong University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2992387778,G Horwitz,Hebrew University of Jerusalem,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2489843509,Young Jae Choi,KAIST,asia_randoms,15,50,10,0,0,42,0,0,4,4
+2664393411,Jiang Hong-fei,Wuhan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2679755957,Kai-Feng Chen,National Taiwan University,asia_randoms,442,9456,380,0,0,9279,0,0,58,58
+2117449362,Kin Hung Ting,Hong Kong Polytechnic University,asia_randoms,3,17,2,0,0,17,0,0,2,2
+2480741926,Yuzo Komatsu,University of Tokyo,asia_randoms,1,2,0,0,0,0,0,0,1,1
+2591544575,Tetsuro Fukusaka,Kyushu University,asia_randoms,1,18,1,0,0,18,0,0,1,1
+2909459664,Nur Jahan Ahmad,Universiti Sains Malaysia,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2769313787,Minghua Shen,Sun Yat-sen University,asia_randoms,17,32,4,13,0,0,32,0,3,3
+2746989064,Lian-Qiang Wei,Sun Yat-sen University,asia_randoms,5,12,5,0,0,12,0,0,2,2
+2643053649,Xiaopeng Hu,Shanghai Jiao Tong University,asia_randoms,3,5,3,0,0,5,0,0,1,1
+2511544096,Abdul Majid,Universiti Sains Malaysia,asia_randoms,4,9,4,0,0,9,0,0,1,1
+2298430351,Ying Hsi Jerry Fuh,National University of Singapore,asia_randoms,10,130,3,0,0,26,0,0,4,4
+2205302081,松本 妃可,Kyushu University,asia_randoms,21,0,3,0,0,0,0,0,0,0
+2564002965,Yin Xj,Nanjing University,asia_randoms,2,1,2,0,0,1,0,0,1,1
+2777642271,Jian Sun,Tsinghua University,asia_randoms,2,3,0,1,0,0,3,0,1,1
+2911441756,Qiaohong Lai,Huazhong University of Science and Technology,asia_randoms,2,19,2,0,0,19,0,0,2,2
+2380401449,Cong Pei-hong,Fudan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2715461639,Hai Ying Wu,Sun Yat-sen University,asia_randoms,2,19,2,0,0,19,0,0,2,2
+2705495402,Yipu Chen,Peking University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2685360198,Zhengquan Xu,Wuhan University,asia_randoms,1,13,0,1,0,0,13,0,1,1
+2142097590,Hsin-Tao Huang,National Chiao Tung University,asia_randoms,18,304,4,0,0,162,0,0,6,6
+2296653322,Chao Zhai,Harbin Institute of Technology,asia_randoms,8,44,8,0,0,44,0,0,5,5
+2023253475,Xiang Hai-ge,Peking University,asia_randoms,34,22,18,2,0,10,4,0,2,2
+2280660410,Cong Niu,Fudan University,asia_randoms,7,80,7,0,0,80,0,0,4,4
+2498807245,Hiroyuki Miyashita,Keio University,asia_randoms,1,5,0,1,0,0,5,0,1,1
+2487309370,Zhihong Lu,Wuhan University,asia_randoms,1,22,1,0,0,22,0,0,1,1
+2157224796,Yalin Zheng,Tsinghua University,asia_randoms,4,2,2,2,0,0,2,0,1,1
+2572615100,Hu ZhaoH. Zhao,Wuhan University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2436616623,Yao-Chung Chang,National Central University,asia_randoms,3,48,2,0,1,48,0,0,2,2
+2651682928,Zhao-Xu Chen,Nanjing University,asia_randoms,2,16,2,0,0,16,0,0,2,2
+2034785754,Hanna H. Bachtiar Iskandar,University of Indonesia,asia_randoms,11,0,10,0,0,0,0,0,0,0
+2113628553,Effendi Gazali,University of Indonesia,asia_randoms,5,18,4,0,0,18,0,0,3,3
+2644233019,Yu Zhang,Harbin Institute of Technology,asia_randoms,2,5,1,0,0,5,0,0,1,1
+2965835715,Chung-Hung Tsai,National Central University,asia_randoms,6,245,2,3,0,240,3,0,2,2
+2231738556,WU Zhao-Hui,Nankai University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2932818260,Shimizu Yukiyo,University of Tsukuba,asia_randoms,3,0,0,0,0,0,0,0,0,0
+2494338589,Qiao Yun Xue,Zhejiang University,asia_randoms,2,28,2,0,0,28,0,0,2,2
+2229296025,Tainrui Zhai,Beijing Normal University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2189085157,Ru-Ji Wang Guang-Qiu Shen,Tsinghua University,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2643043141,Yang Liu,Nanjing University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2651951883,HU Song-hua,Zhejiang University,asia_randoms,4,0,4,0,0,0,0,0,0,0
+2680451495,Dan Xie,Tsinghua University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2924037086,Atsushi Suzuki,University of Tsukuba,asia_randoms,17,1887,12,0,0,1848,0,0,12,12
+2599500236,B. De Sutter,Hiroshima University,asia_randoms,2,11,1,0,0,11,0,0,1,1
+2370127203,Wang Xiao,Nankai University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2156615867,Duocheng Wang,Shanghai University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2146724154,Jae Seok Bang,Seoul National University,asia_randoms,2,3,0,0,0,0,0,0,1,1
+2695530008,Jie Chen,Shanghai Jiao Tong University,asia_randoms,7,53,1,1,0,6,30,0,4,4
+2666502878,Lin Li,Wuhan University,asia_randoms,2,7,1,0,0,2,0,0,2,2
+2335827970,Guangbin Li,University of Science and Technology of China,asia_randoms,11,62,9,0,0,59,0,0,5,5
+2661123788,Mohammad A.H. Dhariwal,King Saud University,asia_randoms,1,13,1,0,0,13,0,0,1,1
+1588367467,Rooplekha Khuntia,Indian Institute of Technology Kharagpur,asia_randoms,8,458,6,0,0,458,0,0,5,5
+2429308331,X. M. Chen,Huazhong University of Science and Technology,asia_randoms,5,74,4,0,0,74,0,0,3,3
+2581795280,Tonghe Zhang,Beijing Normal University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2430046802,Xiaoxiao Liu,Harbin Institute of Technology,asia_randoms,2,5,1,0,0,0,0,0,1,1
+2108726531,Shan-Hu He,Tsinghua University,asia_randoms,9,201,7,0,0,201,0,0,6,6
+2723279167,Qi Feng,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2164108683,Yusuke Yoshida,University of Tokyo,asia_randoms,19,21,17,0,0,21,0,0,3,3
+2599905021,Shuk Fan Kam,The Chinese University of Hong Kong,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2649787302,J. F. Xu,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2139635937,Il-Hwan Choe,Kyung Hee University,asia_randoms,8,165,5,0,0,161,0,0,5,5
+2277507231,Tai Lin Kuo,National Cheng Kung University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2486910890,Huirong Zhang,Peking University,asia_randoms,3,15,3,0,0,15,0,0,2,2
+2145517930,Mariko Iwasawa,University of Tsukuba,asia_randoms,7,25,2,0,0,25,0,0,1,1
+2915033838,Jie Wang,Nankai University,asia_randoms,5,0,5,0,0,0,0,0,0,0
+2947237541,David Faure,The Chinese University of Hong Kong,asia_randoms,6,4,6,0,0,4,0,0,1,1
+2123312466,Kazuya Tsuchida,Keio University,asia_randoms,2,32,2,0,0,32,0,0,2,2
+1247842428,Mira Atzil,Tel Aviv University,asia_randoms,2,119,2,0,0,119,0,0,1,1
+2696941247,Shiyao Zhu,Hong Kong Baptist University,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2716217308,Wei Tang,Shanghai Jiao Tong University,asia_randoms,59,560,40,12,0,532,11,0,12,12
+2474218906,Praiya Thana,Mahidol University,asia_randoms,3,36,1,0,0,21,0,0,2,2
+2552319905,Jinzhou Jiang,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2620652210,Takehiro Tamai,Keio University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2507080118,Kai Ding,Harbin Institute of Technology,asia_randoms,2,3,0,2,0,0,3,0,1,1
+2982512266,Anudipa Mondal,Indian Institute of Technology Kharagpur,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2628281987,Jianxing Zhu,Shanghai Jiao Tong University,asia_randoms,4,15,4,0,0,15,0,0,3,3
+2103260662,Li-Hong Zhang,Tongji University,asia_randoms,1,24,1,0,0,24,0,0,1,1
+2129335098,Kouta Sekine,Waseda University,asia_randoms,14,21,7,0,0,19,0,0,3,3
+2617779659,Chun-Wen Yang,National Taiwan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2892032666,Akityo Hishimoto,Kobe University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2632761470,Michael Ka-yiu Fung,The Chinese University of Hong Kong,asia_randoms,2,13,2,0,0,13,0,0,1,1
+2754983096,Runze Liu,Fudan University,asia_randoms,5,31,5,0,0,31,0,0,2,2
+2764545676,Shaojun Fu,University of Science and Technology of China,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2556019020,Jin Soo Han,Hong Kong Polytechnic University,asia_randoms,2,2,1,0,0,2,0,0,1,1
+2526423163,Changfeng Sun,Xi'an Jiaotong University,asia_randoms,2,16,2,0,0,16,0,0,2,2
+2031248014,Yusuke Takaku,Tokyo Institute of Technology,asia_randoms,3,5,1,0,0,5,0,0,1,1
+2310568025,Chunyan Liu,Huazhong University of Science and Technology,asia_randoms,5,27,5,0,1,27,0,5,4,3
+2511066897,Wei-Yan Jin,Huazhong University of Science and Technology,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2574097337,Hcw Lau,Hong Kong Polytechnic University,asia_randoms,35,24,2,2,0,14,9,0,4,4
+2282966558,Jin Feng,Zhejiang University,asia_randoms,5,45,5,0,0,45,0,0,4,4
+2689714538,Xiaowei Wu,Wuhan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2247630431,Qizhi Li,Tsinghua University,asia_randoms,24,59,0,0,0,0,0,0,5,5
+2385273100,Wang Yong-hua,Peking University,asia_randoms,6,1,4,0,0,1,0,0,1,1
+2321670477,YE Dameng,Huazhong University of Science and Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2572003032,Yumeng Guo,Xi'an Jiaotong University,asia_randoms,3,23,3,0,0,23,0,0,3,3
+2755151674,Yujun Zhang,Harbin Institute of Technology,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2639979878,Sung Whan Ha,Seoul National University,asia_randoms,1,26,1,0,0,26,0,0,1,1
+2555780438,Jie Gao,Peking University,asia_randoms,5,3,4,0,0,3,0,0,1,1
+2559542821,J. Otera,Osaka University,asia_randoms,1,19,1,0,0,19,0,0,1,1
+2125621280,Raied Mustafa Shakir,University of Malaya,asia_randoms,12,82,12,0,0,82,0,0,3,3
+2973717845,H. Rehman,United Arab Emirates University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2276558221,Jinping Zhang,Huazhong University of Science and Technology,asia_randoms,2,36,2,0,0,36,0,0,2,2
+2702254225,Yingzi Guan,Harbin Institute of Technology,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2716157225,Dan Wu,Huazhong University of Science and Technology,asia_randoms,7,26,1,5,0,4,16,0,4,4
+1971588853,Ming Jun Piao,Korea University,asia_randoms,5,325,5,0,0,325,0,0,5,5
+2978377069,Oren Pe'er,Hebrew University of Jerusalem,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2673470913,Xing Chen,Zhejiang University,asia_randoms,3,6,0,3,0,0,6,0,2,2
+2683368798,Yujing Ni,The Chinese University of Hong Kong,asia_randoms,1,2,0,0,0,0,0,0,1,1
+2805490732,Cw W. Cheung,University of Hong Kong,asia_randoms,1,18,1,0,0,18,0,0,1,1
+2790581173,Yung-wei Chang,National Central University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2631150930,S. Notodarmojo,Bandung Institute of Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2374642243,Wu Xun,Xi'an Jiaotong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2482157521,Ichikawa Tsuneki,Hokkaido University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2507813052,Takeshi Hidaka,Tohoku University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2108197179,Hiroaki Kobayashi,Waseda University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2732515990,Hosup Song,Sungkyunkwan University,asia_randoms,1,16,1,0,0,16,0,0,1,1
+2242071732,Jiang Xiao,Huazhong University of Science and Technology,asia_randoms,109,5569,75,23,1,4749,800,187,27,26
+2688297493,Liu Jun,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2917763682,Yuzhen Zhao,Huazhong University of Science and Technology,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2723000822,Qin-Hui Luo,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2780187692,Kun Yang,Tianjin University,asia_randoms,1,12,1,0,0,12,0,0,1,1
+2658923482,Yuanyuan Lin,Hong Kong Polytechnic University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2164533385,Gyutae Park,Hankuk University of Foreign Studies,asia_randoms,13,28,9,0,0,27,0,0,3,3
+2723616738,Xiangchun Yin,Sun Yat-sen University,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2159879860,Jangkeun Jeong,Sungkyunkwan University,asia_randoms,6,308,1,5,0,35,273,0,4,4
+2146516520,Chih-Huang Tseng,National Taiwan University,asia_randoms,1,53,1,0,0,53,0,0,1,1
+2974494253,M. Ueno,University of Tokyo,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2313485883,EunKyung Cho,KAIST,asia_randoms,3,207,3,0,0,207,0,0,3,3
+2606025391,W. S. Tung,Hong Kong Polytechnic University,asia_randoms,3,91,3,0,0,91,0,0,3,3
+2437237435,K. Yamamoto,Osaka University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2796132712,Shi Yan,National University of Singapore,asia_randoms,6,18,6,0,0,18,0,0,2,2
+2644829427,Yu-Cheng Chen,National Cheng Kung University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2501193167,Q.J. Qiu,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2480483104,Guangyan Xue,Tongji University,asia_randoms,2,2,1,0,0,1,0,0,1,1
+2809168194,T.Y. Su,National Central University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2879187140,Chien Yueh Lee,National Taiwan University,asia_randoms,3,38,3,0,0,38,0,0,2,2
+2049918745,Wu Kai,Xi'an Jiaotong University,asia_randoms,14,22,6,3,0,13,8,0,3,3
+2999783505,Zhang Zhiguang,Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2530150561,Zhi-Shen Li,Tongji University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2351402884,Hao Jun-xiang,Xi'an Jiaotong University,asia_randoms,2,2,2,0,1,2,0,2,1,0
+2704490378,D. Zehavi,Hebrew University of Jerusalem,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2981875009,Liyan Zheng,Tsinghua University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2152870169,Tadiparthi Suresh Kumar,Gwangju Institute of Science and Technology,asia_randoms,3,172,3,0,0,172,0,0,3,3
+2460587888,S. Kameoka,Tohoku University,asia_randoms,40,362,25,0,0,340,0,0,11,11
+2425467329,Masashi Nakamoto,Osaka University,asia_randoms,56,522,44,0,0,508,0,0,11,11
+2646207313,Zhihao Bao,Tongji University,asia_randoms,1,66,1,0,0,66,0,0,1,1
+2685365527,Zenta Yasukawa,Nagoya University,asia_randoms,5,287,5,0,0,287,0,0,5,5
+2628585442,Cihang Jiang,Tsinghua University,asia_randoms,2,37,0,2,0,0,37,0,1,1
+2294338848,In Jae Kim,Yonsei University,asia_randoms,1,10,1,0,0,10,0,0,1,1
+2996268056,Runhua Li,Xi'an Jiaotong University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2100007258,Xiuquan Gu,Zhejiang University,asia_randoms,33,873,30,0,0,858,0,0,13,13
+2910158177,M. A. M. Azrieasrie,Universiti Teknologi Malaysia,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2335581799,Kan Gao,Peking University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2745317914,Yuanzhou Li,University of Science and Technology of China,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2790099206,Jun Xu,Tianjin University,asia_randoms,9,1,9,0,0,1,0,0,1,1
+2980752387,Ying Shi,Zhejiang University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2780608204,Yuefa Jia,Hankuk University of Foreign Studies,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2675079755,Jin Jian,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2999213282,M. M. Astudillo,Waseda University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2118300605,Shaufique Fahmi Sidique,Universiti Putra Malaysia,asia_randoms,52,820,30,0,0,808,0,0,8,8
+2631942220,Wang Yi,Shanghai University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2918637625,Laiyun Song,Harbin Institute of Technology,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2900254532,Yusnia Kurniasih,Gadjah Mada University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2985345619,Min-cheng Pan,National Central University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2762488909,Kiwamu Takahashi,Tokyo Institute of Technology,asia_randoms,2,4,0,0,0,0,0,0,1,1
+2799762180,Kyle Fyr,Mahidol University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2747268315,Kasumi Ishida-Kuroki,University of Tokyo,asia_randoms,4,16,4,0,0,16,0,0,2,2
+2989644005,Truong Nhat Phuong Pham,National Central University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2945051293,D Fraser,Ben-Gurion University of the Negev,asia_randoms,1,28,1,0,0,28,0,0,1,1
+2809938719,Tianyao Ping,Tongji University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2686893532,Jian Wei Lu,KAIST,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2146979291,Ying Bin Fu,Xi'an Jiaotong University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2647899371,Chang Min Kim,Sungkyunkwan University,asia_randoms,2,4,2,0,0,4,0,0,1,1
+2604921433,Hasty Ristina Sari,University of Indonesia,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2563787504,Bong Soo Jung,Sungkyunkwan University,asia_randoms,2,16,0,0,0,0,0,0,2,2
+2984690946,Sangkyung Lee,KAIST,asia_randoms,23,58,15,6,0,57,1,0,6,6
+2483358154,P. Wangsomnuk,Mahidol University,asia_randoms,2,1,1,0,0,1,0,0,1,1
+2990142956,Li Ding,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2676687467,Zhang Li,Beijing Normal University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2682292303,Sha Li,Zhejiang University,asia_randoms,2,30,2,0,0,30,0,0,2,2
+2993245876,Y. W. Zhang,Tsinghua University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2709928654,A. Matsuyama,University of Tokyo,asia_randoms,2,14,2,0,0,14,0,0,2,2
+1890988243,Liu Lun-fei,Zhejiang University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+1969570028,Ryoko Shimizu-Hirota,Keio University,asia_randoms,29,1604,26,0,0,1602,0,0,13,13
+2627101118,Li Guo,University of Science and Technology of China,asia_randoms,3,44,0,3,0,0,44,0,2,2
+2741200763,Zhongmin Xiao,Nanyang Technological University,asia_randoms,9,10,6,0,1,9,0,0,2,2
+2431820537,Lingling Gao,University of Science and Technology of China,asia_randoms,1,31,0,1,0,0,31,0,1,1
+3000510537,Qi Ma,Huazhong University of Science and Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2375647960,JI Shou-long,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2756830450,Yi Haomin,Nanjing University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2638618420,M. A. Liu,Hong Kong Polytechnic University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2669302074,Daxiao Zheng,Tongji University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2657170820,Bingliang Lin,Sun Yat-sen University,asia_randoms,1,11,1,0,0,11,0,0,1,1
+195339887,Ashkan Shabbak,Universiti Putra Malaysia,asia_randoms,4,14,2,0,0,12,0,0,2,2
+2640161314,Zhou Yu,Harbin Institute of Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2887866234,Huilin Yi,Tsinghua University,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2769343439,Obaidallah Munteshari,King Fahd University of Petroleum and Minerals,asia_randoms,6,90,6,0,0,90,0,0,2,2
+2684493904,Jun Ota,Tohoku University,asia_randoms,2,29,2,0,0,29,0,0,2,2
+2989631882,Yuchen Gao,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2790738529,Cong Wu,Shanghai Jiao Tong University,asia_randoms,3,2,3,0,0,2,0,0,1,1
+2098698197,Magane Aoki,Hokkaido University,asia_randoms,3,18,3,0,0,18,0,0,2,2
+2617181115,Xiaowen Liu,Zhejiang University,asia_randoms,9,58,8,0,0,54,0,0,4,4
+2222785236,Zhen-Guo Ma,Zhejiang University,asia_randoms,9,47,9,0,0,47,0,0,4,4
+2595286287,S. Mahadevan,Indian Institute of Science,asia_randoms,2,18,2,0,0,18,0,0,2,2
+2682074653,Yajing Zhao,Zhejiang University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2498757251,Kang-Rae Ma,Chung-Ang University,asia_randoms,6,22,6,0,0,22,0,0,4,4
+2785847404,Bo-Ming Zhang,Harbin Institute of Technology,asia_randoms,1,85,1,0,0,85,0,0,1,1
+2719614800,Huan Wang,Wuhan University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2425223891,Wu Xi,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2760853208,Christine M. Papadakis,University of Science and Technology of China,asia_randoms,2,34,2,0,0,34,0,0,1,1
+2673251196,Sangtae Kim,KAIST,asia_randoms,1,10,1,0,0,10,0,0,1,1
+2411725482,笛田 宗広,Kyushu University,asia_randoms,2,0,0,0,0,0,0,0,0,0
+2349403982,Zheng Juyang,Peking University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2420063491,Sukhyeon Joo,Yonsei University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2498942056,Chuang Jen-Hsiang,National Yang-Ming University,asia_randoms,1,15,1,0,0,15,0,0,1,1
+2594775945,Zhi Chen,Shanghai University,asia_randoms,1,4,0,1,0,0,4,0,1,1
+2891570777,Junfeng Wu,Huazhong University of Science and Technology,asia_randoms,3,27,3,0,0,27,0,0,1,1
+2670692959,Y. P. Lim,National University of Singapore,asia_randoms,3,17,2,1,0,16,1,0,2,2
+1016488155,Ramakrishna Malkapuram,Indian Institute of Technology Roorkee,asia_randoms,2,584,2,0,0,584,0,0,2,2
+2428736874,LI Chun-mi,Beijing Normal University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2484075551,M. Mito,Hokkaido University,asia_randoms,10,14,10,0,0,14,0,0,2,2
+2797083017,Hu Zhou,Tsinghua University,asia_randoms,2,220,2,0,0,220,0,0,2,2
+2607543752,Lunqing Zhu,Nanjing University,asia_randoms,7,225,7,0,0,225,0,0,6,6
+16270719,Somboon Sangwongwanich,Nagoya University,asia_randoms,9,304,7,3,0,250,54,0,5,5
+2926083056,Shi Huan Han,Seoul National University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2809164421,Huiqian Yu,Fudan University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2964050399,Zhizhong Ma,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2939229804,Hui Liu,University of Hong Kong,asia_randoms,11,91,11,0,0,91,0,0,5,5
+2786381620,Kazuki Yamamoto,Kyushu University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2476047255,Hiroshi Takano,Kyoto University,asia_randoms,4,156,2,0,0,150,0,0,2,2
+2955693187,Takeshi Nakahara,Huazhong University of Science and Technology,asia_randoms,9,7,1,0,0,4,0,0,2,2
+2643448653,Keping Han,Nanjing University,asia_randoms,2,4,2,0,0,4,0,0,1,1
+2655797511,Jing Jin,Huazhong University of Science and Technology,asia_randoms,2,22,0,2,0,0,22,0,2,2
+2515198265,Satoshi Kawachi,Osaka University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2932653899,Liang Shi,University of Science and Technology of China,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2632764383,K. V. Reddy,Indian Institute of Technology Madras,asia_randoms,3,37,3,0,0,37,0,0,3,3
+2719130420,Yongqiu Wu,Beijing Normal University,asia_randoms,1,4,0,0,0,0,0,0,1,1
+2652983105,Liang Shun Wang,Taipei Medical University,asia_randoms,1,30,1,0,0,30,0,0,1,1
+2575603791,Plamenn Ivanov Nikolov,Hiroshima University,asia_randoms,1,75,1,0,0,75,0,0,1,1
+2580054995,Xingrong Li,National Taiwan Normal University,asia_randoms,1,4,0,1,0,0,4,0,1,1
+2111233883,M. Zilberman,Technion – Israel Institute of Technology,asia_randoms,13,498,13,0,0,498,0,0,8,8
+2115739174,Seunghyeon Choi,KAIST,asia_randoms,6,66,4,0,0,66,0,0,3,3
+2883399668,Hongru Dong,Shanghai University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2497792154,Tomoyuki Kojima,Keio University,asia_randoms,5,6,5,0,0,6,0,0,1,1
+2841061274,Wen-Ching Wang,National Tsing Hua University,asia_randoms,9,425,9,0,0,425,0,0,9,9
+2639871472,N. Naito,University of Tokyo,asia_randoms,3,45,2,0,1,45,0,27,2,1
+2988219785,Bun Song Lee,Seoul National University,asia_randoms,1,77,1,0,0,77,0,0,1,1
+2258510513,Sunayana Sarkar,Indian Institute of Technology Bombay,asia_randoms,3,76,3,0,0,76,0,0,3,3
+2582313280,Po Lung Hsiao,Taipei Medical University,asia_randoms,1,22,1,0,0,22,0,0,1,1
+2663220666,Wen-Chi Shiue,National Sun Yat-sen University,asia_randoms,1,14,0,1,0,0,14,0,1,1
+2972823351,Hyeonseung Lee,Seoul National University,asia_randoms,2,0,0,2,0,0,0,0,0,0
+2898099026,S. K. Kwon,Pohang University of Science and Technology,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2118069321,Jia Lao,Shanghai Jiao Tong University,asia_randoms,7,75,3,1,0,61,3,0,3,3
+2035673126,Ilan Levy,Technion – Israel Institute of Technology,asia_randoms,62,1545,51,0,0,1431,0,0,22,22
+2644331541,Zhenwei Xia,Shanghai Jiao Tong University,asia_randoms,1,34,1,0,0,34,0,0,1,1
+2971739445,Shoko Mizutani,Kyoto University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2603026544,Shih Chang Cheng,National Taiwan Normal University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2680019972,Mingfang Li,Tongji University,asia_randoms,24,1107,22,0,0,1106,0,0,16,16
+2010598060,Nurul Maizan Manshor,Universiti Sains Malaysia,asia_randoms,5,6,4,0,1,6,0,0,2,2
+2807659905,Y. Huang,Wuhan University,asia_randoms,1,72,1,0,0,72,0,0,1,1
+2490206271,Ruixue Zhao,Wuhan University,asia_randoms,3,22,3,0,0,22,0,0,2,2
+2792973923,Maki Onda,Kyoto University,asia_randoms,1,25,1,0,0,25,0,0,1,1
+2584085938,H. Junling,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2628480823,Rener Xu,Fudan University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2796487965,Hyun Keun Kim,Seoul National University,asia_randoms,4,11,4,0,0,11,0,0,2,2
+2810269248,Xiaoxiao Ye,Wuhan University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2369839091,Guo Qin,Tsinghua University,asia_randoms,3,19,3,0,0,19,0,0,3,3
+2898111278,Yuan He,Fudan University,asia_randoms,3,13,3,0,0,13,0,0,2,2
+2930297985,Deyun Wang,National University of Singapore,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2891715003,YU Ying-Jie,Shanghai University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2189198337,In-Chan Choi,Korea University,asia_randoms,2,95,2,1,0,92,3,0,2,2
+2778468087,Qin Tang,Huazhong University of Science and Technology,asia_randoms,4,12,3,0,0,12,0,0,2,2
+2718808706,M. Takahashi,University of Tsukuba,asia_randoms,2,13,2,0,0,13,0,0,2,2
+2696230102,Hsuan-Wei Huang,National Tsing Hua University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2723211542,Lin Jiang,Shanghai University,asia_randoms,2,26,2,0,0,26,0,0,2,2
+2467458023,Hangai M,Kyoto University,asia_randoms,1,85,1,0,0,85,0,0,1,1
+2888768788,Abdullah Mohammed Al-Sahly,King Saud University,asia_randoms,2,1,0,0,0,0,0,0,1,1
+2374504201,Chen Ynzhen,Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2662517907,W.C.J. Wei,National Taiwan University,asia_randoms,1,26,1,0,0,26,0,0,1,1
+2899644297,Jia Yi,Fudan University,asia_randoms,4,4,4,0,0,4,0,0,1,1
+2637775119,Y Uzu,Nagoya University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2245883268,K. Sukuki,Hokkaido University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2424314299,Kei Shirasawa,University of Tokyo,asia_randoms,1,56,1,0,0,56,0,0,1,1
+2660754136,Hai'en Cheng,Zhejiang University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2097796403,Ayelet Reshef,Hebrew University of Jerusalem,asia_randoms,4,94,4,0,0,94,0,0,3,3
+2127860591,Young-bong Bang,Seoul National University,asia_randoms,31,456,20,10,0,400,54,0,10,10
+2966654341,Cheng-Kuo Tsai,National Tsing Hua University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2973455798,L. Goldminz,Technion – Israel Institute of Technology,asia_randoms,1,2,0,1,0,0,2,0,1,1
+2097127054,Baoli Li,Hong Kong Polytechnic University,asia_randoms,5,47,1,2,0,11,18,0,5,5
+2919473894,Ami Kusuma Handayani,University of Indonesia,asia_randoms,3,0,0,1,0,0,0,0,0,0
+2565060331,An Jin,Peking University,asia_randoms,1,4,0,1,0,0,4,0,1,1
+2973871475,Chuan-Yuan Tsai,National Taiwan University,asia_randoms,1,17,0,1,0,0,17,0,1,1
+2969380601,Wenhuan Wang,Wuhan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2684779624,Bei Ding,Shanghai Jiao Tong University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2803148519,Dong Wang,Peking University,asia_randoms,3239,103473,2434,159,4,93370,2159,62,128,128
+2917501028,Guangxin Wu,Shanghai University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2511508264,H. Kasahara,Kobe University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2689128150,Ayumu Sasaki,Tohoku University,asia_randoms,3,0,3,0,0,0,0,0,0,0
+2629173578,Xu Xian-hao,Huazhong University of Science and Technology,asia_randoms,4,32,1,3,0,0,32,0,2,2
+2680980624,Qun Hu,Huazhong University of Science and Technology,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2576171940,Yu-Fan Lee,National Taiwan University,asia_randoms,3,14,2,0,0,14,0,0,2,2
+2510464348,Eigo Matsuzaki,Keio University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2497967427,Wen Jin,Fudan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2117619716,Kazunori Nishikawa,University of Tsukuba,asia_randoms,2,18,1,0,0,18,0,0,1,1
+2919084304,Yunfeng Xu,Shanghai University,asia_randoms,2,20,2,0,0,20,0,0,2,2
+2574172637,H. Makuuchi,University of Tokyo,asia_randoms,1,25,1,0,0,25,0,0,1,1
+2986395342,S. F. Yoon,Nanyang Technological University,asia_randoms,3,4,3,0,0,4,0,0,1,1
+2288899427,T Sasada,University of Tokyo,asia_randoms,8,159,8,0,0,159,0,0,5,5
+2653494091,I Keydar,Tel Aviv University,asia_randoms,11,319,6,0,0,319,0,0,5,5
+2620220219,Daisuke Oshima,Nagoya University,asia_randoms,3,0,1,0,0,0,0,0,0,0
+2767159008,Fu Liu,Zhejiang University,asia_randoms,2,1,1,0,0,1,0,0,1,1
+2636302467,N. Rahmah,Universiti Sains Malaysia,asia_randoms,1,15,1,0,0,15,0,0,1,1
+2921836939,Rong Yuan,Peking University,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2701218917,Takayuki Kodera,Tokyo Institute of Technology,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2647479102,S. Koga,Nagoya University,asia_randoms,3,28,2,0,0,26,0,0,2,2
+2490485880,Qinling Zhu,Shanghai Jiao Tong University,asia_randoms,14,122,14,0,0,122,0,0,5,5
+2641478668,Yunhan Hong,National University of Singapore,asia_randoms,1,14,1,0,0,14,0,0,1,1
+2695950238,Zhang Jing,Peking University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2985147414,Ai Miyoshi,Osaka University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2774829763,Hongchen Liu,Harbin Institute of Technology,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2168451057,Hong-Zhong Chen,Nankai University,asia_randoms,5,81,5,0,0,81,0,0,5,5
+2485252587,Hidenori Terasaki,Seoul National University,asia_randoms,2,30,1,0,0,2,0,0,2,2
+2671107759,Hongming Cai,Shanghai Jiao Tong University,asia_randoms,1,2,0,1,0,0,2,0,1,1
+2642523697,Minghou Liu,University of Science and Technology of China,asia_randoms,2,40,2,0,0,40,0,0,2,2
+316679219,Widiyatno Widiyatno,Gadjah Mada University,asia_randoms,11,5,1,0,0,2,0,0,1,1
+2709719454,Zejun Tang,Harbin Institute of Technology,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2798779726,F. Soong,University of Science and Technology of China,asia_randoms,1,18,1,0,0,18,0,0,1,1
+140100438,Charan Mahatumarat,Chulalongkorn University,asia_randoms,16,323,16,0,0,323,0,0,9,9
+2161927400,Xiaohua Douglas Zhang,University of Macau,asia_randoms,79,2212,60,10,0,2175,2,0,18,18
+2466741681,Jaeseung Yoon,Kyung Hee University,asia_randoms,68,1009,53,0,0,939,0,0,15,15
+2985915370,H. Tawara,Kyushu University,asia_randoms,2,42,2,0,0,42,0,0,2,2
+2507718186,Junko Suzuki,Kobe University,asia_randoms,2,42,2,0,0,42,0,0,2,2
+2643609479,Zhi Hu,Shanghai Jiao Tong University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2342555816,Yanyin Dong,Nankai University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2609240056,Akshata Nayak,Ewha Womans University,asia_randoms,11,125,11,0,0,125,0,0,7,7
+2660496307,Masaharu Sakai,University of Tokyo,asia_randoms,10,2089,8,0,0,2089,0,0,7,7
+2137565685,Imada Toshihiro,Keio University,asia_randoms,13,0,13,0,0,0,0,0,0,0
+2549699563,Juhana Turiman,Universiti Teknologi Malaysia,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2154076730,Xuesen Cao,Fudan University,asia_randoms,22,148,22,0,0,148,0,0,7,7
+2968295767,C. J. Huang,National Chiao Tung University,asia_randoms,2,18,2,0,0,18,0,0,2,2
+2685801636,Madhumita Roy,Indian Institute of Technology Kharagpur,asia_randoms,2,3,1,0,0,1,0,0,1,1
+2988530958,Peng Wang,Peking University,asia_randoms,1,29,1,0,0,29,0,0,1,1
+2582199517,Ebenezer K. C. Kong,Hong Kong University of Science and Technology,asia_randoms,1,145,1,0,0,145,0,0,1,1
+2306192670,Wen Xiao-xian,Harbin Institute of Technology,asia_randoms,4,4,3,1,0,0,4,0,1,1
+2970958766,Takeshi Tanaka,Tohoku University,asia_randoms,1,61,1,0,0,61,0,0,1,1
+2691192924,Hsueh-Ming Hang,National Chiao Tung University,asia_randoms,1,9,0,1,0,0,9,0,1,1
+2640508666,Zhang Yu,Tianjin University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2482100026,Miao Pan,Tsinghua University,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2583331987,Shahad Baselm,King Saud University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2936057902,Ayumi Sugiyama,Waseda University,asia_randoms,2,2,0,2,0,0,2,0,1,1
+2717282513,Cheng Ma,Nanjing University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+3000512230,Wei Li,Zhejiang University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2970699218,Jianfang Ma,Shanghai Jiao Tong University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2677487807,XU Jia-rui,Sun Yat-sen University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2165700672,Ran Choi,KAIST,asia_randoms,11,336,7,0,0,325,0,0,7,7
+2783055558,Shaoke Wan,Xi'an Jiaotong University,asia_randoms,10,11,4,0,0,10,0,0,1,1
+2790299017,Chang-Shou Lin,National Taiwan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2169480501,Syed Mohsin Abbas,Hanyang University,asia_randoms,2,12,1,1,0,8,4,0,2,2
+2159233891,Hongchan An,Seoul National University,asia_randoms,27,251,26,0,0,251,0,0,9,9
+2302861729,Junming Wang,Huazhong University of Science and Technology,asia_randoms,21,130,19,0,0,130,0,0,6,6
+2307674059,Yuan-Liang Zhong,National Tsing Hua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2620654936,Shengxuan Cao,Fudan University,asia_randoms,3,5,3,0,0,5,0,0,1,1
+2966204780,M.R. Islam,United Arab Emirates University,asia_randoms,1,5,0,0,0,0,0,0,1,1
+2768360839,L Guo,Nanyang Technological University,asia_randoms,1,2,0,1,0,0,2,0,1,1
+1845664709,Shigeo Haruki,Tokyo Medical and Dental University,asia_randoms,25,318,23,0,0,318,0,0,5,5
+2618430969,Fanqi Zeng,Tongji University,asia_randoms,2,7,2,0,0,6,0,0,1,1
+2801283231,N. Sharan Kumar,Universiti Sains Malaysia,asia_randoms,2,1,0,0,0,0,0,0,1,1
+2578651021,Shou‐Bin Yuan,National Taiwan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2833029352,Haibin Li,University of Science and Technology of China,asia_randoms,3,114,3,0,0,114,0,0,3,3
+2753249928,Yong Bum Kim,Sungkyunkwan University,asia_randoms,3,2,3,0,0,2,0,0,1,1
+2922056007,Dengfei Yang,Zhejiang University,asia_randoms,8,255,5,3,0,255,0,0,1,1
+2546922315,Ren Ling Chung,National Taiwan Normal University,asia_randoms,1,15,1,0,0,15,0,0,1,1
+2095867595,Ruixin Gao,Sun Yat-sen University,asia_randoms,9,62,4,1,0,58,0,0,4,4
+2809193947,Qianhua Wang,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2549629157,Xugang Zhang,Wuhan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2631053443,Hu Qi-biao,Zhejiang University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2993598425,Y. Yang,Wuhan University,asia_randoms,1,13,1,0,0,13,0,0,1,1
+2333775217,Zohal Baraki,University of Tokyo,asia_randoms,2,15,2,0,0,15,0,0,2,2
+2122508020,Seoung-Ic Yoon,Hanyang University,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2341057563,Liang Huahan,Shanghai Jiao Tong University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2317533747,Atsuyoshi Hagiwara,Kyoto University,asia_randoms,8,81,8,0,0,81,0,0,5,5
+2099048786,Tat-Ming Lok,The Chinese University of Hong Kong,asia_randoms,101,1871,37,61,0,1333,512,0,14,14
+2107192918,Hisashi Iseki,Keio University,asia_randoms,2,13,2,0,0,13,0,0,2,2
+2807074120,Long Xuan Zhao,Seoul National University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2118069342,Shigenori Hori,Osaka University,asia_randoms,115,316,116,0,0,316,0,0,8,8
+2650352354,Z.X. Fang,Zhejiang University,asia_randoms,1,22,0,0,0,0,0,0,1,1
+2135970227,Shou Makino,Tokyo Institute of Technology,asia_randoms,2,9,0,0,0,0,0,0,2,2
+2053773135,Hidetaka Amanai,Tohoku University,asia_randoms,3,27,3,0,0,27,0,0,2,2
+2022382361,Yuichiro Nanen,Kyoto University,asia_randoms,15,122,15,0,0,122,0,0,7,7
+2946804745,Ting-Wen Chen,National Chiao Tung University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2690707040,D. Chatterjee,Indian Institute of Technology Madras,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2552695926,Shujie Wang,Zhejiang University,asia_randoms,1,11,1,0,0,11,0,0,1,1
+2429624336,T. Sawa,Kobe University,asia_randoms,2,33,2,0,0,33,0,0,2,2
+2649747046,Wang Min,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2973836106,Dyt Goh,National University of Singapore,asia_randoms,2,7,0,2,0,0,7,0,2,2
+2548601056,Fam Jia Yuin,Universiti Putra Malaysia,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2924463750,Yunsuk Choi,KAIST,asia_randoms,8,257,2,1,0,123,13,0,6,6
+2540200703,Gih Wan Oh,Sungkyunkwan University,asia_randoms,1,10,0,0,0,0,0,0,1,1
+2782553238,Yan Zhang,Tianjin University,asia_randoms,8,26,6,0,0,25,0,0,4,4
+1980748463,P. Sundarrajan,Indian Institute of Science,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2554809473,Amit Sinhababu,Indian Institute of Technology Kanpur,asia_randoms,4,22,4,2,0,12,6,0,3,3
+2551647284,Longji Shang,Hong Kong Polytechnic University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2741420720,Ling-Yu Zhang,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2246413688,Shi Rui Zhang,Shanghai Jiao Tong University,asia_randoms,2,1,2,0,0,1,0,0,1,1
+2936988114,M. Lee,University of Hong Kong,asia_randoms,1,60,1,0,0,60,0,0,1,1
+2645439534,Li Guo,Peking University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2440017386,Hong-Hong Zhu,Zhejiang University,asia_randoms,4,82,4,0,0,82,0,0,3,3
+2621777851,Y.Y. Wong,Hong Kong Polytechnic University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2918841891,Habibah Ahmad,National University of Malaysia,asia_randoms,5,30,4,0,0,30,0,0,3,3
+2308543957,A. Hosono,Tohoku University,asia_randoms,4,128,6,0,0,128,0,0,4,4
+2231514457,Etienne Pot,Kyushu University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2570612356,Ming Xu,Harbin Institute of Technology,asia_randoms,2,0,0,2,0,0,0,0,0,0
+2115343162,Shino Hirao,Kyoto University,asia_randoms,2,18,1,0,0,18,0,0,1,1
+2154456296,Shinhachiro Saito,Tohoku University,asia_randoms,14,48,14,0,0,48,0,0,3,3
+2635802618,M.-L. Wu,National Tsing Hua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2513084949,Sundjaya,University of Indonesia,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2551278582,Karim Abdel Aziz,United Arab Emirates University,asia_randoms,10,18,10,0,0,18,0,0,3,3
+2154497365,Yongguo Wang,Shanghai University,asia_randoms,3,8,3,0,0,8,0,0,2,2
+2891242812,Yong Liu,Zhejiang University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2642707143,Z.X. Lin,Peking University,asia_randoms,2,48,2,0,0,48,0,0,2,2
+2915164655,Monira Sultana,Beijing Normal University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2935752381,Koji Murata,University of Tokyo,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2765757179,D. Abdul Hadi,University of Malaya,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2803734711,Kodai Wakafuji,Kyushu University,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2923067053,Guang Dai,Zhejiang University,asia_randoms,10,37,0,10,0,0,37,0,4,4
+2314220186,Lou Wei,Shanghai University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2464180225,Kejia Liu,Xi'an Jiaotong University,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2172107057,Duk Hwan Kim,Yonsei University,asia_randoms,43,339,41,0,0,336,0,0,9,9
+2636817032,T.Y. Lee,National Tsing Hua University,asia_randoms,5,44,5,0,0,44,0,0,2,2
+2947381413,Xiaoning Mo,Peking University,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2644932315,Jing Wan,Wuhan University,asia_randoms,3,30,3,0,0,30,0,0,3,3
+2108105094,Chia Yang Hung,National Cheng Kung University,asia_randoms,9,76,9,0,0,76,0,0,6,6
+2708638857,Shu-Min Chou,National Sun Yat-sen University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2556640804,Ho-Huei Lee,National Taiwan University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2425075781,Tang Jian,Harbin Institute of Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2798478644,Ye Yun,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2716181382,Katsuhiko Shiotsuki,Osaka University,asia_randoms,1,115,1,0,0,115,0,0,1,1
+2149473061,Teruhiko Aoyagi,University of Tokyo,asia_randoms,83,2390,81,0,0,2390,0,0,19,19
+2628142013,LI Baoren,Huazhong University of Science and Technology,asia_randoms,11,5,11,0,0,5,0,0,1,1
+2692601325,Wei-Wen Jiang,Shanghai Jiao Tong University,asia_randoms,2,20,2,0,0,20,0,0,2,2
+2944112454,Jianchi Zhu,Peking University,asia_randoms,2,6,0,2,0,0,6,0,2,2
+2238673114,Yiquan Liu,Nanyang Technological University,asia_randoms,11,174,10,0,0,170,0,0,8,8
+1983440771,Bina Tudiver,Technion – Israel Institute of Technology,asia_randoms,2,8,1,0,0,5,0,0,2,2
+2632248576,Xing-Ming Zhao,Tongji University,asia_randoms,1,6,0,0,0,0,0,0,1,1
+2508211610,Wu Rong-pei,Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2634384850,HE Xiang-ning,Zhejiang University,asia_randoms,3,3,3,0,0,3,0,0,1,1
+2181846386,Jung Hwa Kang,Seoul National University,asia_randoms,8,517,7,0,0,499,0,0,8,8
+2744152912,Kwon Ji-Hwan,Seoul National University,asia_randoms,3,0,3,0,0,0,0,0,0,0
+296830531,Ruben Sudhakar Dhanarathinam,Indian Institute of Technology Madras,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2898798098,Xiaobin Tang,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2657858284,Khokal Ramachandra Dinesh,National University of Singapore,asia_randoms,1,58,1,0,0,58,0,0,1,1
+2175490260,Hea-Young Park,Ewha Womans University,asia_randoms,3,17,3,0,0,17,0,0,2,2
+2159081587,H.T Ang,National University of Singapore,asia_randoms,1,79,1,0,0,79,0,0,1,1
+2486660123,Soung-Soo Park,Pohang University of Science and Technology,asia_randoms,6,3,1,3,0,3,0,0,1,1
+2283974691,Takayuki Yamagiri,Hiroshima University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2802747418,Yushi Chiba,Kyoto University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2683005795,Lixiong Li,Shanghai University,asia_randoms,3,6,2,1,0,1,5,0,1,1
+2766075836,Ye Yao,Fudan University,asia_randoms,9,8,7,0,0,8,0,0,2,2
+2906681665,Ja Joon Jang,Seoul National University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2598263976,Yuanyuan Li,Shanghai Jiao Tong University,asia_randoms,3,5,3,0,0,5,0,0,2,2
+2972085697,G Wang,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2608093584,Heqing Tang,Hiroshima University,asia_randoms,27,739,25,2,0,665,74,0,15,15
+2460790808,Makoto Yoshizawa,Kobe University,asia_randoms,2,22,2,0,0,22,0,0,2,2
+2154203857,Kwangbok Jeong,Yonsei University,asia_randoms,53,709,47,0,0,708,0,0,15,15
+2760751249,Jiaji He,Tianjin University,asia_randoms,9,5,7,2,0,4,1,0,1,1
+2596492918,Koshimizu Masanori,Tohoku University,asia_randoms,11,7,3,1,0,2,1,0,2,2
+2228620332,Jingshu Mao,Peking University,asia_randoms,1,58,0,1,0,0,58,0,1,1
+2512443684,Fan Xie,Huazhong University of Science and Technology,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2109487279,Azmi Abd Manaf,National University of Malaysia,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2893016420,Qianyu Zhang,Shanghai University,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2338596422,Alsanossi M. Aboghrara,Universiti Putra Malaysia,asia_randoms,3,72,3,0,0,72,0,0,2,2
+2802128347,Enchao Zhang,Harbin Institute of Technology,asia_randoms,3,0,0,1,0,0,0,0,0,0
+2657403899,T. Eguchi,Kyushu University,asia_randoms,1,18,1,0,0,18,0,0,1,1
+2094356151,Mitsuaki Ooya,University of Tokyo,asia_randoms,8,80,6,0,0,80,0,0,2,2
+2916701499,Qirong Jiang,Fudan University,asia_randoms,3,0,3,0,0,0,0,0,0,0
+2425893264,Tian-rui Li,Nanjing University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2647867077,Hee Kyung Kang,Kyung Hee University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2576237666,Hongming Li,Harbin Institute of Technology,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2604716948,Longkai Wu,Nanyang Technological University,asia_randoms,2,6,1,0,0,6,0,0,1,1
+2770158530,Yishi Liu,Tsinghua University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2654479036,Xiao Xing Wang,Hong Kong Polytechnic University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2603656295,Muhammad Amin Hashim,Universiti Teknologi Malaysia,asia_randoms,1,2,0,0,0,0,0,0,1,1
+2141103750,Nor Liyana Izzati Faisal,Universiti Teknologi Malaysia,asia_randoms,1,16,1,0,0,16,0,0,1,1
+2498992687,Shang Peng,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2381459867,Ding Kai-yong,Shanghai University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2987709178,T. Yagi,Hokkaido University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2627288334,Ye Liu,University of Science and Technology of China,asia_randoms,1,14,1,0,0,14,0,0,1,1
+2130406117,Ryosuke Kikuchi,Nagoya University,asia_randoms,42,1278,39,0,0,1277,0,0,15,15
+2231586950,Wang Wusheng,Peking University,asia_randoms,5,17,0,5,0,0,17,0,2,2
+2266725951,Kim Jae Won,KAIST,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2724614257,Ye-Tao Fu,Zhejiang University,asia_randoms,2,54,2,0,0,54,0,0,2,2
+2713741635,Hua-ying Zhu,Shanghai University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2673596354,J. Okano,Osaka University,asia_randoms,1,2,0,0,0,0,0,0,1,1
+2627642621,Jian-Gao Fan,Shanghai Jiao Tong University,asia_randoms,4,99,4,0,0,99,0,0,2,2
+2113092691,Yong-Jun Cho,Pohang University of Science and Technology,asia_randoms,6,174,4,2,0,174,0,0,4,4
+2348819040,LI Mao-you,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2935863123,Yuzuru Suzuki,University of Tokyo,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2601925333,Xianjian Zou,Wuhan University,asia_randoms,3,5,3,0,0,5,0,0,1,1
+2703364501,Yafen Zhu,Peking University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2539924772,Rafhiah Kahar,Universiti Brunei Darussalam,asia_randoms,7,89,7,0,0,89,0,0,4,4
+2628520267,Li Xiao,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2640904822,Chen-Yao Chung,National Central University,asia_randoms,3,56,2,1,1,0,56,0,1,1
+2989497594,Kwang Wook Lee,Korea University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2146313276,Yuki Kashiwabara,Osaka University,asia_randoms,4,16,2,1,0,4,12,0,2,2
+2698128527,M. Seshasayee,Indian Institute of Technology Madras,asia_randoms,5,60,5,0,0,60,0,0,5,5
+2422453004,PU Zhong-qi,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2656551239,HUI-Jun Liu,Zhejiang University,asia_randoms,2,38,2,0,0,38,0,0,2,2
+2517288670,Vladimir Ishanu,Ben-Gurion University of the Negev,asia_randoms,2,323,2,0,0,323,0,0,2,2
+2974810126,Jin Hee Park,Gwangju Institute of Science and Technology,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2315212142,Sih-Ming Huang,National Central University,asia_randoms,1,22,1,0,0,22,0,0,1,1
+2708281824,Xiaoyuan Zhang,Tianjin University,asia_randoms,1,73,1,0,0,73,0,0,1,1
+2688389099,Hong Chen,Fudan University,asia_randoms,12,389,10,0,0,386,0,0,6,6
+2576697006,Yong Ro Kim,Seoul National University,asia_randoms,5,55,5,0,0,55,0,0,4,4
+2117503391,Tze Pin Ng,National University of Singapore,asia_randoms,8,2027,6,0,3,2020,0,1029,6,3
+2492038452,Jo I. Fang,National Cheng Kung University,asia_randoms,1,24,1,0,0,24,0,0,1,1
+2319892975,刘国华 Liu Guohua,Peking University,asia_randoms,20,23,19,0,0,23,0,0,3,3
+2714120079,Jie Wang,Sun Yat-sen University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2984808692,Lidwina Annisa,University of Indonesia,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2640381167,Zijie Yang,Wuhan University,asia_randoms,2,4,0,1,0,0,1,0,1,1
+2286320389,Ling Cheng,Huazhong University of Science and Technology,asia_randoms,12,249,12,0,0,249,0,0,6,6
+2909810338,Liyi Li,Harbin Institute of Technology,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2674088153,Xiaogang Wu,Shanghai Jiao Tong University,asia_randoms,7,23,6,0,0,23,0,0,4,4
+2123326752,Shigenobu Sato,Hiroshima University,asia_randoms,2,2,2,0,0,2,0,0,1,1
+2441189194,Liu Lian,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2922311752,Xiaomin Yang,Peking University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2102076451,M. D. Zalina,Universiti Teknologi Malaysia,asia_randoms,2,24,1,0,0,22,0,0,2,2
+2776961739,Irene Alisjahbana,University of Indonesia,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2744392894,Ryohei Saijo,University of Tsukuba,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2950202340,Qingxiang Feng,University of Macau,asia_randoms,4,34,1,3,0,7,27,0,3,3
+2302515615,Zheng Liang,Xi'an Jiaotong University,asia_randoms,5,28,2,2,0,16,9,0,3,3
+2726382773,Soma Kumari,Indian Institute of Technology Roorkee,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2166465570,Reni Mulyani,Bandung Institute of Technology,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2671198799,Harikrishnan Narayanan Unni,National University of Singapore,asia_randoms,2,17,2,0,0,17,0,0,1,1
+2112385615,Tomokuni Taniguchi,Osaka University,asia_randoms,11,365,5,0,0,355,0,0,4,4
+2690069181,Jian‑Gao Fan,Shanghai Jiao Tong University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2631903406,Ding Y,Fudan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2672759181,Xiaoge Feng,University of Tokyo,asia_randoms,1,24,1,0,0,24,0,0,1,1
+2641977558,Hitoshi Matsuda,University of Tokyo,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2636989035,Chi Ming Shih,Taipei Medical University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2964679695,Masako Yoshikawa,Hiroshima University,asia_randoms,6,0,2,0,0,0,0,0,0,0
+2797307636,V. Uma,Indian Institute of Technology Madras,asia_randoms,3,3,1,0,0,1,0,0,1,1
+2912281739,Jinna Wu,Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2599690427,Miura,University of Tokyo,asia_randoms,1,73,1,0,0,73,0,0,1,1
+2609792916,Muyoung Kim,Seoul National University,asia_randoms,5,7,3,0,0,7,0,0,2,2
+2781787191,D. Y. Cho,Yonsei University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2746382172,Bin Wu,Nankai University,asia_randoms,2,11,1,0,0,10,0,0,1,1
+2552741611,Byungun Yoo,Yonsei University,asia_randoms,2,9,1,0,0,9,0,0,1,1
+2884138805,Xuezhong Gong,Nanyang Technological University,asia_randoms,7,38,6,0,0,37,0,0,3,3
+2929721362,Weiss-Sadan Tommy,Hebrew University of Jerusalem,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2223316786,Myo Minn,National University of Singapore,asia_randoms,23,186,18,0,0,185,0,0,9,9
+2595997160,A. Rutenberg,Technion – Israel Institute of Technology,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2648942836,Yun Bae Kim,Sungkyunkwan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2897862443,Jie Chen,Beijing Normal University,asia_randoms,2,39,2,0,0,39,0,0,2,2
+2807084404,Dh Kim Do Hyun Kim,KAIST,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2772842075,Lulu Wang,Tianjin University,asia_randoms,2,3,2,0,0,3,0,0,1,1
+2966502703,Yunja Nam,Seoul National University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2863287432,MV Diaz,Tsinghua University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2791032560,Yue Li,Zhejiang University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2815877558,Suojun Zhang,Huazhong University of Science and Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2711284691,Dina Fishman,Tel Aviv University,asia_randoms,1,133,1,0,0,133,0,0,1,1
+2954354395,Jiehui Li,Fudan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2099345147,Sanghun Shin,Sungkyunkwan University,asia_randoms,7,108,7,0,0,108,0,0,4,4
+2569258241,Thet Tun Aung,Nanyang Technological University,asia_randoms,22,268,20,0,0,268,0,0,8,8
+2493857616,Zhong-Lan Zhang,Harbin Institute of Technology,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2511612654,C.Y. Nian,National Taiwan University of Science and Technology,asia_randoms,1,16,1,0,0,16,0,0,1,1
+2656404301,Ting Xu,Peking University,asia_randoms,3,36,3,0,0,36,0,0,3,3
+2482781492,Xiong Bo,Huazhong University of Science and Technology,asia_randoms,1,0,1,0,1,0,0,0,0,0
+2463515836,D. Jia,University of Hong Kong,asia_randoms,2,12,2,0,0,12,0,0,1,1
+2634675411,Liang Shen,National University of Singapore,asia_randoms,3,36,3,0,0,36,0,0,2,2
+2610882600,Lingwang Kong,Wuhan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2509495678,And M. Tokumaru,Nagoya University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2431064665,Hi Sung Kang,University of Tsukuba,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2936712501,S. J. Park,Pohang University of Science and Technology,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2667179117,Yuan-Hsun Hsu,Taipei Medical University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2530074562,Soichiro Hiraoka,Tokyo Institute of Technology,asia_randoms,4,0,4,0,0,0,0,0,0,0
+2666209989,Zhijian Zong,Sun Yat-sen University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2687154480,Jintan Chen,Huazhong University of Science and Technology,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2618742542,Shan Gao,Nankai University,asia_randoms,4,12,4,0,0,12,0,0,2,2
+2671812181,Yongpeng Xu,Harbin Institute of Technology,asia_randoms,1,13,1,0,0,13,0,0,1,1
+2669401761,Guang-rong Yu,Tongji University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2674263791,Krisfinan Chandra Raj,Indian Institute of Technology Madras,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2354184488,JI Xuhu,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2588536760,Ching Wei Tsai,National Central University,asia_randoms,2,11,2,0,0,11,0,0,2,2
+2482194503,Hironori Kawai,Tokyo Institute of Technology,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2110606949,Tateaki Sasaki,University of Tsukuba,asia_randoms,7,177,6,2,0,175,2,0,4,4
+2783258840,Y. C. Syu,National Cheng Kung University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2766628274,Fei Wang,Shanghai University,asia_randoms,2,1,0,2,0,0,1,0,1,1
+2321295012,Yuan-Jing Lin,National Central University,asia_randoms,2,12,2,0,0,12,0,0,2,2
+2139786625,Takumi Konno,Osaka University,asia_randoms,241,3114,232,0,0,3113,0,0,26,26
+2516816122,Aizhong Wu,Shanghai Jiao Tong University,asia_randoms,5,123,5,0,0,123,0,0,4,4
+2974179706,J. Sumethnapis,Tokyo Institute of Technology,asia_randoms,1,4,0,1,0,0,4,0,1,1
+2315620877,Chih-Kaung Laing,National Yang-Ming University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2676838017,J. Yamada,Hokkaido University,asia_randoms,1,32,1,0,0,32,0,0,1,1
+2440006154,Wei Zhao,Harbin Institute of Technology,asia_randoms,2,87,2,0,0,87,0,0,2,2
+1983597750,Takayuki Nonoyama,Hokkaido University,asia_randoms,55,1097,51,0,0,1085,0,0,18,18
+2807219546,Rtf Cheung,University of Hong Kong,asia_randoms,108,133,10,0,1,88,0,0,7,7
+2157436757,Wen-Wei Wu,National Chiao Tung University,asia_randoms,170,3438,133,5,0,3400,25,0,26,26
+2793555070,Laskar Pamungkas,National Taiwan University of Science and Technology,asia_randoms,4,5,1,1,0,5,0,0,1,1
+2803689346,Xiaoyan Zhang,Shanghai Jiao Tong University,asia_randoms,4,11,4,0,0,11,0,0,1,1
+2564642207,Yu-Chun Hsu,National Yang-Ming University,asia_randoms,1,58,1,0,0,58,0,0,1,1
+2762762599,Steve J. Pennycook,National University of Singapore,asia_randoms,1,28,1,0,0,28,0,0,1,1
+2650842648,K. W. Suen,The Chinese University of Hong Kong,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2133062676,Shuangli Ye,Wuhan University,asia_randoms,78,1437,67,7,0,1429,4,0,17,17
+2161385874,Randall Shannon,Mahidol University,asia_randoms,46,631,22,2,0,617,0,0,10,10
+2563210470,Caihua Wang,Zhejiang University,asia_randoms,2,128,2,0,0,128,0,0,2,2
+2572303381,Peng Chen,Nankai University,asia_randoms,3,5,3,0,0,5,0,0,2,2
+2098297776,Won-Woo Seo,Seoul National University,asia_randoms,7,37,7,0,0,37,0,0,2,2
+1943937374,Gil Smooha,Tel Aviv University,asia_randoms,3,232,3,0,0,232,0,0,3,3
+2645796967,Ma Jun,Harbin Institute of Technology,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2659454907,J. Stein,Hebrew University of Jerusalem,asia_randoms,1,27,1,0,0,27,0,0,1,1
+2671436752,Yonglei Liu,Fudan University,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2801037964,Yeong-Maw Hwang,National Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2348375594,Wang Qun-hui,Wuhan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2371419532,Yang Yin,Wuhan University,asia_randoms,2,19,1,0,0,19,0,0,1,1
+2987577044,Rumiko Ono,Tohoku University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2662946534,Chang-Heng Tsai,National Central University,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2710736697,Junghyun Ahn,KAIST,asia_randoms,10,133,5,3,0,39,94,0,5,5
+2196715928,Jee Hay Hou,Yonsei University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2634976627,Damaramadugu Rajasekhar,National Cheng Kung University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2953958439,F. Ukegawa,University of Tsukuba,asia_randoms,12,112,10,0,0,94,0,0,3,3
+2680553212,Yiping Wu,Huazhong University of Science and Technology,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2578680748,Ghulam Jawad Sirewal,Hanyang University,asia_randoms,7,3,3,4,0,1,2,0,1,1
+2304925314,Azlina Md. Kosnin,Universiti Teknologi Malaysia,asia_randoms,7,0,2,0,0,0,0,0,0,0
+2760969904,Eric C. Olivares,The Chinese University of Hong Kong,asia_randoms,2,100,2,0,0,100,0,0,2,2
+2156139007,Kenshiro Shiraishi,University of Tokyo,asia_randoms,80,1046,78,0,1,1046,0,0,16,16
+2138257207,Chin Yu Wu,National Cheng Kung University,asia_randoms,1,31,1,0,0,31,0,0,1,1
+2705036595,Bo Zhang,Tongji University,asia_randoms,2,1,2,0,0,1,0,0,1,1
+2350559104,LU Xin-hon,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2677959910,YU Shun-zheng,Sun Yat-sen University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2420814824,Lin Yuan,Huazhong University of Science and Technology,asia_randoms,8,28,8,0,0,28,0,0,3,3
+2658287154,Tang Lu,Tsinghua University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2260868603,Huang Xi-tai,Nankai University,asia_randoms,3,34,1,0,0,34,0,0,1,1
+2939925267,Siqin Zhou,Wuhan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2182978227,Hao-Tse Shiao,National Taiwan University,asia_randoms,7,19,6,0,0,17,0,0,2,2
+2300419829,Michihiro Ishihara,University of Tokyo,asia_randoms,6,70,6,0,0,70,0,0,6,6
+2763641669,M D Hiroshi Kinumaki,University of Tokyo,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2665940652,L. Gomathi Devi,Indian Institute of Science,asia_randoms,4,49,4,0,0,49,0,0,2,2
+2650522402,Etsuko Mori,Kobe University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2574721979,Didi Zhu,Shanghai Jiao Tong University,asia_randoms,1,25,1,0,0,25,0,0,1,1
+2124008427,Chang Wan Lee,Yonsei University,asia_randoms,28,913,25,0,0,895,0,0,12,12
+2343933886,Takeshi Nagahiro,Tokyo Institute of Technology,asia_randoms,8,134,7,0,0,133,0,0,6,6
+2666961628,Bo Gyoung Ma,Yonsei University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2572093279,Ying Peng,Wuhan University,asia_randoms,1,13,1,0,0,13,0,0,1,1
+2365892924,Arif Warsi Laskar,Indian Institute of Technology Kanpur,asia_randoms,5,3,3,1,0,3,0,0,1,1
+2712484708,Cheng-Hua Lee,National Yang-Ming University,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2642997098,Takuro Koizumi,Waseda University,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2996089610,Jue Wang,Nanjing University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2627639437,Mingxuan Liu,Sun Yat-sen University,asia_randoms,1,478,1,0,0,478,0,0,1,1
+2524130965,Zhouping Zou,Fudan University,asia_randoms,4,26,4,0,0,26,0,0,2,2
+2142810580,Takayoshi Amano,Kyushu University,asia_randoms,1,22,1,0,0,22,0,0,1,1
+2793493245,Y. J. Lee,National University of Singapore,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2518196202,Akinori Matsui,Tohoku University,asia_randoms,4,10,4,0,0,10,0,0,2,2
+1996073694,H. Z. Q. Eliza,Nanyang Technological University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2102284337,Zhangxi Gu,Nanjing University,asia_randoms,5,311,5,0,0,311,0,0,5,5
+2353799099,HE Qicha,Peking University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2669331480,Harumo Morikawa,University of Tokyo,asia_randoms,11,320,10,0,0,320,0,0,7,7
+2231275976,Naohikoa Sugita,University of Tokyo,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2690773685,Sachie Ogata,Kyushu University,asia_randoms,1,55,1,0,0,55,0,0,1,1
+1152547970,Abdulwahab A. Abokhodair,King Fahd University of Petroleum and Minerals,asia_randoms,4,20,4,0,0,20,0,0,3,3
+1995817881,Noor Hayaty Abu Kasim,University of Malaya,asia_randoms,128,1052,73,1,0,1027,0,0,15,15
+377245370,I. Al-Asseri,King Saud University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2314102712,Guorui Zhang,Zhejiang University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2936182441,Yuming Wang,Zhejiang University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2223340684,Yao-Tung Chen,National Cheng Kung University,asia_randoms,1,25,1,0,0,25,0,0,1,1
+2676600104,Pan Jiaqiang,Zhejiang University,asia_randoms,1,5,0,0,0,0,0,0,1,1
+2329683842,Toshiyuki Miyasaka,Keio University,asia_randoms,1,29,1,0,0,29,0,0,1,1
+2997986607,Nagata Yuma,Osaka University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2634137962,Huiping Lin,Tsinghua University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2704020786,LI Jian-hua,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2050297699,Shota Takigawa,University of Tokyo,asia_randoms,2,21,2,0,0,21,0,0,2,2
+2886650161,Xue-zhi Zhang,Peking University,asia_randoms,2,4,2,0,0,4,0,0,1,1
+2617697352,Bo Huang,Tianjin University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2514572773,Xuemei Gao,Huazhong University of Science and Technology,asia_randoms,2,19,2,0,0,19,0,0,2,2
+2943318120,Bo Su,Fudan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2630094752,Ming-Jiang Wang,Huazhong University of Science and Technology,asia_randoms,1,25,1,0,0,25,0,0,1,1
+2944971769,Yi Chen-Ying,Wuhan University,asia_randoms,2,0,0,1,0,0,0,0,0,0
+2274909306,Machii,Osaka University,asia_randoms,1,10,1,0,0,10,0,0,1,1
+2252154838,Lei Dai,Tianjin University,asia_randoms,4,88,4,0,0,88,0,0,3,3
+2478595021,Jian Zhang,Tokyo Medical and Dental University,asia_randoms,1,27,1,0,0,27,0,0,1,1
+2190010761,Soumyajit Ghosh,Indian Institute of Science,asia_randoms,27,1332,21,0,0,1324,0,0,11,11
+2145731559,Yang Ni,Hokkaido University,asia_randoms,1,28,1,0,0,28,0,0,1,1
+2140898466,Ahmad Termizi Ramli,Universiti Teknologi Malaysia,asia_randoms,128,1468,90,0,3,1430,0,12,20,20
+2581975514,Keiko Wada,Kobe University,asia_randoms,2,9,2,0,0,9,0,0,1,1
+2257272443,Jung Moon Kim,Korea University,asia_randoms,4,21,0,0,0,0,0,0,2,2
+2742178599,Jui-pin Wang,National Central University,asia_randoms,3,5,2,0,0,4,0,0,1,1
+2127178131,Ming Yin,Nanyang Technological University,asia_randoms,8,58,4,4,0,47,11,0,5,5
+2243371684,金二郎 清水,Kyushu University,asia_randoms,5,0,5,0,0,0,0,0,0,0
+2935977994,Minoru Okada,Osaka University,asia_randoms,7,191,6,0,0,189,0,0,6,6
+2658015411,K. Tajima,Keio University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2126693786,V. Levin,Technion – Israel Institute of Technology,asia_randoms,1,15,1,0,0,15,0,0,1,1
+2125522935,Byung-moon Jang,Seoul National University,asia_randoms,6,12,1,5,0,3,9,0,2,2
+2067468861,Fajar Eko,Kyushu University,asia_randoms,5,8,0,0,0,0,0,0,1,1
+2902101317,Shohei Harada,Hokkaido University,asia_randoms,6,31,2,0,0,27,0,0,3,3
+2150153557,Mei‑Ling Su,Sun Yat-sen University,asia_randoms,1,16,1,0,0,16,0,0,1,1
+2264730046,Z. H. Can,Zhejiang University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2247525480,Yonggang Cui,Tsinghua University,asia_randoms,2,3,2,0,0,3,0,0,1,1
+2604735943,C. Parsons,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2567600238,Amaal Al-Fawaz,King Saud University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2754580978,Jin-Cheng Lu,Sun Yat-sen University,asia_randoms,6,23,4,0,0,23,0,0,3,3
+2656995307,Chin-Hao Hsu,National Chiao Tung University,asia_randoms,2,10,2,0,0,10,0,0,2,2
+2707216290,Changjian Wang,University of Science and Technology of China,asia_randoms,1,10,1,0,0,10,0,0,1,1
+2789038878,Maryam Barzegar,Sharif University of Technology,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2806411851,Miao Liu,Fudan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2992694063,M. De Serio,Tsinghua University,asia_randoms,4,31,3,0,0,8,0,0,2,2
+2741282625,Wien-Shun Huang,National Cheng Kung University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2583285674,Ayuningtyas,Gadjah Mada University,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2973907536,Y.H.C. Kwan,Hong Kong Polytechnic University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2973762393,Paul Ratnamahilan P. Hoole,University of Malaya,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2117365231,Xuemei Xu,Huazhong University of Science and Technology,asia_randoms,5,174,5,0,0,174,0,0,5,5
+2988580522,Mao Z,Wuhan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2571195871,S. Murakosi,Tohoku University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2721511424,K. Hiroaki,Tokyo Institute of Technology,asia_randoms,1,3,0,1,0,0,3,0,1,1
+2662177555,Zhang Yan-xu,Shanghai University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2582377300,Chih-Cheng Su,National Yang-Ming University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2155049643,Toshihiro Senboku,Hokkaido University,asia_randoms,14,46,9,0,0,33,0,0,5,5
+2953339296,Seung-Jae Kwak,Yonsei University,asia_randoms,5,394,5,0,0,394,0,0,5,5
+2984276931,Yingjie Chen,Tsinghua University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2627395214,Mizuto Suzuki,University of Tokyo,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2938481031,Ganang Adhitama,University of Indonesia,asia_randoms,1,0,0,0,0,0,0,0,0,0
+1512583020,Shoshana Eckerling,Tel Aviv University,asia_randoms,4,70,4,0,0,70,0,0,3,3
+2764377183,Hideaki Kobayashi,Osaka University,asia_randoms,3,17,3,0,0,17,0,0,1,1
+2095909229,Hyo Seok Son,Kyung Hee University,asia_randoms,4,12,4,0,0,12,0,0,2,2
+2483036899,Sun Hye Nam,Yonsei University,asia_randoms,1,15,1,0,0,15,0,0,1,1
+2953961032,Boxiang Wang,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2115182112,Toshikazu Wakabayashi,Tokyo Institute of Technology,asia_randoms,1,66,1,0,0,66,0,0,1,1
+2914191752,Dotan R. Castro,Hebrew University of Jerusalem,asia_randoms,5,28,5,0,0,28,0,0,3,3
+2936936785,Toru Nakamura,University of Tsukuba,asia_randoms,2,272,2,0,0,272,0,0,2,2
+2736791251,Nur Hani Alias,Universiti Sains Malaysia,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2584802671,Tomohisa Yotsuyanagi,University of Tokyo,asia_randoms,1,12,1,0,0,12,0,0,1,1
+2315281015,Huang Ren-Ling,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2887058326,Jianming Zhang,Zhejiang University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2703896559,Emi Takeo,Osaka University,asia_randoms,7,12,7,0,0,12,0,0,2,2
+2697768019,Yueli Yu,Wuhan University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2713174457,S. Baik,Seoul National University,asia_randoms,2,0,1,0,0,0,0,0,0,0
+2479926975,Chen Yanqing,Nankai University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2808338453,Thanh Lan Chu,Kyung Hee University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2953885026,Jien-Wei Yeh,Tsinghua University,asia_randoms,1,213,1,0,0,213,0,0,1,1
+2808675379,Passarut Boonmongkolras,KAIST,asia_randoms,4,22,4,0,0,22,0,0,3,3
+2223069076,Takeyuki Akita,Kyushu University,asia_randoms,29,228,29,0,0,228,0,0,8,8
+2648032399,Delin Rao,Shanghai Jiao Tong University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2978943320,J. Li,Hong Kong University of Science and Technology,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2651716278,Ping-Chiang Lyu,National Tsing Hua University,asia_randoms,1,52,1,0,0,52,0,0,1,1
+2675451218,J. S. Rokem,Hebrew University of Jerusalem,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2101418401,Hsing-Hsi Li,National Yang-Ming University,asia_randoms,1,11,1,0,0,11,0,0,1,1
+2130495994,Haijiang Xie,Xi'an Jiaotong University,asia_randoms,1,5,0,1,0,0,5,0,1,1
+1973928066,Harukuni Tsumura,Keio University,asia_randoms,14,330,13,0,0,330,0,0,8,8
+2404642893,Eunjung Sim,Korea University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2148144677,Hiroshi Nakao,Osaka University,asia_randoms,50,544,30,11,0,498,36,0,12,12
+2602829291,Seiko Ito,University of Tsukuba,asia_randoms,5,429,5,0,0,429,0,0,5,5
+2945973979,Wei Ying,Hong Kong University of Science and Technology,asia_randoms,2,0,1,1,0,0,0,0,0,0
+2169240788,Carina Chun Pei,Hong Kong Polytechnic University,asia_randoms,6,160,5,0,0,159,0,0,4,4
+2501042417,Yun-Sang Oh,Yonsei University,asia_randoms,4,6,4,0,0,6,0,0,2,2
+2581460881,Toyomichi Nanayama,Kyoto University,asia_randoms,8,500,8,0,0,500,0,0,6,6
+2574207301,Shih-Yao Lin,National Taiwan University,asia_randoms,3,5,1,2,0,2,3,0,2,2
+2615531366,Jie-Ping Wan,Zhejiang University,asia_randoms,2,1,2,0,0,1,0,0,1,1
+2495676389,T. H. Tseng,National Cheng Kung University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2111966342,Shuguo Gu,Huazhong University of Science and Technology,asia_randoms,5,8,3,2,0,8,0,0,2,2
+2658280452,Hao Hu,Shanghai Jiao Tong University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2936545254,N Ke,The Chinese University of Hong Kong,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2173980480,Chiyuki Ishizawa,Tohoku University,asia_randoms,3,19,3,0,0,19,0,0,2,2
+315485103,Wattanachai Yaowarat,Nagoya University,asia_randoms,4,4,3,0,0,4,0,0,1,1
+2566487338,Hong-Lian Li,Huazhong University of Science and Technology,asia_randoms,35,1314,34,0,0,1314,0,0,16,16
+2099198438,Atsushi Takeda,Tokyo Medical and Dental University,asia_randoms,17,70,13,0,0,53,0,0,4,4
+2704421760,V. N. Muthukumar,Indian Institute of Technology Madras,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2504165896,Zhang Gang Cao Zhiliang Duan Wenhui Gu Binglin,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2652115510,Shiho Bridge,National University of Singapore,asia_randoms,1,13,1,0,0,13,0,0,1,1
+2227643383,X.Y. Jin,Zhejiang University,asia_randoms,2,70,2,0,0,70,0,0,2,2
+2994227503,Ryu Kojima,Kyushu University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2158290666,Ping-Shing Cheng,The Chinese University of Hong Kong,asia_randoms,10,489,10,0,0,489,0,0,7,7
+2646072557,Y. H. Guan,Zhejiang University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2377280137,Wang Guan-yi,Beijing Normal University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2250190644,Ying Yu Chen,National Cheng Kung University,asia_randoms,4,30,4,0,0,30,0,0,3,3
+2396606303,Qianru Li,Shanghai Jiao Tong University,asia_randoms,4,11,2,0,0,8,0,0,2,2
+2328558453,Yong-Chwang Chen,National Taiwan University,asia_randoms,2,4,2,0,0,4,0,0,2,2
+2154833780,Kazuo Ehara,Kobe University,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2695949880,LM Patnaik,Indian Institute of Science,asia_randoms,1,7,0,0,0,0,0,0,1,1
+2903540502,GuiLu Zhang,Sun Yat-sen University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2641900690,Luo Hua,Wuhan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2770689350,Min Zheng,Shanghai Jiao Tong University,asia_randoms,3,7,3,0,0,7,0,0,1,1
+2627076560,Nisma Mansouri,King Abdulaziz University,asia_randoms,5,22,5,0,0,22,0,0,2,2
+2569319630,Jia Ming Tsai,National Cheng Kung University,asia_randoms,1,11,1,0,0,11,0,0,1,1
+2253054452,H.-T. Kim,Pohang University of Science and Technology,asia_randoms,29,330,25,2,0,311,19,0,10,10
+2263631645,Jung Ha Park,Seoul National University,asia_randoms,1,220,1,0,0,220,0,0,1,1
+2340711889,Yu-Hsuan Tsai,National Taiwan University,asia_randoms,2,69,2,0,0,69,0,0,2,2
+2431931350,Gun-Tae Park,Hanyang University,asia_randoms,2,59,0,2,0,0,59,0,1,1
+2936445983,Junya Nakamura,Kyushu University,asia_randoms,4,104,4,0,0,104,0,0,3,3
+2693997082,Y.-X. Wang,Wuhan University,asia_randoms,1,18,1,0,0,18,0,0,1,1
+2911304714,S. Jayanti,Indian Institute of Technology Madras,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2892161430,Ze Cheng,Huazhong University of Science and Technology,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2668973678,R.P. Singh,Indian Institute of Technology Kanpur,asia_randoms,2,10,2,0,0,10,0,0,1,1
+2737380925,Jin Nie,Huazhong University of Science and Technology,asia_randoms,4,51,4,0,0,51,0,0,3,3
+2300622523,Isma Liza Ali,University of Malaya,asia_randoms,1,78,1,0,0,78,0,0,1,1
+2606002882,Hiroko Nakamura,Tohoku University,asia_randoms,2,1,1,1,0,1,0,0,1,1
+2675603097,Yu-Ming Lee,National Central University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2131056780,Yi-Jie Wang,National Chiao Tung University,asia_randoms,2,5,2,0,0,5,0,0,2,2
+2106640724,Hong Yeol Bae,Korea University,asia_randoms,16,85,12,0,0,83,0,0,7,7
+2883616774,Qinqin Deng,Sun Yat-sen University,asia_randoms,1,12,1,0,0,12,0,0,1,1
+2667115959,P.P. Chen,Huazhong University of Science and Technology,asia_randoms,7,112,7,0,0,112,0,0,4,4
+2287897531,S.C.P. Chueng,City University of Hong Kong,asia_randoms,2,43,2,0,0,43,0,0,2,2
+2802448568,H.P. Wu,Zhejiang University,asia_randoms,5,248,5,0,0,248,0,0,4,4
+2984379266,R. Becker,Technion – Israel Institute of Technology,asia_randoms,3,8,3,0,0,8,0,0,2,2
+2981368150,Elshafie I Elshafie,Sultan Qaboos University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2690813299,Yang-Tung Huang,National Chiao Tung University,asia_randoms,8,0,0,1,0,0,0,0,0,0
+2728990315,Y. Lan,Sun Yat-sen University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2992067786,Yi Yang,Harbin Institute of Technology,asia_randoms,4,0,1,3,0,0,0,0,0,0
+2664341583,김남,Kyung Hee University,asia_randoms,3,1,2,0,0,1,0,0,1,1
+2003157000,Elena Lourie,Ben-Gurion University of the Negev,asia_randoms,3,2,3,0,0,2,0,0,1,1
+2195085355,Guan-Yu Jiang,Tongji University,asia_randoms,2,26,2,0,0,26,0,0,2,2
+290826180,Liu Tangjiao,Tokyo Medical and Dental University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2223166626,Phuthipong Bovornkeeratiroj,Chulalongkorn University,asia_randoms,2,2,0,2,0,0,2,0,1,1
+2329084973,Ryota Shioe,Tokyo Medical and Dental University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2766748964,Jingchen Wang,Peking University,asia_randoms,3,22,3,0,0,22,0,0,3,3
+2399762765,Chien-tien Chen,National Taiwan Normal University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+1965706966,Jianwei Lu,Tianjin University,asia_randoms,5,615,5,0,0,615,0,0,5,5
+2886994650,Jihong Li,Sun Yat-sen University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2972512609,J. A. DiGiuseppe,Technion – Israel Institute of Technology,asia_randoms,1,11,1,0,0,11,0,0,1,1
+2095420741,Hideo Tatano,Kyushu University,asia_randoms,31,13,19,0,0,13,0,0,2,2
+237648293,Toshihiko Takeiwa,Kyoto University,asia_randoms,2,43,2,0,0,43,0,0,2,2
+2097878461,Go Sugiyama,Tokyo Institute of Technology,asia_randoms,3,41,3,0,0,41,0,0,2,2
+2700458486,Zhen Liang,Peking University,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2777702680,Seong-Young Seo,Sungkyunkwan University,asia_randoms,1,12,1,0,0,12,0,0,1,1
+2129506875,Shifeng Kan,Shanghai Jiao Tong University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2895083011,Ghassan Abdelmagid,King Fahd University of Petroleum and Minerals,asia_randoms,2,1,2,0,0,1,0,0,1,1
+2321285419,Karlyga N. Myssayeva,Al-Farabi University,asia_randoms,6,2,4,0,0,2,0,0,1,1
+2683064343,H. Chen,University of Science and Technology of China,asia_randoms,1,28,0,0,0,0,0,0,1,1
+2700823963,Dafna Marom,Tel Aviv University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2737757668,Juhan Park,Seoul National University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2590779209,Masafumi Kurimoto,Kyoto University,asia_randoms,36,1378,35,0,0,1375,0,0,15,15
+2811100523,Yuhong Yang,Wuhan University,asia_randoms,11,26,0,3,0,0,4,0,3,3
+2659744668,J Wei,Sun Yat-sen University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2553254290,Jimei Yu,Fudan University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2580380625,Ru-Ji Wang,The Chinese University of Hong Kong,asia_randoms,24,223,22,0,0,223,0,0,10,10
+2230340005,Baisha Mei,Shanghai University,asia_randoms,1,11,0,1,0,0,11,0,1,1
+2549336306,Tani Kenzaburo,University of Tokyo,asia_randoms,1,82,1,0,0,82,0,0,1,1
+2309508555,Jianmin Yang,Tsinghua University,asia_randoms,1,2,0,0,0,0,0,0,1,1
+2348843144,Wang Yi-pe,University of Science and Technology of China,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2912846335,W.Y. Ip Bn MPhil Rn Rm Rtn,The Chinese University of Hong Kong,asia_randoms,1,18,1,0,0,18,0,0,1,1
+2121915427,Sukying Chun,The Chinese University of Hong Kong,asia_randoms,4,141,4,0,0,141,0,0,4,4
+2128475300,Jinhwan Jung,Pohang University of Science and Technology,asia_randoms,3,19,0,3,0,0,19,0,3,3
+2709340690,Chao Qi,Harbin Institute of Technology,asia_randoms,2,8,2,0,0,8,0,0,2,2
+2577226680,Yeonchan Ahn,Seoul National University,asia_randoms,5,17,0,5,0,0,17,0,2,2
+2888777992,Mohammed Al-Mahrooqi,Sultan Qaboos University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2312580230,Hiroyuki Kadzisa,Tokyo Institute of Technology,asia_randoms,3,11,3,0,0,11,0,0,2,2
+2319139159,Mariam Itani,American University of Beirut,asia_randoms,16,96,13,0,0,95,0,0,7,7
+2963657500,Akihiro Kohara,Tokyo Institute of Technology,asia_randoms,2,0,1,0,0,0,0,0,0,0
+2951540904,W. Duan,Hiroshima University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2495444480,Zhigang Jiang,Nanjing University,asia_randoms,1,4,0,1,0,0,4,0,1,1
+2691928533,Xi Chen,Tongji University,asia_randoms,1,80,1,0,0,80,0,0,1,1
+2644721458,Baohua Yue,Shanghai University,asia_randoms,7,132,4,0,0,122,0,0,4,4
+2574570004,Ke Zhu,Tianjin University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2653294344,Jianwu Zhang,Shanghai Jiao Tong University,asia_randoms,1,11,0,1,0,0,11,0,1,1
+2708535432,T.J. Shankar,Indian Institute of Technology Kharagpur,asia_randoms,1,17,1,0,0,17,0,0,1,1
+2108656712,Genki Yamashita,Osaka University,asia_randoms,25,81,16,7,0,81,0,0,5,5
+2228396545,Li Man-tian,Tianjin University,asia_randoms,1,2,0,1,0,0,2,0,1,1
+2936674654,K. Yamaguchi,Osaka University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2639401274,Libo Huang,Tongji University,asia_randoms,13,3,1,3,0,1,1,0,1,1
+2695704360,Chen Tao,Peking University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2938323313,T.K. Kang,National Chiao Tung University,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2527596339,Joan Blin,Universiti Putra Malaysia,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2302228416,Haitao Liu,Xi'an Jiaotong University,asia_randoms,7,44,3,2,0,25,5,0,3,3
+2665947429,Ho-Cheol Kang,Tokyo Institute of Technology,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2947959662,Xiao Gu,The Chinese University of Hong Kong,asia_randoms,3,163,3,0,0,163,0,0,3,3
+2489607018,Fang Li,Wuhan University,asia_randoms,1,149,1,0,0,149,0,0,1,1
+2585326088,Noriko Sakamoto,Osaka University,asia_randoms,14,56,14,0,0,56,0,0,4,4
+2690647517,S. Sarel,Hebrew University of Jerusalem,asia_randoms,2,85,2,0,0,85,0,0,2,2
+2722621921,Huaiwu Peng,Peking University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2481118070,Young Sik Song,Yonsei University,asia_randoms,7,23,5,2,0,23,0,0,2,2
+1951240243,Zhao Wen-yun,Fudan University,asia_randoms,42,34,29,1,0,21,1,0,3,3
+2637907875,Kozue Hotta,University of Tokyo,asia_randoms,10,53,10,0,1,53,0,3,4,4
+2723659214,Zhang Fan,Wuhan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2019795220,Seinosuke Kawashima,Kobe University,asia_randoms,231,6810,221,0,2,6800,0,7,44,44
+2736142038,Jian Wang,Fudan University,asia_randoms,1,33,1,0,0,33,0,0,1,1
+2627268403,Masashi Saito,Tohoku University,asia_randoms,3,0,1,0,0,0,0,0,0,0
+330683059,Siu-Tai Tsitn,Hong Kong University of Science and Technology,asia_randoms,1,9,1,0,0,9,0,0,1,1
+2604324270,Jin,Huazhong University of Science and Technology,asia_randoms,1,8,1,0,0,8,0,0,1,1
+2636244774,Liu Wen,Wuhan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2585074257,Pooja Bansal,Indian Institute of Technology Madras,asia_randoms,2,9,1,0,0,9,0,0,1,1
+2654228441,K.S. Chao,National Chiao Tung University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2313253510,Edward Reynolds Wright,Seoul National University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2766162356,Tessa Riandini,National University of Singapore,asia_randoms,3,8,3,0,0,8,0,0,2,2
+2400332103,J. Jirkijja,Chulalongkorn University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2936929829,W.H. Luk,The Chinese University of Hong Kong,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2105606178,Chi-Yuana Chang,National Taiwan University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2320295634,Pornravee Leelachaikul,University of Tokyo,asia_randoms,4,30,4,0,0,30,0,0,4,4
+2301388598,Xin Gu,Zhejiang University,asia_randoms,32,375,17,1,0,318,0,0,9,9
+290619919,Nartsiri Sangsuksawang,Mahidol University,asia_randoms,2,28,2,0,0,28,0,0,1,1
+2764990120,Zhan Ly,Wuhan University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2643953898,I.A. Mkhalid,King Abdulaziz University,asia_randoms,1,31,1,0,0,31,0,0,1,1
+2704724164,K.F. Chung,Hong Kong Polytechnic University,asia_randoms,7,159,6,0,0,158,0,0,6,6
+2936016161,Y. Matsumoto,Kyushu University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2668340196,Y. F. Chan,University of Hong Kong,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2577587272,M P Reddy,Qatar University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2689417123,Fang-Yuan Chen,Shanghai Jiao Tong University,asia_randoms,1,72,1,0,0,72,0,0,1,1
+2601768685,Cheng Wang,Nanjing University,asia_randoms,3,34,2,0,0,34,0,0,2,2
+2679751186,Jian-zhen Shan,Zhejiang University,asia_randoms,3,115,3,0,0,115,0,0,3,3
+2321647191,Mitsunori Hirogaki,Kobe University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2993507638,Kkotnim Lee,Korea University,asia_randoms,3,15,3,0,0,15,0,0,2,2
+2611457184,Yanping Zhang,Tianjin University,asia_randoms,2,11,2,0,0,11,0,0,2,2
+2542319436,Dulani Jayasuriya,National University of Singapore,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2642318038,Bingbing Zhuang,University of Science and Technology of China,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2654985385,Yongpeng Zhao,Harbin Institute of Technology,asia_randoms,3,14,2,0,0,13,0,0,2,2
+2689028202,Li-Ya Zhou,Peking University,asia_randoms,1,5,1,0,0,5,0,0,1,1
+2682208192,Zhiqi Li,Fudan University,asia_randoms,4,17,4,0,0,17,0,0,3,3
+2973141437,Jinho Suh,Pohang University of Science and Technology,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2601617791,Ángel Garralda Ortega,City University of Hong Kong,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2786686143,Jin Jin,Nankai University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2958783921,Chuanmao Zheng,University of Science and Technology of China,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2634763396,Kharlina Syafitri,University of Indonesia,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2982369028,Jie Sun,Shanghai Jiao Tong University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2674479753,Liu Zhouping,Xi'an Jiaotong University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2303293325,Zhi Wang,Fudan University,asia_randoms,5,29,0,5,0,0,29,0,2,2
+2132034954,Takatoshi Sato,Hokkaido University,asia_randoms,5,39,5,0,0,39,0,0,3,3
+2974907158,S. Auethavekiat,University of Tokyo,asia_randoms,1,0,0,1,0,0,0,0,0,0
+2974956562,E. Gileadi,Tel Aviv University,asia_randoms,44,875,39,0,0,836,0,0,15,15
+2780408561,Pawaree Nonthasaen,Tokyo Medical and Dental University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2632949745,XU Da-chun,Peking University,asia_randoms,2,0,2,0,2,0,0,0,0,0
+2764580314,S. Singer,Tel Aviv University,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2664951807,Zhen-Yu Hsu,National Chiao Tung University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2253572596,Wang Xinke,Harbin Institute of Technology,asia_randoms,5,15,2,0,0,15,0,0,1,1
+2970577345,Xiaoyan Yuan,Tianjin University,asia_randoms,8,16,7,0,0,12,0,0,2,2
+2792336234,Kanliang Wang,Xi'an Jiaotong University,asia_randoms,1,68,1,0,0,68,0,0,1,1
+1590965649,Liao Dai-Zheng,Nankai University,asia_randoms,32,141,29,0,0,141,0,0,5,5
+2107228655,Suhaimi Ab Rahman,Universiti Putra Malaysia,asia_randoms,62,375,26,3,0,261,4,0,6,6
+2481207092,Zhang Hui,Fudan University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2156252411,Sidra Khanam,Indian Institute of Technology Delhi,asia_randoms,8,135,5,0,0,129,0,0,4,4
+2629905703,Jing Xin Dong,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2168386508,Hoang N. Luong,Sungkyunkwan University,asia_randoms,3,2,0,3,0,0,2,0,1,1
+2678835782,S. Wibowo,Gadjah Mada University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2301866636,Sung-Jin Kim,Kyung Hee University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2674216075,Qi Li,The Chinese University of Hong Kong,asia_randoms,6,189,6,0,0,189,0,0,5,5
+2679667225,LI De-yu,Harbin Institute of Technology,asia_randoms,4,0,4,0,0,0,0,0,0,0
+2698714689,R. S. Jangid,Indian Institute of Technology Bombay,asia_randoms,3,30,3,0,0,30,0,0,3,3
+2244231202,Jamballi G. Manjunathaa,National University of Malaysia,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2650242155,M. Su,Tsinghua University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+57098583,Proadpran Punyabukkana,Chulalongkorn University,asia_randoms,73,147,8,56,0,19,101,0,6,6
+2694545326,Minquan Wang,Zhejiang University,asia_randoms,1,58,1,0,0,58,0,0,1,1
+2974894674,Mamoru Murata,Hiroshima University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2439338748,Wang Xiaoming,Harbin Institute of Technology,asia_randoms,7,3,2,4,0,0,3,0,1,1
+2675442730,Qing Wu,Fudan University,asia_randoms,1,19,1,0,0,19,0,0,1,1
+2940011385,Masato Ando,University of Tokyo,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2788758131,Cheng Zhe Lyu,Tongji University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2578550052,Chen-Yu Wang,National Cheng Kung University,asia_randoms,1,6,0,1,0,0,6,0,1,1
+2676275885,Y. H. Su,National Cheng Kung University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2668054102,Yu Ru Lin,National Cheng Kung University,asia_randoms,1,3,1,0,0,3,0,0,1,1
+254360173,Igor Plopski,Tel Aviv University,asia_randoms,5,86,5,0,0,86,0,0,5,5
+2350498723,Zhuolin Mei,Huazhong University of Science and Technology,asia_randoms,1,3,1,0,0,3,0,0,1,1
+2098562607,Guoqiang Pan,University of Science and Technology of China,asia_randoms,2,6,2,0,0,6,0,0,1,1
+2149035040,Jiaogen Zhou,Wuhan University,asia_randoms,2,5,1,2,0,3,2,0,2,2
+2993082136,Wenbo Pi,Huazhong University of Science and Technology,asia_randoms,3,0,3,0,0,0,0,0,0,0
+2556417396,Fei Ma,Nankai University,asia_randoms,1,7,1,0,0,7,0,0,1,1
+2572250535,Gaowei,Tianjin University,asia_randoms,1,6,0,1,0,0,6,0,1,1
+2427285290,Xiaoyan Bian,Shanghai University,asia_randoms,2,2,0,2,0,0,2,0,1,1
+2638977698,Jian Yang,Zhejiang University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2977173850,Zehua Ji,Beijing Normal University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+186703224,Hirohide Nakamatsu,Kyoto University,asia_randoms,70,737,67,1,0,723,14,0,14,14
+2297424847,Jae Woo Lee,Yonsei University,asia_randoms,4,7,1,0,0,0,0,0,1,1
+2566376919,S. N. Merchant,Indian Institute of Technology Bombay,asia_randoms,36,119,11,14,0,47,20,0,6,6
+2780299537,Jinyan Li,Huazhong University of Science and Technology,asia_randoms,12,44,8,2,0,43,1,0,4,4
+2665389647,Hu Changsheng,Wuhan University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2112440924,Huixin Peng,Shanghai Jiao Tong University,asia_randoms,5,70,4,0,0,70,0,0,4,4
+2676569955,Lei Mao,Harbin Institute of Technology,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2632341783,Ni Li,Fudan University,asia_randoms,2,35,2,0,0,35,0,0,2,2
+2751279806,Tatsuki Deyama,Keio University,asia_randoms,1,2,1,0,0,2,0,0,1,1
+2953017436,Li Hon,Nankai University,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2142536055,Minhyung Cho,KAIST,asia_randoms,13,534,11,0,0,527,0,0,8,8
+2038593651,Ytzhak Kashti,Tel Aviv University,asia_randoms,1,11,1,0,0,11,0,0,1,1
+2425982525,Datong Chen,Harbin Institute of Technology,asia_randoms,1,2,0,1,0,0,2,0,1,1
+2670425745,Yong Wang,University of Science and Technology of China,asia_randoms,2,1,1,1,0,0,1,0,1,1
+2716649990,Jian Li,Zhejiang University,asia_randoms,1,6,1,0,0,6,0,0,1,1
+2679187856,S. Lu,Zhejiang University,asia_randoms,1,21,1,0,0,21,0,0,1,1
+2794008027,M. F. Omar,Universiti Teknologi Malaysia,asia_randoms,1,0,1,0,0,0,0,0,0,0
+2668966073,Wei Wei,Peking University,asia_randoms,1,5,0,0,0,0,0,0,1,1
+2268956797,Jun-Hong Park,Hanyang University,asia_randoms,2,6,1,0,0,6,0,0,1,1
+2473194659,Wisoot Kongchareonsombat,Mahidol University,asia_randoms,10,21,7,0,0,9,0,0,3,3
+2529532581,Yasuyoshi Sekita,Osaka University,asia_randoms,2,9,2,0,0,9,0,0,1,1
+2799612349,Xiaochan Chen,Zhejiang University,asia_randoms,2,0,2,0,0,0,0,0,0,0
+2936343169,Aya Miyazaki,Kyushu University,asia_randoms,1,3,0,1,0,0,3,0,1,1
+2132014811,Gonglue Jiang,Zhejiang University,asia_randoms,2,4,0,1,0,0,4,0,1,1
+2597478597,Pengfei Zhang,Xi'an Jiaotong University,asia_randoms,6,157,2,3,0,15,136,0,4,4
+2608017249,Jianru Qin,Sun Yat-sen University,asia_randoms,8,31,8,0,0,31,0,0,3,3
+2514830612,Yufei Luo,Peking University,asia_randoms,4,75,4,0,0,75,0,0,4,4
+2682029887,Cheng-Yuan Lin,National Tsing Hua University,asia_randoms,1,4,1,0,0,4,0,0,1,1
+2644341778,Hong Lu,Huazhong University of Science and Technology,asia_randoms,1,1,0,0,0,0,0,0,1,1
+2781739667,Xinran Guo,Tsinghua University,asia_randoms,1,1,0,1,0,0,1,0,1,1
+2120148082,Lee Ling Heng,Universiti Teknologi Malaysia,asia_randoms,6,7,3,0,0,7,0,0,2,2
+2315999360,Yanbo Li,Tianjin University,asia_randoms,2,13,1,0,0,13,0,0,1,1
+2700449329,Fan Bo,Shanghai Jiao Tong University,asia_randoms,1,0,1,0,0,0,0,0,0,0
+1965746486,A Sreekantan,Indian Institute of Science,asia_randoms,1,0,0,0,0,0,0,0,0,0
+2632992452,Wenjie Wang,Xi'an Jiaotong University,asia_randoms,1,1,1,0,0,1,0,0,1,1
+2936255544,Ryuichi Kato,Osaka University,asia_randoms,1,58,1,0,0,58,0,0,1,1
+1944868578,Paibul Suriyawongpaisal,Mahidol University,asia_randoms,69,7863,58,0,5,2993,0,119,17,15
+2519837445,Shingo Tateishi,Kobe University,asia_randoms,3,7,2,0,0,7,0,0,2,2
+2884820333,Xinguo Liu,Zhejiang University,asia_randoms,2,5,1,1,0,2,3,0,2,2
+2701302254,Yan Huang,Huazhong University of Science and Technology,asia_randoms,2,36,2,0,0,36,0,0,2,2
+2088454700,Minoru Higashiguchi,University of Tokyo,asia_randoms,30,581,25,0,0,570,0,0,8,8

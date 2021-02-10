@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+2466384568,H.J. Zimmermann,,92,314,3,1,pubs_count,19,5,2
+2715897419,G.G. Harvey,,89,21,2,2,pubs_count,19,5,2
+2162319355,Robert T. Craig,University of Colorado Boulder,58,4528,19,3,pubs_count,15,2798,7
+2944830413,Jenny Donley,,193,0,0,4,pubs_count,12,0,0
+1993486354,Loet Leydesdorff,University of Amsterdam,737,48750,101,5,pubs_count,11,439,5
+2627203919,Diane Duesterhoeft,,629,0,0,6,pubs_count,11,0,0
+2131876097,Sandra Braman,Texas A&M University,109,2527,16,7,pubs_count,10,29,2
+2630406839,Athena Hoeppner Ucf,,20,0,0,8,pubs_count,10,0,0
+2629782454,William Stephenson,University of Missouri,119,4157,19,9,pubs_count,9,522,7
+340118294,Roman F. Nalewajski,Jagiellonian University,198,5430,32,10,pubs_count,8,306,7
+2145462135,Philip R. Cohen,Oregon Health & Science University,130,16551,48,11,pubs_count,8,1917,5
+618331537,Kenneth N. Cissna,University of South Florida,57,1484,16,12,pubs_count,7,194,4
+1974652783,Michael L. Hecht,Pennsylvania State University,166,8841,51,13,pubs_count,7,1062,7
+2133777343,Luis Mauro Sá Martino,Faculdade Cásper Líbero,67,23,2,14,pubs_count,7,4,1
+2638029023,W.B. Davenport,,13,2,1,15,pubs_count,7,2,1
+2750580995,Jacob Galindo,,598,0,0,16,pubs_count,7,0,0
+1127144014,Arthur P. Bochner,University of South Florida,191,14972,34,17,pubs_count,6,7,2
+1935463788,Carl L. Fales,Langley Research Center,50,514,11,18,pubs_count,6,58,2
+2116450831,Friedrich O. Huck,Langley Research Center,81,1188,18,19,pubs_count,6,58,2
+2127573250,Eleanor Sandry,Curtin University,19,48,3,20,pubs_count,6,32,2
+2190124773,Christian Fuchs,University of Westminster,301,10801,37,21,pubs_count,6,47,4
+2262593158,Klaus Bruhn Jensen,University of Copenhagen,106,5232,22,22,pubs_count,6,153,3
+2408891669,Neil J. A. Sloane,AT&T,300,46565,72,23,pubs_count,6,257,3
+2484889278,Lynn H. Turner,Marquette University,43,484,11,24,pubs_count,6,88,1
+2595277131,Nancy Weiner,,336,0,0,25,pubs_count,6,0,0
+79893321,Klaus Krippendorff,University of Pennsylvania,143,80041,33,26,pubs_count,5,457,5
+113721321,Dariush Divsalar,California Institute of Technology,245,19489,60,27,pubs_count,5,106,2
+325530817,Paul M. B. Vitányi,University of Amsterdam,254,16270,44,28,pubs_count,5,18,3
+2099015460,Mirela Teodorescu,University of Craiova,58,339,11,29,pubs_count,5,41,3
+2118056403,Zia-ur Rahman,Old Dominion University,123,6375,22,30,pubs_count,5,58,2
+2127306298,Terje Rasmussen,University of Oslo,31,452,9,31,pubs_count,5,8,1
+2165973087,William L. Benoit,Ohio University,221,12550,52,32,pubs_count,5,96,4
+2167671714,Philip A. Chou,Microsoft,259,18933,70,33,pubs_count,5,310,3
+2199000400,Wimal Dissanayake,University of Hawaii,28,377,9,34,pubs_count,5,123,4
+2243190449,Annie Lang,Indiana University Bloomington,102,10761,43,35,pubs_count,5,101,5
+2247248564,Claude E. Shannon,Massachusetts Institute of Technology,55,166920,33,36,pubs_count,5,65903,5
+2302605923,Rudolf Seising,University of Jena,124,573,10,37,pubs_count,5,68,2
+2601501376,John B. Anderson,Lund University,161,5613,27,38,pubs_count,5,421,2
+2618327803,Brent D. Ruben,Rutgers University,74,4048,20,39,pubs_count,5,99,4
+2627269394,D Paterno,RMIT University,7,2,1,40,pubs_count,5,2,1
+2627328300,Angela Dunnington,,181,0,0,41,pubs_count,5,0,0
+2627567493,Leslie Homzie,,307,0,0,42,pubs_count,5,0,0
+2721350989,Denis McQuail,University of Amsterdam,64,8040,22,43,pubs_count,5,1941,3
+2798841586,Richard West,Marquette University,11,32,2,44,pubs_count,5,0,0
+2889580326,Andrea Klyn,,152,0,0,45,pubs_count,5,0,0
+2915150611,J.B. Wiesner,,26,3,1,46,pubs_count,5,2,1
+2950296041,Gary E. Kopec,Xerox,43,1945,19,47,pubs_count,5,406,3
+36717893,George K. Karagiannidis,Aristotle University of Thessaloniki,543,16909,71,48,pubs_count,4,39,1
+320773650,Nir Sochen,Tel Aviv University,192,6987,36,49,pubs_count,4,30,3
+325653713,Ronny Hadani,University of Chicago,68,1290,20,50,pubs_count,4,30,3
+701411872,Harold J. Kushner,Brown University,246,17325,42,51,pubs_count,4,8,2
+707331046,Nikolai K. Vereshchagin,Moscow State University,60,1221,14,52,pubs_count,4,9,2
+1193535408,Emanuel Kulczycki,Adam Mickiewicz University in Poznań,64,362,7,53,pubs_count,4,2,1
+1482108584,Rafail Ostrovsky,"University of California, Los Angeles",350,30788,79,54,pubs_count,4,471,4
+1908632821,Lana F. Rakow,University of North Dakota,8,19,3,55,pubs_count,4,3,1
+1931511623,Alfredo De Santis,University of Salerno,189,12208,46,56,pubs_count,4,873,4
+1936994610,John P. Caughlin,University of Illinois at Urbana–Champaign,77,5811,35,57,pubs_count,4,437,4
+1968588906,Mohammad Al Bataineh,Yarmouk University,19,35,4,58,pubs_count,4,16,3
+1976698169,Mohamed-Slim Alouini,King Abdullah University of Science and Technology,1553,54285,86,59,pubs_count,4,1,1
+1993429470,Lauren A. Vicker,,13,72,2,60,pubs_count,4,62,1
+2006169390,Saulius Minkevičius,Vilnius University,37,72,4,61,pubs_count,4,11,1
+2014707683,Jack Rosenberry,St. John Fisher College,44,357,6,62,pubs_count,4,62,1
+2046839794,John J. Benedetto,"University of Maryland, College Park",146,5562,31,63,pubs_count,4,126,3
+2099401557,Dale E. Brashers,University of Illinois at Urbana–Champaign,54,4559,26,64,pubs_count,4,1133,4
+2100725838,Andrea Kienle,Technical University of Dortmund,80,500,12,65,pubs_count,4,47,3
+2109256549,Shamgar Gurevich,University of Wisconsin-Madison,41,327,10,66,pubs_count,4,30,3
+2109972008,Arthur Asa Berger,San Francisco State University,205,9443,22,67,pubs_count,4,603,2
+2110334033,John O. Greene,Purdue University,50,1061,15,68,pubs_count,4,86,3
+2122104108,Jerry Morgan,University of Illinois at Urbana–Champaign,32,2081,11,69,pubs_count,4,850,2
+2123268052,Bernard McKenna,University of Queensland,143,1677,16,70,pubs_count,4,6,1
+2137808168,Nik Nailah Binti Abdullah,National Institute of Informatics,23,51,3,71,pubs_count,4,7,2
+2144288374,Daniel G. Morrow,University of Illinois at Urbana–Champaign,160,8561,52,72,pubs_count,4,4,2
+2145346352,Ozgur B. Akan,University of Cambridge,265,9520,49,73,pubs_count,4,293,3
+2145826341,Gerald R. Miller,Michigan State University,93,5015,29,74,pubs_count,4,23,2
+2153765186,H. Martin Schaefer,University of Freiburg,126,4818,36,75,pubs_count,4,147,3
+2158137152,Jill Lawrence,University of Southern Queensland,60,362,8,76,pubs_count,4,13,2
+2182057973,Seymour Stein,,21,2884,4,77,pubs_count,4,1833,1
+2190072679,Graham Cormode,University of Warwick,229,14648,62,78,pubs_count,4,180,3
+2231982202,Graham D. Bodie,Louisiana State University,101,2201,24,79,pubs_count,4,109,2
+2232892114,Dawn O. Braithwaite,University of Nebraska–Lincoln,80,3822,27,80,pubs_count,4,182,2
+2250464492,Mischa Schwartz,Columbia University,84,5940,23,81,pubs_count,4,1833,1
+2252412613,Robert Ward Dardenne,,29,2,1,82,pubs_count,4,0,0
+2306237498,Matthew K. Franklin,"University of California, Davis",89,17624,38,83,pubs_count,4,485,3
+2307024348,Harry Buhrman,University of Amsterdam,206,7937,39,84,pubs_count,4,9,2
+2307838160,Don E. Schultz,Northwestern University,271,5346,32,85,pubs_count,4,4,1
+2308309318,Sylvain Guilley,Télécom ParisTech,222,2930,25,86,pubs_count,4,21,2
+2321911437,William R. Bennett,Columbia University,22,1931,3,87,pubs_count,4,1833,1
+2470840111,Hartmut Klauck,Nanyang Technological University,56,1349,19,88,pubs_count,4,9,2
+2479091299,Sandra Petronio,Indiana University – Purdue University Indianapolis,61,5694,28,89,pubs_count,4,328,4
+2496109384,Robert D. Brown,University of Nebraska–Lincoln,55,1270,18,90,pubs_count,4,185,4
+2503795677,David R. Seibold,"University of California, Santa Barbara",119,4424,32,91,pubs_count,4,47,2
+2642251227,Dennis Gabor,College of Science and Technology,83,21232,27,92,pubs_count,4,11862,3
+2711917048,Richard J. Varey,University of Waikato,85,4544,21,93,pubs_count,4,77,1
+2724818665,Клейменова Ольга Константиновна,,7,0,0,94,pubs_count,4,0,0
+2915399401,R. M. Showers,,10,0,0,95,pubs_count,4,0,0
+2920691311,Martha E. Pollack,University of Michigan,142,12915,50,96,pubs_count,4,850,2
+2921363099,Marvin K. Simon,Jet Propulsion Laboratory,228,38744,69,97,pubs_count,4,1064,3
+2940455444,Elin O'Hara,,281,0,0,98,pubs_count,4,0,0
+24758616,William B. Gudykunst,"California State University, Fullerton",92,12531,47,99,pubs_count,3,875,3
+37595673,Ian F. Akyildiz,Georgia Institute of Technology,575,106548,120,100,pubs_count,3,1132,2

@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+2247248564,Claude E. Shannon,Massachusetts Institute of Technology,55,166920,33,1,est_cits,5,65903,5
+2642251227,Dennis Gabor,College of Science and Technology,83,21232,27,2,est_cits,4,11862,3
+2149226864,E. T. Jaynes,University of Washington,38,24978,10,3,est_cits,3,7909,2
+2044651552,Fred Dretske,Stanford University,75,11744,25,4,est_cits,2,5789,2
+2613599019,Simon Haykin,,1,5228,1,5,est_cits,1,5228,1
+2141318278,Emory A. Griffin,Wheaton College (Illinois),1,4188,1,6,est_cits,1,4188,1
+2023198414,Gunther Kress,Institute of Education,132,29426,34,7,est_cits,1,3086,1
+2345570100,T van Leeuwen,,2,3086,1,8,est_cits,1,3086,1
+2342855301,Stephen W. Littlejohn,Humboldt State University,19,3491,10,9,est_cits,3,2938,2
+2985377657,Carl Adam Petri,,1,2805,1,10,est_cits,1,2805,1
+2162319355,Robert T. Craig,University of Colorado Boulder,58,4528,19,11,est_cits,15,2798,7
+2056937161,Noshir Contractor,Northwestern University,246,15993,44,12,est_cits,3,2721,2
+2158285235,Peter R. Monge,University of Southern California,102,11517,37,13,est_cits,2,2721,2
+2081756610,Rudiger Urbanke,École Polytechnique Fédérale de Lausanne,138,23888,48,14,est_cits,1,2096,1
+2302839145,Tom Richardson,Qualcomm,296,30161,65,15,est_cits,1,2096,1
+1820181795,Thomas E. Ruggiero,University of Texas at El Paso,10,2219,6,16,est_cits,1,2091,1
+2127240864,Robert M. Gray,Stanford University,367,48416,75,17,est_cits,1,2004,1
+2719450436,A.J. Jerri,Clarkson College,1,1969,1,18,est_cits,1,1969,1
+2721350989,Denis McQuail,University of Amsterdam,64,8040,22,19,est_cits,5,1941,3
+2622668838,I. M. Jacobs,,2,2023,2,20,est_cits,1,1935,1
+2894867215,J. M. Wozencraft,,1,1935,1,21,est_cits,1,1935,1
+2145462135,Philip R. Cohen,Oregon Health & Science University,130,16551,48,22,est_cits,8,1917,5
+2012064754,Janet Fulk,University of Southern California,73,10813,31,23,est_cits,2,1863,2
+2182057973,Seymour Stein,,21,2884,4,24,est_cits,4,1833,1
+2250464492,Mischa Schwartz,Columbia University,84,5940,23,25,est_cits,4,1833,1
+2321911437,William R. Bennett,Columbia University,22,1931,3,26,est_cits,4,1833,1
+2281886363,David L. Deephouse,University of Alberta,39,10367,21,27,est_cits,1,1790,1
+2650830334,Ray Hyman,Johns Hopkins University,3,1941,3,28,est_cits,1,1747,1
+2781151860,David Middleton,,1,1742,1,29,est_cits,1,1742,1
+2019216634,Caroline Haythornthwaite,Syracuse University,145,15510,38,30,est_cits,1,1636,1
+1986209444,Ahmad Bahai,"University of California, Berkeley",87,10187,26,31,est_cits,1,1355,1
+2974674697,Burton R. Saltzberg,,1,1355,1,32,est_cits,1,1355,1
+1637350406,Maria Fazanelli Crestana,University of São Paulo,20,1391,3,33,est_cits,1,1352,1
+2124352877,Maureen Taylor,University of Tennessee,102,8358,31,34,est_cits,3,1338,2
+2159843194,Judee K. Burgoon,University of Arizona,331,25019,75,35,est_cits,3,1319,3
+2019767560,Petre Stoica,Uppsala University,737,56594,102,36,est_cits,1,1313,1
+2100052106,Erik G. Larsson,Linköping University,1018,40825,91,37,est_cits,2,1313,1
+2101964000,Girish Ganesan,Uppsala University,19,2935,13,38,est_cits,1,1313,1
+2979977358,John Fiske,,1,1309,1,39,est_cits,1,1309,1
+1749773197,David B. Buller,University of Arizona,163,9318,50,40,est_cits,2,1294,2
+2102176278,Michael L. Kent,University of Oklahoma,57,6255,21,41,est_cits,1,1263,1
+2142660318,Pauline Boss,University of Minnesota,59,7532,28,42,est_cits,1,1223,1
+2082103033,R. Price,Massachusetts Institute of Technology,5,1937,5,43,est_cits,1,1188,1
+2668887035,P. E. Green,Massachusetts Institute of Technology,1,1188,1,44,est_cits,1,1188,1
+2029810496,Ojelanki K. Ngwenyama,University of Cape Town,113,5154,30,45,est_cits,2,1185,2
+2633043354,S. W. Golomb,,1,1183,1,46,est_cits,1,1183,1
+2167281054,George R. Price,,1,1137,1,47,est_cits,1,1137,1
+2099401557,Dale E. Brashers,University of Illinois at Urbana–Champaign,54,4559,26,48,est_cits,4,1133,4
+37595673,Ian F. Akyildiz,Georgia Institute of Technology,575,106548,120,49,est_cits,3,1132,2
+2104932856,F. Brunetti,The Catholic University of America,43,1505,11,50,est_cits,1,1116,1
+2710175467,Cristina Blázquez,Polytechnic University of Catalonia,1,1116,1,51,est_cits,1,1116,1
+2290727021,Joseph A. O'Sullivan,Washington University in St. Louis,246,5878,34,52,est_cits,2,1089,2
+2097372400,James R. Taylor,Université de Montréal,44,3489,20,53,est_cits,3,1077,2
+2921363099,Marvin K. Simon,Jet Propulsion Laboratory,228,38744,69,54,est_cits,4,1064,3
+1974652783,Michael L. Hecht,Pennsylvania State University,166,8841,51,55,est_cits,7,1062,7
+2145538250,James W. Tankard,,5,1068,3,56,est_cits,2,1040,2
+2502817026,Werner J. Severin,,5,1068,3,57,est_cits,2,1040,2
+2158578300,Allen S. Lee,Virginia Commonwealth University,103,13841,25,58,est_cits,1,1036,1
+1852334968,William C. Lindsey,University of Southern California,75,5098,21,59,est_cits,2,977,2
+2199827992,Pierre Moulin,University of Illinois at Urbana–Champaign,250,10490,46,60,est_cits,1,950,1
+2717873129,D. Gabor,,1,928,1,61,est_cits,1,928,1
+2166479386,Norbert Wiener,Massachusetts Institute of Technology,169,74913,47,62,est_cits,1,879,1
+24758616,William B. Gudykunst,"California State University, Fullerton",92,12531,47,63,est_cits,3,875,3
+1931511623,Alfredo De Santis,University of Salerno,189,12208,46,64,est_cits,4,873,4
+2230956045,Young Yun Kim,University of Oklahoma,52,3949,18,65,est_cits,3,872,3
+2122104108,Jerry Morgan,University of Illinois at Urbana–Champaign,32,2081,11,66,est_cits,4,850,2
+2920691311,Martha E. Pollack,University of Michigan,142,12915,50,67,est_cits,4,850,2
+1854929514,Carlo Blundo,University of Salerno,127,7630,29,68,est_cits,2,829,2
+1977349315,Chris Eliasmith,University of Waterloo,180,5764,32,69,est_cits,2,812,2
+2140520855,Charles H. Anderson,Washington University in St. Louis,123,12319,41,70,est_cits,2,812,2
+2097597968,Dmitri Williams,University of Southern California,72,9397,35,71,est_cits,1,757,1
+2120386711,Scott E. Caplan,University of Delaware,28,7314,17,72,est_cits,1,757,1
+2129843663,Nick Yee,PARC,69,16847,39,73,est_cits,1,757,1
+81613839,Joseph N. Cappella,University of Pennsylvania,195,13065,52,74,est_cits,1,738,1
+2118178855,Martin Fishbein,University of Pennsylvania,153,141024,75,75,est_cits,1,738,1
+2678979930,Mischa Schwartz,,1,738,1,76,est_cits,1,738,1
+2676601693,Hector J. Levesque,University of Toronto,216,23812,59,77,est_cits,1,736,1
+2918926665,Karen A. Foss,Humboldt State University,31,2530,13,78,est_cits,2,721,1
+1990549422,Ascan F. Koerner,University of Minnesota,50,2618,17,79,est_cits,3,713,2
+2001749418,Jan Camenisch,IBM,335,23292,69,80,est_cits,1,704,1
+2042629587,Markus Stadler,ETH Zurich,11,4447,11,81,est_cits,1,704,1
+2099454952,Manfred R. Schroeder,University of Göttingen,130,8263,28,82,est_cits,1,690,1
+1969708757,Elizabeth J. Van Every,Université de Montréal,7,1086,4,83,est_cits,1,677,1
+2194521099,François Cooren,Université de Montréal,104,5434,27,84,est_cits,3,674,3
+2306341867,Martha L. Maznevski,Internet Movie Database,56,7162,20,85,est_cits,1,670,1
+2145119366,W. Russell Neuman,University of Michigan,51,11234,22,86,est_cits,3,661,3
+2046092719,Douglas R. Stinson,University of Waterloo,319,22330,63,87,est_cits,2,650,2
+2971154508,Harold J. Kushner,,1,643,1,88,est_cits,1,643,1
+2013742080,Carl Adam Petri,,1,616,1,89,est_cits,1,616,1
+2115720509,Stanley J. Baran,Cleveland State University,20,1099,6,90,est_cits,2,607,2
+2260448705,Dennis K. Davis,,6,618,2,91,est_cits,1,605,1
+2109972008,Arthur Asa Berger,San Francisco State University,205,9443,22,92,est_cits,4,603,2
+2096767495,Lauren Guggenheim,University of Michigan,9,813,6,93,est_cits,2,593,2
+2119819634,Karlene H. Roberts,"University of California, Berkeley",114,16847,44,94,est_cits,1,578,1
+2512465869,Linda L. Putnam,"University of California, Santa Barbara",142,16319,50,95,est_cits,1,578,1
+2666675131,Fredric M. Jablin,,3,1645,3,96,est_cits,1,578,1
+2971072169,Lyman W. Porter,"University of California, Berkeley",62,41660,29,97,est_cits,1,578,1
+2751626994,Jan Khre,,1,577,1,98,est_cits,1,577,1
+124599811,Giuseppe Ateniese,Stevens Institute of Technology,91,16305,43,99,est_cits,1,560,1
+2108521744,Rosario Gennaro,City College of New York,144,16646,60,100,est_cits,3,549,2

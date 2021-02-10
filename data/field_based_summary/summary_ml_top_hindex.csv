@@ -1,0 +1,101 @@
+id,name,affiliation,pubs_count,est_cits,h_index,rank,ranked_by,in_field_pubs_count,in_field_est_cits,in_field_h_index
+161269817,Yoshua Bengio,Université de Montréal,668,267611,155,1,h_index,540,181043,129
+2141382980,Francisco Herrera,University of Granada,930,77039,139,2,h_index,591,55190,115
+297432538,Bernhard Schölkopf,Max Planck Society,950,138185,134,3,h_index,364,87288,98
+2121939561,Jiawei Han,University of Illinois at Urbana–Champaign,1063,174743,170,4,h_index,347,43896,98
+2435751034,Michael I. Jordan,"University of California, Berkeley",719,170600,153,5,h_index,296,98382,97
+563069026,Geoffrey E. Hinton,Google,360,346236,142,6,h_index,201,171099,96
+136859070,Witold Pedrycz,University of Alberta,1589,60235,116,7,h_index,782,29421,88
+2104401652,Andrew Y. Ng,Stanford University,246,130182,118,8,h_index,127,95509,88
+1972291593,Alexander J. Smola,Amazon.com,361,106886,112,9,h_index,214,73704,86
+2286237009,Zhi-Hua Zhou,Nanjing University,527,45717,100,10,h_index,386,38943,85
+2125104194,Philip S. Yu,University of Illinois at Chicago,1680,107659,155,11,h_index,527,36019,84
+2106268727,Xin Yao,Southern University and A&M College,1008,50650,101,12,h_index,394,35674,82
+2174985400,Trevor Darrell,"University of California, Berkeley",474,107119,125,13,h_index,227,44776,81
+2167404190,Daphne Koller,Stanford University,318,68564,128,14,h_index,159,33917,80
+2104129307,Dacheng Tao,University of Sydney,993,43859,110,15,h_index,484,20423,78
+2109031554,Qiang Yang,Harbin Institute of Technology,993,55417,107,16,h_index,364,35460,77
+2131293038,Andrew McCallum,University of Massachusetts Amherst,336,66112,96,17,h_index,203,52964,76
+617670330,Zoubin Ghahramani,University of Cambridge,406,54200,101,18,h_index,254,35645,74
+2012736320,Klaus-Robert Müller,Technical University of Berlin,799,70129,112,19,h_index,263,33672,74
+2198983026,Christos Faloutsos,Carnegie Mellon University,742,83506,128,20,h_index,235,24154,72
+2053214915,Yann LeCun,New York University,301,135616,107,21,h_index,167,65660,71
+2058584252,Jason Weston,Facebook,175,62747,87,22,h_index,123,42857,70
+2149153931,Christopher D. Manning,Stanford University,387,113692,114,23,h_index,161,49831,70
+231105818,Ronald R. Yager,Iona College,890,70852,120,24,h_index,326,16611,69
+2102678951,David E. Goldberg,University of Illinois at Urbana–Champaign,503,162517,115,25,h_index,222,126208,69
+2031945151,Ruslan Salakhutdinov,Carnegie Mellon University,227,71097,77,26,h_index,209,54898,68
+2107070739,Xuelong Li,Northwestern Polytechnical University,822,34452,97,27,h_index,307,14003,68
+2116333191,Jürgen Schmidhuber,Dalle Molle Institute for Artificial Intelligence Research,365,73840,84,28,h_index,226,40005,68
+2300659125,Didier Dubois,University of Toulouse,814,70240,124,29,h_index,264,15619,67
+2155014515,Shyi-Ming Chen,National Taiwan University of Science and Technology,402,24057,92,30,h_index,245,15519,66
+243981275,Pieter Abbeel,"University of California, Berkeley",370,32629,92,31,h_index,212,19523,65
+2082615088,Henri Prade,Paul Sabatier University,783,66765,116,32,h_index,315,16968,65
+351197510,Eric P. Xing,Carnegie Mellon University,529,26925,78,33,h_index,359,18383,64
+2122391114,Huan Liu,Arizona State University,601,51612,100,34,h_index,244,29619,64
+2167433806,Raymond J. Mooney,University of Texas at Austin,266,31235,83,35,h_index,154,20076,64
+2170070822,Eamonn Keogh,"University of California, Riverside",274,39766,85,36,h_index,145,24614,63
+1970391018,Eric Horvitz,Microsoft,867,72007,147,37,h_index,204,16971,62
+2075956027,Sebastian Thrun,Stanford University,418,102112,146,38,h_index,99,29690,62
+2142724104,Rong Jin,Alibaba Group,348,17707,74,39,h_index,201,12150,62
+2169012919,Pedro Domingos,University of Washington,195,41822,80,40,h_index,142,32414,62
+2122007671,Dan Roth,University of Pennsylvania,435,22508,75,41,h_index,240,13277,61
+2147180669,Peter Stone,University of Texas at Austin,574,24018,76,42,h_index,232,12973,61
+2149631809,Thomas S. Huang,University of Illinois at Urbana–Champaign,1303,108564,148,43,h_index,238,15393,61
+2150011549,Kalyanmoy Deb,Michigan State University,639,158200,113,44,h_index,212,73997,61
+2163830057,David Zhang,The Chinese University of Hong Kong,1081,60200,117,45,h_index,203,12898,61
+2311050954,Ponnuthurai Nagaratnam Suganthan,Nanyang Technological University,410,39744,86,46,h_index,180,16699,61
+1620943014,Bernt Schiele,Max Planck Society,456,47066,110,47,h_index,174,17215,60
+1984838606,Li Fei-Fei,Stanford University,290,82530,95,48,h_index,145,43329,60
+2144833106,Shuicheng Yan,National University of Singapore,690,50699,105,49,h_index,257,15122,60
+2162010601,Anil K. Jain,Michigan State University,882,215190,186,50,h_index,131,38949,60
+2245267964,Feiping Nie,Northwestern Polytechnical University,421,15608,68,51,h_index,232,11316,60
+2289542319,David M. Blei,Columbia University,269,82058,81,52,h_index,180,60948,60
+2016539005,Samy Bengio,Google,279,29048,77,53,h_index,149,21799,59
+2021640924,David Heckerman,Microsoft,426,67363,116,54,h_index,169,36217,59
+2115970221,Guang-Bin Huang,Nanyang Technological University,205,40213,65,55,h_index,141,36930,59
+2176619569,Oscar Castillo,AmeriCorps VISTA,896,16233,73,56,h_index,362,10528,59
+2328522601,Aaron Courville,Université de Montréal,171,75069,69,57,h_index,156,46006,59
+2345075623,Ajith Abraham,Technical University of Ostrava,1053,30267,85,58,h_index,395,14439,59
+2430169722,Yi Yang,"University of Technology, Sydney",406,22569,83,59,h_index,203,12207,59
+1075592465,Michael L. Littman,Brown University,281,36689,74,60,h_index,166,28653,58
+1111049960,Koray Kavukcuoglu,Google,83,51423,69,61,h_index,80,29837,58
+1878631932,Jure Leskovec,Stanford University,275,57360,101,62,h_index,158,26800,58
+2096170287,Jerry M. Mendel,University of Southern California,438,48511,93,63,h_index,148,29168,58
+160031478,Thomas G. Dietterich,Oregon State University,251,36911,69,64,h_index,173,30364,57
+1822555116,Ian Goodfellow,Google,95,71210,61,65,h_index,97,43965,57
+2033403132,Inderjit S. Dhillon,University of Texas at Austin,260,33131,85,66,h_index,144,19496,57
+2045864003,Karl J. Friston,University College London,1285,234057,233,67,h_index,131,14745,57
+2166284823,Xiaoou Tang,The Chinese University of Hong Kong,478,72214,118,68,h_index,126,22714,57
+2280789105,Yaochu Jin,University of Surrey,437,18687,71,69,h_index,212,11853,57
+676270904,Hisao Ishibuchi,Southern University and A&M College,634,25252,73,70,h_index,360,16789,56
+2140030024,Sergey Levine,"University of California, Berkeley",240,19921,73,71,h_index,195,13265,56
+2170452912,Patricia Melin,Autonomous University of Baja California,741,13617,66,72,h_index,358,9952,56
+2469405535,Andrew Zisserman,University of Oxford,648,193637,161,73,h_index,130,61504,56
+2014508897,Max Welling,University of Amsterdam,259,27147,65,74,h_index,164,16797,55
+2065104188,Alan L. Yuille,Johns Hopkins University,550,51524,103,75,h_index,224,13065,55
+2117954069,Honglak Lee,Google,149,25624,62,76,h_index,144,23518,55
+2121310506,Francis Bach,École Normale Supérieure,310,38653,87,77,h_index,136,21170,55
+2151014374,Tom M. Mitchell,Carnegie Mellon University,278,43861,75,78,h_index,133,27308,55
+278177626,Robert E. Schapire,Microsoft,194,100515,79,79,h_index,124,68426,54
+1988556028,Carlos Guestrin,University of Washington,182,32340,74,80,h_index,113,24114,54
+2115385359,William W. Cohen,Carnegie Mellon University,299,30660,74,81,h_index,172,17447,54
+2131502281,Alex A. Freitas,University of Kent,343,14302,60,82,h_index,212,11719,54
+2634174050,Oriol Vinyals,Google,128,33221,67,83,h_index,100,27711,54
+2149762431,Zeshui Xu,Sichuan University,517,41797,108,84,h_index,165,10895,53
+2167731548,Kevin Murphy,Google,164,41696,75,85,h_index,107,26291,53
+2227253382,Xiaogang Wang,The Chinese University of Hong Kong,272,39567,98,86,h_index,125,18527,53
+2244698799,Bing Liu,University of Illinois at Chicago,381,53578,88,87,h_index,130,20712,53
+236175242,James C. Bezdek,University of Melbourne,354,64144,86,88,h_index,144,17867,52
+560881892,Daniel S. Weld,University of Washington,271,32186,86,89,h_index,117,11335,52
+2003907699,Kilian Q. Weinberger,Cornell University,149,29446,58,90,h_index,112,20333,52
+2120464764,Richard S. Sutton,University of Alberta,200,69086,65,91,h_index,133,55072,52
+2161448407,Shaogang Gong,Queen Mary University of London,357,24878,83,92,h_index,172,9749,52
+720605457,Nikola Kasabov,Auckland University of Technology,575,14246,61,93,h_index,296,11581,51
+2048719660,Fabio Roli,University of Cagliari,342,14943,66,94,h_index,167,9441,51
+2103920730,Luc Van Gool,ETH Zurich,1013,89259,110,95,h_index,195,19452,51
+2215287472,John Shawe-Taylor,University College London,504,59843,70,96,h_index,220,33867,51
+2060802895,Craig Boutilier,Google,237,19314,65,97,h_index,153,14265,50
+2079978182,Nir Friedman,Hebrew University of Jerusalem,225,66316,92,98,h_index,99,31349,50
+2566401185,Sankar K. Pal,Indian Statistical Institute,474,30312,77,99,h_index,183,15254,50
+2006188770,Tao Xiang,Queen Mary University of London,212,14594,68,100,h_index,151,9059,49

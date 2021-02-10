@@ -1,0 +1,999 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index
+2765561279,Juan Tamargo,Complutense University of Madrid,europe_randoms,1,30,1,0,0,30,0,0,1,1
+2627166206,IM Balfour-Lynn,Imperial College London,europe_randoms,2,204,0,1,0,0,204,0,1,1
+2034598755,Xuan Quang Huynh,University of Paris,europe_randoms,4,8,1,0,0,5,0,0,1,1
+2968825696,Virginie Courtier-Orgogozo,University of Paris,europe_randoms,3,0,0,0,0,0,0,0,0,0
+2009957077,Johan F. Modder,Utrecht University,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2567188869,David Gerber,University of Bern,europe_randoms,1,28,1,0,0,28,0,0,1,1
+2670880275,Ann Clements,Imperial College London,europe_randoms,6,29,6,0,0,29,0,0,4,4
+2110843704,Salvi Turró,University of Barcelona,europe_randoms,6,0,4,0,0,0,0,0,0,0
+2994903149,R. Leuwer,University of Hamburg,europe_randoms,1,25,1,0,0,25,0,0,1,1
+2103119830,Vu Thi Thu Huong,Katholieke Universiteit Leuven,europe_randoms,10,132,9,0,0,125,0,0,7,7
+2769215757,Johanna Reinoso-Moreno,University of Barcelona,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2108868921,Davide Carnelli,Polytechnic University of Milan,europe_randoms,30,362,17,0,0,361,0,0,12,12
+2705135038,D. C. Tozer,Newcastle University,europe_randoms,1,153,1,0,0,153,0,0,1,1
+2192091867,M. Eecen,University of Amsterdam,europe_randoms,1,69,0,1,0,0,69,0,1,1
+2960692591,Maaike C. Gerards,University of Amsterdam,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2640167934,W. J. M. Mackenzie,University of Manchester,europe_randoms,2,2,1,0,0,1,0,0,1,1
+2974108653,M.S.P. Sansom,University of Oxford,europe_randoms,2,12,0,2,0,0,12,0,2,2
+2655972401,R. Hilsch,University of Göttingen,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2994898285,Alain Prigent,University of Paris,europe_randoms,1,0,1,0,0,0,0,0,0,0
+1284370371,Gertrud Linnert,University of Freiburg,europe_randoms,9,255,8,0,0,231,0,0,8,8
+2801819496,Per Skafte Hansen,Technical University of Denmark,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2890540622,E.P. Aristova,Moscow State University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2634805807,B. P. R. Sturgeon,University of Edinburgh,europe_randoms,1,5,1,0,0,5,0,0,1,1
+704778561,D. Ponette,Katholieke Universiteit Leuven,europe_randoms,2,56,2,0,0,56,0,0,2,2
+2000773993,Veerle de Smet,Ghent University,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2572191037,Patrick Bolton,King's College London,europe_randoms,230,32747,206,0,1,32297,0,146,83,82
+2721070307,Elke Schmidt,University of Freiburg,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2559882440,Clement Sefa-Nyarko,King's College London,europe_randoms,1,1,1,0,0,1,0,0,1,1
+1749741709,Paul Harston,University of Aberdeen,europe_randoms,6,44,6,0,0,44,0,0,4,4
+2510080635,Judith Prado,Autonomous University of Barcelona,europe_randoms,5,183,5,0,0,183,0,0,5,5
+2593183022,Argianto Rahartomo,University of Göttingen,europe_randoms,2,0,0,1,0,0,0,0,0,0
+2679920288,P. Hári,University of Twente,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2598089414,Kuan-Ju Lu,Wageningen University and Research Centre,europe_randoms,4,143,3,0,0,143,0,0,2,2
+2707097359,P.J. Hoskin,University College London,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2075321605,Elisabeth Thulin,Uppsala University,europe_randoms,7,117,4,0,0,117,0,0,3,3
+2494592819,Frederik Slors,University of Amsterdam,europe_randoms,7,28,7,0,0,28,0,0,1,1
+2885518397,Y. Yurtkap,Erasmus University Rotterdam,europe_randoms,1,0,0,0,0,0,0,0,0,0
+848712130,Marjolein Y.V. Homs,Erasmus University Rotterdam,europe_randoms,33,1874,32,0,1,1874,0,8,12,12
+2668569315,Jessica Russell,University College London,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2653869690,Jan Kretzschmar,University of Antwerp,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2614883760,Raúl A. Ortiz-Merino,University College Dublin,europe_randoms,11,75,9,0,0,73,0,0,4,4
+2692282884,A. Schindler,University of Vienna,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2052938037,Norbert Demuth,University of Bern,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2661463917,Esmee Oussoren,University of Amsterdam,europe_randoms,2,27,1,0,0,25,0,0,2,2
+1821442486,M. Houalla,Université catholique de Louvain,europe_randoms,17,369,14,0,0,369,0,0,9,9
+1884381806,K. Slebocki,RWTH Aachen University,europe_randoms,2,4,2,0,0,4,0,0,1,1
+2627902525,P. Triadou,University of Paris,europe_randoms,2,55,2,0,0,55,0,0,2,2
+2231274194,Klaus Doblhammer,Vienna University of Technology,europe_randoms,14,25,2,8,0,3,17,0,3,3
+2121395435,David Dekker,Erasmus University Rotterdam,europe_randoms,10,700,4,0,0,685,0,0,4,4
+2986960076,N. A. Dudley,University of Birmingham,europe_randoms,3,135,3,0,0,135,0,0,2,2
+2486123931,Laurel Fogarty,University College London,europe_randoms,28,1536,21,0,0,1521,0,0,12,12
+2248479605,G. Uolf,University of Göttingen,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2610742833,D. Acevedo,Imperial College London,europe_randoms,1,9,1,0,0,9,0,0,1,1
+2713794449,R. B. Morris,University of Reading,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2754144952,Christian Donner,Technical University of Berlin,europe_randoms,9,25,4,4,0,12,9,0,3,3
+2555569649,I. Ali,University of Nottingham,europe_randoms,3,17,3,0,0,17,0,0,2,2
+2987090496,A. A. Kozhevnikov,Novosibirsk State University,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2644547413,Arco C Verhoeven,University of Amsterdam,europe_randoms,2,352,2,0,0,352,0,0,2,2
+2688840271,R.G. Board,University of Bath,europe_randoms,2,53,2,0,0,53,0,0,2,2
+2799636293,Kukiat Tudpor,Radboud University Nijmegen,europe_randoms,3,18,3,0,0,18,0,0,2,2
+2762762581,and Alexander Nemukhin,Moscow State University,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2709937296,S. Browne,University of Warwick,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2308209990,Daniel Poggio Cano,University of Barcelona,europe_randoms,6,5,6,0,0,5,0,0,2,2
+2026650826,María Dolores Comas-Rengifo,Complutense University of Madrid,europe_randoms,1,102,1,0,0,102,0,0,1,1
+2336910432,Bill R B Lionheart,University of Manchester,europe_randoms,2,3,2,0,0,3,0,0,1,1
+2684573025,Ming Kaan Low,Loughborough University,europe_randoms,1,34,1,0,0,34,0,0,1,1
+2691073158,Zihua Yang,Queen Mary University of London,europe_randoms,4,2,1,3,0,2,0,0,1,1
+2039978939,Barbara Ohrt,Ludwig Maximilian University of Munich,europe_randoms,8,1024,7,0,0,1008,0,0,8,8
+2630204975,J.J. Hu,Karlsruhe Institute of Technology,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2946345364,Nicholas G. S. McGregor,University of York,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2644962426,W. Richter,RWTH Aachen University,europe_randoms,1,2,0,0,0,0,0,0,1,1
+2715656470,G. H. Moody,University of Edinburgh,europe_randoms,1,59,1,0,0,59,0,0,1,1
+2945812053,Konstantin E. Voevodskii,Saint Petersburg State University,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2792485426,SZ Kamupira,University of Cambridge,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2657599091,Juliette S. Behra,University of Leeds,europe_randoms,3,3,1,0,0,0,0,0,1,1
+2998712646,A S Naumov,Moscow State University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2987008658,E. Nygard,University of Oslo,europe_randoms,1,79,1,0,0,79,0,0,1,1
+2655371319,N. Bingefors,Uppsala University,europe_randoms,1,23,1,0,0,23,0,0,1,1
+2114796926,H. Schnabl,Ludwig Maximilian University of Munich,europe_randoms,9,368,9,0,0,368,0,0,8,8
+2436573224,C.R. Carpenter,University of Nottingham,europe_randoms,5,186,5,0,0,186,0,0,5,5
+2222733369,S. Sarohia,University College London,europe_randoms,2,3,0,0,0,0,0,0,1,1
+2605569419,A. Fujii,Imperial College London,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2503451855,Johanne Mw Hazes,Erasmus University Rotterdam,europe_randoms,1,60,1,0,0,60,0,0,1,1
+2793114404,David Pohl,ETH Zurich,europe_randoms,6,8,3,2,0,8,0,0,1,1
+1971444096,Elizabeth Jane Mellor,University of Oxford,europe_randoms,10,25,0,0,0,0,0,0,2,2
+2719876968,Sergey Pevtsov,Moscow State University,europe_randoms,1,122,1,0,0,122,0,0,1,1
+2922613420,V. Pacheco,University of Geneva,europe_randoms,1,7,1,0,0,7,0,0,1,1
+2628260095,M. Wirtz,University of Freiburg,europe_randoms,2,139,1,0,0,139,0,0,1,1
+2573377466,J Hofmann,Dresden University of Technology,europe_randoms,1,106,1,0,0,106,0,0,1,1
+2689053621,Frédéric Stichelbaut,Université catholique de Louvain,europe_randoms,66,867,34,3,0,644,9,0,12,12
+2609321386,Jorma O. Järvisalo,University of Helsinki,europe_randoms,5,38,4,0,0,38,0,0,3,3
+2101585110,Mariarosaria De Simone,Technische Universität München,europe_randoms,4,124,4,0,0,124,0,0,4,4
+2468785065,Ignace Tack,Katholieke Universiteit Leuven,europe_randoms,12,79,5,0,0,79,0,0,3,3
+2347458204,Arti Sikka,Imperial College London,europe_randoms,3,13,2,0,0,13,0,0,2,2
+2703433993,D. I. Robinson,University of Manchester,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2011980442,Mirjam Kretzschmar,Utrecht University,europe_randoms,247,9710,213,1,3,9524,0,152,55,54
+317497870,Lorenzo Fornalè,University of Bologna,europe_randoms,5,438,5,0,0,438,0,0,5,5
+2013264132,J.A. García Núñez,Complutense University of Madrid,europe_randoms,5,6,1,0,0,1,0,0,1,1
+2163814764,Alejandra Álvarez Suárez,University of Barcelona,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2654602728,Samuel Buchsbaum,École normale supérieure de Lyon,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2657124257,J.E. Brignell,University of Southampton,europe_randoms,2,31,2,0,0,31,0,0,2,2
+2688195755,Or Hommes,Radboud University Nijmegen,europe_randoms,1,4,1,0,0,4,0,0,1,1
+1973997585,Tjerk Jan Schuitmaker,VU University Amsterdam,europe_randoms,9,28,7,0,0,27,0,0,3,3
+2548377250,Zahra Almodares,University of Leeds,europe_randoms,1,85,1,0,0,85,0,0,1,1
+2596339929,Jayesh Goyal,University of Exeter,europe_randoms,29,356,20,0,0,349,0,0,9,9
+2641124542,D. van Rooyen,University of Cambridge,europe_randoms,1,57,1,0,0,57,0,0,1,1
+2785987410,Stephen C. Fitzpatrick,University College Dublin,europe_randoms,2,14,2,0,0,14,0,0,2,2
+2568660824,Alexander Bischoff,University of Basel,europe_randoms,24,316,15,0,1,307,0,52,10,9
+2152359919,Merja Koskelainen,University of Helsinki,europe_randoms,9,1737,8,0,0,1662,0,0,9,9
+2464125413,Constantino Pitzalis,King's College London,europe_randoms,1,171,1,0,0,171,0,0,1,1
+2605748658,C. Philpott,University of Oxford,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2105702079,Gamze Ates,Vrije Universiteit Brussel,europe_randoms,17,131,16,0,0,131,0,0,8,8
+2999041726,Spiegel R,University of Zurich,europe_randoms,1,482,1,0,0,482,0,0,1,1
+2652733481,W. Moritz,Ludwig Maximilian University of Munich,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2974195389,F. Loeser,Free University of Berlin,europe_randoms,1,6,0,1,0,0,6,0,1,1
+2098185608,Michele Gatti,University of Zurich,europe_randoms,24,1317,21,0,0,1317,0,0,15,15
+2676309972,P.D.M. Hughes,University of Southampton,europe_randoms,1,30,1,0,0,30,0,0,1,1
+2294972918,Claudia Klein,Ludwig Maximilian University of Munich,europe_randoms,3,208,3,0,0,208,0,0,1,1
+2714629796,L. Bruun,University of Copenhagen,europe_randoms,1,0,0,0,0,0,0,0,0,0
+1547672864,Mahesh Sarki,University of Copenhagen,europe_randoms,5,4,2,0,1,4,0,2,2,1
+2121176477,G. Carey Foster,University College London,europe_randoms,8,6,8,0,0,6,0,0,2,2
+2768130584,R. G. Hemingway,University of Glasgow,europe_randoms,12,84,12,0,0,84,0,0,7,7
+2748632472,Vanya Avramova,Royal Institute of Technology,europe_randoms,3,8,0,3,0,0,8,0,2,2
+2039878034,Alice Ronchi,University of Bologna,europe_randoms,3,34,3,0,0,34,0,0,3,3
+2893563261,A. Hachemi,RWTH Aachen University,europe_randoms,1,32,1,0,0,32,0,0,1,1
+2582156571,Sergio Tobón,Complutense University of Madrid,europe_randoms,17,28,3,0,0,8,0,0,4,4
+2684357833,A. C. R. Dean,University of Oxford,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2920103476,A. D. Kurenkova,Moscow State University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2464205163,N.V. Gusinskaia,University of Amsterdam,europe_randoms,11,124,9,0,0,120,0,0,6,6
+2584122791,John Foster,University of Manchester,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2400352439,Rosario Nuño,Autonomous University of Barcelona,europe_randoms,1,7,1,0,0,7,0,0,1,1
+2999094517,T Ambrose,University of Oxford,europe_randoms,2,0,2,0,0,0,0,0,0,0
+2571685268,Sophie E. Wilkinson,University of Manchester,europe_randoms,1,9,1,0,0,9,0,0,1,1
+2981617676,S Scherzer,University of Zurich,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2138500335,M.M.M. van Reen,Radboud University Nijmegen,europe_randoms,6,1196,6,0,0,1196,0,0,6,6
+2698927967,F.L. Raymond,University of Oxford,europe_randoms,1,206,1,0,0,206,0,0,1,1
+2147746667,Esther Hörmann,University of Basel,europe_randoms,4,367,4,0,0,367,0,0,4,4
+2403452328,Bernhard Schlott,Katholieke Universiteit Leuven,europe_randoms,1,25,1,0,0,25,0,0,1,1
+2559568573,Annalisa Theodorou,Sapienza University of Rome,europe_randoms,8,8,7,0,0,7,0,0,1,1
+2988302489,L. A. Daamen,Utrecht University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2109877213,Laura Wolff,Technische Universität München,europe_randoms,2,7,2,0,0,7,0,0,2,2
+2702139684,Christine C. Enzmann,University of Hamburg,europe_randoms,1,205,1,0,0,205,0,0,1,1
+2020183749,Gerardus P.J. van Hout,Utrecht University,europe_randoms,21,300,20,0,0,298,0,0,9,9
+2159274454,Alex Q. Chen,University of Manchester,europe_randoms,15,168,6,3,1,148,12,1,5,5
+2779935943,Sandra Dowling,Queen's University Belfast,europe_randoms,2,4,2,0,0,4,0,0,1,1
+2717069234,Peter Surmann,Humboldt University of Berlin,europe_randoms,3,29,3,0,0,29,0,0,2,2
+2642571607,Elena Lamberti,University of Bologna,europe_randoms,19,32,4,0,0,0,0,0,2,2
+1828559647,Carlos Yagüe,Complutense University of Madrid,europe_randoms,97,1477,48,0,0,1433,0,0,17,17
+2500685841,Miquel Ortega Cerdà,Autonomous University of Barcelona,europe_randoms,3,2,1,1,0,1,1,0,1,1
+2519816225,Soha Saad,CentraleSupélec,europe_randoms,3,0,0,1,0,0,0,0,0,0
+2768758123,V. A. Babain,Saint Petersburg State University,europe_randoms,28,444,26,0,0,442,0,0,12,12
+2589750883,Arnold Flammersfeld,University of Göttingen,europe_randoms,4,16,3,0,0,14,0,0,3,3
+2095589008,Saara N. A. Qazi,University of Nottingham,europe_randoms,12,1433,10,0,0,1427,0,0,9,9
+2308395894,Sally Leung,Queen's University Belfast,europe_randoms,1,118,1,0,0,118,0,0,1,1
+2504232941,Jaroslava Sperkova,Eindhoven University of Technology,europe_randoms,6,53,6,0,0,53,0,0,4,4
+1987908028,Kris Gellynck,University College London,europe_randoms,32,449,18,0,0,442,0,0,10,10
+2515825140,Y. Wu,Erasmus University Rotterdam,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2888470404,S. Bouquillon,University of Paris,europe_randoms,3,1364,3,0,1,1292,0,854,4,3
+2286654023,Antonio Acri,Polytechnic University of Milan,europe_randoms,14,25,7,0,0,19,0,0,2,2
+2086519941,Yuri G. Bogatsky,Moscow State University,europe_randoms,1,16,1,0,0,16,0,0,1,1
+2442581728,D.A. White,University of Birmingham,europe_randoms,1,25,1,0,0,25,0,0,1,1
+2056032225,Sanath R. Ediriweera,University of Manchester,europe_randoms,3,9,1,0,0,2,0,0,2,2
+2657628184,A.P. Webb,University of Glasgow,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2627297192,A. A. Pastor,Saint Petersburg State University,europe_randoms,3,3,2,0,0,3,0,0,1,1
+2468804444,F. Klein,Aarhus University,europe_randoms,2,919,2,0,0,919,0,0,2,2
+2638913756,Alexander Mullen,Loughborough University,europe_randoms,1,12,1,0,0,12,0,0,1,1
+2649821194,J.R. Forrest,University of Oxford,europe_randoms,1,4,0,0,0,0,0,0,1,1
+2492512326,A.M. Jezequel,Sapienza University of Rome,europe_randoms,29,1006,29,0,0,1006,0,0,13,13
+2648913486,M. E. Herring,Imperial College London,europe_randoms,2,28,1,0,0,23,0,0,2,2
+2879920252,C. Waters,Queen's University Belfast,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2164109874,David M. Goodall,University of York,europe_randoms,141,4659,115,0,0,4504,0,0,35,35
+2682066729,F. X. Maidl,Technische Universität München,europe_randoms,6,32,6,0,0,32,0,0,3,3
+2667790101,Joanna Moe,University of Bristol,europe_randoms,1,8,1,0,0,8,0,0,1,1
+300422154,Erwin Guijt,Delft University of Technology,europe_randoms,3,38,3,0,0,38,0,0,3,3
+2707688071,M. Vogel,Dresden University of Technology,europe_randoms,5,14,5,0,0,14,0,0,2,2
+2911438477,Max Robinson FRCPath,Newcastle University,europe_randoms,1,9,1,0,0,9,0,0,1,1
+2571509272,Kristine B. Jensen,University of Copenhagen,europe_randoms,2,40,2,0,0,40,0,0,2,2
+2973896145,Suzan Ber,University of Cambridge,europe_randoms,2,29,1,0,0,28,0,0,1,1
+2643626415,Suzanne Bracken,"Trinity College, Dublin",europe_randoms,1,30,1,0,0,30,0,0,1,1
+2117244544,Wolfgang Eichler,Heidelberg University,europe_randoms,61,463,55,0,0,459,0,0,11,11
+2676821800,Qiushi Liang,Erasmus University Rotterdam,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2688931156,E.J.M. Damme,Katholieke Universiteit Leuven,europe_randoms,1,65,1,0,0,65,0,0,1,1
+2705642229,H. Nirschl,Technische Universität München,europe_randoms,4,90,1,0,0,65,0,0,3,3
+2463334567,Aloysius J.J.E. Eerhart,Utrecht University,europe_randoms,4,314,3,0,0,314,0,0,3,3
+2275411841,M. Murdock,Queen's University Belfast,europe_randoms,2,3,2,0,0,3,0,0,1,1
+2308834015,E.E. Voglis,Queen Mary University of London,europe_randoms,1,2,0,0,0,0,0,0,1,1
+2970938976,Mahnaz Sadat Qafari,RWTH Aachen University,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2280322849,Mark Mavrogordato,University of Southampton,europe_randoms,53,768,33,0,0,754,0,0,15,15
+2634872595,R. Haglund,Lund University,europe_randoms,3,34,2,0,0,34,0,0,2,2
+2553609117,Mylène Florentin,University of Paris,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2488945074,Catriona Farquhar,University of Birmingham,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2565697258,Kirsi Hyva¨rinen,University of Helsinki,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2786823094,Victor Ghetie,Uppsala University,europe_randoms,1,147,1,0,0,147,0,0,1,1
+2799631331,Visakh V. S. Pillai,University College Dublin,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2598297874,Ruth. C. Vukovich,Ludwig Maximilian University of Munich,europe_randoms,2,16,2,0,0,16,0,0,1,1
+2028180229,François A. Lavergne,University of Oxford,europe_randoms,7,35,7,0,0,35,0,0,4,4
+2122653666,Sinead Morrison,Cardiff University,europe_randoms,10,150,8,0,0,150,0,0,4,4
+2555438571,RHJ|info:eu-repo Houwen,Utrecht University,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2111084056,Muhammed Kamal Uddin,University College London,europe_randoms,11,144,4,0,0,127,0,0,6,6
+1517296393,G. Verhegghe,Ghent University,europe_randoms,2,4,2,0,0,4,0,0,1,1
+2796092160,Michael Barter,Cardiff University,europe_randoms,6,1,3,0,0,1,0,0,1,1
+2884130192,M Bergmann,University of Göttingen,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2122397597,Adam Fox,University of Edinburgh,europe_randoms,34,960,17,0,0,581,0,0,10,10
+2121859064,Fabian Keller,University of Bern,europe_randoms,2,4,1,0,0,4,0,0,1,1
+2309043026,H. Jaksche,Technische Universität München,europe_randoms,4,37,4,0,0,37,0,0,2,2
+2475341935,Sarah L. Mason,University of Sheffield,europe_randoms,6,334,6,0,0,334,0,0,3,3
+2131289960,B. E. Sheffy,Ludwig Maximilian University of Munich,europe_randoms,4,103,3,0,0,103,0,0,3,3
+2745875289,Katrine Lindvig,University of Copenhagen,europe_randoms,7,19,4,1,0,16,0,0,3,3
+2427230899,Izarra Rodríguez Bilbao,Complutense University of Madrid,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2924579178,Franziska Glüer,ETH Zurich,europe_randoms,2,0,1,0,0,0,0,0,0,0
+1975533042,Yu. S. Kardasheva,Moscow State University,europe_randoms,31,145,29,0,0,145,0,0,8,8
+2430236278,Ruziedi Y. Ridwan,Erasmus University Rotterdam,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2772473399,Josephus J Heijnen,Delft University of Technology,europe_randoms,1,101,1,0,0,101,0,0,1,1
+2091560073,J.M. Dunsdon,University of Southampton,europe_randoms,12,342,10,0,0,342,0,0,9,9
+2556256046,Paulo Cajano,University of Aberdeen,europe_randoms,1,8,1,0,0,8,0,0,1,1
+854442413,C Campos Esteve,Autonomous University of Barcelona,europe_randoms,1,7,0,0,0,0,0,0,1,1
+2639526897,Richard W. Latcham,University of Edinburgh,europe_randoms,4,172,4,0,3,172,0,149,4,1
+2776611040,Carina Neil,University of Nottingham,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2289256405,R. S. Tobias,University of Birmingham,europe_randoms,30,1461,30,0,0,1461,0,0,16,16
+2964235845,X. Cid Vidal,University of Barcelona,europe_randoms,90,595,7,0,0,549,0,0,4,4
+2153226895,Chantal Hauser,University of Bern,europe_randoms,5,604,3,0,0,593,0,0,4,4
+2105116022,Kaushik Rakshit,Queen Mary University of London,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2642996333,Eva Bastida,University of Barcelona,europe_randoms,52,1431,45,0,0,1424,0,0,17,17
+2154477604,William Harrison,"Trinity College, Dublin",europe_randoms,53,4963,14,30,0,611,4088,0,19,19
+2516823216,Renata Spanicciati,Sapienza University of Rome,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2173072311,Kevin Theakston,University of Leeds,europe_randoms,69,272,34,0,0,204,0,0,10,10
+2054026414,Tonje Castberg,University of Bergen,europe_randoms,9,1142,9,0,0,1142,0,0,9,9
+2145103192,Heikki Korpi,University of Helsinki,europe_randoms,10,355,10,0,0,355,0,0,8,8
+2119344948,John J. Longridge,University of Cambridge,europe_randoms,8,51,8,0,0,51,0,0,3,3
+787147280,Chen Zhong-Liang,Technical University of Berlin,europe_randoms,1,58,1,0,0,58,0,0,1,1
+2127142233,Christopher M. Smith,University of Cambridge,europe_randoms,28,5773,27,0,0,5772,0,0,19,19
+2750252449,Eugene M. van Oers,Eindhoven University of Technology,europe_randoms,1,33,1,0,0,33,0,0,1,1
+2668296707,Jingxia Shao,Leiden University,europe_randoms,2,78,2,0,0,78,0,0,2,2
+2746456932,Pia Bøttiger Mørch,University of Copenhagen,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2284585368,Carolyn Heitmeyer,London School of Economics and Political Science,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2656696449,V. Varoli,Polytechnic University of Milan,europe_randoms,1,13,1,0,0,13,0,0,1,1
+2945372314,Tobias Forster,Heidelberg University,europe_randoms,12,7,8,0,0,7,0,0,1,1
+1968616541,John Kerrigan,University of Cambridge,europe_randoms,51,275,18,0,0,34,0,0,5,5
+2565691196,Peter F. Renz,University of Zurich,europe_randoms,3,13,3,0,0,13,0,0,1,1
+2693223552,Horst Albach,Humboldt University of Berlin,europe_randoms,27,57,9,0,0,19,0,0,4,4
+2511143242,Lara Perski,University of Oxford,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2569548854,Gorantla P. Sivahari,Technische Universität München,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2475595574,U. Löhnert,Ludwig Maximilian University of Munich,europe_randoms,1,0,0,0,0,0,0,0,0,0
+1463215419,Kristian Nymoen,University of Oslo,europe_randoms,51,384,7,20,1,108,193,9,9,9
+2797843968,Aias Retsinas,University of Southampton,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2115090870,Benjamin Gaertner,Karlsruhe Institute of Technology,europe_randoms,9,195,9,0,0,195,0,0,7,7
+2637883024,E. S. Barnes,"Trinity College, Dublin",europe_randoms,1,5,0,0,0,0,0,0,1,1
+2556049729,L. Viti,Sapienza University of Rome,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2981302612,Winnie G. Vos,University of Amsterdam,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2327577649,Marc Fuchs,Queen's University Belfast,europe_randoms,2,64,2,0,0,64,0,0,1,1
+2991148583,Nele Van Den Noortgate,Vrije Universiteit Brussel,europe_randoms,24,43,5,0,1,41,0,0,2,2
+2704997824,Mino Sparenberg,Humboldt University of Berlin,europe_randoms,6,32,5,0,0,30,0,0,3,3
+2635073364,J W Allen,University of Nottingham,europe_randoms,1,5,0,0,0,0,0,0,1,1
+2648349872,Marc van den Broek,University of Amsterdam,europe_randoms,1,5,1,0,1,5,0,5,1,0
+2563160985,Ma Mercedes Ramos,University of Barcelona,europe_randoms,1,18,1,0,0,18,0,0,1,1
+2461920295,J. Kinane,"Trinity College, Dublin",europe_randoms,3,0,2,0,0,0,0,0,0,0
+2710012037,Denise Shelley Newnham,University of Helsinki,europe_randoms,2,1,2,0,0,1,0,0,1,1
+2108974579,Gerbrich N. van der Meulen,University of Groningen,europe_randoms,3,45,3,0,0,45,0,0,3,3
+2502199598,C.T. Rieck,University of Hamburg,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2688352169,Holger Drews,University of Hamburg,europe_randoms,1,22,1,0,0,22,0,0,1,1
+2038313738,Katrijn Cobbaut,Ghent University,europe_randoms,6,54,4,0,0,54,0,0,3,3
+2584033447,Katarzyna Cieslik,Wageningen University and Research Centre,europe_randoms,12,68,8,0,0,61,0,0,4,4
+1217105845,Andrew Vansickle,Imperial College London,europe_randoms,1,22,1,0,0,22,0,0,1,1
+326927699,Leonie Sundmacher,Ludwig Maximilian University of Munich,europe_randoms,58,533,48,0,0,430,0,0,13,13
+2632990749,Don Hendrick,Free University of Berlin,europe_randoms,2,20,2,0,0,20,0,0,2,2
+2116378435,K. Wildhagen,University of Bergen,europe_randoms,1,166,1,0,0,166,0,0,1,1
+2689509410,Rachael E. Meller,University of Cambridge,europe_randoms,1,162,1,0,0,162,0,0,1,1
+2521883497,Mark Van Houdenhoven,Radboud University Nijmegen,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2657458560,Joelle M Fliers,University of Amsterdam,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2430585668,K. C. Lin,Technische Universität München,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2750592660,Jonathan Gräser,Karlsruhe Institute of Technology,europe_randoms,1,2,0,1,0,0,2,0,1,1
+2692702051,W.D. Rosamond,University of Oxford,europe_randoms,1,174,1,0,0,174,0,0,1,1
+2140536187,M. Lim,University of Tübingen,europe_randoms,2,3,2,0,0,3,0,0,1,1
+2701186983,G. A. Gehring,University of Sheffield,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2521821094,L. Feighery,"Trinity College, Dublin",europe_randoms,1,23,1,0,0,23,0,0,1,1
+2649727614,J. A. Greenwood,University of Cambridge,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2608093190,Jacqueline Tapon-Bretaudière,University of Paris,europe_randoms,4,311,4,0,0,311,0,0,3,3
+2884548206,L. Pape,Moscow State University,europe_randoms,1,121,0,0,0,0,0,0,0,0
+2992928458,A.T. Clausen,Technical University of Denmark,europe_randoms,38,573,15,19,0,514,59,0,10,10
+2110260014,Matthew S. Huber,University of Vienna,europe_randoms,10,42,7,0,0,41,0,0,4,4
+2673021020,G. Winkler,Dresden University of Technology,europe_randoms,2,21,0,0,0,0,0,0,2,2
+2505361245,Robert H. Mol,Utrecht University,europe_randoms,1,53,1,0,0,53,0,0,1,1
+2463934768,L. Ashworth,Newcastle University,europe_randoms,3,279,3,0,0,279,0,0,3,3
+2633366040,A. McMahon,University of Bath,europe_randoms,1,19,1,0,0,19,0,0,1,1
+2132342698,Neville A. Stanton,University of Southampton,europe_randoms,836,20487,369,30,1,15452,310,2,76,76
+2122800124,Sarah Castle,King's College London,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2496833869,Raj Nievelstein,Utrecht University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2551727182,Oleksii Oleksenko,Dresden University of Technology,europe_randoms,13,172,0,7,0,0,129,0,6,6
+2090029582,L. Schmiedel,Dresden University of Technology,europe_randoms,3,3,3,0,0,3,0,0,1,1
+2632972590,Franz Heppt,Technische Universität München,europe_randoms,1,30,1,0,0,30,0,0,1,1
+2997903725,Anthony Chun Shek,King's College London,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2107764407,Emmi Suhonen,Aalto University,europe_randoms,4,104,0,2,0,0,95,0,3,3
+1990652857,A. Burrage,University of Liverpool,europe_randoms,42,3675,39,0,0,3674,0,0,22,22
+2966010180,N. Rao,University of Cambridge,europe_randoms,2,0,2,0,0,0,0,0,0,0
+1219780665,F. Yarde,Utrecht University,europe_randoms,1,54,1,0,0,54,0,0,1,1
+2718118969,Kasia Blaszczyk,King's College London,europe_randoms,1,457,1,0,0,457,0,0,1,1
+2320526538,Attila Salamon,University College Dublin,europe_randoms,11,24,11,0,0,24,0,0,3,3
+312636521,P. Nimmermann,Ludwig Maximilian University of Munich,europe_randoms,9,140,9,0,0,140,0,0,6,6
+2568914764,Janos Voeroes,ETH Zurich,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2575031721,C. Bosman,University of Manchester,europe_randoms,2,6,2,0,0,6,0,0,2,2
+1987195093,M. Cheref,University of Paris,europe_randoms,4,42,3,0,0,42,0,0,2,2
+597472307,André Orvalho,Technical University of Denmark,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2000080981,Praveetha Patalay,University College London,europe_randoms,68,871,53,0,3,862,0,3,14,14
+2990910026,Bas Lottman,Delft University of Technology,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2500214880,Virginia Unamuno,Ghent University,europe_randoms,9,329,7,0,0,329,0,0,6,6
+2101226417,Irmgard Henning-de Jong,Radboud University Nijmegen,europe_randoms,3,46,3,0,0,46,0,0,3,3
+2106319831,Pierluigi Testa,Sapienza University of Rome,europe_randoms,6,8,6,0,0,8,0,0,1,1
+2529542717,Marcia G. Kishida,University of Cambridge,europe_randoms,1,78,1,0,0,78,0,0,1,1
+2088474886,Paul G. Berwick,Cardiff University,europe_randoms,2,23,2,0,0,23,0,0,1,1
+2599921919,E. R. Froesch,University of Lausanne,europe_randoms,1,70,1,0,0,70,0,0,1,1
+2785544880,Delong Shang,University of Manchester,europe_randoms,2,1,0,2,0,0,1,0,1,1
+2223372546,Sohaib Zafar,Technische Universität München,europe_randoms,1,17,0,1,0,0,17,0,1,1
+28529497,Daniel Kaltenthaler,Ludwig Maximilian University of Munich,europe_randoms,13,9,3,9,0,6,2,0,1,1
+2058008745,Melanie Simon,RWTH Aachen University,europe_randoms,7,51,3,0,0,49,0,0,3,3
+2893360391,Virginia Díez-Obrero,University of Barcelona,europe_randoms,2,4,2,0,0,4,0,0,1,1
+2767542654,Marie Laviron,Imperial College London,europe_randoms,1,11,1,0,0,10,0,0,1,1
+2576942697,H. Hahn,Technische Universität München,europe_randoms,19,430,19,0,0,430,0,0,8,8
+819172522,Andrew Prayle,University of Nottingham,europe_randoms,43,656,39,0,0,656,0,0,9,9
+2122049856,José A. Hinojosa,Complutense University of Madrid,europe_randoms,91,3953,88,0,0,3953,0,0,29,29
+2153595708,Dirk Riemann,University of Freiburg,europe_randoms,28,1218,18,0,0,1073,0,0,14,14
+2716522301,Klaus Lehmann,Humboldt University of Berlin,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2768953710,A. V. Karapetyan,Moscow State University,europe_randoms,2,11,2,0,0,11,0,0,1,1
+2843949198,O. Fedin,University of Bologna,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2692930685,C. J. La Touche,University of Manchester,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2800785032,M.G. Alfiky,University of Cambridge,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2722473789,S. McKee,University of Oxford,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2884089081,S. Baffloni,École Polytechnique,europe_randoms,1,121,1,0,0,121,0,0,1,1
+2765530258,Ashley Davies,University of Nottingham,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2432253192,Jan Holm,University of Copenhagen,europe_randoms,69,1127,67,0,0,1125,0,0,16,16
+2919394170,Roland Beckmann,University of Cambridge,europe_randoms,1,13,1,0,0,13,0,0,1,1
+2085483477,H. Sperl,Humboldt University of Berlin,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2019532902,Dirk Hachmeister,Ludwig Maximilian University of Munich,europe_randoms,2,1,0,0,0,0,0,0,1,1
+2160259704,Nila Roy Choudhury,University of Edinburgh,europe_randoms,13,359,11,0,0,359,0,0,9,9
+2243756455,Sonali Warriar,University of Nottingham,europe_randoms,3,4,3,0,0,4,0,0,1,1
+2438698665,A. M. Graham,University of Cambridge,europe_randoms,5,67,4,0,0,67,0,0,2,2
+2786130070,Marco Perini,University of Hamburg,europe_randoms,4,15,4,0,0,14,0,0,2,2
+2230810621,Tom Schiekel,Dresden University of Technology,europe_randoms,1,0,0,1,0,0,0,0,0,0
+2629913741,I. Badr,University of Birmingham,europe_randoms,2,19,2,0,0,19,0,0,2,2
+2691362853,M.R. Curado,University of Tübingen,europe_randoms,2,39,1,0,0,39,0,0,1,1
+2461460413,P. Gascón-Garrido,University of Göttingen,europe_randoms,6,58,6,0,0,58,0,0,5,5
+2132298393,Phil Wilson,University of Glasgow,europe_randoms,21,1713,15,0,0,1711,0,0,8,8
+2681921731,J. E. Roseblade,University of Cambridge,europe_randoms,1,123,1,0,0,123,0,0,1,1
+2400098667,Heije Faber,Leiden University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2659359400,L. H. M. van der Doelen,Delft University of Technology,europe_randoms,2,4,0,1,0,0,4,0,1,1
+2654860440,V.E. Zubarev,Moscow State University,europe_randoms,1,21,1,0,0,21,0,0,1,1
+2943586986,C. Morel,Imperial College London,europe_randoms,1,2,0,1,0,0,2,0,1,1
+2906394558,A. C. Jenkins,King's College London,europe_randoms,37,762,8,0,0,62,0,0,5,5
+2121940586,Lucie A. van den Berg,University of Amsterdam,europe_randoms,32,3074,31,0,0,3074,0,0,17,17
+2116415093,Julie-Anne Jordan,Queen's University Belfast,europe_randoms,1,91,1,0,0,91,0,0,1,1
+344023841,Peter Weisbeek,Utrecht University,europe_randoms,167,13509,132,0,0,13370,0,0,60,60
+2557891271,Thomas Boehm,University of Zurich,europe_randoms,61,2592,61,0,1,2592,0,9,24,24
+2948181271,SantosSusana,Erasmus University Rotterdam,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2507600455,Grob Pj,University of Zurich,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2673353544,R. Collins,University College London,europe_randoms,3,278,2,0,0,276,0,0,2,2
+2314198534,T. Dimbylow,University of Birmingham,europe_randoms,1,21,1,0,0,21,0,0,1,1
+2572683936,Ronald R. Stewart,Newcastle University,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2644834233,F. Leblhuber,University of Vienna,europe_randoms,18,102,15,0,0,96,0,0,6,6
+2428111036,S.M.A. Hoffmann,University of Manchester,europe_randoms,4,31,4,0,0,31,0,0,4,4
+2578945932,U. Baltensperger,University of Zurich,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2785320662,Vérane Sommermeyer,PSL Research University,europe_randoms,2,20,2,0,0,20,0,0,2,2
+2080617513,A. R. A. Chalcraft,University of Sheffield,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2739091331,L. Halwa,University of Birmingham,europe_randoms,1,19,1,0,1,19,0,19,1,0
+3000664063,M Alfarih,Imperial College London,europe_randoms,3,0,2,0,0,0,0,0,0,0
+2513293963,P. v. Spieß,Free University of Berlin,europe_randoms,1,0,0,0,0,0,0,0,0,0
+1964807480,Timoleon Kipouros,University of Cambridge,europe_randoms,92,577,22,19,0,336,110,0,10,10
+2197794120,Trinidad Pelaez,University of Barcelona,europe_randoms,8,35,8,0,0,35,0,0,4,4
+2693897813,M. Bessis,University of Paris,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2135798238,P. Fontaine,University of Geneva,europe_randoms,1,7,0,0,0,0,0,0,1,1
+2616802815,Ignasi Barber Martinez de la Torre,University of Barcelona,europe_randoms,1,53,1,0,0,53,0,0,1,1
+2792166054,U. Hubbe,University of Freiburg,europe_randoms,1,0,1,0,0,0,0,0,0,0
+256067554,Gaynor Hayburn,Vrije Universiteit Brussel,europe_randoms,2,76,2,0,0,76,0,0,2,2
+2685498256,D. Pfeiffer,Ludwig Maximilian University of Munich,europe_randoms,1,0,1,0,0,0,0,0,0,0
+141553598,Vera Krewald,University of Bath,europe_randoms,29,974,26,0,0,974,0,0,15,15
+2032913715,B. W. Fairley,University of Birmingham,europe_randoms,12,336,6,0,9,243,0,275,5,1
+2982224056,L Prahl Wittberg,Royal Institute of Technology,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2577296159,Yvonne Golding,University of Manchester,europe_randoms,3,478,3,0,0,478,0,0,3,3
+2138234081,Cédric Duval,University of Leeds,europe_randoms,26,631,25,0,0,631,0,0,11,11
+2593850748,FH Jones,University College London,europe_randoms,20,780,12,0,0,779,0,0,11,11
+2973273071,A. Roodsaz,Radboud University Nijmegen,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2797492986,Edgar Heim,University of Zurich,europe_randoms,1,7,1,0,0,7,0,0,1,1
+2111630498,Leif Ekelund,Lund University,europe_randoms,45,782,46,0,0,782,0,0,16,16
+2707467017,Federico Navarro,Complutense University of Madrid,europe_randoms,1,18,1,0,0,18,0,0,1,1
+2140178648,Paul Van Tongeren,Radboud University Nijmegen,europe_randoms,17,33,8,0,0,27,0,0,3,3
+2531141683,Alessio Gagliardi,University of Bologna,europe_randoms,7,2,4,0,0,1,0,0,1,1
+2986577941,P. H. N. Wood,University of Manchester,europe_randoms,1,17,0,0,1,0,0,17,1,0
+2586400879,J.M. Barcala,Complutense University of Madrid,europe_randoms,4,23,4,0,0,23,0,0,3,3
+2657342709,S Müller,University of Basel,europe_randoms,12,651,12,0,0,651,0,0,9,9
+2757902852,M. C. Dobson,Aalto University,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2681010192,Jocelyn Cherry,University of Bristol,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2177149164,Adolf Röpsch,Technical University of Berlin,europe_randoms,1,60,1,0,0,60,0,0,1,1
+2996851476,K. Melin,Lund University,europe_randoms,1,102,1,0,0,102,0,0,1,1
+2907468186,I. M. Alhudiri,University of Nottingham,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2190891037,E. Richter,University of Vienna,europe_randoms,3,12,3,0,0,12,0,0,2,2
+2581612916,Soncini Sessa,Polytechnic University of Milan,europe_randoms,1,2,1,0,0,2,0,0,1,1
+1760047375,D. V. Blagoveshchenskii,Saint Petersburg State University,europe_randoms,2,2,2,0,0,2,0,0,1,1
+2760371284,A. Morabito,Sapienza University of Rome,europe_randoms,2,9,2,0,0,9,0,0,1,1
+2990403625,Morten Engberg,University of Copenhagen,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2798053324,Françoise Marotte,University of Paris,europe_randoms,1,92,1,0,0,92,0,0,1,1
+2103168142,Sabela Carballal,University of Barcelona,europe_randoms,51,353,48,0,0,353,0,0,9,9
+2476562676,A. Gleich,Heidelberg University,europe_randoms,1,7,1,0,0,7,0,0,1,1
+1998327310,Jonathan Jordan,University of Sheffield,europe_randoms,21,155,16,0,0,139,0,0,9,9
+2490681020,F. D. Kahn,University of Manchester,europe_randoms,12,146,11,0,0,146,0,0,7,7
+2054701713,Marten Szibor,University of Helsinki,europe_randoms,43,1323,40,0,0,1321,0,0,14,14
+2806247866,Mustafa B. A. Djamgoz,Imperial College London,europe_randoms,35,726,30,0,0,596,0,0,13,13
+2644290409,J. Egberts,Eindhoven University of Technology,europe_randoms,2,3,2,0,0,3,0,0,1,1
+2627514368,C.C.M. van den Braak,Radboud University Nijmegen,europe_randoms,3,111,3,0,0,111,0,0,3,3
+2965134917,Carolin Ohler,Heidelberg University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2135124212,Marina Antoniou,University of Warwick,europe_randoms,58,387,25,18,0,253,112,0,11,11
+2598249969,Terje Ogden,University of Bergen,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2990618415,YuZe Wang,Durham University,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2796214491,RipoliAndrea,Sapienza University of Rome,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2886872423,Stella S. Daskalopoulou,Imperial College London,europe_randoms,3,14,1,0,0,13,0,0,1,1
+2434630171,Oliver Seyfried,University of Cambridge,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2984829062,A. v. Manteuffel,Heidelberg University,europe_randoms,1,3,0,0,0,0,0,0,1,1
+2653740556,N. Mahy,Autonomous University of Barcelona,europe_randoms,1,21,1,0,0,21,0,0,1,1
+2443757534,Ann Hein Lehman,"Trinity College, Dublin",europe_randoms,3,2,1,1,0,0,1,0,1,1
+2711926178,H.E. Sanders,University of Cambridge,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2724688793,C. Bland Tomkinson,University of Manchester,europe_randoms,2,34,1,0,0,34,0,0,1,1
+2099588779,Lisa Marx,Royal Institute of Technology,europe_randoms,9,14,4,0,0,14,0,0,2,2
+2709957495,G. Ryding,University College London,europe_randoms,1,10,0,0,0,0,0,0,1,1
+2661078392,Lei Shi,Stockholm University,europe_randoms,14,549,13,0,0,549,0,0,8,8
+2971645074,R. Moore,University College London,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2150116321,M.A. Bollen,Wageningen University and Research Centre,europe_randoms,2,9,1,0,0,9,0,0,1,1
+2764644318,Daniel D. De Haan,Katholieke Universiteit Leuven,europe_randoms,2,2,0,0,0,0,0,0,1,1
+2513113106,Alix Aubry,University of Paris,europe_randoms,4,7,4,0,0,7,0,0,2,2
+2285855469,Toska,University of Oslo,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2549934958,Nhat V. Q. Truong,University of Southampton,europe_randoms,3,2,0,2,0,0,2,0,1,1
+2651986495,R. H. Drost,Utrecht University,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2477636259,Peng Huang,Technische Universität München,europe_randoms,3,71,2,0,0,71,0,0,2,2
+2602526047,Fernando Tur,Aarhus University,europe_randoms,13,441,10,0,0,441,0,0,9,9
+1186456188,Zurab Chemia,University of Copenhagen,europe_randoms,5,96,5,0,0,96,0,0,3,3
+2552883898,S. L. Ørskov,University of Copenhagen,europe_randoms,3,60,2,0,0,28,0,0,3,3
+2931241428,H. Müller,Heidelberg University,europe_randoms,1,15,1,0,0,15,0,0,1,1
+2843045292,T. Teigan,University of Bergen,europe_randoms,1,73,1,0,0,73,0,0,1,1
+1991177324,David Pendleton,University of Oxford,europe_randoms,23,259,8,0,0,236,0,0,7,7
+2698169344,H. J. Wittsack,University of Vienna,europe_randoms,1,117,1,0,0,117,0,0,1,1
+2778541209,Duncan Stewart,University College London,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2973508815,Miriam Bühler,Heidelberg University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2561953919,David McNaughton,"Trinity College, Dublin",europe_randoms,1,2,1,0,0,2,0,0,1,1
+2656050204,W. Hoffmann,University of Amsterdam,europe_randoms,1,7,2,0,0,7,0,0,1,1
+2987919812,Stuart Lister,Durham University,europe_randoms,1,294,1,0,0,294,0,0,1,1
+2656833090,M.J. ter Borg,Erasmus University Rotterdam,europe_randoms,8,222,8,0,0,222,0,0,5,5
+2627842107,K. Plötze,Dresden University of Technology,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2259105969,Arto V. Heinonen,University of Helsinki,europe_randoms,3,39,3,0,0,39,0,0,2,2
+2679200987,J. Bowman,University of Liverpool,europe_randoms,1,54,1,0,0,54,0,0,1,1
+2324547863,David P. Pactwa,Katholieke Universiteit Leuven,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2719513901,J.M. Irvine,University of Manchester,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2182493594,T. M. Steffek,Heidelberg University,europe_randoms,1,7,0,0,0,0,0,0,1,1
+2605800782,Hannes Keune,University of Göttingen,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2718692153,W.J. Tilstone,University of Glasgow,europe_randoms,1,138,1,0,0,138,0,0,1,1
+2927145785,Rosa Maria Marimon,University of Barcelona,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2038273459,G. R. Govinda Raju,University of Sheffield,europe_randoms,4,95,3,0,0,90,0,0,3,3
+2416544941,C. Breedveld,University of Twente,europe_randoms,1,4,0,0,0,0,0,0,1,1
+2634659897,R. Hastings-James,University of Cambridge,europe_randoms,1,116,0,0,0,0,0,0,1,1
+2464602883,H. C. Heinrich,University of Hamburg,europe_randoms,76,667,67,0,0,634,0,0,16,16
+2657707496,K. T. J. Chan,University of Edinburgh,europe_randoms,2,32,2,0,0,32,0,0,2,2
+2464689558,Samuel A. McDonald,University of Lausanne,europe_randoms,10,513,8,0,0,493,0,0,6,6
+2108690717,Tom Wilkinson,University of Southampton,europe_randoms,152,7757,145,1,0,7700,2,0,26,26
+2561123841,R. Hermann,Technical University of Berlin,europe_randoms,2,64,1,1,0,57,7,0,2,2
+349959081,Sarah Ejiama,University of Manchester,europe_randoms,5,312,5,0,0,312,0,0,2,2
+2106595447,S. van der Geer,Leiden University,europe_randoms,2,137,2,0,0,136,0,0,1,1
+2945445082,S. E. Darmon,University of Leeds,europe_randoms,1,65,1,0,0,65,0,0,1,1
+2579834709,Jussi Törmänen,University of Helsinki,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2654005677,D. Dini,Imperial College London,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2598719550,Kathleen A. Williams,University of Göttingen,europe_randoms,3,32,3,0,0,32,0,0,2,2
+2808413994,Emil Rydell,Lund University,europe_randoms,4,7,4,0,0,7,0,0,1,1
+2119717351,Dieter Hackenberg,Karlsruhe Institute of Technology,europe_randoms,5,0,2,0,0,0,0,0,0,0
+2308705773,Philip Barratt,Queen's University Belfast,europe_randoms,8,274,6,0,1,268,0,1,5,5
+2234260421,Neli Escandón Nagel,University of Barcelona,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2567755064,Alessandro Bosso,University of Bologna,europe_randoms,6,2,3,2,0,0,1,0,1,1
+2222144159,Koenig Andreas,Dresden University of Technology,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2973931254,B.P.A. Santen,Erasmus University Rotterdam,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2985630786,I. Watzke,University of Vienna,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2037345391,Rikke Pilmann Laursen,University of Copenhagen,europe_randoms,19,140,15,0,0,135,0,0,6,6
+2688626750,L.G. Durrant,University of Nottingham,europe_randoms,1,7,1,0,0,7,0,0,1,1
+1421649945,PD Dr. Oliver Deiser,Free University of Berlin,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2011319864,Christopher Opie,University College London,europe_randoms,12,509,6,0,0,492,0,0,6,6
+2101493879,Stefan Wacker,University of Bern,europe_randoms,14,131,9,0,0,118,0,0,7,7
+2885549202,Lucy Southby,University of Bristol,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2320148523,S. Kreckelberg,University of Paris,europe_randoms,5,76,4,0,0,62,0,0,5,5
+2644045263,Soenke Jessel,University of Hamburg,europe_randoms,2,3,1,0,0,0,0,0,1,1
+2169350904,C. Benz,Heidelberg University,europe_randoms,20,1028,19,0,0,971,0,0,12,12
+2504649145,Katleen Crassaerts,Katholieke Universiteit Leuven,europe_randoms,1,264,1,0,0,264,0,0,1,1
+2716502307,M. P. Osborne,University of Birmingham,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2000887235,Anne M. Cardle,University of Liverpool,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2428169489,Johannes F. G. M. Aerts,University of Amsterdam,europe_randoms,1,110,1,0,0,110,0,0,1,1
+2763853390,N. Lambruschini,University of Barcelona,europe_randoms,34,1004,33,0,0,1004,0,0,18,18
+2680203573,C. J. Calder,Cardiff University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2276411292,Pia Johansson,Uppsala University,europe_randoms,8,623,7,0,0,619,0,0,7,7
+1222211307,Karen Van Petegem,Ghent University,europe_randoms,11,466,6,0,0,460,0,0,5,5
+2506416678,Anthony R. Carroll,University of Cambridge,europe_randoms,2,252,2,0,0,252,0,0,2,2
+2904340547,Harun-Or Raschid,University of Basel,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2985455450,C. K. Wafelbakker,VU University Amsterdam,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2655282991,N. Petrinic,University of Oxford,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2097972441,Jeffrey A. Odell,University of Bristol,europe_randoms,75,2914,67,0,0,2892,0,0,25,25
+2222431235,Basil Kohler,University of Basel,europe_randoms,1,79,0,1,0,0,79,0,1,1
+2032393534,Umit Rusen Aktas,University of Birmingham,europe_randoms,6,15,0,4,0,0,7,0,2,2
+1939264057,Paraskevas Vasilakopoulos,University of Aberdeen,europe_randoms,20,334,19,0,0,333,0,0,9,9
+2073684005,J. H. C. Hoge,Leiden University,europe_randoms,8,331,8,0,0,331,0,0,6,6
+2950489252,Guy H. Grant,University of Cambridge,europe_randoms,11,391,11,0,0,391,0,0,9,9
+2164442840,Oriol Dueñas Iturbe,University of Barcelona,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2247492734,Franziska Wolfertstetter,Technische Universität München,europe_randoms,1,12,1,0,0,12,0,0,1,1
+337572743,Ieteke R.A Peters-Muller,VU University Amsterdam,europe_randoms,1,21,1,0,0,21,0,0,1,1
+2437898732,Yamin Wang,University College London,europe_randoms,1,1,0,1,0,0,1,0,1,1
+1982190312,Ariane Straubel,Dresden University of Technology,europe_randoms,6,10,5,0,0,10,0,0,2,2
+2952867063,H. Weiner,Humboldt University of Berlin,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2300238968,L. Rounnbauck,Ludwig Maximilian University of Munich,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2674111755,M. Gennesseaux,University of Paris,europe_randoms,2,43,2,0,0,43,0,0,2,2
+2618947387,B. Furrer,École Polytechnique Fédérale de Lausanne,europe_randoms,8,403,6,1,0,338,1,0,5,5
+2336667921,D Leirer,King's College London,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2398944869,Gouya Ram-Liebig,Dresden University of Technology,europe_randoms,25,61,6,0,0,54,0,0,3,3
+2685416948,Carmello Lafuente‐Lafuente,University of Paris,europe_randoms,1,7,1,0,0,7,0,0,1,1
+2233876960,J. A. Barret,University of Cambridge,europe_randoms,1,9,1,0,0,9,0,0,1,1
+2546835773,K. A. George,University of Liverpool,europe_randoms,610,4739,458,0,0,3381,0,0,29,29
+2628606873,R. Marks,Cardiff University,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2424469501,A. V. Narlikar,Lancaster University,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2339876882,Victoria Stoneman,University of Cambridge,europe_randoms,11,826,11,0,0,826,0,0,7,7
+2035888261,Merle-Friederike Benisek,University of Hamburg,europe_randoms,3,45,2,0,0,36,0,0,3,3
+1988242464,Kristian Bergis,Heidelberg University,europe_randoms,13,402,12,0,0,402,0,0,9,9
+2703477439,S. Bartholomeeusen,University of Antwerp,europe_randoms,8,10,5,0,0,10,0,0,2,2
+2484993926,Laura Didinger,RWTH Aachen University,europe_randoms,1,20,0,0,0,0,0,0,1,1
+2490258909,Katharina Leitner,University of Vienna,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2593380344,C.F. Forster,University of Birmingham,europe_randoms,1,57,1,0,0,57,0,0,1,1
+2322123076,Stefanie Freitag-Pohl,Durham University,europe_randoms,5,210,5,0,0,210,0,0,2,2
+2967826246,Johnny Chimborazo,University of Vienna,europe_randoms,2,0,2,0,0,0,0,0,0,0
+2135100064,H. O. D. Critchley,University of Edinburgh,europe_randoms,37,1528,36,0,0,1528,0,0,18,18
+2122577289,Jonathan Mill,University of Exeter,europe_randoms,304,32403,270,0,1,32349,0,0,71,71
+2029842737,Helene Tenzer,University of Tübingen,europe_randoms,33,322,11,0,0,301,0,0,7,7
+2307974542,T. Moritz,Technische Universität München,europe_randoms,5,138,4,0,0,138,0,0,4,4
+2252970599,Andrea Jurack,Dresden University of Technology,europe_randoms,4,8,2,0,0,6,0,0,2,2
+2223315780,K Harley,University College London,europe_randoms,1,28,1,0,0,28,0,0,1,1
+2300635550,Kieron J. Day,University of Liverpool,europe_randoms,1,92,1,0,0,92,0,0,1,1
+2186933922,James B. Wilson,University of Liverpool,europe_randoms,23,987,22,0,0,987,0,0,14,14
+2304238536,Sharanya,University of Exeter,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2949511151,Sonja Hiestand,University of Freiburg,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2484875716,H Russchenburg,Delft University of Technology,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2990478975,Ella Desmedt,Ghent University,europe_randoms,2,180,1,0,0,177,0,0,2,2
+2191556405,H J Dane,Delft University of Technology,europe_randoms,6,269,4,0,0,265,0,0,4,4
+2154928672,Pilar Navarrete,University of Barcelona,europe_randoms,7,81,6,0,0,81,0,0,2,2
+2129350405,J. Nicolet,University of Bern,europe_randoms,2,20,2,0,0,20,0,0,2,2
+2534152201,A. PolIe,University of Göttingen,europe_randoms,1,19,1,0,0,19,0,0,1,1
+2181362095,Wendy Underwood,University of Bristol,europe_randoms,4,7,5,0,0,7,0,0,2,2
+2949543970,Jakob Marbach,University of Hamburg,europe_randoms,2,20,2,0,0,20,0,0,1,1
+2643020073,Hans-Joachim Treumann,University of Tübingen,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2518041080,Goorg Lohmann,University of Göttingen,europe_randoms,1,9,0,0,0,0,0,0,1,1
+2161717203,K. Langer-Hansel,Vienna University of Technology,europe_randoms,1,3,1,0,0,3,0,0,1,1
+278497576,Michael Lemancyk,University of Tübingen,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2164519833,Wim Michiels,Katholieke Universiteit Leuven,europe_randoms,310,5891,146,40,1,3968,84,504,34,34
+2604812477,Nicholas Riedel,Technical University of Denmark,europe_randoms,24,15,1,13,0,0,11,0,2,2
+2095716427,Angelika Kardinal,Ludwig Maximilian University of Munich,europe_randoms,3,308,2,0,0,306,0,0,2,2
+2703995369,T. Maurer,Technische Universität München,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2589766057,S. G. McKee,Queen's University Belfast,europe_randoms,2,4,2,0,0,4,0,0,1,1
+2788036318,W. von Oertzen,University of Tübingen,europe_randoms,3,15,1,0,0,15,0,0,1,1
+2686355621,A. D. Patrick,University of Birmingham,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2123520754,Juan E. Bestard Vallejo,Autonomous University of Barcelona,europe_randoms,6,9,5,0,0,9,0,0,1,1
+2676085061,D. Guicking,University of Göttingen,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2892667434,B. M. Pluim,Leiden University,europe_randoms,1,68,1,0,0,68,0,0,1,1
+2714803210,Y. P. Acklin,University of Basel,europe_randoms,1,25,1,0,0,25,0,0,1,1
+2798813452,T. Diem,University of St Andrews,europe_randoms,1,59,1,0,0,59,0,0,1,1
+2303684154,Stepan N. Belyakin,Novosibirsk State University,europe_randoms,29,385,28,0,0,385,0,0,11,11
+1558225596,Yaroslava Makarovska,University of Antwerp,europe_randoms,8,136,6,0,0,136,0,0,4,4
+2423083615,Thomas Henderson,University of Liverpool,europe_randoms,1,26,1,0,0,26,0,0,1,1
+2913911085,P. Balagny,University of Paris,europe_randoms,2,0,2,0,0,0,0,0,0,0
+2658785246,Sascha Wunderlich,Dresden University of Technology,europe_randoms,8,80,0,5,0,0,59,0,5,5
+2971935765,H. Torres,University of Paris,europe_randoms,3,123,0,0,0,0,0,0,0,0
+1977359904,Jens Carlsen,University of Copenhagen,europe_randoms,28,817,28,0,0,817,0,0,15,15
+2579761043,Sapna Dave,Queen Mary University of London,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2035695852,A Tweddle,University College London,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2648202862,Magda Gerou-Ferriani,University of Glasgow,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2642225042,S. Vetter,Imperial College London,europe_randoms,3,34,3,0,0,34,0,0,3,3
+2503613337,Anne C. Welinder,Technical University of Denmark,europe_randoms,4,147,4,0,0,147,0,0,4,4
+2561194086,Katarina Landberg,Uppsala University,europe_randoms,1,147,1,0,0,147,0,0,1,1
+2763530954,Volodymyr Miz,École Polytechnique Fédérale de Lausanne,europe_randoms,5,5,0,2,0,0,1,0,2,2
+2538298544,Ali Al-Yacoub,Loughborough University,europe_randoms,9,5,1,4,0,0,4,0,1,1
+2950174817,Birgit A. Simell,University of Helsinki,europe_randoms,4,3,2,0,0,3,0,0,1,1
+2885921936,Joachim Sinzig,Leiden University,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2099557980,Maryam Beigi,University of Freiburg,europe_randoms,8,114,7,0,0,99,0,0,7,7
+2886421352,Door Hezemans,Erasmus University Rotterdam,europe_randoms,3,51,2,0,0,51,0,0,1,1
+2972968957,S. Arepalli,University College London,europe_randoms,1,258,1,0,0,258,0,0,1,1
+2141594842,O. Romero Tomás,Autonomous University of Barcelona,europe_randoms,2,18,2,0,0,18,0,0,2,2
+2141639320,Matthias N. Wrobel,University of Hamburg,europe_randoms,5,20,5,0,0,20,0,0,2,2
+2651640689,Hari Krovvidi,University of Birmingham,europe_randoms,3,6,3,0,0,6,0,0,1,1
+2586314691,James Kean,University of Manchester,europe_randoms,4,29,4,0,0,29,0,0,3,3
+2970666664,Nicole Prandi,Imperial College London,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2082178009,Luca Allulli,Sapienza University of Rome,europe_randoms,4,46,2,3,0,10,36,0,4,4
+2687174990,G. H. Rodway,University of Oxford,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2322378553,Satoru Ukai,Imperial College London,europe_randoms,3,4,3,0,0,4,0,0,1,1
+2167839012,Dorian Grosso,PSL Research University,europe_randoms,11,161,7,1,0,160,0,0,4,4
+2668262873,E. Nygaard,University of Copenhagen,europe_randoms,1,82,1,0,0,82,0,0,1,1
+2805976780,Stefan Holdener,ETH Zurich,europe_randoms,1,3,0,1,0,0,3,0,1,1
+748738025,Eli Dalland,University of Bergen,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2637010746,M. Keller,Free University of Berlin,europe_randoms,18,20,15,0,6,20,0,0,3,3
+2660403084,M. Yamamura,Imperial College London,europe_randoms,1,51,1,0,0,51,0,0,1,1
+2727155185,J. Planck,Ludwig Maximilian University of Munich,europe_randoms,2,1136,2,0,0,1136,0,0,2,2
+2102746044,Aldo Marino,Sapienza University of Rome,europe_randoms,47,577,44,0,0,577,0,0,14,14
+2549291870,M Fortin,University of Amsterdam,europe_randoms,1,127,1,0,0,127,0,0,1,1
+2700093201,Kimmo Saino,University of Helsinki,europe_randoms,1,13,1,0,0,13,0,0,1,1
+2682874034,G. Mathiak,University of Hamburg,europe_randoms,2,15,2,0,0,15,0,0,2,2
+1923213379,R. Bradean,University of Leeds,europe_randoms,10,97,8,0,0,82,0,0,6,6
+2078872923,Arzhang Ardavan,University of Oxford,europe_randoms,251,6342,207,3,0,6288,9,0,38,38
+1965745632,Thomas Ptak,University of Göttingen,europe_randoms,89,2004,53,0,0,1886,0,0,23,23
+2718836365,CM Anderson,University of Copenhagen,europe_randoms,1,86,1,0,0,86,0,0,1,1
+2518248188,Jens Hamann,University of Göttingen,europe_randoms,1,555,1,0,0,555,0,0,1,1
+2487942682,Anne C. Davis,Durham University,europe_randoms,4,30,3,0,0,30,0,0,3,3
+2579209056,Georgieff Em,Heidelberg University,europe_randoms,7,10,6,0,0,10,0,0,2,2
+2519195593,S. E. Way,Cardiff University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2805056613,Larissa Ryazanova-Clarke,University of Edinburgh,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2533258565,Sergii Melnyk,University of Bern,europe_randoms,2,0,1,0,0,0,0,0,0,0
+2019877681,Nigel Shaun Matthews,University of Cambridge,europe_randoms,11,92,12,0,1,92,0,14,4,4
+92729615,Vassilios Kapaklis,Uppsala University,europe_randoms,117,1284,95,1,0,1276,0,0,16,16
+2651942674,E. G. Dymond,University of Göttingen,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2552411718,Jens-michalis Papaioannou,Technical University of Berlin,europe_randoms,2,16,0,1,0,0,10,0,2,2
+2679260806,Gillian Maureen Bernacca,University of Glasgow,europe_randoms,10,341,6,0,0,192,0,0,7,7
+2019660485,Robbert Jan Verkes,Radboud University Nijmegen,europe_randoms,78,1789,64,0,0,1767,0,0,21,21
+2572085755,U. Verfuerth,Technische Universität München,europe_randoms,5,0,0,0,0,0,0,0,0,0
+2038678558,Maia Engeli,École Polytechnique Fédérale de Lausanne,europe_randoms,11,43,2,2,0,12,16,0,4,4
+2580448138,Karin Gilland,"Trinity College, Dublin",europe_randoms,1,10,1,0,0,10,0,0,1,1
+2886523382,A Faber,Technische Universität München,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2666581250,Valentina Scabia,École Polytechnique Fédérale de Lausanne,europe_randoms,8,152,6,0,0,152,0,0,2,2
+2063277943,John H. Ridd,University College London,europe_randoms,96,640,88,0,0,636,0,0,12,12
+2984542731,E. Jakob,University of Freiburg,europe_randoms,1,4,0,0,0,0,0,0,1,1
+1208916921,P. Boontham,University of Nottingham,europe_randoms,3,57,2,0,0,57,0,0,1,1
+2525836470,James Chin,Imperial College London,europe_randoms,10,391,7,0,0,381,0,0,7,7
+2603044957,Ursula von dem Bussche-Haddenhausen,University of Hamburg,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2972017259,R. Orava,University of Helsinki,europe_randoms,5,1543,5,0,0,1543,0,0,4,4
+2337660469,Katie Borg,University of Oxford,europe_randoms,5,0,5,0,0,0,0,0,0,0
+2802532079,H. Tedd,Newcastle University,europe_randoms,1,25,1,0,0,25,0,0,1,1
+2526347202,F.A.T. Ramdeen,King's College London,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2636708023,C. Laughlin,University of Nottingham,europe_randoms,2,6,2,0,0,6,0,0,2,2
+2722511227,M Poltorak,Heidelberg University,europe_randoms,1,473,1,0,0,473,0,0,1,1
+2584800483,P.C. Brennan,Queen's University Belfast,europe_randoms,6,29,5,0,0,28,0,0,3,3
+2016954733,Marcus J. Trunk,Heidelberg University,europe_randoms,33,1102,27,0,0,1099,0,0,11,11
+2955123987,Anthony Edwards,University of Liverpool,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2465919443,Aysegul Dilsizoglu-Senol,University of Paris,europe_randoms,1,24,1,0,0,24,0,0,1,1
+2646279916,S. R. Hashemi-Nezhad,University of Birmingham,europe_randoms,1,15,1,0,0,15,0,0,1,1
+2569999240,T. Flottmann,Free University of Berlin,europe_randoms,5,94,4,0,0,94,0,0,3,3
+2777831194,Gunilla Hermansson,University of Copenhagen,europe_randoms,6,0,1,0,0,0,0,0,0,0
+501721245,Simona Cabib,Sapienza University of Rome,europe_randoms,136,6774,133,0,0,6768,0,0,55,55
+2623677798,W.C. Cheong,University of Leeds,europe_randoms,1,28,1,0,0,28,0,0,1,1
+239794323,Michele Bandoly,Free University of Berlin,europe_randoms,6,85,5,0,0,84,0,0,4,4
+2745586897,M. Becker,Technische Universität München,europe_randoms,13,14,4,0,0,14,0,0,2,2
+2656295987,D. M. Predtechenskaya,Moscow State University,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2613020530,R.J. Eastgate,Durham University,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2250883853,Ingrid Höjerback,Lund University,europe_randoms,3,176,1,0,0,23,0,0,2,2
+2687392197,Arthur Fischer,University of Vienna,europe_randoms,2,6,1,0,0,6,0,0,1,1
+2671634300,Rajendraprasad B. Yadav,University of Manchester,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2790231106,H. Murtomaa,University of Helsinki,europe_randoms,1,12,1,0,0,12,0,0,1,1
+2852639571,R. Leonardi,University of Bologna,europe_randoms,5,94,5,0,0,94,0,0,3,3
+2114948592,Marco Armbruster,Ludwig Maximilian University of Munich,europe_randoms,33,501,31,1,0,238,263,0,9,9
+2796077197,Rachid Kaidi,University of Nottingham,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2030725927,Michael Radke,Stockholm University,europe_randoms,40,1320,36,0,0,1318,0,0,18,18
+2256928481,Eeva Rinne,University of Helsinki,europe_randoms,2,86,2,0,0,86,0,0,2,2
+2712415042,Leandro N. Ventimiglia,King's College London,europe_randoms,4,21,3,0,0,21,0,0,3,3
+2513756137,A. V. Odgaieva,Moscow State University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2046037192,Louise Borella Kuhlmann,University of Copenhagen,europe_randoms,3,18,1,0,0,18,0,0,1,1
+2304278039,Z. Videsen,Aarhus University,europe_randoms,2,205,2,0,0,205,0,0,2,2
+2633993855,FX Heinz,University of Vienna,europe_randoms,1,53,1,0,0,53,0,0,1,1
+2657881691,G. D'Anna,École Polytechnique Fédérale de Lausanne,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2665756410,Gabriele Handke,Dresden University of Technology,europe_randoms,3,28,2,0,0,26,0,0,2,2
+2425941648,M.M.R. Williams,Imperial College London,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2640577082,J.-P. Jensen,Technical University of Denmark,europe_randoms,1,284,0,0,0,0,0,0,1,1
+2607874910,J.W. Thompson,Newcastle University,europe_randoms,17,803,16,0,0,803,0,0,8,8
+2098008051,Daniel Priel,University of Warwick,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2799519454,K. H. Freeman,University of Reading,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2026906219,Jean-Philippe Boquete,École Polytechnique Fédérale de Lausanne,europe_randoms,8,341,7,0,0,340,0,0,5,5
+290427786,Isja de Feijter,Eindhoven University of Technology,europe_randoms,7,73,6,0,0,71,0,0,5,5
+2935549924,H.G. Mannherz,University of Lausanne,europe_randoms,1,641,1,0,0,641,0,0,1,1
+2130229261,Michael Brittain,Loughborough University,europe_randoms,4,42,2,0,0,15,0,0,3,3
+2659671875,G. Maggi,University of Bologna,europe_randoms,2,10,1,0,0,9,0,0,1,1
+2904541811,Fabien Patru,University of Paris,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2027536180,Jennifer A. Sidey,University of Cambridge,europe_randoms,14,84,4,0,0,35,0,0,5,5
+1496472439,E.B. Pomakhina,Moscow State University,europe_randoms,8,136,8,0,0,136,0,0,5,5
+2165202750,S. Cadogan,Cardiff University,europe_randoms,2,252,2,0,0,252,0,0,2,2
+2110017768,J. C. Vink-Van Den Berg,Erasmus University Rotterdam,europe_randoms,5,195,5,0,0,195,0,0,4,4
+2102144906,Roger Huybrechts,Katholieke Universiteit Leuven,europe_randoms,145,2835,95,0,1,2666,0,22,26,26
+2520347348,Laura Vanierschot,Katholieke Universiteit Leuven,europe_randoms,8,25,4,1,0,13,0,0,2,2
+2289648631,Claudia Chwalisz,University of Sheffield,europe_randoms,3,2,1,0,0,0,0,0,1,1
+2661242618,Ian Zylberberg,Autonomous University of Madrid,europe_randoms,9,4,8,0,0,4,0,0,1,1
+2918388503,B. Friedrichs,Humboldt University of Berlin,europe_randoms,2,0,2,0,2,0,0,0,0,0
+2130380050,André Fuchs,Heidelberg University,europe_randoms,2,22,2,0,0,22,0,0,2,2
+2514158601,Lbert P. M. Wagelmans,Erasmus University Rotterdam,europe_randoms,1,130,1,0,0,130,0,0,1,1
+2965384513,Juan Pablo Madiedo Montanez,Erasmus University Rotterdam,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2461650169,Lauren Bernard,Katholieke Universiteit Leuven,europe_randoms,3,11,3,0,0,11,0,0,1,1
+2983968981,D. M. Monro,University of Bath,europe_randoms,1,10,0,1,0,0,10,0,1,1
+2980414474,André van Zundert,Ghent University,europe_randoms,1,60,1,0,0,60,0,0,1,1
+2747142848,Juliet Davis,London School of Economics and Political Science,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2306831567,A. Schaafsma,University of Groningen,europe_randoms,6,90,6,0,0,90,0,0,2,2
+2118428561,Xinyi Gong,Leiden University,europe_randoms,1,2,1,0,0,2,0,0,1,1
+108255672,Gerth Stølting Brodal,Aarhus University,europe_randoms,126,4131,47,86,1,858,2541,10,35,35
+2308525228,Benjamin Simmen,ETH Zurich,europe_randoms,6,29,5,0,0,27,0,0,3,3
+2071630946,Inge Petrus,Katholieke Universiteit Leuven,europe_randoms,11,336,11,0,0,336,0,0,3,3
+2762159152,Paloma Martín-Sanz,Complutense University of Madrid,europe_randoms,1,156,1,0,0,156,0,0,1,1
+2023656091,Rida Bashir-Dar,University of Antwerp,europe_randoms,2,11,2,0,0,11,0,0,2,2
+1916015740,R. De Raedt,Ghent University,europe_randoms,32,826,32,0,0,826,0,0,15,15
+2635231355,J. Ypma,Eindhoven University of Technology,europe_randoms,1,4,0,1,0,0,4,0,1,1
+2987163237,Sabrina Zechel,University of Göttingen,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2531516037,Claire A.J. van den Eeden,VU University Amsterdam,europe_randoms,5,30,4,0,0,30,0,0,2,2
+2648071891,R. Agher,University of Paris,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2615823639,Lorraine de la Verpillière,University of Cambridge,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2940669494,K. Mubagwa,Katholieke Universiteit Leuven,europe_randoms,2,53,1,0,0,53,0,0,1,1
+2015386311,J. Vermaak,University of Cambridge,europe_randoms,28,1801,2,14,0,563,205,0,13,13
+2766825642,John Mark Sutton,King's College London,europe_randoms,1,1,0,0,0,0,0,0,1,1
+1970694883,Boudewijn Van Damme,Katholieke Universiteit Leuven,europe_randoms,110,5125,106,0,0,5118,0,0,35,35
+2713139700,H. R. Nettleton,University College London,europe_randoms,1,22,0,0,0,0,0,0,1,1
+2664797825,W. Endres,Ludwig Maximilian University of Munich,europe_randoms,4,158,3,0,0,144,0,0,3,3
+2682461321,F.S. Kleijwegt,Leiden University,europe_randoms,1,34,1,0,0,34,0,0,1,1
+2418318781,L. Mistura,Sapienza University of Rome,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2649504251,M. L. Arnold,Heidelberg University,europe_randoms,3,16,2,0,0,16,0,0,1,1
+2177412437,Christian J Carlsson,University of Copenhagen,europe_randoms,5,99,4,0,0,99,0,0,4,4
+2647374608,Albert G. Kochs,Ludwig Maximilian University of Munich,europe_randoms,3,25,3,0,0,25,0,0,2,2
+2762904703,Michael Cruise,University of Birmingham,europe_randoms,1,33,1,0,0,33,0,0,1,1
+2785599994,Mustafa I. Elbashir,Lund University,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2056227898,Leila Seres,Heidelberg University,europe_randoms,28,671,26,0,0,669,0,0,10,10
+2719731940,J. R. Tong,University of Bath,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2479748767,Julia Wenisch,Radboud University Nijmegen,europe_randoms,1,27,1,0,0,27,0,0,1,1
+2687024038,Farrah Bakr,Queen Mary University of London,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2567710768,Elmar Möhrle,University of Tübingen,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2805521989,L. A. Reznitskii,Moscow State University,europe_randoms,10,3,10,0,0,3,0,0,1,1
+2039335404,Leopoldo A. Pando Zayas,Moscow State University,europe_randoms,7,10,4,0,0,8,0,0,2,2
+2596122579,Hao Guo,Chalmers University of Technology,europe_randoms,6,7,2,2,0,1,6,0,2,2
+2592692201,Nikolai Zamarashkin,Saint Petersburg State University,europe_randoms,3,0,3,0,0,0,0,0,0,0
+2121871478,Damiano Casalino,Delft University of Technology,europe_randoms,97,1470,31,54,0,986,458,0,19,19
+2298193043,Fernand Daffos,University of Paris,europe_randoms,136,6736,124,0,7,6730,0,173,40,39
+2793305814,Marco Zaccaria,University of Bologna,europe_randoms,17,106,5,7,0,89,11,0,5,5
+2556264767,Robert Vistal,University of Cambridge,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2625746511,F. Bertotti,University of Bologna,europe_randoms,3,28,2,0,0,28,0,0,2,2
+2777285978,Angela A. Jones,University of Reading,europe_randoms,2,26,1,0,0,4,0,0,2,2
+2724685365,W. Smith,University of Nottingham,europe_randoms,2,1,2,0,0,1,0,0,1,1
+2678802628,C. Diver,University College London,europe_randoms,1,23,1,0,0,23,0,0,1,1
+2404599736,Grazia Bevere,Queen Mary University of London,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2070077381,Sarah Halfter,RWTH Aachen University,europe_randoms,11,239,10,0,0,239,0,0,7,7
+2775815236,M. Galderisi,Sapienza University of Rome,europe_randoms,80,46,71,0,0,46,0,0,4,4
+2293126304,David Baxter,Imperial College London,europe_randoms,13,105,8,0,0,104,0,0,5,5
+2909291097,Allan Muller,University of Amsterdam,europe_randoms,1,255,1,0,0,255,0,0,1,1
+2418973609,R. C. Mühlbauer,University of Edinburgh,europe_randoms,9,2009,9,0,0,2009,0,0,8,8
+2683463220,Aitsana A. Maslakova,Moscow State University,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2530225018,Tetsuzo Kitagawa,Imperial College London,europe_randoms,5,9,4,0,0,2,0,0,1,1
+2763261488,Ю. І. Шевченко,University of Helsinki,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2663139512,Jill Bouchet,University of Sheffield,europe_randoms,1,55,1,0,0,55,0,0,1,1
+2942969346,An-Sofie Gorissen,Vrije Universiteit Brussel,europe_randoms,2,3,2,0,0,3,0,0,1,1
+2973268279,Diego Ragazzi,Polytechnic University of Milan,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2580969471,Diane Swallow,University of Oxford,europe_randoms,1,27,1,0,0,27,0,0,1,1
+60277153,Henna Vihola,University of Helsinki,europe_randoms,7,1083,6,0,0,1079,0,0,6,6
+2983324233,G. Kreyerhoff,RWTH Aachen University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2617724419,Marco Gobbi,University of Geneva,europe_randoms,14,104,7,0,0,104,0,0,6,6
+2718516997,W. M. Arnoldbik,Utrecht University,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2619840539,Danja Brandsma,Wageningen University and Research Centre,europe_randoms,2,11,2,0,0,11,0,0,2,2
+2106409015,Diego Castro,Autonomous University of Barcelona,europe_randoms,63,302,35,0,0,289,0,0,8,8
+2715865639,F.J. Manso,Complutense University of Madrid,europe_randoms,1,10,1,0,0,10,0,0,1,1
+2637637072,A. A. Voronin,Moscow State University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2891516791,Sophia Paul,Technical University of Berlin,europe_randoms,1,2,1,0,0,2,0,0,1,1
+369041931,Kareljan Schoutens,University of Amsterdam,europe_randoms,150,5692,99,0,0,5566,0,0,36,36
+2674387480,Huibin Xu,Technical University of Berlin,europe_randoms,1,20,1,0,0,20,0,0,1,1
+2633146282,N. Bett,University of Cambridge,europe_randoms,1,2,0,0,0,0,0,0,1,1
+2715917458,Linda C. Mayoux,University of Cambridge,europe_randoms,1,12,1,0,0,12,0,0,1,1
+2315128962,Anna Louise Saggerson,Cardiff University,europe_randoms,4,57,3,0,0,54,0,0,3,3
+2890962836,A. L. Lionti,University of Geneva,europe_randoms,57,604,0,0,0,0,0,0,0,0
+2619721288,Jeremy Jennings,Queen Mary University of London,europe_randoms,9,5,8,0,0,5,0,0,2,2
+2468131676,S. Betts,University College London,europe_randoms,87,902,86,0,0,902,0,0,16,16
+2117183268,Ralf C. Ott,Heidelberg University,europe_randoms,5,277,5,0,0,277,0,0,4,4
+2327086066,D. Watt Graeme,Queen Mary University of London,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2880922413,G. I. Pugacheva,Moscow State University,europe_randoms,2,3,1,0,0,3,0,0,1,1
+1060998751,Alfonso Iacovazzi,Sapienza University of Rome,europe_randoms,11,89,4,7,0,35,54,0,6,6
+2563356460,Douwe Mul,University of Groningen,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2628057963,Nadege Parassol,University of Oxford,europe_randoms,1,132,1,0,0,132,0,0,1,1
+2511735668,Kirstie Bowden,University of Exeter,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2902972743,Xinyang Liao,University of Glasgow,europe_randoms,1,1,1,0,0,1,0,0,1,1
+391683515,T. P. Berber-Solano,University of Sheffield,europe_randoms,1,5,0,0,0,0,0,0,1,1
+2488797864,Peter Mayer,University of Tübingen,europe_randoms,18,3733,4,0,0,1324,0,0,7,7
+2065960759,W. Eevers,University of Antwerp,europe_randoms,13,73,12,0,0,72,0,0,5,5
+2309772950,Jingxin Wang,Eindhoven University of Technology,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2513020494,Pamela Edwards,University of Manchester,europe_randoms,9,388,9,0,0,388,0,0,7,7
+2876369239,Bianca Müller,Humboldt University of Berlin,europe_randoms,1,163,1,0,0,163,0,0,1,1
+2944436536,Zohreh Tatari Calderone,University of Paris,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2915047935,Constanze A. Müller Dipl.-Ing.,University of Basel,europe_randoms,1,20,1,0,0,20,0,0,1,1
+2107184404,D. Prinz,Karlsruhe Institute of Technology,europe_randoms,1,21,1,0,0,21,0,0,1,1
+2776881205,U.M. Staudinger,Dresden University of Technology,europe_randoms,1,3,0,0,0,0,0,0,1,1
+2320299797,M. Gorissen,Katholieke Universiteit Leuven,europe_randoms,1,0,1,0,0,0,0,0,0,0
+1389387868,P. Marketos,Cardiff University,europe_randoms,39,732,28,2,0,667,32,0,14,14
+2150653388,Luisa J. Elliott,University of Reading,europe_randoms,10,289,5,0,0,223,0,0,4,4
+2988894911,V. V. Ivanov,Moscow State University,europe_randoms,19,182,14,0,0,180,0,0,6,6
+2810401475,Werner Müller-Esterl,Ludwig Maximilian University of Munich,europe_randoms,66,2523,57,0,0,2424,0,0,26,26
+1550748207,Antoniou E,University of Birmingham,europe_randoms,14,79,7,0,0,69,0,0,4,4
+2527681040,John Gooch,University of Leeds,europe_randoms,12,15,12,0,0,15,0,0,2,2
+2991251953,C. Wallner,Technische Universität München,europe_randoms,1,370,1,0,0,370,0,0,1,1
+2806555971,Rosa Xie,King's College London,europe_randoms,1,2,0,0,0,0,0,0,1,1
+2966361465,Aleksandra Boss,Humboldt University of Berlin,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2080728955,A. V. Tulinov,Moscow State University,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2084201582,Sahar Awwad,University College London,europe_randoms,24,125,20,0,0,122,0,0,7,7
+2255605736,Başak Öztürk,Wageningen University and Research Centre,europe_randoms,3,56,2,0,0,56,0,0,2,2
+2650671864,G. Stöhr,University of Göttingen,europe_randoms,4,2,2,0,0,2,0,0,1,1
+2611206634,M. Fernández de Mera,Complutense University of Madrid,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2680677727,B. Adhimoolam,University of Twente,europe_randoms,1,0,0,1,0,0,0,0,0,0
+2919796389,Pooja Vemuri,University of Southampton,europe_randoms,1,0,1,0,0,0,0,0,0,0
+451163712,Malte Helmert,University of Basel,europe_randoms,120,5738,11,80,1,2299,3076,131,29,28
+2807208138,B. Harris,Cardiff University,europe_randoms,1,69,1,0,0,69,0,0,1,1
+2634969516,J. Aksnes,University of Oslo,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2802206184,Christian Ottosen,University of Copenhagen,europe_randoms,2,3,1,0,0,3,0,0,1,1
+2689789544,Heinz Klues,RWTH Aachen University,europe_randoms,1,13,1,0,0,13,0,0,1,1
+2630078818,R. König,Ludwig Maximilian University of Munich,europe_randoms,12,52,0,0,0,0,0,0,1,1
+2736784704,Cornelis H. Slump,University of Twente,europe_randoms,28,119,1,4,0,6,52,0,7,7
+2679545873,L. Elsgaard,Aarhus University,europe_randoms,1,20,1,0,0,20,0,0,1,1
+2718646516,J.M. Edmunds,University of Manchester,europe_randoms,1,9,0,0,0,0,0,0,1,1
+2672382559,N. Crabtree,University of Cambridge,europe_randoms,1,217,1,0,0,217,0,0,1,1
+2331355809,Olof Mellander,Uppsala University,europe_randoms,39,594,39,0,0,594,0,0,11,11
+1948343001,Patrik Bordovsky,RWTH Aachen University,europe_randoms,8,1,1,0,0,0,0,0,1,1
+2960513885,Luke Eaton,"Trinity College, Dublin",europe_randoms,2,4,2,0,0,4,0,0,1,1
+2462584898,E. A. Devenish,University of Birmingham,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2306899773,S. Hassam,University of Zurich,europe_randoms,1,30,1,0,0,30,0,0,1,1
+2982094963,Gashawa Ahmed,Stockholm University,europe_randoms,1,0,0,1,0,0,0,0,0,0
+2734456209,M. Walker,Newcastle University,europe_randoms,1,52,1,0,0,52,0,0,1,1
+2618050398,F Durst,University of Tübingen,europe_randoms,6,6,6,0,0,6,0,0,1,1
+2644659386,Cecile Itzstein,University of Aberdeen,europe_randoms,3,42,2,0,0,42,0,0,2,2
+2428873314,Margot Kogut,University of Cambridge,europe_randoms,8,14,8,0,0,14,0,0,2,2
+2917215417,S Zeißig,Dresden University of Technology,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2266122815,Saara M. Raulo,University of Helsinki,europe_randoms,13,272,10,0,0,265,0,0,8,8
+2088893234,Bouwine E Carlier,Erasmus University Rotterdam,europe_randoms,4,69,4,0,0,69,0,0,4,4
+2469156146,Ngoc Luan Nguyen,Karlsruhe Institute of Technology,europe_randoms,5,70,5,0,0,70,0,0,4,4
+2993200802,Diab Salam Diab Salam,University of Paris,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2127232707,Nicola Crown,University of Nottingham,europe_randoms,8,567,6,0,2,564,0,211,5,4
+1967928832,Andrea Carugati,Aarhus University,europe_randoms,70,310,17,16,0,225,54,0,9,9
+1123384381,Koos Verloop,Wageningen University and Research Centre,europe_randoms,8,10,1,0,0,10,0,0,1,1
+2791833038,J C Low,University of Edinburgh,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2238990855,M. Hadj-Djilani,Ghent University,europe_randoms,1,8,1,0,0,8,0,0,1,1
+2883080784,Michael Ingrisch,Ludwig Maximilian University of Munich,europe_randoms,15,34,13,0,0,29,0,0,4,4
+2700163445,S. Jaquier,University of Groningen,europe_randoms,1,60,1,0,0,60,0,0,1,1
+2132237887,Weihao Zhong,University of Bath,europe_randoms,6,79,3,0,0,54,0,0,4,4
+2702519065,P. Wilkes,University of Manchester,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2685484665,E B Chalker,University of Helsinki,europe_randoms,2,15,2,0,0,15,0,0,2,2
+1983122808,B. A. Zimin,Saint Petersburg State University,europe_randoms,6,18,6,0,0,18,0,0,3,3
+2654863853,P. van der Stok,Radboud University Nijmegen,europe_randoms,3,11,1,2,0,4,7,0,2,2
+2911115822,Shenda Xu,Imperial College London,europe_randoms,1,4,1,0,0,4,0,0,1,1
+2103040472,Ivan Alen Fernandez,Université catholique de Louvain,europe_randoms,4,20,1,2,0,3,11,0,3,3
+2326689600,D.B Owen,University of Liverpool,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2638935212,C.Y. Meyer,Ludwig Maximilian University of Munich,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2289457550,Emma M. Pinder,Newcastle University,europe_randoms,3,19,2,1,0,19,0,0,2,2
+2607128163,Natalia V. Prodromou,Queen Mary University of London,europe_randoms,5,236,5,0,0,236,0,0,3,3
+1455953346,Walter Philippi,Free University of Berlin,europe_randoms,2,31,2,0,0,31,0,0,2,2
+2655351830,J. Dittmar,Karlsruhe Institute of Technology,europe_randoms,4,160,3,0,0,147,0,0,3,3
+2974825598,P. Langendijk,Wageningen University and Research Centre,europe_randoms,2,17,1,0,0,16,0,0,1,1
+2653201398,Uwe Rennhak,Free University of Berlin,europe_randoms,1,26,1,0,0,26,0,0,1,1
+2712324740,Paul Faucheux,King's College London,europe_randoms,1,5,0,1,0,0,5,0,1,1
+2084844175,Paul Nankivell,University of Birmingham,europe_randoms,21,219,21,0,0,219,0,0,6,6
+2157317838,Maria Jolis,Autonomous University of Barcelona,europe_randoms,32,345,25,0,0,319,0,0,12,12
+2060999353,Cyrus Zamani,University of Barcelona,europe_randoms,38,623,36,1,1,622,1,0,16,16
+2516616608,M. Soares,Complutense University of Madrid,europe_randoms,2,117,2,0,0,117,0,0,2,2
+2077759128,A. Obradors,Autonomous University of Barcelona,europe_randoms,29,341,27,0,0,341,0,0,10,10
+2226830936,W. Seubert,University of Göttingen,europe_randoms,29,596,27,0,0,580,0,0,12,12
+2692062338,FuiGoon Goh,Imperial College London,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2616408671,de Man Ra,Erasmus University Rotterdam,europe_randoms,2,6,2,0,0,6,0,0,2,2
+2103039590,Laura Wright,University of Cambridge,europe_randoms,58,112,7,0,0,15,0,0,6,6
+2988681462,Boughton Ck,University of Cambridge,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2944229265,Minordi Lm,Sapienza University of Rome,europe_randoms,1,87,1,0,0,87,0,0,1,1
+2223960608,M. S. Oude-Alink,University of Twente,europe_randoms,1,2,0,1,0,0,2,0,1,1
+2721395093,Victoria H. Beck,University of Reading,europe_randoms,1,102,1,0,0,102,0,0,1,1
+412635549,M. Mauloni,University of Bologna,europe_randoms,19,284,14,0,0,284,0,0,7,7
+1648748790,Serhiy Stepanchuk,École Polytechnique Fédérale de Lausanne,europe_randoms,8,66,7,0,0,62,0,0,5,5
+2705491074,Chris A. Luckhurst,University of Cambridge,europe_randoms,6,229,6,0,0,229,0,0,6,6
+2120275648,Dennis Lin,Katholieke Universiteit Leuven,europe_randoms,77,639,37,13,0,524,52,0,13,13
+2663434750,L. Ton-That,Imperial College London,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2945437178,George S. Biggs,University of Cambridge,europe_randoms,2,1,2,0,0,1,0,0,1,1
+2116963428,Christian Seibel,Vienna University of Technology,europe_randoms,7,437,7,0,0,437,0,0,7,7
+2149158694,B.M. Wanklyn,University of Oxford,europe_randoms,229,3097,225,0,3,3097,0,31,25,25
+2670165381,E. V. Nagornaya,Moscow State University,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2793643263,Robert Touitou,Imperial College London,europe_randoms,4,768,4,0,0,768,0,0,4,4
+1803990362,Windo Hutabarat,University of Sheffield,europe_randoms,41,422,25,3,1,391,4,4,7,7
+2745307046,Michael Kermah,Wageningen University and Research Centre,europe_randoms,1,20,1,0,0,20,0,0,1,1
+2749679105,Alexander Tsivian,Heidelberg University,europe_randoms,1,261,1,0,0,261,0,0,1,1
+2956202275,K. De Filippo,Imperial College London,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2047774183,Magnus Höijer,Royal Institute of Technology,europe_randoms,3,0,1,0,0,0,0,0,0,0
+2967907833,Bäck,Chalmers University of Technology,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2671264913,N. Fehse,University of Hamburg,europe_randoms,15,964,14,0,0,962,0,0,9,9
+2750597575,Thomas Morton,University of Leeds,europe_randoms,1,0,1,0,0,0,0,0,0,0
+741040783,Lionel Petton,Ghent University,europe_randoms,19,126,4,0,0,113,0,0,5,5
+1990833911,Arne Tofte,University of Oslo,europe_randoms,3,32,3,0,0,32,0,0,2,2
+2338028900,T. Werner,Dresden University of Technology,europe_randoms,3,21,1,2,0,18,3,0,2,2
+1971996288,Markus Spiliotis,University of Bern,europe_randoms,40,1461,39,0,0,1461,0,0,19,19
+2556066256,Jiashen Li,University of Manchester,europe_randoms,164,1217,62,2,0,1180,10,0,20,20
+2132167158,Rolf Carlsson,Lund University,europe_randoms,3,26,3,0,0,26,0,0,3,3
+2994136078,Jan Willem de Jong,Erasmus University Rotterdam,europe_randoms,1,114,1,0,0,114,0,0,1,1
+2530063024,Darrin Beattie,Newcastle University,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2777427756,C. K.H. Yu,University College London,europe_randoms,2,77,1,0,0,77,0,0,1,1
+2970048206,Francesco Poggialini,Scuola Normale Superiore di Pisa,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2969178508,Morten H. Pedersen,Technical University of Denmark,europe_randoms,1,14,0,0,0,0,0,0,1,1
+2907756866,John Vargo,Durham University,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2632678511,A. Gachter,University of Basel,europe_randoms,1,22,1,0,0,22,0,0,1,1
+2169566410,Jonathan D. Groves,University of Bristol,europe_randoms,16,458,14,0,0,444,0,0,11,11
+2409447259,AC Harrysson,Lund University,europe_randoms,1,172,1,0,0,172,0,0,1,1
+2790085629,T. J. Wilkinson,University of Edinburgh,europe_randoms,1,55,1,0,0,55,0,0,1,1
+2789480904,Haitham Abdelmoteleb,Cardiff University,europe_randoms,4,1,4,0,0,1,0,0,1,1
+2677918680,Chris P. Ashton,University of Edinburgh,europe_randoms,1,6,1,0,0,6,0,0,1,1
+2032231208,Ignacio Rodríguez-Crespo,Complutense University of Madrid,europe_randoms,72,4323,72,0,0,4323,0,0,25,25
+2987316359,G. Wesch,Heidelberg University,europe_randoms,2,12,0,0,0,0,0,0,1,1
+2656896096,M. J. Burkitt,University of York,europe_randoms,1,170,0,0,0,0,0,0,1,1
+1832100135,Yasmin Dolak-Struss,University of Vienna,europe_randoms,3,261,3,0,0,261,0,0,3,3
+2442130797,Salvador Navarro,Autonomous University of Barcelona,europe_randoms,13,413,11,0,0,413,0,0,8,8
+2912202522,P. W. Piper,University College London,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2702224360,U Kulisch,Karlsruhe Institute of Technology,europe_randoms,1,6,0,0,0,0,0,0,1,1
+2556946351,Clifford Jones,University of Aberdeen,europe_randoms,5,0,5,0,0,0,0,0,0,0
+2711048251,Julia Braunecker,ETH Zurich,europe_randoms,1,58,1,0,0,58,0,0,1,1
+2317384962,M.R. Kuehn,University of Cambridge,europe_randoms,1,138,1,0,0,138,0,0,1,1
+2711500589,Sukhraaj Johal,University of Manchester,europe_randoms,1,1,1,0,0,1,0,0,1,1
+1932966178,Russell Keat,University of Edinburgh,europe_randoms,18,74,4,0,0,24,0,0,4,4
+2104723562,O.Y. Tkachenko,Free University of Berlin,europe_randoms,3,34,3,0,0,34,0,0,3,3
+2597422704,E. Lucchinetti,ETH Zurich,europe_randoms,1,33,1,0,0,33,0,0,1,1
+2223963946,Alessandra Quaresima,Sapienza University of Rome,europe_randoms,3,44,0,3,0,0,44,0,3,3
+2644124547,P. A. Nikitin,Moscow State University,europe_randoms,2,4,1,0,0,4,0,0,1,1
+2680765443,R.J.H. Kappert,Radboud University Nijmegen,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2660180540,H. E. (Bert) Clairbois,VU University Amsterdam,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2420734945,A. P. Andersen,Aarhus University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2623673818,Akinlolu Odeleye,University College London,europe_randoms,5,48,4,0,0,48,0,0,3,3
+2761889099,Llea Samuel,University of Twente,europe_randoms,3,1,0,0,0,0,0,0,1,1
+2620293220,S. Hannah,University of Glasgow,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2133215190,Albert Clará Velasco,Autonomous University of Barcelona,europe_randoms,10,0,10,0,0,0,0,0,0,0
+2490207547,Hans H. Arendzen,University of Groningen,europe_randoms,1,65,1,0,0,65,0,0,1,1
+2962417550,Veronica Richina,ETH Zurich,europe_randoms,1,15,1,0,0,15,0,0,1,1
+2679246894,J.C. Slaa,Eindhoven University of Technology,europe_randoms,6,54,3,0,0,54,0,0,2,2
+2536179184,Haoxuan Li,University of Antwerp,europe_randoms,4,7,2,0,0,2,0,0,2,2
+2763242844,B. A. Stevens,University of Manchester,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2632022156,P. M. Stell,University of Liverpool,europe_randoms,2,13,2,0,0,13,0,0,2,2
+2257584849,Venera Gashaj,University of Bern,europe_randoms,9,48,6,0,0,48,0,0,3,3
+1572934225,Ivo Furno,École Polytechnique Fédérale de Lausanne,europe_randoms,301,3438,179,2,0,3399,0,0,30,30
+2110024951,Daisuke Kaida,Durham University,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2587078793,I. Razumov,Moscow State University,europe_randoms,374,7564,331,0,0,5531,0,0,36,36
+2618009348,Christoph Schnurr,Karlsruhe Institute of Technology,europe_randoms,4,8,2,0,0,8,0,0,1,1
+2517682216,A Jim Jolly,University of Leeds,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2943685617,Desirée Nilsson,Uppsala University,europe_randoms,9,193,2,0,0,178,0,0,3,3
+2599415460,M.A. Khan,University of Nottingham,europe_randoms,5,120,5,0,0,120,0,0,5,5
+2060803291,Patrice Hakizimana,Université catholique de Louvain,europe_randoms,3,105,2,0,0,101,0,0,3,3
+2831067785,S. K. Ghosh,University of Aberdeen,europe_randoms,1,0,0,0,1,0,0,0,0,0
+2617408640,Z. Cheng,University of Leeds,europe_randoms,5,25,3,0,0,19,0,0,2,2
+2998424408,Jamie Hartman-Boyce,University of Oxford,europe_randoms,1,1,1,0,0,1,0,0,1,1
+292491245,Kamila Z. Rosloniec,University of Groningen,europe_randoms,2,141,2,0,0,141,0,0,2,2
+2420530746,Duncan A. Robertson,University of Warwick,europe_randoms,2,6,2,0,0,6,0,0,1,1
+2136173640,Julia Horn,University of Oxford,europe_randoms,5,17,3,0,0,15,0,0,2,2
+2141667344,Els Van Hecke,Ghent University,europe_randoms,2,13,1,0,0,13,0,0,1,1
+2221921153,Alexander Henseler,RWTH Aachen University,europe_randoms,5,3177,4,0,0,3177,0,0,4,4
+2980618837,Nele Herregods,Ghent University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2655527550,Y. H. Tai,University of Sheffield,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2882648914,N Barbier,University of Amsterdam,europe_randoms,1,116,1,0,0,116,0,0,1,1
+2671301521,K. Brandstetter,Technische Universität München,europe_randoms,2,0,1,0,0,0,0,0,0,0
+2636029732,Brunelli Ma,University of Bologna,europe_randoms,5,10,5,0,0,10,0,0,2,2
+2025950826,Adrian Bagust,University of Liverpool,europe_randoms,171,4860,99,0,0,4829,0,0,36,36
+2636756486,Friedrich‐Wilhelm Ledebrink,Technical University of Berlin,europe_randoms,2,2,2,0,0,2,0,0,1,1
+2614918757,I Hauser,University of Vienna,europe_randoms,1,165,1,0,0,165,0,0,1,1
+2800518192,Ali Ramouz,Heidelberg University,europe_randoms,1,0,1,0,0,0,0,0,0,0
+2806337601,E.B. Cleff,Aarhus University,europe_randoms,1,2,1,0,0,2,0,0,1,1
+2629873286,K. Lang,University of Birmingham,europe_randoms,2,19,2,0,0,19,0,0,2,2
+2098346721,Duncan Martin Baird,Cardiff University,europe_randoms,108,4434,100,0,0,4401,0,0,30,30
+2161586824,Stephen J. Hunter,University of Leeds,europe_randoms,50,860,31,0,0,786,0,0,16,16
+2507738576,X. Sauteron,École Polytechnique,europe_randoms,5,9,4,0,0,9,0,0,2,2
+2789510297,T Insperger,University of Bristol,europe_randoms,1,3,0,0,0,0,0,0,1,1
+2695612860,G. Strbac,University of Manchester,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2305969663,M. Draxler,University of Warwick,europe_randoms,34,798,35,0,0,798,0,0,11,11
+2175738573,W. A. Keller,University of Zurich,europe_randoms,1,1,0,0,0,0,0,0,1,1
+2980745520,Cecilia Brizzolari,Polytechnic University of Milan,europe_randoms,1,0,0,1,0,0,0,0,0,0
+2499373984,Gunilla Iversen,Stockholm University,europe_randoms,4,3,0,0,0,0,0,0,1,1
+2794338988,Jonathan E. Ogbuabor,University of York,europe_randoms,5,1,2,0,0,1,0,0,1,1
+2890128549,R. Guirlet,University of Glasgow,europe_randoms,1,15,1,0,0,15,0,0,1,1
+2680036223,C.M. Dawson,University of Cambridge,europe_randoms,2,34,2,0,0,34,0,0,2,2
+1887078008,Sarah D'Hertefelt,Katholieke Universiteit Leuven,europe_randoms,13,89,3,0,0,70,0,0,4,4
+2628110357,Elena E. Polyanskaya,Moscow State University,europe_randoms,2,6,2,0,0,6,0,0,1,1
+2479806980,Rebecca Dunning,University of Oxford,europe_randoms,1,11,1,0,0,11,0,0,1,1
+2048919617,E. G. Arnouts,Radboud University Nijmegen,europe_randoms,5,34,4,0,0,34,0,0,4,4
+1981592090,H. Ippen,University of Göttingen,europe_randoms,2,61,1,0,0,61,0,0,1,1
+2690254793,L. E. Hughes,King's College London,europe_randoms,7,254,7,0,0,254,0,0,7,7
+2552469108,E. Devriendt,Leiden University,europe_randoms,1,10,1,0,0,10,0,0,1,1
+382890586,A. Feess,University of Basel,europe_randoms,1,7,1,0,0,7,0,0,1,1
+2799617181,Rishi D S Nandoe Tewarie,Radboud University Nijmegen,europe_randoms,1,22,1,0,0,22,0,0,1,1
+2672244764,Natalia Agafonova,Saint Petersburg State University,europe_randoms,1,13,1,0,0,13,0,0,1,1
+2676598828,B.W. Jervis,University of Sheffield,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2140289540,Stephen J. Wood,University of Birmingham,europe_randoms,390,23413,362,0,1,23149,0,24,90,90
+2484926241,JohnD. Hay,University of Liverpool,europe_randoms,4,6,4,0,0,6,0,0,1,1
+2271041815,Mariem Slimani,Télécom ParisTech,europe_randoms,18,28,9,8,0,10,13,0,3,3
+2988976079,H. Rein,University of Göttingen,europe_randoms,1,21,0,0,0,0,0,0,1,1
+2829473804,Robert I. Holbrook,University of Leeds,europe_randoms,5,20,5,0,0,20,0,0,3,3
+2080769686,Dragan Grabulovski,ETH Zurich,europe_randoms,45,734,18,0,0,550,0,0,12,12
+2765158519,Phillipe J. Guérin,University of Oxford,europe_randoms,1,3,1,0,0,3,0,0,1,1
+2524445851,Emmett John Eric,University of Nottingham,europe_randoms,2,0,0,0,0,0,0,0,0,0
+2702089848,D. Dwarika,University of Birmingham,europe_randoms,2,0,2,0,0,0,0,0,0,0
+2631449120,M. A. Moore,University of Manchester,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2885128116,Mcsp Rokhsaneh Tehrany BScPT,University of Southampton,europe_randoms,1,1,1,0,0,1,0,0,1,1
+2699672672,M. Barnes,University of Manchester,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2972202936,Helen Banks,University of Oxford,europe_randoms,1,143,1,0,0,143,0,0,1,1
+1263295930,Peter Verhamme,Katholieke Universiteit Leuven,europe_randoms,387,20453,360,0,1,20444,0,1,44,44
+2037157396,S. Yu. Troshchiev,Moscow State University,europe_randoms,7,31,7,0,0,31,0,0,2,2
+2702124352,C. V. Jones,University of Liverpool,europe_randoms,1,5,1,0,1,5,0,5,1,0
+2283540041,C.E. Buckley,Durham University,europe_randoms,7,281,7,0,0,281,0,0,5,5
+2649619059,Christopher W. Bond,University of Oxford,europe_randoms,1,76,1,0,0,76,0,0,1,1
+2662123285,F. Orsi,Sapienza University of Rome,europe_randoms,1,20,1,0,0,20,0,0,1,1
+2499924411,J. Gercama,University of Groningen,europe_randoms,2,129,2,0,0,129,0,0,2,2
+2495120843,Dimitris Kalantzopoulos,King's College London,europe_randoms,1,0,0,0,0,0,0,0,0,0
+2553002196,P. Malcus Johnson,Lund University,europe_randoms,1,14,1,0,0,14,0,0,1,1
+2985929131,Iwan J. Azis,Saint Petersburg State University,europe_randoms,12,60,5,0,0,43,0,0,5,5
+2299705305,Tomas Folke,University of Cambridge,europe_randoms,6,37,3,0,0,37,0,0,2,2
+2728601460,Graham Hunter,University of Nottingham,europe_randoms,12,83,3,0,1,71,0,2,3,3
+2802744108,F. Champenois,Katholieke Universiteit Leuven,europe_randoms,1,5,1,0,0,5,0,0,1,1
+2344253969,Nissy Nevil,University of Antwerp,europe_randoms,1,8,1,0,0,8,0,0,1,1

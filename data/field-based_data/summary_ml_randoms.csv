@@ -1,0 +1,999 @@
+id,name,affiliation,sampled_type,pubs_count,est_cits,journal_pubs_count,conference_pubs_count,nontech_pubs_count,journal_est_cits,conference_est_cits,nontech_est_cits,org_h_index,tech_h_index,infield_pubs_count,infield_est_cits,infield_h_index
+2793852895,Norman R Williams,University College London,ml_randoms,11,25,1,1,0,25,0,0,1,1,1,0,0
+2642858277,Shuhua Lai,Virginia State University,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2617985375,Yuqiong Jin,Northwestern Polytechnical University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2161358012,Roy Glasius,Radboud University Nijmegen,ml_randoms,4,393,3,1,0,384,9,0,4,4,2,304,2
+2488745722,Ken Miura,University of Toronto,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2964390888,LijumolK J,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2420821907,J. H. Kim,,ml_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2767800847,Yi Xie,,ml_randoms,1,11,1,0,0,11,0,0,1,1,1,11,1
+2664618791,Shuilong He,Guilin University of Electronic Technology,ml_randoms,18,226,13,0,0,226,0,0,5,5,1,82,1
+219623542,Yao Zhu-ting,North University of China,ml_randoms,14,2,11,2,0,1,1,0,1,1,1,1,1
+2229370628,Timur I. Aleshin,University of Virginia,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2538652826,Sean Scott Brummel,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2896142855,Kyle Swanson,Massachusetts Institute of Technology,ml_randoms,6,32,4,0,0,27,0,0,3,3,2,5,1
+2694193951,Jian Liu,Shanghai University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2780910891,Mingchui Dong,University of Macau,ml_randoms,5,3,3,0,0,3,0,0,1,1,3,3,1
+2563279539,Khaoula Keddachi,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2753675076,Sturtevant John,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2693050794,Yung-Chi Hsu,National Central University,ml_randoms,9,55,7,2,0,55,0,0,4,4,8,43,4
+2309514218,Eugene Yujun Fu,Hong Kong Polytechnic University,ml_randoms,7,16,1,7,0,7,9,0,2,2,2,8,1
+2547643214,Zhenxing Kang,Northeast Dianli University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2599374169,Mohd Shafry Mohd Rahim,Universiti Teknologi Malaysia,ml_randoms,159,714,80,20,0,553,70,0,14,14,6,18,2
+2810612543,Xiaofeng Liu,Hohai University,ml_randoms,4,6,4,0,0,6,0,0,1,1,1,0,0
+289089521,Jan Vervisch,Katholieke Universiteit Leuven,ml_randoms,32,211,19,4,0,190,21,0,9,9,3,7,1
+2666887789,Dimitra Alexopoulou,,ml_randoms,2,7,1,1,0,5,2,0,2,2,2,7,2
+2018048180,Koen De Bosschere,Ghent University,ml_randoms,204,3880,48,96,2,1029,2330,6,28,28,4,47,1
+2650184754,Chuan-Sheng Wu,Wuhan University of Technology,ml_randoms,1,9,0,1,0,0,9,0,1,1,1,9,1
+2785739199,David J. Mack,University of Zurich,ml_randoms,7,12,3,4,0,3,5,0,3,3,2,5,1
+1325033965,Hari Thiruvengada,Honeywell,ml_randoms,36,453,2,6,0,19,31,0,11,11,2,7,2
+2753260057,Gabrys Bogdan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2662118054,Yu Cheng Liu,National Taiwan University,ml_randoms,8,18,6,0,0,16,0,0,3,3,2,6,1
+2987164418,R.N. Ermakov,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2667422539,Axel L,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2645721488,구남실,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2632116552,Xi Wu,Central University of Finance and Economics,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2979243400,Sophia Marie Ulman,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2902556023,Tobias Weber,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2826619379,Xinxing Li,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2302597923,Faisal I. Rezwan,University of Southampton,ml_randoms,53,882,44,4,0,874,4,0,10,10,4,8,2
+2224795545,Kyhyun Urn,,ml_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2981525170,Haifeng Chen,Georgia Institute of Technology,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2631549419,Fang Liu,University of Science and Technology Beijing,ml_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+2667568691,Qigang Jiang,Jilin University,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2168568973,K. Hamamoto,Tokyo Institute of Technology,ml_randoms,1,5,0,1,0,0,5,0,1,1,1,5,1
+2429922186,Chao Yang,University of Iowa,ml_randoms,11,76,2,5,2,22,43,4,5,5,1,6,1
+2686858069,Shu Beng Tor,Nanyang Technological University,ml_randoms,3,27,1,1,0,4,15,0,3,3,2,23,2
+2107867824,Vojko Jazbinšek,University of Ljubljana,ml_randoms,32,332,16,5,0,282,10,0,10,10,1,0,0
+2103964517,James R. Easter,Westinghouse Electric,ml_randoms,13,582,0,0,0,0,0,0,5,5,1,4,1
+2154022900,J. LeFevre,École centrale de Lille,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2433217940,Musbah Abdulgader,University of Toledo,ml_randoms,10,54,2,8,0,1,53,0,3,3,1,1,1
+2990261483,Go Kurihara,Tohoku University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2314401244,T. H. Hoang,Hanoi University of Science and Technology,ml_randoms,18,149,13,0,0,149,0,0,6,6,2,69,2
+2979891190,Deqian Fu,Linyi University,ml_randoms,4,0,1,2,0,0,0,0,0,0,1,0,0
+2321103968,David P. Darrow,University of Minnesota,ml_randoms,15,58,13,0,0,58,0,0,5,5,1,0,0
+2585612084,D. M. Kilgour,,ml_randoms,2,3,0,1,0,0,2,0,1,1,1,2,1
+107466247,Pascal Koiran,École normale supérieure de Lyon,ml_randoms,101,2430,57,39,0,1671,659,0,24,24,5,182,5
+2705062091,Brandt Dargue,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2373293629,Sui Hai-feng,University of Science and Technology Beijing,ml_randoms,2,0,2,0,0,0,0,0,0,0,2,0,0
+2766588183,Yu Zhang,Beijing Institute of Technology,ml_randoms,2,0,0,2,0,0,0,0,0,0,2,0,0
+2903580673,Goksu Tuysuzglu,Dokuz Eylül University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2575625111,Dominic Hunt,University of Lyon,ml_randoms,1,8,1,0,0,8,0,0,1,1,1,8,1
+1142397388,S.R.K. Branavan,Massachusetts Institute of Technology,ml_randoms,14,956,3,9,0,224,614,0,12,12,10,610,9
+2122285746,Vann Chau,University of Toronto,ml_randoms,78,1473,71,4,2,1453,16,0,17,17,2,117,2
+2808774089,M Ananthan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2669974944,Yinghong Ma,Shandong Normal University,ml_randoms,4,0,0,4,0,0,0,0,0,0,1,0,0
+2137836190,Ming Long Wu,National Cheng Kung University,ml_randoms,12,120,11,1,0,113,7,0,7,7,1,7,1
+2647073986,英夫 中村,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2775727596,Rohit Ravi Kumar Bhoopalam,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2972487196,Pierre Peigne,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2959795971,Yu Song,Southeast University,ml_randoms,2,7,2,1,0,5,2,0,2,2,2,7,2
+2646249637,Giuliano Gadioli La Guardia,,ml_randoms,3,1,2,0,0,1,0,0,1,1,1,0,0
+2286268079,Michael De Groeve,Katholieke Universiteit Leuven,ml_randoms,1,152,0,1,0,0,152,0,1,1,1,152,1
+2742343572,Xu Xiaolong,Nanjing University,ml_randoms,118,237,3,1,0,2,1,0,8,8,2,11,2
+2525386165,Julia Vössing,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+106440390,S. Jawahitha,Multimedia University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2120473825,Jim Aiken,Plymouth Marine Laboratory,ml_randoms,53,3351,34,5,0,2759,377,0,28,28,7,541,5
+2133143330,R. C. van Dalen,University of Cambridge,ml_randoms,12,84,3,8,0,6,78,0,4,4,3,4,1
+2617193173,María Liz Crespo,Grupo México,ml_randoms,7,11,3,0,0,6,0,0,2,2,3,4,2
+2688278060,Fengying Wang,Shandong University of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2942359102,L. N. Gray,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2991016570,Zhiyi Fang,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2777158129,K. Tsuda,,ml_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+2290413637,Yimian Du,University of Victoria,ml_randoms,2,9,1,1,0,6,2,0,2,2,1,2,1
+2775025243,Lukas Tencer,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2996967309,Qi Yu,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2121364892,Joseph J. Lim,University of Southern California,ml_randoms,46,3017,3,29,0,34,2773,0,19,19,23,1170,10
+2670441762,Liu Tong-ming,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2032411162,Elke Moons,University of Hasselt,ml_randoms,54,704,17,3,8,630,27,27,12,12,3,114,2
+2129321634,Magdalena Borys,Lublin University of Technology,ml_randoms,46,76,2,14,1,8,36,2,5,5,2,2,1
+2113829395,Jun-Fen Wu,Wuhan University,ml_randoms,2,14,0,2,0,0,14,0,1,1,2,14,1
+2796475060,Baiping Li,,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2609920997,Li Dong,Chinese Academy of Sciences,ml_randoms,177,3278,128,0,0,3161,0,0,29,29,1,13,1
+2806737509,Abhishek Abhishek,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2963798376,R e Sousa,,ml_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2488484056,Shuzo Kaneko,Tokyo University of Technology,ml_randoms,1,11,0,1,0,0,11,0,1,1,1,11,1
+2307386207,Rashad Rashad Aliev,,ml_randoms,1,67,0,0,0,0,0,0,1,1,1,67,1
+2758223084,Mikio Nakatsuyama,Yamagata University,ml_randoms,4,2,3,1,0,1,1,0,1,1,1,1,1
+1998006409,Peng Ning,Samsung,ml_randoms,219,25978,43,120,0,7814,17345,0,72,72,2,108,2
+2158405512,Zhi-yin Zhang,Southwest Petroleum University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2645266820,Willi Gottstein,Humboldt University of Berlin,ml_randoms,1,11,1,0,0,11,0,0,1,1,1,11,1
+2106417041,Evert de Jonge,Leiden University,ml_randoms,113,8367,103,8,0,8340,26,0,46,46,6,148,4
+2945285535,Srilatha Doddi,,ml_randoms,1,0,1,0,1,0,0,0,0,0,1,0,0
+2581512010,A. Boyano,University of the Basque Country,ml_randoms,20,108,12,1,0,107,0,0,7,7,1,0,0
+2090092697,Alexander Ciritsis,University of Zurich,ml_randoms,29,104,25,0,0,104,0,0,5,5,2,1,1
+2143405950,Longkun Tang,Huaqiao University,ml_randoms,18,143,17,0,0,141,0,0,9,9,1,11,1
+2245681750,Dan Li Liu,Zhejiang Sci-Tech University,ml_randoms,4,6,4,0,0,6,0,0,1,1,1,5,1
+2368092243,Zhang Cheng-yu,China University of Mining and Technology,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2333630434,JungShin Liu,,ml_randoms,1,8,1,0,0,8,0,0,1,1,1,8,1
+2668973933,Qin Zheng,Tsinghua University,ml_randoms,4,2,4,0,0,2,0,0,1,1,1,0,0
+2780492450,Liangxu Liu,National University of Singapore,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2540544231,Ricardo Guerrero Moreno,Imperial College London,ml_randoms,3,48,0,2,0,0,31,0,3,3,1,16,1
+1973938054,Raciel Yera,University of Ciego de Ávila,ml_randoms,9,131,4,1,1,106,19,64,5,5,6,111,5
+2154089691,Manuel Bauer,École Polytechnique Fédérale de Lausanne,ml_randoms,16,464,4,0,0,363,0,0,5,5,1,0,0
+2748412950,Indra Saurabh,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1039818,Piergiorgio Svaizer,fondazione bruno kessler,ml_randoms,71,2563,12,46,0,667,1699,0,23,23,3,22,2
+2138408705,Maurice E. Cohen,"University of California, San Francisco",ml_randoms,61,361,8,39,0,66,96,0,8,8,13,69,6
+2156976543,Uttam Adhikari,Mississippi State University,ml_randoms,18,567,8,6,0,412,55,0,10,10,1,92,1
+2669555607,Lei Zhao,Nanyang Technological University,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2986477845,Chaitra V. Hegde,New York University,ml_randoms,2,1,0,0,0,0,0,0,1,1,1,1,1
+2699182430,D. R. Bahler,North Carolina State University,ml_randoms,2,35,2,0,0,35,0,0,2,2,1,22,1
+2635597284,Yapi Yapo,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2172042154,Oswaldo Castillo,University of Trinidad and Tobago,ml_randoms,4,7,0,1,0,0,1,0,2,2,1,3,1
+2562733938,Wang Xinying,,ml_randoms,7,20,2,0,0,2,0,0,2,2,1,2,1
+2982797861,Hongtao Zhang,University of Essex,ml_randoms,2,0,1,1,0,0,0,0,0,0,1,0,0
+1916049742,Lorenzo Desideri,University of Bologna,ml_randoms,43,532,22,2,0,405,3,0,9,9,1,38,1
+2789993427,Kevin Hamard,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2124151578,Ramprakash Srinivasan,Ohio State University,ml_randoms,9,247,8,1,0,46,175,0,4,4,2,26,1
+2303508908,He Liu,Software Engineering Institute,ml_randoms,5,13,0,4,0,0,7,0,2,2,1,1,1
+2335844070,Robert Pepperell,Cardiff Metropolitan University,ml_randoms,105,356,74,3,0,301,19,0,10,10,2,0,0
+2573009307,Sanjay Wankhade,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2507792899,幸久 藤田,,ml_randoms,2,0,2,0,0,0,0,0,0,0,2,0,0
+2955223562,Νικόλαος Γρ. Παναγιάρης,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2963816722,Mohammadreza Amirian,"Winterthur Museum, Garden and Library",ml_randoms,2,8,2,0,0,8,0,0,1,1,1,7,1
+2997023554,SuttonCharles,,ml_randoms,1,0,1,0,1,0,0,0,0,0,1,0,0
+2695092280,Min Zhang,University of East Anglia,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2227412858,Shameer Faziludeen,National Institute of Technology Calicut,ml_randoms,2,12,1,1,0,12,0,0,1,1,1,12,1
+2974359221,M. Funabashi,Hitachi,ml_randoms,1,5,0,1,0,0,5,0,1,1,1,5,1
+2497968654,Haixu Wang,,ml_randoms,2,148,2,0,0,148,0,0,1,1,1,0,0
+2743655638,Dhaval Patel,IBM,ml_randoms,10,13,0,9,0,0,2,0,1,1,2,0,0
+2494067565,Bao-Qing Yang,Shanghai Jiao Tong University,ml_randoms,5,61,4,1,0,58,3,0,4,4,2,11,2
+2170758666,Shuji Liu,Huazhong University of Science and Technology,ml_randoms,2,3,0,1,0,0,3,0,1,1,1,3,1
+1996978025,Alecsandru Patrascu,Military Technical Academy,ml_randoms,19,81,4,12,0,26,55,0,6,6,1,0,0
+2551034084,Zhiyong Liu,Sun Yat-sen University,ml_randoms,2,1,0,2,0,0,1,0,1,1,1,0,0
+2284630089,Alfio Ferrara,University of Milan,ml_randoms,109,2470,30,41,0,695,1381,0,23,23,1,0,0
+2171133603,Chuanlei Zhang,Ryerson University,ml_randoms,1,9,0,1,0,0,9,0,1,1,1,9,1
+251052554,Louigi Addario-Berry,McGill University,ml_randoms,72,1410,51,5,0,1186,102,0,18,18,1,28,1
+2162871238,Leslie M. Novak,Massachusetts Institute of Technology,ml_randoms,58,3535,24,16,1,2327,310,6,23,23,1,23,1
+2632886231,Yanjuan Li,Harbin Institute of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2189914671,F. Giuliani,University of Lisbon,ml_randoms,25,227,15,1,0,216,1,0,8,8,1,0,0
+2098810507,Hiran Kumar Singh,Anna University,ml_randoms,3,5,2,1,0,5,0,0,1,1,1,4,1
+2798483726,Dawei Han,,ml_randoms,1,11,1,0,0,11,0,0,1,1,1,11,1
+1970907493,Ivan De Visscher,Université catholique de Louvain,ml_randoms,26,71,4,3,0,40,0,0,4,4,1,0,0
+2695536146,Hongli Gao,Southwest Jiaotong University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2946148463,Yifan He,Jiangsu University,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2124078443,Hugo Estrada,Polytechnic University of Valencia,ml_randoms,54,336,14,21,0,62,206,0,9,9,3,9,1
+2296150016,Xiao Yang,University of North Carolina at Chapel Hill,ml_randoms,12,230,2,6,0,149,60,0,4,4,1,2,1
+2117462420,Hagen Langer,University of Bremen,ml_randoms,22,201,2,9,0,35,74,0,8,8,4,6,2
+2636989882,Gao Chen,Hubei University,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+330996023,Reza Sadoddin,University of New Brunswick,ml_randoms,4,249,1,3,1,75,174,152,4,3,2,22,2
+2693043487,Bo Chen,Shanghai Jiao Tong University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2715108891,한상민,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2627637843,K.P. Sivagami,,ml_randoms,2,1,1,0,0,1,0,0,1,1,1,0,0
+2631021773,Jesica Rivero Espinosa,,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2687659646,Jan Anders Mathisen,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2990897334,Hengfeng Miao,Wuhan University of Technology,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2322880131,Eric Petit,Orange S.A.,ml_randoms,22,30,1,3,0,1,6,0,3,3,3,4,1
+2666508471,C. Johnston,Coventry University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2681279993,Zhidong Deng,Tsinghua University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2136460524,Pang-jo Chun,Ehime University,ml_randoms,54,44,37,0,0,38,0,0,4,4,3,5,1
+2998798823,Kermanshah Agricultural Plant Improvement Departments,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2286841381,Raphaël Khoury,Université du Québec à Chicoutimi,ml_randoms,36,125,10,24,1,60,63,14,6,5,1,0,0
+568280737,Leonard A. Jason,DePaul University,ml_randoms,812,17396,620,0,4,14860,0,22,67,67,1,4,1
+2804603300,Seema,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2107367840,Alberto Rey,University of A Coruña,ml_randoms,6,3,1,4,0,0,2,0,1,1,2,1,1
+2978660498,Kristel Sleegeres,University of Antwerp,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2152854021,Keiji Yasuda,National Institute of Information and Communications Technology,ml_randoms,36,173,13,10,0,28,41,0,8,8,3,26,1
+2531694701,David Leonardo Leottau,University of Chile,ml_randoms,6,27,2,4,0,7,20,0,4,4,3,22,3
+2103036428,John Dixon,Open University,ml_randoms,576,36465,493,3,1,35967,7,3,100,100,1,0,0
+2185545125,Lahan Mor,Ben-Gurion University of the Negev,ml_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2999745833,Yu-Chieh Chen,National Pingtung University of Science and Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2989338236,Shao Wen-Ze,,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2710800613,京介 西田,,ml_randoms,8,3,1,0,0,0,0,0,1,1,1,0,0
+1886388312,Verena Kantere,University of Geneva,ml_randoms,67,811,10,51,0,339,459,0,10,10,2,11,2
+2630464284,Mariusz Swiecicki,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2639032537,Huijun Wu,University of New South Wales,ml_randoms,13,23,1,7,0,6,9,0,3,3,4,13,3
+2911571759,Hung Khanh Nguyen,University of Newcastle,ml_randoms,3,3,1,1,0,2,0,0,1,1,1,0,0
+2811296531,Stanislav Mikoni,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2686709036,S.Y. Too,Florida State University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2751202121,Xu Zhijie,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2795145516,Antonio Miloso,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2620020304,F. J. V. Polo,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+1981493133,Claire Julia Thie,Qinetiq,ml_randoms,4,102,0,1,0,0,0,0,3,3,1,0,0
+2720033048,Mun-Jae Jeong,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2600089198,Ying Hu,University of Texas at Dallas,ml_randoms,7,73,7,0,0,73,0,0,3,3,1,63,1
+2712893789,Duan Liqin,,ml_randoms,3,0,3,0,0,0,0,0,0,0,1,0,0
+2114589870,Narelle Grayson,,ml_randoms,7,88,5,0,0,85,0,0,4,4,1,6,1
+2167525997,Carole Maillard,,ml_randoms,2,3,1,0,0,3,0,0,1,1,1,3,1
+2896483915,Qiong Song,Beijing Jiaotong University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+984746149,P. Korbiel,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2671285152,Ling Zhang,Zhejiang University,ml_randoms,2,6,1,1,0,5,1,0,1,1,1,5,1
+2141671364,Zhongzhen Zhang,Wuhan University of Technology,ml_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2625395429,Yonglei Tao,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2054534603,伸樹 村山,,ml_randoms,46,0,5,0,0,0,0,0,0,0,1,0,0
+2973555809,G. Pasi,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2613079252,Clare O’Dwyer,"National University of Ireland, Galway",ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2770781945,Alyson Stone,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2307441845,Xue-feng Han,Shenyang Normal University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2730451819,稔 麻生川,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2579985727,卫强,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2405854037,Jose Cuozzo,,ml_randoms,3,1,0,1,0,0,1,0,1,1,1,1,1
+2783126709,Jonathan Z. L. Zhao,University of Western Ontario,ml_randoms,4,13,2,0,0,12,0,0,2,2,1,6,1
+2612526281,Débora Pollicelli,National Scientific and Technical Research Council,ml_randoms,5,0,2,0,0,0,0,0,0,0,1,0,0
+2509327828,Wen Wang,Beijing Jiaotong University,ml_randoms,2,5,0,2,0,0,5,0,1,1,1,4,1
+2135000992,Márcia Gonçalves de Oliveira,Universidade Federal do Espírito Santo,ml_randoms,27,17,1,1,0,10,0,0,2,2,3,10,1
+2393930954,Yao Y,Northeast Forestry University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2629166382,Y.F. Chen,Clark Atlanta University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2116138651,Asmita S.Joshi,,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2784255110,Jin Kim,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2150026201,Xin Huang,Hong Kong Baptist University,ml_randoms,45,653,15,26,3,98,543,8,13,13,10,210,6
+2151766648,Stephen A. Klein,,ml_randoms,9,704,0,0,0,0,0,0,7,7,1,7,1
+2129402583,Bryan Q. Spring,Northeastern University,ml_randoms,51,2228,40,0,0,2212,0,0,12,12,1,0,0
+2647103866,Kamel Nadjet,,ml_randoms,1,64,0,1,0,0,64,0,1,1,1,64,1
+2936632570,Cátia Cepeda,Universidade Nova de Lisboa,ml_randoms,3,0,1,2,1,0,0,0,0,0,2,0,0
+2616670158,Himanshu Pant,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2706169806,D. Katic,,ml_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2575246749,Patrick Henry Winston,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2554003410,Chi Zhang,,ml_randoms,2,12,0,1,0,0,12,0,1,1,2,12,1
+2678215809,Jian Yang,Yunnan University,ml_randoms,8,19,1,7,0,4,15,0,3,3,1,4,1
+2891079515,Chengkai Huang,Xiamen University of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2566863106,Pengfei Zhang,China University of Mining and Technology,ml_randoms,3,2,1,2,0,2,0,0,1,1,1,0,0
+2770494678,Ademilson O. Sanos,,ml_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+2974838307,N. Ranganathan,University of South Florida,ml_randoms,2,6,0,2,0,0,6,0,1,1,1,1,1
+2710423643,Yong Han,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2805343140,E Manousaridou,,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2953067886,Delali Kwasi Dake,"University of Education, Winneba",ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2974361561,C. Zhou,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2997291313,Tingzhi Huang,Dalian Maritime University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2432082735,Yi Li,Dalian University of Technology,ml_randoms,3,8,1,2,0,2,6,0,2,2,2,6,2
+475854827,Gaston Picchio,Janssen Pharmaceutica,ml_randoms,86,6366,85,0,0,6366,0,0,27,27,1,1,1
+2670650879,誠 千葉,,ml_randoms,3,0,1,1,0,0,0,0,0,0,1,0,0
+2627099229,K. Sri Ramakrishna,,ml_randoms,1,20,1,0,0,20,0,0,1,1,1,20,1
+2629268915,나경민,,ml_randoms,8,0,0,0,0,0,0,0,0,0,3,0,0
+2651281150,Ao Fu,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2900012166,Mohammad Ahmad Falaki,,ml_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2992982060,Lifeng Tan,Communication University of China,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2516649783,Alexandr Kuznetsov,,ml_randoms,4,3,3,0,0,3,0,0,1,1,1,2,1
+2226469542,Zhang-Congpin,Henan Normal University,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+268076468,Claudia Ermel,Technical University of Berlin,ml_randoms,103,1609,39,22,0,363,775,0,19,19,2,8,1
+2981702598,Wen-jing Zang,University of Jinan,ml_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2924353516,Jian Lao,Peking University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2685212941,Xuebo Chen,"University of Science and Technology, Liaoning",ml_randoms,52,350,23,26,0,326,14,0,9,9,2,0,0
+2887112644,Gertrude Okenwa,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2078768428,Christoforos Benetatos,Aristotle University of Thessaloniki,ml_randoms,51,586,25,0,0,568,0,0,14,14,1,16,1
+2998530120,WuJunjie,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2885664267,Marina Sapir,,ml_randoms,1,4,0,0,0,0,0,0,1,1,1,4,1
+2553698997,José Miguel Henrández-Lobato,University of Cambridge,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2234649332,Ana Carolina Lorena,Federal University of São Paulo,ml_randoms,83,1697,35,40,1,968,360,13,20,20,61,1320,18
+2733552118,John R. Hughes,University of Minnesota,ml_randoms,119,4531,110,1,3,4528,0,53,27,27,2,16,1
+2631071457,Jingzhong Liu,Hunan Institute of Technology,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2309165753,Jun Won Lee,Brigham Young University,ml_randoms,5,65,1,4,0,7,58,0,5,5,4,58,4
+270818887,Oto Janousek,Brno University of Technology,ml_randoms,42,242,14,18,0,204,35,0,6,6,1,154,1
+2978472833,Carmelo J. A. Bastos-Filho Ecomp,Universidade de Pernambuco,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2952556499,Xiaojun Quan,Sun Yat-sen University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,0,0
+2609234586,William R. Fairweather,Food and Drug Administration,ml_randoms,8,285,8,0,0,285,0,0,5,5,1,7,1
+2587353357,Ying Gao,,ml_randoms,11,1,0,0,0,0,0,0,1,1,1,0,0
+2250130882,Wei-Lin Chiang,National Taiwan University,ml_randoms,4,44,0,4,0,0,44,0,4,4,2,31,2
+2163048540,Sabino Rivero,University of Talca,ml_randoms,7,5,0,1,0,0,0,0,2,2,1,0,0
+2494385683,Weijia Wang,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2583371730,M.A.A. de Oliveira,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2556202224,Wenjuan Wang,Institut de Mathématiques de Toulouse,ml_randoms,2,10,2,0,0,10,0,0,2,2,1,6,1
+2306593770,Zheng Li,The Chinese University of Hong Kong,ml_randoms,68,666,28,34,0,479,143,0,12,12,1,0,0
+2672168767,Henry Hamburger,United States Naval Research Laboratory,ml_randoms,5,88,2,2,0,69,15,0,3,3,2,15,1
+2911286116,ChengWei Yang,Beijing Institute of Technology,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2045003753,Carlo Curino,Microsoft,ml_randoms,78,6634,7,55,2,273,5804,414,30,29,5,36,3
+2418461810,Dr.DeepanshuKumar Nigam,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2123636454,Fei Xiong,Beijing Jiaotong University,ml_randoms,37,451,27,7,0,306,44,0,11,11,2,2,1
+2659318511,Tom Nickson,University of Oxford,ml_randoms,1,136,1,0,0,131,0,0,2,2,1,5,1
+2477137649,Wang Yuan-zhi,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2622350243,В А Шовин,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2884891743,Gaganpreet Kaur,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+34070852,Adrianna Kozierkiewicz-Hetmańska,Wrocław University of Technology,ml_randoms,29,145,5,16,0,58,63,0,7,7,11,65,5
+2974614828,Thee Chanyaswad,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2562187100,"Lewis, Charles, psychology",,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2491286229,Yi-Ching Lin,Virginia State University,ml_randoms,2,232,1,1,0,215,17,0,2,2,1,215,1
+2239556880,J. van Prehn,Maastricht University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2684807283,Jinwen Huang,Beijing University of Chemical Technology,ml_randoms,1,17,1,0,0,17,0,0,1,1,1,17,1
+2143565497,Shi Feng,Northeastern University,ml_randoms,72,353,12,48,0,69,259,0,10,10,22,137,6
+2664957722,Zhengyou Xia,Nanjing University of Aeronautics and Astronautics,ml_randoms,3,3,0,3,0,0,3,0,1,1,2,2,1
+2307452728,Jingran Guo,Wuhan University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2898320401,Vincent Tam,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2760709096,Shu-Yuan Cheng,City University of New York,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2706726698,XU Ming-biao,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2709284170,Chengyi Sun,Taiyuan University of Technology,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2169403944,Christopher J. Findlay,,ml_randoms,3,189,0,0,0,0,0,0,2,2,2,189,2
+2350458533,DU Lianping,Jiangxi University of Science and Technology,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2485275697,Robert J. Carlson,Accenture,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2227207450,Jinsheng Li,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2764033248,Xiao-Yu Dong,Max Planck Society,ml_randoms,10,51,9,0,0,49,0,0,4,4,1,0,0
+2046372912,Guimei Jiao,Lanzhou University,ml_randoms,1,52,1,0,0,52,0,0,1,1,1,52,1
+2659113766,Erick Cantu-Paz,,ml_randoms,1,17,0,0,0,0,0,0,1,1,1,17,1
+2658659316,Xilong Qu,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2689706825,Abdelkrim Boukabou,,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2904357013,Evgeny V. Khvatov,Russian Academy of Sciences,ml_randoms,4,7,4,0,0,7,0,0,1,1,1,1,1
+2636795642,JianHong Ma,Hebei University of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2128478094,Roser Vives,Autonomous University of Barcelona,ml_randoms,16,28,16,0,0,28,0,0,3,3,1,1,1
+2118572917,Miyuki Nakano,University of Tokyo,ml_randoms,40,152,9,25,0,23,128,0,8,8,3,17,2
+2644021735,Gyu-Ho Lim,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2650672381,Deyong Yang,Jiangsu University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2150774209,Shinya Ishikawa,Tokyo Denki University,ml_randoms,3,0,3,0,0,0,0,0,0,0,1,0,0
+2655849800,R. King,University of Strathclyde,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2485708820,Yicheng Li,Stony Brook University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2649976732,Chuanlin Zhang,,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2782956662,OmaimaH Ghallab,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2609533178,Chein-I Chang,"University of Maryland, Baltimore County",ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2971224966,Edgar Casasola Murillo,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2067619308,Nicholas H. Evancich,,ml_randoms,3,27,0,0,0,0,0,0,3,3,1,9,1
+2707518344,WuXinyu,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2028600864,哲義 塩田,,ml_randoms,8,0,0,3,0,0,0,0,0,0,2,0,0
+2956188039,Andre´ Elisseeﬀ,,ml_randoms,1,84,0,0,0,0,0,0,1,1,1,84,1
+2431646376,Chan Yuan,Wuhan University of Technology,ml_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2675718585,L. Piccini,,ml_randoms,2,7,1,1,0,1,6,0,1,1,1,6,1
+2437181215,Jun He,,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2163142003,Jorge S. Marques,Instituto Superior Técnico,ml_randoms,290,3746,104,135,2,2292,1325,17,24,24,16,145,6
+2982435125,Jia-Wen Zhang,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2757122449,Mario Enrique Gomez Fernandez,Oregon State University,ml_randoms,2,12,2,0,0,12,0,0,2,2,1,2,1
+2730628737,Lawrence Aikins,Towson University,ml_randoms,2,3,0,2,0,0,3,0,1,1,1,0,0
+177742726,Teiji Furugori,University of Electro-Communications,ml_randoms,24,262,8,8,0,40,217,0,4,4,1,0,0
+3000262696,VapnikVladimir,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+47857614,Mathilde Badoual,Centre national de la recherche scientifique,ml_randoms,30,1521,25,0,0,1521,0,0,15,15,2,69,2
+2645263204,박대희,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2104572062,Jonathan H. Morra,"University of California, Los Angeles",ml_randoms,27,1611,21,5,0,1487,116,0,13,13,5,281,3
+2161739533,Zih-Jie Yang,National Sun Yat-sen University,ml_randoms,1,9,1,1,0,7,2,0,2,2,1,2,1
+2980689772,Yan Yang,East China Normal University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2999026648,Lean Yu,Chinese Academy of Sciences,ml_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2730078030,Benjamin Solnik,Google,ml_randoms,2,220,0,1,0,0,214,0,2,2,2,220,2
+1008409232,Θεόδωρος Αναγνωστόπουλος,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2422398527,Zeng Qing,,ml_randoms,5,2,5,0,1,2,0,0,1,1,3,1,1
+2307243316,David P. Kreil,University of Warwick,ml_randoms,81,5075,68,5,0,4878,176,0,32,32,1,1,1
+2716838894,강재호,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2974902014,Kelly J. Gurubel,CINVESTAV,ml_randoms,1,10,1,0,0,10,0,0,1,1,1,10,1
+1955498120,Vahid Moosavi,ETH Zurich,ml_randoms,15,35,3,2,0,11,16,0,4,4,4,22,2
+2148393386,Ramiro Magno,University of the Algarve,ml_randoms,10,76,7,0,0,75,0,0,3,3,1,3,1
+2636202119,R. A. Dillard,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2686556553,Kun She,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2717306367,S. K. Pillai,Noorul Islam University,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2627738329,A.V. Timofeev,,ml_randoms,1,18,0,1,0,0,18,0,1,1,1,18,1
+657417986,S. Mary Praveena,Sri Ramakrishna Institute of Technology,ml_randoms,8,8,5,3,1,4,4,0,2,2,1,2,1
+2117648433,Klaus Reinhold,Bielefeld University,ml_randoms,97,2210,82,0,0,2130,0,0,25,25,1,11,1
+2461066590,Patrick Cisuaka Kabongo,University of Brasília,ml_randoms,3,3,0,3,0,0,3,0,1,1,2,1,1
+2698748307,Qiaona Chen,East China Normal University,ml_randoms,1,29,0,1,0,0,29,0,1,1,1,29,1
+56242491,Bethany Percha,Icahn School of Medicine at Mount Sinai,ml_randoms,25,698,19,2,0,561,118,0,11,11,3,22,1
+2648665546,Syed Amer.,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2642784014,A. Thyagarajan,,ml_randoms,1,14,0,1,0,0,14,0,1,1,1,14,1
+2562930320,O. Gordo,,ml_randoms,2,16,1,1,0,12,4,0,2,2,1,12,1
+2047377614,Hidehiko Iwasa,Nara Institute of Science and Technology,ml_randoms,19,434,8,8,0,31,371,0,7,7,1,0,0
+2641802343,Jin-cang Niu,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2224746060,Resul Dogan,,ml_randoms,2,2,1,1,0,0,2,0,1,1,1,0,0
+2922450360,Akash Mittal,,ml_randoms,1,7,0,0,0,0,0,0,1,1,1,7,1
+259240390,Ivo Krka,Google,ml_randoms,30,446,3,18,0,110,306,0,10,10,1,6,1
+2993714836,Jonathan White,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2779637858,Juan Pablo Galeotti,Saarland University,ml_randoms,42,558,7,20,0,82,421,0,12,12,1,0,0
+2118265108,Andrea Peters,University of Erlangen-Nuremberg,ml_randoms,13,368,12,0,0,366,0,0,8,8,1,3,1
+2150871667,Sebastian Rausch,ETH Zurich,ml_randoms,77,1427,39,1,0,1250,1,0,17,17,1,0,0
+2143077302,Young-Min Jang,Kyungpook National University,ml_randoms,32,138,12,12,0,64,51,0,7,7,8,36,4
+2769830340,Liansheng Jia,,ml_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2974147388,Yi Zheng,Mayo Clinic,ml_randoms,1,24,1,0,0,24,0,0,1,1,1,24,1
+2338723266,Sadaf Iqbal,Aligarh Muslim University,ml_randoms,7,15,1,4,0,1,11,0,3,3,1,7,1
+2240788790,Harry S. Delugach,University of Alabama in Huntsville,ml_randoms,67,1063,11,23,0,244,175,0,13,13,2,83,2
+2438770762,Ralph Etienne,University of Pennsylvania,ml_randoms,1,8,1,0,0,8,0,0,1,1,1,8,1
+2646381348,B.T. Hird,Royal Dutch Shell,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2407382969,Roger D. Jones,CERN,ml_randoms,76,19800,43,9,0,1429,214,0,16,16,5,171,3
+2949519175,Camilla Schwind,École Normale Supérieure,ml_randoms,2,27,1,0,0,27,0,0,1,1,1,0,0
+2589772007,谢安世,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2976287842,Liu Yueyue,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2481962223,Zhang Hongqi,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2168358135,Sathiadev Mahesh,University of New Orleans,ml_randoms,10,50,5,1,0,50,0,0,3,3,1,0,0
+2580270569,Ram B. Gurung,Stockholm University,ml_randoms,5,9,1,3,0,1,5,0,2,2,3,5,2
+2685594874,Zhe Feng,Bosch,ml_randoms,9,30,0,5,0,0,15,0,2,2,1,1,1
+2748564065,Liu Yajuan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1564748309,Thomas Ryberg,Aalborg University,ml_randoms,187,823,19,9,0,422,74,0,13,13,1,0,0
+2899097975,Liangqi Li,Shanghai Jiao Tong University,ml_randoms,3,0,1,2,0,0,0,0,0,0,1,0,0
+2729753281,José Gómez Martil,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2666103034,Jiming Xie,,ml_randoms,9,199,9,0,0,199,0,0,6,6,1,0,0
+2935888899,H.H. Yan,Drexel University,ml_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+2476508608,Huijun Zhuang,McMaster University,ml_randoms,1,237,1,0,0,237,0,0,1,1,1,237,1
+2291225388,芳紀 佐藤,,ml_randoms,6,0,2,0,0,0,0,0,0,0,2,0,0
+2781656461,Tong Zhongzhi,Nanjing University of Science and Technology,ml_randoms,10,17,0,1,0,0,1,0,2,2,0,0,0
+2104760419,Walied Othman,University of Hasselt,ml_randoms,18,309,9,5,0,245,40,0,9,9,2,28,2
+2110822779,Angelo R. dela Cruz,University of Santo Tomas,ml_randoms,31,32,1,29,0,0,32,0,3,3,1,0,0
+2397593186,Y.K. Penva,,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2942829706,Mark Johnson,University of Leicester,ml_randoms,21,15,2,0,0,0,0,0,1,1,1,0,0
+2685890706,Xiao Liao,,ml_randoms,2,0,1,0,0,0,0,0,0,0,1,0,0
+2434357059,Wang Xia,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2887558113,Lavanya V S,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2151280037,Eoin P. Lynch,"Trinity College, Dublin",ml_randoms,3,13,3,0,0,13,0,0,1,1,1,13,1
+2502858328,Yue M. Lu,Harvard University,ml_randoms,137,2984,44,58,3,1635,943,83,25,25,4,34,3
+1712626589,Christopher J. Friedline,Virginia Commonwealth University,ml_randoms,16,111,10,1,0,107,3,0,7,7,1,3,1
+2245455119,Carlos M. Parra,Florida International University,ml_randoms,13,36,9,2,0,33,1,0,3,3,2,3,1
+2520927272,Tianyu Zhao,Beijing Technology and Business University,ml_randoms,3,3,2,0,0,3,0,0,1,1,1,3,1
+2056244091,Peter Guttorp,University of Washington,ml_randoms,175,9505,131,0,0,7396,0,0,49,49,2,249,2
+2939343375,Ken Sugawara,Tohoku Gakuin University,ml_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2235102207,Gang Li,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2614331909,Yovi Pratama,,ml_randoms,11,0,0,4,0,0,0,0,0,0,1,0,0
+2228667090,Nakul Nagpal,Rochester Institute of Technology,ml_randoms,1,29,0,1,0,0,29,0,1,1,0,0,0
+1974878951,Michael S. Loop,University of Alabama at Birmingham,ml_randoms,51,673,50,0,0,673,0,0,13,13,1,3,1
+2797611804,Gong-You Tang,Ocean University of China,ml_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+2790972711,T. E. Schouten,The Catholic University of America,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2020917050,Jennifer Beshel,Cold Spring Harbor Laboratory,ml_randoms,11,865,9,0,0,865,0,0,9,9,1,19,1
+2977653997,Syali Widia Pratiwi,Binus University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2267828819,Ryan Elwell,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2661456592,Wei Wang,,ml_randoms,6,100,5,0,0,99,0,0,5,5,1,5,1
+2308205400,N. Jamali,Halifax,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2792889203,Michael Grossniklaus,University of Konstanz,ml_randoms,101,1770,21,54,1,402,1232,10,17,17,3,10,1
+2405339514,A.J. Maren,,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+1763983310,修 平林,,ml_randoms,21,10,1,2,0,0,0,0,3,3,2,0,0
+2964401215,Huifang Sun,Nanjing University of Aeronautics and Astronautics,ml_randoms,6,13,6,0,0,13,0,0,2,2,1,1,1
+2154831416,Daniel Garcia-Romero,Johns Hopkins University,ml_randoms,65,3534,12,44,1,374,2868,3,23,23,10,312,5
+2734548190,Jon Fiscus,,ml_randoms,2,695,0,0,0,0,0,0,1,1,1,1,1
+2720663006,C.T. Spracklen,University of Aberdeen,ml_randoms,1,1,0,0,0,0,0,0,1,1,0,0,0
+2631601228,Lixin Han,Hohai University,ml_randoms,1,107,1,0,0,107,0,0,1,1,1,107,1
+2622024287,A Coburger,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2240871251,Wei Xu Hao,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2743017421,Maksym Nesterov,,ml_randoms,5,5,1,2,0,1,0,0,1,1,1,0,0
+2724140167,敬之 伊丹,,ml_randoms,133,2,0,0,0,0,0,0,1,1,1,0,0
+2699868600,Liang-Hwa Chen,National Tsing Hua University,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2751625410,Wang Yali,,ml_randoms,2,0,2,0,0,0,0,0,0,0,2,0,0
+2975997546,Zhirong Li,The Chinese University of Hong Kong,ml_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2159583451,Clifford S. Thomas,University of Stirling,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2155042781,Chunxiao Jiang,Tsinghua University,ml_randoms,300,4954,156,108,14,4475,417,362,28,27,13,486,5
+2965124507,Yang Pengcheng,Academy of Military Science,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2724093614,Lu Li,Xi'an Jiaotong University,ml_randoms,6,91,4,2,0,80,11,0,4,4,1,11,1
+2535096815,Jorge Rodolfo Busch,University of Buenos Aires,ml_randoms,8,66,4,0,0,54,0,0,4,4,1,5,1
+2122475223,Mark Kaminski,University of Oxford,ml_randoms,44,328,17,24,0,169,141,0,11,11,12,16,3
+2888405316,Mona Al-Rei,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2616230447,Shaza B. Zaghlool,Virginia Tech,ml_randoms,4,3,1,3,0,3,0,0,1,1,2,0,0
+2637235913,Peng Li,Chinese Academy of Sciences,ml_randoms,23,136,1,19,0,7,96,0,6,6,2,3,1
+2914850164,Leonid Nikitin,,ml_randoms,3,0,0,3,0,0,0,0,0,0,3,0,0
+2558442528,Waleed Ammar,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2991561373,Qianqian Shao,China University of Petroleum,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2663560219,최재혁,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2640178061,Ns.Ch.Yeni. Kustanti.,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2712130505,Lin Li,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2169434805,André Wolff,University Medical Center Groningen,ml_randoms,124,600,58,0,2,593,0,0,11,11,1,0,0
+2056725072,Tanja Congiu,University of Sassari,ml_randoms,19,70,6,6,2,41,28,1,6,6,1,25,1
+2589077910,Yuuki Kohri,Doshisha University,ml_randoms,2,5,0,2,0,0,5,0,1,1,1,4,1
+2661222986,Li Liu,Lanzhou University,ml_randoms,7,11,0,7,0,0,11,0,2,2,1,0,0
+2080791720,Samuel A. Shelburne,University of Texas MD Anderson Cancer Center,ml_randoms,144,5416,130,0,0,5415,0,0,30,30,1,0,0
+2114318842,Ping-Hung Lin,National Chiao Tung University,ml_randoms,14,165,8,5,0,112,53,0,6,6,2,8,2
+2956303596,Kazuhiro Hotta,Meijo University,ml_randoms,6,19,1,3,0,6,9,0,3,3,1,0,0
+2943018219,Xian-xian Luo,Quanzhou Normal University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2748568827,DinaMohamedAhmed Elawady,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1997344350,Gwo-Hshiung Tzeng,,ml_randoms,2,2,1,0,0,2,0,0,1,1,1,2,1
+2705385922,Zhongqian Tang,Huazhong University of Science and Technology,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2192835232,Schubert Ribeiro De Carvalho,Queen's University,ml_randoms,1,9,1,0,0,9,0,0,1,1,1,9,1
+2553970656,Hamida Mohammed Bakr Darwish,King Abdulaziz University,ml_randoms,2,4,2,0,0,4,0,0,1,1,1,0,0
+2665425856,Chen Shi-fu,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2372641677,Qiang Lv,Liaoning Technical University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+3000490620,YehMi-Yen,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2141120236,Karl G. Sylvester,Stanford University,ml_randoms,141,2657,119,3,0,2619,13,0,25,25,2,16,1
+2622606530,Noga Zucker,,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2883292645,Hermann Blum,ETH Zurich,ml_randoms,6,11,0,2,0,0,4,0,2,2,6,11,2
+2068430711,Harjinder Singh Lallie,University of Warwick,ml_randoms,22,102,16,3,0,80,17,0,6,6,1,12,1
+2621899966,G. Hernández,"University of Maryland, Baltimore County",ml_randoms,1,12,1,0,0,12,0,0,1,1,1,12,1
+2785246332,Yunxue Gao,Harbin Institute of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2974915317,Q. Li,La Trobe University,ml_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+2974454301,A.D. Mali,,ml_randoms,1,5,0,1,0,0,5,0,1,1,1,5,1
+2551653030,Yoichi Mukarami,University of Sussex,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2654247202,Jun Ma,Chinese People's Public Security University,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2422377028,Rui Li,Shenyang University of Technology,ml_randoms,2,3,0,2,0,0,3,0,1,1,1,1,1
+2143196238,Thomas Donaldson,University of Pennsylvania,ml_randoms,119,26192,84,0,1,20076,0,1,27,27,2,1,1
+2837273733,Ahn Tae Sung,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2921350181,Fei Hu,Southwest University,ml_randoms,4,2,0,4,0,0,2,0,1,1,2,1,1
+2890673279,Kaiwen Guo,Technische Universität München,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2578712342,P. Nithya,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2951581860,Srikrishna Varadarajan,,ml_randoms,2,0,0,1,0,0,0,0,0,0,2,0,0
+3000500254,JabbariMasoud,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2118878734,Conrad G. Mueller,,ml_randoms,2,40,2,0,0,40,0,0,2,2,1,30,1
+2610314397,Colombiano Kedowide,Université du Québec,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2506403129,Jean-Daniel Zucker,"Vietnam National University, Ho Chi Minh City",ml_randoms,8,34,1,1,0,29,2,0,2,2,1,0,0
+2506047486,Michael Schnall-Levin,Massachusetts Institute of Technology,ml_randoms,52,4323,18,1,0,3504,20,0,19,19,1,20,1
+2440134406,P.-M. Lallican,,ml_randoms,1,19,0,1,0,0,19,0,1,1,1,19,1
+2471646566,Pilar Gómez-Rey,Open University of Catalonia,ml_randoms,11,19,7,0,0,18,0,0,3,3,1,4,1
+2935205693,Liu Xiaodong,,ml_randoms,2,3,0,0,0,0,0,0,1,1,1,3,1
+2764678821,潔 都甲,Kyushu University,ml_randoms,6,0,0,2,0,0,0,0,0,0,1,0,0
+2620180505,Kazuyuki Nakamura,Meiji University,ml_randoms,32,148,13,6,0,105,26,0,7,7,2,18,1
+2023204179,Simone Macrì,Istituto Superiore di Sanità,ml_randoms,86,3532,77,2,1,3498,5,0,28,28,3,16,2
+2968808353,Zheng Shenglin,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2254364020,Zhanghua Yan,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2292976543,Venkataramani Rakesh,Indira Gandhi Centre for Atomic Research,ml_randoms,4,6,1,3,0,0,6,0,2,2,1,0,0
+2277759540,Matthew Burgess,University of Michigan,ml_randoms,12,175,3,6,0,19,155,0,4,4,1,25,1
+2026594887,Zhao Suyun,Renmin University of China,ml_randoms,5,0,0,3,0,0,0,0,0,0,1,0,0
+2432323034,Mohammad Najafzadeh,Graduate University of Advanced Technology,ml_randoms,45,1066,43,1,0,1055,2,0,21,21,1,2,1
+2888427546,Sijeh Agbor Asuk,University of Calabar,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2780633651,Mark Yim,,ml_randoms,1,7,0,1,0,0,7,0,1,1,1,7,1
+2322577842,Craig Thompson,University of Saskatchewan,ml_randoms,10,71,0,7,0,0,54,0,4,4,5,20,2
+2993063112,M H Javidi,Ferdowsi University of Mashhad,ml_randoms,13,134,9,1,0,122,11,0,5,5,1,9,1
+2800055986,P Rathnavel,,ml_randoms,3,0,0,1,0,0,0,0,0,0,1,0,0
+2430046425,Chris Baker,,ml_randoms,2,5,0,1,0,0,5,0,1,1,1,5,1
+2673581443,Junqing Zhou,Huazhong University of Science and Technology,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2181741712,Therese E. Johnston,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2964020204,Ute Habel,RWTH Aachen University,ml_randoms,106,2796,104,1,0,2787,9,0,22,22,2,0,0
+2627895180,Jindong Shen,China Jiliang University,ml_randoms,1,16,1,0,0,16,0,0,1,1,1,16,1
+2932356187,Ashwin Rajadesingan,University of Michigan,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2115954786,Yunhee Shin,Konkuk University,ml_randoms,22,215,10,10,0,146,68,0,7,7,3,63,2
+984913434,Øyvind Hauso,Norwegian University of Science and Technology,ml_randoms,30,1306,30,0,0,1306,0,0,13,13,1,70,1
+2265479479,A.H. El-Mousa,King's College London,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2896652269,Annapareddy V. N. Reddy,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2974667042,R. Khedam,University of Science and Technology Houari Boumediene,ml_randoms,2,5,0,2,0,0,5,0,2,2,1,3,1
+2093701171,Yi-lin Bei,,ml_randoms,2,11,1,1,0,0,11,0,1,1,1,0,0
+2480916701,Robert L. O'donnell,Intel,ml_randoms,1,0,0,0,0,0,0,0,0,0,2,0,0
+2988473310,David S. Warren,,ml_randoms,3,464,1,0,0,52,0,0,3,3,1,52,1
+2287719424,Sergio C. Oliveira,Universidade Federal de Minas Gerais,ml_randoms,217,7951,201,0,2,7888,0,25,51,51,1,3,1
+2893727187,Brosnan Yuen,University of Victoria,ml_randoms,9,19,4,0,0,15,0,0,2,2,3,1,1
+2747013496,Mahapatra Dwarikanath,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2070069514,Ondřej Chum,Czech Technical University in Prague,ml_randoms,25,1938,11,12,0,959,898,0,14,14,7,1507,7
+2885214556,Atefeh Heydari,University of Manchester,ml_randoms,1,3,1,0,1,3,0,3,1,0,1,3,1
+2890060969,Cien Fan,Wuhan University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2781015229,Yannan Sun,Dalian University of Technology,ml_randoms,1,64,1,0,0,64,0,0,1,1,1,64,1
+2226443433,G. Salcioli,University of Milan,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2572883239,M.Bharat Prakash,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2118730186,Sungwoo Park,Pohang University of Science and Technology,ml_randoms,29,470,12,13,0,179,286,0,11,11,1,18,1
+2907814321,Fabiana Gomez,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2953596195,Maria Fani Poulopoulou,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2184211454,Atsushi Ueno,Osaka City University,ml_randoms,27,5,3,9,0,2,3,0,2,2,4,0,0
+2308933910,Andy Fulmer,Procter & Gamble,ml_randoms,12,821,8,3,0,587,232,0,9,9,2,131,2
+2165759701,Muamer N. Mohammed,Universiti Malaysia Pahang,ml_randoms,29,59,16,5,0,40,12,0,4,4,1,3,1
+2920430393,Leyla Mirvakhabova,,ml_randoms,2,10,0,0,0,0,0,0,2,2,1,5,1
+2425539275,Parisa Tirdad,Concordia University,ml_randoms,6,48,1,4,0,20,26,0,3,3,2,4,2
+2892669742,Arif Alper Cevik,United Arab Emirates University,ml_randoms,33,24,28,0,0,24,0,0,3,3,1,0,0
+2992302558,Christina Mack,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2974820593,Cane Hernandez,French Institute for Research in Computer Science and Automation,ml_randoms,1,78,0,1,0,0,78,0,1,1,1,78,1
+2629406778,Jiangtao Ren,Sun Yat-sen University,ml_randoms,1,5,0,1,0,0,5,0,1,1,1,5,1
+2898053603,Alexander Tkachenko,,ml_randoms,2,2,0,1,0,0,0,0,1,1,1,0,0
+2965506901,Gašper Štukelj,Ludwig Maximilian University of Munich,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2501732785,A.S. Bisht,PEC University of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2804884345,Emanuel Aguilar-Benitez,Ensenada Center for Scientific Research and Higher Education,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2100516333,Byung-Joo Lee,,ml_randoms,21,30,4,0,1,28,0,0,3,3,1,0,0
+2567665621,Hyunjik Kim,Google,ml_randoms,11,267,0,4,0,0,41,0,5,5,11,264,5
+2897240750,Hui Yu,Kunming University of Science and Technology,ml_randoms,4,0,0,4,0,0,0,0,0,0,1,0,0
+2309880073,Lou Xuyang,Yangtze University,ml_randoms,14,15,3,1,0,1,0,0,2,2,1,0,0
+2916703384,Pascale Sébillot,Centre national de la recherche scientifique,ml_randoms,8,14,1,1,0,3,5,0,2,2,1,5,1
+2998694317,권영덕,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2912368701,Amit Kumar,"Cisco Systems, Inc.",ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+215415661,Matthieu Gallien,University of Toulouse,ml_randoms,11,244,1,4,1,95,114,95,6,6,3,102,3
+2627980937,C.S.G. Lee,,ml_randoms,1,4,0,1,0,0,4,0,1,1,1,4,1
+1999212657,Dagny Faksvåg Haugen,Haukeland University Hospital,ml_randoms,75,5005,71,2,6,4994,11,574,23,21,1,6,1
+144686356,Arto Klami,University of Helsinki,ml_randoms,78,1211,19,38,0,552,518,0,18,18,40,664,13
+2146000106,Anass Boukhris,Centre national de la recherche scientifique,ml_randoms,9,159,5,2,0,150,7,0,4,4,1,3,1
+2140957308,Rafael Saraiva Campos,Centro Federal de Educação Tecnológica de Minas Gerais,ml_randoms,22,105,6,7,0,76,20,0,5,5,3,65,1
+2980207237,Mohammad Nurul Hassan Reza,Multimedia University,ml_randoms,4,0,2,0,0,0,0,0,0,0,1,0,0
+2492793318,Jianmin Chen,Google,ml_randoms,2,7476,0,1,0,0,4608,0,3,3,3,7476,3
+2222847985,Yangming Zhang,,ml_randoms,2,18,0,2,0,0,18,0,2,2,1,13,1
+2197561791,Josh Hartung,University of Idaho,ml_randoms,3,18,1,0,0,0,0,0,1,1,1,18,1
+2738233502,Jehan Zeb,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2157543530,Radha Poovendran,University of Washington,ml_randoms,248,9162,55,126,3,3248,4073,115,52,51,13,253,6
+2605204202,K. Akila,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2128806006,Carlos A. Heuser,Universidade Federal do Rio Grande do Sul,ml_randoms,74,892,14,42,3,200,559,16,18,18,4,28,2
+2636984075,C. Golden,University College Dublin,ml_randoms,1,295,1,0,0,295,0,0,1,1,1,295,1
+2968832650,Shrager Jeffrey C,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2071904649,Dirk Van Oudheusden,Katholieke Universiteit Leuven,ml_randoms,72,2841,25,3,1,2586,28,759,17,16,2,388,2
+2652681120,Sheng Xu,Hefei University of Technology,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2753382272,M Fernandez-Luna Juan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2792490637,Bill Hill,University of Edinburgh,ml_randoms,71,1729,16,3,0,1709,6,0,10,10,1,190,1
+2029852909,Festim Halili,State University of Tetovo,ml_randoms,8,12,1,5,0,0,9,0,3,3,1,0,0
+2331059493,Elkhedr Hassan Eibrahim,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2785708467,Ben Goodrich,Google,ml_randoms,9,105,0,5,0,0,45,0,3,3,4,44,2
+2548177813,Ramakant Nevatia,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2724558271,Harold Altman,,ml_randoms,1,10,1,0,0,10,0,0,1,1,1,10,1
+2496714257,박성수,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2235681148,Imbaby I. Mahmoud,Egyptian Atomic Energy Authority,ml_randoms,79,196,30,32,0,126,66,0,8,8,1,20,1
+2105802075,Liang Zhu,Fudan University,ml_randoms,6,50,2,2,0,11,30,0,4,4,2,27,2
+2304668641,Karamjit Singh,Tata Consultancy Services,ml_randoms,19,29,0,7,0,0,16,0,3,3,6,18,3
+2974440795,M. T. Musavi,University of Maine at Augusta,ml_randoms,1,167,1,0,0,167,0,0,1,1,1,167,1
+2962758881,Jialing Pei,Shanghai Jiao Tong University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2229156181,Shen Hongliang,Tsinghua University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2887795076,Ziyi Bao,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2138168079,Chunmei Shi,Harbin Institute of Technology,ml_randoms,6,4,2,4,0,4,0,0,1,1,4,0,0
+2696868032,F. Ermini,University of Florence,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+725555775,Srimat Chakradhar,Princeton University,ml_randoms,214,6947,25,106,0,791,4735,0,41,41,1,34,1
+2421478875,Padmaraj Nidagundi,Riga Technical University,ml_randoms,3,9,2,0,0,9,0,0,2,2,1,6,1
+2096840900,Shun-ichi Takeya,Kyushu University,ml_randoms,9,11,4,1,1,0,1,0,2,2,1,1,1
+2115019565,Barend J. Leonard,University of Pretoria,ml_randoms,7,50,1,4,0,11,18,0,5,5,3,25,3
+2060991583,Simon C. K. Shiu,Hong Kong Polytechnic University,ml_randoms,87,2225,26,49,0,879,532,0,17,17,50,1563,13
+2112028020,Stephen Hobson,,ml_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2408024822,Silvio do Lago Pereira,University of São Paulo,ml_randoms,11,39,3,7,0,11,28,0,4,4,4,14,2
+2103398952,Jianming Chen,Kunming University of Science and Technology,ml_randoms,5,33,1,4,0,14,19,0,3,3,1,3,1
+2153214525,Antonio Cardenas,Universidad Autónoma de San Luis Potosí,ml_randoms,29,141,10,8,0,101,26,0,6,6,1,15,1
+2998553937,Jiachong Li,Nankai University,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2997060225,IzadikhahMohammad,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2898136905,Gaurav Mittal,Indian Institute of Technology Ropar,ml_randoms,6,57,0,5,0,0,52,0,3,3,4,38,2
+2494717245,Ming-Lang Tseng,Asia University (Taiwan),ml_randoms,210,6227,178,7,0,5913,68,0,41,41,6,622,6
+2974046426,Kamil Dziadek,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2495328292,Amir Khakpour,University of Tehran,ml_randoms,3,120,3,0,0,120,0,0,3,3,1,95,1
+2435863471,Marijn B. Martens,Radboud University Nijmegen,ml_randoms,6,43,6,0,0,43,0,0,4,4,2,3,1
+2670757409,Baoxian Wang,Beijing Institute of Technology,ml_randoms,2,3,1,1,0,3,0,0,1,1,1,3,1
+2225726095,Bingzhen Chen,Tsinghua University,ml_randoms,47,340,44,0,0,340,0,0,9,9,1,8,1
+2430168206,Bin Xu,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+267636922,Fiona Walkerden,University of New South Wales,ml_randoms,2,295,2,0,0,295,0,0,2,2,1,264,1
+2767533459,Hoang Dung Vu,,ml_randoms,3,3,0,1,0,0,3,0,1,1,1,0,0
+2633852659,Jong-Chen Chen,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2799981196,José Ferrão,Siemens,ml_randoms,9,46,7,2,0,33,13,0,3,3,2,13,2
+2973347513,S. Rao Sathyanarayan,Villanova University,ml_randoms,1,20,0,1,0,0,20,0,1,1,1,20,1
+2107574544,Ruobing Zou,South China University of Technology,ml_randoms,7,133,3,4,0,123,4,0,3,3,5,126,2
+2634077336,Kun Zeng,Xiamen University,ml_randoms,3,238,3,0,0,238,0,0,3,3,2,181,2
+2759603622,E. Kustov,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2585295267,HaidarAl. Habrati.,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2792706975,W.-R. Külpmann,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2654105030,Paola Rizzo,,ml_randoms,8,34,1,3,0,12,13,0,4,4,1,9,1
+2153684701,Linhui Jia,University of Melbourne,ml_randoms,4,6,4,0,0,6,0,0,2,2,1,4,1
+2710376761,Haidong Fu,Wuhan University of Science and Technology,ml_randoms,1,14,0,1,0,0,14,0,1,1,1,14,1
+2796119082,Hao Long,Jiangxi Normal University,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+2103042804,Shubao Liu,Brown University,ml_randoms,12,309,3,9,0,231,78,0,7,7,2,195,2
+2110030754,Zhuoqin Yang,Beihang University,ml_randoms,18,165,16,0,0,163,0,0,5,5,1,1,1
+2110071500,Isidora Petreska,,ml_randoms,4,11,0,4,0,0,11,0,2,2,2,3,1
+2160918886,Francois Gingras,Université de Montréal,ml_randoms,3,63,1,1,0,1,59,0,2,2,1,59,1
+2151793810,Temistocles Rojas,Heriot-Watt University,ml_randoms,7,14,3,0,0,10,0,0,3,3,2,4,1
+2602251415,Adriana Irawati Nur Binti Ibrahim,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2782915183,A.J. Myles,University of Delaware,ml_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2966363177,Ayman N. Murshed,University of Jordan,ml_randoms,4,35,2,2,0,33,2,0,2,2,1,31,1
+2673518972,Didem Abidin,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2496166600,C L Karr,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2665286934,Tristan Launay,,ml_randoms,2,67,1,1,0,11,56,0,2,2,2,67,2
+2437402430,S. C. Tan,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2134535302,Hsu-Shen Tsai,Takming University of Science and Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2585263748,Li Renfa,,ml_randoms,5,3,5,0,0,3,0,0,1,1,1,3,1
+2501616191,Alex Lopez-Rolon,Ludwig Maximilian University of Munich,ml_randoms,7,12,7,0,0,12,0,0,3,3,1,0,0
+2711355888,Fengqiu Liu,Harbin University of Science and Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2397137354,Akio Kobayashi,Toyohashi University of Technology,ml_randoms,20,25,1,13,0,0,17,0,3,3,1,0,0
+2154020053,Shih Kai Chen,National Cheng Kung University,ml_randoms,2,8,2,0,0,8,0,0,2,2,1,6,1
+2679161462,R. Nadarajan,PSG College of Technology,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2140125811,Jundong Liu,Ohio University,ml_randoms,53,522,9,34,0,167,336,0,9,9,7,181,4
+1265258684,Mohsen Kompany-Zareh,Institute for Advanced Studies in Basic Sciences,ml_randoms,86,810,85,0,0,810,0,0,15,15,2,60,2
+114881268,Raoudha Chebil,Manouba University,ml_randoms,9,14,2,6,1,0,12,0,2,2,2,6,1
+2766035936,Zhang Le Jun,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2338780496,Yuliang Qian,Tongji University,ml_randoms,4,5,2,2,0,2,3,0,1,1,1,3,1
+2222169833,Sun Jian-qing,Hefei University of Technology,ml_randoms,1,16,0,1,0,0,16,0,1,1,1,16,1
+2957444223,Steve N'Guyen,Centre national de la recherche scientifique,ml_randoms,1,3,1,0,0,3,0,0,1,1,1,3,1
+2569238329,Leroy B. Keely,Microsoft,ml_randoms,125,8930,0,0,0,0,0,0,50,50,1,0,0
+2728147194,Yong-Ming Cai,Guangdong Pharmaceutical University,ml_randoms,3,5,2,1,0,5,0,0,1,1,1,0,0
+2589311023,Victor M. Preciado,Spanish National Research Council,ml_randoms,9,25,3,5,0,2,23,0,3,3,2,5,2
+2701231361,Nick Draper,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2768171301,Mahmood Mohammad,Howard University,ml_randoms,3,21,1,2,0,15,6,0,2,2,1,6,1
+2806156113,Minglong Li,National University of Defense Technology,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2689545403,Azlin Sanusi,"Intec, Inc.",ml_randoms,3,1,3,0,0,1,0,0,1,1,1,0,0
+2501757632,Shu-Ying Li,National Central University,ml_randoms,2,4,1,0,0,4,0,0,1,1,1,4,1
+2703567838,Yue-Xiang Jiang,,ml_randoms,2,4,2,0,0,4,0,0,1,1,2,4,1
+2903090656,Md. Ferdous Wahid,Hajee Mohammad Danesh Science & Technology University,ml_randoms,5,3,1,3,0,1,0,0,1,1,1,0,0
+2937014606,Kwang-Tzu Yang,University of Notre Dame,ml_randoms,67,2034,49,0,0,1954,0,0,21,21,1,7,1
+2973986067,D. Federici,Norwegian University of Science and Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2306897188,Chen Liang,Google,ml_randoms,14,252,2,8,0,8,113,0,8,8,15,244,8
+2990959054,Sung Jean Park,Gachon University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2339365866,Nisachol Chamnongsria,Suranaree University of Technology,ml_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2077863756,Shrideep Pallickara,Colorado State University,ml_randoms,143,2590,46,68,3,481,1735,11,23,23,5,36,2
+2529247536,Kyriaki Saiti,Czech Technical University in Prague,ml_randoms,5,4,0,2,0,0,2,0,1,1,2,1,1
+2906719624,Tianle Cai,,ml_randoms,4,23,0,0,0,0,0,0,3,3,1,13,1
+2307457617,Hyung Won Choi,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2617394009,Bo Li,South China University of Technology,ml_randoms,4,3,0,4,0,0,3,0,1,1,2,2,1
+713405900,Anna Justyna Milewska,Medical University of Białystok,ml_randoms,41,172,39,0,0,165,0,0,7,7,3,24,3
+2121573088,Xuening Li,Shanghai Jiao Tong University,ml_randoms,5,8,0,5,0,0,8,0,2,2,1,6,1
+2425797265,Leonidas Spiliopoulos,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2437769285,Pretesh Bhoola Patel,,ml_randoms,2,0,0,0,0,0,0,0,0,0,1,0,0
+2628081465,Milad Memarzadeh,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2231779368,Dinh Viet Sang,Hanoi University of Science and Technology,ml_randoms,19,43,2,17,0,2,41,0,4,4,6,4,1
+2307907159,Dorit Hammerling,National Center for Atmospheric Research,ml_randoms,55,557,24,3,0,502,17,0,10,10,2,24,2
+2800704150,Pujiang Shi,Swinburne University of Technology,ml_randoms,2,4,1,0,0,4,0,0,1,1,1,0,0
+2672607948,Tiago Alves,Universidade Federal de Minas Gerais,ml_randoms,3,6,1,1,0,3,2,0,2,2,1,2,1
+2695881040,Л В Липинский,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2114840535,Yiu-Wa Chan,University of New South Wales,ml_randoms,2,29,0,2,0,0,29,0,2,2,2,4,1
+2060703318,S. Armagan Tarim,University College Cork,ml_randoms,83,1385,41,14,1,922,288,9,17,17,5,40,4
+2804912760,Hitkul,Indraprastha Institute of Information Technology,ml_randoms,5,5,1,0,0,1,0,0,1,1,2,5,1
+2690703422,Roger G. Petersen,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2769411768,Suhaili Alifuddin,,ml_randoms,2,2,0,2,0,0,2,0,1,1,1,2,1
+2703191423,손창식,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2231986177,Ziyang Lv,Fujian Agriculture and Forestry University,ml_randoms,2,7,0,2,0,0,7,0,1,1,2,7,1
+221747942,Honorata Balicka,,ml_randoms,7,5,1,1,0,3,0,0,2,2,1,0,0
+2777061720,Micael Carvalho,University of Paris,ml_randoms,7,63,0,5,0,0,34,0,5,5,4,32,3
+2074782704,Mohammad Bagher Bannae Sharifian,University of Tabriz,ml_randoms,93,1195,49,36,2,992,125,161,16,16,1,14,1
+2954574900,Shawkat K. Guirguis,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2147820014,Meng Jie,,ml_randoms,3,0,2,0,0,0,0,0,0,0,1,0,0
+2088056087,Burkhard Maess,Max Planck Society,ml_randoms,169,4804,80,4,0,4763,12,0,29,29,3,1,1
+2649345469,Peng Wang,Beijing Jiaotong University,ml_randoms,6,5,4,0,0,3,0,0,2,2,1,2,1
+2112636953,Julia M. Bergmann,,ml_randoms,5,13,5,0,0,13,0,0,3,3,1,4,1
+2954991172,Akira Kinose,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2426298712,Liang Tang,University of Science and Technology of China,ml_randoms,5,21,3,2,0,15,6,0,3,3,1,3,1
+2252532840,Quan Liu,University of Science and Technology of China,ml_randoms,19,162,2,8,0,0,102,0,4,4,12,44,4
+2755375391,Wei Zhang,Yantai University,ml_randoms,1,8,0,1,0,0,8,0,1,1,1,8,1
+2806681420,Tito Crissien Borrero,,ml_randoms,17,60,4,6,0,12,45,0,5,5,6,45,4
+2495201253,Aleksejs Grocevs,Riga Technical University,ml_randoms,9,0,3,0,0,0,0,0,0,0,2,0,0
+2691299887,Minglun Ren,Hefei University of Technology,ml_randoms,2,8,2,0,0,8,0,0,1,1,1,8,1
+2052739787,Masahito Kumano,Ryukoku University,ml_randoms,35,196,11,18,0,25,164,0,7,7,10,21,3
+2303794836,R. Athinarayanan,Northern Illinois University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2864217238,Sugaya Fumiaki,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2118814561,Woo Seok Kang,University of Ulsan,ml_randoms,21,95,19,0,0,87,0,0,5,5,1,2,1
+2783980437,Wenjing Jin,Seoul National University,ml_randoms,3,1,1,2,0,0,1,0,1,1,1,0,0
+2226225408,W. Aciek Ida,Bandung Institute of Technology,ml_randoms,4,1,0,4,0,0,1,0,1,1,1,0,0
+2308391599,Yi Gao,Xidian University,ml_randoms,3,5,0,3,0,0,5,0,1,1,1,1,1
+2939175044,Yasushi Nishiwaki,University of Vienna,ml_randoms,6,65,1,2,0,51,10,0,3,3,2,51,1
+2264313742,Katsuhiro Akazawa,Osaka University,ml_randoms,7,1,2,2,0,0,1,0,1,1,2,1,1
+2133610317,Fernando Enríquez,University of Seville,ml_randoms,32,327,20,9,0,293,28,0,8,8,4,29,2
+2759620251,Xiaochen Chen,,ml_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2424650643,Óscar Erades De Quevedo,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2755682974,Huang Yanzhou,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2998162817,HuangQingming,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2748771886,Chedy Rassi,French Institute for Research in Computer Science and Automation,ml_randoms,1,9,1,0,0,9,0,0,1,1,1,9,1
+2670961469,Chunlong Fan,Shenyang Aerospace University,ml_randoms,2,1,0,2,0,0,1,0,1,1,1,1,1
+2961241726,Dubrovski Guy,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+773521283,Sergio Esparcia,Polytechnic University of Valencia,ml_randoms,20,63,1,14,0,6,49,0,5,5,6,28,3
+2241140857,Abdullah Al-Dujaili,Nanyang Technological University,ml_randoms,31,139,6,17,0,23,70,0,6,6,22,110,6
+2676369568,Yanmei Li,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2104680765,Jianbo Yang,Duke University,ml_randoms,26,1353,8,13,0,569,747,0,13,13,15,708,8
+2981988973,Jing Wu,Shanghai Jiao Tong University,ml_randoms,3,0,0,2,0,0,0,0,0,0,1,0,0
+165249060,Roya Mohammadzadekakhki,,ml_randoms,11,1,3,0,0,1,0,0,1,1,1,0,0
+2124664695,Luciano V. Araújo,University of São Paulo,ml_randoms,28,198,20,6,0,183,12,0,7,7,1,5,1
+2167186135,Media Anugerah Ayu,International Islamic University Malaysia,ml_randoms,97,318,18,41,4,106,175,1,9,9,2,12,2
+2798993357,Dohyun Kwon,Chung-Ang University,ml_randoms,10,1,3,6,0,0,1,0,1,1,1,0,0
+2997213381,Raul Fernandez,Massachusetts Institute of Technology,ml_randoms,12,1028,2,9,0,659,270,0,9,9,1,32,1
+2230510255,O. P. Kawrtiya,Jawaharlal Nehru University,ml_randoms,1,9,0,0,0,0,0,0,1,1,1,9,1
+2015692555,Zeng Jun-fang,Chinese Academy of Sciences,ml_randoms,11,9,7,2,1,6,2,2,2,1,1,1,1
+421771910,茂 吉森,,ml_randoms,37,0,1,0,0,0,0,0,0,0,1,0,0
+2698095216,Feiqi Deng,South China University of Technology,ml_randoms,8,22,0,8,0,0,22,0,4,4,1,4,1
+2901623261,Hadeel Alsolai,,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2476452711,Hassan Zahedi,Florida International University,ml_randoms,6,58,6,0,0,58,0,0,4,4,1,0,0
+2997214041,Xin Shu,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2668660001,Jianwei Liu,China University of Petroleum,ml_randoms,52,147,20,32,0,70,75,0,6,6,19,40,4
+2129420539,Moisés Araujo Oliveira,Federal University of Bahia,ml_randoms,4,3,2,0,0,3,0,0,1,1,1,3,1
+104973665,Sarah Aboutalib,Carnegie Mellon University,ml_randoms,4,15,0,4,0,0,15,0,2,2,2,4,2
+2555334304,Yu.B. Bielan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2965965677,Henrik Dahlberg,Industrial Light & Magic,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2963310891,Namit Juneja,VIT University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2662355892,Changlin Ma,Central China Normal University,ml_randoms,1,59,0,1,0,0,59,0,1,1,1,59,1
+2571089492,이영민 ( Youngmin Lee ),,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2749349841,Wei Hongzhi,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2955741298,André Luxen,University of Liège,ml_randoms,19,841,12,0,0,841,0,0,11,11,1,78,1
+2630705756,Wei Zhang,University of Defence,ml_randoms,2,5,0,2,0,0,5,0,1,1,1,0,0
+2398778212,M. Ángeles Pastor,Polytechnic University of Valencia,ml_randoms,4,8,1,2,0,0,2,0,1,1,1,1,1
+1986502505,Norm Friesen,Boise State University,ml_randoms,99,1773,60,6,1,1183,95,19,17,16,1,3,1
+2949973202,J. Hamidzadeh,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2355400855,Mehdi Boroumand,Binghamton University,ml_randoms,12,267,6,6,0,156,94,0,6,6,2,7,2
+2305407802,Elnaz Kabir,University of Michigan,ml_randoms,3,143,3,0,0,143,0,0,2,2,1,6,1
+2579254565,Yuefeng Liu,Harbin Institute of Technology,ml_randoms,2,1,1,1,0,0,1,0,1,1,1,1,1
+2629135910,Lin Hui,Northwestern Polytechnical University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2055875777,Fabio Pasqualetti,"University of California, Riverside",ml_randoms,117,4375,48,44,2,3299,906,208,26,26,13,51,3
+1974303798,Linan Zu,Hebei University of Technology,ml_randoms,18,56,1,17,0,5,51,0,5,5,1,6,1
+2978621843,Chang Zhou,Harbin Institute of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2411288341,Zong Jiang Wang,Weifang University,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2498855992,Peng Zhao,Northeastern University,ml_randoms,2,9,1,1,0,9,0,0,1,1,1,0,0
+2573571809,Rahul Kumar,Sinhgad Institute of Technology,ml_randoms,6,0,6,0,0,0,0,0,0,0,1,0,0
+2638042290,Huai-zhou Yang,,ml_randoms,1,13,1,0,0,13,0,0,1,1,1,13,1
+2708081011,Y.-Y. Guh,,ml_randoms,1,5,1,0,0,5,0,0,1,1,1,5,1
+329232111,Jorge R. Oksenberg,"University of California, San Francisco",ml_randoms,377,31613,337,1,1,31339,5,0,90,90,1,5,1
+2807800992,H. Handa,Kyoto University,ml_randoms,2,46,0,2,0,0,46,0,2,2,1,29,1
+2625727570,van der Horst A Q C,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2303751401,Dongming Xu,University of Florida,ml_randoms,12,348,4,7,0,266,80,0,6,6,2,6,1
+2169834791,Miquel Delgado Prieto,,ml_randoms,7,7,2,3,0,6,1,0,1,1,1,0,0
+2884018094,Lu Li,Jilin University,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2333181678,Shuanrong Liang,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2678673867,Hongbin,,ml_randoms,1,4,0,0,0,0,0,0,1,1,0,0,0
+17111367,Isye Arieshanti,University of Queensland,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2974693934,Alice Ellmer,University of Southern California,ml_randoms,1,6,0,1,0,0,6,0,1,1,1,6,1
+2938161007,Monish Kaul,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2697582735,Suzanne Marnocha,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2713882696,Vikas Gupta,,ml_randoms,2,23,0,1,0,0,5,0,2,2,1,5,1
+2923451506,Jean-Michel Brankart,Joseph Fourier University,ml_randoms,17,133,2,0,0,129,0,0,3,3,1,0,0
+2622294328,Karim Fathallah,Tunis University,ml_randoms,5,12,3,2,0,10,2,0,2,2,1,0,0
+2804884746,Nobuo Shimizu,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2026694162,R. C. de Brito,Centro Universitário da FEI,ml_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+2102456078,Mary A. Allen,University of Colorado Boulder,ml_randoms,24,981,20,2,0,976,5,0,9,9,1,9,1
+2174417023,S. A. Asmai,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2746710870,Hemkant verma,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2083851647,Masao Okita,Osaka University,ml_randoms,15,54,5,7,0,11,37,0,5,5,1,0,0
+2896365596,Owen Christopher King,University of Twente,ml_randoms,5,3,4,0,0,1,0,0,1,1,1,2,1
+2687452118,Davis E. King,,ml_randoms,1,1353,1,0,0,1353,0,0,1,1,1,1353,1
+2718361761,康成 前田,,ml_randoms,8,0,5,0,0,0,0,0,0,0,1,0,0
+2683634394,Олександр Юрійович Кучанський,Kyiv National University of Construction and Architecture,ml_randoms,4,5,1,0,0,5,0,0,1,1,1,5,1
+2761164439,Jifang Pang,Shanxi University,ml_randoms,2,3,2,0,0,3,0,0,1,1,2,3,1
+229653955,Vassili Soumelis,Curie Institute,ml_randoms,81,9425,69,1,0,9396,0,0,32,32,1,1,1
+2484814459,Shilan Kameli,,ml_randoms,2,6,3,0,0,6,0,0,1,1,1,5,1
+2693385110,Xiao-Ping Chen,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2125467708,Weishi Liu,University of Kansas,ml_randoms,42,836,34,0,0,822,0,0,15,15,1,0,0
+2963811587,Rui Gao,Chongqing University,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2049800608,Gaël Beaunée,Institut national de la recherche agronomique,ml_randoms,11,42,9,2,0,42,0,0,4,4,1,9,1
+2480169157,Peter Orchard,University of Michigan,ml_randoms,17,173,9,1,0,155,4,0,6,6,5,14,3
+2088998973,O. Skuta,University of Ostrava,ml_randoms,6,42,2,3,0,28,14,0,4,4,1,3,1
+2705497602,Nazmi Al-Shalabi.,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2641691795,Junjie Peng,Shanghai University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2988489310,Francisca Leite,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2945951276,Yongqing Huang,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+284367085,Daniele Quercia,Bell Labs,ml_randoms,124,4784,22,88,1,311,4173,11,33,33,14,285,7
+2800664696,Ying Su,Tsinghua University,ml_randoms,4,12,2,1,0,4,3,0,3,3,1,3,1
+2644957075,Fufang Li,Guangzhou University,ml_randoms,4,13,0,4,0,0,13,0,2,2,2,7,2
+2231635122,Natta Tammachat,King Mongkut's Institute of Technology Ladkrabang,ml_randoms,2,3,0,2,0,0,3,0,1,1,1,3,1
+2989615279,Sreena Nallamothu,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2553426738,Driss Allaki,,ml_randoms,5,9,2,2,0,8,1,0,2,2,1,2,1
+2216449423,P. Canet,Centre national de la recherche scientifique,ml_randoms,11,44,4,6,0,11,33,0,4,4,1,10,1
+2128009497,Ravinder Nath,University of Memphis,ml_randoms,31,704,26,0,0,699,0,0,11,11,2,155,2
+2435768874,Li Hao,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2740093663,Chi Zhang,University of Waterloo,ml_randoms,1,3,0,1,0,0,3,0,1,1,1,3,1
+2994758035,Kashif Hussain,University of Electronic Science and Technology of China,ml_randoms,2,0,1,1,0,0,0,0,0,0,1,0,0
+2921333187,Juan Pedro Altamirano Bernal,Panamerican University,ml_randoms,1,0,0,1,1,0,0,0,0,0,1,0,0
+2480151624,Kun Zhang,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2135199650,Dong-Won Han,Electronics and Telecommunications Research Institute,ml_randoms,35,282,8,4,0,19,25,0,9,9,1,9,1
+2514005047,Ying-Zhi Peng,South China Agricultural University,ml_randoms,2,2,0,2,0,0,2,0,1,1,1,0,0
+2346205485,Andrija Petrovic,University of Belgrade,ml_randoms,17,19,10,0,0,18,0,0,3,3,2,1,1
+2974785988,Zhang Wei,Huazhong University of Science and Technology,ml_randoms,3,4,0,1,0,0,0,0,1,1,1,0,0
+2224119556,Shengzhi Li,Sichuan University,ml_randoms,2,6,0,2,0,0,6,0,2,2,2,6,2
+2338976781,Chebg Yi,Rutgers University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+148621327,Alen Lovrenčić,University of Zagreb,ml_randoms,27,80,8,9,0,29,31,0,5,5,3,2,1
+2593227483,فرامرزی مهدی,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2750439306,Xing Hancheng,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2921569636,Kun Xie,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2675737137,Soeren Sonnenburg,,ml_randoms,1,5,0,0,0,0,0,0,1,1,1,5,1
+2898445800,Barbara Bower,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2045828431,Eiko Furutani,Kyoto University,ml_randoms,37,325,14,15,0,228,79,0,9,9,1,1,1
+2557241765,Sri Devi Ravana,University of Malaya,ml_randoms,55,261,27,13,3,216,42,36,9,8,6,13,1
+2783707012,Nicholas J. Witchey,,ml_randoms,5,4,0,0,0,0,0,0,1,1,1,4,1
+1988746879,Jastini Mohd Jamil,Universiti Utara Malaysia,ml_randoms,37,17,14,3,0,6,0,0,3,3,5,2,1
+282988445,Vuppuluri Sumati,Dayalbagh Educational Institute,ml_randoms,7,20,2,4,0,18,2,0,2,2,5,19,2
+2953374966,Ying Shen,Peking University,ml_randoms,4,58,1,2,0,54,1,0,2,2,2,1,1
+2767569028,GhanemMAl Ghamdi,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2782873403,Khalid Abdulnasser,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2647505207,D. Sbarbaro,Daimler AG,ml_randoms,1,7,1,0,0,7,0,0,1,1,1,7,1
+2976138192,Nor Haizan Mohamed Radzi,Universiti Teknologi Malaysia,ml_randoms,17,41,4,1,0,26,10,0,2,2,5,2,1
+2170784095,Mirza Waqar Baig,Eindhoven University of Technology,ml_randoms,9,64,0,8,0,0,64,0,5,5,2,20,2
+2239395016,Vitor Nogueira,University of Évora,ml_randoms,23,42,6,14,0,19,17,0,3,3,2,3,1
+2970966957,C. Giffhorn,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2018034244,Tobias Preis,University of Warwick,ml_randoms,56,3858,44,1,0,3808,1,0,26,26,1,23,1
+2799903899,MoeMoeKyi Win,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2401517264,M. O. Odetayo,Coventry University,ml_randoms,36,544,8,20,0,152,382,0,8,8,8,178,4
+2599835351,Giovanni Franzoni,CERN,ml_randoms,11,7,0,2,0,0,0,0,2,2,3,2,1
+2938031754,M. Takahide,,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2162181737,Alessandro Boccolini,Heriot-Watt University,ml_randoms,15,82,8,0,0,82,0,0,5,5,2,0,0
+2429926796,Zhihua Li,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2371781371,Zhou Rui-ping,Wuhan University of Technology,ml_randoms,3,7,2,1,0,0,7,0,1,1,1,7,1
+1277886999,Boyce Sigweni,Brunel University London,ml_randoms,7,42,0,6,0,0,42,0,5,5,4,25,3
+2100045349,紀一 山田,,ml_randoms,41,270,0,0,0,0,0,0,10,10,1,0,0
+2309738420,Xiaopei Liu,Tianjin University of Commerce,ml_randoms,7,2,0,5,0,0,2,0,1,1,2,1,1
+2912358756,Elmer Jhosban Cabanillas Martínez,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2620838079,Andrew Pomykalski,University of Virginia,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2607842130,Qing Zhong,Children's Medical Research Institute,ml_randoms,41,376,35,2,0,360,5,0,9,9,2,4,1
+2809670432,Christopher G. Owen,St. George's University,ml_randoms,8,20,1,0,0,1,0,0,2,2,1,1,1
+269227563,Adni,Shanghai Jiao Tong University,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+12197360,Pierre L. Dognin,IBM,ml_randoms,31,125,1,21,0,12,83,0,7,7,8,17,2
+2312027104,Amlan Kundu,Indian Institute of Technology Kharagpur,ml_randoms,5,725,4,2,0,696,29,0,6,6,1,241,1
+2366306501,He Yi,,ml_randoms,1,11,1,0,0,11,0,0,1,1,1,11,1
+2766449468,Zhifen Zhang,Xi'an Jiaotong University,ml_randoms,5,4,2,3,0,1,3,0,1,1,1,3,1
+2639695921,Servando Campillay Briones,University of Atacama,ml_randoms,5,1,2,2,0,1,0,0,1,1,2,0,0
+2009975736,Alexander Klenner,Fraunhofer Society,ml_randoms,5,38,3,2,0,30,8,0,3,3,1,4,1
+2835232630,Bulla Jan,,ml_randoms,12,0,0,0,0,0,0,0,0,0,1,0,0
+2133696733,Dong Ying Ju,Saitama Institute of Technology,ml_randoms,143,322,129,5,0,285,18,0,9,9,1,8,1
+2990175731,Junyi Ding,National University of Defense Technology,ml_randoms,2,0,0,2,0,0,0,0,0,0,2,0,0
+2922633288,Keith L. March,University of Florida,ml_randoms,26,40,10,1,0,37,0,0,2,2,1,0,0
+2319686035,Jianfeng Dong,,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2147057543,Jonathan A C Sterne,University of Bristol,ml_randoms,543,76479,393,5,7,69451,0,309,108,108,1,1,1
+2940546176,Emanuele Di Sotto,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2128753331,Yong Meng Teo,National University of Singapore,ml_randoms,125,1478,23,89,0,203,1201,0,17,17,1,3,1
+2903618634,Ge Jin,Peking University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2433251518,Adepu Ravi Sankar,"Indian Institute of Technology, Hyderabad",ml_randoms,7,12,0,4,0,0,9,0,2,2,3,5,2
+2037672403,Moran Amit,University of Texas MD Anderson Cancer Center,ml_randoms,119,1444,111,2,0,1435,9,0,20,20,1,1,1
+2503308749,Kung Ling-Chieh,National Taiwan University,ml_randoms,1,63,1,0,0,63,0,0,1,1,1,63,1
+2110460790,Inmaculada Leyva,Technical University of Madrid,ml_randoms,64,1198,57,1,0,1194,0,0,16,16,1,1,1
+2546647907,Joshua Song,University of Queensland,ml_randoms,5,13,0,5,0,0,13,0,1,1,1,1,1
+2772699943,Windania Purba,,ml_randoms,13,6,0,0,0,0,0,0,1,1,1,0,0
+2497668465,Tang Ping,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2496188600,Xiaochun Lv,,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2633120779,Tong Zhou,Tsinghua University,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+734696142,Wellington Aparecido Della Mura,,ml_randoms,5,4,0,4,0,0,4,0,1,1,2,0,0
+2227085362,Ooi Tian Hock Ooi Tian Hock,,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2435749112,Igor N. Rozenberg,,ml_randoms,11,45,1,10,0,11,34,0,5,5,1,0,0
+2665787515,Liuyuan Chen,Wuhan University of Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2895056945,Ronghan Li,Northwestern Polytechnical University,ml_randoms,3,0,2,1,0,0,0,0,0,0,1,0,0
+2748917407,Jianping Li,Jilin University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2661700439,Yong Wang,University of Auckland,ml_randoms,33,1930,25,5,0,625,84,0,10,10,5,1692,3
+2770100614,E.R. Davies,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2895645452,邱宏彬,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2289925030,Guido Baroni,Polytechnic University of Milan,ml_randoms,302,3470,241,20,1,3361,55,1,23,23,2,33,2
+2982534601,M. Agarwal,,ml_randoms,1,72,1,0,0,72,0,0,1,1,1,72,1
+2497187403,艶秋 車,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2350661735,Liu Hong-yi,Military Academy,ml_randoms,6,1,6,0,0,1,0,0,1,1,1,0,0
+2098708555,Cheng-Hsiung Chen,Kainan University,ml_randoms,3,60,1,2,0,58,2,0,2,2,1,58,1
+2887555218,Khairul Khairul,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+125202142,Gianluca Tasco,University of Bologna,ml_randoms,31,434,25,0,0,428,0,0,12,12,1,0,0
+2230151265,Jun-Yong Shi,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2669328389,Zvonimir Vanjak,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2794890240,Tracy Reuter,Princeton University,ml_randoms,5,8,4,0,0,8,0,0,2,2,1,0,0
+2998405708,CiaramellaAlessandro,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2947258501,David Parlett,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2182915361,R Adetoro,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2744410121,Yang Jar-Ferr,,ml_randoms,3,0,1,0,0,0,0,0,0,0,2,0,0
+2958082063,李净 Li Jing,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2426514367,Chen Hao,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2643953307,Wei Wang,,ml_randoms,1,1,0,1,0,0,1,0,1,1,1,1,1
+2274760704,Juho Lauri,Bell Labs,ml_randoms,21,55,7,9,0,21,24,0,4,4,2,2,1
+2169651652,Robert Jones,Purdue University,ml_randoms,5,10,1,3,0,5,5,0,2,2,1,5,1
+2295711303,Feng Liu,Wuhan University,ml_randoms,2,0,2,0,0,0,0,0,0,0,2,0,0
+2949377062,Ryohei Fujimaki,,ml_randoms,6,81,0,6,0,0,62,0,6,6,4,31,4
+2781626532,WilberthManuel CamasZetina,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2295168,Victoria A. Saab,United States Forest Service,ml_randoms,74,3384,53,0,0,2505,0,0,26,26,2,1,1
+2822203507,Bin Li,Ehime University,ml_randoms,7,11,4,0,0,11,0,0,2,2,1,0,0
+2700271690,Jack A. Tuszynski,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2148077622,Benjamin A. Lewis,Iowa State University,ml_randoms,5,223,4,1,0,220,3,0,4,4,1,73,1
+3000003925,MoncefTemani,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2516680256,Farooq Aftab,University of Science and Technology Beijing,ml_randoms,9,22,7,2,1,19,3,0,3,3,1,3,1
+2806303825,Arne A. Nilsson,,ml_randoms,3,15,0,0,0,0,0,0,1,1,1,1,1
+2747064691,Heinrich Küttler,Facebook,ml_randoms,4,288,0,0,0,0,0,0,3,3,4,288,3
+2485428392,朱定局,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2788988481,Ron Pilette,John Jay College of Criminal Justice,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1995171814,David A. Helweg,University of Hawaii at Manoa,ml_randoms,27,209,19,4,0,190,18,0,9,9,2,3,1
+2165099860,I-hun Song,Samsung,ml_randoms,161,7642,43,13,0,3068,420,0,35,35,1,0,0
+2169098445,Katharine Brigham,Durham University,ml_randoms,16,268,4,11,0,23,245,0,6,6,1,2,1
+2943867551,Samah Alajmani,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2015909893,Herbert Schweikl,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2119274691,Geoff Underwood,University of Nottingham,ml_randoms,3,12,1,1,0,3,8,0,2,2,2,9,1
+2973825540,Wolfgang Eppler,Karlsruhe Institute of Technology,ml_randoms,4,0,0,1,0,0,0,0,0,0,2,0,0
+2256853625,Zhongmei Zhou,Zhejiang University,ml_randoms,8,290,3,7,0,229,61,0,5,5,2,6,2
+2581084228,Esther Levin,Technion – Israel Institute of Technology,ml_randoms,3,87,3,0,0,87,0,0,2,2,3,87,2
+2937209694,E. Shmalko,,ml_randoms,1,1,1,0,0,1,0,0,1,1,1,1,1
+2479358016,Liu Xiao-fang,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2683549936,Guanglei Qi,,ml_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+2235817953,Thomas Berg,Columbia University,ml_randoms,8,646,0,4,0,0,634,0,5,5,1,108,1
+2615246930,Masashi Sugiyama,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2811234766,Xavier Golay,UCL Institute of Neurology,ml_randoms,198,10093,128,0,0,10020,0,0,54,54,1,1,1
+2752882655,Giuseppe Jordão,University of Porto,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2295721339,Cihan Tepedelenlioǧlu,Arizona State University,ml_randoms,1,2,1,0,0,2,0,0,1,1,1,2,1
+2141311871,Srinivasa P Pai,N.M.A.M. Institute of Technology,ml_randoms,21,43,2,0,0,11,0,0,4,4,1,0,0
+2998679303,ShiLin,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2889452158,Jie Tang,Central South University,ml_randoms,2,32,2,0,0,32,0,0,2,2,1,28,1
+2557816544,Rola Dali,McGill University,ml_randoms,12,172,9,0,0,169,0,0,6,6,1,0,0
+2853154881,Zhao Zhongqiu,,ml_randoms,8,20,0,0,0,0,0,0,2,2,1,1,1
+2782917150,Laila Māra Rizoto-Vidala-Pesoa,Cabot Corporation,ml_randoms,2,0,2,0,0,0,0,0,0,0,1,0,0
+2705108633,Li Xian,Tongji University,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2967743245,Joshua Ryan Smith,,ml_randoms,1,8,0,0,0,0,0,0,1,1,1,8,1
+2889131675,Guanbin Li,Sun Yat-sen University,ml_randoms,64,1689,15,37,0,238,1244,0,17,17,34,156,6
+1984886535,Matthew Rosencrantz,Carnegie Mellon University,ml_randoms,2,183,0,2,0,0,183,0,2,2,1,108,1
+2622087150,Bin Li,Louisiana State University,ml_randoms,83,1442,60,10,0,1175,225,0,19,19,6,6,1
+2311233276,Andreas Palialexis,University of Crete,ml_randoms,25,824,19,1,0,818,1,0,15,15,1,7,1
+2497294345,Xuemei Zhao,,ml_randoms,1,1,0,0,0,0,0,0,1,1,1,1,1
+2677605344,Ming Ke,National University of Defense Technology,ml_randoms,3,39,2,1,0,33,6,0,3,3,1,3,1
+2974269296,A.S. Willsky,,ml_randoms,1,28,0,1,0,0,28,0,1,1,1,28,1
+1972860027,Toyohiko Hirota,Kyushu Sangyo University,ml_randoms,15,6,7,4,0,2,4,0,2,2,1,0,0
+2962686290,Petr Bělohlávek,,ml_randoms,1,2,0,0,0,0,0,0,1,1,1,2,1
+2477770660,Fabrizio Pizzagalli,University of Southern California,ml_randoms,19,488,7,5,0,392,13,0,7,7,2,271,2
+2715471135,SongJie Gong,,ml_randoms,1,12,0,1,0,0,12,0,1,1,1,12,1
+2998840217,Nguyen Anh Tu,Nazarbayev University,ml_randoms,6,0,0,2,0,0,0,0,0,0,1,0,0
+2040238056,Jens Schouenborg,Lund University,ml_randoms,143,5310,87,10,1,4855,45,166,41,40,1,1,1
+2512126637,E. A. Borisenko,,ml_randoms,1,4,1,0,0,4,0,0,1,1,1,4,1
+2721581490,Alan Crivellaro,,ml_randoms,2,0,0,2,0,0,0,0,0,0,2,0,0
+2949092243,Lixin Duan,University of Electronic Science and Technology of China,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2156855240,Matthew Caldwell,University College London,ml_randoms,15,412,12,0,0,408,0,0,6,6,1,4,1
+2050611446,Juliana Freire Gutmann,Federal University of Bahia,ml_randoms,13,4,4,2,0,4,0,0,1,1,2,0,0
+2304507824,Yan Jiang,Hubei University of Medicine,ml_randoms,2,0,0,2,0,0,0,0,0,0,1,0,0
+1982553649,Marzia Blaco,University of Salento,ml_randoms,5,47,5,0,0,47,0,0,3,3,1,7,1
+2691292073,Priyanka Saini,,ml_randoms,4,4,2,0,0,3,0,0,1,1,1,0,0
+2689714885,HU Huajun,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2928561966,Ruiying Geng,Alibaba Group,ml_randoms,2,4,0,1,0,0,0,0,2,2,1,2,1
+2227022665,Jingpu Ren,Electronics and Telecommunications Research Institute,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2784368558,Tzy-Yih Hsiao,Feng Chia University,ml_randoms,2,5,2,0,0,5,0,0,1,1,1,5,1
+2148646550,A.F. Nejad,University of New South Wales,ml_randoms,3,21,0,3,0,0,21,0,3,3,3,21,3
+2801300525,Hamid Berenji,NASA Research Park,ml_randoms,3,7,0,3,0,0,7,0,1,1,3,7,1
+2168080874,Kelly Jean Sutton,University of Nottingham,ml_randoms,2,12,3,0,0,12,0,0,2,2,1,0,0
+2749374952,히라오까가즈꾸니,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2171809513,Qi Zhu,National University of Defense Technology,ml_randoms,17,158,3,14,0,93,65,0,5,5,1,1,1
+2039122340,Bettina Biel,University of Duisburg-Essen,ml_randoms,7,94,3,4,0,83,11,0,3,3,1,2,1
+2222334277,Lu Chen,Huazhong University of Science and Technology,ml_randoms,54,802,45,0,0,781,0,0,17,17,1,9,1
+2688582419,Weiwei Fang,University of Science and Technology Beijing,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2188225021,Engenharia Electrotécnica,,ml_randoms,5,0,0,0,0,0,0,0,0,0,1,0,0
+2687120645,Taha Elhag,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2609796702,Jinseub Hwang,Daegu University,ml_randoms,26,217,25,0,0,217,0,0,6,6,1,0,0
+2926558489,Chen Yuhang,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2138635682,Bonsang Koo,Seoul National University of Science and Technology,ml_randoms,51,1097,43,0,2,395,0,0,9,9,3,5,2
+2898153633,Aminul Islam Anik,BRAC University,ml_randoms,2,0,0,1,0,0,0,0,0,0,2,0,0
+692310825,David Ríos Insua,King Juan Carlos University,ml_randoms,111,2279,38,6,0,1356,18,0,20,20,13,317,4
+2981363893,Kristine Back,Bosch,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2488880944,Anping Chen,,ml_randoms,1,3,0,0,0,0,0,0,1,1,1,3,1
+2712075725,Yun Wen Chen,Fudan University,ml_randoms,1,93,0,1,0,0,93,0,1,1,1,93,1
+2432163080,Sun Yan,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+1968355119,Peter O. Ajemba,University of Alberta,ml_randoms,15,104,9,4,0,65,31,0,5,5,2,24,1
+2790515914,Naotake Kamiura,University of Hyogo,ml_randoms,26,211,8,17,0,158,50,0,7,7,9,42,3
+2524209492,Aglaé Jézéquel,Centre national de la recherche scientifique,ml_randoms,14,46,8,0,0,35,0,0,4,4,1,0,0
+1913869424,Yaniv Romano,Technion – Israel Institute of Technology,ml_randoms,30,816,14,9,1,662,90,22,13,13,8,87,5
+2188460924,A V Katsuk,,ml_randoms,1,0,0,0,0,0,0,0,0,0,1,0,0
+2939485322,H S Chi,,ml_randoms,2,3,0,2,0,0,3,0,1,1,2,3,1
+2720071224,Zhong Yao,Beihang University,ml_randoms,1,2,0,1,0,0,2,0,1,1,1,2,1
+2689838431,Jozef Ulicny,,ml_randoms,2,2,1,0,0,2,0,0,1,1,1,2,1
+2682770919,Kristóf Gáti,Budapest University of Technology and Economics,ml_randoms,2,5,0,2,0,0,5,0,1,1,2,5,1
+2052998769,Christopher M. Barkley,University of Minnesota,ml_randoms,11,215,9,0,0,215,0,0,5,5,1,72,1
+2411668726,Joshua Snoke,Pennsylvania State University,ml_randoms,10,17,2,2,1,4,4,0,3,3,2,8,2
+2431490433,Jia-Wen Tung,National Tsing Hua University,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2949457390,Angshuman Chakrabartty,,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2890613182,Sarthak Babbar,Jaypee Institute of Information Technology,ml_randoms,2,1,0,1,0,0,1,0,1,1,1,0,0
+1857597607,David Drolet,Mount Allison University,ml_randoms,29,451,29,0,0,451,0,0,13,13,1,1,1
+2224643273,Jana Goers,,ml_randoms,5,4,0,3,0,0,3,0,1,1,1,0,0
+2793531033,Rushikesh Nalla,Indian Institute of Chemical Technology,ml_randoms,1,0,0,1,0,0,0,0,0,0,1,0,0
+2900866386,Riyu Bana,Jaypee Institute of Information Technology,ml_randoms,2,2,1,1,0,0,2,0,1,1,1,0,0
+2639334327,Jian Zhou,Capital Medical University,ml_randoms,31,82,26,0,0,77,0,0,6,6,1,4,1
+2722786870,Xing Fang,Wuhan University,ml_randoms,1,9,1,0,1,9,0,9,1,0,1,9,1
+2910204745,Andreas Duenser,Commonwealth Scientific and Industrial Research Organisation,ml_randoms,2,0,0,1,0,0,0,0,0,0,1,0,0
+2998172296,LiTao,,ml_randoms,1,0,1,0,0,0,0,0,0,0,1,0,0
+2077983098,Christos Dimitrakopoulos,University of Patras,ml_randoms,23,124,12,6,1,108,11,23,6,6,9,31,4
+2493762609,Wenhua Xu,Ocean University of China,ml_randoms,2,3,0,1,0,0,3,0,1,1,1,3,1
